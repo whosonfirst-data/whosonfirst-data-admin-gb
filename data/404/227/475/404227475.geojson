@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.801536,
-    "geom:area_square_m":21165661436.131184,
+    "geom:area_square_m":21165661436.131149,
     "geom:bbox":"-5.321998,51.3799095,-2.650083,53.431442",
     "geom:latitude":52.336717,
     "geom:longitude":-3.76532,
@@ -14,9 +14,6 @@
     "mz:is_current":1,
     "name:afr_x_preferred":[
         "Wallis"
-    ],
-    "name:alb_x_preferred":[
-        "Uellsi"
     ],
     "name:amh_x_preferred":[
         "\u12cc\u120d\u1235"
@@ -29,9 +26,6 @@
     ],
     "name:arg_x_preferred":[
         "Galas"
-    ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0565\u056c\u057d"
     ],
     "name:arz_x_preferred":[
         "\u0648\u064a\u0644\u0632"
@@ -47,9 +41,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0423\u044d\u043b\u044c\u0441"
-    ],
-    "name:baq_x_preferred":[
-        "Gales"
     ],
     "name:bar_x_preferred":[
         "Wales"
@@ -72,9 +63,6 @@
     "name:bul_x_preferred":[
         "\u0423\u0435\u043b\u0441"
     ],
-    "name:bur_x_preferred":[
-        "\u101d\u1031\u101c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
-    ],
     "name:bxr_x_preferred":[
         "\u0423\u044d\u043b\u044c\u0441"
     ],
@@ -84,11 +72,11 @@
     "name:cdo_x_preferred":[
         "\u016ci-\u012b-s\u00ea\u0324\u1e73"
     ],
+    "name:ces_x_preferred":[
+        "Wales"
+    ],
     "name:che_x_preferred":[
         "\u0423\u044d\u043b\u044c\u0441"
-    ],
-    "name:chi_x_preferred":[
-        "\u5a01\u723e\u65af"
     ],
     "name:chv_x_preferred":[
         "\u0423\u044d\u043b\u044c\u0441"
@@ -105,17 +93,20 @@
     "name:csb_x_preferred":[
         "Walij\u00f4"
     ],
-    "name:cze_x_preferred":[
-        "Wales"
+    "name:cym_x_preferred":[
+        "Cymru"
     ],
     "name:dan_x_preferred":[
+        "Wales"
+    ],
+    "name:deu_x_preferred":[
         "Wales"
     ],
     "name:dsb_x_preferred":[
         "Wales"
     ],
-    "name:dut_x_preferred":[
-        "Wales"
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b1\u03bb\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Wales"
@@ -126,28 +117,28 @@
     "name:est_x_preferred":[
         "Wales"
     ],
+    "name:eus_x_preferred":[
+        "Gales"
+    ],
     "name:ext_x_preferred":[
         "Galis"
     ],
     "name:fao_x_preferred":[
         "Wales"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0632"
+    ],
     "name:fin_x_preferred":[
         "Wales"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pays de Galles"
     ],
     "name:frr_x_preferred":[
         "Wales"
     ],
     "name:fry_x_preferred":[
-        "Wales"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d4\u10da\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Wales"
     ],
     "name:gla_x_preferred":[
@@ -164,9 +155,6 @@
     ],
     "name:gom_x_preferred":[
         "\u0935\u0947\u0932\u094d\u0938"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b1\u03bb\u03af\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Wales"
@@ -195,8 +183,8 @@
     "name:hun_x_preferred":[
         "Wales"
     ],
-    "name:ice_x_preferred":[
-        "Wales"
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0565\u056c\u057d"
     ],
     "name:ido_x_preferred":[
         "Wals"
@@ -211,6 +199,9 @@
         "Galles"
     ],
     "name:ind_x_preferred":[
+        "Wales"
+    ],
+    "name:isl_x_preferred":[
         "Wales"
     ],
     "name:ita_x_preferred":[
@@ -233,6 +224,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cc7\u0cb2\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d4\u10da\u10e1\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0423\u044d\u043b\u044c\u0441"
@@ -279,23 +273,26 @@
     "name:ltz_x_preferred":[
         "Wales"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0435\u043b\u0441"
-    ],
     "name:mal_x_preferred":[
         "\u0d35\u0d47\u0d7d\u0d38\u0d4d"
-    ],
-    "name:mao_x_preferred":[
-        "W\u0113ra"
     ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0932\u094d\u0938"
     ],
-    "name:may_x_preferred":[
-        "Wales"
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0441"
     ],
     "name:mon_x_preferred":[
         "\u0423\u044d\u043b\u044c\u0441"
+    ],
+    "name:mri_x_preferred":[
+        "W\u0113ra"
+    ],
+    "name:msa_x_preferred":[
+        "Wales"
+    ],
+    "name:mya_x_preferred":[
+        "\u101d\u1031\u101c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:mzn_x_preferred":[
         "\u0648\u0644\u0632"
@@ -311,6 +308,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0935\u0947\u0932\u094d\u0938"
+    ],
+    "name:nld_x_preferred":[
+        "Wales"
     ],
     "name:nno_x_preferred":[
         "Wales"
@@ -333,9 +333,6 @@
     "name:pan_x_preferred":[
         "\u0a35\u0a47\u0a32\u0a1c\u0a3c"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0632"
-    ],
     "name:pih_x_preferred":[
         "Waals"
     ],
@@ -357,7 +354,7 @@
     "name:roh_x_preferred":[
         "Valisa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u021aara Galilor"
     ],
     "name:rup_x_preferred":[
@@ -378,7 +375,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0dda\u0dbd\u0dca\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Wales"
     ],
     "name:slv_x_preferred":[
@@ -401,6 +398,9 @@
     ],
     "name:spa_x_preferred":[
         "Gales"
+    ],
+    "name:sqi_x_preferred":[
+        "Uellsi"
     ],
     "name:srd_x_preferred":[
         "Galles"
@@ -483,9 +483,6 @@
     "name:war_x_preferred":[
         "Wales"
     ],
-    "name:wel_x_preferred":[
-        "Cymru"
-    ],
     "name:wuu_x_preferred":[
         "\u5a01\u5c14\u58eb"
     ],
@@ -506,6 +503,9 @@
     ],
     "name:zea_x_preferred":[
         "Wales"
+    ],
+    "name:zho_x_preferred":[
+        "\u5a01\u723e\u65af"
     ],
     "name:zul_x_preferred":[
         "IWelisi"
@@ -550,7 +550,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1529539715,
+    "wof:lastmodified":1561838158,
     "wof:name":"Wales",
     "wof:parent_id":85633159,
     "wof:placetype":"macroregion",

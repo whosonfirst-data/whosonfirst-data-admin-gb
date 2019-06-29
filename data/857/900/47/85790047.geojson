@@ -28,38 +28,38 @@
     "mz:note":"dup of Richmond upon thames",
     "mz:tier_locality":7,
     "mz:tier_metro":1,
-    "name:arm_x_preferred":[
-        "\u054c\u056b\u0579\u0574\u0578\u0576\u0564"
-    ],
     "name:cat_x_preferred":[
         "Richmond"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u5947\u8499"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Richmond"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
+        "Richmond upon Thames"
+    ],
+    "name:deu_x_preferred":[
         "Richmond"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03c4\u03c3\u03bc\u03bf\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Richmond"
     ],
-    "name:fre_x_preferred":[
-        "Richmond"
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0686\u0645\u0648\u0646\u062f\u060c \u0644\u0646\u062f\u0646"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Richmond"
     ],
     "name:gle_x_preferred":[
         "Richmond"
     ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03af\u03c4\u03c3\u03bc\u03bf\u03bd\u03c4"
-    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d9\u05e6'\u05de\u05d5\u05e0\u05d3"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u0579\u0574\u0578\u0576\u0564"
     ],
     "name:ita_x_preferred":[
         "Richmond"
@@ -73,14 +73,14 @@
     "name:lat_x_preferred":[
         "Richmondia ad Tamesim"
     ],
+    "name:nld_x_preferred":[
+        "Richmond"
+    ],
     "name:nno_x_preferred":[
         "Richmond upon Thames"
     ],
     "name:nob_x_preferred":[
         "Richmond upon Thames"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0686\u0645\u0648\u0646\u062f\u060c \u0644\u0646\u062f\u0646"
     ],
     "name:pol_x_preferred":[
         "Richmond"
@@ -109,11 +109,11 @@
     "name:vie_x_preferred":[
         "Richmond"
     ],
-    "name:wel_x_preferred":[
-        "Richmond upon Thames"
-    ],
     "name:zho_x_preferred":[
         "\u91cc\u9f50\u8499\u5f97"
+    ],
+    "name:zho_x_variant":[
+        "\u91cc\u5947\u8499"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
@@ -151,12 +151,12 @@
     "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857311
+        1158857311,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,7 +184,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206373,
+    "wof:lastmodified":1561837791,
     "wof:name":"Richmond",
     "wof:parent_id":1158857311,
     "wof:placetype":"neighbourhood",
