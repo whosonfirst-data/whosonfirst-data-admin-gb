@@ -31,9 +31,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0642\u0628"
     ],
-    "name:baq_x_preferred":[
-        "Barbican Estate"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u043a\u0430\u043d"
     ],
@@ -49,13 +46,10 @@
     "name:ces_x_preferred":[
         "Barbak\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u6bd4\u80af\u5c4b\u6751"
-    ],
     "name:deu_x_preferred":[
         "Barbakane"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Barbican Estate"
     ],
     "name:eng_x_preferred":[
@@ -67,14 +61,14 @@
     "name:est_x_preferred":[
         "Barbakaan"
     ],
+    "name:eus_x_preferred":[
+        "Barbican Estate"
+    ],
     "name:fra_x_preferred":[
         "Barbacane"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "domaine de Barbican"
-    ],
-    "name:ger_x_preferred":[
-        "Barbican Estate"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d1\u05d9\u05e7\u05df"
@@ -117,6 +111,9 @@
     ],
     "name:nld_x_preferred":[
         "Barbacane"
+    ],
+    "name:nld_x_variant":[
+        "Barbican Estate"
     ],
     "name:nob_x_preferred":[
         "Barbican"
@@ -162,7 +159,8 @@
         "\u74ee\u57ce"
     ],
     "name:zho_x_variant":[
-        "\u5df4\u6bd4\u80af"
+        "\u5df4\u6bd4\u80af",
+        "\u5df4\u6bd4\u80af\u5c4b\u6751"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPLX",
@@ -199,12 +197,12 @@
     "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857257
+        1158857257,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -231,7 +229,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206404,
+    "wof:lastmodified":1561837829,
     "wof:name":"Barbican",
     "wof:parent_id":1158857257,
     "wof:placetype":"neighbourhood",

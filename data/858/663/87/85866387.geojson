@@ -31,12 +31,6 @@
     "name:ara_x_preferred":[
         "\u0648\u0633\u062a\u0645\u0646\u0633\u062a\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u057d\u057f\u0574\u056b\u0576\u057d\u057f\u0565\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Westminster"
-    ],
     "name:bel_x_preferred":[
         "\u0412\u044d\u0441\u0442\u043c\u0456\u043d\u0441\u0442\u044d\u0440"
     ],
@@ -49,20 +43,23 @@
     "name:cat_x_preferred":[
         "Westminster"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u654f"
+    "name:ces_x_preferred":[
+        "Westminster"
     ],
     "name:cor_x_preferred":[
         "Westminster"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Westminster"
     ],
     "name:dan_x_preferred":[
         "Westminster"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Westminster"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b5\u03c3\u03c4\u03bc\u03af\u03bd\u03c3\u03c4\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Westminster"
@@ -73,23 +70,23 @@
     "name:epo_x_preferred":[
         "Westminster"
     ],
+    "name:eus_x_preferred":[
+        "Westminster"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0633\u062a\u200c\u0645\u06cc\u0646\u0633\u062a\u0631"
+    ],
     "name:fin_x_preferred":[
         "Westminster"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Westminster"
     ],
     "name:fry_x_preferred":[
         "Westminster"
     ],
-    "name:ger_x_preferred":[
-        "Westminster"
-    ],
     "name:gle_x_preferred":[
         "Westminster"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b5\u03c3\u03c4\u03bc\u03af\u03bd\u03c3\u03c4\u03b5\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae\u0aae\u0abf\u0aa8\u0acd\u0ab8\u0acd\u0a9f\u0ab0"
@@ -103,7 +100,10 @@
     "name:hun_x_preferred":[
         "Westminster"
     ],
-    "name:ice_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u057d\u057f\u0574\u056b\u0576\u057d\u057f\u0565\u0580"
+    ],
+    "name:isl_x_preferred":[
         "Westminster"
     ],
     "name:ita_x_preferred":[
@@ -127,10 +127,13 @@
     "name:lit_x_preferred":[
         "Vestminsteris"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0412\u0435\u0441\u0442\u043c\u0438\u043d\u0441\u0442\u0435\u0440"
     ],
     "name:mlg_x_preferred":[
+        "Westminster"
+    ],
+    "name:nld_x_preferred":[
         "Westminster"
     ],
     "name:nno_x_preferred":[
@@ -141,9 +144,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a35\u0a48\u0a38\u0a1f\u0a2e\u0a3f\u0a70\u0a38\u0a1f\u0a30"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0633\u062a\u200c\u0645\u06cc\u0646\u0633\u062a\u0631"
     ],
     "name:pol_x_preferred":[
         "Westminster"
@@ -157,7 +157,7 @@
     "name:sco_x_preferred":[
         "Wastmeenster"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Westminster"
     ],
     "name:slv_x_preferred":[
@@ -196,9 +196,6 @@
     "name:vie_x_preferred":[
         "Westminster"
     ],
-    "name:wel_x_preferred":[
-        "Westminster"
-    ],
     "name:yor_x_preferred":[
         "Westminster"
     ],
@@ -207,6 +204,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5a01\u65af\u654f\u65af\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u897f\u654f"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
@@ -267,7 +267,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270480,
+    "wof:lastmodified":1561837829,
     "wof:name":"Westminster",
     "wof:parent_id":101750367,
     "wof:placetype":"neighbourhood",

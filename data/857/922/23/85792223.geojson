@@ -25,19 +25,10 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":7,
     "mz:tier_metro":1,
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0574\u0583\u057d\u0569\u0565\u0564 \u0533\u0561\u0580\u0564\u0565\u0576 \u0561\u0580\u057e\u0561\u0580\u0571\u0561\u0576"
-    ],
-    "name:chi_x_preferred":[
-        "\u6f22\u666e\u65af\u63d0\u5f97\u82b1\u5712\u90ca\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Hampstead Garden Suburb"
-    ],
     "name:eng_x_preferred":[
         "Hampstead Garden Suburb"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hampstead Garden Suburb"
     ],
     "name:gle_x_preferred":[
@@ -52,6 +43,9 @@
     "name:hin_x_preferred":[
         "\u0939\u0948\u092e\u094d\u092a\u0938\u094d\u091f\u0947\u0921 \u0917\u093e\u0930\u094d\u0921\u0928 \u0938\u092c\u0930\u094d\u092c"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0574\u0583\u057d\u0569\u0565\u0564 \u0533\u0561\u0580\u0564\u0565\u0576 \u0561\u0580\u057e\u0561\u0580\u0571\u0561\u0576"
+    ],
     "name:ilo_x_preferred":[
         "Hampstead Garden Suburb"
     ],
@@ -61,11 +55,17 @@
     "name:ltz_x_preferred":[
         "Hampstead Garden Suburb"
     ],
+    "name:nld_x_preferred":[
+        "Hampstead Garden Suburb"
+    ],
     "name:slv_x_preferred":[
         "Hampstead Garden"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u06cc\u0645\u0633\u0679\u06cc\u0688 \u06af\u0627\u0631\u0688\u0646 \u0633\u0628\u0631\u0628"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f22\u666e\u65af\u63d0\u5f97\u82b1\u5712\u90ca\u5340"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
@@ -97,12 +97,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":1339,
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857285
+        1158857285,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206387,
+    "wof:lastmodified":1561837802,
     "wof:name":"Hampstead Garden Suburb",
     "wof:parent_id":1158857285,
     "wof:placetype":"neighbourhood",

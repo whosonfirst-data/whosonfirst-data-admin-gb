@@ -28,9 +28,6 @@
     "name:afr_x_preferred":[
         "Hampstead"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0574\u0583\u057d\u0569\u0565\u0564"
-    ],
     "name:aze_x_preferred":[
         "Hampsted"
     ],
@@ -40,16 +37,16 @@
     "name:cat_x_preferred":[
         "Hampstead"
     ],
-    "name:chi_x_preferred":[
-        "\u6c49\u666e\u65af\u7279\u5f97"
+    "name:ces_x_preferred":[
+        "Hampstead"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Hampstead"
     ],
     "name:dan_x_preferred":[
         "Hampstead"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hampstead"
     ],
     "name:eng_x_preferred":[
@@ -58,16 +55,13 @@
     "name:est_x_preferred":[
         "Hampstead"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0645\u067e\u0633\u062a\u06cc\u062f"
+    ],
     "name:fin_x_preferred":[
         "Hampstead"
     ],
-    "name:fre_x_preferred":[
-        "Hampstead"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10db\u10e4\u10e1\u10e2\u10d4\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hampstead"
     ],
     "name:gle_x_preferred":[
@@ -79,17 +73,26 @@
     "name:hun_x_preferred":[
         "Hampstead"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0574\u0583\u057d\u0569\u0565\u0564"
+    ],
     "name:ita_x_preferred":[
         "Hampstead"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30e0\u30b9\u30c6\u30c3\u30c9"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10db\u10e4\u10e1\u10e2\u10d4\u10d3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud584\uc2a4\ud14c\ub4dc"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0425\u0435\u043c\u043f\u0441\u0442\u0435\u0434"
+    ],
+    "name:nld_x_preferred":[
+        "Hampstead"
     ],
     "name:nno_x_preferred":[
         "Hampstead"
@@ -99,9 +102,6 @@
     ],
     "name:oci_x_preferred":[
         "Hampstead"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0645\u067e\u0633\u062a\u06cc\u062f"
     ],
     "name:pol_x_preferred":[
         "Hampstead"
@@ -136,11 +136,11 @@
     "name:vie_x_preferred":[
         "Hampstead"
     ],
-    "name:wel_x_preferred":[
-        "Hampstead"
-    ],
     "name:zho_x_preferred":[
         "\u6c49\u666e\u65af\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u6c49\u666e\u65af\u7279\u5f97"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
@@ -176,12 +176,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857277
+        1158857277,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -207,7 +207,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206359,
+    "wof:lastmodified":1561837806,
     "wof:name":"Hampstead",
     "wof:parent_id":1158857277,
     "wof:placetype":"neighbourhood",

@@ -19,12 +19,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0643\u0627\u0631\u0628\u0648\u0631\u0648\u060c \u0634\u0645\u0627\u0644 \u064a\u0648\u0631\u0643\u0634\u0627\u064a\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056f\u0561\u0580\u0562\u0578\u0580\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Scarborough"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u043a\u0430\u0440\u0431\u0430\u0440\u0430"
     ],
@@ -37,14 +31,17 @@
     "name:cat_x_preferred":[
         "Scarborough"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5361\u5e03\u7f85"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Scarborough"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Scarborough"
+    ],
+    "name:deu_x_preferred":[
+        "Scarborough"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03ac\u03c1\u03bc\u03c0\u03bf\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Scarborough"
@@ -52,23 +49,23 @@
     "name:epo_x_preferred":[
         "Scarborough"
     ],
+    "name:eus_x_preferred":[
+        "Scarborough"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u06a9\u0627\u0631\u0628\u0631\u0648\u060c \u06cc\u0648\u0631\u06a9\u200c\u0634\u0631 \u0634\u0645\u0627\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Scarborough"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Scarborough"
     ],
     "name:fry_x_preferred":[
         "Scarborough"
     ],
-    "name:ger_x_preferred":[
-        "Scarborough"
-    ],
     "name:gle_x_preferred":[
         "Scarborough"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ba\u03ac\u03c1\u03bc\u03c0\u03bf\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a95\u0abe\u0ab0\u0aac\u0acb\u0ab0\u0acb"
@@ -81,6 +78,9 @@
     ],
     "name:hun_x_preferred":[
         "Scarborough"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056f\u0561\u0580\u0562\u0578\u0580\u0578"
     ],
     "name:ita_x_preferred":[
         "Scarborough"
@@ -106,8 +106,11 @@
     "name:ltz_x_preferred":[
         "Scarborough"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u043a\u0430\u0440\u0431\u043e\u0440\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Scarborough"
     ],
     "name:nno_x_preferred":[
         "Scarborough"
@@ -118,16 +121,13 @@
     "name:oci_x_preferred":[
         "Scarborough"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u06a9\u0627\u0631\u0628\u0631\u0648\u060c \u06cc\u0648\u0631\u06a9\u200c\u0634\u0631 \u0634\u0645\u0627\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Scarborough"
     ],
     "name:por_x_preferred":[
         "Scarborough"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Scarborough"
     ],
     "name:rus_x_preferred":[
@@ -163,8 +163,8 @@
     "name:vol_x_preferred":[
         "Scarborough"
     ],
-    "name:wel_x_preferred":[
-        "Scarborough"
+    "name:zho_x_preferred":[
+        "\u65af\u5361\u5e03\u7f85"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"United Kingdom",
@@ -287,7 +287,7 @@
         }
     ],
     "wof:id":1141906979,
-    "wof:lastmodified":1534379328,
+    "wof:lastmodified":1561838873,
     "wof:name":"Scarborough",
     "wof:parent_id":404442619,
     "wof:placetype":"locality",
