@@ -26,6 +26,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:bel_x_preferred":[
+        "\u0423\u0456\u0442\u044b\u043d\u0433\u0442\u0430\u043d"
+    ],
     "name:cat_x_preferred":[
         "Withington"
     ],
@@ -38,11 +41,20 @@
     "name:gle_x_preferred":[
         "Withington"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d9\u05ea\u05e0\u05d2\u05d8\u05d5\u05df"
+    ],
     "name:nld_x_preferred":[
         "Withington"
     ],
     "name:pol_x_preferred":[
         "Withington"
+    ],
+    "name:pol_x_variant":[
+        "Woodmansterne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0438\u0442\u0438\u043d\u0433\u0442\u043e\u043d"
     ],
     "name:unk_x_variant":[
         "Withington"
@@ -78,12 +90,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":3361,
     "wof:belongsto":[
-        1360698555,
         102191581,
         85633159,
         404227469,
         101750525,
-        1360698893
+        1360698893,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542399061,
+    "wof:lastmodified":1563332163,
     "wof:name":"Withington",
     "wof:parent_id":101750525,
     "wof:placetype":"neighbourhood",

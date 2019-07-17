@@ -2,8 +2,8 @@
   "id": 101750367,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2043-01-01",
-    "date:inception_upper":"2043-12-31",
+    "date:inception_lower":"0043-01-01",
+    "date:inception_upper":"0043-12-31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"0043~",
     "geom:area":0.206467,
@@ -46,9 +46,6 @@
     "name:ara_x_preferred":[
         "\u0644\u0646\u062f\u0646"
     ],
-    "name:ara_x_variant":[
-        "\u0644\u0646\u062f\u0646"
-    ],
     "name:arc_x_preferred":[
         "\u0720\u0718\u0722\u0715\u0718\u0722"
     ],
@@ -60,6 +57,9 @@
     ],
     "name:ast_x_preferred":[
         "Londres"
+    ],
+    "name:ava_x_preferred":[
+        "\u041b\u043e\u043d\u0434\u043e\u043d"
     ],
     "name:aym_x_preferred":[
         "London"
@@ -86,10 +86,14 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u043e\u043d\u0434\u0430\u043d"
     ],
     "name:bel_x_variant":[
-        "\u041b\u0451\u043d\u0434\u0430\u043d"
+        "\u041b\u0451\u043d\u0434\u0430\u043d",
+        "\u041b\u043e\u043d\u0434\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09a8\u09cd\u09a1\u09a8"
+    ],
+    "name:bho_x_preferred":[
+        "\u0932\u0902\u0926\u0928"
     ],
     "name:bih_x_preferred":[
         "\u0932\u0902\u0926\u0928"
@@ -105,6 +109,9 @@
     ],
     "name:bre_x_preferred":[
         "Londrez"
+    ],
+    "name:brh_x_preferred":[
+        "Landan"
     ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d"
@@ -154,6 +161,9 @@
     "name:csb_x_preferred":[
         "Londin"
     ],
+    "name:csb_x_variant":[
+        "London"
+    ],
     "name:cym_x_preferred":[
         "Llundain"
     ],
@@ -169,8 +179,14 @@
     "name:dsb_x_preferred":[
         "London"
     ],
+    "name:dty_x_preferred":[
+        "\u0932\u0923\u094d\u0921\u0928"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03bd\u03b4\u03af\u03bd\u03bf"
+    ],
+    "name:eml_x_preferred":[
+        "L\u00f2ndra"
     ],
     "name:eng_x_preferred":[
         "London"
@@ -220,11 +236,17 @@
     "name:frp_x_preferred":[
         "Londro"
     ],
+    "name:frp_x_variant":[
+        "Londres"
+    ],
     "name:frr_x_preferred":[
         "London"
     ],
     "name:fry_x_preferred":[
         "Londen"
+    ],
+    "name:ful_x_preferred":[
+        "London"
     ],
     "name:gag_x_preferred":[
         "London"
@@ -244,11 +266,17 @@
     "name:glv_x_preferred":[
         "Lunnin"
     ],
+    "name:gom_x_preferred":[
+        "\u0cb2\u0c82\u0ca1\u0ca8\u0ccd"
+    ],
     "name:grn_x_preferred":[
         "L\u00f3ndyre"
     ],
     "name:grn_x_variant":[
         "Londye"
+    ],
+    "name:gsw_x_preferred":[
+        "London"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a82\u0aa1\u0aa8"
@@ -258,6 +286,9 @@
     ],
     "name:hat_x_preferred":[
         "Lonn"
+    ],
+    "name:hau_x_preferred":[
+        "Landan"
     ],
     "name:haw_x_preferred":[
         "L\u0101kana"
@@ -286,6 +317,9 @@
     "name:hye_x_preferred":[
         "\u053c\u0578\u0576\u0564\u0578\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u053c\u0578\u0576\u057f\u0578\u0576"
+    ],
     "name:ibo_x_preferred":[
         "London"
     ],
@@ -303,6 +337,9 @@
     ],
     "name:ind_x_preferred":[
         "London"
+    ],
+    "name:inh_x_preferred":[
+        "\u041b\u043e\u043d\u0434\u043e\u043d"
     ],
     "name:isl_x_preferred":[
         "London"
@@ -346,6 +383,12 @@
     "name:kbd_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d"
     ],
+    "name:kbp_x_preferred":[
+        "L\u0254ndr\u0269"
+    ],
+    "name:khm_x_preferred":[
+        "\u1791\u17b8\u1780\u17d2\u179a\u17bb\u1784\u17a1\u17bb\u1784"
+    ],
     "name:kir_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d"
     ],
@@ -388,6 +431,9 @@
     "name:lez_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d"
     ],
+    "name:lfn_x_preferred":[
+        "London"
+    ],
     "name:lij_x_preferred":[
         "Londra"
     ],
@@ -429,6 +475,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d"
+    ],
+    "name:min_x_preferred":[
+        "London"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d"
@@ -487,10 +536,16 @@
     "name:new_x_preferred":[
         "\u0932\u0928\u094d\u0926\u0928"
     ],
+    "name:new_x_variant":[
+        "\u0932\u0923\u094d\u0921\u0928"
+    ],
     "name:nld_x_preferred":[
         "Londen"
     ],
     "name:nno_x_preferred":[
+        "London"
+    ],
+    "name:nob_x_preferred":[
         "London"
     ],
     "name:nor_x_preferred":[
@@ -507,6 +562,9 @@
     ],
     "name:oci_x_preferred":[
         "Londres"
+    ],
+    "name:olo_x_preferred":[
+        "London"
     ],
     "name:ori_x_preferred":[
         "\u0b32\u0b23\u0b4d\u0b21\u0b28"
@@ -565,6 +623,9 @@
     "name:rue_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d"
     ],
+    "name:rup_x_preferred":[
+        "Londra"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d"
     ],
@@ -573,6 +634,9 @@
     ],
     "name:san_x_preferred":[
         "\u0932\u0928\u094d\u0921\u0928\u094d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5e\u1c5a\u1c71\u1c70\u1c5a\u1c71"
     ],
     "name:scn_x_preferred":[
         "Londra"
@@ -600,6 +664,9 @@
     ],
     "name:sna_x_preferred":[
         "London"
+    ],
+    "name:snd_x_preferred":[
+        "\u0644\u0646\u068a\u0646"
     ],
     "name:som_x_preferred":[
         "London"
@@ -708,6 +775,9 @@
         "Londn"
     ],
     "name:vol_x_preferred":[
+        "London"
+    ],
+    "name:vro_x_preferred":[
         "London"
     ],
     "name:war_x_preferred":[
@@ -899,7 +969,7 @@
         }
     ],
     "wof:id":101750367,
-    "wof:lastmodified":1561838090,
+    "wof:lastmodified":1563336621,
     "wof:name":"London",
     "wof:parent_id":1360698645,
     "wof:placetype":"locality",

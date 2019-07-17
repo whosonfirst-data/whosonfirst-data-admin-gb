@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u062f\u0631\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u062a\u0646\u0644\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u0440\u044d\u043c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09b2\u09c7"
     ],
     "name:bul_x_preferred":[
         "\u0414\u044a\u0440\u0430\u043c"
@@ -37,6 +43,9 @@
     ],
     "name:deu_x_preferred":[
         "Durham"
+    ],
+    "name:deu_x_variant":[
+        "Stanley"
     ],
     "name:eng_x_preferred":[
         "Stanley"
@@ -51,13 +60,20 @@
         "\u0627\u0633\u062a\u0646\u0644\u06cc\u060c \u06a9\u0627\u0646\u062a\u06cc \u062f\u0648\u0631\u0647\u0627\u0645"
     ],
     "name:fas_x_variant":[
-        "\u062f\u0648\u0631\u0647\u0627\u0645"
+        "\u062f\u0648\u0631\u0647\u0627\u0645",
+        "\u0627\u0633\u062a\u0646\u0644\u06cc"
     ],
     "name:fin_x_preferred":[
         "Durham"
     ],
     "name:fra_x_preferred":[
         "Durham"
+    ],
+    "name:fra_x_variant":[
+        "Stanley"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0a9f\u0ac7\u0aa8\u0acd\u0ab2\u0ac0"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05e8\u05d4\u05d0\u05dd"
@@ -71,14 +87,26 @@
     "name:jpn_x_preferred":[
         "\u30c0\u30e9\u30e0"
     ],
+    "name:jpn_x_variant":[
+        "\u30b9\u30bf\u30f3\u30ea\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0c9f\u0cbe\u0ca8\u0ccd\u0cb2\u0cbf"
+    ],
     "name:kor_x_preferred":[
         "\ub354\ub7fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud0e0\ub9ac"
     ],
     "name:lat_x_preferred":[
         "Dunelmum"
     ],
     "name:lit_x_preferred":[
         "Daramas"
+    ],
+    "name:lit_x_variant":[
+        "Stanlis"
     ],
     "name:mzn_x_preferred":[
         "\u062f\u0648\u0631\u0647\u0627\u0645"
@@ -101,11 +129,20 @@
     "name:por_x_preferred":[
         "Durham"
     ],
+    "name:por_x_variant":[
+        "Stanley"
+    ],
     "name:ron_x_preferred":[
         "Stanley"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0440\u0435\u043c"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0435\u043d\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Stanley"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0430\u0440\u0430\u043c"
@@ -115,6 +152,12 @@
     ],
     "name:swe_x_variant":[
         "Durham"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd\u0bb2\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c1f\u0c3e\u0c28\u0c4d\u0c32\u0c40"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e14\u0e2d\u0e23\u0e31\u0e21"
@@ -127,6 +170,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0688\u0631\u06c1\u0645\u060c \u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0633\u0679\u0627\u0646\u0644\u06d2"
     ],
     "name:vol_x_preferred":[
         "Stanley"
@@ -163,13 +209,13 @@
     "wd:longitude":-1.692,
     "wd:wordcount":1518,
     "wof:belongsto":[
-        1360698621,
         102191581,
         404442231,
         85633159,
         404227469,
         1259512601,
-        1360699055
+        1360699055,
+        1360698621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -195,7 +241,7 @@
         }
     ],
     "wof:id":1360791131,
-    "wof:lastmodified":1547727157,
+    "wof:lastmodified":1563333805,
     "wof:name":"Stanley",
     "wof:parent_id":1259512601,
     "wof:placetype":"neighbourhood",
