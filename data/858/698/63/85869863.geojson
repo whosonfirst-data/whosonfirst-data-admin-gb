@@ -25,6 +25,15 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":7,
     "mz:tier_metro":1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0631\u0646\u0632\u0628\u0648\u0631\u06cc"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0440\u043d\u0441\u0431\u0443\u0440\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Barnsbury"
+    ],
     "name:ceb_x_preferred":[
         "Barnsbury"
     ],
@@ -34,8 +43,20 @@
     "name:eng_x_preferred":[
         "Brondesbury"
     ],
+    "name:eng_x_variant":[
+        "Barnsbury"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0646\u0632\u0628\u0648\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Barnsbury"
+    ],
     "name:gle_x_preferred":[
         "Barnsbury"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e8\u05e0\u05e1\u05d1\u05d5\u05e8\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0930\u094d\u0928\u094d\u0938\u092c\u0930\u0940"
@@ -43,13 +64,22 @@
     "name:ita_x_preferred":[
         "Barnsbury"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30f3\u30ba\u30d9\u30ea\u30fc"
+    ],
     "name:msa_x_preferred":[
         "Barnsbury"
     ],
     "name:nld_x_preferred":[
         "Barnsbury"
     ],
+    "name:nob_x_preferred":[
+        "Barnsbury"
+    ],
     "name:nor_x_preferred":[
+        "Barnsbury"
+    ],
+    "name:oci_x_preferred":[
         "Barnsbury"
     ],
     "name:spa_x_preferred":[
@@ -64,6 +94,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0631\u0646\u0632\u0628\u0631\u06cc\u060c \u0644\u0646\u062f\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0627\u0631\u0646\u0632\u0628\u0631\u06cc"
     ],
     "name:vie_x_preferred":[
         "Barnsbury"
@@ -107,12 +140,12 @@
     "src:population":"geonames",
     "wd:wordcount":357,
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857267
+        1158857267,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206428,
+    "wof:lastmodified":1563332341,
     "wof:name":"Brondesbury",
     "wof:parent_id":1158857267,
     "wof:placetype":"neighbourhood",

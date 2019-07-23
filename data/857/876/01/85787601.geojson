@@ -23,26 +23,86 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:ben_x_preferred":[
+        "\u0997\u09bf\u09b2\u09bf\u0982\u09b9\u09cd\u09af\u09be\u09ae"
+    ],
+    "name:ceb_x_preferred":[
+        "Gillingham"
+    ],
+    "name:ces_x_preferred":[
+        "Gillingham"
+    ],
+    "name:cym_x_preferred":[
+        "Gillingham"
+    ],
     "name:deu_x_preferred":[
         "Gillingham"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03af\u03bb\u03b9\u03b3\u03c7\u03b1\u03bc"
+    ],
     "name:eng_x_preferred":[
+        "Gillingham"
+    ],
+    "name:epo_x_preferred":[
         "Gillingham"
     ],
     "name:fas_x_preferred":[
         "\u062c\u06cc\u0644\u06cc\u0646\u06af\u0647\u0627\u0645\u060c \u06a9\u0646\u062a"
     ],
+    "name:fas_x_variant":[
+        "\u062c\u06cc\u0644\u06cc\u0646\u06af\u0647\u0627\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Gillingham"
+    ],
+    "name:fra_x_preferred":[
+        "Gillingham"
+    ],
+    "name:gle_x_preferred":[
+        "Gillingham"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0abf\u0ab2\u0abf\u0a82\u0a97\u0ab9\u0abe\u0aae"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05dc\u05d9\u05e0\u05d2\u05d4\u05d0\u05dd"
     ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05d9\u05dc\u05d9\u05e0\u05d2\u05d4\u05d0\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Gillingham"
+    ],
     "name:ind_x_preferred":[
+        "Gillingham"
+    ],
+    "name:ita_x_preferred":[
         "Gillingham"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30ea\u30f3\u30ac\u30e0"
     ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cbf\u0cb2\u0ccd\u0cb2\u0cbf\u0c82\u0c97\u0ccd\u0cb9\u0ccd\u0caf\u0cbe\u0cae\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc9c8\ub9c1\uc5c4"
+    ],
     "name:lit_x_preferred":[
         "D\u017eilingamas"
+    ],
+    "name:ltz_x_preferred":[
+        "Gillingham"
+    ],
+    "name:nld_x_preferred":[
+        "Gillingham"
+    ],
+    "name:nno_x_preferred":[
+        "Gillingham"
+    ],
+    "name:nob_x_preferred":[
+        "Gillingham"
     ],
     "name:nor_x_preferred":[
         "Gillingham"
@@ -50,8 +110,20 @@
     "name:pol_x_preferred":[
         "Gillingham"
     ],
+    "name:por_x_preferred":[
+        "Gillingham"
+    ],
+    "name:ron_x_preferred":[
+        "Gillingham"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0438\u043b\u043b\u0438\u043d\u0433\u0435\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "Gillingham"
+    ],
+    "name:spa_x_preferred":[
+        "Gillingham"
     ],
     "name:srp_x_preferred":[
         "\u040f\u0438\u043b\u0438\u043d\u0433\u0430\u043c"
@@ -59,8 +131,35 @@
     "name:swe_x_preferred":[
         "Gillingham"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd\u0bb9\u0bbe\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0496\u0438\u043b\u0438\u04a3\u0435\u043c"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c3f\u0c32\u0c4d\u0c32\u0c3f\u0c02\u0c17\u0c4d \u0c39\u0c2e\u0c4d"
+    ],
+    "name:tur_x_preferred":[
+        "Gillingham"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0438\u043b\u043b\u0456\u043d\u0433\u0435\u043c"
+    ],
     "name:unk_x_variant":[
         "Gillingham"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06cc\u0644\u06cc\u0646\u06af\u06be\u0627\u0645"
+    ],
+    "name:vol_x_preferred":[
+        "Gillingham"
+    ],
+    "name:yue_x_preferred":[
+        "\u57fa\u5be7\u54b8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u9748\u5384\u59c6"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
@@ -93,13 +192,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698565,
         102191581,
         1360817083,
         85633159,
         404227469,
         1360832449,
-        1360699105
+        1360699105,
+        1360698565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,7 +226,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547766291,
+    "wof:lastmodified":1563331975,
     "wof:name":"Gillingham",
     "wof:parent_id":1360832449,
     "wof:placetype":"neighbourhood",
