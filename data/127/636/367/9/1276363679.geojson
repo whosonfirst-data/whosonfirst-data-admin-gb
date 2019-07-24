@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -25,7 +26,7 @@
     "gn:timezone":"Europe/London",
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683883,
@@ -61,12 +62,15 @@
         }
     ],
     "wof:id":1276363679,
-    "wof:lastmodified":1536737959,
+    "wof:lastmodified":1564011804,
     "wof:name":"Stair, Trabboch",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293236139,
+        1259718941
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
