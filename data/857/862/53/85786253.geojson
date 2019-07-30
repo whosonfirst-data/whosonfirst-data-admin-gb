@@ -30,6 +30,12 @@
     "name:aze_x_preferred":[
         "Y\u00fck"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u0443\u0437"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09b0\u09bf\u09ac\u09be\u09b9\u09bf\u09a4 \u09ae\u09be\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u043e\u0432\u0430\u0440"
     ],
@@ -54,6 +60,9 @@
     "name:epo_x_preferred":[
         "\u015car\u011do"
     ],
+    "name:est_x_preferred":[
+        "Last"
+    ],
     "name:eus_x_preferred":[
         "Zama"
     ],
@@ -66,11 +75,17 @@
     "name:fra_x_preferred":[
         "Transport de marchandises"
     ],
+    "name:fra_x_variant":[
+        "Cargaison"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e9\u05d0"
     ],
     "name:ind_x_preferred":[
         "Kargo"
+    ],
+    "name:ita_x_preferred":[
+        "Carico"
     ],
     "name:jpn_x_preferred":[
         "\u8ca8\u7269"
@@ -86,6 +101,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud654\ubb3c"
+    ],
+    "name:lav_x_preferred":[
+        "Krava"
     ],
     "name:msa_x_preferred":[
         "Kargo"
@@ -169,13 +187,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698721,
         102191581,
         404439619,
         85633159,
         404227469,
         1360755571,
-        1360698877
+        1360698877,
+        1360698721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -201,7 +219,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547730205,
+    "wof:lastmodified":1564152119,
     "wof:name":"Cargo",
     "wof:parent_id":1360755571,
     "wof:placetype":"neighbourhood",
