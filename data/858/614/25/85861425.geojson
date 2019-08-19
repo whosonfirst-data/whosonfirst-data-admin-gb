@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.246915,51.536958,-3.246915,51.536958",
-    "geom:latitude":51.536958,
-    "geom:longitude":-3.246915,
+    "geom:bbox":"-3.22849,51.52813,-3.22849,51.52813",
+    "geom:latitude":51.52813,
+    "geom:longitude":-3.22849,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":51.536958,
-    "lbl:longitude":-3.246915,
+    "lbl:latitude":51.52813,
+    "lbl:longitude":-3.22849,
     "mps:latitude":51.544625,
     "mps:longitude":-3.246804,
     "mz:hierarchy_label":0,
@@ -22,7 +22,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
@@ -55,20 +55,21 @@
     "qs:woe_lau":12696132,
     "qs:woe_local":15127,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        1360698627,
         102191581,
         85633159,
         404227475,
         101750397,
         1360887629,
-        1360699107
+        1360699107,
+        1360698627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +78,7 @@
         "qs_pg:id":1120787
     },
     "wof:country":"GB",
-    "wof:geomhash":"a0c4ecef769068f561456db617907b04",
+    "wof:geomhash":"560b86c5b890566cacd42bb235a74dfb",
     "wof:hierarchy":[
         {
             "borough_id":1360887629,
@@ -94,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547766071,
+    "wof:lastmodified":1566247525,
     "wof:name":"Pantmawr",
     "wof:parent_id":1360887629,
     "wof:placetype":"neighbourhood",
@@ -104,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.246915,
-    51.536958,
-    -3.246915,
-    51.536958
+    -3.22849,
+    51.52813,
+    -3.22849,
+    51.52813
 ],
-  "geometry": {"coordinates":[-3.246915,51.536958],"type":"Point"}
+  "geometry": {"coordinates":[-3.22849,51.52813],"type":"Point"}
 }

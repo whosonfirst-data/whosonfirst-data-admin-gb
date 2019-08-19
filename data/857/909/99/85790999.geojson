@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.198466,51.542225,-3.198466,51.542225",
-    "geom:latitude":51.542225,
-    "geom:longitude":-3.198466,
+    "geom:bbox":"-3.193316,51.539663,-3.193316,51.539663",
+    "geom:latitude":51.539663,
+    "geom:longitude":-3.193316,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":51.542225,
-    "lbl:longitude":-3.198466,
+    "lbl:latitude":51.539663,
+    "lbl:longitude":-3.193316,
     "mps:latitude":51.547864,
     "mps:longitude":-3.189702,
     "mz:hierarchy_label":0,
@@ -22,7 +22,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:ceb_x_preferred":[
@@ -88,12 +88,13 @@
     "qs:woe_lau":12696132,
     "qs:woe_local":15127,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -110,7 +111,7 @@
         "qs_pg:id":279224
     },
     "wof:country":"GB",
-    "wof:geomhash":"e7481e589dbda1bd9f6ce08307737a69",
+    "wof:geomhash":"2310608b3dd0e42a64e787776e223860",
     "wof:hierarchy":[
         {
             "borough_id":1360887595,
@@ -127,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564151987,
+    "wof:lastmodified":1566247524,
     "wof:name":"Thornhill",
     "wof:parent_id":1360887595,
     "wof:placetype":"neighbourhood",
@@ -137,10 +138,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.198466,
-    51.542225,
-    -3.198466,
-    51.542225
+    -3.193316,
+    51.539663,
+    -3.193316,
+    51.539663
 ],
-  "geometry": {"coordinates":[-3.198466,51.542225],"type":"Point"}
+  "geometry": {"coordinates":[-3.193316,51.539663],"type":"Point"}
 }

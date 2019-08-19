@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"0.116996,52.209584,0.116996,52.209584",
-    "geom:latitude":52.209584,
-    "geom:longitude":0.116996,
+    "geom:bbox":"0.119399,52.215263,0.119399,52.215263",
+    "geom:latitude":52.215263,
+    "geom:longitude":0.119399,
     "gn:latitude":52.22152,
     "gn:longitude":0.14042,
     "iso:country":"GB",
-    "lbl:latitude":52.209584,
-    "lbl:longitude":0.116996,
+    "lbl:latitude":52.215263,
+    "lbl:longitude":0.119399,
     "mps:latitude":52.224286,
     "mps:longitude":0.101958,
     "mz:hierarchy_label":0,
@@ -25,6 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:eng_x_preferred":[
         "New Chesterton"
     ],
@@ -57,19 +58,20 @@
     "qs:woe_lau":12695882,
     "qs:woe_local":14979,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        1360698535,
         102191581,
         85633159,
         404227469,
         101750465,
-        1360698845
+        1360698845,
+        1360698535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +81,7 @@
         "qs_pg:id":488889
     },
     "wof:country":"GB",
-    "wof:geomhash":"8086dc75b0f432ce314028fdbe50bcd4",
+    "wof:geomhash":"d7e1ff67eb0e92dce835a5182293f632",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542398505,
+    "wof:lastmodified":1566247543,
     "wof:name":"New Chesterton",
     "wof:parent_id":101750465,
     "wof:placetype":"neighbourhood",
@@ -105,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.116996,
-    52.209584,
-    0.116996,
-    52.209584
+    0.119399,
+    52.215263,
+    0.119399,
+    52.215263
 ],
-  "geometry": {"coordinates":[0.116996,52.209584],"type":"Point"}
+  "geometry": {"coordinates":[0.119399,52.215263],"type":"Point"}
 }

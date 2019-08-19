@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"0.128009,52.180497,0.128009,52.180497",
-    "geom:latitude":52.180497,
-    "geom:longitude":0.128009,
+    "geom:bbox":"0.112445,52.173199,0.112445,52.173199",
+    "geom:latitude":52.173199,
+    "geom:longitude":0.112445,
     "iso:country":"GB",
-    "lbl:latitude":52.180497,
-    "lbl:longitude":0.128009,
+    "lbl:latitude":52.173199,
+    "lbl:longitude":0.112445,
     "mps:latitude":52.167725,
     "mps:longitude":0.12546,
     "mz:hierarchy_label":0,
@@ -23,6 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:eng_x_preferred":[
         "Trumpington"
     ],
@@ -66,12 +67,13 @@
     "qs:woe_lau":12695882,
     "qs:woe_local":14979,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":993,
     "wof:belongsto":[
         102191581,
@@ -91,7 +93,7 @@
         "wk:page":"Trumpington"
     },
     "wof:country":"GB",
-    "wof:geomhash":"2058f1fd72c2f9914ad64c896d3c974c",
+    "wof:geomhash":"ae970e63e371bcfd2704f21a07952f37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332102,
+    "wof:lastmodified":1566247543,
     "wof:name":"Trumpington",
     "wof:parent_id":101750465,
     "wof:placetype":"neighbourhood",
@@ -117,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.128009,
-    52.180497,
-    0.128009,
-    52.180497
+    0.112445,
+    52.173199,
+    0.112445,
+    52.173199
 ],
-  "geometry": {"coordinates":[0.128009,52.180497],"type":"Point"}
+  "geometry": {"coordinates":[0.112445,52.173199],"type":"Point"}
 }

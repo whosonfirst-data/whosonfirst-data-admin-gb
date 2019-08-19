@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.077306,52.620969,-1.077306,52.620969",
-    "geom:latitude":52.620969,
-    "geom:longitude":-1.077306,
+    "geom:bbox":"-1.075861,52.621594,-1.075861,52.621594",
+    "geom:latitude":52.621594,
+    "geom:longitude":-1.075861,
     "iso:country":"GB",
-    "lbl:latitude":52.620969,
-    "lbl:longitude":-1.077306,
+    "lbl:latitude":52.621594,
+    "lbl:longitude":-1.075861,
     "mps:latitude":52.609305,
     "mps:longitude":-1.067917,
     "mz:hierarchy_label":0,
@@ -21,7 +21,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
@@ -68,12 +68,13 @@
     "qs:woe_lau":12696154,
     "qs:woe_local":26062,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":1345,
     "wof:belongsto":[
         102191581,
@@ -93,7 +94,7 @@
         "wk:page":"Evington"
     },
     "wof:country":"GB",
-    "wof:geomhash":"6bf47bf77e00592d2195d18c12f1cae4",
+    "wof:geomhash":"3f9a8273e1a26326fe40a027fc57c205",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331662,
+    "wof:lastmodified":1566247501,
     "wof:name":"Evington",
     "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
@@ -119,10 +120,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.077306,
-    52.620969,
-    -1.077306,
-    52.620969
+    -1.075861,
+    52.621594,
+    -1.075861,
+    52.621594
 ],
-  "geometry": {"coordinates":[-1.077306,52.620969],"type":"Point"}
+  "geometry": {"coordinates":[-1.075861,52.621594],"type":"Point"}
 }

@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.161084,52.637669,-1.161084,52.637669",
-    "geom:latitude":52.637669,
-    "geom:longitude":-1.161084,
+    "geom:bbox":"-1.164632,52.639614,-1.164632,52.639614",
+    "geom:latitude":52.639614,
+    "geom:longitude":-1.164632,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":52.637669,
-    "lbl:longitude":-1.161084,
+    "lbl:latitude":52.639614,
+    "lbl:longitude":-1.164632,
     "mps:latitude":52.637229,
     "mps:longitude":-1.159053,
     "mz:hierarchy_label":0,
@@ -21,8 +21,9 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":13.0,
+    "mz:note":"macrohood includes Newfoundpool, Western Hills, and New Parks",
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
@@ -55,20 +56,21 @@
     "qs:woe_lau":12696154,
     "qs:woe_local":26062,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":95,
     "wof:belongsto":[
-        1360698569,
         102191581,
         85633159,
         404227469,
         101750485,
-        1360698995
+        1360698995,
+        1360698569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +80,7 @@
         "wd:id":"Q5215810"
     },
     "wof:country":"GB",
-    "wof:geomhash":"17d01df8fcb27c2cd2d9c80b2e13a3ee",
+    "wof:geomhash":"4a3cadfdac6fde3733b179c56b72cbd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400110,
+    "wof:lastmodified":1566247543,
     "wof:name":"Dane Hills",
     "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
@@ -104,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.161084,
-    52.637669,
-    -1.161084,
-    52.637669
+    -1.164632,
+    52.639614,
+    -1.164632,
+    52.639614
 ],
-  "geometry": {"coordinates":[-1.161084,52.637669],"type":"Point"}
+  "geometry": {"coordinates":[-1.164632,52.639614],"type":"Point"}
 }

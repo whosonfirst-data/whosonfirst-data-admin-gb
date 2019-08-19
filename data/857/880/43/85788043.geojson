@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.218658,51.760377,-1.218658,51.760377",
-    "geom:latitude":51.760377,
-    "geom:longitude":-1.218658,
+    "geom:bbox":"-1.210938,51.760079,-1.210938,51.760079",
+    "geom:latitude":51.760079,
+    "geom:longitude":-1.210938,
     "iso:country":"GB",
-    "lbl:latitude":51.760377,
-    "lbl:longitude":-1.218658,
+    "lbl:latitude":51.760079,
+    "lbl:longitude":-1.210938,
     "mps:latitude":51.814124,
     "mps:longitude":-1.187459,
     "mz:hierarchy_label":0,
@@ -20,9 +20,10 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
+    "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:cym_x_preferred":[
         "Headington"
     ],
@@ -84,12 +85,13 @@
     "qs:woe_lau":12696058,
     "qs:woe_local":31278,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:latitude":51.765,
     "wd:longitude":-1.212,
     "wd:wordcount":1052,
@@ -111,7 +113,7 @@
         "wk:page":"Headington"
     },
     "wof:country":"GB",
-    "wof:geomhash":"6aa9faec3a9655c4c3b3fbe5727f702d",
+    "wof:geomhash":"a91d07bd6f1a56a6e287260b0f273d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331647,
+    "wof:lastmodified":1566247499,
     "wof:name":"Headington",
     "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
@@ -137,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.218658,
-    51.760377,
-    -1.218658,
-    51.760377
+    -1.210938,
+    51.760079,
+    -1.210938,
+    51.760079
 ],
-  "geometry": {"coordinates":[-1.218658,51.760377],"type":"Point"}
+  "geometry": {"coordinates":[-1.210938,51.760079],"type":"Point"}
 }

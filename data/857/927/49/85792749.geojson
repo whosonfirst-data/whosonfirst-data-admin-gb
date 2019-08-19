@@ -6,23 +6,24 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.194608,51.476274,-3.194608,51.476274",
-    "geom:latitude":51.476274,
-    "geom:longitude":-3.194608,
+    "geom:bbox":"-3.187055,51.471355,-3.187055,51.471355",
+    "geom:latitude":51.471355,
+    "geom:longitude":-3.187055,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":51.476274,
-    "lbl:longitude":-3.194608,
+    "lbl:latitude":51.471355,
+    "lbl:longitude":-3.187055,
     "mps:latitude":51.47283,
     "mps:longitude":-3.194083,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"historic: http://cardiffhistory.tumblr.com/post/145447193451",
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
@@ -55,20 +56,21 @@
     "qs:woe_lau":12696132,
     "qs:woe_local":15127,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        1360698627,
         102191581,
         85633159,
         404227475,
         101750397,
         1360887585,
-        1360699107
+        1360699107,
+        1360698627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +79,7 @@
         "qs_pg:id":223873
     },
     "wof:country":"GB",
-    "wof:geomhash":"b522229b610a37385428836c388a34d4",
+    "wof:geomhash":"68775b361ee0a6929ede0e09e5a48bfa",
     "wof:hierarchy":[
         {
             "borough_id":1360887585,
@@ -94,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547766044,
+    "wof:lastmodified":1566247543,
     "wof:name":"Saltmead",
     "wof:parent_id":1360887585,
     "wof:placetype":"neighbourhood",
@@ -104,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.194608,
-    51.476274,
-    -3.194608,
-    51.476274
+    -3.187055,
+    51.471355,
+    -3.187055,
+    51.471355
 ],
-  "geometry": {"coordinates":[-3.194608,51.476274],"type":"Point"}
+  "geometry": {"coordinates":[-3.187055,51.471355],"type":"Point"}
 }

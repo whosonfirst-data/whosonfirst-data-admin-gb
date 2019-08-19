@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.055899,52.654462,-1.055899,52.654462",
-    "geom:latitude":52.654462,
-    "geom:longitude":-1.055899,
+    "geom:bbox":"-1.065169,52.657794,-1.065169,52.657794",
+    "geom:latitude":52.657794,
+    "geom:longitude":-1.065169,
     "gn:latitude":52.18333,
     "gn:longitude":-0.91667,
     "iso:country":"GB",
-    "lbl:latitude":52.654462,
-    "lbl:longitude":-1.055899,
+    "lbl:latitude":52.657794,
+    "lbl:longitude":-1.065169,
     "mps:latitude":52.663055,
     "mps:longitude":-1.066221,
     "mz:hierarchy_label":0,
@@ -23,7 +23,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:afr_x_preferred":[
@@ -217,12 +217,13 @@
     "qs:woe_lau":12696010,
     "qs:woe_local":26062,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -239,7 +240,7 @@
         "qs_pg:id":1100668
     },
     "wof:country":"GB",
-    "wof:geomhash":"946a1dd4ec7bdbe145aa4e83192ec9a6",
+    "wof:geomhash":"914597d173f6b3358ac7d1ffd272de1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -255,7 +256,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564152114,
+    "wof:lastmodified":1566247501,
     "wof:name":"Hamilton",
     "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
@@ -265,10 +266,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.055899,
-    52.654462,
-    -1.055899,
-    52.654462
+    -1.065169,
+    52.657794,
+    -1.065169,
+    52.657794
 ],
-  "geometry": {"coordinates":[-1.055899,52.654462],"type":"Point"}
+  "geometry": {"coordinates":[-1.065169,52.657794],"type":"Point"}
 }

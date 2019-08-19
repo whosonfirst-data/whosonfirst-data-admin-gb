@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.211953,51.737292,-1.211953,51.737292",
-    "geom:latitude":51.737292,
-    "geom:longitude":-1.211953,
+    "geom:bbox":"-1.211495,51.736016,-1.211495,51.736016",
+    "geom:latitude":51.736016,
+    "geom:longitude":-1.211495,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":51.737292,
-    "lbl:longitude":-1.211953,
+    "lbl:latitude":51.736016,
+    "lbl:longitude":-1.211495,
     "mps:latitude":51.733795,
     "mps:longitude":-1.208541,
     "mz:hierarchy_label":0,
@@ -24,6 +24,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0443\u043b\u0438"
     ],
@@ -82,12 +83,13 @@
     "qs:woe_lau":12696058,
     "qs:woe_local":31278,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":2240,
     "wof:belongsto":[
         102191581,
@@ -108,7 +110,7 @@
         "wk:page":"Cowley, Oxfordshire"
     },
     "wof:country":"GB",
-    "wof:geomhash":"20635b51e895f8981f99fa253ee59a6c",
+    "wof:geomhash":"34eda0b339f2f6ea1f5c7447005cad8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331751,
+    "wof:lastmodified":1566247499,
     "wof:name":"Cowley",
     "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
@@ -134,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.211953,
-    51.737292,
-    -1.211953,
-    51.737292
+    -1.211495,
+    51.736016,
+    -1.211495,
+    51.736016
 ],
-  "geometry": {"coordinates":[-1.211953,51.737292],"type":"Point"}
+  "geometry": {"coordinates":[-1.211495,51.736016],"type":"Point"}
 }

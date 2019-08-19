@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"0.116121,52.203333,0.116121,52.203333",
-    "geom:latitude":52.203333,
-    "geom:longitude":0.116121,
+    "geom:bbox":"0.110743,52.198844,0.110743,52.198844",
+    "geom:latitude":52.198844,
+    "geom:longitude":0.110743,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":52.203333,
-    "lbl:longitude":0.116121,
+    "lbl:latitude":52.198844,
+    "lbl:longitude":0.110743,
     "mps:latitude":52.195485,
     "mps:longitude":0.077138,
     "mz:hierarchy_label":0,
@@ -24,6 +24,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ceb_x_preferred":[
         "Newnham"
     ],
@@ -79,12 +80,13 @@
     "qs:woe_lau":12695882,
     "qs:woe_local":14979,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -101,7 +103,7 @@
         "qs_pg:id":1238975
     },
     "wof:country":"GB",
-    "wof:geomhash":"1c8ec58241b0eac6e76f107f0fa432c0",
+    "wof:geomhash":"14d9172f099f15f7b8ad685423321b43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564151988,
+    "wof:lastmodified":1566247543,
     "wof:name":"Newnham",
     "wof:parent_id":101750465,
     "wof:placetype":"neighbourhood",
@@ -127,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.116121,
-    52.203333,
-    0.116121,
-    52.203333
+    0.110743,
+    52.198844,
+    0.110743,
+    52.198844
 ],
-  "geometry": {"coordinates":[0.116121,52.203333],"type":"Point"}
+  "geometry": {"coordinates":[0.110743,52.198844],"type":"Point"}
 }

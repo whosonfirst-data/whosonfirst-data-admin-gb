@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.239201,51.776229,-1.239201,51.776229",
-    "geom:latitude":51.776229,
-    "geom:longitude":-1.239201,
+    "geom:bbox":"-1.237599,51.774883,-1.237599,51.774883",
+    "geom:latitude":51.774883,
+    "geom:longitude":-1.237599,
     "gn:latitude":51.78051,
     "gn:longitude":-1.24485,
     "iso:country":"GB",
-    "lbl:latitude":51.776229,
-    "lbl:longitude":-1.239201,
+    "lbl:latitude":51.774883,
+    "lbl:longitude":-1.237599,
     "mps:latitude":51.779397,
     "mps:longitude":-1.235381,
     "mz:hierarchy_label":0,
@@ -23,13 +23,17 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:cym_x_preferred":[
         "Marston"
     ],
     "name:eng_x_preferred":[
         "Marston"
+    ],
+    "name:eng_x_variant":[
+        "Old Marston"
     ],
     "name:fra_x_preferred":[
         "Marston"
@@ -68,12 +72,13 @@
     "qs:woe_lau":12696058,
     "qs:woe_local":31278,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         404449971,
@@ -93,7 +98,7 @@
         "wk:page":"Marston, Oxford"
     },
     "wof:country":"GB",
-    "wof:geomhash":"10b056fbd98faa812328f5d1f5a438fd",
+    "wof:geomhash":"6370a5da288ab3bb3f3cf61f20f48b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332072,
+    "wof:lastmodified":1566247499,
     "wof:name":"Marston",
     "wof:parent_id":1360754459,
     "wof:placetype":"neighbourhood",
@@ -120,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.239201,
-    51.776229,
-    -1.239201,
-    51.776229
+    -1.237599,
+    51.774883,
+    -1.237599,
+    51.774883
 ],
-  "geometry": {"coordinates":[-1.239201,51.776229],"type":"Point"}
+  "geometry": {"coordinates":[-1.237599,51.774883],"type":"Point"}
 }

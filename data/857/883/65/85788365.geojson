@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.097202,52.63809,-1.097202,52.63809",
-    "geom:latitude":52.63809,
-    "geom:longitude":-1.097202,
+    "geom:bbox":"-1.078319,52.645173,-1.078319,52.645173",
+    "geom:latitude":52.645173,
+    "geom:longitude":-1.078319,
     "iso:country":"GB",
-    "lbl:latitude":52.63809,
-    "lbl:longitude":-1.097202,
+    "lbl:latitude":52.645173,
+    "lbl:longitude":-1.078319,
     "mps:latitude":52.644863,
     "mps:longitude":-1.091823,
     "mz:hierarchy_label":0,
@@ -56,20 +56,21 @@
     "qs:woe_lau":12696154,
     "qs:woe_local":26062,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":73,
     "wof:belongsto":[
-        1360698569,
         102191581,
         85633159,
         404227469,
         101750485,
-        1360698995
+        1360698995,
+        1360698569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +80,7 @@
         "qs_pg:id":894528
     },
     "wof:country":"GB",
-    "wof:geomhash":"1365eb0005e444535707883d1200a0dc",
+    "wof:geomhash":"17a7e0d3d91fba42a2dbbb8f9c217ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400110,
+    "wof:lastmodified":1566247501,
     "wof:name":"Humberstone",
     "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
@@ -105,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.097202,
-    52.63809,
-    -1.097202,
-    52.63809
+    -1.078319,
+    52.645173,
+    -1.078319,
+    52.645173
 ],
-  "geometry": {"coordinates":[-1.097202,52.63809],"type":"Point"}
+  "geometry": {"coordinates":[-1.078319,52.645173],"type":"Point"}
 }

@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.186523,51.756271,-1.186523,51.756271",
-    "geom:latitude":51.756271,
-    "geom:longitude":-1.186523,
+    "geom:bbox":"-1.188915,51.760237,-1.188915,51.760237",
+    "geom:latitude":51.760237,
+    "geom:longitude":-1.188915,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":51.756271,
-    "lbl:longitude":-1.186523,
+    "lbl:latitude":51.760237,
+    "lbl:longitude":-1.188915,
     "mps:latitude":51.768679,
     "mps:longitude":-1.168264,
     "mz:hierarchy_label":0,
@@ -22,8 +22,9 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u0987\u09b8\u09bf\u0982\u09b9\u09be\u09b0\u09b8\u09cd\u099f"
     ],
@@ -99,12 +100,13 @@
     "qs:woe_lau":12696058,
     "qs:woe_local":31278,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":3425,
     "wof:belongsto":[
         102191581,
@@ -123,7 +125,7 @@
         "wd:id":"Q7336203"
     },
     "wof:country":"GB",
-    "wof:geomhash":"1cc123133d76639b14451ab6f577613a",
+    "wof:geomhash":"a3c0339faf7a6645fef0becaba31b943",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332232,
+    "wof:lastmodified":1566247569,
     "wof:name":"Risinghurst",
     "wof:parent_id":1360755195,
     "wof:placetype":"neighbourhood",
@@ -150,10 +152,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.186523,
-    51.756271,
-    -1.186523,
-    51.756271
+    -1.188915,
+    51.760237,
+    -1.188915,
+    51.760237
 ],
-  "geometry": {"coordinates":[-1.186523,51.756271],"type":"Point"}
+  "geometry": {"coordinates":[-1.188915,51.760237],"type":"Point"}
 }
