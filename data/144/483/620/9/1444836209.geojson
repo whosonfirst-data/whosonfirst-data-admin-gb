@@ -29,15 +29,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887607,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"ef29e41e938c2e2738caaae337799e57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45790254d6033750007d1fc3f724984d",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887607,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836209,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836209,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566340228,
     "wof:name":"Pentyrch",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887607,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -45,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.298219901830879,
+    -3.29821990183088,
     51.52994423666494,
-    -3.298219901830879,
+    -3.29821990183088,
     51.52994423666494
 ],
   "geometry": {"coordinates":[-3.29821990183088,51.52994423666494],"type":"Point"}

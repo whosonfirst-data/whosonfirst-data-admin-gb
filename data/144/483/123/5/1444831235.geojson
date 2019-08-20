@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"2f6868ff93b2e1ea5372326eb71e404a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fb0500ef071b8de80e00bcd16745749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831235,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831235,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340878,
     "wof:name":"Upper Easton",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.566698000405494,
+    -2.56669800040549,
     51.46067541531233,
-    -2.566698000405494,
+    -2.56669800040549,
     51.46067541531233
 ],
   "geometry": {"coordinates":[-2.56669800040549,51.46067541531233],"type":"Point"}

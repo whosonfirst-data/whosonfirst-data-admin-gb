@@ -29,15 +29,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887581,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"0259692151ffe47e2f3380d9a7dfe07c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1907220b60ab161da8c2b8bd850e9ed",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887581,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836621,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836621,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340259,
     "wof:name":"Fairwater",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887581,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -45,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.245748714541181,
+    -3.24574871454118,
     51.49527718930313,
-    -3.245748714541181,
+    -3.24574871454118,
     51.49527718930313
 ],
   "geometry": {"coordinates":[-3.24574871454118,51.49527718930313],"type":"Point"}

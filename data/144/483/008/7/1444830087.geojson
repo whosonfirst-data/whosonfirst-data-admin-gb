@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698569,
+        102191581,
+        85633159,
+        404227469,
+        101750485,
+        1360698995
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"13b871d042c4895101700a47729fd308",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88878a16e1b2255e7bf9ffbc988b86a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698995,
+            "locality_id":101750485,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830087,
+            "region_id":1360698569
+        }
+    ],
     "wof:id":1444830087,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336917,
     "wof:name":"West Knighton",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.123213834731069,
-    52.601178073812946,
-    -1.123213834731069,
-    52.601178073812946
+    -1.12321383473107,
+    52.60117807381295,
+    -1.12321383473107,
+    52.60117807381295
 ],
   "geometry": {"coordinates":[-1.12321383473107,52.60117807381295],"type":"Point"}
 }

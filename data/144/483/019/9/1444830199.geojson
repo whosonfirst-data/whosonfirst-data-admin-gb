@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698535,
+        102191581,
+        85633159,
+        404227469,
+        101750465,
+        1360698845
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"3b52b19db3e500a3175de573aa6bd4ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35f7bbb6023cbeb08f651d0698d2ec2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698845,
+            "locality_id":101750465,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830199,
+            "region_id":1360698535
+        }
+    ],
     "wof:id":1444830199,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336929,
     "wof:name":"High Cross",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.084024016346268,
-    52.212754805108425,
-    0.084024016346268,
-    52.212754805108425
+    0.08402401634627,
+    52.21275480510842,
+    0.08402401634627,
+    52.21275480510842
 ],
   "geometry": {"coordinates":[0.08402401634627,52.21275480510842],"type":"Point"}
 }

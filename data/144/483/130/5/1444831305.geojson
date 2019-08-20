@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"fc1e0773f1aec4e92aa8840d36098634",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13b268db97dbc057244c270122920ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831305,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831305,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340888,
     "wof:name":"Tyndall's Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -43,9 +60,9 @@
 },
   "bbox": [
     -2.60487313791014,
-    51.458640592317415,
+    51.45864059231742,
     -2.60487313791014,
-    51.458640592317415
+    51.45864059231742
 ],
   "geometry": {"coordinates":[-2.60487313791014,51.45864059231742],"type":"Point"}
 }

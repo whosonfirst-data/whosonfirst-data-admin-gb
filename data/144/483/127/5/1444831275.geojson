@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"262e75a65ed600d7ea3d7133e3a05ea5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bc1b1a6241e0838c606b19e6e9c4f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831275,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831275,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340886,
     "wof:name":"Sneyd Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.633672427341763,
-    51.476950733791355,
-    -2.633672427341763,
-    51.476950733791355
+    -2.63367242734176,
+    51.47695073379136,
+    -2.63367242734176,
+    51.47695073379136
 ],
   "geometry": {"coordinates":[-2.63367242734176,51.47695073379136],"type":"Point"}
 }

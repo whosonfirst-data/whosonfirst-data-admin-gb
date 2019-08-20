@@ -29,15 +29,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887629,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"68e930ae03e87d3c829c5956e57e66d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d5bb7373c2a91928d85e451fb954849",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887629,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836243,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836243,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566340232,
     "wof:name":"Tongwynlais",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887629,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -45,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.249696928197662,
+    -3.24969692819766,
     51.53051378802197,
-    -3.249696928197662,
+    -3.24969692819766,
     51.53051378802197
 ],
   "geometry": {"coordinates":[-3.24969692819766,51.53051378802197],"type":"Point"}

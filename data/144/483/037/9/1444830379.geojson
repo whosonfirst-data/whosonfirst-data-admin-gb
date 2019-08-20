@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"dd082d334492bc1f5774b6f44328af87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab283cf54977305088a34381a6f802bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830379,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830379,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566336962,
     "wof:name":"Holywell",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.245101666802802,
+    -1.2451016668028,
     51.75728917260699,
-    -1.245101666802802,
+    -1.2451016668028,
     51.75728917260699
 ],
   "geometry": {"coordinates":[-1.2451016668028,51.75728917260699],"type":"Point"}

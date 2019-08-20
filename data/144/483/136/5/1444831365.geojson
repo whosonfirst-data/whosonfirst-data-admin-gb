@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"0ca6571228a93e5f01c39091ad74f757",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9c90b870e6f023e997e89895ee08d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831365,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831365,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340897,
     "wof:name":"Crew's Hole",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.537705762880904,
+    -2.5377057628809,
     51.45527870564925,
-    -2.537705762880904,
+    -2.5377057628809,
     51.45527870564925
 ],
   "geometry": {"coordinates":[-2.5377057628809,51.45527870564925],"type":"Point"}

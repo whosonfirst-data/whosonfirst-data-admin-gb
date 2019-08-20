@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"a54940276bee39e8589531eba10a0674",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f72b7f8ea84d2dc6e6611f912bedd2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830447,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830447,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566336968,
     "wof:name":"St. Ebbes",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.259213669600318,
-    51.751099253575894,
-    -1.259213669600318,
-    51.751099253575894
+    -1.25921366960032,
+    51.75109925357589,
+    -1.25921366960032,
+    51.75109925357589
 ],
   "geometry": {"coordinates":[-1.25921366960032,51.75109925357589],"type":"Point"}
 }

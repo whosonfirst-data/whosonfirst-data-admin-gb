@@ -26,15 +26,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887631,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"57bb3dae068ce51afbd68e4fc3938698",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8686e7b1a1522d62ece81dbed5dc75a3",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887631,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836513,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836513,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340248,
     "wof:name":"Trowbridge Mawr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887631,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.104585771200207,
+    -3.10458577120021,
     51.51294340876644,
-    -3.104585771200207,
+    -3.10458577120021,
     51.51294340876644
 ],
   "geometry": {"coordinates":[-3.10458577120021,51.51294340876644],"type":"Point"}

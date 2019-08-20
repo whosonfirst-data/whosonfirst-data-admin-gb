@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"4b5126180876d08e2e512daafef45208",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e74282477d070dfe8caf95a4240f566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830263,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830263,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336941,
     "wof:name":"Sunnymead",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.263970122646613,
+    -1.26397012264661,
     51.78285455167656,
-    -1.263970122646613,
+    -1.26397012264661,
     51.78285455167656
 ],
   "geometry": {"coordinates":[-1.26397012264661,51.78285455167656],"type":"Point"}

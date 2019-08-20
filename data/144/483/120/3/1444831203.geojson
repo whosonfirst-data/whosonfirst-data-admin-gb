@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"4946606be8e984b407c3b93d085e63fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf9786745eb8e08e41a4ade316787799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831203,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831203,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340876,
     "wof:name":"Clay Bottom",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.545716681851835,
+    -2.54571668185184,
     51.47171619908446,
-    -2.545716681851835,
+    -2.54571668185184,
     51.47171619908446
 ],
   "geometry": {"coordinates":[-2.54571668185184,51.47171619908446],"type":"Point"}

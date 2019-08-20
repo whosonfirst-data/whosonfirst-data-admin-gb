@@ -26,15 +26,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        404429233,
+        85633159,
+        404227469,
+        1125987387,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"86a212bd483b235299f2375b7ed99373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75b52793854c11ab735095daf07044f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "localadmin_id":404429233,
+            "locality_id":1125987387,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830325,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830325,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566336956,
     "wof:name":"Littlemore",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125987387,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.222542489497501,
-    51.721156057593035,
-    -1.222542489497501,
-    51.721156057593035
+    -1.2225424894975,
+    51.72115605759303,
+    -1.2225424894975,
+    51.72115605759303
 ],
   "geometry": {"coordinates":[-1.2225424894975,51.72115605759303],"type":"Point"}
 }

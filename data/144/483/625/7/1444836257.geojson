@@ -29,15 +29,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887601,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"7c9b990896acc5befdbfd862740f5bdc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d22793ea86c534864e34f5c38033e6f0",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887601,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836257,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836257,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566340233,
     "wof:name":"Radyr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887601,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -45,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.255190095024063,
-    51.517625945490316,
-    -3.255190095024063,
-    51.517625945490316
+    -3.25519009502406,
+    51.51762594549032,
+    -3.25519009502406,
+    51.51762594549032
 ],
   "geometry": {"coordinates":[-3.25519009502406,51.51762594549032],"type":"Point"}
 }

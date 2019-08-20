@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"972b7bc85e1950c23fb1c8c698ef2c20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1d70abc00149ae51ed9c12b9e96c291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831421,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831421,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340903,
     "wof:name":"Kensington Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.557829534354713,
-    51.437570167771995,
-    -2.557829534354713,
-    51.437570167771995
+    -2.55782953435471,
+    51.43757016777199,
+    -2.55782953435471,
+    51.43757016777199
 ],
   "geometry": {"coordinates":[-2.55782953435471,51.43757016777199],"type":"Point"}
 }

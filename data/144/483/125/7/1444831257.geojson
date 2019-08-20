@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"2bd2f3527763a8dfaa279dce0a1e19f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c16533fed0e63a6a6238b592db8638b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831257,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831257,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340882,
     "wof:name":"Montpelier",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.587450639737859,
+    -2.58745063973786,
     51.46776319321557,
-    -2.587450639737859,
+    -2.58745063973786,
     51.46776319321557
 ],
   "geometry": {"coordinates":[-2.58745063973786,51.46776319321557],"type":"Point"}

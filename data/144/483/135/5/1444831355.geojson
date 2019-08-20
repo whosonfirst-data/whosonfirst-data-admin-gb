@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"ada348ae83594b63a83e4ef8c1af76a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17177cb64b68c9a762514a50df057e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831355,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831355,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340897,
     "wof:name":"Netham",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.552041091565726,
+    -2.55204109156573,
     51.45472653105301,
-    -2.552041091565726,
+    -2.55204109156573,
     51.45472653105301
 ],
   "geometry": {"coordinates":[-2.55204109156573,51.45472653105301],"type":"Point"}

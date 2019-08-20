@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"94c71dd3baf3124929d281231df3598c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac496efacdc2bb8d6bf2e5bfa6845c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831331,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831331,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340893,
     "wof:name":"The Dings",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.573937127004557,
+    -2.57393712700456,
     51.45116395375022,
-    -2.573937127004557,
+    -2.57393712700456,
     51.45116395375022
 ],
   "geometry": {"coordinates":[-2.57393712700456,51.45116395375022],"type":"Point"}

@@ -29,15 +29,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887605,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"09046dc21ba8acd4438b1a725f253652",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e039b83fddede0a72765c92714824911",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887605,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836457,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836457,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566340242,
     "wof:name":"Pentwyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887605,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -45,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.146356727275971,
-    51.525796976021226,
-    -3.146356727275971,
-    51.525796976021226
+    -3.14635672727597,
+    51.52579697602123,
+    -3.14635672727597,
+    51.52579697602123
 ],
   "geometry": {"coordinates":[-3.14635672727597,51.52579697602123],"type":"Point"}
 }

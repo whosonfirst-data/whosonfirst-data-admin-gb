@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"dece2fae5f68a42453899fe3a6b9d175",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf4506d27c527e45e8338204b3d6097c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831439,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831439,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340907,
     "wof:name":"Upper Knowle",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.562860477223166,
+    -2.56286047722317,
     51.43603771761716,
-    -2.562860477223166,
+    -2.56286047722317,
     51.43603771761716
 ],
   "geometry": {"coordinates":[-2.56286047722317,51.43603771761716],"type":"Point"}

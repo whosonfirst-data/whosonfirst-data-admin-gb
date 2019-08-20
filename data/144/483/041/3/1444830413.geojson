@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"fc7d74d98c92d0da62117b833c238914",
-    "wof:hierarchy":[],
+    "wof:geomhash":"898fde17b23b365f31ebc22fa0b89d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830413,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830413,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566336966,
     "wof:name":"Temple Cowley",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.217907629987725,
-    51.737910746193194,
-    -1.217907629987725,
-    51.737910746193194
+    -1.21790762998772,
+    51.73791074619319,
+    -1.21790762998772,
+    51.73791074619319
 ],
   "geometry": {"coordinates":[-1.21790762998772,51.73791074619319],"type":"Point"}
 }

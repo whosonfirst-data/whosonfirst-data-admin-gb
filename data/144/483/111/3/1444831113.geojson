@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"62c0ee5b47fd4f06494924dc278fc6fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efcc8bffb60b827bd9b7f4e3cee6c877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831113,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831113,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340861,
     "wof:name":"Eastfield",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.606774033937143,
+    -2.60677403393714,
     51.49289989689983,
-    -2.606774033937143,
+    -2.60677403393714,
     51.49289989689983
 ],
   "geometry": {"coordinates":[-2.60677403393714,51.49289989689983],"type":"Point"}

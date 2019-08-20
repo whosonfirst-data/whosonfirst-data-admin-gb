@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698569,
+        102191581,
+        85633159,
+        404227469,
+        101750485,
+        1360698995
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"a1fd416babc111d1f558f108c72569d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d66e5712b1a0254d2fae6d28edca4d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698995,
+            "locality_id":101750485,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830009,
+            "region_id":1360698569
+        }
+    ],
     "wof:id":1444830009,
-    "wof:lastmodified":1566334995,
+    "wof:lastmodified":1566336908,
     "wof:name":"Crown Hills",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.082215355240268,
+    -1.08221535524027,
     52.63270543807666,
-    -1.082215355240268,
+    -1.08221535524027,
     52.63270543807666
 ],
   "geometry": {"coordinates":[-1.08221535524027,52.63270543807666],"type":"Point"}

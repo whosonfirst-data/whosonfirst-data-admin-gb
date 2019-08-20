@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"467c6209fcaa3327300df3d9de152348",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc6b3afff97007e259d674c92ffb17e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831139,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831139,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340865,
     "wof:name":"Two Mile Hill",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.520333288288281,
-    51.463952313797876,
-    -2.520333288288281,
-    51.463952313797876
+    -2.52033328828828,
+    51.46395231379788,
+    -2.52033328828828,
+    51.46395231379788
 ],
   "geometry": {"coordinates":[-2.52033328828828,51.46395231379788],"type":"Point"}
 }

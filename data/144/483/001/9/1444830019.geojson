@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698569,
+        102191581,
+        85633159,
+        404227469,
+        101750485,
+        1360698995
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"0356a849cc23376ace307fe344cb0b65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e167539be5a85ccf2783ee212c47b1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698995,
+            "locality_id":101750485,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830019,
+            "region_id":1360698569
+        }
+    ],
     "wof:id":1444830019,
-    "wof:lastmodified":1566334995,
+    "wof:lastmodified":1566336909,
     "wof:name":"Thurnby Lodge",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.060528790373536,
-    52.638747760432224,
-    -1.060528790373536,
-    52.638747760432224
+    -1.06052879037354,
+    52.63874776043222,
+    -1.06052879037354,
+    52.63874776043222
 ],
   "geometry": {"coordinates":[-1.06052879037354,52.63874776043222],"type":"Point"}
 }

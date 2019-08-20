@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"915b92d31849b6123c811030bf95d1bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7aaf8d73f78e1e1a7313734b78e478a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830403,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830403,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566336963,
     "wof:name":"Cowley St John",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.223787035106608,
+    -1.22378703510661,
     51.74043537227524,
-    -1.223787035106608,
+    -1.22378703510661,
     51.74043537227524
 ],
   "geometry": {"coordinates":[-1.22378703510661,51.74043537227524],"type":"Point"}

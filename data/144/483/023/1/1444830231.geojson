@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"141a4853df796ebad07a16b7bff75a15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bf4ca9f4e243cd5d35fa03ddb82cd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830231,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830231,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336933,
     "wof:name":"Headington Quarry",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.198395443656498,
+    -1.1983954436565,
     51.75771420029493,
-    -1.198395443656498,
+    -1.1983954436565,
     51.75771420029493
 ],
   "geometry": {"coordinates":[-1.1983954436565,51.75771420029493],"type":"Point"}

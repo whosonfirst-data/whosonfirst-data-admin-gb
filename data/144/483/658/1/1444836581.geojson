@@ -29,15 +29,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887621,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"e36386ee145f549648fbdc27caa9d8b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1392d343dc2b2e1d74f649c3c4e3ecc8",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887621,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836581,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836581,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340255,
     "wof:name":"Roath",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887621,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -45,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.166097795558356,
+    -3.16609779555836,
     51.49228464345877,
-    -3.166097795558356,
+    -3.16609779555836,
     51.49228464345877
 ],
   "geometry": {"coordinates":[-3.16609779555836,51.49228464345877],"type":"Point"}

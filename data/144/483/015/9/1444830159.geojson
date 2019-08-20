@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698535,
+        102191581,
+        85633159,
+        404227469,
+        101750465,
+        1360698845
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"d7750bbb3b8dd6eb7633a10f0731cda9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a097da7738b017bb2763aaf1cda7d74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698845,
+            "locality_id":101750465,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830159,
+            "region_id":1360698535
+        }
+    ],
     "wof:id":1444830159,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336924,
     "wof:name":"Romsey Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.149255372409789,
+    0.14925537240979,
     52.20034155694918,
-    0.149255372409789,
+    0.14925537240979,
     52.20034155694918
 ],
   "geometry": {"coordinates":[0.14925537240979,52.20034155694918],"type":"Point"}

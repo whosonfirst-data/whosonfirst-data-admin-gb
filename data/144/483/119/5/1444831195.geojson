@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"aaf9330351ca47711e6d5f48923e99a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e931903f75f92d742db9e30378f027b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831195,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831195,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340873,
     "wof:name":"Chester Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.521248005173454,
+    -2.52124800517345,
     51.4705054048452,
-    -2.521248005173454,
+    -2.52124800517345,
     51.4705054048452
 ],
   "geometry": {"coordinates":[-2.52124800517345,51.4705054048452],"type":"Point"}

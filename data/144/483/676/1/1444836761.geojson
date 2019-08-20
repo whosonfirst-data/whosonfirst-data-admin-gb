@@ -26,15 +26,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887585,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"2f671d797644e4cf556ad60d5a36d5a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e582287490650bf2b1617623d21e83a2",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887585,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836761,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836761,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340277,
     "wof:name":"Grangetown",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887585,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.185438320426313,
+    -3.18543832042631,
     51.46484389881503,
-    -3.185438320426313,
+    -3.18543832042631,
     51.46484389881503
 ],
   "geometry": {"coordinates":[-3.18543832042631,51.46484389881503],"type":"Point"}

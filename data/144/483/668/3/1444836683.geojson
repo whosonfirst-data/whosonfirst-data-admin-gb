@@ -29,15 +29,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887569,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
     "wof:geomhash":"94f4db3e24d82dc09374865c9375172c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887569,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836683,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836683,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340267,
     "wof:name":"Canton",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887569,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

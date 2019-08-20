@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"4d4a81e8728418ec3fcb4cc2d7c8df51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6e9442df3b9070a81f36b577686682e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831501,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831501,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340913,
     "wof:name":"Headley Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.607681604596648,
+    -2.60768160459665,
     51.42092429701251,
-    -2.607681604596648,
+    -2.60768160459665,
     51.42092429701251
 ],
   "geometry": {"coordinates":[-2.60768160459665,51.42092429701251],"type":"Point"}

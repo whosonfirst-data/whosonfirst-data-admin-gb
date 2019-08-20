@@ -29,15 +29,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887627,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"44c81e1d757d7666209e0ace8cc9a40e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2d2dab6d7ec59aa6fd3b892153b49cf",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887627,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836637,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836637,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340262,
     "wof:name":"Rhydlafar",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887627,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -45,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.280653212083943,
-    51.511803859347516,
-    -3.280653212083943,
-    51.511803859347516
+    -3.28065321208394,
+    51.51180385934752,
+    -3.28065321208394,
+    51.51180385934752
 ],
   "geometry": {"coordinates":[-3.28065321208394,51.51180385934752],"type":"Point"}
 }

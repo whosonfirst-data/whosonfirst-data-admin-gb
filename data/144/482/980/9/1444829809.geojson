@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698569,
+        102191581,
+        85633159,
+        404227469,
+        101750485,
+        1360698995
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"7ca5f2f8fc5c1d20c0de94665b40ba71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66e6c7c3003a27fc04d1ab3a27512d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698995,
+            "locality_id":101750485,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444829809,
+            "region_id":1360698569
+        }
+    ],
     "wof:id":1444829809,
-    "wof:lastmodified":1566334995,
+    "wof:lastmodified":1566336884,
     "wof:name":"Rushey Mead",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.105604229618339,
+    -1.10560422961834,
     52.66465039830648,
-    -1.105604229618339,
+    -1.10560422961834,
     52.66465039830648
 ],
   "geometry": {"coordinates":[-1.10560422961834,52.66465039830648],"type":"Point"}

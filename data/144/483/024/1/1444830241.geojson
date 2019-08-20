@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"a8327d96e4f4fc8495fb05862095e931",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a30ff39e2dad5ab29098e90010ee451b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830241,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830241,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336936,
     "wof:name":"Barton",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -43,9 +60,9 @@
 },
   "bbox": [
     -1.19324559975675,
-    51.765222363153555,
+    51.76522236315355,
     -1.19324559975675,
-    51.765222363153555
+    51.76522236315355
 ],
   "geometry": {"coordinates":[-1.19324559975675,51.76522236315355],"type":"Point"}
 }

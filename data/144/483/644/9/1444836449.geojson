@@ -29,15 +29,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887611,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"25e2025ca6805f0dc57e8c3da5ce6c9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af7c3a5086a1cb9c8720a22bf62ff692",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887611,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836449,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836449,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566340239,
     "wof:name":"Pontprennau",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887611,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -46,9 +65,9 @@
 },
   "bbox": [
     -3.14063467849847,
-    51.535799596597265,
+    51.53579959659726,
     -3.14063467849847,
-    51.535799596597265
+    51.53579959659726
 ],
   "geometry": {"coordinates":[-3.14063467849847,51.53579959659726],"type":"Point"}
 }

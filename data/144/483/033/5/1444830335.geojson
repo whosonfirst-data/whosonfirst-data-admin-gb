@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"fd9bb117dd726cfd211d136bdfa87fac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bde9a499869d4182d08fe788fe2ff11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830335,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830335,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566336957,
     "wof:name":"Rose Hill",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.220310890474275,
+    -1.22031089047427,
     51.72952088785097,
-    -1.220310890474275,
+    -1.22031089047427,
     51.72952088785097
 ],
   "geometry": {"coordinates":[-1.22031089047427,51.72952088785097],"type":"Point"}

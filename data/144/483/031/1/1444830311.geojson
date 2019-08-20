@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"c3101365e49f777fb0b5eb0df0d87bb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb70b4eb3ea1e1e98db7aab8c0722767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830311,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830311,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566336952,
     "wof:name":"Grandpont",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.258934719722413,
+    -1.25893471972241,
     51.7445807680632,
-    -1.258934719722413,
+    -1.25893471972241,
     51.7445807680632
 ],
   "geometry": {"coordinates":[-1.25893471972241,51.7445807680632],"type":"Point"}

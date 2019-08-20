@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"f2fdc30ed5bba65cea933a632c8cc0e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7851a29b76d16d867ab82d37ea85229e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831225,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831225,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340878,
     "wof:name":"Crofts End",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.542629512364375,
-    51.465946832441944,
-    -2.542629512364375,
-    51.465946832441944
+    -2.54262951236438,
+    51.46594683244194,
+    -2.54262951236438,
+    51.46594683244194
 ],
   "geometry": {"coordinates":[-2.54262951236438,51.46594683244194],"type":"Point"}
 }

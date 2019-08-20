@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"1b08e717f64eb673bbf63ce352924184",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9843acdbb13ff03aa34eb4e59c223b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831295,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831295,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340887,
     "wof:name":"Victoria Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.611962193770232,
+    -2.61196219377023,
     51.45835562080096,
-    -2.611962193770232,
+    -2.61196219377023,
     51.45835562080096
 ],
   "geometry": {"coordinates":[-2.61196219377023,51.45835562080096],"type":"Point"}

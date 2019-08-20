@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"8598ba3e9c1a97c58b59ae67172dc4f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e77dfffad16b16938fa57d127119fe70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831511,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831511,
-    "wof:lastmodified":1566335000,
+    "wof:lastmodified":1566340914,
     "wof:name":"HIGHRIDGE",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -43,9 +60,9 @@
 },
   "bbox": [
     -2.62751952704384,
-    51.418000841535445,
+    51.41800084153545,
     -2.62751952704384,
-    51.418000841535445
+    51.41800084153545
 ],
   "geometry": {"coordinates":[-2.62751952704384,51.41800084153545],"type":"Point"}
 }

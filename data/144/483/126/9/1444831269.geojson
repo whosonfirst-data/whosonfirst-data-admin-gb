@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"2232f5bcdd43e12ca03e3393314ac37a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd19933867b1b3b255d928630cba14e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831269,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831269,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340883,
     "wof:name":"Westbury Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.613319976646661,
+    -2.61331997664666,
     51.47759165594701,
-    -2.613319976646661,
+    -2.61331997664666,
     51.47759165594701
 ],
   "geometry": {"coordinates":[-2.61331997664666,51.47759165594701],"type":"Point"}

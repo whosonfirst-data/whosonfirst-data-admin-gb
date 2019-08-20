@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"229168ea8bead3a70543548dec161c32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20790b73ef49935ffee0310458700aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831159,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831159,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340868,
     "wof:name":"Mayfield Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.528908759086779,
+    -2.52890875908678,
     51.4724284159793,
-    -2.528908759086779,
+    -2.52890875908678,
     51.4724284159793
 ],
   "geometry": {"coordinates":[-2.52890875908678,51.4724284159793],"type":"Point"}

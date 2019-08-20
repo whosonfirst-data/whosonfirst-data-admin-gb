@@ -26,15 +26,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887625,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"1326c99417f787cea2f43bd15f8c5503",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02905b64bad1a86a602beac3b1105077",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887625,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836773,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836773,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340277,
     "wof:name":"East Moors",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887625,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.151220468736852,
+    -3.15122046873685,
     51.4740401719242,
-    -3.151220468736852,
+    -3.15122046873685,
     51.4740401719242
 ],
   "geometry": {"coordinates":[-3.15122046873685,51.4740401719242],"type":"Point"}

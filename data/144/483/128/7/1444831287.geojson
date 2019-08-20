@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"976bb279e9ae0edaa93b81a55171858e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b529694fc3b141cc2bd94933fb96909b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831287,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831287,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340887,
     "wof:name":"Canon's Marsh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.601371487334087,
+    -2.60137148733409,
     51.44906190273711,
-    -2.601371487334087,
+    -2.60137148733409,
     51.44906190273711
 ],
   "geometry": {"coordinates":[-2.60137148733409,51.44906190273711],"type":"Point"}

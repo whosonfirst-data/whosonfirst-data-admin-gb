@@ -29,15 +29,36 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698539,
+        102191581,
+        404451883,
+        85633159,
+        404227469,
+        1360757427,
+        1360887587,
+        1360698765
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"baba593eb0290aa568931667709460ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9534cba78f1a66dcef9804817112f64",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887587,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698765,
+            "localadmin_id":404451883,
+            "locality_id":1360757427,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444836559,
+            "region_id":1360698539
+        }
+    ],
     "wof:id":1444836559,
-    "wof:lastmodified":1566334998,
+    "wof:lastmodified":1566340253,
     "wof:name":"Heath",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887587,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -45,9 +66,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.191904235544889,
+    -3.19190423554489,
     51.51369122258103,
-    -3.191904235544889,
+    -3.19190423554489,
     51.51369122258103
 ],
   "geometry": {"coordinates":[-3.19190423554489,51.51369122258103],"type":"Point"}

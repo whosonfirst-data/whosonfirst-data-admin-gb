@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"8e93938069948348f340ecfd326840a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c36e5fb034504df1c57667501eb4bce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830301,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830301,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336951,
     "wof:name":"New Hinksey",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.253441552896011,
-    51.738203078539286,
-    -1.253441552896011,
-    51.738203078539286
+    -1.25344155289601,
+    51.73820307853929,
+    -1.25344155289601,
+    51.73820307853929
 ],
   "geometry": {"coordinates":[-1.25344155289601,51.73820307853929],"type":"Point"}
 }

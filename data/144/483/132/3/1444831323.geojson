@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"b43ae58b63310809873948f04bfa0e57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63fda05f466d697511dd798e8a345f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831323,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831323,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340892,
     "wof:name":"City Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.594118068283692,
+    -2.59411806828369,
     51.45472653105302,
-    -2.594118068283692,
+    -2.59411806828369,
     51.45472653105302
 ],
   "geometry": {"coordinates":[-2.59411806828369,51.45472653105302],"type":"Point"}

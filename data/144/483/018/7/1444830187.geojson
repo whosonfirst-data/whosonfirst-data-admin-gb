@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698535,
+        102191581,
+        85633159,
+        404227469,
+        101750465,
+        1360698845
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"e50fcee4cede31081e680309d6166fe9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e47aa83781330368c8951fc92a6ed290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698845,
+            "locality_id":101750465,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830187,
+            "region_id":1360698535
+        }
+    ],
     "wof:id":1444830187,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336928,
     "wof:name":"Arbury",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.118814072913479,
+    0.11881407291348,
     52.22474397180118,
-    0.118814072913479,
+    0.11881407291348,
     52.22474397180118
 ],
   "geometry": {"coordinates":[0.11881407291348,52.22474397180118],"type":"Point"}

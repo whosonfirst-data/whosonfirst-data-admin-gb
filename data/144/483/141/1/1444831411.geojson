@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"7ff906c4b193fad78ebf9b2442b3f98d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"867087d808c40c94363d1be0c3092e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831411,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831411,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340902,
     "wof:name":"Conham",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.533818216118918,
+    -2.53381821611892,
     51.44715572196419,
-    -2.533818216118918,
+    -2.53381821611892,
     51.44715572196419
 ],
   "geometry": {"coordinates":[-2.53381821611892,51.44715572196419],"type":"Point"}

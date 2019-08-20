@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"dcfc3a7440de17ab1ff0e9781f0c25ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d21324a868fcd0fdf2f800adcdd65365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831343,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831343,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340893,
     "wof:name":"Russell Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.562731845161187,
+    -2.56273184516119,
     51.45586649707353,
-    -2.562731845161187,
+    -2.56273184516119,
     51.45586649707353
 ],
   "geometry": {"coordinates":[-2.56273184516119,51.45586649707353],"type":"Point"}

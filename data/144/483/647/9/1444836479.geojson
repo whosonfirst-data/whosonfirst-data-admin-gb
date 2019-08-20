@@ -29,15 +29,34 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        85633159,
+        404227475,
+        101750397,
+        1360887631,
+        1360699107
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"59f295e0f91c42b27ea45105f5aab081",
-    "wof:hierarchy":[],
+    "wof:geomhash":"681927e3997a48b93aa34c26a4c08be4",
+    "wof:hierarchy":[
+        {
+            "borough_id":1360887631,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699107,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":1444836479,
+            "region_id":1360698627
+        }
+    ],
     "wof:id":1444836479,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566340244,
     "wof:name":"Llaneurwg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360887631,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -45,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.098062635593854,
-    51.526295377853856,
-    -3.098062635593854,
-    51.526295377853856
+    -3.09806263559385,
+    51.52629537785386,
+    -3.09806263559385,
+    51.52629537785386
 ],
   "geometry": {"coordinates":[-3.09806263559385,51.52629537785386],"type":"Point"}
 }

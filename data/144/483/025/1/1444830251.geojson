@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"2262208c6de16ba6fd5adc55b18fc469",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c9914d0097a39cbbb5708415beea4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830251,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830251,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336938,
     "wof:name":"Wolvercote",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.292122602631897,
-    51.783987308162914,
-    -1.292122602631897,
-    51.783987308162914
+    -1.2921226026319,
+    51.78398730816291,
+    -1.2921226026319,
+    51.78398730816291
 ],
   "geometry": {"coordinates":[-1.2921226026319,51.78398730816291],"type":"Point"}
 }

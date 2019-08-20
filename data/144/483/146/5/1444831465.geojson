@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"778916c586411c9008d0de9b40938e74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca6eb84d4c655015708007f9753ce7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831465,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831465,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340909,
     "wof:name":"Filwood Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.583155758112945,
+    -2.58315575811294,
     51.42677064701513,
-    -2.583155758112945,
+    -2.58315575811294,
     51.42677064701513
 ],
   "geometry": {"coordinates":[-2.58315575811294,51.42677064701513],"type":"Point"}

@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"809a65e65cc31108f857870929642fa3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a9cdb4be62c2cbd7c2feeddbe6575f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830247,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830247,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336937,
     "wof:name":"New Marston",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.235130996808028,
+    -1.23513099680803,
     51.76316836719336,
-    -1.235130996808028,
+    -1.23513099680803,
     51.76316836719336
 ],
   "geometry": {"coordinates":[-1.23513099680803,51.76316836719336],"type":"Point"}

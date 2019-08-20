@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"ad24fb52131513c7e840526393696479",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39b84794d33f091e282b43fae473b83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831167,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831167,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340869,
     "wof:name":"Ridgeway",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.538284607159803,
+    -2.5382846071598,
     51.47285574077915,
-    -2.538284607159803,
+    -2.5382846071598,
     51.47285574077915
 ],
   "geometry": {"coordinates":[-2.5382846071598,51.47285574077915],"type":"Point"}

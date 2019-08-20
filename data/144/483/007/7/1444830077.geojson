@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698569,
+        102191581,
+        85633159,
+        404227469,
+        101750485,
+        1360698995
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"c996772baa088598a2cb337f9d3c6d4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b85791e319bcd5413e7dd51cb219947f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698995,
+            "locality_id":101750485,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830077,
+            "region_id":1360698569
+        }
+    ],
     "wof:id":1444830077,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336914,
     "wof:name":"South Knighton",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.107077657178513,
+    -1.10707765717851,
     52.60482702957112,
-    -1.107077657178513,
+    -1.10707765717851,
     52.60482702957112
 ],
   "geometry": {"coordinates":[-1.10707765717851,52.60482702957112],"type":"Point"}

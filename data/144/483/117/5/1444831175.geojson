@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"7c4fb51c46c23afcd35770d7487b93a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ccc03d207474e35184bd7d3db3cbee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831175,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831175,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340872,
     "wof:name":"Upper Eastville",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.545659512046512,
+    -2.54565951204651,
     51.47438695510863,
-    -2.545659512046512,
+    -2.54565951204651,
     51.47438695510863
 ],
   "geometry": {"coordinates":[-2.54565951204651,51.47438695510863],"type":"Point"}

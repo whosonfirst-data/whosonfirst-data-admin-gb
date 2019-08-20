@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698569,
+        102191581,
+        85633159,
+        404227469,
+        101750485,
+        1360698995
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"f2ee72e8a22c8f4497ad36f40260dcd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2800009e4666451587ac08be30191f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698995,
+            "locality_id":101750485,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444829869,
+            "region_id":1360698569
+        }
+    ],
     "wof:id":1444829869,
-    "wof:lastmodified":1566334995,
+    "wof:lastmodified":1566336890,
     "wof:name":"New Parks",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.170263380804041,
-    52.646392793318334,
-    -1.170263380804041,
-    52.646392793318334
+    -1.17026338080404,
+    52.64639279331833,
+    -1.17026338080404,
+    52.64639279331833
 ],
   "geometry": {"coordinates":[-1.17026338080404,52.64639279331833],"type":"Point"}
 }

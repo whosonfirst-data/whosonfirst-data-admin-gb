@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"7a421b019df7362aa656b70ad2001df9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e275f1259f21de43fd2eff886a728cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830295,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830295,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336948,
     "wof:name":"North Oxford",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.263626799719965,
+    -1.26362679971997,
     51.76997629703955,
-    -1.263626799719965,
+    -1.26362679971997,
     51.76997629703955
 ],
   "geometry": {"coordinates":[-1.26362679971997,51.76997629703955],"type":"Point"}

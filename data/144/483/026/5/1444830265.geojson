@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"713307abea08b783a06a8d33708c8fc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad2e576902cf5c058f0875e59ceb509c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830265,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830265,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336942,
     "wof:name":"Binsey",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.289261578243149,
+    -1.28926157824315,
     51.76415996311754,
-    -1.289261578243149,
+    -1.28926157824315,
     51.76415996311754
 ],
   "geometry": {"coordinates":[-1.28926157824315,51.76415996311754],"type":"Point"}

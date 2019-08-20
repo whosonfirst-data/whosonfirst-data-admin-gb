@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"f81591eb2b79682130d63aadc808543a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f13e27fc6e41c8fd58293e4c82654a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831377,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831377,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340898,
     "wof:name":"St Anne's Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.540850102173687,
+    -2.54085010217369,
     51.45000605626615,
-    -2.540850102173687,
+    -2.54085010217369,
     51.45000605626615
 ],
   "geometry": {"coordinates":[-2.54085010217369,51.45000605626615],"type":"Point"}

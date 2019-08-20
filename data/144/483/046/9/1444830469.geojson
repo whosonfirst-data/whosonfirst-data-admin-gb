@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"d81594bdb10585c3a6a8de5a3df684b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4b2091b6797ac807ee8643dd05fc608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830469,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830469,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566336971,
     "wof:name":"Northway",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.220918858156887,
+    -1.22091885815689,
     51.76941859887533,
-    -1.220918858156887,
+    -1.22091885815689,
     51.76941859887533
 ],
   "geometry": {"coordinates":[-1.22091885815689,51.76941859887533],"type":"Point"}

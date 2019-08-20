@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698531,
+        102191581,
+        85633159,
+        404227469,
+        1175612699,
+        1360698747
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"ae4a501601448e215798a9ede5d6a01c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83f426f1ac89310c83bd628001e95d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698747,
+            "locality_id":1175612699,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444831215,
+            "region_id":1360698531
+        }
+    ],
     "wof:id":1444831215,
-    "wof:lastmodified":1566334999,
+    "wof:lastmodified":1566340877,
     "wof:name":"Rose Green",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.548403662702031,
-    51.466623524318145,
-    -2.548403662702031,
-    51.466623524318145
+    -2.54840366270203,
+    51.46662352431814,
+    -2.54840366270203,
+    51.46662352431814
 ],
   "geometry": {"coordinates":[-2.54840366270203,51.46662352431814],"type":"Point"}
 }

@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        85633159,
+        404227469,
+        101750439,
+        1360698839
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"0ba9f61b38fcb8920cbe1eaf6a93e7b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b81cd4fe293779ae190f00a1465b03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "locality_id":101750439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830319,
+            "region_id":1360698585
+        }
+    ],
     "wof:id":1444830319,
-    "wof:lastmodified":1566334997,
+    "wof:lastmodified":1566336953,
     "wof:name":"New Headington",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.209553438772572,
+    -1.20955343877257,
     51.75432272214345,
-    -1.209553438772572,
+    -1.20955343877257,
     51.75432272214345
 ],
   "geometry": {"coordinates":[-1.20955343877257,51.75432272214345],"type":"Point"}

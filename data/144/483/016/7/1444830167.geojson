@@ -26,15 +26,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1360698535,
+        102191581,
+        85633159,
+        404227469,
+        101750465,
+        1360698845
+    ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"2a3aab749c2d611904029b3e6323285f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebbda4341df570efcbc37da5a55b9fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698845,
+            "locality_id":101750465,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1444830167,
+            "region_id":1360698535
+        }
+    ],
     "wof:id":1444830167,
-    "wof:lastmodified":1566334996,
+    "wof:lastmodified":1566336924,
     "wof:name":"Newtown",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -42,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.132718651442809,
-    52.190994263291195,
-    0.132718651442809,
-    52.190994263291195
+    0.13271865144281,
+    52.19099426329119,
+    0.13271865144281,
+    52.19099426329119
 ],
   "geometry": {"coordinates":[0.13271865144281,52.19099426329119],"type":"Point"}
 }
