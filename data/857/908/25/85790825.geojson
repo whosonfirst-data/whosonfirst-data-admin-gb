@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.266818,51.775025,-1.266818,51.775025",
-    "geom:latitude":51.775025,
-    "geom:longitude":-1.266818,
+    "geom:bbox":"-1.263843,51.776158,-1.263843,51.776158",
+    "geom:latitude":51.776158,
+    "geom:longitude":-1.263843,
     "iso:country":"GB",
-    "lbl:latitude":51.775025,
-    "lbl:longitude":-1.266818,
+    "lbl:latitude":51.776158,
+    "lbl:longitude":-1.263843,
     "mps:latitude":51.78654,
     "mps:longitude":-1.27474,
     "mz:hierarchy_label":0,
@@ -21,8 +21,9 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:eng_x_preferred":[
         "Summertown"
     ],
@@ -66,12 +67,13 @@
     "qs:woe_lau":12696058,
     "qs:woe_local":31278,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":1751,
     "wof:belongsto":[
         102191581,
@@ -91,7 +93,7 @@
         "wk:page":"Summertown, Oxford"
     },
     "wof:country":"GB",
-    "wof:geomhash":"5b84b2784dce1569e0dd162562b7f914",
+    "wof:geomhash":"41d33e33356a405e653afda6f63bf7d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331627,
+    "wof:lastmodified":1566247543,
     "wof:name":"Summertown",
     "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
@@ -117,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.266818,
-    51.775025,
-    -1.266818,
-    51.775025
+    -1.263843,
+    51.776158,
+    -1.263843,
+    51.776158
 ],
-  "geometry": {"coordinates":[-1.266818,51.775025],"type":"Point"}
+  "geometry": {"coordinates":[-1.263843,51.776158],"type":"Point"}
 }

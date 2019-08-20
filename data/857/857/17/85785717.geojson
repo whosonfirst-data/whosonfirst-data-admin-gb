@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.213539,51.517753,-3.213539,51.517753",
-    "geom:latitude":51.517753,
-    "geom:longitude":-3.213539,
+    "geom:bbox":"-3.202324,51.51697,-3.202324,51.51697",
+    "geom:latitude":51.51697,
+    "geom:longitude":-3.202324,
     "gn:latitude":51.51194,
     "gn:longitude":-3.20861,
     "iso:country":"GB",
-    "lbl:latitude":51.517753,
-    "lbl:longitude":-3.213539,
+    "lbl:latitude":51.51697,
+    "lbl:longitude":-3.202324,
     "mps:latitude":51.52147,
     "mps:longitude":-3.210814,
     "mz:hierarchy_label":0,
@@ -69,12 +69,13 @@
     "qs:woe_lau":12696132,
     "qs:woe_local":15127,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -93,7 +94,7 @@
         "qs_pg:id":235268
     },
     "wof:country":"GB",
-    "wof:geomhash":"c5b4723500e3a745b02ccae3ceb37a3c",
+    "wof:geomhash":"36145b29d0c9158d0c8df6539536b7ed",
     "wof:hierarchy":[
         {
             "borough_id":1360887617,
@@ -110,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564152036,
+    "wof:lastmodified":1566247498,
     "wof:name":"Birchgrove",
     "wof:parent_id":1360887617,
     "wof:placetype":"neighbourhood",
@@ -120,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.213539,
-    51.517753,
-    -3.213539,
-    51.517753
+    -3.202324,
+    51.51697,
+    -3.202324,
+    51.51697
 ],
-  "geometry": {"coordinates":[-3.213539,51.517753],"type":"Point"}
+  "geometry": {"coordinates":[-3.202324,51.51697],"type":"Point"}
 }

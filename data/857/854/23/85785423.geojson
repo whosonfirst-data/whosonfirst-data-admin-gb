@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.153253,52.604141,-1.153253,52.604141",
-    "geom:latitude":52.604141,
-    "geom:longitude":-1.153253,
+    "geom:bbox":"-1.153825,52.602195,-1.153825,52.602195",
+    "geom:latitude":52.602195,
+    "geom:longitude":-1.153825,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":52.604141,
-    "lbl:longitude":-1.153253,
+    "lbl:latitude":52.602195,
+    "lbl:longitude":-1.153825,
     "mps:latitude":52.587438,
     "mps:longitude":-1.183823,
     "mz:hierarchy_label":0,
@@ -57,20 +57,21 @@
     "qs:woe_lau":12696154,
     "qs:woe_local":26062,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":1858,
     "wof:belongsto":[
-        1360698569,
         102191581,
         85633159,
         404227469,
         101750485,
-        1360698995
+        1360698995,
+        1360698569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +81,7 @@
         "wd:id":"Q4831398"
     },
     "wof:country":"GB",
-    "wof:geomhash":"c9e4f8b395e0fe754312b851237d1588",
+    "wof:geomhash":"28166105ac78a594f9e0248b0def2b07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400110,
+    "wof:lastmodified":1566247501,
     "wof:name":"Aylestone",
     "wof:parent_id":101750485,
     "wof:placetype":"neighbourhood",
@@ -106,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.153253,
-    52.604141,
-    -1.153253,
-    52.604141
+    -1.153825,
+    52.602195,
+    -1.153825,
+    52.602195
 ],
-  "geometry": {"coordinates":[-1.153253,52.604141],"type":"Point"}
+  "geometry": {"coordinates":[-1.153825,52.602195],"type":"Point"}
 }

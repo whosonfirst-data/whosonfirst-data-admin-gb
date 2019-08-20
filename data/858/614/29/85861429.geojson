@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.16469,51.462395,-3.16469,51.462395",
-    "geom:latitude":51.462395,
-    "geom:longitude":-3.16469,
+    "geom:bbox":"-3.157137,51.464677,-3.157137,51.464677",
+    "geom:latitude":51.464677,
+    "geom:longitude":-3.157137,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":51.462395,
-    "lbl:longitude":-3.16469,
+    "lbl:latitude":51.464677,
+    "lbl:longitude":-3.157137,
     "mps:latitude":51.458285,
     "mps:longitude":-3.165502,
     "mz:hierarchy_label":0,
@@ -22,7 +22,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:ceb_x_preferred":[
@@ -95,12 +95,13 @@
     "qs:woe_lau":12696132,
     "qs:woe_local":15127,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":1853,
     "wof:belongsto":[
         102191581,
@@ -119,7 +120,7 @@
         "wd:id":"Q3396731"
     },
     "wof:country":"GB",
-    "wof:geomhash":"0a72564f2277ba40623cbf8946298faf",
+    "wof:geomhash":"11ba21a3c012d90cda31ee3808187e1a",
     "wof:hierarchy":[
         {
             "borough_id":1360887565,
@@ -136,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332286,
+    "wof:lastmodified":1566247517,
     "wof:name":"Cardiff Bay",
     "wof:parent_id":1360887565,
     "wof:placetype":"neighbourhood",
@@ -146,10 +147,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.16469,
-    51.462395,
-    -3.16469,
-    51.462395
+    -3.157137,
+    51.464677,
+    -3.157137,
+    51.464677
 ],
-  "geometry": {"coordinates":[-3.16469,51.462395],"type":"Point"}
+  "geometry": {"coordinates":[-3.157137,51.464677],"type":"Point"}
 }

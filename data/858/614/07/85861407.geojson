@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.204791,51.502443,-3.204791,51.502443",
-    "geom:latitude":51.502443,
+    "geom:bbox":"-3.204791,51.504438,-3.204791,51.504438",
+    "geom:latitude":51.504438,
     "geom:longitude":-3.204791,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":51.502443,
+    "lbl:latitude":51.504438,
     "lbl:longitude":-3.204791,
     "mps:latitude":51.501433,
     "mps:longitude":-3.20808,
@@ -22,7 +22,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:cym_x_preferred":[
@@ -64,12 +64,13 @@
     "qs:woe_lau":12696132,
     "qs:woe_local":15127,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191581,
@@ -88,7 +89,7 @@
         "wd:id":"Q6947803"
     },
     "wof:country":"GB",
-    "wof:geomhash":"b3e345de5846bbd4c78c09410aaa5cc1",
+    "wof:geomhash":"c395f79c878ff78582ec9400dd1ef1a8",
     "wof:hierarchy":[
         {
             "borough_id":1360887593,
@@ -105,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332288,
+    "wof:lastmodified":1566247517,
     "wof:name":"Mynachdy",
     "wof:parent_id":1360887593,
     "wof:placetype":"neighbourhood",
@@ -116,9 +117,9 @@
 },
   "bbox": [
     -3.204791,
-    51.502443,
+    51.504438,
     -3.204791,
-    51.502443
+    51.504438
 ],
-  "geometry": {"coordinates":[-3.204791,51.502443],"type":"Point"}
+  "geometry": {"coordinates":[-3.204791,51.504438],"type":"Point"}
 }

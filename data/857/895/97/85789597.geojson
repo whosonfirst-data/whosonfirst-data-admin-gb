@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.247958,51.763539,-1.247958,51.763539",
-    "geom:latitude":51.763539,
-    "geom:longitude":-1.247958,
+    "geom:bbox":"-1.24052,51.778552,-1.24052,51.778552",
+    "geom:latitude":51.778552,
+    "geom:longitude":-1.24052,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":51.763539,
-    "lbl:longitude":-1.247958,
+    "lbl:latitude":51.778552,
+    "lbl:longitude":-1.24052,
     "mps:latitude":51.76444,
     "mps:longitude":-1.236341,
     "mz:hierarchy_label":0,
@@ -22,8 +22,9 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:eng_x_preferred":[
         "Old Marston"
     ],
@@ -55,19 +56,20 @@
     "qs:woe_lau":12696058,
     "qs:woe_local":31278,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        1360698585,
         102191581,
         85633159,
         404227469,
         101750439,
-        1360698839
+        1360698839,
+        1360698585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +78,7 @@
         "qs_pg:id":1071915
     },
     "wof:country":"GB",
-    "wof:geomhash":"2643b092901bb28803b03831eff26220",
+    "wof:geomhash":"6f972d9b357d009fc87b2bb03d5de9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698444,
+    "wof:lastmodified":1566247495,
     "wof:name":"Old Marston",
     "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
@@ -102,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.247958,
-    51.763539,
-    -1.247958,
-    51.763539
+    -1.24052,
+    51.778552,
+    -1.24052,
+    51.778552
 ],
-  "geometry": {"coordinates":[-1.247958,51.763539],"type":"Point"}
+  "geometry": {"coordinates":[-1.24052,51.778552],"type":"Point"}
 }

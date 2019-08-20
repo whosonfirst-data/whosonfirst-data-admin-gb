@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.23882,51.730291,-1.23882,51.730291",
-    "geom:latitude":51.730291,
-    "geom:longitude":-1.23882,
+    "geom:bbox":"-1.235215,51.72781,-1.235215,51.72781",
+    "geom:latitude":51.72781,
+    "geom:longitude":-1.235215,
     "gn:latitude":51.73001,
     "gn:longitude":-1.23845,
     "iso:country":"GB",
-    "lbl:latitude":51.730291,
-    "lbl:longitude":-1.23882,
+    "lbl:latitude":51.72781,
+    "lbl:longitude":-1.235215,
     "mps:latitude":51.721931,
     "mps:longitude":-1.247066,
     "mz:hierarchy_label":0,
@@ -25,6 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:eng_x_preferred":[
         "Iffley"
     ],
@@ -71,12 +72,13 @@
     "qs:woe_lau":12696058,
     "qs:woe_local":31278,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:latitude":51.731,
     "wd:longitude":-1.227,
     "wd:wordcount":761,
@@ -98,7 +100,7 @@
         "wk:page":"Iffley"
     },
     "wof:country":"GB",
-    "wof:geomhash":"aee2d9255d46b1ab96ca1b53b0e9bd0b",
+    "wof:geomhash":"0b171190e754a1866d565869e3776e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331938,
+    "wof:lastmodified":1566247499,
     "wof:name":"Iffley",
     "wof:parent_id":101750439,
     "wof:placetype":"neighbourhood",
@@ -124,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.23882,
-    51.730291,
-    -1.23882,
-    51.730291
+    -1.235215,
+    51.72781,
+    -1.235215,
+    51.72781
 ],
-  "geometry": {"coordinates":[-1.23882,51.730291],"type":"Point"}
+  "geometry": {"coordinates":[-1.235215,51.72781],"type":"Point"}
 }

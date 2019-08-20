@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.169605,51.478526,-3.169605,51.478526",
-    "geom:latitude":51.478526,
-    "geom:longitude":-3.169605,
+    "geom:bbox":"-3.166515,51.473037,-3.166515,51.473037",
+    "geom:latitude":51.473037,
+    "geom:longitude":-3.166515,
     "gn:id":"",
     "iso:country":"GB",
-    "lbl:latitude":51.478526,
-    "lbl:longitude":-3.169605,
+    "lbl:latitude":51.473037,
+    "lbl:longitude":-3.166515,
     "mps:latitude":51.477106,
     "mps:longitude":-3.163935,
     "mz:hierarchy_label":0,
@@ -22,7 +22,7 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
@@ -58,12 +58,13 @@
     "qs:woe_lau":12696132,
     "qs:woe_local":15127,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":653,
     "wof:belongsto":[
         102191581,
@@ -82,7 +83,7 @@
         "wd:id":"Q4816592"
     },
     "wof:country":"GB",
-    "wof:geomhash":"b4ad8f7b2ea2308b7baca456c520eef7",
+    "wof:geomhash":"89709ba52e32c1582ded730471605a0c",
     "wof:hierarchy":[
         {
             "borough_id":1360887563,
@@ -99,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332286,
+    "wof:lastmodified":1566247517,
     "wof:name":"Atlantic Wharf",
     "wof:parent_id":1360887563,
     "wof:placetype":"neighbourhood",
@@ -109,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.169605,
-    51.478526,
-    -3.169605,
-    51.478526
+    -3.166515,
+    51.473037,
+    -3.166515,
+    51.473037
 ],
-  "geometry": {"coordinates":[-3.169605,51.478526],"type":"Point"}
+  "geometry": {"coordinates":[-3.166515,51.473037],"type":"Point"}
 }

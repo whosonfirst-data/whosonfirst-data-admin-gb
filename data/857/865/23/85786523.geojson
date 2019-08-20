@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"0.171108,52.185503,0.171108,52.185503",
-    "geom:latitude":52.185503,
-    "geom:longitude":0.171108,
+    "geom:bbox":"0.177059,52.188941,0.177059,52.188941",
+    "geom:latitude":52.188941,
+    "geom:longitude":0.177059,
     "gn:latitude":52.19004,
     "gn:longitude":0.16565,
     "iso:country":"GB",
-    "lbl:latitude":52.185503,
-    "lbl:longitude":0.171108,
+    "lbl:latitude":52.188941,
+    "lbl:longitude":0.177059,
     "mps:latitude":52.192081,
     "mps:longitude":0.189351,
     "mz:hierarchy_label":0,
@@ -25,6 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0631\u064a \u0647\u064a\u0646\u062a\u0648\u0646"
     ],
@@ -80,12 +81,13 @@
     "qs:woe_lau":12695882,
     "qs:woe_local":14979,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:latitude":52.1849,
     "wd:longitude":0.176,
     "wd:wordcount":1682,
@@ -107,7 +109,7 @@
         "wk:page":"Cherry Hinton"
     },
     "wof:country":"GB",
-    "wof:geomhash":"f207ab7ae8d76ad698998c0eb086f99a",
+    "wof:geomhash":"617b23439162c552771e9569d6f44b47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332019,
+    "wof:lastmodified":1566247500,
     "wof:name":"Cherry Hinton",
     "wof:parent_id":101750465,
     "wof:placetype":"neighbourhood",
@@ -133,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.171108,
-    52.185503,
-    0.171108,
-    52.185503
+    0.177059,
+    52.188941,
+    0.177059,
+    52.188941
 ],
-  "geometry": {"coordinates":[0.171108,52.185503],"type":"Point"}
+  "geometry": {"coordinates":[0.177059,52.188941],"type":"Point"}
 }

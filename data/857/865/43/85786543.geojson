@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"0.146557,52.219282,0.146557,52.219282",
-    "geom:latitude":52.219282,
-    "geom:longitude":0.146557,
+    "geom:bbox":"0.144154,52.221104,0.144154,52.221104",
+    "geom:latitude":52.221104,
+    "geom:longitude":0.144154,
     "gn:latitude":52.22152,
     "gn:longitude":0.14042,
     "iso:country":"GB",
-    "lbl:latitude":52.219282,
-    "lbl:longitude":0.146557,
+    "lbl:latitude":52.221104,
+    "lbl:longitude":0.144154,
     "mps:latitude":52.23365,
     "mps:longitude":0.157612,
     "mz:hierarchy_label":0,
@@ -25,6 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:bre_x_preferred":[
         "Chesterton"
     ],
@@ -92,11 +93,12 @@
     "qs:woe_lau":12695882,
     "qs:woe_local":14979,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":101,
     "wof:belongsto":[
         102191581,
@@ -113,7 +115,7 @@
         "gp:id":15838
     },
     "wof:country":"GB",
-    "wof:geomhash":"339bd8132895504a323b84f04da5e75e",
+    "wof:geomhash":"a3f9068b32beb8bb3b4a4a3490a104a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564152120,
+    "wof:lastmodified":1566247500,
     "wof:name":"Chesterton",
     "wof:parent_id":101750465,
     "wof:placetype":"neighbourhood",
@@ -139,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.146557,
-    52.219282,
-    0.146557,
-    52.219282
+    0.144154,
+    52.221104,
+    0.144154,
+    52.221104
 ],
-  "geometry": {"coordinates":[0.146557,52.219282],"type":"Point"}
+  "geometry": {"coordinates":[0.144154,52.221104],"type":"Point"}
 }
