@@ -9,14 +9,17 @@
     "geom:bbox":"-2.60301064083,53.3359263018,-2.50584125481,53.370165251",
     "geom:latitude":53.352423,
     "geom:longitude":-2.55946,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.3524,
     "lbl:longitude":-2.57183,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Appleton"
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         1360698537,
         102191581,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1125892005,
-    "wof:lastmodified":1564159183,
+    "wof:lastmodified":1566634948,
     "wof:name":"Appleton",
     "wof:parent_id":404436353,
     "wof:placetype":"locality",

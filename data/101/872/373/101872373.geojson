@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":55.549779,
     "lbl:longitude":-2.011213,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.549779,
     "mps:longitude":-2.011213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0648\u0644\u0631"
     ],
@@ -91,7 +94,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.5461,
     "wd:longitude":-2.0166,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":2633606,
         "gp:id":41056,
-        "qs:id":441668,
         "qs_pg:id":441668,
         "wd:id":"Q2663783",
         "wk:page":"Wooler"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101872373,
-    "wof:lastmodified":1563336464,
+    "wof:lastmodified":1566630869,
     "wof:name":"Wooler",
     "wof:parent_id":404433797,
     "wof:placetype":"locality",

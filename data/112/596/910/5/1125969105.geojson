@@ -9,15 +9,17 @@
     "geom:bbox":"-1.08450279826,53.8143346085,-1.01155935733,53.8487699601",
     "geom:latitude":53.828683,
     "geom:longitude":-1.049562,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2241,
-    "gn:population":2216,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2241,
     "iso:country":"GB",
     "lbl:latitude":53.83331,
     "lbl:longitude":-1.0573,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Riccall"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125969105,
-    "wof:lastmodified":1563342002,
+    "wof:lastmodified":1566635657,
     "wof:name":"Riccall",
     "wof:parent_id":404433049,
     "wof:placetype":"locality",

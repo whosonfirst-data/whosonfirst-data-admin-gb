@@ -9,15 +9,17 @@
     "geom:bbox":"-1.33507116458,52.7339280837,-1.25977578603,52.7853846894",
     "geom:latitude":52.763648,
     "geom:longitude":-1.296504,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13169,
-    "gn:population":13505,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":13169,
     "iso:country":"GB",
     "lbl:latitude":52.7657,
     "lbl:longitude":-1.29021,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0634\u067e\u0634\u062f"
@@ -94,7 +96,7 @@
     "name:tel_x_preferred":[
         "\u0c37\u0c47\u0c2a\u0c4d\u0c38\u0c4d\u0c39\u0c46\u0c21\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sheepshed"
     ],
     "name:urd_x_preferred":[
@@ -127,7 +129,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":1125874381,
-    "wof:lastmodified":1563341121,
+    "wof:lastmodified":1566635107,
     "wof:name":"Shepshed",
     "wof:parent_id":404444661,
     "wof:placetype":"locality",

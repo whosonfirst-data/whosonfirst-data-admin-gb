@@ -9,14 +9,17 @@
     "geom:bbox":"-3.83333,52.4,-3.83333,52.4",
     "geom:latitude":52.4,
     "geom:longitude":-3.83333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.83833,52.395,-3.82833,52.405",
     "lbl:latitude":52.4,
     "lbl:longitude":-3.83333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Ysbyty Cynfyn"
@@ -33,7 +36,7 @@
     "name:nld_x_preferred":[
         "Ysbyty Cynfyn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yspytty Cyfyn"
     ],
     "qs_pg:aaroncc":"GB",
@@ -57,7 +60,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":41431,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1360713781,
-    "wof:lastmodified":1561837936,
+    "wof:lastmodified":1566628999,
     "wof:name":"Ysbyty Cynfyn",
     "wof:parent_id":1360711543,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":52.056652,
     "lbl:longitude":1.164486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.05262,
     "mps:longitude":1.164245,
     "mz:hierarchy_label":1,
@@ -337,7 +339,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5834,
     "wof:belongsto":[
         1360698595,
@@ -350,10 +352,12 @@
     "wof:concordances":{
         "gn:id":2646057,
         "gp:id":24522,
-        "qs:id":1062664,
-        "qs_pg:id":1073522,
+        "qs_pg:id":1062664,
         "wd:id":"Q184775",
         "wk:page":"Ipswich"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073522
     },
     "wof:country":"GB",
     "wof:geomhash":"184d84b450857a80c5002fe63f250f63",
@@ -368,7 +372,7 @@
         }
     ],
     "wof:id":101750447,
-    "wof:lastmodified":1563336544,
+    "wof:lastmodified":1566630902,
     "wof:name":"Ipswich",
     "wof:parent_id":1360699041,
     "wof:placetype":"locality",

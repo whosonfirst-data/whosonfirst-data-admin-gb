@@ -9,15 +9,17 @@
     "geom:bbox":"-1.02585192342,53.875188313,-0.919651490519,53.9222092863",
     "geom:latitude":53.898076,
     "geom:longitude":-0.982112,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1820,
-    "gn:population":1984,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1820,
     "iso:country":"GB",
     "lbl:latitude":53.89624,
     "lbl:longitude":-0.96303,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Wheldrake"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125882149,
-    "wof:lastmodified":1563340741,
+    "wof:lastmodified":1566634874,
     "wof:name":"Wheldrake",
     "wof:parent_id":404444783,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-1.588499,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.593499,53.653723,-1.583499,53.663723",
     "lbl:latitude":53.658723,
     "lbl:longitude":-1.588499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.656393,
     "mps:longitude":-1.590027,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Thornhill Edge"
-    ],
-    "name:unk_x_variant":[
         "Thornhill Edge"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698609,
         102191581,
         404434037,
         85633159,
         404227469,
         1360755165,
-        1360698945
+        1360698945,
+        1360698609
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":37347,
-        "qs:id":235405,
         "qs_pg:id":235405
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547729999,
+    "wof:lastmodified":1566627793,
     "wof:name":"Thornhill Edge",
     "wof:parent_id":1360755165,
     "wof:placetype":"neighbourhood",

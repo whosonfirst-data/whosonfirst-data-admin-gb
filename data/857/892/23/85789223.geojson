@@ -11,8 +11,10 @@
     "geom:longitude":-1.852506,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.857506,53.655217,-1.847506,53.665217",
     "lbl:latitude":53.660217,
     "lbl:longitude":-1.852506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.671002,
     "mps:longitude":-1.863728,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c4c\u0c02\u0c1f\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Mount"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":5224,
@@ -74,20 +73,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":239,
     "wof:belongsto":[
-        1360698609,
         102191581,
         85633159,
         404227469,
         101750573,
-        1360698917
+        1360698917,
+        1360698609
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29466,
-        "qs:id":278275,
         "qs_pg:id":278275
     },
     "wof:country":"GB",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698514,
+    "wof:lastmodified":1566627577,
     "wof:name":"Mount",
     "wof:parent_id":101750573,
     "wof:placetype":"neighbourhood",

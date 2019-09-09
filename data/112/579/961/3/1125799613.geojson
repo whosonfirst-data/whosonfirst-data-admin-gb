@@ -9,14 +9,17 @@
     "geom:bbox":"-1.22012884051,54.0077639179,-1.17826676617,54.0310376989",
     "geom:latitude":54.021542,
     "geom:longitude":-1.198917,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.01513,
     "lbl:longitude":-1.19339,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u0438\u043d\u0433\u0431\u0440\u043e\u0443\u0433\u0445"
@@ -39,7 +42,7 @@
     "name:swe_x_preferred":[
         "Beningbrough"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Benningbrough"
     ],
     "qs_pg:aaroncc":"GB",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125799613,
-    "wof:lastmodified":1563342936,
+    "wof:lastmodified":1566636232,
     "wof:name":"Beningbrough",
     "wof:parent_id":404436675,
     "wof:placetype":"locality",

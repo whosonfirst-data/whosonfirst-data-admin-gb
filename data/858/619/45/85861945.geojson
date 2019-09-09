@@ -11,8 +11,10 @@
     "geom:longitude":-1.178909,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.183909,52.991081,-1.173909,53.001081",
     "lbl:latitude":52.996081,
     "lbl:longitude":-1.178909,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.99168,
     "mps:longitude":-1.187723,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Highbury Vale"
-    ],
-    "name:unk_x_variant":[
         "Highbury Vale"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698583,
         102191581,
         85633159,
         404227469,
         1175612705,
-        1360698801
+        1360698801,
+        1360698583
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20094400,
-        "qs:id":1267661,
         "qs_pg:id":1267661
     },
     "wof:country":"GB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698232,
+    "wof:lastmodified":1566627834,
     "wof:name":"Highbury Vale",
     "wof:parent_id":1175612705,
     "wof:placetype":"neighbourhood",

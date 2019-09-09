@@ -10,8 +10,10 @@
     "geom:latitude":53.616277,
     "geom:longitude":-1.722358,
     "iso:country":"GB",
+    "lbl:bbox":"-1.727358,53.611277,-1.717358,53.621277",
     "lbl:latitude":53.616277,
     "lbl:longitude":-1.722358,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.601871,
     "mps:longitude":-1.732079,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Fenay Bridge"
-    ],
-    "name:unk_x_variant":[
         "Fenay Bridge"
     ],
     "qs:gn_fcode":"PPL",
@@ -57,21 +56,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698609,
         102191581,
         404444251,
         85633159,
         404227469,
         101872225,
-        1360698917
+        1360698917,
+        1360698609
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2649567,
         "gp:id":20055,
-        "qs:id":1082185,
         "qs_pg:id":1082185
     },
     "wof:country":"GB",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547718696,
+    "wof:lastmodified":1566627541,
     "wof:name":"Fenay Bridge",
     "wof:parent_id":101872225,
     "wof:placetype":"neighbourhood",

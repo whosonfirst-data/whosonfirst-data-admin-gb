@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":55.163037,
     "lbl:longitude":-1.685491,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.163037,
     "mps:longitude":-1.685491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0631\u067e\u062b"
     ],
@@ -151,7 +154,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.166667,
     "wd:longitude":-1.683333,
@@ -168,10 +171,12 @@
     "wof:concordances":{
         "gn:id":2642182,
         "gp:id":29362,
-        "qs:id":373342,
-        "qs_pg:id":1073618,
+        "qs_pg:id":373342,
         "wd:id":"Q736785",
         "wk:page":"Morpeth, Northumberland"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073618
     },
     "wof:coterminous":[
         404449843
@@ -190,7 +195,7 @@
         }
     ],
     "wof:id":101873459,
-    "wof:lastmodified":1563336280,
+    "wof:lastmodified":1566630803,
     "wof:name":"Morpeth",
     "wof:parent_id":404449843,
     "wof:placetype":"locality",

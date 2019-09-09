@@ -9,15 +9,17 @@
     "geom:bbox":"-1.33014113302,51.0861640458,-1.27814360777,51.1205116051",
     "geom:latitude":51.105396,
     "geom:longitude":-1.302126,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4388,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":4388,
     "iso:country":"GB",
     "lbl:latitude":51.08862,
     "lbl:longitude":-1.2978,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0982\u09b8 \u0993\u09b0\u09cd\u09a6\u09bf"
@@ -77,7 +79,7 @@
         "Kings Worthy"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd  \u0b92\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf"
+        "\u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0b92\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3f\u0c02\u0c17\u0c4d\u0c38\u0c4d \u0c35\u0c30\u0c4d\u0c24\u0c3f"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125846599,
-    "wof:lastmodified":1563343043,
+    "wof:lastmodified":1566636285,
     "wof:name":"Kings Worthy",
     "wof:parent_id":404446421,
     "wof:placetype":"locality",

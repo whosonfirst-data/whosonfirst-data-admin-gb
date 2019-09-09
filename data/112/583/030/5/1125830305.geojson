@@ -9,14 +9,17 @@
     "geom:bbox":"-0.919705720154,53.0832064238,-0.81941643894,53.115019346",
     "geom:latitude":53.099096,
     "geom:longitude":-0.863222,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.09297,
     "lbl:longitude":-0.8459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u0435\u043b\u0445\u0430\u043c"
@@ -45,7 +48,7 @@
     "name:swe_x_preferred":[
         "Kelham"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kellam"
     ],
     "qs_pg:aaroncc":"GB",
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125830305,
-    "wof:lastmodified":1563343234,
+    "wof:lastmodified":1566636389,
     "wof:name":"Kelham",
     "wof:parent_id":404445669,
     "wof:placetype":"locality",

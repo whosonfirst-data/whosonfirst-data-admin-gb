@@ -10,12 +10,15 @@
     "geom:latitude":54.561179,
     "geom:longitude":-0.986418,
     "iso:country":"GB",
+    "lbl:bbox":"-0.991418,54.556179,-0.981418,54.566179",
     "lbl:latitude":54.561179,
     "lbl:longitude":-0.986418,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.561179,
     "mps:longitude":-0.986418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u06a9\u0644\u062a\u0648\u0646-\u0627\u06cc\u0646-\u06a9\u0644\u06cc\u0648\u0644\u0646\u062f"
     ],
@@ -55,9 +58,6 @@
     "name:swe_x_preferred":[
         "Skelton-in-Cleveland"
     ],
-    "name:unk_x_variant":[
-        "Skelton-in-Cleveland"
-    ],
     "name:vol_x_preferred":[
         "Skelton-in-Cleveland"
     ],
@@ -80,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         404434645,
@@ -94,7 +94,6 @@
     "wof:concordances":{
         "gn:id":2637746,
         "gp:id":34907,
-        "qs:id":271787,
         "qs_pg:id":271787,
         "wd:id":"Q2361767",
         "wk:page":"Skelton-in-Cleveland"
@@ -114,7 +113,7 @@
         }
     ],
     "wof:id":1360791119,
-    "wof:lastmodified":1563333175,
+    "wof:lastmodified":1566628541,
     "wof:name":"Skelton",
     "wof:parent_id":1360756123,
     "wof:placetype":"neighbourhood",

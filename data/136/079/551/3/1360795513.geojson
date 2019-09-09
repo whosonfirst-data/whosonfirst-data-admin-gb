@@ -9,14 +9,17 @@
     "geom:bbox":"-1.66872,55.54895,-1.66872,55.54895",
     "geom:latitude":55.54895,
     "geom:longitude":-1.66872,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.67372,55.54395,-1.66372,55.55395",
     "lbl:latitude":55.54895,
     "lbl:longitude":-1.66872,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Swinhoe"
@@ -45,19 +48,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":36813,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698727,
         102191581,
         404447957,
         85633159,
         404227469,
         1125918417,
-        1360698769
+        1360698769,
+        1360698727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1360795513,
-    "wof:lastmodified":1547722661,
+    "wof:lastmodified":1566628315,
     "wof:name":"Swinhoe",
     "wof:parent_id":1125918417,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.258849,
     "lbl:longitude":-1.107544,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.260401,
     "mps:longitude":-1.110225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Basingstoke"
     ],
@@ -182,7 +185,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.2667,
     "wd:longitude":-1.0876,
@@ -198,7 +201,6 @@
     "wof:concordances":{
         "gn:id":2656192,
         "gp:id":12034,
-        "qs:id":239672,
         "qs_pg:id":239672,
         "wd:id":"Q810196",
         "wk:page":"Basingstoke"
@@ -216,7 +218,7 @@
         }
     ],
     "wof:id":101750351,
-    "wof:lastmodified":1563336616,
+    "wof:lastmodified":1566630921,
     "wof:name":"Basingstoke",
     "wof:parent_id":1360698827,
     "wof:placetype":"locality",

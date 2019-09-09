@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.988478,
     "lbl:longitude":-1.489474,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.988478,
     "mps:longitude":-1.489474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0631\u0627\u0645\u0633\u06cc"
     ],
@@ -136,7 +139,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.989,
     "wd:longitude":-1.4966,
@@ -153,7 +156,6 @@
     "wof:concordances":{
         "gn:id":2639189,
         "gp:id":33511,
-        "qs:id":56200,
         "qs_pg:id":56200,
         "wd:id":"Q1234718",
         "wk:page":"Romsey"
@@ -175,7 +177,7 @@
         }
     ],
     "wof:id":101852477,
-    "wof:lastmodified":1563336934,
+    "wof:lastmodified":1566631047,
     "wof:name":"Romsey",
     "wof:parent_id":404448963,
     "wof:placetype":"locality",

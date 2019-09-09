@@ -9,15 +9,17 @@
     "geom:bbox":"0.413842798067,51.932730097,0.518380399296,52.0154851202",
     "geom:latitude":51.980394,
     "geom:longitude":0.462538,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":711,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.96841,
     "lbl:longitude":0.45129,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0424\u0438\u043d\u0447\u0438\u043d\u0433\u0444\u0438\u0435\u043b\u0434"
@@ -82,7 +84,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":1125861317,
-    "wof:lastmodified":1563340488,
+    "wof:lastmodified":1566634721,
     "wof:name":"Finchingfield",
     "wof:parent_id":404434119,
     "wof:placetype":"locality",

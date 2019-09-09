@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.749415,
     "lbl:longitude":-0.331203,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.757893,
     "mps:longitude":-0.327374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0623\u0644\u0628\u0627\u0646\u0632"
     ],
@@ -120,7 +123,7 @@
         "\u30bb\u30f3\u30c8\u30fb\u30aa\u30fc\u30eb\u30d0\u30f3\u30ba"
     ],
     "name:kan_x_preferred":[
-        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd  \u0c85\u0cb2\u0ccd\u0cac\u0cc7\u0ca8\u0ccd\u0cb8\u0ccd"
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c85\u0cb2\u0ccd\u0cac\u0cc7\u0ca8\u0ccd\u0cb8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uc62c\ubc88\uc2a4"
@@ -248,7 +251,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":18.1,
     "wd:latitude":51.755,
@@ -266,7 +269,6 @@
     "wof:concordances":{
         "gn:id":2638867,
         "gp:id":35564,
-        "qs:id":773990,
         "qs_pg:id":773990,
         "wd:id":"Q6226",
         "wk:page":"St Albans"
@@ -284,7 +286,7 @@
         }
     ],
     "wof:id":101750419,
-    "wof:lastmodified":1563336629,
+    "wof:lastmodified":1566630925,
     "wof:name":"St Albans",
     "wof:parent_id":1360698763,
     "wof:placetype":"locality",

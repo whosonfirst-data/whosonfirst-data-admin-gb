@@ -9,14 +9,17 @@
     "geom:bbox":"0.73690303931,52.0162992853,0.786905156856,52.0418260876",
     "geom:latitude":52.029335,
     "geom:longitude":0.761963,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.03069,
     "lbl:longitude":0.75814,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09c7\u099f\u0995\u09a8\u09be\u09b0\u09cd\u09a1"
@@ -70,7 +73,7 @@
         "Great Cornard"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd  \u0b95\u0bbe\u0bb0\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd"
+        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c47\u0c1f\u0c4d \u0c15\u0c4b\u0c30\u0c4d\u0c28\u0c3e\u0c30\u0c4d\u0c21\u0c4d"
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1125886213,
-    "wof:lastmodified":1563340622,
+    "wof:lastmodified":1566634808,
     "wof:name":"Great Cornard",
     "wof:parent_id":404448153,
     "wof:placetype":"locality",

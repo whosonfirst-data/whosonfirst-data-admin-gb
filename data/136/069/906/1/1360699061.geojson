@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":51.51478,
     "lbl:longitude":-0.608724,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.51478,
     "mps:longitude":-0.608724,
     "mz:hierarchy_label":1,
@@ -153,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borough of Slough"
     ],
     "name:urd_x_preferred":[
@@ -241,9 +243,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"27",
     "statoids:area_mi":"10",
     "statoids:as_of_date":"2011-03-27",
@@ -293,11 +295,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1564154976,
+    "wof:lastmodified":1566630407,
     "wof:name":"Slough",
     "wof:parent_id":1360698529,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary authority",
     "wof:population":140205,
     "wof:population_rank":9,

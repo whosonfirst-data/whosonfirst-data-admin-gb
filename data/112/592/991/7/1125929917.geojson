@@ -9,14 +9,17 @@
     "geom:bbox":"1.05400733104,51.973277968,1.11522424772,52.0181842618",
     "geom:latitude":51.998566,
     "geom:longitude":1.080454,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.99001,
     "lbl:longitude":1.07031,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Bentley"
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125929917,
-    "wof:lastmodified":1563339698,
+    "wof:lastmodified":1566634211,
     "wof:name":"Bentley",
     "wof:parent_id":404441173,
     "wof:placetype":"locality",

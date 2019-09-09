@@ -9,14 +9,17 @@
     "geom:bbox":"0.809698448626,52.0277435867,0.855549136262,52.0630805202",
     "geom:latitude":52.045956,
     "geom:longitude":0.834522,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.04426,
     "lbl:longitude":0.832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0625\u062f\u0648\u0627\u0631\u062f\u0633\u062a\u0648\u0646"
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1125839705,
-    "wof:lastmodified":1563343237,
+    "wof:lastmodified":1566636391,
     "wof:name":"Edwardstone",
     "wof:parent_id":404437777,
     "wof:placetype":"locality",

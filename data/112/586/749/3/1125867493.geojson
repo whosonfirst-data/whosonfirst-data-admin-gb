@@ -9,14 +9,17 @@
     "geom:bbox":"-4.70146216972,50.5845125161,-4.6117381985,50.6404820878",
     "geom:latitude":50.611066,
     "geom:longitude":-4.654085,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.61256,
     "lbl:longitude":-4.65653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Advent"
@@ -249,7 +252,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":1125867493,
-    "wof:lastmodified":1564159118,
+    "wof:lastmodified":1566634710,
     "wof:name":"Advent",
     "wof:parent_id":404448071,
     "wof:placetype":"locality",

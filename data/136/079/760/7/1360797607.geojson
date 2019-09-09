@@ -9,22 +9,22 @@
     "geom:bbox":"-5.61667,50.06667,-5.61667,50.06667",
     "geom:latitude":50.06667,
     "geom:longitude":-5.61667,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-5.62167,50.06167,-5.61167,50.07167",
     "lbl:latitude":50.06667,
     "lbl:longitude":-5.61667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "St. Burian"
     ],
     "name:eng_x_variant":[
-        "Saint Burian"
-    ],
-    "name:unk_x_variant":[
         "Saint Burian"
     ],
     "qs_pg:aaroncc":"GB",
@@ -48,7 +48,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":35597,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1360797607,
-    "wof:lastmodified":1559950867,
+    "wof:lastmodified":1566628617,
     "wof:name":"St. Burian",
     "wof:parent_id":1343697001,
     "wof:placetype":"neighbourhood",

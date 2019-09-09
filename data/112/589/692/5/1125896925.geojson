@@ -9,14 +9,17 @@
     "geom:bbox":"-0.977428668017,52.3749223845,-0.92527037433,52.4043339245",
     "geom:latitude":52.389527,
     "geom:longitude":-0.95262,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.39034,
     "lbl:longitude":-0.95443,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0430\u0441\u0435\u043b\u0431\u0435\u0447"
@@ -48,7 +51,7 @@
     "name:swe_x_preferred":[
         "Haselbech"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hazelbeech"
     ],
     "qs_pg:aaroncc":"GB",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125896925,
-    "wof:lastmodified":1563340826,
+    "wof:lastmodified":1566634928,
     "wof:name":"Haselbech",
     "wof:parent_id":404432747,
     "wof:placetype":"locality",

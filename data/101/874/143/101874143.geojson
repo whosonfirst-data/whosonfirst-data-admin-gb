@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.535799,
     "lbl:longitude":-0.541497,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.535799,
     "mps:longitude":-0.541497,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Scawby"
     ],
@@ -70,7 +73,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698571,
@@ -84,10 +87,12 @@
     "wof:concordances":{
         "gn:id":2638391,
         "gp:id":34174,
-        "qs:id":2,
-        "qs_pg:id":1079989,
+        "qs_pg:id":2,
         "wd:id":"Q7430653",
         "wk:page":"Scawby"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079989
     },
     "wof:coterminous":[
         404438349
@@ -106,7 +111,7 @@
         }
     ],
     "wof:id":101874143,
-    "wof:lastmodified":1563336123,
+    "wof:lastmodified":1566630750,
     "wof:name":"Scawby",
     "wof:parent_id":404438349,
     "wof:placetype":"locality",

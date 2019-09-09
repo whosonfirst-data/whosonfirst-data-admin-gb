@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.607714,
     "lbl:longitude":-1.700057,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.607714,
     "mps:longitude":-1.700057,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b0\u0995\u09ac\u09be\u09b0\u09cd\u099f\u09a8"
     ],
@@ -97,7 +100,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.61,
     "wd:longitude":-1.703,
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":2645314,
         "gp:id":25360,
-        "qs:id":1293189,
         "qs_pg:id":1293189,
         "wd:id":"Q3152568",
         "wk:page":"Kirkburton"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101872225,
-    "wof:lastmodified":1563336424,
+    "wof:lastmodified":1566630854,
     "wof:name":"Kirkburton",
     "wof:parent_id":404444251,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"1.39007494742,52.2384369109,1.44340818681,52.2609626075",
     "geom:latitude":52.249758,
     "geom:longitude":1.415789,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.24043,
     "lbl:longitude":1.41724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u0440\u0443\u0438\u0441\u044f\u0440\u0434"
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125956633,
-    "wof:lastmodified":1563339842,
+    "wof:lastmodified":1566634302,
     "wof:name":"Bruisyard",
     "wof:parent_id":404448209,
     "wof:placetype":"locality",

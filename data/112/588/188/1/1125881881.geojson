@@ -9,14 +9,17 @@
     "geom:bbox":"-1.34297904687,51.7534553879,-1.2932762071,51.7900646909",
     "geom:latitude":51.773074,
     "geom:longitude":-1.317375,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.77496,
     "lbl:longitude":-1.31252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Wytham"
@@ -270,7 +273,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":1125881881,
-    "wof:lastmodified":1563340678,
+    "wof:lastmodified":1566634837,
     "wof:name":"Wytham",
     "wof:parent_id":404450871,
     "wof:placetype":"locality",

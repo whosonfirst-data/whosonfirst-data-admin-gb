@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.821892,
     "lbl:longitude":-7.473818,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.821892,
     "mps:longitude":-7.473818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0431\u0430\u043d"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.83,
     "wd:longitude":-7.47,
@@ -134,7 +137,6 @@
     "wof:concordances":{
         "gn:id":2636744,
         "gp:id":45165,
-        "qs:id":1074021,
         "qs_pg:id":1074021,
         "wd:id":"Q1027659",
         "wk:page":"Strabane"
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":101845703,
-    "wof:lastmodified":1563336103,
+    "wof:lastmodified":1566630743,
     "wof:name":"Strabane",
     "wof:parent_id":1360699233,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.428742988173,53.5557651485,-0.345823065793,53.5826709709",
     "geom:latitude":53.570019,
     "geom:longitude":-0.385659,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1628,
-    "gn:population":1741,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1628,
     "iso:country":"GB",
     "lbl:latitude":53.5748,
     "lbl:longitude":-0.40607,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Barnetby le Wold"
@@ -58,9 +60,6 @@
     "name:swe_x_preferred":[
         "Barnetby le Wold"
     ],
-    "name:unk_x_variant":[
-        "Barnetby"
-    ],
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -85,7 +84,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -124,7 +123,7 @@
         }
     ],
     "wof:id":1125992641,
-    "wof:lastmodified":1563341403,
+    "wof:lastmodified":1566635272,
     "wof:name":"Barnetby le Wold",
     "wof:parent_id":404438181,
     "wof:placetype":"locality",

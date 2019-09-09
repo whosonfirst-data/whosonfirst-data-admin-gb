@@ -9,15 +9,17 @@
     "geom:bbox":"-2.97214,54.17415,-2.97214,54.17415",
     "geom:latitude":54.17415,
     "geom:longitude":-2.97214,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1305,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.97714,54.16915,-2.96714,54.17915",
     "lbl:latitude":54.17415,
     "lbl:longitude":-2.97214,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Flookburgh"
@@ -40,7 +42,7 @@
     "name:swe_x_preferred":[
         "Flookburgh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Flookborough"
     ],
     "qs_pg:aaroncc":"GB",
@@ -64,7 +66,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20335,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1360803227,
-    "wof:lastmodified":1563334729,
+    "wof:lastmodified":1566629415,
     "wof:name":"Flookburgh",
     "wof:parent_id":1360758053,
     "wof:placetype":"neighbourhood",

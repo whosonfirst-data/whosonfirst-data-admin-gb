@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.731928,
     "lbl:longitude":-4.295145,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.731928,
     "mps:longitude":-4.295145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Cydweli"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Kidwelly"
     ],
-    "name:unk_x_variant":[
-        "Cydweli"
-    ],
     "name:zho_x_preferred":[
         "\u57fa\u5fb7\u97cb\u5229"
     ],
@@ -114,7 +114,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.736,
     "wd:longitude":-4.307,
@@ -132,7 +132,6 @@
         "fct:id":"0aa665d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2645720,
         "gp:id":24914,
-        "qs:id":1036959,
         "qs_pg:id":1036959,
         "wd:id":"Q3395358",
         "wk:page":"Kidwelly"
@@ -157,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336920,
+    "wof:lastmodified":1566631042,
     "wof:name":"Kidwelly",
     "wof:parent_id":404437249,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.85,52.03333,-1.85,52.03333",
     "geom:latitude":52.03333,
     "geom:longitude":-1.85,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2552,
-    "gn:population":2540,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2552,
     "iso:country":"GB",
+    "lbl:bbox":"-1.855,52.02833,-1.845,52.03833",
     "lbl:latitude":52.03333,
     "lbl:longitude":-1.85,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0420\u0430\u0434\u0443\u0435\u0439"
@@ -34,7 +36,7 @@
     "name:swe_x_preferred":[
         "Radway"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Broadway"
     ],
     "qs_pg:aaroncc":"GB",
@@ -58,7 +60,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":32838,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1360794129,
-    "wof:lastmodified":1564152826,
+    "wof:lastmodified":1566628440,
     "wof:name":"Radway",
     "wof:parent_id":101853031,
     "wof:placetype":"neighbourhood",

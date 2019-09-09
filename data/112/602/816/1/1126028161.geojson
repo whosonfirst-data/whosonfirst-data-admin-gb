@@ -9,14 +9,17 @@
     "geom:bbox":"0.666629694231,51.7142506601,0.802679845641,51.7510112993",
     "geom:latitude":51.731788,
     "geom:longitude":0.741391,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.74085,
     "lbl:longitude":0.68459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u09ac\u09cd\u09b0\u09bf\u099c"
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1126028161,
-    "wof:lastmodified":1563339883,
+    "wof:lastmodified":1566634333,
     "wof:name":"Heybridge",
     "wof:parent_id":404443149,
     "wof:placetype":"locality",

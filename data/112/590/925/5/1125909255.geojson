@@ -9,15 +9,17 @@
     "geom:bbox":"0.842952652141,52.354892136,0.907660435544,52.3849565999",
     "geom:latitude":52.370511,
     "geom:longitude":0.872232,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":394,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.36583,
     "lbl:longitude":0.87641,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Coney Weston"
@@ -61,7 +63,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":1125909255,
-    "wof:lastmodified":1563341504,
+    "wof:lastmodified":1566635334,
     "wof:name":"Coney Weston",
     "wof:parent_id":404442311,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"0.137605369998,53.1028134764,0.249687796808,53.1206509815",
     "geom:latitude":53.112887,
     "geom:longitude":0.196191,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2009,
-    "gn:population":1744,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2009,
     "iso:country":"GB",
     "lbl:latitude":53.1057,
     "lbl:longitude":0.23583,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0627\u06cc\u0646\u0641\u0644\u06cc\u062a \u0622\u0644 \u0633\u06cc\u0646\u062a\u0633"
@@ -55,7 +57,7 @@
     "name:swe_x_preferred":[
         "Wainfleet All Saints"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wainfleet"
     ],
     "qs_pg:aaroncc":"GB",
@@ -82,7 +84,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":1125934161,
-    "wof:lastmodified":1563339668,
+    "wof:lastmodified":1566634186,
     "wof:name":"Wainfleet All Saints",
     "wof:parent_id":404445351,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.860872,
     "lbl:longitude":-3.053904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.860872,
     "mps:longitude":-3.053904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u0648\u0633\u062a\u0631\u06cc"
     ],
@@ -161,7 +164,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.8598,
     "wd:longitude":-3.0538,
@@ -178,7 +181,6 @@
     "wof:concordances":{
         "gn:id":2640861,
         "gp:id":31142,
-        "qs:id":644752,
         "qs_pg:id":644752,
         "wd:id":"Q1009221",
         "wk:page":"Oswestry"
@@ -200,7 +202,7 @@
         }
     ],
     "wof:id":101874077,
-    "wof:lastmodified":1563336110,
+    "wof:lastmodified":1566630746,
     "wof:name":"Oswestry",
     "wof:parent_id":404439847,
     "wof:placetype":"locality",

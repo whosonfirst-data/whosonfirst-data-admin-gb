@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.988985,
     "lbl:longitude":-1.533172,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.990435,
     "mps:longitude":-1.537035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Harrogate"
     ],
@@ -197,7 +200,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.991,
     "wd:longitude":-1.539,
     "wd:wordcount":4993,
@@ -212,7 +215,6 @@
     "wof:concordances":{
         "gn:id":2647428,
         "gp:id":22514,
-        "qs:id":771750,
         "qs_pg:id":771750,
         "wd:id":"Q215829",
         "wk:page":"Harrogate"
@@ -230,7 +232,7 @@
         }
     ],
     "wof:id":101750597,
-    "wof:lastmodified":1563336615,
+    "wof:lastmodified":1566630921,
     "wof:name":"Harrogate",
     "wof:parent_id":1360698753,
     "wof:placetype":"locality",

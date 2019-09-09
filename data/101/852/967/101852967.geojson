@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.818075,
     "lbl:longitude":-4.005744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.818075,
     "mps:longitude":-4.005744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u09a8\u09cd\u09a1\u09bf\u09ac\u09bf"
     ],
@@ -101,9 +104,6 @@
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c02\u0c21\u0c3f\u0c2c\u0c3f"
     ],
-    "name:unk_x_variant":[
-        "Llandebie"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0646\u0688\u06cc\u0628\u06cc\u06cc"
     ],
@@ -129,7 +129,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.82,
     "wd:longitude":-4.001,
@@ -147,7 +147,6 @@
         "fct:id":"0aa6465c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2644115,
         "gp:id":26857,
-        "qs:id":245004,
         "qs_pg:id":245004,
         "wd:id":"Q6661267"
     },
@@ -171,7 +170,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563337003,
+    "wof:lastmodified":1566631073,
     "wof:name":"Llandybie",
     "wof:parent_id":404451573,
     "wof:placetype":"locality",

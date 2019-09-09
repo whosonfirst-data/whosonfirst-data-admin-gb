@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.98024,
     "lbl:longitude":-1.486717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.98024,
     "mps:longitude":-1.486717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0414\u0430\u0444\u0456\u043b\u0434"
     ],
@@ -102,7 +105,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.9891,
     "wd:longitude":-1.4889,
     "wd:wordcount":2193,
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":2650836,
         "gp:id":18585,
-        "qs:id":1037085,
         "qs_pg:id":1037085,
         "wd:id":"Q2749481",
         "wk:page":"Duffield, Derbyshire"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101872063,
-    "wof:lastmodified":1563336359,
+    "wof:lastmodified":1566630832,
     "wof:name":"Duffield",
     "wof:parent_id":404443231,
     "wof:placetype":"locality",

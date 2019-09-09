@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":55.778175,
     "lbl:longitude":-4.061008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.778175,
     "mps:longitude":-4.061008,
     "mz:hierarchy_label":1,
@@ -247,7 +249,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.78,
     "wd:longitude":-4.068056,
     "wd:wordcount":1983,
@@ -263,10 +265,12 @@
     "wof:concordances":{
         "gn:id":2642474,
         "gp:id":22274,
-        "qs:id":140829,
-        "qs_pg:id":1082108,
+        "qs_pg:id":140829,
         "wd:id":"Q4131",
         "wk:page":"Hamilton, South Lanarkshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1082108
     },
     "wof:country":"GB",
     "wof:geomhash":"3b436ace8a66ea7ea216ab5761dc8bbd",
@@ -282,7 +286,7 @@
         }
     ],
     "wof:id":101750627,
-    "wof:lastmodified":1563336558,
+    "wof:lastmodified":1566630905,
     "wof:name":"Hamilton",
     "wof:parent_id":404453929,
     "wof:placetype":"locality",

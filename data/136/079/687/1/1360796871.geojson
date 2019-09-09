@@ -9,15 +9,17 @@
     "geom:bbox":"-1.84536,53.36797,-1.84536,53.36797",
     "geom:latitude":53.36797,
     "geom:longitude":-1.84536,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":92600,
+    "gn:country":"GB",
+    "gn:fcode":"PPLL",
     "gn:population":92600,
     "iso:country":"GB",
+    "lbl:bbox":"-1.85036,53.36297,-1.84036,53.37297",
     "lbl:latitude":53.36797,
     "lbl:longitude":-1.84536,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0987 \u09aa\u09bf\u0995"
@@ -92,7 +94,7 @@
         "High Peak District"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bc8  \u0baa\u0bc0\u0b95\u0bcd"
+        "\u0bb9\u0bc8 \u0baa\u0bc0\u0b95\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c32\u0c4d\u0c35\u0c3f\u0c1a\u0c4d"
@@ -118,7 +120,7 @@
     "qs_pg:qs_id":381602,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1360796871,
-    "wof:lastmodified":1563332963,
+    "wof:lastmodified":1566628431,
     "wof:name":"High Peak",
     "wof:parent_id":1125937941,
     "wof:placetype":"neighbourhood",

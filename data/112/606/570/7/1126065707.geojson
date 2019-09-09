@@ -9,16 +9,19 @@
     "geom:bbox":"-0.40478,50.99334,-0.40478,50.99334",
     "geom:latitude":50.99334,
     "geom:longitude":-0.40478,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-0.40978,50.98834,-0.39978,50.99834",
     "lbl:latitude":50.99334,
     "lbl:longitude":-0.40478,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coolham"
     ],
     "qs_pg:aaroncc":"GB",
@@ -42,19 +45,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":16613,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        1360698607,
         102191581,
         404443877,
         85633159,
         404227469,
         1126030561,
-        1360698757
+        1360698757,
+        1360698607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1126065707,
-    "wof:lastmodified":1547725404,
+    "wof:lastmodified":1566635843,
     "wof:name":"Colham",
     "wof:parent_id":1126030561,
     "wof:placetype":"neighbourhood",

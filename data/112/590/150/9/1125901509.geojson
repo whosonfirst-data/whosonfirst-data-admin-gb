@@ -9,15 +9,17 @@
     "geom:bbox":"-1.45671286253,53.4500379832,-1.34910246994,53.5052295111",
     "geom:latitude":53.47841,
     "geom:longitude":-1.403668,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":354,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.46667,
     "lbl:longitude":-1.41667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09a8\u09cd\u099f\u0993\u09b0\u09cd\u09a5"
@@ -94,7 +96,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698591,
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1125901509,
-    "wof:lastmodified":1563341429,
+    "wof:lastmodified":1566635286,
     "wof:name":"Wentworth",
     "wof:parent_id":404447001,
     "wof:placetype":"locality",

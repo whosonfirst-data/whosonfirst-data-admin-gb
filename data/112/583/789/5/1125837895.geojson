@@ -9,14 +9,17 @@
     "geom:bbox":"0.878148207297,52.8198400883,0.941697304967,52.8609107055",
     "geom:latitude":52.837707,
     "geom:longitude":0.909491,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.84736,
     "lbl:longitude":0.91839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u0435\u0442\u043b\u0435\u0441\u0442\u043e\u043d\u0435"
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125837895,
-    "wof:lastmodified":1563343284,
+    "wof:lastmodified":1566636420,
     "wof:name":"Kettlestone",
     "wof:parent_id":404433425,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.519462,
     "lbl:longitude":-1.480081,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.519462,
     "mps:longitude":-1.480081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ang_x_preferred":[
         "Nonne Etone"
     ],
@@ -184,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.523,
     "wd:longitude":-1.4683,
@@ -201,7 +204,6 @@
     "wof:concordances":{
         "gn:id":2641157,
         "gp:id":30733,
-        "qs:id":454022,
         "qs_pg:id":454022,
         "wd:id":"Q175632",
         "wk:page":"Nuneaton"
@@ -220,7 +222,7 @@
         }
     ],
     "wof:id":101750471,
-    "wof:lastmodified":1563336545,
+    "wof:lastmodified":1566630902,
     "wof:name":"Nuneaton",
     "wof:parent_id":1360817293,
     "wof:placetype":"locality",

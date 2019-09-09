@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":50.723507,
     "lbl:longitude":-3.514292,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.721796,
     "mps:longitude":-3.510362,
     "mz:hierarchy_label":1,
@@ -258,9 +260,7 @@
         "\u0415\u043a\u0441\u0435\u0442\u0435\u0440"
     ],
     "name:und_x_variant":[
-        "Ekseter",
-        "\u0395\u03be\u03b5\u03c4\u03b5\u03c1",
-        "\u042d\u043a\u0441\u0435\u0442\u0435\u0440"
+        "\u0395\u03be\u03b5\u03c4\u03b5\u03c1"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u06a9\u0633\u0679\u0631"
@@ -399,7 +399,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.721539,
     "wd:longitude":-3.533108,
     "wd:wordcount":10330,
@@ -416,7 +416,6 @@
         "gn:id":2649808,
         "gp:id":19792,
         "loc:id":"n50062735",
-        "qs:id":771076,
         "qs_pg:id":771076,
         "wd:id":"Q134672",
         "wk:page":"Exeter"
@@ -437,7 +436,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336580,
+    "wof:lastmodified":1566630910,
     "wof:name":"Exeter",
     "wof:parent_id":1360699081,
     "wof:placetype":"locality",

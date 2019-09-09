@@ -10,12 +10,15 @@
     "geom:latitude":53.199347,
     "geom:longitude":-2.354895,
     "iso:country":"GB",
+    "lbl:bbox":"-2.359895,53.194347,-2.349895,53.204347",
     "lbl:latitude":53.199348,
     "lbl:longitude":-2.354895,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.199348,
     "mps:longitude":-2.354895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0645\u0632 \u062a\u0634\u0627\u0628\u0644"
     ],
@@ -116,7 +119,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.204,
     "wd:longitude":-2.353,
     "wd:wordcount":381,
@@ -133,10 +136,12 @@
     "wof:concordances":{
         "gn:id":2646735,
         "gp:id":23701,
-        "qs:id":453793,
         "qs_pg:id":179277,
         "wd:id":"Q1010169",
         "wk:page":"Holmes Chapel"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":453793
     },
     "wof:country":"GB",
     "wof:geomhash":"aca1dd0fa072a38a354f0dee4c05f386",
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360790977,
-    "wof:lastmodified":1563333082,
+    "wof:lastmodified":1566628491,
     "wof:name":"Holmes Chapel",
     "wof:parent_id":1276264947,
     "wof:placetype":"neighbourhood",

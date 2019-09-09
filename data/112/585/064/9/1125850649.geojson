@@ -9,15 +9,17 @@
     "geom:bbox":"-0.717882238683,51.9477248571,-0.657175056766,51.9897645478",
     "geom:latitude":51.969616,
     "geom:longitude":-0.691872,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":817,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.96622,
     "lbl:longitude":-0.68753,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u062a \u0628\u0631\u064a\u0643\u0647\u064a\u0644"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125850649,
-    "wof:lastmodified":1563342644,
+    "wof:lastmodified":1566636039,
     "wof:name":"Great Brickhill",
     "wof:parent_id":404430385,
     "wof:placetype":"locality",

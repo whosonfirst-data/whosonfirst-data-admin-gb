@@ -9,15 +9,17 @@
     "geom:bbox":"0.49385409377,52.1751111046,0.548145179518,52.2139251436",
     "geom:latitude":52.191213,
     "geom:longitude":0.518333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":241,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.19106,
     "lbl:longitude":0.51893,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0438\u0434\u0433\u0430\u0442\u0435"
@@ -64,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1125911125,
-    "wof:lastmodified":1563342174,
+    "wof:lastmodified":1566635746,
     "wof:name":"Lidgate",
     "wof:parent_id":404430789,
     "wof:placetype":"locality",

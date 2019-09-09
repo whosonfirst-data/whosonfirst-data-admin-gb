@@ -9,16 +9,19 @@
     "geom:bbox":"-2.39004,52.15124,-2.39004,52.15124",
     "geom:latitude":52.15124,
     "geom:longitude":-2.39004,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.39504,52.14624,-2.38504,52.15624",
     "lbl:latitude":52.15124,
     "lbl:longitude":-2.39004,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Langley Green"
     ],
     "qs_pg:aaroncc":"GB",
@@ -42,19 +45,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20092245,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698613,
         102191581,
         404443621,
         85633159,
         404227469,
         1360758443,
-        1360699043
+        1360699043,
+        1360698613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1360800147,
-    "wof:lastmodified":1547731716,
+    "wof:lastmodified":1566629245,
     "wof:name":"Dolley Green",
     "wof:parent_id":1360758443,
     "wof:placetype":"neighbourhood",

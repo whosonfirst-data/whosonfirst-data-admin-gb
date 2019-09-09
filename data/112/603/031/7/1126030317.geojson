@@ -9,14 +9,18 @@
     "geom:bbox":"-5.07969,54.97322,-5.07969,54.97322",
     "geom:latitude":54.97322,
     "geom:longitude":-5.07969,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-5.09969,54.95322,-5.05969,54.99322",
     "lbl:latitude":54.97322,
     "lbl:longitude":-5.07969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kirkcolm"
@@ -36,7 +40,7 @@
     "name:sco_x_preferred":[
         "Kirkcom"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirkholm"
     ],
     "qs_pg:aaroncc":"GB",
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":25383,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1126030317,
-    "wof:lastmodified":1563340316,
+    "wof:lastmodified":1566634615,
     "wof:name":"Kirkcolm",
     "wof:parent_id":404444245,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":-5.428932,
     "gn:population":2272,
     "iso:country":"GB",
+    "lbl:bbox":"-5.448932,56.014672,-5.408932,56.054672",
     "lbl:latitude":56.034673,
     "lbl:longitude":-5.428931,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.034673,
     "mps:longitude":-5.428931,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u06a9\u0642\u06cc\u0644\u067e\u0647\u06cc\u062f"
     ],
@@ -110,7 +114,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0445\u0433\u0456\u043b\u043f\u0445\u0435\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lochgoilhead"
     ],
     "name:zho_x_preferred":[
@@ -136,7 +140,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.04,
     "wd:longitude":-5.44,
@@ -153,10 +157,12 @@
     "wof:concordances":{
         "gn:id":2643824,
         "gp:id":27238,
-        "qs:id":140768,
-        "qs_pg:id":1113810,
+        "qs_pg:id":140768,
         "wd:id":"Q1017159",
         "wk:page":"Lochgilphead"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1113810
     },
     "wof:country":"GB",
     "wof:geomhash":"fa506432f0b2a1f27672ad72f5d77fef",
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":101872623,
-    "wof:lastmodified":1563336418,
+    "wof:lastmodified":1566630852,
     "wof:name":"Lochgilphead",
     "wof:parent_id":404439789,
     "wof:placetype":"locality",

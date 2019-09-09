@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":55.760011,
     "lbl:longitude":-4.184363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.760011,
     "mps:longitude":-4.184363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0633\u062a \u06a9\u06cc\u0644\u0628\u0631\u0627\u06cc\u062f"
     ],
@@ -137,7 +140,7 @@
         "East Kilbride"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0b95\u0bbf\u0bb3\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bc7"
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0bb3\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bc7"
     ],
     "name:tat_x_preferred":[
         "\u0418\u0441\u0442-\u041a\u0438\u043b\u0431\u0440\u0430\u0439\u0434"
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0442-\u041a\u0456\u043b\u0431\u0440\u0430\u0439\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "East Kilbridge"
     ],
     "name:urd_x_preferred":[
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.76667,
     "wd:longitude":-4.18333,
     "wd:wordcount":3102,
@@ -191,10 +194,12 @@
     "wof:concordances":{
         "gn:id":2650405,
         "gp:id":24923,
-        "qs:id":1037057,
         "qs_pg:id":973443,
         "wd:id":"Q654226",
         "wk:page":"East Kilbride"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037057
     },
     "wof:country":"GB",
     "wof:geomhash":"7c6bcca5fb456d1646807346d7cf1b74",
@@ -210,7 +215,7 @@
         }
     ],
     "wof:id":101750623,
-    "wof:lastmodified":1563336635,
+    "wof:lastmodified":1566630927,
     "wof:name":"East Kilbride",
     "wof:parent_id":404453929,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"-1.51938,54.70286,-1.51938,54.70286",
     "geom:latitude":54.70286,
     "geom:longitude":-1.51938,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2463,
-    "gn:population":2501,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2463,
     "iso:country":"GB",
+    "lbl:bbox":"-1.52438,54.69786,-1.51438,54.70786",
     "lbl:latitude":54.70286,
     "lbl:longitude":-1.51938,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cornforth"
     ],
     "qs_pg:aaroncc":"GB",
@@ -43,20 +45,20 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":43817,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698621,
         102191581,
         404440255,
         85633159,
         404227469,
         1360756085,
-        1360699055
+        1360699055,
+        1360698621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1360803685,
-    "wof:lastmodified":1547730490,
+    "wof:lastmodified":1566629432,
     "wof:name":"West Garforth",
     "wof:parent_id":1360756085,
     "wof:placetype":"neighbourhood",

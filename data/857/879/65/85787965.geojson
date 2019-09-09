@@ -10,8 +10,10 @@
     "geom:latitude":54.879603,
     "geom:longitude":-2.91038,
     "iso:country":"GB",
+    "lbl:bbox":"-2.91538,54.874603,-2.90538,54.884603",
     "lbl:latitude":54.879603,
     "lbl:longitude":-2.91038,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.877397,
     "mps:longitude":-2.909283,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Harraby"
-    ],
-    "name:unk_x_variant":[
         "Harraby"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,14 +58,14 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698721,
         102191581,
         85633159,
         404227469,
         101750619,
-        1360698877
+        1360698877,
+        1360698721
     ],
     "wof:breaches":[
         85785873
@@ -74,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2647440,
         "gp:id":22499,
-        "qs:id":1164638,
         "qs_pg:id":1164638
     },
     "wof:country":"GB",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542192491,
+    "wof:lastmodified":1566627680,
     "wof:name":"Harraby",
     "wof:parent_id":101750619,
     "wof:placetype":"neighbourhood",

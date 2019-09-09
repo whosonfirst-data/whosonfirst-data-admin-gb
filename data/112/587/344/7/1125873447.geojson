@@ -9,14 +9,17 @@
     "geom:bbox":"-0.771889941497,51.5683556715,-0.709188270415,51.6145834524",
     "geom:latitude":51.593154,
     "geom:longitude":-0.743655,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.584,
     "lbl:longitude":-0.74046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0644 \u0645\u0631\u0644\u0648"
@@ -79,7 +82,7 @@
         "Little Marlow"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd  \u0bae\u0bb0\u0bcd\u0bb2\u0bcb\u0bb5\u0bcd"
+        "\u0bb2\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bae\u0bb0\u0bcd\u0bb2\u0bcb\u0bb5\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3f\u0c1f\u0c3f\u0c32\u0c4d \u0c2e\u0c3e\u0c30\u0c4d\u0c32\u0c4b"
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1125873447,
-    "wof:lastmodified":1563341253,
+    "wof:lastmodified":1566635184,
     "wof:name":"Little Marlow",
     "wof:parent_id":404431991,
     "wof:placetype":"locality",

@@ -10,12 +10,15 @@
     "geom:latitude":53.609344,
     "geom:longitude":-1.34989,
     "iso:country":"GB",
+    "lbl:bbox":"-1.35489,53.604344,-1.34489,53.614344",
     "lbl:latitude":53.609344,
     "lbl:longitude":-1.34989,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.609344,
     "mps:longitude":-1.34989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0647\u0645\u0633\u0648\u0648\u0631\u062b"
     ],
@@ -113,7 +116,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.61,
     "wd:longitude":-1.35,
     "wd:wordcount":653,
@@ -130,10 +133,12 @@
     "wof:concordances":{
         "gn:id":7287931,
         "gp:id":22998,
-        "qs:id":1036999,
-        "qs_pg:id":1194274,
+        "qs_pg:id":1036999,
         "wd:id":"Q2556975",
         "wk:page":"Hemsworth"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1194274
     },
     "wof:country":"GB",
     "wof:geomhash":"b9feca4f4a7fcc0df8074b43c100c16e",
@@ -150,7 +155,7 @@
         }
     ],
     "wof:id":1360791039,
-    "wof:lastmodified":1563332741,
+    "wof:lastmodified":1566628328,
     "wof:name":"Hemsworth",
     "wof:parent_id":1260315703,
     "wof:placetype":"neighbourhood",

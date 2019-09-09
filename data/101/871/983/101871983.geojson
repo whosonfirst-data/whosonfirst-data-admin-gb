@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.300481,
     "lbl:longitude":-2.371434,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.300481,
     "mps:longitude":-2.371434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0646\u0627\u062a\u0633\u0641\u0648\u0631\u062f"
     ],
@@ -139,7 +142,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.3,
     "wd:longitude":-2.371,
@@ -156,7 +159,6 @@
     "wof:concordances":{
         "gn:id":2645093,
         "gp:id":25604,
-        "qs:id":453833,
         "qs_pg:id":453833,
         "wd:id":"Q1470791",
         "wk:page":"Knutsford"
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":101871983,
-    "wof:lastmodified":1563336703,
+    "wof:lastmodified":1566630945,
     "wof:name":"Knutsford",
     "wof:parent_id":404452127,
     "wof:placetype":"locality",

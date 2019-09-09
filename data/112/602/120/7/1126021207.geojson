@@ -9,15 +9,17 @@
     "geom:bbox":"0.0480493617823,51.604413265,0.129185672767,51.6528098253",
     "geom:latitude":51.624904,
     "geom:longitude":0.088319,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10354,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":10354,
     "iso:country":"GB",
     "lbl:latitude":51.61999,
     "lbl:longitude":0.07596,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Chigwell"
@@ -133,7 +135,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -172,7 +174,7 @@
         }
     ],
     "wof:id":1126021207,
-    "wof:lastmodified":1563339912,
+    "wof:lastmodified":1566634352,
     "wof:name":"Chigwell",
     "wof:parent_id":404455355,
     "wof:placetype":"locality",

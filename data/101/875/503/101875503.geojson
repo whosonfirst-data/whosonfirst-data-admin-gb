@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.726067,
     "lbl:longitude":-1.148281,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.725406,
     "mps:longitude":-1.135673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0989\u09a8\u09cd\u099f\u09b8\u09b0\u09b0\u09c7\u09b2"
     ],
@@ -101,7 +104,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.7167,
     "wd:longitude":-1.15,
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":2642096,
         "gp:id":29492,
-        "qs:id":238199,
         "qs_pg:id":238199,
         "wd:id":"Q1612169",
         "wk:page":"Mountsorrel"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101875503,
-    "wof:lastmodified":1563336476,
+    "wof:lastmodified":1566630874,
     "wof:name":"Mountsorrel",
     "wof:parent_id":404452019,
     "wof:placetype":"locality",

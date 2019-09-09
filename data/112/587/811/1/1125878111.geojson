@@ -9,15 +9,17 @@
     "geom:bbox":"-1.80975978357,50.764592092,-1.7179854735,50.8056360958",
     "geom:latitude":50.789177,
     "geom:longitude":-1.764055,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":308,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.77278,
     "lbl:longitude":-1.77991,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u043e\u043f\u043b\u0435\u0439"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125878111,
-    "wof:lastmodified":1563341084,
+    "wof:lastmodified":1566635086,
     "wof:name":"Sopley",
     "wof:parent_id":404447837,
     "wof:placetype":"locality",

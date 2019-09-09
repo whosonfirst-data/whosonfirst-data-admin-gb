@@ -9,15 +9,17 @@
     "geom:bbox":"-2.73054113923,53.4922182074,-2.55803681565,53.605077012",
     "geom:latitude":53.547916,
     "geom:longitude":-2.651977,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":80788,
-    "gn:population":175405,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA2",
+    "gn:population":80788,
     "iso:country":"GB",
     "lbl:latitude":53.53333,
     "lbl:longitude":-2.61667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0648\u064a\u063a\u0627\u0646"
@@ -213,7 +215,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698555,
@@ -248,7 +250,7 @@
         }
     ],
     "wof:id":1125871869,
-    "wof:lastmodified":1563341145,
+    "wof:lastmodified":1566635121,
     "wof:name":"Wigan",
     "wof:parent_id":1360817301,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.17439335567,52.5538619144,-1.13236106523,52.5816418906",
     "geom:latitude":52.568529,
     "geom:longitude":-1.156727,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6300,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":6300,
     "iso:country":"GB",
     "lbl:latitude":52.57577,
     "lbl:longitude":-1.16403,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b2\u09be\u09ac\u09bf"
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1126021411,
-    "wof:lastmodified":1563339961,
+    "wof:lastmodified":1566634378,
     "wof:name":"Blaby",
     "wof:parent_id":404450403,
     "wof:placetype":"locality",

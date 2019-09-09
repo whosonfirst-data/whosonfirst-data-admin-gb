@@ -9,12 +9,15 @@
     "geom:bbox":"-4.920079,50.590058,-4.920079,50.590058",
     "geom:latitude":50.590058,
     "geom:longitude":-4.920079,
-    "gn:gn_country":"GB",
+    "gn:country":"GB",
     "iso:country":"GB",
+    "lbl:bbox":"-4.925079,50.585058,-4.915079,50.595058",
     "lbl:latitude":50.590058,
     "lbl:longitude":-4.920079,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Port Quin"
@@ -40,19 +43,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":32376,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698623,
         102191581,
         404438125,
         85633159,
         404227469,
         1360753753,
-        1360699085
+        1360699085,
+        1360698623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1360799389,
-    "wof:lastmodified":1547729210,
+    "wof:lastmodified":1566628321,
     "wof:name":"Portquin",
     "wof:parent_id":1360753753,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.52693589298,52.7197805241,-1.43435224003,52.7889540231",
     "geom:latitude":52.750301,
     "geom:longitude":-1.479177,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11663,
-    "gn:population":12370,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":11663,
     "iso:country":"GB",
     "lbl:latitude":52.74632,
     "lbl:longitude":-1.4732,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09b6\u09ac\u09bf-\u09a1\u09c7-\u09b2\u09be-\u09af\u09c1\u0996"
@@ -139,7 +141,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":1125999953,
-    "wof:lastmodified":1561838554,
+    "wof:lastmodified":1566635240,
     "wof:name":"Ashby de la Zouch",
     "wof:parent_id":404437229,
     "wof:placetype":"locality",

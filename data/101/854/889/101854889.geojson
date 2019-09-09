@@ -9,17 +9,19 @@
     "geom:bbox":"0.216398036437,52.3633917746,0.425326486057,52.4402307969",
     "geom:latitude":52.405753,
     "geom:longitude":0.304734,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14265,
-    "gn:population":19090,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":14265,
     "iso:country":"GB",
     "lbl:latitude":52.400896,
     "lbl:longitude":0.257952,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.400896,
     "mps:longitude":0.257952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ang_x_preferred":[
         "Elig"
     ],
@@ -268,7 +270,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.400667,
     "wd:longitude":0.265853,
@@ -286,7 +288,6 @@
         "fct:id":"0aa42da4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2650117,
         "gp:id":19579,
-        "qs:id":771051,
         "qs_pg:id":30746,
         "wd:id":"Q209176",
         "wk:page":"Ely, Cambridgeshire"
@@ -316,7 +317,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336820,
+    "wof:lastmodified":1566630999,
     "wof:name":"Ely",
     "wof:parent_id":404453149,
     "wof:placetype":"locality",

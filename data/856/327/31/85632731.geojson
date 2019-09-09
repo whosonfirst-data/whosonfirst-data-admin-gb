@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":32.296698,
     "lbl:longitude":-64.764346,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":32.296698,
     "mps:longitude":-64.764346,
     "mz:hierarchy_label":1,
@@ -684,7 +686,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "statoids:dial":"1-441",
     "statoids:ds":"BM",
@@ -700,11 +702,6 @@
     "statoids:marc":"bm",
     "statoids:name":"Bermuda",
     "statoids:wmo":"BE",
-    "wof:belongs":[
-        102191581,
-        136253055,
-        85633159
-    ],
     "wof:belongsto":[
         102191575,
         136253055
@@ -721,7 +718,7 @@
         "m49:code":"060",
         "marc:id":"bm",
         "mzb:id":"bermuda",
-        "qs:id":1263200,
+        "qs_pg:id":1263200,
         "uncrt:id":"BM",
         "wd:id":"Q23635",
         "wmo:id":"BE"
@@ -743,7 +740,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1565711195,
+    "wof:lastmodified":1566627825,
     "wof:name":"Bermuda",
     "wof:parent_id":136253055,
     "wof:placetype":"dependency",

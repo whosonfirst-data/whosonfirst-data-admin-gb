@@ -9,15 +9,17 @@
     "geom:bbox":"0.746664746394,50.9219642004,0.867891077208,50.9575551565",
     "geom:latitude":50.937166,
     "geom:longitude":0.816309,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1000,
-    "gn:population":1265,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1000,
     "iso:country":"GB",
     "lbl:latitude":50.93473,
     "lbl:longitude":0.79848,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09ae\u09cd\u09ac\u09be\u09b0"
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1126044313,
-    "wof:lastmodified":1563340189,
+    "wof:lastmodified":1566634530,
     "wof:name":"Camber",
     "wof:parent_id":404438627,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"-0.97697,50.78773,-0.97697,50.78773",
     "geom:latitude":50.78773,
     "geom:longitude":-0.97697,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":15485,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-0.98197,50.78273,-0.97197,50.79273",
     "lbl:latitude":50.78773,
     "lbl:longitude":-0.97697,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hayling"
     ],
     "qs_pg:aaroncc":"GB",
@@ -43,20 +45,20 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":35243,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698557,
         102191581,
         1360817467,
         85633159,
         404227469,
         1125890333,
-        1360698827
+        1360698827,
+        1360698557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1360801643,
-    "wof:lastmodified":1547714389,
+    "wof:lastmodified":1566629455,
     "wof:name":"South Hayling",
     "wof:parent_id":1125890333,
     "wof:placetype":"neighbourhood",

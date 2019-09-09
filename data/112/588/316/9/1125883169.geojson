@@ -9,15 +9,17 @@
     "geom:bbox":"-1.27436419505,52.8040449623,-1.21621084998,52.840291135",
     "geom:latitude":52.823167,
     "geom:longitude":-1.246203,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1558,
-    "gn:population":1218,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1558,
     "iso:country":"GB",
     "lbl:latitude":52.82144,
     "lbl:longitude":-1.24969,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u099f\u09a8 \u09ac\u09a8\u09bf\u0982\u099f\u09a8"
@@ -71,7 +73,7 @@
         "Sutton Bonington"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd  \u0baa\u0bcb\u0ba9\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd"
+        "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0baa\u0bcb\u0ba9\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c41\u0c1f\u0c4d\u0c1f\u0c4b\u0c28\u0c4d \u0c2c\u0c4b\u0c32\u0c3f\u0c02\u0c17\u0c4d\u0c1f\u0c28\u0c4d"
@@ -103,7 +105,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1125883169,
-    "wof:lastmodified":1563340769,
+    "wof:lastmodified":1566634890,
     "wof:name":"Sutton Bonington",
     "wof:parent_id":404445949,
     "wof:placetype":"locality",

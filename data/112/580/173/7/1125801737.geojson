@@ -9,14 +9,17 @@
     "geom:bbox":"-0.956528071551,52.3946853835,-0.888175063077,52.4339010081",
     "geom:latitude":52.41161,
     "geom:longitude":-0.923642,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.4062,
     "lbl:longitude":-0.91814,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09b2\u09ae\u09be\u09b0\u09cd\u09b6"
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1125801737,
-    "wof:lastmodified":1563340949,
+    "wof:lastmodified":1566635003,
     "wof:name":"Kelmarsh",
     "wof:parent_id":404433007,
     "wof:placetype":"locality",

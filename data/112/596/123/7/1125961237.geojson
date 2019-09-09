@@ -9,15 +9,17 @@
     "geom:bbox":"0.859424694364,52.1545703955,0.925121610429,52.2068984375",
     "geom:latitude":52.184191,
     "geom:longitude":0.888168,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":320,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.19359,
     "lbl:longitude":0.89358,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u043b\u0435\u0441\u0434\u0435\u043d"
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1125961237,
-    "wof:lastmodified":1563341994,
+    "wof:lastmodified":1566635652,
     "wof:name":"Rattlesden",
     "wof:parent_id":404435001,
     "wof:placetype":"locality",

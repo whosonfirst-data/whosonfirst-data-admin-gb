@@ -9,15 +9,17 @@
     "geom:bbox":"-2.42858880894,51.7077198639,-2.35278803853,51.7593231016",
     "geom:latitude":51.733232,
     "geom:longitude":-2.392505,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":742,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.73104,
     "lbl:longitude":-2.37888,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09b2\u09bf\u09ae\u09ac\u09cd\u09b0\u09bf\u099c"
@@ -115,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1125894741,
-    "wof:lastmodified":1563340856,
+    "wof:lastmodified":1566634946,
     "wof:name":"Slimbridge",
     "wof:parent_id":404438905,
     "wof:placetype":"locality",

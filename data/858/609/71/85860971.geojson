@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.470328,
     "lbl:longitude":-2.401909,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.46754,
     "mps:longitude":-2.422168,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Barton Moss"
-    ],
-    "name:unk_x_variant":[
         "Barton Moss"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -57,19 +55,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698555,
         102191581,
         85633159,
         404227469,
         1175612693,
-        1360699005
+        1360699005,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20091946,
-        "qs:id":237504,
         "qs_pg:id":237504
     },
     "wof:country":"GB",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698211,
+    "wof:lastmodified":1566627905,
     "wof:name":"Barton Moss",
     "wof:parent_id":1175612693,
     "wof:placetype":"neighbourhood",

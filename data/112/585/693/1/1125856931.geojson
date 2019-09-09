@@ -9,14 +9,17 @@
     "geom:bbox":"-0.048205614388,51.9661700416,0.00951224919436,51.9971164491",
     "geom:latitude":51.980807,
     "geom:longitude":-0.020125,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.98443,
     "lbl:longitude":-0.02678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u0627\u06a9\u0644\u0646\u062f"
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1125856931,
-    "wof:lastmodified":1564159534,
+    "wof:lastmodified":1566636037,
     "wof:name":"Buckland",
     "wof:parent_id":404453591,
     "wof:placetype":"locality",

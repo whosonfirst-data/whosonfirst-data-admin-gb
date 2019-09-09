@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.866842,
     "lbl:longitude":-0.184183,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.866842,
     "mps:longitude":-0.184183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0646\u0628\u200c\u0648\u0631\u062f"
     ],
@@ -118,7 +121,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.866,
     "wd:longitude":-0.184,
@@ -136,10 +139,12 @@
         "fct:id":"0aa1f1c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2645161,
         "gp:id":25509,
-        "qs:id":140772,
-        "qs_pg:id":281240,
+        "qs_pg:id":140772,
         "wd:id":"Q386419",
         "wk:page":"Knebworth"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":281240
     },
     "wof:coterminous":[
         404440897
@@ -161,7 +166,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336801,
+    "wof:lastmodified":1566630990,
     "wof:name":"Knebworth",
     "wof:parent_id":404440897,
     "wof:placetype":"locality",

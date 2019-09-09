@@ -9,15 +9,17 @@
     "geom:bbox":"-2.83303898532,51.2723428856,-2.80017905957,51.3019211673",
     "geom:latitude":51.288144,
     "geom:longitude":-2.818155,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2070,
-    "gn:population":2057,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2070,
     "iso:country":"GB",
     "lbl:latitude":51.28694,
     "lbl:longitude":-2.81694,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u06a9\u0633\u0631\u06cc\u062c"
@@ -100,7 +102,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":1126014401,
-    "wof:lastmodified":1563342343,
+    "wof:lastmodified":1566635851,
     "wof:name":"Axbridge",
     "wof:parent_id":404435883,
     "wof:placetype":"locality",

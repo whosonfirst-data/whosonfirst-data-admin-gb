@@ -9,15 +9,17 @@
     "geom:bbox":"-4.29392218342,53.1181654988,-4.22910035721,53.1624526148",
     "geom:latitude":53.141087,
     "geom:longitude":-4.262434,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":9836,
-    "gn:population":9730,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA2",
+    "gn:population":9836,
     "iso:country":"GB",
     "lbl:latitude":53.14126,
     "lbl:longitude":-4.27016,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0646\u0627\u0631\u0641\u0648\u0646"
@@ -179,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043d\u0430\u0440\u0432\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carnarvon"
     ],
     "name:urd_x_preferred":[
@@ -214,7 +216,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":14859,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -253,7 +255,7 @@
         }
     ],
     "wof:id":1126008937,
-    "wof:lastmodified":1563342480,
+    "wof:lastmodified":1566635929,
     "wof:name":"Caernarfon",
     "wof:parent_id":404452489,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.51217,
     "lbl:longitude":-3.3152,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.51217,
     "mps:longitude":-3.3152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041d\u044c\u044e\u0442\u0430\u045e\u043d"
     ],
@@ -128,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u044c\u044e\u0442\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tre-Newydd"
     ],
     "name:urd_x_preferred":[
@@ -165,7 +168,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"whosonfirst",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1304,
     "wof:belongsto":[
@@ -181,10 +184,12 @@
         "fct:id":"0a98597a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2641524,
         "gp:id":30285,
-        "qs:id":1276536,
         "qs_pg:id":1073635,
         "wd:id":"Q669171",
         "wk:page":"Newtown, Powys"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1276536
     },
     "wof:country":"GB",
     "wof:geomhash":"45367d7b530c5b79f81cb8acfd72d478",
@@ -203,7 +208,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336747,
+    "wof:lastmodified":1566630965,
     "wof:name":"Newtown",
     "wof:parent_id":404439593,
     "wof:placetype":"locality",

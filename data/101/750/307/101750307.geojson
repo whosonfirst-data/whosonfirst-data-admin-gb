@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":50.81751,
     "lbl:longitude":-1.078444,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.800708,
     "mps:longitude":-1.074012,
     "mz:hierarchy_label":1,
@@ -395,7 +397,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.795278,
     "wd:longitude":-1.088889,
@@ -411,10 +413,12 @@
     "wof:concordances":{
         "gn:id":2639995,
         "gp:id":32453,
-        "qs:id":351963,
         "qs_pg:id":23739,
         "wd:id":"Q72259",
         "wk:page":"Portsmouth"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":351963
     },
     "wof:country":"GB",
     "wof:geomhash":"aa421bf586d978e34bb59d5fc1c0e228",
@@ -429,7 +433,7 @@
         }
     ],
     "wof:id":101750307,
-    "wof:lastmodified":1563336525,
+    "wof:lastmodified":1566630896,
     "wof:name":"Portsmouth",
     "wof:parent_id":1360699069,
     "wof:placetype":"locality",

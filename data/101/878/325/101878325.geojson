@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.974992,
     "lbl:longitude":-1.86502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.966866,
     "mps:longitude":-1.858526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0432\u0438\u043d\u0433\u0445\u0430\u043c"
     ],
@@ -70,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.966,
     "wd:longitude":-1.865,
     "wd:wordcount":1057,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2640755,
         "gp:id":31242,
-        "qs:id":1339457,
         "qs_pg:id":1339457,
         "wd:id":"Q2672173",
         "wk:page":"Ovingham"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101878325,
-    "wof:lastmodified":1563336722,
+    "wof:lastmodified":1566630955,
     "wof:name":"Ovingham",
     "wof:parent_id":404436093,
     "wof:placetype":"locality",

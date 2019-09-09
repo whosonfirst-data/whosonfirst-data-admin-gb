@@ -9,14 +9,17 @@
     "geom:bbox":"0.646676048668,52.2709757571,0.685720932621,52.2959648937",
     "geom:latitude":52.282652,
     "geom:longitude":0.667691,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.2857,
     "lbl:longitude":0.67557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0435\u043d\u0433\u0440\u0430\u0432\u0435"
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125785289,
-    "wof:lastmodified":1563342765,
+    "wof:lastmodified":1566636126,
     "wof:name":"Hengrave",
     "wof:parent_id":404451403,
     "wof:placetype":"locality",

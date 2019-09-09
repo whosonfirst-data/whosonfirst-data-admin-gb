@@ -10,8 +10,10 @@
     "geom:latitude":51.387263,
     "geom:longitude":-0.503508,
     "iso:country":"GB",
+    "lbl:bbox":"-0.508508,51.382263,-0.498508,51.392263",
     "lbl:latitude":51.387263,
     "lbl:longitude":-0.503508,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.389872,
     "mps:longitude":-0.505081,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:swe_x_preferred":[
         "Greatworth"
     ],
-    "name:unk_x_variant":[
-        "Eastworth"
-    ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2653239,
@@ -89,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1360817277,
@@ -103,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2647988,
         "gp:id":20089412,
-        "qs:id":1115305,
         "qs_pg:id":1115305,
         "wd:id":"Q1983883",
         "wk:page":"Greatworth"
@@ -126,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332280,
+    "wof:lastmodified":1566627864,
     "wof:name":"Eastworth",
     "wof:parent_id":101853507,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"1.71286136736,52.6334799624,1.74186490598,52.6640607011",
     "geom:latitude":52.649057,
     "geom:longitude":1.7263,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8951,
-    "gn:population":8901,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":8951,
     "iso:country":"GB",
     "lbl:latitude":52.64809,
     "lbl:longitude":1.72648,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09c7\u0987\u09b8\u09cd\u099f\u09be\u09b0 \u0985\u09a8 \u09b8\u09bf"
@@ -76,7 +78,7 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c48\u0c38\u0c4d\u0c1f\u0c30\u0c4d-\u0c06\u0c28\u0c4d-\u0c38\u0c40"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caister next Yarmouth"
     ],
     "name:urd_x_preferred":[
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1125957001,
-    "wof:lastmodified":1563339786,
+    "wof:lastmodified":1566634271,
     "wof:name":"Caister-on-Sea",
     "wof:parent_id":404435167,
     "wof:placetype":"locality",

@@ -10,12 +10,15 @@
     "geom:latitude":50.333055,
     "geom:longitude":-4.758635,
     "iso:country":"GB",
+    "lbl:bbox":"-4.763635,50.328055,-4.753635,50.338055",
     "lbl:latitude":50.333056,
     "lbl:longitude":-4.758635,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.333056,
     "mps:longitude":-4.758635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Charlestown"
     ],
@@ -49,7 +52,7 @@
     "name:pol_x_preferred":[
         "Charlestown"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Earlestown"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.3314,
     "wd:longitude":-4.7578,
     "wd:wordcount":1774,
@@ -94,10 +97,12 @@
     "wof:concordances":{
         "gn:id":2650556,
         "gp:id":15669,
-        "qs:id":1113446,
         "qs_pg:id":977470,
         "wd:id":"Q937918",
         "wk:page":"Charlestown, Cornwall"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1113446
     },
     "wof:country":"GB",
     "wof:geomhash":"aa3f661146dc103e67cf18cf74e4038d",
@@ -114,7 +119,7 @@
         }
     ],
     "wof:id":1360790683,
-    "wof:lastmodified":1563333628,
+    "wof:lastmodified":1566628764,
     "wof:name":"Charlestown",
     "wof:parent_id":1360758635,
     "wof:placetype":"neighbourhood",

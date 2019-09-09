@@ -9,12 +9,15 @@
     "geom:bbox":"-0.060274,51.605357,-0.060274,51.605357",
     "geom:latitude":51.605357,
     "geom:longitude":-0.060274,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-0.065274,51.600357,-0.055274,51.610357",
     "lbl:latitude":51.605357,
     "lbl:longitude":-0.060274,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Northumberland Park"
@@ -43,18 +46,18 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20089432,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857279
+        1158857279,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126108103,
-    "wof:lastmodified":1542206426,
+    "wof:lastmodified":1566634321,
     "wof:name":"Northumberland Park",
     "wof:parent_id":1158857279,
     "wof:placetype":"neighbourhood",

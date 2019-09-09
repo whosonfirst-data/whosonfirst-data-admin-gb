@@ -10,12 +10,15 @@
     "geom:latitude":51.080056,
     "geom:longitude":-1.86176,
     "iso:country":"GB",
+    "lbl:bbox":"-1.86676,51.075056,-1.85676,51.085056",
     "lbl:latitude":51.080057,
     "lbl:longitude":-1.86176,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.080057,
     "mps:longitude":-1.86176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0644\u062a\u0648\u0646"
     ],
@@ -140,7 +143,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.08,
     "wd:longitude":-1.864,
     "wd:wordcount":957,
@@ -157,10 +160,12 @@
     "wof:concordances":{
         "gn:id":6620457,
         "gp:id":20093549,
-        "qs:id":373244,
         "qs_pg:id":51242,
         "wd:id":"Q1018668",
         "wk:page":"Wilton, Wiltshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":373244
     },
     "wof:country":"GB",
     "wof:geomhash":"9c1ff59e83c1fe139d1b5756410758fa",
@@ -177,7 +182,7 @@
         }
     ],
     "wof:id":1360790735,
-    "wof:lastmodified":1563333452,
+    "wof:lastmodified":1566628677,
     "wof:name":"Wilton",
     "wof:parent_id":1242606811,
     "wof:placetype":"neighbourhood",

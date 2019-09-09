@@ -9,15 +9,17 @@
     "geom:bbox":"-2.03274948201,52.7588207641,-1.94395758782,52.8240792233",
     "geom:latitude":52.78987,
     "geom:longitude":-1.986441,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2485,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":2485,
     "iso:country":"GB",
     "lbl:latitude":52.78764,
     "lbl:longitude":-1.98206,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09b2\u0989\u0987\u0995"
@@ -100,7 +102,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":1125972237,
-    "wof:lastmodified":1563341798,
+    "wof:lastmodified":1566635524,
     "wof:name":"Colwich",
     "wof:parent_id":404443177,
     "wof:placetype":"locality",

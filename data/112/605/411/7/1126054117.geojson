@@ -9,15 +9,17 @@
     "geom:bbox":"-0.709093835548,51.9900860799,-0.659334170752,52.0142492482",
     "geom:latitude":52.00008,
     "geom:longitude":-0.682014,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":562,
+    "gn:country":null,
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.002274,
     "lbl:longitude":-0.68025,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0648 \u0628\u0631\u064a\u0643\u0647\u064a\u0644"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":1126054117,
-    "wof:lastmodified":1563340095,
+    "wof:lastmodified":1566634466,
     "wof:name":"Bow Brickhill",
     "wof:parent_id":404438415,
     "wof:placetype":"locality",

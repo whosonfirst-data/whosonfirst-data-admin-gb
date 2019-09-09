@@ -9,14 +9,17 @@
     "geom:bbox":"-1.71299373872,51.170876976,-1.66791546673,51.2029978386",
     "geom:latitude":51.18503,
     "geom:longitude":-1.688867,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.17929,
     "lbl:longitude":-1.6785,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0427\u043e\u043b\u0434\u0435\u0440\u0442\u043e\u043d"
@@ -42,7 +45,7 @@
     "name:swe_x_preferred":[
         "Cholderton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "West Cholderton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125907141,
-    "wof:lastmodified":1563341492,
+    "wof:lastmodified":1566635325,
     "wof:name":"Cholderton",
     "wof:parent_id":404440013,
     "wof:placetype":"locality",

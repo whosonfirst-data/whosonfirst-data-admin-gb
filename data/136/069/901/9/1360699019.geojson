@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":50.847453,
     "lbl:longitude":-0.135256,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.847453,
     "mps:longitude":-0.135256,
     "mz:hierarchy_label":1,
@@ -133,7 +135,7 @@
         "Brighton & Hove"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0bb0\u0bc8\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd  \u0b85\u0ba3\u0bcd\u0b9f\u0bcd  \u0bb9\u0bca\u0bb5\u0bcd"
+        "\u0baa\u0bbf\u0bb0\u0bc8\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0bb9\u0bca\u0bb5\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c30\u0c48\u0c1f\u0c28\u0c4d \u0c05\u0c02\u0c21\u0c4d \u0c39\u0c4b\u0c35\u0c4d"
@@ -149,9 +151,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0439\u0442\u043e\u043d \u0456 \u0413\u043e\u0443\u0432"
-    ],
-    "name:unk_x_variant":[
-        "Brighton and Hove"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0627\u0626\u06cc\u0679\u0646 \u0627\u06cc\u0646\u0688 \u06c1\u0648\u0648"
@@ -241,9 +240,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"82",
     "statoids:area_mi":"32",
     "statoids:as_of_date":"2011-03-27",
@@ -294,11 +293,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1561838024,
+    "wof:lastmodified":1566630405,
     "wof:name":"The City of Brighton and Hove",
     "wof:parent_id":1360698549,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary authority",
     "wof:population":273369,
     "wof:population_rank":10,

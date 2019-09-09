@@ -9,15 +9,17 @@
     "geom:bbox":"-1.33734394427,51.7871061672,-1.28799640536,51.8220379541",
     "geom:latitude":51.804546,
     "geom:longitude":-1.309872,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2579,
-    "gn:population":2545,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2579,
     "iso:country":"GB",
     "lbl:latitude":51.80986,
     "lbl:longitude":-1.30694,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u09a8\u099f\u09a8"
@@ -103,7 +105,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1126013353,
-    "wof:lastmodified":1563342399,
+    "wof:lastmodified":1566635885,
     "wof:name":"Yarnton",
     "wof:parent_id":404445235,
     "wof:placetype":"locality",

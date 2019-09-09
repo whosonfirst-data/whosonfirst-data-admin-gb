@@ -9,15 +9,17 @@
     "geom:bbox":"1.12957114822,52.3579120273,1.20974306092,52.3979880389",
     "geom:latitude":52.376331,
     "geom:longitude":1.168106,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1028,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.36706,
     "lbl:longitude":1.15674,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Scole"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125977455,
-    "wof:lastmodified":1563341878,
+    "wof:lastmodified":1566635577,
     "wof:name":"Scole",
     "wof:parent_id":404449037,
     "wof:placetype":"locality",

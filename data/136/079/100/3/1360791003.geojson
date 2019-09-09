@@ -10,12 +10,15 @@
     "geom:latitude":53.57893,
     "geom:longitude":-1.413038,
     "iso:country":"GB",
+    "lbl:bbox":"-1.418038,53.57393,-1.408038,53.58393",
     "lbl:latitude":53.57893,
     "lbl:longitude":-1.413038,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.57893,
     "mps:longitude":-1.413038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a1\u0993\u09b0\u09cd\u09a5"
     ],
@@ -104,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -117,10 +120,12 @@
     "wof:concordances":{
         "gn:id":2651778,
         "gp:id":17597,
-        "qs:id":4,
-        "qs_pg:id":398931,
+        "qs_pg:id":4,
         "wd:id":"Q954528",
         "wk:page":"Cudworth, South Yorkshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":398931
     },
     "wof:country":"GB",
     "wof:geomhash":"c4b0818cdfc5fa76e4f1e38a789c1ae5",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":1360791003,
-    "wof:lastmodified":1563333338,
+    "wof:lastmodified":1566628622,
     "wof:name":"Cudworth",
     "wof:parent_id":1125860113,
     "wof:placetype":"neighbourhood",

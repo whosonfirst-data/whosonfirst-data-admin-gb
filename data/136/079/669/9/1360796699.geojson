@@ -9,17 +9,19 @@
     "geom:bbox":"-1.25,54.03333,-1.25,54.03333",
     "geom:latitude":54.03333,
     "geom:longitude":-1.25,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1008,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.255,54.02833,-1.245,54.03833",
     "lbl:latitude":54.03333,
     "lbl:longitude":-1.25,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Linton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -43,20 +45,20 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":26338,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698619,
         102191581,
         404435345,
         85633159,
         404227469,
         1125802699,
-        1360698753
+        1360698753,
+        1360698619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1360796699,
-    "wof:lastmodified":1547719787,
+    "wof:lastmodified":1566628469,
     "wof:name":"Linton upon Ouse",
     "wof:parent_id":1125802699,
     "wof:placetype":"neighbourhood",

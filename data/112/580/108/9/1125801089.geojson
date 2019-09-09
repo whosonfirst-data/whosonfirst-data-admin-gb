@@ -9,14 +9,17 @@
     "geom:bbox":"0.160928729792,52.2069166743,0.218240354287,52.2495462584",
     "geom:latitude":52.222932,
     "geom:longitude":0.190158,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM4",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"ADM4",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.22827,
     "lbl:longitude":0.18955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u0646 \u062f\u064a\u062a\u0648\u0646"
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1125801089,
-    "wof:lastmodified":1563340981,
+    "wof:lastmodified":1566635021,
     "wof:name":"Fen Ditton",
     "wof:parent_id":404437325,
     "wof:placetype":"locality",

@@ -10,12 +10,15 @@
     "geom:latitude":51.054289,
     "geom:longitude":-2.732759,
     "iso:country":"GB",
+    "lbl:bbox":"-2.737759,51.049289,-2.727759,51.059289",
     "lbl:latitude":51.054289,
     "lbl:longitude":-2.732759,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.054289,
     "mps:longitude":-2.732759,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0645\u0631\u062a\u0648\u0646"
     ],
@@ -134,7 +137,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.0535,
     "wd:longitude":-2.7361,
     "wd:wordcount":3505,
@@ -152,10 +155,12 @@
         "fct:id":"0aa44f0a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2637526,
         "gp:id":35131,
-        "qs:id":906962,
-        "qs_pg:id":1071539,
+        "qs_pg:id":906962,
         "wd:id":"Q1247774",
         "wk:page":"Somerton"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1071539
     },
     "wof:country":"GB",
     "wof:geomhash":"04d212a54ed25e6a60f729b7d44dfc4b",
@@ -175,7 +180,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332927,
+    "wof:lastmodified":1566628414,
     "wof:name":"Somerton",
     "wof:parent_id":1343893457,
     "wof:placetype":"neighbourhood",

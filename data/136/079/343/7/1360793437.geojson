@@ -9,14 +9,17 @@
     "geom:bbox":"-1.24695,50.68678,-1.24695,50.68678",
     "geom:latitude":50.68678,
     "geom:longitude":-1.24695,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.25195,50.68178,-1.24195,50.69178",
     "lbl:latitude":50.68678,
     "lbl:longitude":-1.24695,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Downend"
@@ -42,19 +45,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":18402,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698563,
         102191581,
         404448063,
         85633159,
         404227469,
         1360756289,
-        1360699089
+        1360699089,
+        1360698563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1360793437,
-    "wof:lastmodified":1547730604,
+    "wof:lastmodified":1566628871,
     "wof:name":"Downend",
     "wof:parent_id":1360756289,
     "wof:placetype":"neighbourhood",

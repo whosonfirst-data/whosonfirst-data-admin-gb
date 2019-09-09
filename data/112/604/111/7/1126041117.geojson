@@ -9,15 +9,17 @@
     "geom:bbox":"-2.50287418109,53.6578637379,-2.42306707826,53.7165406785",
     "geom:latitude":53.687229,
     "geom:longitude":-2.469242,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":32566,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":32566,
     "iso:country":"GB",
     "lbl:latitude":53.69803,
     "lbl:longitude":-2.46494,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u0627\u0631\u0648\u0646"
@@ -139,7 +141,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":1126041117,
-    "wof:lastmodified":1563340197,
+    "wof:lastmodified":1566634536,
     "wof:name":"Darwen",
     "wof:parent_id":404444405,
     "wof:placetype":"locality",

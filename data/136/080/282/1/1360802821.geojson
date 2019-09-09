@@ -9,14 +9,17 @@
     "geom:bbox":"-3.50548,54.42202,-3.50548,54.42202",
     "geom:latitude":54.42202,
     "geom:longitude":-3.50548,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.51048,54.41702,-3.50048,54.42702",
     "lbl:latitude":54.42202,
     "lbl:longitude":-3.50548,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Sellafield"
@@ -81,7 +84,7 @@
     "name:swe_x_preferred":[
         "Sellafield"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Low Sellafield"
     ],
     "qs_pg:aaroncc":"GB",
@@ -105,7 +108,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":34350,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1360802821,
-    "wof:lastmodified":1564153916,
+    "wof:lastmodified":1566629538,
     "wof:name":"Sellafield",
     "wof:parent_id":1126036139,
     "wof:placetype":"neighbourhood",

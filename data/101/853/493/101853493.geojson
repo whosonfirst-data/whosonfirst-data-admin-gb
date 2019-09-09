@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.265664,
     "lbl:longitude":0.067262,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.265664,
     "mps:longitude":0.067262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0633\u062a\u0631\u0647\u0627\u0645"
     ],
@@ -133,7 +136,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.271339,
     "wd:longitude":0.07005,
@@ -150,7 +153,6 @@
     "wof:concordances":{
         "gn:id":2634434,
         "gp:id":39912,
-        "qs:id":140635,
         "qs_pg:id":140635,
         "wd:id":"Q2321393",
         "wk:page":"Westerham"
@@ -172,7 +174,7 @@
         }
     ],
     "wof:id":101853493,
-    "wof:lastmodified":1563336784,
+    "wof:lastmodified":1566630983,
     "wof:name":"Westerham",
     "wof:parent_id":404436063,
     "wof:placetype":"locality",

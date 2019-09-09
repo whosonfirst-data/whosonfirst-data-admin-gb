@@ -10,12 +10,15 @@
     "geom:latitude":53.357253,
     "geom:longitude":-1.112955,
     "iso:country":"GB",
+    "lbl:bbox":"-1.117955,53.352253,-1.107955,53.362253",
     "lbl:latitude":53.357254,
     "lbl:longitude":-1.112954,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.357254,
     "mps:longitude":-1.112954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09b2\u099f\u09a8 \u0987\u09a8 \u09b2\u09bf\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf\u0995"
     ],
@@ -65,7 +68,7 @@
         "Carlton in Lindrick"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd  \u0b87\u0ba8\u0bcd \u0bb2\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf\u0b95\u0bcd"
+        "\u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd \u0b87\u0ba8\u0bcd \u0bb2\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf\u0b95\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c30\u0c4d\u0c32\u0c4d\u0c1f\u0c28\u0c4d \u0c07\u0c28\u0c4d \u0c32\u0c3f\u0c02\u0c21\u0c4d\u0c30\u0c4d\u0c15\u0c4d"
@@ -92,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.36,
     "wd:longitude":-1.12,
     "wd:wordcount":742,
@@ -109,10 +112,12 @@
     "wof:concordances":{
         "gn:id":7296917,
         "gp:id":15203,
-        "qs:id":4,
-        "qs_pg:id":265306,
+        "qs_pg:id":4,
         "wd:id":"Q2196849",
         "wk:page":"Carlton in Lindrick"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":265306
     },
     "wof:country":"GB",
     "wof:geomhash":"da147149945bc911317437bbe84494fa",
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":1360790963,
-    "wof:lastmodified":1561837872,
+    "wof:lastmodified":1566628455,
     "wof:name":"Carlton in Lindrick",
     "wof:parent_id":1326559215,
     "wof:placetype":"neighbourhood",

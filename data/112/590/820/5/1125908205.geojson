@@ -9,14 +9,17 @@
     "geom:bbox":"-2.84064439961,54.5551017998,-2.74368934093,54.6263462534",
     "geom:latitude":54.589425,
     "geom:longitude":-2.78259,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.60668,
     "lbl:longitude":-2.75311,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Askham"
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125908205,
-    "wof:lastmodified":1563341449,
+    "wof:lastmodified":1566635298,
     "wof:name":"Askham",
     "wof:parent_id":404453895,
     "wof:placetype":"locality",

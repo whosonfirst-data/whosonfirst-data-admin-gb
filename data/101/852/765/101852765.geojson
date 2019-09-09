@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.487904,
     "lbl:longitude":-3.690892,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.487904,
     "mps:longitude":-3.690892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Porthcawl"
     ],
@@ -150,7 +153,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":51.48,
     "wd:longitude":-3.69,
@@ -169,7 +172,6 @@
         "fct:id":"0aa68e96-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2640054,
         "gp:id":32404,
-        "qs:id":140680,
         "qs_pg:id":140680,
         "wd:id":"Q39480",
         "wk:page":"Porthcawl"
@@ -194,7 +196,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336918,
+    "wof:lastmodified":1566631042,
     "wof:name":"Porthcawl",
     "wof:parent_id":404447933,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.745308,
     "lbl:longitude":-1.999408,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.745308,
     "mps:longitude":-1.999408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646\u0647\u0648\u067e"
     ],
@@ -82,7 +85,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.7471,
     "wd:longitude":-2.006,
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2637078,
         "gp:id":35897,
-        "qs:id":967174,
         "qs_pg:id":967174,
         "wd:id":"Q428342",
         "wk:page":"Stanhope, County Durham"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101873345,
-    "wof:lastmodified":1563336292,
+    "wof:lastmodified":1566630807,
     "wof:name":"Stanhope",
     "wof:parent_id":404453939,
     "wof:placetype":"locality",

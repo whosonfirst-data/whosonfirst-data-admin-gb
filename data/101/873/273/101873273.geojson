@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.90435,
     "lbl:longitude":-2.773057,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.90435,
     "mps:longitude":-2.773057,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0627\u0631\u0633\u062a\u0646\u0642"
     ],
@@ -84,7 +87,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.903,
     "wd:longitude":-2.767,
     "wd:wordcount":1227,
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":2648829,
         "gp:id":20871,
-        "qs:id":966721,
         "qs_pg:id":966721,
         "wd:id":"Q1494566",
         "wk:page":"Garstang"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101873273,
-    "wof:lastmodified":1563336168,
+    "wof:lastmodified":1566630767,
     "wof:name":"Garstang",
     "wof:parent_id":404452013,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"1.05382408116,52.2860377923,1.10010136577,52.3119347617",
     "geom:latitude":52.298518,
     "geom:longitude":1.077391,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.2942,
     "lbl:longitude":1.08417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Thornham Magna"
@@ -36,7 +39,7 @@
     "name:swe_x_preferred":[
         "Thornham Magna"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thornham"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125879519,
-    "wof:lastmodified":1563341175,
+    "wof:lastmodified":1566635138,
     "wof:name":"Thornham Magna",
     "wof:parent_id":404438987,
     "wof:placetype":"locality",

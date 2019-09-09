@@ -9,15 +9,17 @@
     "geom:bbox":"-3.83283354685,51.7332795055,-3.7774331236,51.7827315453",
     "geom:latitude":51.758894,
     "geom:longitude":-3.805251,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10218,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":10218,
     "iso:country":"GB",
     "lbl:latitude":51.76716,
     "lbl:longitude":-3.78082,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u099f\u09be\u09b2\u09bf\u09ab\u09c7\u09b0\u09be"
@@ -91,7 +93,7 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c24\u0c3e\u0c32\u0c4d\u0c2b\u0c46\u0c30\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ystalfera"
     ],
     "name:urd_x_preferred":[
@@ -120,7 +122,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":41434,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":1125970743,
-    "wof:lastmodified":1563341792,
+    "wof:lastmodified":1566635521,
     "wof:name":"Ystalyfera",
     "wof:parent_id":404439119,
     "wof:placetype":"locality",

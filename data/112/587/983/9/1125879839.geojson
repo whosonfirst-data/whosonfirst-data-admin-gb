@@ -9,15 +9,17 @@
     "geom:bbox":"-1.11837761209,51.7067255046,-1.04615731376,51.746585699",
     "geom:latitude":51.726588,
     "geom:longitude":-1.088067,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":618,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.72028,
     "lbl:longitude":-1.08953,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Great Milton"
@@ -37,7 +39,7 @@
     "name:swe_x_preferred":[
         "Great Milton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Milton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -64,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1125879839,
-    "wof:lastmodified":1564159229,
+    "wof:lastmodified":1566635113,
     "wof:name":"Great Milton",
     "wof:parent_id":404443879,
     "wof:placetype":"locality",

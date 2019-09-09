@@ -9,14 +9,17 @@
     "geom:bbox":"1.40408172305,52.2839582003,1.46170105683,52.3119949719",
     "geom:latitude":52.296951,
     "geom:longitude":1.434891,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.3025,
     "lbl:longitude":1.41973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Heveningham"
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125879933,
-    "wof:lastmodified":1563341168,
+    "wof:lastmodified":1566635134,
     "wof:name":"Heveningham",
     "wof:parent_id":404440163,
     "wof:placetype":"locality",

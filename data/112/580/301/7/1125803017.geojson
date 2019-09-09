@@ -9,14 +9,17 @@
     "geom:bbox":"0.442897648282,51.6216598218,0.530756120091,51.6650876525",
     "geom:latitude":51.641449,
     "geom:longitude":0.488264,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.65014,
     "lbl:longitude":0.51687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u09b9\u09cd\u09af\u09be\u09a8\u09bf\u0982\u09ab\u09bf\u09b2\u09cd\u09a1"
@@ -76,7 +79,7 @@
         "South Hanningfield"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0bb9\u0ba9\u0bcd\u0ba9\u0bbf\u0b99\u0bcd\u0baa\u0bc0\u0bb2\u0bcd\u0b9f\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bb9\u0ba9\u0bcd\u0ba9\u0bbf\u0b99\u0bcd\u0baa\u0bc0\u0bb2\u0bcd\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4c\u0c24\u0c4d \u0c39\u0c3e\u0c28\u0c4d\u0c2b\u0c40\u0c32\u0c4d\u0c21\u0c4d"
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1125803017,
-    "wof:lastmodified":1563340890,
+    "wof:lastmodified":1566634968,
     "wof:name":"South Hanningfield",
     "wof:parent_id":404434699,
     "wof:placetype":"locality",

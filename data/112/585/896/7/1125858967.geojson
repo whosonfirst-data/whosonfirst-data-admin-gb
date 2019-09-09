@@ -9,15 +9,17 @@
     "geom:bbox":"1.32759443525,52.6841752442,1.36290909059,52.7011519377",
     "geom:latitude":52.692373,
     "geom:longitude":1.344766,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":404,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.62671,
     "lbl:longitude":1.37791,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Crostwick"
@@ -64,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1125858967,
-    "wof:lastmodified":1563342680,
+    "wof:lastmodified":1566636064,
     "wof:name":"Crostwick",
     "wof:parent_id":404436363,
     "wof:placetype":"locality",

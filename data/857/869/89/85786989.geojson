@@ -13,8 +13,10 @@
     "gn:longitude":-1.33333,
     "gn:population":10914,
     "iso:country":"GB",
+    "lbl:bbox":"-1.75034,53.666505,-1.74034,53.676505",
     "lbl:latitude":53.671505,
     "lbl:longitude":-1.74534,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.672307,
     "mps:longitude":-1.74738,
     "mz:hierarchy_label":0,
@@ -44,10 +46,6 @@
     "name:swe_x_preferred":[
         "Beighton"
     ],
-    "name:unk_x_variant":[
-        "Beighton",
-        "Deighton"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"ENG",
@@ -76,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2656000,
         "gp:id":18040,
-        "qs:id":438302,
         "qs_pg:id":438302,
         "wd:id":"Q3637500",
         "wk:page":"Beighton ward, Sheffield"
@@ -112,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331762,
+    "wof:lastmodified":1566627596,
     "wof:name":"Deighton",
     "wof:parent_id":101750573,
     "wof:placetype":"neighbourhood",

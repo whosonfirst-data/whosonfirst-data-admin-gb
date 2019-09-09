@@ -9,15 +9,17 @@
     "geom:bbox":"-1.64263,52.80728,-1.64263,52.80728",
     "geom:latitude":52.80728,
     "geom:longitude":-1.64263,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":40039,
-    "gn:population":122199,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":40039,
     "iso:country":"GB",
+    "lbl:bbox":"-1.64763,52.80228,-1.63763,52.81228",
     "lbl:latitude":52.80728,
     "lbl:longitude":-1.64263,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u044a\u0440\u0442\u044a\u043d \u044a\u043f\u043e\u043d \u0422\u0440\u0435\u043d\u0442"
@@ -64,7 +66,7 @@
     "name:swe_x_preferred":[
         "Barrow upon Trent"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burton upon Trent"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +93,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":11964,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1360802721,
-    "wof:lastmodified":1564153637,
+    "wof:lastmodified":1566629273,
     "wof:name":"Barrow upon Trent",
     "wof:parent_id":1360753643,
     "wof:placetype":"neighbourhood",

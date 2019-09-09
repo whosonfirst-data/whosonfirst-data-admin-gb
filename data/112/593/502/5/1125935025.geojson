@@ -9,12 +9,15 @@
     "geom:bbox":"-2.43791490247,52.4941494304,-2.38951231582,52.5235082713",
     "geom:latitude":52.510906,
     "geom:longitude":-2.409837,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":52.507954,
     "lbl:longitude":-2.405576,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0415\u0430\u0440\u0434\u0438\u043d\u0433\u0442\u043e\u043d"
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125935025,
-    "wof:lastmodified":1563339609,
+    "wof:lastmodified":1566634144,
     "wof:name":"Eardington",
     "wof:parent_id":404436997,
     "wof:placetype":"locality",

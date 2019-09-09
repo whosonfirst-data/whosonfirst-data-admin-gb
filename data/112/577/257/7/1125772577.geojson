@@ -9,14 +9,17 @@
     "geom:bbox":"-4.59125982598,50.7402923149,-4.51067405108,50.8016327373",
     "geom:latitude":50.772098,
     "geom:longitude":-4.549343,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.76667,
     "lbl:longitude":-4.55,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Poundstock"
@@ -51,7 +54,7 @@
     "name:swe_x_preferred":[
         "Poundstock"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pounstock"
     ],
     "name:vep_x_preferred":[
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1125772577,
-    "wof:lastmodified":1563343159,
+    "wof:lastmodified":1566636346,
     "wof:name":"Poundstock",
     "wof:parent_id":404440285,
     "wof:placetype":"locality",

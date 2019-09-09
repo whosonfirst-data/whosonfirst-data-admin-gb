@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.029665,
     "lbl:longitude":0.997687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.029665,
     "mps:longitude":0.997687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a1\u09bf\u09ae\u099a\u09be\u09b0\u09cd\u099a"
     ],
@@ -102,7 +105,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.027,
     "wd:longitude":1.0,
     "wd:wordcount":2616,
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":2650589,
         "gp:id":18808,
-        "qs:id":906328,
         "qs_pg:id":906328,
         "wd:id":"Q2796278",
         "wk:page":"Dymchurch"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101854653,
-    "wof:lastmodified":1563336885,
+    "wof:lastmodified":1566631027,
     "wof:name":"Dymchurch",
     "wof:parent_id":404446741,
     "wof:placetype":"locality",

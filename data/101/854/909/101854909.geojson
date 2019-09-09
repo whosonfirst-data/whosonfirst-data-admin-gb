@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.341299,
     "lbl:longitude":0.409913,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.341299,
     "mps:longitude":0.409913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u064a\u0633\u0644\u0647\u0645"
     ],
@@ -70,7 +73,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.33,
     "wd:longitude":0.4,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2646012,
         "gp:id":24572,
-        "qs:id":488080,
         "qs_pg:id":488080,
         "wd:id":"Q2289646",
         "wk:page":"Isleham"
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101854909,
-    "wof:lastmodified":1563336806,
+    "wof:lastmodified":1566630992,
     "wof:name":"Isleham",
     "wof:parent_id":404448405,
     "wof:placetype":"locality",

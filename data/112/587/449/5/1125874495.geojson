@@ -9,15 +9,17 @@
     "geom:bbox":"-1.14405835979,51.5010433823,-1.095911442,51.5419565261",
     "geom:latitude":51.524946,
     "geom:longitude":-1.118438,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4022,
-    "gn:population":4079,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4022,
     "iso:country":"GB",
     "lbl:latitude":51.52322,
     "lbl:longitude":-1.13342,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u044b\u043d\u0433-\u043e\u043d-\u0422\u044d\u043c\u0437"
@@ -97,7 +99,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":1125874495,
-    "wof:lastmodified":1563341084,
+    "wof:lastmodified":1566635087,
     "wof:name":"Goring",
     "wof:parent_id":404447425,
     "wof:placetype":"locality",

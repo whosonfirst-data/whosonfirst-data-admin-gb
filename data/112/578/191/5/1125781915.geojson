@@ -9,12 +9,15 @@
     "geom:bbox":"-0.658999427327,51.3118474036,-0.623515456112,51.334976661",
     "geom:latitude":51.322973,
     "geom:longitude":-0.638323,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":51.327125,
     "lbl:longitude":-0.63607,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0632\u0644\u06cc"
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125781915,
-    "wof:lastmodified":1563342795,
+    "wof:lastmodified":1566636145,
     "wof:name":"Bisley",
     "wof:parent_id":404440261,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":54.41349,
     "geom:longitude":-6.150102,
     "iso:country":"GB",
+    "lbl:bbox":"-6.170102,54.39349,-6.130102,54.43349",
     "lbl:latitude":54.41349,
     "lbl:longitude":-6.150102,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.41349,
     "mps:longitude":-6.150102,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0440\u043e\u0443\u043c\u043e\u0440"
     ],
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360699225,
         102191581,
@@ -86,10 +90,12 @@
     "wof:concordances":{
         "gn:id":2650976,
         "gp:id":44748,
-        "qs:id":8,
-        "qs_pg:id":1224012,
+        "qs_pg:id":8,
         "wd:id":"Q206337",
         "wk:page":"Dromore, County Down"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1224012
     },
     "wof:country":"GB",
     "wof:geomhash":"9d45deb05e9de7954607320e61809854",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":101873695,
-    "wof:lastmodified":1563336209,
+    "wof:lastmodified":1566630779,
     "wof:name":"Dromore",
     "wof:parent_id":1360699225,
     "wof:placetype":"locality",

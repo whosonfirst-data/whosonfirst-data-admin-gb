@@ -9,15 +9,18 @@
     "geom:bbox":"-4.16508,55.9612,-4.16508,55.9612",
     "geom:latitude":55.9612,
     "geom:longitude":-4.16508,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":3950,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-4.18508,55.9412,-4.14508,55.9812",
     "lbl:latitude":55.9612,
     "lbl:longitude":-4.16508,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09ae\u09cd\u09aa\u09b8\u09bf"
@@ -77,7 +80,7 @@
         "Milton of Campsie"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd  \u0b86\u0baa\u0bcd \u0b95\u0bc7\u0bae\u0bcd\u0baa\u0bcd\u0b9a\u0bbf\u0baf\u0bc7"
+        "\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd \u0b86\u0baa\u0bcd \u0b95\u0bc7\u0bae\u0bcd\u0baa\u0bcd\u0b9a\u0bbf\u0baf\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c32\u0c4d\u0c1f\u0c28\u0c4d \u0c05\u0c2b\u0c4d \u0c15\u0c3e\u0c02\u0c2a\u0c40\u0c38\u0c40"
@@ -106,7 +109,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":29069,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1126022711,
-    "wof:lastmodified":1563339939,
+    "wof:lastmodified":1566634366,
     "wof:name":"Milton of Campsie",
     "wof:parent_id":404451795,
     "wof:placetype":"locality",

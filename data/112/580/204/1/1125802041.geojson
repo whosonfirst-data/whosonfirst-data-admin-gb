@@ -9,15 +9,17 @@
     "geom:bbox":"-4.21820656951,53.2140007128,-4.17661953412,53.2356559289",
     "geom:latitude":53.223914,
     "geom:longitude":-4.196296,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3074,
-    "gn:population":3107,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":3074,
     "iso:country":"GB",
     "lbl:latitude":53.22141,
     "lbl:longitude":-4.20329,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aar_x_preferred":[
         "Llanfairpwllgwyngyll"
@@ -631,7 +633,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043b\u0430\u043d\u0432\u0430\u0439\u0440\u043f\u0443\u043b\u043b\u0491\u0432\u0456\u043d\u0491\u0456\u043b\u043b\u0491\u043e\u0491\u0435\u0440\u0438\u0445\u0432\u0438\u0440\u043d\u0434\u0440\u043e\u0431\u0443\u043b\u043b\u043b\u043b\u0430\u043d\u0442\u0456\u0441\u0456\u043b\u0456\u043e\u0491\u043e\u0491\u043e\u0491\u043e\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lanfairpwll"
     ],
     "name:urd_x_preferred":[
@@ -717,7 +719,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":26908,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -756,7 +758,7 @@
         }
     ],
     "wof:id":1125802041,
-    "wof:lastmodified":1563340932,
+    "wof:lastmodified":1566634993,
     "wof:name":"Llanfairpwllgwyngyll",
     "wof:parent_id":404438641,
     "wof:placetype":"locality",

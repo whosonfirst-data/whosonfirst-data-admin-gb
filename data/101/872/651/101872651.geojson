@@ -11,12 +11,16 @@
     "geom:longitude":-3.450123,
     "gn:population":1491,
     "iso:country":"GB",
+    "lbl:bbox":"-3.470123,56.462792,-3.430123,56.502792",
     "lbl:latitude":56.482792,
     "lbl:longitude":-3.450123,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.482792,
     "mps:longitude":-3.450123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stanley"
     ],
@@ -58,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698691,
@@ -72,9 +76,11 @@
     "wof:concordances":{
         "gn:id":2637073,
         "gp:id":35901,
-        "qs:id":967173,
-        "qs_pg:id":996765,
+        "qs_pg:id":967173,
         "wd:id":"Q7599403"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":996765
     },
     "wof:country":"GB",
     "wof:geomhash":"c58f21b758c09d3f6d5b164480eecfa4",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":101872651,
-    "wof:lastmodified":1563336348,
+    "wof:lastmodified":1566630828,
     "wof:name":"Stanley",
     "wof:parent_id":404451983,
     "wof:placetype":"locality",

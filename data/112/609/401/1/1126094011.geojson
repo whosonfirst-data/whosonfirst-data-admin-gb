@@ -9,15 +9,17 @@
     "geom:bbox":"-2.21941,53.59245,-2.21941,53.59245",
     "geom:latitude":53.59245,
     "geom:longitude":-2.21941,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":28024,
+    "gn:country":"GB",
+    "gn:fcode":"PPLX",
     "gn:population":28024,
     "iso:country":"GB",
+    "lbl:bbox":"-2.22441,53.58745,-2.21441,53.59745",
     "lbl:latitude":53.59245,
     "lbl:longitude":-2.21941,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Heywood"
@@ -76,7 +78,7 @@
     "qs_pg:qs_id":1038706,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1126094011,
-    "wof:lastmodified":1564159509,
+    "wof:lastmodified":1566635970,
     "wof:name":"Heywood",
     "wof:parent_id":101750565,
     "wof:placetype":"neighbourhood",

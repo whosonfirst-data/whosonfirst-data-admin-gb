@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.591511,
     "lbl:longitude":-1.849788,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.591511,
     "mps:longitude":-1.849788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u0644\u062a\u0647\u0627\u0645"
     ],
@@ -118,7 +121,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.592,
     "wd:longitude":-1.85,
@@ -135,10 +138,12 @@
     "wof:concordances":{
         "gn:id":2642766,
         "gp:id":28682,
-        "qs:id":1036912,
-        "qs_pg:id":1073588,
+        "qs_pg:id":1036912,
         "wd:id":"Q2737155",
         "wk:page":"Meltham"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073588
     },
     "wof:coterminous":[
         404441223
@@ -157,7 +162,7 @@
         }
     ],
     "wof:id":101872219,
-    "wof:lastmodified":1563336332,
+    "wof:lastmodified":1566630823,
     "wof:name":"Meltham",
     "wof:parent_id":404441223,
     "wof:placetype":"locality",

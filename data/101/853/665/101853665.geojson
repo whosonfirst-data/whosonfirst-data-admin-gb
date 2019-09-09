@@ -9,17 +9,19 @@
     "geom:bbox":"-4.1275046292,52.5561731593,-3.96547803483,52.6084089217",
     "geom:latitude":52.579027,
     "geom:longitude":-4.048175,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":3097,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.585865,
     "lbl:longitude":-4.094066,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.585865,
     "mps:longitude":-4.094066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Tywyn"
     ],
@@ -175,7 +177,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.582939,
     "wd:longitude":-4.089889,
@@ -193,7 +195,6 @@
         "fct:id":"0aa67e2e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6559494,
         "gp:id":38485,
-        "qs:id":1249636,
         "qs_pg:id":1190685,
         "wd:id":"Q2272941",
         "wk:page":"Tywyn"
@@ -222,7 +223,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336792,
+    "wof:lastmodified":1566630986,
     "wof:name":"Tywyn",
     "wof:parent_id":404441673,
     "wof:placetype":"locality",

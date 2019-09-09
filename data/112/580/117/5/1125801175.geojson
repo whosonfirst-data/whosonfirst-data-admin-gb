@@ -9,15 +9,17 @@
     "geom:bbox":"-0.931516074175,52.9885886257,-0.869395550831,53.0358877242",
     "geom:latitude":53.010896,
     "geom:longitude":-0.902053,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":304,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.00631,
     "lbl:longitude":-0.89815,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0424\u043b\u0438\u043d\u0442\u0445\u0430\u043c"
@@ -64,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1125801175,
-    "wof:lastmodified":1563340963,
+    "wof:lastmodified":1566635012,
     "wof:name":"Flintham",
     "wof:parent_id":404431381,
     "wof:placetype":"locality",

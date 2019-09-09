@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.580732,
     "lbl:longitude":-1.553233,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.580732,
     "mps:longitude":-1.553233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0627\u062a\u0631\u0633\u062a\u0648\u0646"
     ],
@@ -136,7 +139,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.5787,
     "wd:longitude":-1.5462,
@@ -153,7 +156,6 @@
     "wof:concordances":{
         "gn:id":2656848,
         "gp:id":11351,
-        "qs:id":898423,
         "qs_pg:id":898423,
         "wd:id":"Q747778"
     },
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":101853065,
-    "wof:lastmodified":1563336748,
+    "wof:lastmodified":1566630965,
     "wof:name":"Atherstone",
     "wof:parent_id":404442771,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":55.860936,
     "lbl:longitude":-4.251586,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.864523,
     "mps:longitude":-4.251834,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Queen Street 1"
-    ],
-    "name:unk_x_variant":[
         "Queen Street 1"
     ],
     "qs:gn_id":0,
@@ -57,20 +55,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698707,
         102191581,
         404430153,
         85633159,
         404227471,
         1175612707,
-        1360698797
+        1360698797,
+        1360698707
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43621,
-        "qs:id":947864,
         "qs_pg:id":947864
     },
     "wof:country":"GB",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542192162,
+    "wof:lastmodified":1566627775,
     "wof:name":"Queen Street 1",
     "wof:parent_id":1175612707,
     "wof:placetype":"neighbourhood",

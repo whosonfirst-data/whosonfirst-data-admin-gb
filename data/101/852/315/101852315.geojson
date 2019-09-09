@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.76644,
     "lbl:longitude":-1.311014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.755808,
     "mps:longitude":-1.310887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0648\u0632"
     ],
@@ -160,7 +163,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":50.7595,
     "wd:longitude":-1.3002,
     "wd:wordcount":2530,
@@ -177,10 +180,12 @@
         "fct:id":"0ab3fc02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2652204,
         "gp:id":17066,
-        "qs:id":8,
-        "qs_pg:id":897906,
+        "qs_pg:id":8,
         "wd:id":"Q587996",
         "wk:page":"Cowes"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":897906
     },
     "wof:coterminous":[
         404441099
@@ -202,7 +207,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336970,
+    "wof:lastmodified":1566631061,
     "wof:name":"Cowes",
     "wof:parent_id":404441099,
     "wof:placetype":"locality",

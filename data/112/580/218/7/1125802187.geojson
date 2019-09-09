@@ -9,14 +9,17 @@
     "geom:bbox":"-3.33946970383,51.9004093291,-3.20991049701,51.9712622905",
     "geom:latitude":51.940269,
     "geom:longitude":-3.266647,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.93333,
     "lbl:longitude":-3.26667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Llangors"
@@ -81,7 +84,7 @@
         "qs_pg"
     ],
     "src:geom_via":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125802187,
-    "wof:lastmodified":1563340902,
+    "wof:lastmodified":1566634976,
     "wof:name":"Llangorse",
     "wof:parent_id":404439997,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.440592136517,51.7626542221,-0.361882898907,51.8205254483",
     "geom:latitude":51.787469,
     "geom:longitude":-0.402776,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4784,
-    "gn:population":5113,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4784,
     "iso:country":"GB",
     "lbl:latitude":51.79896,
     "lbl:longitude":-0.39594,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0631\u062f\u0628\u0648\u0631\u0646"
@@ -121,7 +123,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":1125847047,
-    "wof:lastmodified":1563343077,
+    "wof:lastmodified":1566636303,
     "wof:name":"Redbourn",
     "wof:parent_id":404433095,
     "wof:placetype":"locality",

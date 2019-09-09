@@ -9,17 +9,19 @@
     "geom:bbox":"-1.44923591251,54.3453322058,-1.39259016881,54.3979656273",
     "geom:latitude":54.371497,
     "geom:longitude":-1.42197,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1848,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.357775,
     "lbl:longitude":-1.419059,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.357775,
     "mps:longitude":-1.419059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Brompton"
     ],
@@ -81,7 +83,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698619,
@@ -96,15 +98,14 @@
         "fct:id":"0aa4a572-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2654584,
         "gp:id":14117,
-        "qs:id":260638,
-        "qs_pg:id":1317548,
+        "qs_pg:id":260638,
         "wd:id":"Q2300765",
         "wk:page":"Brompton, Hambleton"
     },
     "wof:concordances_alt":{
         "gn:id":2654583,
         "gp:id":14120,
-        "qs_pg:id":260638
+        "qs_pg:id":1317548
     },
     "wof:coterminous":[
         404446739
@@ -126,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336202,
+    "wof:lastmodified":1566630777,
     "wof:name":"Brompton",
     "wof:parent_id":404446739,
     "wof:placetype":"locality",

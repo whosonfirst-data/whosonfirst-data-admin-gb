@@ -9,15 +9,17 @@
     "geom:bbox":"1.24625,51.83877,1.24625,51.83877",
     "geom:latitude":51.83877,
     "geom:longitude":1.24625,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16941,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":16941,
     "iso:country":"GB",
+    "lbl:bbox":"1.24125,51.83377,1.25125,51.84377",
     "lbl:latitude":51.83877,
     "lbl:longitude":1.24625,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Frinton-on-Sea"
@@ -64,7 +66,7 @@
     "name:swe_x_preferred":[
         "Frinton-on-Sea"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Frinton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -88,7 +90,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20651,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":1360798557,
-    "wof:lastmodified":1563333664,
+    "wof:lastmodified":1566628783,
     "wof:name":"Frinton-on-Sea",
     "wof:parent_id":1360758743,
     "wof:placetype":"neighbourhood",

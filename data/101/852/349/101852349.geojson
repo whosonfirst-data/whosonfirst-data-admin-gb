@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.803382,
     "lbl:longitude":-1.979153,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.803382,
     "mps:longitude":-1.979153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0648\u06cc\u0645\u0628\u0648\u0631\u0646 \u0645\u064a\u0646\u0633\u062a\u0631"
     ],
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043c\u0431\u043e\u0440\u043d \u041c\u0456\u043d\u0456\u0441\u0442\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wimborne"
     ],
     "name:urd_x_preferred":[
@@ -151,7 +154,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.804,
     "wd:longitude":-1.978,
@@ -169,7 +172,6 @@
         "gn:id":2633863,
         "gp:id":40595,
         "loc:id":"n93073576",
-        "qs:id":454318,
         "qs_pg:id":454318,
         "wd:id":"Q535233",
         "wk:page":"Wimborne Minster"
@@ -191,7 +193,7 @@
         }
     ],
     "wof:id":101852349,
-    "wof:lastmodified":1563336975,
+    "wof:lastmodified":1566631063,
     "wof:name":"Wimborne Minster",
     "wof:parent_id":404441477,
     "wof:placetype":"locality",

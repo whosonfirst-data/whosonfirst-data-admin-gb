@@ -9,15 +9,17 @@
     "geom:bbox":"-0.415426842784,51.9477161652,-0.328955472191,52.0126289681",
     "geom:latitude":51.982388,
     "geom:longitude":-0.370313,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":1447,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.99344,
     "lbl:longitude":-0.36006,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0634\u064a\u0644\u064a\u0646\u063a\u062a\u0648\u0646"
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698527,
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":1125775555,
-    "wof:lastmodified":1563343185,
+    "wof:lastmodified":1566636358,
     "wof:name":"Shillington",
     "wof:parent_id":404436929,
     "wof:placetype":"locality",

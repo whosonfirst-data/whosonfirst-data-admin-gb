@@ -9,15 +9,17 @@
     "geom:bbox":"-0.718986238279,53.7829306228,-0.612874873664,53.8156435988",
     "geom:latitude":53.79627,
     "geom:longitude":-0.666323,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":233,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.79583,
     "lbl:longitude":-0.64253,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Hotham"
@@ -61,7 +63,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":1125801641,
-    "wof:lastmodified":1563340975,
+    "wof:lastmodified":1566635018,
     "wof:name":"Hotham",
     "wof:parent_id":404434549,
     "wof:placetype":"locality",

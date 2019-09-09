@@ -9,15 +9,17 @@
     "geom:bbox":"-3.52986054273,53.2524477497,-3.45201422599,53.3022467546",
     "geom:latitude":53.272875,
     "geom:longitude":-3.493808,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1822,
-    "gn:population":1794,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":1822,
     "iso:country":"GB",
     "lbl:latitude":53.2686,
     "lbl:longitude":-3.50481,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Bodelwyddan"
@@ -61,7 +63,7 @@
     "name:swe_x_preferred":[
         "Bodelwyddan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bodlewyddan"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +92,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":13127,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1125840155,
-    "wof:lastmodified":1564159615,
+    "wof:lastmodified":1566636268,
     "wof:name":"Bodelwyddan",
     "wof:parent_id":404445383,
     "wof:placetype":"locality",

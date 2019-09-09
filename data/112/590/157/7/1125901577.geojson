@@ -9,15 +9,17 @@
     "geom:bbox":"-2.07047726896,52.4634259422,-1.96117047608,52.5243990955",
     "geom:latitude":52.496555,
     "geom:longitude":-2.035254,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":10830,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA2",
     "gn:population":10830,
     "iso:country":"GB",
     "lbl:latitude":52.5,
     "lbl:longitude":-2.01667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Oldbury"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698605,
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":1125901577,
-    "wof:lastmodified":1564159283,
+    "wof:lastmodified":1566635285,
     "wof:name":"Oldbury",
     "wof:parent_id":1360817335,
     "wof:placetype":"locality",

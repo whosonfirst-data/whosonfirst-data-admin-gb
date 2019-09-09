@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":50.949647,
     "lbl:longitude":-0.445865,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.949647,
     "mps:longitude":-0.445865,
     "mz:hierarchy_label":1,
@@ -220,7 +222,7 @@
         "West Sussex"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0b9a\u0bc1\u0bb8\u0bc6\u0bb8\u0bcd"
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc1\u0bb8\u0bc6\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d \u0c38\u0c38\u0c4d\u0c38\u0c46\u0c15\u0c4d\u0c38\u0c4d"
@@ -237,7 +239,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u0421\u0430\u0441\u0441\u0435\u043a\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "County of West Sussex"
     ],
     "name:urd_x_preferred":[
@@ -340,9 +342,9 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"1,988",
     "statoids:area_mi":"768",
     "statoids:as_of_date":"2011-03-27",
@@ -397,11 +399,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563335899,
+    "wof:lastmodified":1566630424,
     "wof:name":"West Sussex",
     "wof:parent_id":1360698607,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative county",
     "wof:population":806892,
     "wof:population_rank":11,

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.786694952633,51.7749751527,-0.742161149127,51.8169519353",
     "geom:latitude":51.794859,
     "geom:longitude":-0.762593,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2317,
-    "gn:population":2115,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2317,
     "iso:country":"GB",
     "lbl:latitude":51.79168,
     "lbl:longitude":-0.75767,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0648\u0633\u062a\u0648\u0646 \u062a\u0648\u0631\u0648\u064a\u0644"
@@ -80,7 +82,7 @@
         "Weston Turville"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bc6\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd  \u0b9f\u0bb0\u0bcd\u0bb5\u0bbf\u0bb2\u0bc7"
+        "\u0bb5\u0bc6\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd \u0b9f\u0bb0\u0bcd\u0bb5\u0bbf\u0bb2\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c28\u0c4d \u0c24\u0c41\u0c30\u0c4d\u0c35\u0c3f\u0c32\u0c4d\u0c32\u0c46"
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1125766823,
-    "wof:lastmodified":1563342604,
+    "wof:lastmodified":1566636010,
     "wof:name":"Weston Turville",
     "wof:parent_id":404436021,
     "wof:placetype":"locality",

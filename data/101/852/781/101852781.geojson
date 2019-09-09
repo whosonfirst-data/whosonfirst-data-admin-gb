@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.653435,
     "lbl:longitude":-3.192669,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.653435,
     "mps:longitude":-3.192669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0643\u0648\u0648\u062f"
     ],
@@ -146,7 +149,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.67,
     "wd:longitude":-3.19,
@@ -163,10 +166,12 @@
     "wof:concordances":{
         "gn:id":2655419,
         "gp:id":12929,
-        "qs:id":848238,
-        "qs_pg:id":996642,
+        "qs_pg:id":848238,
         "wd:id":"Q880986",
         "wk:page":"Blackwood, Caerphilly"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":996642
     },
     "wof:coterminous":[
         404452709
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":101852781,
-    "wof:lastmodified":1563337055,
+    "wof:lastmodified":1566631092,
     "wof:name":"Blackwood",
     "wof:parent_id":404448927,
     "wof:placetype":"locality",

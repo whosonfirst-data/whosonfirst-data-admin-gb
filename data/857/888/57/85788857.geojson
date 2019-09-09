@@ -11,8 +11,10 @@
     "geom:longitude":-2.21723,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.22223,53.043508,-2.21223,53.053508",
     "lbl:latitude":53.048508,
     "lbl:longitude":-2.21723,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.048456,
     "mps:longitude":-2.223854,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Longbridge Hayes"
-    ],
-    "name:unk_x_variant":[
         "Longbridge Hayes"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -57,19 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698593,
         102191581,
         85633159,
         404227469,
         1175612703,
-        1360698805
+        1360698805,
+        1360698593
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":27378,
-        "qs:id":1079612,
         "qs_pg:id":1079612
     },
     "wof:country":"GB",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698226,
+    "wof:lastmodified":1566627562,
     "wof:name":"Longbridge Hayes",
     "wof:parent_id":1175612703,
     "wof:placetype":"neighbourhood",

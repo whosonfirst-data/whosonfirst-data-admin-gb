@@ -11,12 +11,16 @@
     "geom:longitude":-3.39537,
     "gn:population":4355,
     "iso:country":"GB",
+    "lbl:bbox":"-3.41537,56.404428,-3.37537,56.444428",
     "lbl:latitude":56.424428,
     "lbl:longitude":-3.39537,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.424428,
     "mps:longitude":-3.39537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043a\u043e\u043d"
     ],
@@ -95,9 +99,6 @@
     "name:swe_x_preferred":[
         "Scone"
     ],
-    "name:unk_x_variant":[
-        "New Scone"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u6606"
     ],
@@ -121,7 +122,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.4179,
     "wd:longitude":-3.40404,
@@ -138,7 +139,6 @@
     "wof:concordances":{
         "gn:id":2641577,
         "gp:id":34197,
-        "qs:id":906349,
         "qs_pg:id":906349,
         "wd:id":"Q852883",
         "wk:page":"Scone, Perth and Kinross"
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":101873593,
-    "wof:lastmodified":1563336147,
+    "wof:lastmodified":1566630760,
     "wof:name":"Scone",
     "wof:parent_id":404451983,
     "wof:placetype":"locality",

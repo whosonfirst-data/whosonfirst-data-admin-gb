@@ -9,15 +9,17 @@
     "geom:bbox":"-3.35966165025,51.1408063611,-3.28109997937,51.1871412075",
     "geom:latitude":51.16469,
     "geom:longitude":-3.321406,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2657,
-    "gn:population":2644,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2657,
     "iso:country":"GB",
     "lbl:latitude":51.16083,
     "lbl:longitude":-3.32083,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Williton"
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":1126014533,
-    "wof:lastmodified":1564159475,
+    "wof:lastmodified":1566635869,
     "wof:name":"Williton",
     "wof:parent_id":404437207,
     "wof:placetype":"locality",

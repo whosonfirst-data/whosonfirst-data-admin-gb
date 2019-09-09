@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.510638,
     "lbl:longitude":-0.528659,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.510638,
     "mps:longitude":-0.528659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hibaldstow"
     ],
@@ -61,7 +64,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.5122,
     "wd:longitude":-0.520902,
     "wd:wordcount":1113,
@@ -77,10 +80,12 @@
     "wof:concordances":{
         "gn:id":2646994,
         "gp:id":23163,
-        "qs:id":279024,
-        "qs_pg:id":1328449,
+        "qs_pg:id":279024,
         "wd:id":"Q9291954",
         "wk:page":"Hibaldstow"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1328449
     },
     "wof:coterminous":[
         404435527
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":101874145,
-    "wof:lastmodified":1563336120,
+    "wof:lastmodified":1566630749,
     "wof:name":"Hibaldstow",
     "wof:parent_id":404435527,
     "wof:placetype":"locality",

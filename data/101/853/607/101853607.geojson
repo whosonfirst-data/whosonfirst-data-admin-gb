@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.573323,
     "lbl:longitude":-1.209356,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.573323,
     "mps:longitude":-1.209356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09b0\u09ac\u09b0\u09cb"
     ],
@@ -103,7 +106,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.5727,
     "wd:longitude":-1.2023,
@@ -121,10 +124,12 @@
         "fct:id":"0aa3e146-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2641884,
         "gp:id":29694,
-        "qs:id":179493,
-        "qs_pg:id":238272,
+        "qs_pg:id":179493,
         "wd:id":"Q1612187",
         "wk:page":"Narborough, Leicestershire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":238272
     },
     "wof:coterminous":[
         404445371
@@ -146,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336794,
+    "wof:lastmodified":1566630987,
     "wof:name":"Narborough",
     "wof:parent_id":404445371,
     "wof:placetype":"locality",

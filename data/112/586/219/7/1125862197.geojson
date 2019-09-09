@@ -9,15 +9,17 @@
     "geom:bbox":"1.0495435497,52.3140364459,1.09400225206,52.3448826184",
     "geom:latitude":52.327033,
     "geom:longitude":1.073774,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":519,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.32954,
     "lbl:longitude":1.07979,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0438\u0441"
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1125862197,
-    "wof:lastmodified":1563340439,
+    "wof:lastmodified":1566634692,
     "wof:name":"Mellis",
     "wof:parent_id":404454219,
     "wof:placetype":"locality",

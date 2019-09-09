@@ -9,14 +9,17 @@
     "geom:bbox":"-2.16499,53.6813,-2.16499,53.6813",
     "geom:latitude":53.6813,
     "geom:longitude":-2.16499,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.16999,53.6763,-2.15999,53.6863",
     "lbl:latitude":53.6813,
     "lbl:longitude":-2.16499,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Shawforth"
@@ -31,9 +34,6 @@
         "Shawforth"
     ],
     "name:pol_x_preferred":[
-        "Shawforth"
-    ],
-    "name:unk_x_variant":[
         "Shawforth"
     ],
     "qs_pg:aaroncc":"GB",
@@ -57,7 +57,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28836052,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1360799647,
-    "wof:lastmodified":1561837860,
+    "wof:lastmodified":1566628371,
     "wof:name":"Ashworth",
     "wof:parent_id":1125805519,
     "wof:placetype":"neighbourhood",

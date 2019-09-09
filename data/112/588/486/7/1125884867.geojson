@@ -9,15 +9,18 @@
     "geom:bbox":"-4.29488,55.80373,-4.29488,55.80373",
     "geom:latitude":55.80373,
     "geom:longitude":-4.29488,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":16038,
-    "gn:population":12070,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA2",
+    "gn:population":16038,
     "iso:country":"GB",
+    "lbl:bbox":"-4.31488,55.78373,-4.27488,55.82373",
     "lbl:latitude":55.80373,
     "lbl:longitude":-4.29488,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "Qiffnok"
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0444\u0444\u043d\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Giffneck"
     ],
     "name:urd_x_preferred":[
@@ -142,7 +145,7 @@
     "qs_pg:qs_id":847004,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698699,
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1125884867,
-    "wof:lastmodified":1563340727,
+    "wof:lastmodified":1566634866,
     "wof:name":"Giffnock",
     "wof:parent_id":404435263,
     "wof:placetype":"locality",

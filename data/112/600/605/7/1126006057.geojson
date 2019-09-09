@@ -9,15 +9,17 @@
     "geom:bbox":"-0.635962545534,51.7868912498,-0.580923071753,51.8198919343",
     "geom:latitude":51.80173,
     "geom:longitude":-0.608761,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":642,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.80234,
     "lbl:longitude":-0.60227,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0644\u062f\u0628\u0648\u0631\u06cc"
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1126006057,
-    "wof:lastmodified":1563342472,
+    "wof:lastmodified":1566635926,
     "wof:name":"Aldbury",
     "wof:parent_id":404452139,
     "wof:placetype":"locality",

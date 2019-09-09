@@ -9,14 +9,17 @@
     "geom:bbox":"-1.05764966401,51.9347595346,-1.01263813455,51.9712859626",
     "geom:latitude":51.951297,
     "geom:longitude":-1.040028,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.96251,
     "lbl:longitude":-1.04392,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0631\u0633\u062a\u0648\u0646 \u0628\u064a\u0633\u062a"
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125952181,
-    "wof:lastmodified":1563339790,
+    "wof:lastmodified":1566634273,
     "wof:name":"Preston Bisset",
     "wof:parent_id":404430837,
     "wof:placetype":"locality",

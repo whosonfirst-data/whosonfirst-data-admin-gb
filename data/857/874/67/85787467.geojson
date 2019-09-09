@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.481409,
     "lbl:longitude":-3.005323,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.482593,
     "mps:longitude":-3.003491,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Ford"
-    ],
-    "name:unk_x_variant":[
         "Ford"
     ],
     "qs:gn_fcode":"PPL",
@@ -56,21 +54,20 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698573,
         102191581,
         1360817501,
         85633159,
         404227469,
         1126041051,
-        1360698771
+        1360698771,
+        1360698573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2649167,
         "gp:id":20386,
-        "qs:id":473937,
         "qs_pg:id":473937
     },
     "wof:country":"GB",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699843,
+    "wof:lastmodified":1566627528,
     "wof:name":"Ford",
     "wof:parent_id":1126041051,
     "wof:placetype":"neighbourhood",

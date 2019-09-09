@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.481874,
     "lbl:longitude":-2.269042,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.479873,
     "mps:longitude":-2.274112,
     "mz:hierarchy_label":0,
@@ -26,9 +27,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Windsor Crescent"
-    ],
-    "name:unk_x_variant":[
         "Windsor Crescent"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698555,
         102191581,
         85633159,
         404227469,
         1175612693,
-        1360699005
+        1360699005,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43874,
-        "qs:id":955755,
         "qs_pg:id":955755
     },
     "wof:country":"GB",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698212,
+    "wof:lastmodified":1566627763,
     "wof:name":"Windsor Crescent",
     "wof:parent_id":1175612693,
     "wof:placetype":"neighbourhood",

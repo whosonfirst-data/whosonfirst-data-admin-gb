@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.087862,
     "lbl:longitude":-0.709692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.087862,
     "mps:longitude":-0.709692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09af\u09be\u099c\u09b2\u09ae\u09c7\u09af\u09bc\u09be\u09b0"
     ],
@@ -130,7 +133,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.0899,
     "wd:longitude":-0.7117,
     "wd:wordcount":3418,
@@ -146,10 +149,12 @@
     "wof:concordances":{
         "gn:id":2647365,
         "gp:id":22605,
-        "qs:id":424571,
-        "qs_pg:id":897711,
+        "qs_pg:id":424571,
         "wd:id":"Q2449644",
         "wk:page":"Haslemere"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":897711
     },
     "wof:coterminous":[
         404437989
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":101854671,
-    "wof:lastmodified":1563336869,
+    "wof:lastmodified":1566631020,
     "wof:name":"Haslemere",
     "wof:parent_id":404437989,
     "wof:placetype":"locality",

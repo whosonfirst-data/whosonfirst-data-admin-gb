@@ -9,14 +9,17 @@
     "geom:bbox":"0.141843353456,52.139370383,0.199442101271,52.1709436573",
     "geom:latitude":52.152605,
     "geom:longitude":0.170415,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.15082,
     "lbl:longitude":0.16746,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "Stapleford"
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125997737,
-    "wof:lastmodified":1564159279,
+    "wof:lastmodified":1566635278,
     "wof:name":"Stapleford",
     "wof:parent_id":404452547,
     "wof:placetype":"locality",

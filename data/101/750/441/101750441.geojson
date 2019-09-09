@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.131228,
     "lbl:longitude":-0.45503,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.14648,
     "mps:longitude":-0.445377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062f\u0641\u0648\u0631\u062f"
     ],
@@ -215,7 +218,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698527,
@@ -228,7 +231,6 @@
     "wof:concordances":{
         "gn:id":2656046,
         "gp:id":12215,
-        "qs:id":1037181,
         "qs_pg:id":1037181,
         "wd:id":"Q208257",
         "wk:page":"Bedford"
@@ -246,7 +248,7 @@
         }
     ],
     "wof:id":101750441,
-    "wof:lastmodified":1563336557,
+    "wof:lastmodified":1566630905,
     "wof:name":"Bedford",
     "wof:parent_id":1360699073,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-3.005893,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-3.010893,56.489233,-3.000893,56.499233",
     "lbl:latitude":56.494233,
     "lbl:longitude":-3.005893,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.4999,
     "mps:longitude":-3.019389,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Downfield"
-    ],
-    "name:unk_x_variant":[
         "Downfield"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -57,21 +56,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":37,
     "wof:belongsto":[
-        1360698693,
         102191581,
         404430743,
         85633159,
         404227471,
         101750641,
-        1360698883
+        1360698883,
+        1360698693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20091129,
-        "qs:id":900266,
         "qs_pg:id":900266
     },
     "wof:country":"GB",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542192496,
+    "wof:lastmodified":1566627904,
     "wof:name":"Downfield",
     "wof:parent_id":101750641,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.03843135003,52.1600811079,-0.986963235144,52.2028497392",
     "geom:latitude":52.181333,
     "geom:longitude":-1.01053,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":664,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.18293,
     "lbl:longitude":-1.02085,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041f\u0430\u0442\u0438\u0448\u0430\u043b"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125904831,
-    "wof:lastmodified":1563341456,
+    "wof:lastmodified":1566635303,
     "wof:name":"Pattishall",
     "wof:parent_id":404449109,
     "wof:placetype":"locality",

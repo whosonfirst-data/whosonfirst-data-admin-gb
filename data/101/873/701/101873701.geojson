@@ -11,12 +11,16 @@
     "geom:longitude":-6.267326,
     "gn:population":16173,
     "iso:country":"GB",
+    "lbl:bbox":"-6.287326,54.327881,-6.247326,54.367881",
     "lbl:latitude":54.347881,
     "lbl:longitude":-6.267326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.347881,
     "mps:longitude":-6.267326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0628\u0646\u0628\u0631\u06cc\u062c"
     ],
@@ -126,7 +130,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360699225,
@@ -139,10 +143,12 @@
     "wof:concordances":{
         "gn:id":2656407,
         "gp:id":44534,
-        "qs:id":1037191,
-        "qs_pg:id":1079768,
+        "qs_pg:id":1037191,
         "wd:id":"Q58270",
         "wk:page":"Banbridge"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079768
     },
     "wof:country":"GB",
     "wof:geomhash":"3aa5ea5d8768f3657633d4d00b85a192",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":101873701,
-    "wof:lastmodified":1563336150,
+    "wof:lastmodified":1566630761,
     "wof:name":"Banbridge",
     "wof:parent_id":1360699225,
     "wof:placetype":"locality",

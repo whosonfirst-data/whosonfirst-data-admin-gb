@@ -9,15 +9,17 @@
     "geom:bbox":"-2.29498586927,52.4232136555,-2.16383093465,52.5033541881",
     "geom:latitude":52.459121,
     "geom:longitude":-2.216972,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":4723,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.45,
     "lbl:longitude":-2.23333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09a8\u09ad\u09be\u09b0"
@@ -85,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043d\u0432\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kinvere"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1125801821,
-    "wof:lastmodified":1563341052,
+    "wof:lastmodified":1566635066,
     "wof:name":"Kinver",
     "wof:parent_id":404433683,
     "wof:placetype":"locality",

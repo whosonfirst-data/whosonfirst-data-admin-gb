@@ -9,14 +9,17 @@
     "geom:bbox":"0.51452333724,52.3535128092,0.633825144091,52.4002863367",
     "geom:latitude":52.376141,
     "geom:longitude":0.569477,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.37473,
     "lbl:longitude":0.52936,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u098f\u09b0\u09bf\u09b8\u0993\u09af\u09bc\u09c7\u09b2"
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1125949633,
-    "wof:lastmodified":1563339534,
+    "wof:lastmodified":1566634093,
     "wof:name":"Eriswell",
     "wof:parent_id":404432851,
     "wof:placetype":"locality",

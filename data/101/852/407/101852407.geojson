@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.264465,
     "lbl:longitude":-5.0437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.264465,
     "mps:longitude":-5.0437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u0631\u0648"
     ],
@@ -271,7 +274,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.25,
     "wd:longitude":-5.05,
     "wd:wordcount":4815,
@@ -287,10 +290,12 @@
     "wof:concordances":{
         "gn:id":2635412,
         "gp:id":38283,
-        "qs:id":351936,
-        "qs_pg:id":1073894,
+        "qs_pg:id":351936,
         "wd:id":"Q180803",
         "wk:page":"Truro"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073894
     },
     "wof:coterminous":[
         404437927
@@ -309,7 +314,7 @@
         }
     ],
     "wof:id":101852407,
-    "wof:lastmodified":1563336954,
+    "wof:lastmodified":1566631054,
     "wof:name":"Truro",
     "wof:parent_id":404437927,
     "wof:placetype":"locality",

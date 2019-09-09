@@ -9,14 +9,17 @@
     "geom:bbox":"-2.00334,52.32006,-2.00334,52.32006",
     "geom:latitude":52.32006,
     "geom:longitude":-2.00334,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.00834,52.31506,-1.99834,52.32506",
     "lbl:latitude":52.32006,
     "lbl:longitude":-2.00334,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0422\u0430\u0440\u0434\u044d\u0431\u0456\u0433"
@@ -36,7 +39,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u0434\u0435\u0431\u0438\u0433\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tardebigg"
     ],
     "qs_pg:aaroncc":"GB",
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":36977,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1360791227,
-    "wof:lastmodified":1563333785,
+    "wof:lastmodified":1566628844,
     "wof:name":"Tardebigge",
     "wof:parent_id":1360759551,
     "wof:placetype":"neighbourhood",

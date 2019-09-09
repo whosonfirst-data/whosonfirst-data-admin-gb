@@ -9,14 +9,18 @@
     "geom:bbox":"-4.76963,55.10267,-4.76963,55.10267",
     "geom:latitude":55.10267,
     "geom:longitude":-4.76963,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-4.78963,55.08267,-4.74963,55.12267",
     "lbl:latitude":55.10267,
     "lbl:longitude":-4.76963,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Barrhill"
@@ -36,7 +40,7 @@
     "name:sco_x_preferred":[
         "Baurhill"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barhill"
     ],
     "qs_pg:aaroncc":"GB",
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":11943,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1125790387,
-    "wof:lastmodified":1563342907,
+    "wof:lastmodified":1566636217,
     "wof:name":"Barrhill",
     "wof:parent_id":404430343,
     "wof:placetype":"locality",

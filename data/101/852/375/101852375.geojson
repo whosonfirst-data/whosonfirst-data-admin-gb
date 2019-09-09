@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.6284,
     "lbl:longitude":-4.367575,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.6284,
     "mps:longitude":-4.367575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ang_x_preferred":[
         "D\u016bnh\u0113afod"
     ],
@@ -152,7 +155,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.635,
     "wd:longitude":-4.354,
@@ -169,10 +172,12 @@
     "wof:concordances":{
         "gn:id":2644811,
         "gp:id":25887,
-        "qs:id":140771,
-        "qs_pg:id":1033347,
+        "qs_pg:id":140771,
         "wd:id":"Q287590",
         "wk:page":"Launceston, Cornwall"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1033347
     },
     "wof:coterminous":[
         404446165
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":101852375,
-    "wof:lastmodified":1563337079,
+    "wof:lastmodified":1566631098,
     "wof:name":"Launceston",
     "wof:parent_id":404446165,
     "wof:placetype":"locality",

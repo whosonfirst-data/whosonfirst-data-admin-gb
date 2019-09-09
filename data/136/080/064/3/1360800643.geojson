@@ -9,15 +9,17 @@
     "geom:bbox":"-5.07599,50.18637,-5.07599,50.18637",
     "geom:latitude":50.18637,
     "geom:longitude":-5.07599,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1443,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-5.08099,50.18137,-5.07099,50.19137",
     "lbl:latitude":50.18637,
     "lbl:longitude":-5.07599,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0631 \u0628\u0631\u064a\u062c"
@@ -46,7 +48,7 @@
     "name:swe_x_preferred":[
         "Mylor Bridge"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mylor"
     ],
     "qs_pg:aaroncc":"GB",
@@ -70,7 +72,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":29609,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":1360800643,
-    "wof:lastmodified":1563334586,
+    "wof:lastmodified":1566629331,
     "wof:name":"Mylor Bridge",
     "wof:parent_id":1360753685,
     "wof:placetype":"neighbourhood",

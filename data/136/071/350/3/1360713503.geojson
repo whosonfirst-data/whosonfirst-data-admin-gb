@@ -9,15 +9,17 @@
     "geom:bbox":"-4.5148,53.23186,-4.5148,53.23186",
     "geom:latitude":53.23186,
     "geom:longitude":-4.5148,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1008,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-4.5198,53.22686,-4.5098,53.23686",
     "lbl:latitude":53.23186,
     "lbl:longitude":-4.5148,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0648\u0633\u0646\u064a\u062c\u0631"
@@ -64,7 +66,7 @@
     "name:swe_x_preferred":[
         "Rhosneigr"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rhosneigir"
     ],
     "qs_pg:aaroncc":"GB",
@@ -88,7 +90,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":33216,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":1360713503,
-    "wof:lastmodified":1563334068,
+    "wof:lastmodified":1566629009,
     "wof:name":"Rhosneigr",
     "wof:parent_id":1209943963,
     "wof:placetype":"neighbourhood",

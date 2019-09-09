@@ -11,12 +11,15 @@
     "geom:longitude":-1.283107,
     "gn:population":37192,
     "iso:country":"GB",
+    "lbl:bbox":"-1.288107,51.665763,-1.278107,51.675763",
     "lbl:latitude":51.670764,
     "lbl:longitude":-1.283107,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.670764,
     "mps:longitude":-1.283107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ang_x_preferred":[
         "\u00c6bband\u016bn"
     ],
@@ -205,9 +208,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0456\u043d\u0433\u0434\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Abingdon-on-Thames"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0628\u06cc\u0646\u06af\u0688\u0646-\u0622\u0646-\u0679\u06cc\u0645\u0632"
     ],
@@ -243,7 +243,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -259,7 +259,6 @@
         "fct:id":"0aa1bede-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2657780,
         "gp:id":10294,
-        "qs:id":141037,
         "qs_pg:id":141037,
         "wd:id":"Q321381",
         "wk:page":"Abingdon-on-Thames"
@@ -282,7 +281,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332916,
+    "wof:lastmodified":1566628410,
     "wof:name":"Abingdon",
     "wof:parent_id":1360753485,
     "wof:placetype":"neighbourhood",

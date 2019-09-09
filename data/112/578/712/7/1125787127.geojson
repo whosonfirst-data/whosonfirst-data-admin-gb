@@ -9,15 +9,17 @@
     "geom:bbox":"-0.763007694621,53.4877488641,-0.624465713544,53.5199044664",
     "geom:latitude":53.502815,
     "geom:longitude":-0.688786,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2424,
-    "gn:population":2865,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2424,
     "iso:country":"GB",
     "lbl:latitude":53.49652,
     "lbl:longitude":-0.67429,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Scotter"
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1125787127,
-    "wof:lastmodified":1563342777,
+    "wof:lastmodified":1566636133,
     "wof:name":"Scotter",
     "wof:parent_id":404435191,
     "wof:placetype":"locality",

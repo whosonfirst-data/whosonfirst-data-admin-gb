@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.37059,
     "lbl:longitude":-2.808333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.37059,
     "mps:longitude":-2.808333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Congresbury"
     ],
@@ -66,7 +69,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.3677,
     "wd:longitude":-2.8109,
     "wd:wordcount":1791,
@@ -82,10 +85,12 @@
     "wof:concordances":{
         "gn:id":2652463,
         "gp:id":16758,
-        "qs:id":373383,
         "qs_pg:id":226915,
         "wd:id":"Q1975999",
         "wk:page":"Congresbury"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":373383
     },
     "wof:coterminous":[
         404450279
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":101852677,
-    "wof:lastmodified":1563337026,
+    "wof:lastmodified":1566631083,
     "wof:name":"Congresbury",
     "wof:parent_id":404450279,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.855997,
     "lbl:longitude":1.164438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.855997,
     "mps:longitude":1.164438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thorpe-le-Soken"
     ],
@@ -63,7 +66,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.857,
     "wd:longitude":1.164,
     "wd:wordcount":494,
@@ -79,10 +82,12 @@
     "wof:concordances":{
         "gn:id":2635950,
         "gp:id":37412,
-        "qs:id":6,
-        "qs_pg:id":1230939,
+        "qs_pg:id":6,
         "wd:id":"Q2368943",
         "wk:page":"Thorpe-le-Soken"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1230939
     },
     "wof:coterminous":[
         404441247
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":101854741,
-    "wof:lastmodified":1563336852,
+    "wof:lastmodified":1566631013,
     "wof:name":"Thorpe-le-Soken",
     "wof:parent_id":404441247,
     "wof:placetype":"locality",

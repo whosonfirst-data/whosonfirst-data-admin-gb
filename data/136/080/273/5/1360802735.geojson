@@ -9,20 +9,22 @@
     "geom:bbox":"-1.24615,50.92366,-1.24615,50.92366",
     "geom:latitude":50.92366,
     "geom:longitude":-1.24615,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":951,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.25115,50.91866,-1.24115,50.92866",
     "lbl:latitude":50.92366,
     "lbl:longitude":-1.24615,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Curridge"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Curbridge"
     ],
     "qs_pg:aaroncc":"GB",
@@ -46,7 +48,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":17674,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1360802735,
-    "wof:lastmodified":1564153584,
+    "wof:lastmodified":1566629226,
     "wof:name":"Curridge",
     "wof:parent_id":1125797209,
     "wof:placetype":"neighbourhood",

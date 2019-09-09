@@ -12,8 +12,10 @@
     "gn:latitude":56.12617,
     "gn:longitude":-3.14001,
     "iso:country":"GB",
+    "lbl:bbox":"-3.157509,56.128574,-3.147509,56.138574",
     "lbl:latitude":56.133574,
     "lbl:longitude":-3.152509,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.139933,
     "mps:longitude":-3.157955,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Sinclairtown"
-    ],
-    "name:unk_x_variant":[
         "Sinclairtown"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -61,20 +60,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698659,
         102191581,
         404444217,
         85633159,
         404227471,
-        1360699123
+        1360699123,
+        1360698659
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2637816,
         "gp:id":34851,
-        "qs:id":908156,
         "qs_pg:id":908156
     },
     "wof:country":"GB",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542194324,
+    "wof:lastmodified":1566627659,
     "wof:name":"Sinclairtown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

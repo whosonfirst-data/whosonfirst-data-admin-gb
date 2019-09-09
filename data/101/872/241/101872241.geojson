@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.793699,
     "lbl:longitude":-1.389383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.793699,
     "mps:longitude":-1.389383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0997\u09be\u09b0\u09ab\u09cb\u09a5"
     ],
@@ -126,7 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.792,
     "wd:longitude":-1.388,
     "wd:wordcount":1373,
@@ -141,10 +144,12 @@
     "wof:concordances":{
         "gn:id":2648875,
         "gp:id":20832,
-        "qs:id":1037029,
         "qs_pg:id":897938,
         "wd:id":"Q2559795",
         "wk:page":"Garforth"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037029
     },
     "wof:country":"GB",
     "wof:geomhash":"da56315137bc8daee3337e5a228ef057",
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":101872241,
-    "wof:lastmodified":1563336410,
+    "wof:lastmodified":1566630849,
     "wof:name":"Garforth",
     "wof:parent_id":1360698749,
     "wof:placetype":"locality",

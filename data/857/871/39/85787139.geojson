@@ -10,8 +10,10 @@
     "geom:latitude":52.625093,
     "geom:longitude":1.241951,
     "iso:country":"GB",
+    "lbl:bbox":"1.236951,52.620093,1.246951,52.630093",
     "lbl:latitude":52.625093,
     "lbl:longitude":1.241951,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.632675,
     "mps:longitude":1.243698,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Earlham"
-    ],
-    "name:unk_x_variant":[
         "Earlham"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,21 +58,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":37,
     "wof:belongsto":[
-        1360698575,
         102191581,
         85633159,
         404227469,
         101750483,
-        1360698955
+        1360698955,
+        1360698575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2650554,
         "gp:id":18846,
-        "qs:id":1091129,
         "qs_pg:id":1091129
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698474,
+    "wof:lastmodified":1566627704,
     "wof:name":"Earlham",
     "wof:parent_id":101750483,
     "wof:placetype":"neighbourhood",

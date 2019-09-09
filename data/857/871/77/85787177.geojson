@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":55.974164,
     "lbl:longitude":-3.230228,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.970251,
     "mps:longitude":-3.228193,
     "mz:hierarchy_label":1,
@@ -33,9 +34,8 @@
     "name:eus_x_preferred":[
         "East Pilton"
     ],
-    "name:unk_x_variant":[
-        "Pilton",
-        "East Pilton"
+    "name:und_x_variant":[
+        "Pilton"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPLX",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191581,
@@ -81,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2650355,
         "gp:id":19065,
-        "qs:id":899740,
         "qs_pg:id":899740,
         "wd:id":"Q5329150",
         "wk:page":"East Pilton"
@@ -104,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331983,
+    "wof:lastmodified":1566627705,
     "wof:name":"East Pilton",
     "wof:parent_id":101750629,
     "wof:placetype":"neighbourhood",

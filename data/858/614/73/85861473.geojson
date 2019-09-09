@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":55.955754,
     "lbl:longitude":-3.238361,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.961517,
     "mps:longitude":-3.232987,
     "mz:hierarchy_label":1,
@@ -58,9 +59,6 @@
     "name:swe_x_preferred":[
         "Craigleith"
     ],
-    "name:unk_x_variant":[
-        "Craigleith"
-    ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
     "qs:gn_local":2645970,
@@ -89,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":466,
     "wof:belongsto":[
         102191581,
@@ -103,7 +101,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20094240,
-        "qs:id":1184122,
         "qs_pg:id":1184122,
         "wd:id":"Q1138743"
     },
@@ -125,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332287,
+    "wof:lastmodified":1566627868,
     "wof:name":"Craigleith",
     "wof:parent_id":101750629,
     "wof:placetype":"neighbourhood",

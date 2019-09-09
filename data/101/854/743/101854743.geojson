@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.017289,
     "lbl:longitude":0.560545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.017289,
     "mps:longitude":0.560545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Yeldham"
     ],
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "Great Yeldham"
     ],
-    "name:unk_x_variant":[
-        "Yeldham"
-    ],
     "qs:a0":"United Kingdom",
     "qs:a1":"*Essex",
     "qs:a1_lc":"GB12220000",
@@ -81,7 +81,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.016214,
     "wd:longitude":0.562706,
     "wd:wordcount":333,
@@ -98,7 +98,6 @@
         "fct:id":"0aa21078-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2647983,
         "gp:id":21764,
-        "qs:id":1338767,
         "qs_pg:id":1338767,
         "wd:id":"Q2648635"
     },
@@ -122,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336890,
+    "wof:lastmodified":1566631029,
     "wof:name":"Great Yeldham",
     "wof:parent_id":404444297,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.13679796069,53.875712089,-1.08999742768,53.9146803393",
     "geom:latitude":53.895536,
     "geom:longitude":-1.111572,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":280,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.90056,
     "lbl:longitude":-1.1063,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Acaster Malbis"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125976045,
-    "wof:lastmodified":1563341694,
+    "wof:lastmodified":1566635457,
     "wof:name":"Acaster Malbis",
     "wof:parent_id":404438837,
     "wof:placetype":"locality",

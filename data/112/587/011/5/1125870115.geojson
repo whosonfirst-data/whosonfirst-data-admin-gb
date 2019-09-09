@@ -9,15 +9,18 @@
     "geom:bbox":"-1.83333,57.55,-1.83333,57.55",
     "geom:latitude":57.55,
     "geom:longitude":-1.83333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":750,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.85333,57.53,-1.81333,57.57",
     "lbl:latitude":57.55,
     "lbl:longitude":-1.83333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Saint Fergus"
@@ -52,9 +55,6 @@
     "name:swe_x_variant":[
         "St Fergus"
     ],
-    "name:unk_x_variant":[
-        "Saint Fergus"
-    ],
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -76,7 +76,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":35635,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125870115,
-    "wof:lastmodified":1563341196,
+    "wof:lastmodified":1566635149,
     "wof:name":"St. Fergus",
     "wof:parent_id":404448747,
     "wof:placetype":"locality",

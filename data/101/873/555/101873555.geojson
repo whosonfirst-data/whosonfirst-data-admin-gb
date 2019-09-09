@@ -10,12 +10,16 @@
     "geom:latitude":56.164508,
     "geom:longitude":-3.144764,
     "iso:country":"GB",
+    "lbl:bbox":"-3.164764,56.144508,-3.124764,56.184508",
     "lbl:latitude":56.164508,
     "lbl:longitude":-3.144763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.164508,
     "mps:longitude":-3.144763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thornton"
     ],
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":56.167,
     "wd:longitude":-3.15,
     "wd:wordcount":495,
@@ -79,10 +83,12 @@
         "fct:id":"0aa60674-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2635972,
         "gp:id":37362,
-        "qs:id":140648,
-        "qs_pg:id":1314046,
+        "qs_pg:id":140648,
         "wd:id":"Q7796484",
         "wk:page":"Thornton, Fife"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1314046
     },
     "wof:country":"GB",
     "wof:geomhash":"3958cb8f4941c8990d70ebc3cf9861df",
@@ -101,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336232,
+    "wof:lastmodified":1566630788,
     "wof:name":"Thornton",
     "wof:parent_id":404444217,
     "wof:placetype":"locality",

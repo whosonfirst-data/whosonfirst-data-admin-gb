@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.546789,
     "lbl:longitude":-3.58378,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.546789,
     "mps:longitude":-3.58378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0648\u0647\u06cc\u062a\u0647\u0627\u0648\u0646"
     ],
@@ -142,7 +145,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":54.548,
     "wd:longitude":-3.5855,
@@ -159,7 +162,6 @@
     "wof:concordances":{
         "gn:id":2634096,
         "gp:id":40250,
-        "qs:id":467460,
         "qs_pg:id":467460,
         "wd:id":"Q1012481",
         "wk:page":"Whitehaven"
@@ -180,7 +182,7 @@
         }
     ],
     "wof:id":101873399,
-    "wof:lastmodified":1563336157,
+    "wof:lastmodified":1566630764,
     "wof:name":"Whitehaven",
     "wof:parent_id":1360698877,
     "wof:placetype":"locality",

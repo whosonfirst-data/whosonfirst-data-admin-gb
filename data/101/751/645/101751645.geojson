@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.9,
     "lbl:longitude":-1.51667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":54.900206,
     "mps:longitude":-1.526897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09b6\u09bf\u0982\u099f\u09a8"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698601,
@@ -144,10 +147,12 @@
     "wof:concordances":{
         "gn:id":2634716,
         "gp:id":39247,
-        "qs:id":453357,
-        "qs_pg:id":1314844,
+        "qs_pg:id":453357,
         "wd:id":"Q1018448",
         "wk:page":"Washington, Tyne and Wear"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1314844
     },
     "wof:country":"GB",
     "wof:geomhash":"94cf8931a1e3d9c6cd668482bd406f61",
@@ -163,7 +168,7 @@
         }
     ],
     "wof:id":101751645,
-    "wof:lastmodified":1563336507,
+    "wof:lastmodified":1566630892,
     "wof:name":"Washington",
     "wof:parent_id":1360817213,
     "wof:placetype":"locality",

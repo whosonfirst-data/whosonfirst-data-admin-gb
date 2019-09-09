@@ -11,12 +11,15 @@
     "geom:longitude":-1.935499,
     "gn:population":2717,
     "iso:country":"GB",
+    "lbl:bbox":"-1.940499,52.253719,-1.930499,52.263719",
     "lbl:latitude":52.258719,
     "lbl:longitude":-1.935499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.258719,
     "mps:longitude":-1.935499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Astwood Bank"
     ],
@@ -54,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.2602,
     "wd:longitude":-1.9375,
@@ -71,10 +74,12 @@
     "wof:concordances":{
         "gn:id":2656855,
         "gp:id":11338,
-        "qs:id":1249164,
         "qs_pg:id":243763,
         "wd:id":"Q4811794",
         "wk:page":"Astwood Bank"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1249164
     },
     "wof:country":"GB",
     "wof:geomhash":"56885c2eb7b8a3284404264b2244389e",
@@ -90,7 +95,7 @@
         }
     ],
     "wof:id":1360790781,
-    "wof:lastmodified":1561837871,
+    "wof:lastmodified":1566628446,
     "wof:name":"Astwood Bank",
     "wof:parent_id":101750455,
     "wof:placetype":"neighbourhood",

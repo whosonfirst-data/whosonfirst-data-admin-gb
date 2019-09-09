@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.502531,
     "lbl:longitude":-2.789065,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.502531,
     "mps:longitude":-2.789065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b0\u09c7\u0987\u09a8\u09ab\u09cb\u09b0\u09cd\u09a1"
     ],
@@ -103,7 +106,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.503,
     "wd:longitude":-2.783,
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":2639693,
         "gp:id":32865,
-        "qs:id":140677,
         "qs_pg:id":140677,
         "wd:id":"Q2253752",
         "wk:page":"Rainford"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101872171,
-    "wof:lastmodified":1563336473,
+    "wof:lastmodified":1566630872,
     "wof:name":"Rainford",
     "wof:parent_id":404455155,
     "wof:placetype":"locality",

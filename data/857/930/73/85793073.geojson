@@ -12,8 +12,10 @@
     "gn:latitude":53.0983,
     "gn:longitude":-1.80656,
     "iso:country":"GB",
+    "lbl:bbox":"-2.162889,53.604481,-2.152889,53.614481",
     "lbl:latitude":53.609481,
     "lbl:longitude":-2.157889,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.592828,
     "mps:longitude":-2.151291,
     "mz:hierarchy_label":0,
@@ -52,9 +54,8 @@
     "name:swe_x_preferred":[
         "Alstonefield"
     ],
-    "name:unk_x_variant":[
-        "Alstonfield",
-        "Stoneyfield"
+    "name:und_x_variant":[
+        "Alstonfield"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -84,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":53.096819,
     "wd:longitude":-1.8077,
     "wd:wordcount":217,
@@ -100,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2657426,
         "gp:id":43908,
-        "qs:id":246900,
         "qs_pg:id":246900,
         "wd:id":"Q2263367",
         "wk:page":"Alstonefield"
@@ -122,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331615,
+    "wof:lastmodified":1566627517,
     "wof:name":"Stoneyfield",
     "wof:parent_id":101750565,
     "wof:placetype":"neighbourhood",

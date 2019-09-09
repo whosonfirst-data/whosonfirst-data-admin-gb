@@ -9,15 +9,17 @@
     "geom:bbox":"-1.54052783369,54.8000603817,-1.48182926536,54.8374884267",
     "geom:latitude":54.81651,
     "geom:longitude":-1.511322,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":2305,
-    "gn:population":2316,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":2305,
     "iso:country":"GB",
     "lbl:latitude":54.81667,
     "lbl:longitude":-1.5,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09b0\u09c7\u0987\u09a8\u09cd\u099f\u09a8"
@@ -77,7 +79,7 @@
         "West Rainton"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0bb0\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0bb0\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c30\u0c46\u0c2f\u0c3f\u0c28\u0c4d \u0c1f\u0c28\u0c4d"
@@ -107,7 +109,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1125982237,
-    "wof:lastmodified":1563342263,
+    "wof:lastmodified":1566635798,
     "wof:name":"West Rainton",
     "wof:parent_id":404444005,
     "wof:placetype":"locality",

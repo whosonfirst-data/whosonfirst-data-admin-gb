@@ -9,15 +9,17 @@
     "geom:bbox":"-2.33102389917,52.7397815499,-2.22658914137,52.8416370733",
     "geom:latitude":52.783071,
     "geom:longitude":-2.281299,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4171,
-    "gn:population":3869,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4171,
     "iso:country":"GB",
     "lbl:latitude":52.78558,
     "lbl:longitude":-2.25483,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0997\u09a8\u09cb\u09b8\u09be\u09b2"
@@ -76,7 +78,7 @@
     "name:tel_x_preferred":[
         "\u0c33\u0c4d\u0c32\u0c28\u0c41\u0c30\u0c2b\u0c3e\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gnossall"
     ],
     "name:urd_x_preferred":[
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1125882827,
-    "wof:lastmodified":1563340735,
+    "wof:lastmodified":1566634872,
     "wof:name":"Gnosall",
     "wof:parent_id":404448751,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.413033,
     "lbl:longitude":0.52002,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.413033,
     "mps:longitude":0.52002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lakenheath"
     ],
@@ -50,9 +53,6 @@
     "name:swe_x_preferred":[
         "Lakenheath"
     ],
-    "name:unk_x_variant":[
-        "Lake Heath"
-    ],
     "qs:a0":"United Kingdom",
     "qs:a1":"*Suffolk",
     "qs:a1_lc":"GB12420000",
@@ -73,7 +73,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.4136,
     "wd:longitude":0.5226,
@@ -91,10 +91,12 @@
         "fct:id":"0aa2c702-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7299168,
         "gp:id":25663,
-        "qs:id":1252857,
         "qs_pg:id":1194058,
         "wd:id":"Q1828371",
         "wk:page":"Lakenheath"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1252857
     },
     "wof:coterminous":[
         404443639
@@ -116,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336825,
+    "wof:lastmodified":1566631001,
     "wof:name":"Lakenheath",
     "wof:parent_id":404443639,
     "wof:placetype":"locality",

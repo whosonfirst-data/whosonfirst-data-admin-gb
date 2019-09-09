@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.012386,
     "lbl:longitude":-0.647048,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.012386,
     "mps:longitude":-0.647048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0633\u0628\u0644\u064a \u063a\u0648\u064a\u0633"
     ],
@@ -83,7 +86,7 @@
         "\u0b86\u0bb8\u0bcd\u0baa\u0bbf\u0bb2\u0bc7 \u0b95\u0bbf\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
-        "\u0c06\u0c38\u0c4d\u0c2a\u0c4d\u0c32\u0c40  \u0c17\u0c48\u0c1c\u0c4d"
+        "\u0c06\u0c38\u0c4d\u0c2a\u0c4d\u0c32\u0c40 \u0c17\u0c48\u0c1c\u0c4d"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u067e\u0644\u06d2\u00a0\u062c\u0648\u06cc\u0633\u06cc"
@@ -109,7 +112,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.0126,
     "wd:longitude":-0.6285,
     "wd:wordcount":1927,
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101854817,
-    "wof:lastmodified":1563336823,
+    "wof:lastmodified":1566631000,
     "wof:name":"Aspley Guise",
     "wof:parent_id":404432191,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":52.412945,
     "lbl:longitude":-1.508416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.415863,
     "mps:longitude":-1.509682,
     "mz:hierarchy_label":1,
@@ -400,7 +402,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.416667,
     "wd:longitude":-1.516667,
     "wd:wordcount":10324,
@@ -415,10 +417,12 @@
     "wof:concordances":{
         "gn:id":2652221,
         "gp:id":17044,
-        "qs:id":352016,
-        "qs_pg:id":1073447,
+        "qs_pg:id":352016,
         "wd:id":"Q6225",
         "wk:page":"Coventry"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073447
     },
     "wof:country":"GB",
     "wof:geomhash":"a3b19e832cd78e2311db8a4468c64663",
@@ -433,7 +437,7 @@
         }
     ],
     "wof:id":101750449,
-    "wof:lastmodified":1563336549,
+    "wof:lastmodified":1566630902,
     "wof:name":"Coventry",
     "wof:parent_id":1360699115,
     "wof:placetype":"locality",

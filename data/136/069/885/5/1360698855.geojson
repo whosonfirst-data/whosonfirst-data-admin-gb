@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":55.716895,
     "lbl:longitude":-4.751906,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.716895,
     "mps:longitude":-4.751906,
     "mz:hierarchy_label":1,
@@ -154,7 +156,7 @@
         "North Ayrshire"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b85\u0baf\u0bb0\u0bcd\u0bb8\u0bbf\u0bb0\u0bcd"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0baf\u0bb0\u0bcd\u0bb8\u0bbf\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c06\u0c2f\u0c30\u0c4d\u0c37\u0c48\u0c30\u0c4d"
@@ -183,9 +185,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"884",
     "statoids:area_mi":"341",
     "statoids:as_of_date":"2011-03-27",
@@ -200,7 +202,6 @@
     "statoids:type":"unitary district",
     "unlc:subdivision":"GB-NAY",
     "wd:wordcount":382,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         85633159,
@@ -239,11 +240,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563336029,
+    "wof:lastmodified":1566630651,
     "wof:name":"North Ayrshire",
     "wof:parent_id":1360698697,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary district",
     "wof:population":138146,
     "wof:population_rank":9,

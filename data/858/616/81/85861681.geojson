@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.422744,
     "lbl:longitude":-0.261955,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.433449,
     "mps:longitude":-0.265791,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:eng_x_preferred":[
         "Coombe Hill"
     ],
-    "name:unk_x_variant":[
-        "Combe Hill",
-        "Coombe Hill"
+    "name:und_x_variant":[
+        "Combe Hill"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
@@ -59,23 +59,25 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857309
+        1158857309,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"0ab49cde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2652411,
         "gp:id":20094314,
-        "qs:id":178969,
-        "qs_pg:id":237554,
+        "qs_pg:id":178969,
         "wk:page":"Coombe Hill, Gloucestershire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":237554
     },
     "wof:country":"GB",
     "wof:geomhash":"654303a92d20168ea9aa0cf8d44a3e03",
@@ -94,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206416,
+    "wof:lastmodified":1566627844,
     "wof:name":"Coombe Hill",
     "wof:parent_id":1158857309,
     "wof:placetype":"neighbourhood",

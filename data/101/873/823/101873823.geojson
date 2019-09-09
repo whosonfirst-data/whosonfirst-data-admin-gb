@@ -11,12 +11,16 @@
     "geom:longitude":-6.608482,
     "gn:population":9157,
     "iso:country":"GB",
+    "lbl:bbox":"-6.628482,54.733914,-6.588482,54.773914",
     "lbl:latitude":54.753914,
     "lbl:longitude":-6.608482,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.753914,
     "mps:longitude":-6.608482,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0445\u044a\u0440\u0430\u0444\u0435\u043b\u0442"
     ],
@@ -105,7 +109,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360699241,
@@ -118,10 +122,12 @@
     "wof:concordances":{
         "gn:id":2643208,
         "gp:id":44984,
-        "qs:id":1036932,
         "qs_pg:id":1016943,
         "wd:id":"Q1854188",
         "wk:page":"Magherafelt"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036932
     },
     "wof:country":"GB",
     "wof:geomhash":"2aa22b1c20b439e83211cdbfd66eb00d",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":101873823,
-    "wof:lastmodified":1563336247,
+    "wof:lastmodified":1566630794,
     "wof:name":"Magherafelt",
     "wof:parent_id":1360699241,
     "wof:placetype":"locality",

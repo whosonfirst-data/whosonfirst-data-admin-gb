@@ -9,15 +9,17 @@
     "geom:bbox":"-3.22462637345,51.8127323442,-3.11800532392,51.8717540823",
     "geom:latitude":51.840874,
     "geom:longitude":-3.173633,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":662,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.85184,
     "lbl:longitude":-3.14778,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Llangatwg"
@@ -52,7 +54,7 @@
     "name:swe_x_preferred":[
         "Llangattock"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Llangattwg"
     ],
     "nav:latitude":51.85184,
@@ -78,7 +80,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":26961,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":1126015735,
-    "wof:lastmodified":1563342394,
+    "wof:lastmodified":1566635882,
     "wof:name":"Llangattock",
     "wof:parent_id":404452267,
     "wof:placetype":"locality",

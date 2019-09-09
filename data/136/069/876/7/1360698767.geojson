@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":52.001576,
     "lbl:longitude":-0.463637,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.001576,
     "mps:longitude":-0.463637,
     "mz:hierarchy_label":1,
@@ -85,7 +87,7 @@
         "Central Bedfordshire"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd  \u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bb7\u0bbf\u0bb0\u0bcd"
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd \u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bb7\u0bbf\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c27\u0c4d\u0c2f \u0c2c\u0c46\u0c21\u0c4d \u0c2b\u0c4b\u0c30\u0c4d\u0c21\u0c4d \u0c37\u0c48\u0c30\u0c4d"
@@ -175,9 +177,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"716",
     "statoids:area_mi":"276",
     "statoids:as_of_date":"2011-03-27",
@@ -229,11 +231,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563336018,
+    "wof:lastmodified":1566630639,
     "wof:name":"Central Bedfordshire",
     "wof:parent_id":1360698527,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary authority",
     "wof:population":254381,
     "wof:population_rank":10,

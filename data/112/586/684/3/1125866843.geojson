@@ -9,15 +9,17 @@
     "geom:bbox":"-2.97323144013,53.1324540041,-2.93023143382,53.1670833941",
     "geom:latitude":53.148757,
     "geom:longitude":-2.951231,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":715,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.14466,
     "lbl:longitude":-2.95571,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u0648\u062f\u0644\u0633\u062a\u0648\u0646"
@@ -108,7 +110,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1125866843,
-    "wof:lastmodified":1563340518,
+    "wof:lastmodified":1566634741,
     "wof:name":"Dodleston",
     "wof:parent_id":404433949,
     "wof:placetype":"locality",

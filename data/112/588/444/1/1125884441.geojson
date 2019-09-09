@@ -9,15 +9,17 @@
     "geom:bbox":"-0.301084432281,51.2002369075,-0.245494018859,51.2604886605",
     "geom:latitude":51.228144,
     "geom:longitude":-0.271317,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":941,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.23374,
     "lbl:longitude":-0.26655,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u0686\u200c\u0648\u0631\u062b"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125884441,
-    "wof:lastmodified":1563340720,
+    "wof:lastmodified":1566634863,
     "wof:name":"Betchworth",
     "wof:parent_id":404445079,
     "wof:placetype":"locality",

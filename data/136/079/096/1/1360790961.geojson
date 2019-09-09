@@ -11,12 +11,15 @@
     "geom:longitude":-1.029633,
     "gn:population":7349,
     "iso:country":"GB",
+    "lbl:bbox":"-1.034633,52.941593,-1.024633,52.951593",
     "lbl:latitude":52.946594,
     "lbl:longitude":-1.029633,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.946594,
     "mps:longitude":-1.029633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u09b0\u200d\u09cd\u09af\u09be\u09a1\u0995\u09cd\u09b2\u09bf\u09ab \u0985\u09a8 \u099f\u09cd\u09b0\u09c7\u09a8\u09cd\u099f"
     ],
@@ -80,7 +83,7 @@
     "name:tel_x_preferred":[
         "\u0c30\u0c46\u0c21\u0c4d\u0c15\u0c4d\u0c32\u0c3f\u0c2b\u0c4d-\u0c06\u0c28\u0c4d-\u0c1f\u0c4d\u0c30\u0c46\u0c02\u0c1f\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Radcliffe"
     ],
     "name:urd_x_preferred":[
@@ -105,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.95,
     "wd:longitude":-1.04,
@@ -123,10 +126,12 @@
     "wof:concordances":{
         "gn:id":6691227,
         "gp:id":32818,
-        "qs:id":246309,
-        "qs_pg:id":1074157,
+        "qs_pg:id":246309,
         "wd:id":"Q2648766",
         "wk:page":"Radcliffe-on-Trent"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074157
     },
     "wof:country":"GB",
     "wof:geomhash":"806e82abfc50873e0429fcf52796b7db",
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360790961,
-    "wof:lastmodified":1563333014,
+    "wof:lastmodified":1566628454,
     "wof:name":"Radcliffe on Trent",
     "wof:parent_id":1292933179,
     "wof:placetype":"neighbourhood",

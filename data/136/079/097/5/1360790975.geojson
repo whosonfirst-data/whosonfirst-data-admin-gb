@@ -11,12 +11,15 @@
     "geom:longitude":-2.105443,
     "gn:population":7033,
     "iso:country":"GB",
+    "lbl:bbox":"-2.110443,53.290806,-2.100443,53.300806",
     "lbl:latitude":53.295806,
     "lbl:longitude":-2.105443,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.295806,
     "mps:longitude":-2.105443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0644\u06cc\u0646\u0642\u062a\u0648\u0646"
     ],
@@ -124,7 +127,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":53.298,
     "wd:longitude":-2.093,
@@ -143,10 +146,12 @@
     "wof:concordances":{
         "gn:id":2646746,
         "gp:id":13178,
-        "qs:id":140946,
-        "qs_pg:id":1338091,
+        "qs_pg:id":140946,
         "wd:id":"Q2247131",
         "wk:page":"Bollington"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1338091
     },
     "wof:country":"GB",
     "wof:geomhash":"cf21cbd985d614fd2f32761a4b62abc9",
@@ -163,7 +168,7 @@
         }
     ],
     "wof:id":1360790975,
-    "wof:lastmodified":1563333083,
+    "wof:lastmodified":1566628491,
     "wof:name":"Bollington",
     "wof:parent_id":1226171357,
     "wof:placetype":"neighbourhood",

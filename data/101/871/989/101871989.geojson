@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.096475,
     "lbl:longitude":-2.303273,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.096475,
     "mps:longitude":-2.303273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ben_x_preferred":[
         "\u098f\u09b2\u09b8\u09be\u0997\u09c7\u09b0"
     ],
@@ -115,7 +118,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.0961,
     "wd:longitude":-2.304789,
@@ -132,7 +135,6 @@
     "wof:concordances":{
         "gn:id":2657430,
         "gp:id":10689,
-        "qs:id":1249145,
         "qs_pg:id":1249145,
         "wd:id":"Q2388660",
         "wk:page":"Alsager"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101871989,
-    "wof:lastmodified":1561838100,
+    "wof:lastmodified":1566630952,
     "wof:name":"Alsager",
     "wof:parent_id":404436731,
     "wof:placetype":"locality",

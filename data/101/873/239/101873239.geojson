@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.906229,
     "lbl:longitude":-1.420832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.906229,
     "mps:longitude":-1.420832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Collingham"
     ],
@@ -60,7 +63,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360698609,
         102191581,
@@ -73,10 +76,12 @@
     "wof:concordances":{
         "gn:id":2652558,
         "gp:id":16635,
-        "qs:id":140885,
-        "qs_pg:id":1325065,
+        "qs_pg:id":140885,
         "wd:id":"Q2592080",
         "wk:page":"Collingham, West Yorkshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1325065
     },
     "wof:coterminous":[
         404450889
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":101873239,
-    "wof:lastmodified":1563336275,
+    "wof:lastmodified":1566630802,
     "wof:name":"Collingham",
     "wof:parent_id":404450889,
     "wof:placetype":"locality",

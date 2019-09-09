@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.355747,
     "lbl:longitude":-2.918021,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.35069,
     "mps:longitude":-2.920161,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Cressington"
-    ],
-    "name:unk_x_variant":[
         "Cressington"
     ],
     "qs:gn_id":0,
@@ -57,20 +55,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":214,
     "wof:belongsto":[
-        1360698573,
         102191581,
         85633159,
         404227469,
         101750547,
-        1360698971
+        1360698971,
+        1360698573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":17283,
-        "qs:id":226614,
         "qs_pg:id":226614,
         "wd:id":"Q5184508"
     },
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542399894,
+    "wof:lastmodified":1566627590,
     "wof:name":"Cressington",
     "wof:parent_id":101750547,
     "wof:placetype":"neighbourhood",

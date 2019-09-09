@@ -9,14 +9,17 @@
     "geom:bbox":"-2.75136933446,54.1611309842,-2.67175814304,54.2007687862",
     "geom:latitude":54.18101,
     "geom:longitude":-2.707545,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.16667,
     "lbl:longitude":-2.71667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u099f\u09a8-\u0987\u09a8 \u0995\u09c7\u09a8\u09cd\u09a1\u09be\u09b2"
@@ -78,7 +81,7 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c30\u0c4d\u0c1f\u0c28\u0c4d \u0c07\u0c28\u0c4d \u0c15\u0c47\u0c02\u0c21\u0c47\u0c32\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burton in Kendal"
     ],
     "name:urd_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1126028353,
-    "wof:lastmodified":1563339901,
+    "wof:lastmodified":1566634345,
     "wof:name":"Burton-in-Kendal",
     "wof:parent_id":404447381,
     "wof:placetype":"locality",

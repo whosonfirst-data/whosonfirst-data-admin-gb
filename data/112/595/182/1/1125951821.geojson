@@ -9,15 +9,17 @@
     "geom:bbox":"0.383877213656,51.2742826858,0.421078640856,51.3006591344",
     "geom:latitude":51.288955,
     "geom:longitude":0.402895,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2192,
-    "gn:population":2266,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2192,
     "iso:country":"GB",
     "lbl:latitude":51.29273,
     "lbl:longitude":0.40907,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0633\u062a \u0645\u0627\u0644\u06cc\u0646\u0642"
@@ -86,7 +88,7 @@
         "West Malling"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd"
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d \u0c2e\u0c32\u0c4d\u0c32\u0c3f\u0c02\u0c17\u0c4d"
@@ -124,7 +126,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":1125951821,
-    "wof:lastmodified":1563339860,
+    "wof:lastmodified":1566634314,
     "wof:name":"West Malling",
     "wof:parent_id":404443549,
     "wof:placetype":"locality",

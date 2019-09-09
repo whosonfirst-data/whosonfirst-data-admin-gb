@@ -11,8 +11,10 @@
     "geom:longitude":-0.318813,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.323813,52.530531,-0.313813,52.540531",
     "lbl:latitude":52.535531,
     "lbl:longitude":-0.318813,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.530398,
     "mps:longitude":-0.320059,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Orton Southgate"
-    ],
-    "name:unk_x_variant":[
         "Orton Southgate"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -57,20 +56,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698535,
         102191581,
         404438071,
         85633159,
         404227469,
         1327065391,
-        1360698773
+        1360698773,
+        1360698535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":31109,
-        "qs:id":214809,
         "qs_pg:id":214809
     },
     "wof:country":"GB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547728152,
+    "wof:lastmodified":1566627712,
     "wof:name":"Orton Southgate",
     "wof:parent_id":1327065391,
     "wof:placetype":"neighbourhood",

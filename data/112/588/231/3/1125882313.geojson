@@ -9,15 +9,17 @@
     "geom:bbox":"-1.43204990173,52.8388733243,-1.36252049269,52.8637050025",
     "geom:latitude":52.851203,
     "geom:longitude":-1.402246,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":761,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.84835,
     "lbl:longitude":-1.40119,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0412\u0451\u0441\u043a\u0430 \u0423\u044d\u0441\u0442\u0430\u043d-\u043e\u043d-\u0422\u0440\u044d\u043d\u0442"
@@ -49,9 +51,6 @@
     "name:swe_x_preferred":[
         "Weston-on-Trent"
     ],
-    "name:unk_x_variant":[
-        "Weston-on-Trent"
-    ],
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -76,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +114,7 @@
         }
     ],
     "wof:id":1125882313,
-    "wof:lastmodified":1563340744,
+    "wof:lastmodified":1566634877,
     "wof:name":"Weston upon Trent",
     "wof:parent_id":404447513,
     "wof:placetype":"locality",

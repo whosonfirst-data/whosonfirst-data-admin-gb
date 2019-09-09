@@ -9,14 +9,17 @@
     "geom:bbox":"-1.20257,54.5291,-1.20257,54.5291",
     "geom:latitude":54.5291,
     "geom:longitude":-1.20257,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.20757,54.5241,-1.19757,54.5341",
     "lbl:latitude":54.5291,
     "lbl:longitude":-1.20257,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Murton"
@@ -39,7 +42,7 @@
     "name:swe_x_preferred":[
         "Murton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marton-in-Cleveland"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":29581,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1360804421,
-    "wof:lastmodified":1564153934,
+    "wof:lastmodified":1566629555,
     "wof:name":"Murton",
     "wof:parent_id":101750599,
     "wof:placetype":"neighbourhood",

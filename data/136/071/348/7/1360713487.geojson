@@ -9,14 +9,17 @@
     "geom:bbox":"-3.4163,51.56189,-3.4163,51.56189",
     "geom:latitude":51.56189,
     "geom:longitude":-3.4163,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.4213,51.55689,-3.4113,51.56689",
     "lbl:latitude":51.56189,
     "lbl:longitude":-3.4163,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Coed-el\u00e1i"
@@ -33,7 +36,7 @@
     "name:nld_x_preferred":[
         "Coed-Ely"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coed Ely"
     ],
     "qs_pg:aaroncc":"GB",
@@ -57,7 +60,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":16505,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1360713487,
-    "wof:lastmodified":1563334028,
+    "wof:lastmodified":1566628982,
     "wof:name":"Coedely",
     "wof:parent_id":101852815,
     "wof:placetype":"neighbourhood",

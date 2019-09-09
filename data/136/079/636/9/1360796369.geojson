@@ -9,14 +9,17 @@
     "geom:bbox":"-1.87148,52.18917,-1.87148,52.18917",
     "geom:latitude":52.18917,
     "geom:longitude":-1.87148,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.87648,52.18417,-1.86648,52.19417",
     "lbl:latitude":52.18917,
     "lbl:longitude":-1.87148,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Wixford"
@@ -42,9 +45,6 @@
     "name:swe_x_variant":[
         "Wixford"
     ],
-    "name:unk_x_variant":[
-        "Wixford"
-    ],
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -66,7 +66,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":24321,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1360796369,
-    "wof:lastmodified":1563333687,
+    "wof:lastmodified":1566628793,
     "wof:name":"Iford",
     "wof:parent_id":1126047669,
     "wof:placetype":"neighbourhood",

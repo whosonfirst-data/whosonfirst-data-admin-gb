@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.673309,
     "lbl:longitude":-4.908639,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.673309,
     "mps:longitude":-4.908639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Pembroke"
     ],
@@ -134,9 +137,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043c\u0431\u0440\u0443\u043a"
     ],
-    "name:unk_x_variant":[
-        "Penfro"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0645\u0628\u0631\u0648\u06a9\u06cc"
     ],
@@ -165,7 +165,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1624,
     "wof:belongsto":[
@@ -181,7 +181,6 @@
         "fct:id":"0aa6683a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2640503,
         "gp:id":31602,
-        "qs:id":899616,
         "qs_pg:id":899616,
         "wd:id":"Q1762242",
         "wk:page":"Pembroke, Pembrokeshire"
@@ -206,7 +205,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336756,
+    "wof:lastmodified":1566630970,
     "wof:name":"Pembroke",
     "wof:parent_id":404449329,
     "wof:placetype":"locality",

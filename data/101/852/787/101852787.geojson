@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.731198,
     "lbl:longitude":-3.137951,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.731199,
     "mps:longitude":-3.137951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09c7\u09b0\u099f\u09bf\u09b2\u09bf"
     ],
@@ -147,7 +150,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.73,
     "wd:longitude":-3.13,
@@ -165,7 +168,6 @@
         "fct:id":"0aa6516a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2657784,
         "gp:id":10288,
-        "qs:id":966904,
         "qs_pg:id":966904,
         "wd:id":"Q2272537",
         "wk:page":"Abertillery"
@@ -190,7 +192,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563337071,
+    "wof:lastmodified":1566631096,
     "wof:name":"Abertillery",
     "wof:parent_id":404431877,
     "wof:placetype":"locality",

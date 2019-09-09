@@ -9,19 +9,22 @@
     "geom:bbox":"-3.18333,51.0,-3.18333,51.0",
     "geom:latitude":51.0,
     "geom:longitude":-3.18333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.18833,50.995,-3.17833,51.005",
     "lbl:latitude":51.0,
     "lbl:longitude":-3.18333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Bradiford"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bradford on Tone"
     ],
     "qs_pg:aaroncc":"GB",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":13535,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1360797747,
-    "wof:lastmodified":1564153147,
+    "wof:lastmodified":1566628845,
     "wof:name":"Bradiford",
     "wof:parent_id":1360757489,
     "wof:placetype":"neighbourhood",

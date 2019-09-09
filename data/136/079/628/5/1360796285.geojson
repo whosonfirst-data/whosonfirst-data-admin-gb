@@ -9,14 +9,17 @@
     "geom:bbox":"-2.8,52.28333,-2.8,52.28333",
     "geom:latitude":52.28333,
     "geom:longitude":-2.8,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.805,52.27833,-2.795,52.28833",
     "lbl:latitude":52.28333,
     "lbl:longitude":-2.8,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Croft"
@@ -45,19 +48,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":17355,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698617,
         102191581,
         404452967,
         85633159,
         404227469,
         1360758703,
-        1360699053
+        1360699053,
+        1360698617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1360796285,
-    "wof:lastmodified":1547731842,
+    "wof:lastmodified":1566628404,
     "wof:name":"Croft",
     "wof:parent_id":1360758703,
     "wof:placetype":"neighbourhood",

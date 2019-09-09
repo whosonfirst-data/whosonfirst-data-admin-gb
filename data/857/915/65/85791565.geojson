@@ -11,8 +11,10 @@
     "geom:longitude":-1.830336,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.835336,51.554481,-1.825336,51.564481",
     "lbl:latitude":51.559481,
     "lbl:longitude":-1.830336,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.561411,
     "mps:longitude":-1.830584,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Westlea"
-    ],
-    "name:unk_x_variant":[
         "Westlea"
     ],
     "qs:gn_id":0,
@@ -56,19 +55,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698611,
         102191581,
         85633159,
         404227469,
         101750393,
-        1360699033
+        1360699033,
+        1360698611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":39951,
-        "qs:id":1073930,
         "qs_pg:id":1073930
     },
     "wof:country":"GB",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400537,
+    "wof:lastmodified":1566627625,
     "wof:name":"Westlea",
     "wof:parent_id":101750393,
     "wof:placetype":"neighbourhood",

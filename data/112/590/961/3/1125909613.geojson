@@ -9,15 +9,17 @@
     "geom:bbox":"-1.02525104553,53.1328975406,-0.953062115541,53.1610772116",
     "geom:latitude":53.148443,
     "geom:longitude":-0.99026,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":419,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.15361,
     "lbl:longitude":-0.99734,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0415\u0430\u043a\u0440\u0438\u043d\u0433"
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1125909613,
-    "wof:lastmodified":1563341510,
+    "wof:lastmodified":1566635338,
     "wof:name":"Eakring",
     "wof:parent_id":404452105,
     "wof:placetype":"locality",

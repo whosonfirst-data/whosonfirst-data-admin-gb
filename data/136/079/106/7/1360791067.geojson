@@ -10,12 +10,15 @@
     "geom:latitude":53.64753,
     "geom:longitude":-2.725761,
     "iso:country":"GB",
+    "lbl:bbox":"-2.730761,53.64253,-2.720761,53.65253",
     "lbl:latitude":53.647531,
     "lbl:longitude":-2.725761,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.647531,
     "mps:longitude":-2.725761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Eccleston"
     ],
@@ -68,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.647,
     "wd:longitude":-2.726,
     "wd:wordcount":628,
@@ -85,10 +88,12 @@
     "wof:concordances":{
         "gn:id":2650272,
         "gp:id":19290,
-        "qs:id":1287190,
         "qs_pg:id":1028914,
         "wd:id":"Q1911932",
         "wk:page":"Eccleston, Lancashire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1287190
     },
     "wof:country":"GB",
     "wof:geomhash":"b4ba1774126335f81125926cece7bffe",
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":1360791067,
-    "wof:lastmodified":1563333391,
+    "wof:lastmodified":1566628649,
     "wof:name":"Eccleston",
     "wof:parent_id":1210045369,
     "wof:placetype":"neighbourhood",

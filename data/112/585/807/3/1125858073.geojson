@@ -9,14 +9,17 @@
     "geom:bbox":"-0.323016044069,52.0196986941,-0.276826093811,52.0573429142",
     "geom:latitude":52.037901,
     "geom:longitude":-0.301993,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.0399,
     "lbl:longitude":-0.30051,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0644\u064a\u0641\u062a\u0648\u0646"
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         1360698527,
         102191581,
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1125858073,
-    "wof:lastmodified":1563342678,
+    "wof:lastmodified":1566636063,
     "wof:name":"Clifton",
     "wof:parent_id":404435485,
     "wof:placetype":"locality",

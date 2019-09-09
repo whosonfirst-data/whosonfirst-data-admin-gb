@@ -9,15 +9,17 @@
     "geom:bbox":"-3.0346100033,52.4744546338,-2.97226249486,52.5095167951",
     "geom:latitude":52.492238,
     "geom:longitude":-3.002648,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1630,
-    "gn:population":1893,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1630,
     "iso:country":"GB",
     "lbl:latitude":52.49208,
     "lbl:longitude":-3.0021,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0634\u0627\u067e\u0633 \u06a9\u0633\u062a\u0644"
@@ -97,7 +99,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":1126058581,
-    "wof:lastmodified":1563340027,
+    "wof:lastmodified":1566634420,
     "wof:name":"Bishop's Castle",
     "wof:parent_id":404431107,
     "wof:placetype":"locality",

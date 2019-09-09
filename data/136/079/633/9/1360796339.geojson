@@ -9,15 +9,17 @@
     "geom:bbox":"1.31337,52.63032,1.31337,52.63032",
     "geom:latitude":52.63032,
     "geom:longitude":1.31337,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":8109,
+    "gn:country":"GB",
+    "gn:fcode":"PPLL",
     "gn:population":8109,
     "iso:country":"GB",
+    "lbl:bbox":"1.30837,52.62532,1.31837,52.63532",
     "lbl:latitude":52.63032,
     "lbl:longitude":1.31337,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Thorpe Hamlet"
@@ -49,7 +51,7 @@
     "qs_pg:qs_id":160925,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1360796339,
-    "wof:lastmodified":1563333007,
+    "wof:lastmodified":1566628451,
     "wof:name":"Thorpe Hamlet",
     "wof:parent_id":101750483,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-1.74996,51.11223,-1.74996,51.11223",
     "geom:latitude":51.11223,
     "geom:longitude":-1.74996,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.75496,51.10723,-1.74496,51.11723",
     "lbl:latitude":51.11223,
     "lbl:longitude":-1.74996,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Winterbourne Dauntsey"
@@ -27,7 +30,7 @@
     "name:swe_x_preferred":[
         "Winterbourne Dauntsey"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Winterbourne"
     ],
     "qs_pg:aaroncc":"GB",
@@ -51,7 +54,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":40714,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1360792479,
-    "wof:lastmodified":1564153033,
+    "wof:lastmodified":1566628703,
     "wof:name":"Winterbourne Dauntsey",
     "wof:parent_id":1125788731,
     "wof:placetype":"neighbourhood",

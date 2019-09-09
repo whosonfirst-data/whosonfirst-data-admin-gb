@@ -9,14 +9,17 @@
     "geom:bbox":"-3.80857047942,51.752704586,-3.70255140989,51.8570987762",
     "geom:latitude":51.806181,
     "geom:longitude":-3.751301,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.76667,
     "lbl:longitude":-3.76667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Ystradgynlais"
@@ -117,7 +120,7 @@
     "name:tel_x_preferred":[
         "\u0c2f\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c21\u0c4d\u0c1c\u0c4d\u0c1e\u0c3e\u0c32\u0c3f\u0c38\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ystradgunlais"
     ],
     "name:urd_x_preferred":[
@@ -149,7 +152,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":41440,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1125881985,
-    "wof:lastmodified":1563340691,
+    "wof:lastmodified":1566634845,
     "wof:name":"Ystradgynlais",
     "wof:parent_id":404447503,
     "wof:placetype":"locality",

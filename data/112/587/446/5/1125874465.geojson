@@ -9,15 +9,17 @@
     "geom:bbox":"-0.661990207835,51.4099043159,-0.562522943182,51.4733984093",
     "geom:latitude":51.443243,
     "geom:longitude":-0.607835,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":7168,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
     "gn:population":7168,
     "iso:country":"GB",
     "lbl:latitude":51.45807,
     "lbl:longitude":-0.58674,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f \u0648\u064a\u0646\u062f\u0632\u0631"
@@ -92,7 +94,7 @@
         "Old Windsor"
     ],
     "name:tam_x_preferred":[
-        "\u0b93\u0bb2\u0bcd\u0b9f\u0bcd  \u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcb\u0bb0\u0bcd"
+        "\u0b93\u0bb2\u0bcd\u0b9f\u0bcd \u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcb\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c32\u0c4d\u0c21\u0c4d \u0c35\u0c3f\u0c02\u0c21\u0c4d\u0c38\u0c4b\u0c30\u0c4d"
@@ -124,7 +126,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":1125874465,
-    "wof:lastmodified":1563341093,
+    "wof:lastmodified":1566635091,
     "wof:name":"Old Windsor",
     "wof:parent_id":404446507,
     "wof:placetype":"locality",

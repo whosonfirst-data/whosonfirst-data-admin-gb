@@ -9,15 +9,17 @@
     "geom:bbox":"-0.0506291769632,52.328169972,0.0225269942338,52.3641852702",
     "geom:latitude":52.348386,
     "geom:longitude":-0.00842,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":2868,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.35479,
     "lbl:longitude":0.00854,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0644\u0648\u0646\u062a\u064a\u0634\u0645"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1126012649,
-    "wof:lastmodified":1563342426,
+    "wof:lastmodified":1566635901,
     "wof:name":"Bluntisham",
     "wof:parent_id":404432079,
     "wof:placetype":"locality",

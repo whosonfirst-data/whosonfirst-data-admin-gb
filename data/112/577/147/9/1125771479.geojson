@@ -9,15 +9,17 @@
     "geom:bbox":"-0.60561560954,51.604346189,-0.538467471622,51.6645592046",
     "geom:latitude":51.632496,
     "geom:longitude":-0.573665,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6696,
-    "gn:population":7957,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":6696,
     "iso:country":"GB",
     "lbl:latitude":51.63184,
     "lbl:longitude":-0.57026,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062a\u0634\u0644\u0641\u0646\u062a \u0633\u062a \u063a\u064a\u0644\u0633"
@@ -83,7 +85,7 @@
         "Chalfont St Giles"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bb2\u0b83\u0ba9\u0bcd\u0b9f\u0bcd  \u0bb8\u0bcd\u0b9f  \u0b95\u0bbf\u0bb3\u0bc7\u0bb8\u0bcd"
+        "\u0b9a\u0bb2\u0b83\u0ba9\u0bcd\u0b9f\u0bcd \u0bb8\u0bcd\u0b9f \u0b95\u0bbf\u0bb3\u0bc7\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c32\u0c4d\u0c2b\u0c4b\u0c02\u0c1f\u0c4d \u0c17\u0c3f\u0c32\u0c46\u0c38\u0c4d"
@@ -121,7 +123,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":1125771479,
-    "wof:lastmodified":1563343213,
+    "wof:lastmodified":1566636375,
     "wof:name":"Chalfont St. Giles",
     "wof:parent_id":404434599,
     "wof:placetype":"locality",

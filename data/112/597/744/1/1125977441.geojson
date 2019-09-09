@@ -9,15 +9,17 @@
     "geom:bbox":"1.48789225932,52.5552680041,1.55533206682,52.6064880976",
     "geom:latitude":52.582735,
     "geom:longitude":1.523173,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":504,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.57896,
     "lbl:longitude":1.51354,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Cantley"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125977441,
-    "wof:lastmodified":1563341853,
+    "wof:lastmodified":1566635562,
     "wof:name":"Cantley",
     "wof:parent_id":404442175,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"-2.29528346089,51.0551263581,-2.2021452994,51.1197588238",
     "geom:latitude":51.090773,
     "geom:longitude":-2.250334,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":2686,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.090643,
     "lbl:longitude":-2.261983,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.090643,
     "mps:longitude":-2.261983,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u0631\u0647"
     ],
@@ -95,7 +97,7 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c47\u0c30\u0c47"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meare"
     ],
     "name:urd_x_preferred":[
@@ -135,7 +137,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.09,
     "wd:longitude":-2.266,
@@ -152,7 +154,6 @@
     "wof:concordances":{
         "gn:id":2642844,
         "gp:id":28724,
-        "qs:id":1028850,
         "qs_pg:id":249564,
         "wd:id":"Q1221042",
         "wk:page":"Mere, Wiltshire"
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":101852725,
-    "wof:lastmodified":1563336961,
+    "wof:lastmodified":1566631057,
     "wof:name":"Mere",
     "wof:parent_id":404432357,
     "wof:placetype":"locality",

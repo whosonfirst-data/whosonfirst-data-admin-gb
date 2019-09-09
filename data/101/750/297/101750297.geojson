@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":50.393988,
     "lbl:longitude":-4.113637,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.3977,
     "mps:longitude":-4.139349,
     "mz:hierarchy_label":1,
@@ -417,7 +419,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.371389,
     "wd:longitude":-4.142222,
@@ -433,10 +435,12 @@
     "wof:concordances":{
         "gn:id":2640194,
         "gp:id":32185,
-        "qs:id":351966,
-        "qs_pg:id":1073673,
+        "qs_pg:id":351966,
         "wd:id":"Q43382",
         "wk:page":"Plymouth"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073673
     },
     "wof:country":"GB",
     "wof:geomhash":"ccd3069a6d4c2cf3e9c90dbb96840cd3",
@@ -451,7 +455,7 @@
         }
     ],
     "wof:id":101750297,
-    "wof:lastmodified":1563336660,
+    "wof:lastmodified":1566630931,
     "wof:name":"Plymouth",
     "wof:parent_id":1360698841,
     "wof:placetype":"locality",

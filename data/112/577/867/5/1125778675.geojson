@@ -9,15 +9,17 @@
     "geom:bbox":"0.848165103338,51.6675874938,0.98212415454,51.7143453996",
     "geom:latitude":51.690932,
     "geom:longitude":0.922353,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":902,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.69682,
     "lbl:longitude":0.882,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0438\u043b\u0438\u043d\u0433\u0445\u0430\u043c"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125778675,
-    "wof:lastmodified":1563343169,
+    "wof:lastmodified":1566636350,
     "wof:name":"Tillingham",
     "wof:parent_id":404454205,
     "wof:placetype":"locality",

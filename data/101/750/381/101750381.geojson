@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.515927,
     "lbl:longitude":-0.611922,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":51.516837,
     "mps:longitude":-0.612181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Slough"
     ],
@@ -215,7 +218,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.509722,
     "wd:longitude":-0.593056,
@@ -231,9 +234,11 @@
     "wof:concordances":{
         "gn:id":2637626,
         "gp:id":35009,
-        "qs:id":1036827,
-        "qs_pg:id":1074166,
+        "qs_pg:id":1036827,
         "wd:id":"Q211907"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074166
     },
     "wof:country":"GB",
     "wof:geomhash":"2c5179d2c27e1e048539325f71c930a4",
@@ -248,7 +253,7 @@
         }
     ],
     "wof:id":101750381,
-    "wof:lastmodified":1563336688,
+    "wof:lastmodified":1566630938,
     "wof:name":"Slough",
     "wof:parent_id":1360699061,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.83333,51.75,-1.83333,51.75",
     "geom:latitude":51.75,
     "geom:longitude":-1.83333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":627,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.83833,51.745,-1.82833,51.755",
     "lbl:latitude":51.75,
     "lbl:longitude":-1.83333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Ablington"
@@ -25,7 +27,7 @@
     "name:pol_x_preferred":[
         "Ablington"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arlington"
     ],
     "qs_pg:aaroncc":"GB",
@@ -49,7 +51,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":11035,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1360797649,
-    "wof:lastmodified":1564152741,
+    "wof:lastmodified":1566628317,
     "wof:name":"Ablington",
     "wof:parent_id":1125882771,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-2.475,51.18694,-2.475,51.18694",
     "geom:latitude":51.18694,
     "geom:longitude":-2.475,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.48,51.18194,-2.47,51.19194",
     "lbl:latitude":51.18694,
     "lbl:longitude":-2.475,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Cranmore"
@@ -45,7 +48,7 @@
     "name:swe_x_variant":[
         "Cranmore"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "West Cranmore"
     ],
     "qs_pg:aaroncc":"GB",
@@ -69,7 +72,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":14938,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1360796267,
-    "wof:lastmodified":1563332931,
+    "wof:lastmodified":1566628416,
     "wof:name":"Calmore",
     "wof:parent_id":1125914331,
     "wof:placetype":"neighbourhood",

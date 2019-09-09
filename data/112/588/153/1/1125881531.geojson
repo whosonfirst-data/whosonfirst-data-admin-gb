@@ -9,15 +9,17 @@
     "geom:bbox":"-1.7986419876,54.629752551,-1.67714865011,54.7595369128",
     "geom:latitude":54.699933,
     "geom:longitude":-1.737434,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8573,
-    "gn:population":9498,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":8573,
     "iso:country":"GB",
     "lbl:latitude":54.7,
     "lbl:longitude":-1.73333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Crook"
@@ -84,7 +86,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1125881531,
-    "wof:lastmodified":1563340692,
+    "wof:lastmodified":1566634846,
     "wof:name":"Crook",
     "wof:parent_id":1360817113,
     "wof:placetype":"locality",

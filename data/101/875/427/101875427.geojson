@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.426008,
     "lbl:longitude":-3.223254,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.426008,
     "mps:longitude":-3.223254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a1\u09bf\u09a8\u09be\u09b8 \u09aa\u09cb\u099c"
     ],
@@ -109,9 +112,6 @@
     "name:tel_x_preferred":[
         "\u0c26\u0c3f\u0c28\u0c3e\u0c38\u0c4d \u0c2a\u0c4b\u0c35\u0c47\u0c38\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Dinas Powis"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0646\u0627\u0633\u00a0\u067e\u0648\u0648\u06cc\u0633"
     ],
@@ -135,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360698627,
         102191581,
@@ -149,10 +149,12 @@
         "fct:id":"0aa68360-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2651252,
         "gp:id":18191,
-        "qs:id":140877,
-        "qs_pg:id":481437,
+        "qs_pg:id":140877,
         "wd:id":"Q3403308",
         "wk:page":"Dinas Powys"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":481437
     },
     "wof:country":"GB",
     "wof:geomhash":"4fc2da1fd7d7ab320890f3ef2c222a64",
@@ -171,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336491,
+    "wof:lastmodified":1566630880,
     "wof:name":"Dinas Powys",
     "wof:parent_id":404453001,
     "wof:placetype":"locality",

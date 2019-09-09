@@ -16,10 +16,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.046983,
     "lbl:longitude":-0.705743,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":52.03791,
     "mps:longitude":-0.762281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Milton Keynes"
     ],
@@ -202,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.033333,
     "wd:longitude":-0.766667,
@@ -219,10 +222,12 @@
     "wof:concordances":{
         "gn:id":2642465,
         "gp:id":29062,
-        "qs:id":1062665,
-        "qs_pg:id":1190180,
+        "qs_pg:id":1062665,
         "wd:id":"Q204234",
         "wk:page":"Milton Keynes"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190180
     },
     "wof:country":"GB",
     "wof:geomhash":"e93ab6b88a6fd3e5bec0f113f21f080a",
@@ -238,7 +243,7 @@
         }
     ],
     "wof:id":101750433,
-    "wof:lastmodified":1563336654,
+    "wof:lastmodified":1566630930,
     "wof:name":"Milton Keynes",
     "wof:parent_id":404450651,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.611715,
     "lbl:longitude":-0.024589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.611313,
     "mps:longitude":-0.023539,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
     "name:eng_x_variant":[
         "Chingford South",
         "South Chingford"
-    ],
-    "name:unk_x_variant":[
-        "Chingford South"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
@@ -62,20 +60,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":58,
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857287
+        1158857287,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089373,
-        "qs:id":239220,
         "qs_pg:id":239220,
         "wd:id":"Q18162365"
     },
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206415,
+    "wof:lastmodified":1566627894,
     "wof:name":"South Chingford",
     "wof:parent_id":1158857287,
     "wof:placetype":"neighbourhood",

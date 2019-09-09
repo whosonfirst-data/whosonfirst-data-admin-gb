@@ -9,14 +9,17 @@
     "geom:bbox":"-2.64905,51.51694,-2.64905,51.51694",
     "geom:latitude":51.51694,
     "geom:longitude":-2.64905,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.65405,51.51194,-2.64405,51.52194",
     "lbl:latitude":51.51694,
     "lbl:longitude":-2.64905,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hallen"
@@ -31,9 +34,6 @@
         "Hallen"
     ],
     "name:pol_x_preferred":[
-        "Hallen"
-    ],
-    "name:unk_x_variant":[
         "Hallen"
     ],
     "qs_pg:aaroncc":"GB",
@@ -57,7 +57,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":22183,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1360796329,
-    "wof:lastmodified":1561837876,
+    "wof:lastmodified":1566628495,
     "wof:name":"Hall End",
     "wof:parent_id":101852759,
     "wof:placetype":"neighbourhood",

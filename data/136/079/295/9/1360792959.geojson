@@ -9,14 +9,17 @@
     "geom:bbox":"-3.16384,53.35832,-3.16384,53.35832",
     "geom:latitude":53.35832,
     "geom:longitude":-3.16384,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.16884,53.35332,-3.15884,53.36332",
     "lbl:latitude":53.35832,
     "lbl:longitude":-3.16384,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Caldy"
@@ -45,18 +48,18 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":14915,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698573,
         102191581,
         85633159,
         404227469,
         1360832459,
-        1360699049
+        1360699049,
+        1360698573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1360792959,
-    "wof:lastmodified":1547717756,
+    "wof:lastmodified":1566628464,
     "wof:name":"Caldy",
     "wof:parent_id":1360832459,
     "wof:placetype":"neighbourhood",

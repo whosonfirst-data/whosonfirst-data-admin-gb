@@ -9,14 +9,17 @@
     "geom:bbox":"-1.4617,51.15243,-1.4617,51.15243",
     "geom:latitude":51.15243,
     "geom:longitude":-1.4617,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.4667,51.14743,-1.4567,51.15743",
     "lbl:latitude":51.15243,
     "lbl:longitude":-1.4617,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Fullerton"
@@ -36,7 +39,7 @@
     "name:pol_x_variant":[
         "Fullerton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fullerton Junction"
     ],
     "qs_pg:aaroncc":"GB",
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20721,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1360795475,
-    "wof:lastmodified":1563333724,
+    "wof:lastmodified":1566628811,
     "wof:name":"Fullerton",
     "wof:parent_id":1125961395,
     "wof:placetype":"neighbourhood",

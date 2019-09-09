@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":52.478308,
     "lbl:longitude":-1.893538,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":52.482098,
     "mps:longitude":-1.85944,
     "mz:hierarchy_label":1,
@@ -600,9 +602,11 @@
     "wof:concordances":{
         "gn:id":2655603,
         "gp:id":12723,
-        "qs:id":1,
-        "qs_pg:id":352032,
+        "qs_pg:id":1,
         "wd:id":"Q2256"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":352032
     },
     "wof:country":"GB",
     "wof:geomhash":"7dde71eb14aa27b13003de1f602d7a4e",
@@ -617,7 +621,7 @@
         }
     ],
     "wof:id":101750467,
-    "wof:lastmodified":1563336646,
+    "wof:lastmodified":1566630929,
     "wof:name":"Birmingham",
     "wof:parent_id":1360699077,
     "wof:placetype":"locality",

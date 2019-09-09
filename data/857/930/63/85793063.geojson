@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.542571,
     "lbl:longitude":-2.282889,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.546427,
     "mps:longitude":-2.277666,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Oak Bank"
-    ],
-    "name:unk_x_variant":[
         "Oak Bank"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -56,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698555,
         102191581,
         85633159,
         404227469,
         1360832453,
-        1360698847
+        1360698847,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43905,
-        "qs:id":1086168,
         "qs_pg:id":1086168
     },
     "wof:country":"GB",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547717746,
+    "wof:lastmodified":1566627518,
     "wof:name":"Oak Bank",
     "wof:parent_id":1360832453,
     "wof:placetype":"neighbourhood",

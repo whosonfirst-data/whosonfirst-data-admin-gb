@@ -9,14 +9,18 @@
     "geom:bbox":"-6.48333,54.1,-6.48333,54.1",
     "geom:latitude":54.1,
     "geom:longitude":-6.48333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-6.50333,54.08,-6.46333,54.12",
     "lbl:latitude":54.1,
     "lbl:longitude":-6.48333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0443\u043b\u0430\u0433\u0445\u0431\u0430\u043d\u0435"
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Mullaghbane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mullaghlane"
     ],
     "qs_pg:aaroncc":"GB",
@@ -84,7 +88,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":45044,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Northern Ireland",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1125775443,
-    "wof:lastmodified":1563343175,
+    "wof:lastmodified":1566636353,
     "wof:name":"Mullaghbane",
     "wof:parent_id":1360699243,
     "wof:placetype":"locality",

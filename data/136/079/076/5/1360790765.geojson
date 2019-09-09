@@ -11,12 +11,15 @@
     "geom:longitude":-2.353129,
     "gn:population":5260,
     "iso:country":"GB",
+    "lbl:bbox":"-2.358129,51.633459,-2.348129,51.643459",
     "lbl:latitude":51.63846,
     "lbl:longitude":-2.353129,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.63846,
     "mps:longitude":-2.353129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u062a\u0648\u0646-\u0622\u0646\u062f\u0631-\u0627\u062c"
     ],
@@ -99,7 +102,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.638,
     "wd:longitude":-2.349,
@@ -118,10 +121,12 @@
         "fct:id":"0aa3f744-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6615461,
         "gp:id":19327,
-        "qs:id":1276650,
-        "qs_pg:id":1338522,
+        "qs_pg:id":1276650,
         "wd:id":"Q29471",
         "wk:page":"Wotton-under-Edge"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1338522
     },
     "wof:country":"GB",
     "wof:geomhash":"4a03a5a6b4f7f94d9f25a318499a7a36",
@@ -141,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332986,
+    "wof:lastmodified":1566628442,
     "wof:name":"Wotton-under-Edge",
     "wof:parent_id":1226377859,
     "wof:placetype":"neighbourhood",

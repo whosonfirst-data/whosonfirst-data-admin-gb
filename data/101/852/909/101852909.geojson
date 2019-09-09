@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.601871,
     "lbl:longitude":-1.290588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.601871,
     "mps:longitude":-1.290588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u0993\u09af\u09bc\u09c7\u09b2"
     ],
@@ -105,7 +108,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.597,
     "wd:longitude":-1.293,
     "wd:wordcount":1359,
@@ -122,10 +125,12 @@
         "fct:id":"0aa1b9a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2647385,
         "gp:id":22582,
-        "qs:id":1223907,
-        "qs_pg:id":1328409,
+        "qs_pg:id":1223907,
         "wd:id":"Q986049",
         "wk:page":"Harwell, Oxfordshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1328409
     },
     "wof:coterminous":[
         404435749
@@ -147,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336904,
+    "wof:lastmodified":1566631036,
     "wof:name":"Harwell",
     "wof:parent_id":404435749,
     "wof:placetype":"locality",

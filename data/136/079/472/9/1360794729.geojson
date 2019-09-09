@@ -9,14 +9,17 @@
     "geom:bbox":"-2.78333,52.63333,-2.78333,52.63333",
     "geom:latitude":52.63333,
     "geom:longitude":-2.78333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.78833,52.62833,-2.77833,52.63833",
     "lbl:latitude":52.63333,
     "lbl:longitude":-2.78333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Stapleton"
@@ -28,9 +31,6 @@
         "Stapleton"
     ],
     "name:pol_x_preferred":[
-        "Stapleton"
-    ],
-    "name:unk_x_variant":[
         "Stapleton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -54,7 +54,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":10891,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1360794729,
-    "wof:lastmodified":1561837902,
+    "wof:lastmodified":1566628696,
     "wof:name":"Appleton",
     "wof:parent_id":1125909233,
     "wof:placetype":"neighbourhood",

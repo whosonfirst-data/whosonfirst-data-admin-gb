@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.801048,
     "lbl:longitude":-2.109071,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.815238,
     "mps:longitude":-2.108339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Stafford"
     ],
@@ -185,7 +188,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698593,
@@ -198,10 +201,12 @@
     "wof:concordances":{
         "gn:id":2637142,
         "gp:id":35801,
-        "qs:id":351943,
-        "qs_pg:id":1195266,
+        "qs_pg:id":351943,
         "wd:id":"Q826782",
         "wk:page":"Stafford"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1195266
     },
     "wof:country":"GB",
     "wof:geomhash":"d8c8e5606e58cf9b9464543aa6abfb8f",
@@ -216,7 +221,7 @@
         }
     ],
     "wof:id":101750501,
-    "wof:lastmodified":1563336609,
+    "wof:lastmodified":1566630919,
     "wof:name":"Stafford",
     "wof:parent_id":1360698947,
     "wof:placetype":"locality",

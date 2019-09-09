@@ -9,15 +9,17 @@
     "geom:bbox":"0.199775482684,51.0736615144,0.358976262888,51.1244079139",
     "geom:latitude":51.101062,
     "geom:longitude":0.274623,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":781,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.0977,
     "lbl:longitude":0.27191,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0442"
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1125950147,
-    "wof:lastmodified":1563339797,
+    "wof:lastmodified":1566634277,
     "wof:name":"Frant",
     "wof:parent_id":404450849,
     "wof:placetype":"locality",

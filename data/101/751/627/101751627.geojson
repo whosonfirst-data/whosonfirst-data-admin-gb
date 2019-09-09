@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.393836,
     "lbl:longitude":-2.591124,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":53.391848,
     "mps:longitude":-2.591544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ast_x_preferred":[
         "Warrington"
     ],
@@ -155,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u0440\u0456\u043d\u0433\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Farrington"
     ],
     "name:urd_x_preferred":[
@@ -188,7 +191,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.38732,
     "wd:longitude":-2.60288,
@@ -204,10 +207,12 @@
     "wof:concordances":{
         "gn:id":2649685,
         "gp:id":39210,
-        "qs:id":351935,
         "qs_pg:id":210986,
         "wd:id":"Q215733",
         "wk:page":"Warrington"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":351935
     },
     "wof:country":"GB",
     "wof:geomhash":"0bf7925f164f38d454736758512f2bc7",
@@ -222,7 +227,7 @@
         }
     ],
     "wof:id":101751627,
-    "wof:lastmodified":1563336508,
+    "wof:lastmodified":1566630892,
     "wof:name":"Warrington",
     "wof:parent_id":1360698965,
     "wof:placetype":"locality",

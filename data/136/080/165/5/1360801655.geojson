@@ -9,15 +9,17 @@
     "geom:bbox":"-1.3677005,54.695538,-1.3677005,54.695538",
     "geom:latitude":54.695538,
     "geom:longitude":-1.3677,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":1,
+    "gn:country":null,
+    "gn:fcode":"PPLL",
     "gn:population":1,
     "iso:country":"GB",
+    "lbl:bbox":"-1.3727005,54.690538,-1.3627005,54.700538",
     "lbl:latitude":54.695538,
     "lbl:longitude":-1.3677,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Trimdon Station"
@@ -43,20 +45,20 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":38229,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698621,
         102191581,
         404451977,
         85633159,
         404227469,
         1125773467,
-        1360699055
+        1360699055,
+        1360698621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1360801655,
-    "wof:lastmodified":1547719033,
+    "wof:lastmodified":1566629435,
     "wof:name":"Trimdon station",
     "wof:parent_id":1125773467,
     "wof:placetype":"neighbourhood",

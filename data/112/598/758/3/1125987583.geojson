@@ -9,15 +9,17 @@
     "geom:bbox":"0.656724533997,51.3166189796,0.719295327021,51.3462708856",
     "geom:latitude":51.331893,
     "geom:longitude":0.691499,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":741,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.33426,
     "lbl:longitude":0.70038,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09b0\u09cd\u09a1\u09c7\u09a8"
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1125987583,
-    "wof:lastmodified":1563342253,
+    "wof:lastmodified":1566635790,
     "wof:name":"Borden",
     "wof:parent_id":404446747,
     "wof:placetype":"locality",

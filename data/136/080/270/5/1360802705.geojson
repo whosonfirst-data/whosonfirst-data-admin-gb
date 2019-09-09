@@ -9,15 +9,17 @@
     "geom:bbox":"-0.18394,51.86674,-0.18394,51.86674",
     "geom:latitude":51.86674,
     "geom:longitude":-0.18394,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4168,
-    "gn:population":4155,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4168,
     "iso:country":"GB",
+    "lbl:bbox":"-0.18894,51.86174,-0.17894,51.87174",
     "lbl:latitude":51.86674,
     "lbl:longitude":-0.18394,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0646\u0628\u200c\u0648\u0631\u062f"
@@ -97,9 +99,6 @@
     "name:tur_x_preferred":[
         "Knebworth"
     ],
-    "name:unk_x_variant":[
-        "Knebworth"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0646\u06cc\u0628\u0648\u0648\u0631\u062a\u06be"
     ],
@@ -127,7 +126,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":30933,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -165,7 +164,7 @@
         }
     ],
     "wof:id":1360802705,
-    "wof:lastmodified":1563334863,
+    "wof:lastmodified":1566629489,
     "wof:name":"Old Knebworth",
     "wof:parent_id":101853541,
     "wof:placetype":"neighbourhood",

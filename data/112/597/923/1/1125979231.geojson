@@ -9,15 +9,17 @@
     "geom:bbox":"-3.00349821524,51.644504818,-2.88534810027,51.6888237918",
     "geom:latitude":51.667346,
     "geom:longitude":-2.942006,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":444,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.66583,
     "lbl:longitude":-2.90806,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Llangybi"
@@ -41,9 +43,6 @@
         "Llangybi"
     ],
     "name:swe_x_preferred":[
-        "Llangybi"
-    ],
-    "name:unk_x_variant":[
         "Llangybi"
     ],
     "nav:latitude":51.66583,
@@ -73,7 +72,7 @@
         "qs_pg"
     ],
     "src:geom_via":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +108,7 @@
         }
     ],
     "wof:id":1125979231,
-    "wof:lastmodified":1563341727,
+    "wof:lastmodified":1566635478,
     "wof:name":"Llangibby",
     "wof:parent_id":404454585,
     "wof:placetype":"locality",

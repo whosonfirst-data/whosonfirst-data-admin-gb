@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.610339,
     "lbl:longitude":1.723038,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.584252,
     "mps:longitude":1.722268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Great Yarmouth"
     ],
@@ -149,7 +152,7 @@
         "Great Yarmouth"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd  \u0baf\u0bbe\u0bb0\u0bae\u0bcc\u0ba4\u0bcd"
+        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0baf\u0bbe\u0bb0\u0bae\u0bcc\u0ba4\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c47\u0c1f\u0c4d \u0c2f\u0c3e\u0c30\u0c4d\u0c2e\u0c4c\u0c24\u0c4d"
@@ -160,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0435\u0439\u0442-\u042f\u0440\u043c\u0443\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yarmouth"
     ],
     "name:urd_x_preferred":[
@@ -193,7 +196,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.633333,
     "wd:longitude":1.75,
     "wd:wordcount":4775,
@@ -208,10 +211,12 @@
     "wof:concordances":{
         "gn:id":2633414,
         "gp:id":41329,
-        "qs:id":453730,
         "qs_pg:id":387314,
         "wd:id":"Q237253",
         "wk:page":"Great Yarmouth"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":453730
     },
     "wof:country":"GB",
     "wof:geomhash":"ae7f161c3335f65a2b50785eb62de42c",
@@ -226,7 +231,7 @@
         }
     ],
     "wof:id":101750479,
-    "wof:lastmodified":1563336556,
+    "wof:lastmodified":1566630905,
     "wof:name":"Great Yarmouth",
     "wof:parent_id":1360698955,
     "wof:placetype":"locality",

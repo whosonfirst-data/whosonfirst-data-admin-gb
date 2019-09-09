@@ -12,8 +12,10 @@
     "gn:latitude":53.0,
     "gn:longitude":-1.85,
     "iso:country":"GB",
+    "lbl:bbox":"-2.107635,52.52876,-2.097635,52.53876",
     "lbl:latitude":52.53376,
     "lbl:longitude":-2.102635,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.529549,
     "mps:longitude":-2.111644,
     "mz:hierarchy_label":0,
@@ -29,9 +31,8 @@
     "name:eng_x_preferred":[
         "Woodsetton"
     ],
-    "name:unk_x_variant":[
-        "Wootton",
-        "Woodsetton"
+    "name:und_x_variant":[
+        "Wootton"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -61,22 +62,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":277,
     "wof:belongsto":[
-        1360698605,
         102191581,
         1360817295,
         85633159,
         404227469,
         1125917795,
-        1360698933
+        1360698933,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2633573,
         "gp:id":41014,
-        "qs:id":992258,
         "qs_pg:id":992258,
         "wd:id":"Q8033298"
     },
@@ -98,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699581,
+    "wof:lastmodified":1566627785,
     "wof:name":"Woodsetton",
     "wof:parent_id":1125917795,
     "wof:placetype":"neighbourhood",

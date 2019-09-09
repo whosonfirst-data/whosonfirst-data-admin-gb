@@ -11,8 +11,10 @@
     "geom:longitude":-0.248186,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.253186,52.565987,-0.243186,52.575987",
     "lbl:latitude":52.570987,
     "lbl:longitude":-0.248186,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.554853,
     "mps:longitude":-0.246961,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Old Fletton"
-    ],
-    "name:unk_x_variant":[
         "Old Fletton"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -57,19 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698535,
         102191581,
         85633159,
         404227469,
         101750461,
-        1360698773
+        1360698773,
+        1360698535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":30917,
-        "qs:id":889698,
         "qs_pg:id":889698
     },
     "wof:country":"GB",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542396522,
+    "wof:lastmodified":1566627581,
     "wof:name":"Old Fletton",
     "wof:parent_id":101750461,
     "wof:placetype":"neighbourhood",

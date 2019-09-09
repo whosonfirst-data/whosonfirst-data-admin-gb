@@ -9,12 +9,15 @@
     "geom:bbox":"0.418028651667,51.82881678,0.519289271597,51.8798554176",
     "geom:latitude":51.856109,
     "geom:longitude":0.462019,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":51.857262,
     "lbl:longitude":0.437307,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ab\u09c7\u09b2\u09b8\u099f\u09c7\u09a1"
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1125875865,
-    "wof:lastmodified":1563341135,
+    "wof:lastmodified":1566635116,
     "wof:name":"Felsted",
     "wof:parent_id":404437693,
     "wof:placetype":"locality",

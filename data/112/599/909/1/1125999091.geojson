@@ -9,14 +9,18 @@
     "geom:bbox":"-4.14083,55.07356,-4.14083,55.07356",
     "geom:latitude":55.07356,
     "geom:longitude":-4.14083,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-4.16083,55.05356,-4.12083,55.09356",
     "lbl:latitude":55.07356,
     "lbl:longitude":-4.14083,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "New Galloway"
@@ -45,7 +49,7 @@
     "name:rus_x_preferred":[
         "\u041d\u044c\u044e-\u0413\u0430\u043b\u043b\u043e\u0432\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Galloway"
     ],
     "qs_pg:aaroncc":"GB",
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":29926,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":1125999091,
-    "wof:lastmodified":1563341257,
+    "wof:lastmodified":1566635190,
     "wof:name":"New Galloway",
     "wof:parent_id":404444245,
     "wof:placetype":"locality",

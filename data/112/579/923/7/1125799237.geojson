@@ -9,15 +9,17 @@
     "geom:bbox":"0.234104074178,52.2244089617,0.357428783511,52.305627037",
     "geom:latitude":52.261585,
     "geom:longitude":0.292376,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":841,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.25245,
     "lbl:longitude":0.30066,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0641\u0641\u0647\u0645 \u0628\u0631\u064a\u0631"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125799237,
-    "wof:lastmodified":1563342923,
+    "wof:lastmodified":1566636224,
     "wof:name":"Swaffham Prior",
     "wof:parent_id":404452885,
     "wof:placetype":"locality",

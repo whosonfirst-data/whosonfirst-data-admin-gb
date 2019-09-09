@@ -9,14 +9,17 @@
     "geom:bbox":"-0.41044,51.18736,-0.41044,51.18736",
     "geom:latitude":51.18736,
     "geom:longitude":-0.41044,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-0.41544,51.18236,-0.40544,51.19236",
     "lbl:latitude":51.18736,
     "lbl:longitude":-0.41044,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Holmbury St Mary"
@@ -39,7 +42,7 @@
     "name:pol_x_preferred":[
         "Holmbury St Mary"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Holmbury"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":23704,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1360800025,
-    "wof:lastmodified":1563335071,
+    "wof:lastmodified":1566629616,
     "wof:name":"Holmbury St. Mary",
     "wof:parent_id":1125962219,
     "wof:placetype":"neighbourhood",

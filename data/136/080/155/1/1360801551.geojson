@@ -9,14 +9,17 @@
     "geom:bbox":"-2.76876,51.41138,-2.76876,51.41138",
     "geom:latitude":51.41138,
     "geom:longitude":-2.76876,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.77376,51.40638,-2.76376,51.41638",
     "lbl:latitude":51.41138,
     "lbl:longitude":-2.76876,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Chelvey"
@@ -45,19 +48,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":15792,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698589,
         102191581,
         404431125,
         85633159,
         404227469,
         1327058779,
-        1360699111
+        1360699111,
+        1360698589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1360801551,
-    "wof:lastmodified":1547728139,
+    "wof:lastmodified":1566629462,
     "wof:name":"Chelvey",
     "wof:parent_id":1327058779,
     "wof:placetype":"neighbourhood",

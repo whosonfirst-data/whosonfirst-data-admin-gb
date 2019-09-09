@@ -9,15 +9,17 @@
     "geom:bbox":"-2.24781261824,52.6048598566,-2.16762933897,52.6476537502",
     "geom:latitude":52.626168,
     "geom:longitude":-2.208244,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11548,
-    "gn:population":11673,
+    "gn:country":null,
+    "gn:fcode":"PPL",
+    "gn:population":11548,
     "iso:country":"GB",
     "lbl:latitude":52.627918,
     "lbl:longitude":-2.199711,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09a1\u09b8\u09cd\u09af\u09be\u09b2"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":1125783213,
-    "wof:lastmodified":1563342870,
+    "wof:lastmodified":1566636194,
     "wof:name":"Codsall",
     "wof:parent_id":404450243,
     "wof:placetype":"locality",

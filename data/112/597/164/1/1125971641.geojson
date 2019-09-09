@@ -9,15 +9,17 @@
     "geom:bbox":"-2.67761683,53.6884698109,-2.62722818208,53.7181187246",
     "geom:latitude":53.702151,
     "geom:longitude":-2.651282,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14528,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":14528,
     "iso:country":"GB",
     "lbl:latitude":53.69689,
     "lbl:longitude":-2.66818,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b2\u09c7\u099f\u09a8 \u09b2\u09c7-\u0989\u09a1\u09b8"
@@ -53,7 +55,7 @@
         "\u0c95\u0ccd\u0cb2\u0cc7\u0c9f\u0ca8\u0ccd-\u0cb2\u0cc6-\u0cb5\u0cc1\u0ca1\u0ccd\u0cb8\u0ccd"
     ],
     "name:kor_x_preferred":[
-        "\ud074\ub808\uc774\ud134  \ub808 \uc6b0\uc988"
+        "\ud074\ub808\uc774\ud134 \ub808 \uc6b0\uc988"
     ],
     "name:lit_x_preferred":[
         "Kleiton le Vudas"
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1125971641,
-    "wof:lastmodified":1563341767,
+    "wof:lastmodified":1566635504,
     "wof:name":"Clayton-le-Woods",
     "wof:parent_id":404445385,
     "wof:placetype":"locality",

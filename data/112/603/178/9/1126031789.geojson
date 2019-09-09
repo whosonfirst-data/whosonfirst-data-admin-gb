@@ -9,14 +9,18 @@
     "geom:bbox":"-4.05,55.01667,-4.05,55.01667",
     "geom:latitude":55.01667,
     "geom:longitude":-4.05,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-4.07,54.99667,-4.03,55.03667",
     "lbl:latitude":55.01667,
     "lbl:longitude":-4.05,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Parton"
@@ -31,9 +35,6 @@
         "Parton"
     ],
     "name:nld_x_preferred":[
-        "Parton"
-    ],
-    "name:unk_x_variant":[
         "Parton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -53,7 +54,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":31510,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1126031789,
-    "wof:lastmodified":1563340415,
+    "wof:lastmodified":1566634673,
     "wof:name":"Patterton",
     "wof:parent_id":404444245,
     "wof:placetype":"locality",

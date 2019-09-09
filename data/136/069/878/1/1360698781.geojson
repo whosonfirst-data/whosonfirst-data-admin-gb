@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":53.075456,
     "lbl:longitude":-3.350364,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.075456,
     "mps:longitude":-3.350364,
     "mz:hierarchy_label":1,
@@ -245,9 +247,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"844",
     "statoids:area_mi":"326",
     "statoids:as_of_date":"2011-03-27",
@@ -288,10 +290,6 @@
         }
     ],
     "wof:id":1360698781,
-    "wof:lang":[
-        "eng",
-        "wel"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
@@ -301,11 +299,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563336031,
+    "wof:lastmodified":1566630651,
     "wof:name":"Denbighshire",
     "wof:parent_id":1360698637,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary authority",
     "wof:population":93734,
     "wof:population_rank":8,

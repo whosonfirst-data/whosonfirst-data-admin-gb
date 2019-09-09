@@ -9,15 +9,17 @@
     "geom:bbox":"0.602014787641,51.6350955412,0.716025666313,51.7094730612",
     "geom:latitude":51.682057,
     "geom:longitude":0.663442,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":526,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.68724,
     "lbl:longitude":0.65832,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041f\u0443\u0440\u043b\u0435\u0438\u0433\u0445"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125996859,
-    "wof:lastmodified":1563341366,
+    "wof:lastmodified":1566635252,
     "wof:name":"Purleigh",
     "wof:parent_id":404430999,
     "wof:placetype":"locality",

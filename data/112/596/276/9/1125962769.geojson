@@ -9,15 +9,17 @@
     "geom:bbox":"-2.05576346913,51.6937599277,-1.94287318536,51.7394313194",
     "geom:latitude":51.719616,
     "geom:longitude":-1.994794,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16214,
-    "gn:population":17153,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":16214,
     "iso:country":"GB",
     "lbl:latitude":51.71708,
     "lbl:longitude":-1.96825,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ang_x_preferred":[
         "Cirenceaster"
@@ -121,7 +123,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0440\u0435\u043d\u0447\u0435\u0441\u0442\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cicester"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +159,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -196,7 +198,7 @@
         }
     ],
     "wof:id":1125962769,
-    "wof:lastmodified":1563341973,
+    "wof:lastmodified":1566635638,
     "wof:name":"Cirencester",
     "wof:parent_id":404453915,
     "wof:placetype":"locality",

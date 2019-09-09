@@ -9,14 +9,17 @@
     "geom:bbox":"-2.26761076974,53.9412239713,-2.18452557572,53.9701145556",
     "geom:latitude":53.952728,
     "geom:longitude":-2.220435,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM4",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"ADM4",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.95566,
     "lbl:longitude":-2.22606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Horton"
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125842917,
-    "wof:lastmodified":1563343111,
+    "wof:lastmodified":1566636320,
     "wof:name":"Horton",
     "wof:parent_id":404445425,
     "wof:placetype":"locality",

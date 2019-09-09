@@ -9,14 +9,17 @@
     "geom:bbox":"-2.61614744675,54.0203900138,-2.46399983343,54.1261989878",
     "geom:latitude":54.078968,
     "geom:longitude":-2.526233,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM4",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"ADM4",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.07329,
     "lbl:longitude":-2.54006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0430\u0442\u0445\u0430\u043c"
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125986735,
-    "wof:lastmodified":1563342215,
+    "wof:lastmodified":1566635770,
     "wof:name":"Tatham",
     "wof:parent_id":404453047,
     "wof:placetype":"locality",

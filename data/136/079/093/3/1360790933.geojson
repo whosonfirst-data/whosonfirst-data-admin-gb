@@ -10,12 +10,15 @@
     "geom:latitude":52.797624,
     "geom:longitude":-0.062312,
     "iso:country":"GB",
+    "lbl:bbox":"-0.067312,52.792624,-0.057312,52.802624",
     "lbl:latitude":52.797624,
     "lbl:longitude":-0.062311,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.797624,
     "mps:longitude":-0.062311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:cym_x_preferred":[
         "Moulton"
     ],
@@ -56,7 +59,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.798,
     "wd:longitude":-0.062948,
     "wd:wordcount":816,
@@ -74,10 +77,12 @@
         "fct:id":"0aa415bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2642125,
         "gp:id":29454,
-        "qs:id":1033834,
         "qs_pg:id":246888,
         "wd:id":"Q6919037",
         "wk:page":"Moulton, Lincolnshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1033834
     },
     "wof:country":"GB",
     "wof:geomhash":"49dba066112fc6faee323242422c3e39",
@@ -97,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563333678,
+    "wof:lastmodified":1566628789,
     "wof:name":"Moulton",
     "wof:parent_id":1293716157,
     "wof:placetype":"neighbourhood",

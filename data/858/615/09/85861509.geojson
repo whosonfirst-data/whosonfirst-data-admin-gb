@@ -9,12 +9,13 @@
     "geom:bbox":"-3.21395194396,55.9445858818,-3.1990814209,55.9522754761",
     "geom:latitude":55.94861,
     "geom:longitude":-3.206161,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":55.950093,
     "lbl:longitude":-3.211269,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.948431,
     "mps:longitude":-3.20667,
     "mz:hierarchy_label":1,
@@ -69,9 +70,6 @@
     "name:swe_x_preferred":[
         "West End"
     ],
-    "name:unk_x_variant":[
-        "West End"
-    ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2645970,
@@ -121,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         404437279,
@@ -135,7 +133,6 @@
     "wof:concordances":{
         "gn:id":7644906,
         "gp:id":20094277,
-        "qs:id":1026449,
         "qs_pg:id":1018762
     },
     "wof:concordances_alt":{
@@ -160,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564152225,
+    "wof:lastmodified":1566627881,
     "wof:name":"West End",
     "wof:parent_id":101750629,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"-4.33516436108,50.6168010205,-4.23996355039,50.6690015519",
     "geom:latitude":50.643624,
     "geom:longitude":-4.285625,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1180,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.64356,
     "lbl:longitude":-4.28216,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Lifton"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125998655,
-    "wof:lastmodified":1563341391,
+    "wof:lastmodified":1566635265,
     "wof:name":"Lifton",
     "wof:parent_id":404449781,
     "wof:placetype":"locality",

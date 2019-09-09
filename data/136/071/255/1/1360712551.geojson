@@ -11,12 +11,15 @@
     "geom:longitude":-3.828651,
     "gn:population":15037,
     "iso:country":"GB",
+    "lbl:bbox":"-3.833651,53.31654,-3.823651,53.32654",
     "lbl:latitude":53.321542,
     "lbl:longitude":-3.82865,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.321542,
     "mps:longitude":-3.82865,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u062e\u0644\u0646\u062f\u062f\u0646\u0648"
     ],
@@ -168,7 +171,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2781,
     "wof:belongsto":[
@@ -184,10 +187,12 @@
     "wof:concordances":{
         "gn:id":2644118,
         "gp:id":26852,
-        "qs:id":1036944,
         "qs_pg:id":896426,
         "wd:id":"Q996492",
         "wk:page":"Llandudno"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036944
     },
     "wof:country":"GB",
     "wof:geomhash":"64e3a10b43082020490ad5f77924b540",
@@ -204,7 +209,7 @@
         }
     ],
     "wof:id":1360712551,
-    "wof:lastmodified":1563334208,
+    "wof:lastmodified":1566629090,
     "wof:name":"Llandudno",
     "wof:parent_id":1242813209,
     "wof:placetype":"neighbourhood",

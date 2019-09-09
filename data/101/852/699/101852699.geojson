@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.320984,
     "lbl:longitude":-2.208746,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.320984,
     "mps:longitude":-2.208746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u0628\u0631\u064a\u062f\u062c"
     ],
@@ -165,7 +168,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360698611,
         102191581,
@@ -178,10 +181,12 @@
     "wof:concordances":{
         "gn:id":2635427,
         "gp:id":38271,
-        "qs:id":1036795,
-        "qs_pg:id":1073893,
+        "qs_pg:id":1036795,
         "wd:id":"Q265647",
         "wk:page":"Trowbridge"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073893
     },
     "wof:coterminous":[
         404443955
@@ -200,7 +205,7 @@
         }
     ],
     "wof:id":101852699,
-    "wof:lastmodified":1563337028,
+    "wof:lastmodified":1566631084,
     "wof:name":"Trowbridge",
     "wof:parent_id":404443955,
     "wof:placetype":"locality",

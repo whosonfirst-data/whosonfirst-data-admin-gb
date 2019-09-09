@@ -9,15 +9,17 @@
     "geom:bbox":"-1.90899409724,50.9171715788,-1.8272033087,50.9738100704",
     "geom:latitude":50.944531,
     "geom:longitude":-1.868919,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":225,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.94514,
     "lbl:longitude":-1.85021,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Damerham"
@@ -46,7 +48,7 @@
     "name:swe_x_preferred":[
         "Damerham"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "South Damerham"
     ],
     "qs_pg:aaroncc":"GB",
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125932867,
-    "wof:lastmodified":1563339628,
+    "wof:lastmodified":1566634158,
     "wof:name":"Damerham",
     "wof:parent_id":404448505,
     "wof:placetype":"locality",

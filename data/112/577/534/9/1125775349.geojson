@@ -9,14 +9,17 @@
     "geom:bbox":"0.210945955802,52.1789796832,0.311024204469,52.2160897106",
     "geom:latitude":52.200331,
     "geom:longitude":0.265225,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.20366,
     "lbl:longitude":0.25698,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0644 \u0648\u064a\u0644\u0628\u0631\u0647\u0645"
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125775349,
-    "wof:lastmodified":1563343145,
+    "wof:lastmodified":1566636338,
     "wof:name":"Little Wilbraham",
     "wof:parent_id":404435117,
     "wof:placetype":"locality",

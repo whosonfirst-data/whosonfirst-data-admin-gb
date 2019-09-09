@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":55.936992,
     "lbl:longitude":-4.738248,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.936992,
     "mps:longitude":-4.738248,
     "mz:hierarchy_label":1,
@@ -277,7 +279,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.95,
     "wd:longitude":-4.766667,
     "wd:wordcount":6101,
@@ -293,7 +295,6 @@
     "wof:concordances":{
         "gn:id":2647948,
         "gp:id":21824,
-        "qs:id":1037000,
         "qs_pg:id":1037000,
         "wd:id":"Q217831",
         "wk:page":"Greenock"
@@ -312,7 +313,7 @@
         }
     ],
     "wof:id":101750635,
-    "wof:lastmodified":1563336574,
+    "wof:lastmodified":1566630909,
     "wof:name":"Greenock",
     "wof:parent_id":404455299,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"0.842323378737,52.5399886854,0.889841171763,52.5696442419",
     "geom:latitude":52.556084,
     "geom:longitude":0.865682,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1206,
-    "gn:population":1540,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1206,
     "iso:country":"GB",
     "lbl:latitude":52.5572,
     "lbl:longitude":0.86436,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Griston"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125952575,
-    "wof:lastmodified":1563339801,
+    "wof:lastmodified":1566634279,
     "wof:name":"Griston",
     "wof:parent_id":404429611,
     "wof:placetype":"locality",

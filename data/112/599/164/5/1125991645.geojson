@@ -9,14 +9,17 @@
     "geom:bbox":"0.531281202286,52.8507647887,0.591219466704,52.8686599794",
     "geom:latitude":52.859076,
     "geom:longitude":0.559132,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.86177,
     "lbl:longitude":0.54412,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0428\u0435\u0440\u043d\u0431\u043e\u0440\u043d\u0435"
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125991645,
-    "wof:lastmodified":1563341352,
+    "wof:lastmodified":1566635244,
     "wof:name":"Shernborne",
     "wof:parent_id":404442879,
     "wof:placetype":"locality",

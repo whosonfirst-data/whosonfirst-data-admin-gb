@@ -9,19 +9,23 @@
     "geom:bbox":"-2.46384,57.36798,-2.46384,57.36798",
     "geom:latitude":57.36798,
     "geom:longitude":-2.46384,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.48384,57.34798,-2.44384,57.38798",
     "lbl:latitude":57.36798,
     "lbl:longitude":-2.46384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eus_x_preferred":[
         "Meikle Wartle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wartle"
     ],
     "qs_pg:aaroncc":"GB",
@@ -45,7 +49,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28629,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1125964679,
-    "wof:lastmodified":1564159384,
+    "wof:lastmodified":1566635642,
     "wof:name":"Meikle Wartle",
     "wof:parent_id":404448747,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":-3.931324,
     "gn:population":33012,
     "iso:country":"GB",
+    "lbl:bbox":"-3.951324,56.094849,-3.911324,56.134849",
     "lbl:latitude":56.114847,
     "lbl:longitude":-3.931324,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.114847,
     "mps:longitude":-3.931324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ang_x_preferred":[
         "Striuelin"
     ],
@@ -253,7 +257,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":56.119444,
     "wd:longitude":-3.935833,
@@ -271,10 +275,12 @@
     "wof:concordances":{
         "gn:id":2637696,
         "gp:id":36134,
-        "qs:id":1036819,
-        "qs_pg:id":1066143,
+        "qs_pg:id":1036819,
         "wd:id":"Q182923",
         "wk:page":"Stirling"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1066143
     },
     "wof:country":"GB",
     "wof:geomhash":"fe8db7265f5cd7221d02148fd1f7ab7b",
@@ -290,7 +296,7 @@
         }
     ],
     "wof:id":101874203,
-    "wof:lastmodified":1563336116,
+    "wof:lastmodified":1566630748,
     "wof:name":"Stirling",
     "wof:parent_id":404433721,
     "wof:placetype":"locality",

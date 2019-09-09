@@ -9,15 +9,17 @@
     "geom:bbox":"-3.0021,51.07403,-3.0021,51.07403",
     "geom:latitude":51.07403,
     "geom:longitude":-3.0021,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":355,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.0071,51.06903,-2.9971,51.07903",
     "lbl:latitude":51.07403,
     "lbl:longitude":-3.0021,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ita_x_preferred":[
         "North Newton"
@@ -25,7 +27,7 @@
     "name:pol_x_preferred":[
         "North Newton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Newton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -49,7 +51,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":30523,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1360802387,
-    "wof:lastmodified":1564153958,
+    "wof:lastmodified":1566629576,
     "wof:name":"North Newton",
     "wof:parent_id":101852509,
     "wof:placetype":"neighbourhood",

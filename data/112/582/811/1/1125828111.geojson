@@ -9,15 +9,17 @@
     "geom:bbox":"-1.39779793117,52.8216854981,-1.31845344199,52.8690511595",
     "geom:latitude":52.84116,
     "geom:longitude":-1.355243,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6110,
-    "gn:population":6416,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":6110,
     "iso:country":"GB",
     "lbl:latitude":52.84291,
     "lbl:longitude":-1.34188,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b8\u09b2 \u09a1\u09a8\u09bf\u0982\u099f\u09a8"
@@ -83,12 +85,12 @@
         "Castle Donington"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc7\u0bb8\u0bcd\u0bb2\u0bc7  \u0b9f\u0bcb\u0ba9\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd"
+        "\u0b95\u0bc7\u0bb8\u0bcd\u0bb2\u0bc7 \u0b9f\u0bcb\u0ba9\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
-        "\u0c15\u0c3e\u0c38\u0c4d\u0c1f\u0c32\u0c4d  \u0c21\u0c4b\u0c28\u0c3f\u0c02\u0c17\u0c4d\u0c1f\u0c28\u0c4d"
+        "\u0c15\u0c3e\u0c38\u0c4d\u0c1f\u0c32\u0c4d \u0c21\u0c4b\u0c28\u0c3f\u0c02\u0c17\u0c4d\u0c1f\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Castle Donnington"
     ],
     "name:urd_x_preferred":[
@@ -121,7 +123,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":1125828111,
-    "wof:lastmodified":1563342554,
+    "wof:lastmodified":1566635976,
     "wof:name":"Castle Donington",
     "wof:parent_id":404454481,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.614117625584,53.0578565934,-0.518392807589,53.0904258822",
     "geom:latitude":53.073412,
     "geom:longitude":-0.562024,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":647,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.07588,
     "lbl:longitude":-0.55876,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Welbourn"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125768235,
-    "wof:lastmodified":1563342604,
+    "wof:lastmodified":1566636010,
     "wof:name":"Welbourn",
     "wof:parent_id":404442897,
     "wof:placetype":"locality",

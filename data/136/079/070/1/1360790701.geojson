@@ -10,12 +10,15 @@
     "geom:latitude":51.117942,
     "geom:longitude":-0.823949,
     "iso:country":"GB",
+    "lbl:bbox":"-0.828949,51.112942,-0.818949,51.122942",
     "lbl:latitude":51.117942,
     "lbl:longitude":-0.823948,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.117942,
     "mps:longitude":-0.823948,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u09a1\u09b2\u09bf"
     ],
@@ -96,7 +99,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.119239,
     "wd:longitude":-0.827122,
     "wd:wordcount":640,
@@ -114,10 +117,12 @@
         "fct:id":"0aa1f886-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2647237,
         "gp:id":22820,
-        "qs:id":1253468,
         "qs_pg:id":1251802,
         "wd:id":"Q2604951",
         "wk:page":"Headley, East Hampshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1253468
     },
     "wof:country":"GB",
     "wof:geomhash":"5fbd73819a17aa1c7f36db92447f1cc3",
@@ -137,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332928,
+    "wof:lastmodified":1566628415,
     "wof:name":"Headley",
     "wof:parent_id":1125964923,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-4.009785,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-4.014785,51.590449,-4.004785,51.600449",
     "lbl:latitude":51.595449,
     "lbl:longitude":-4.009785,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.596857,
     "mps:longitude":-4.023314,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Mayals"
-    ],
-    "name:unk_x_variant":[
         "Mayals"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,21 +58,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":411,
     "wof:belongsto":[
-        1360698629,
         102191581,
         404439035,
         85633159,
         404227475,
         1360711631,
-        1360699095
+        1360699095,
+        1360698629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28568,
-        "qs:id":1073583,
         "qs_pg:id":1073583,
         "wd:id":"Q15252253"
     },
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547728639,
+    "wof:lastmodified":1566627747,
     "wof:name":"Mayals",
     "wof:parent_id":1360711631,
     "wof:placetype":"neighbourhood",

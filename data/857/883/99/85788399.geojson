@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.406773,
     "lbl:longitude":-2.817045,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.406952,
     "mps:longitude":-2.805532,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Huyton Quarry"
-    ],
-    "name:unk_x_variant":[
         "Huyton Quarry"
     ],
     "qs:gn_fcode":"PPL",
@@ -56,20 +54,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698573,
         102191581,
         85633159,
         404227469,
         1360832423,
-        1360698941
+        1360698941,
+        1360698573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2646328,
         "gp:id":24255,
-        "qs:id":228263,
         "qs_pg:id":228263
     },
     "wof:country":"GB",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547717732,
+    "wof:lastmodified":1566627694,
     "wof:name":"Huyton Quarry",
     "wof:parent_id":1360832423,
     "wof:placetype":"neighbourhood",

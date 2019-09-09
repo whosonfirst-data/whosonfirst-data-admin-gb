@@ -9,16 +9,19 @@
     "geom:bbox":"-0.40267,53.43686,-0.40267,53.43686",
     "geom:latitude":53.43686,
     "geom:longitude":-0.40267,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-0.40767,53.43186,-0.39767,53.44186",
     "lbl:latitude":53.43686,
     "lbl:longitude":-0.40267,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Owersby"
     ],
     "qs_pg:aaroncc":"GB",
@@ -38,19 +41,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":35299,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698571,
         102191581,
         404434417,
         85633159,
         404227469,
         1360755745,
-        1360699067
+        1360699067,
+        1360698571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1360795607,
-    "wof:lastmodified":1547730300,
+    "wof:lastmodified":1566628323,
     "wof:name":"South Owersby",
     "wof:parent_id":1360755745,
     "wof:placetype":"neighbourhood",

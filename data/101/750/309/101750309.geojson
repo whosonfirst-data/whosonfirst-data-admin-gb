@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.740994,
     "lbl:longitude":-1.971466,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.7315,
     "mps:longitude":-1.938268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Poole"
     ],
@@ -219,7 +222,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.716667,
     "wd:longitude":-1.983333,
@@ -235,10 +238,12 @@
     "wof:concordances":{
         "gn:id":2640101,
         "gp:id":32326,
-        "qs:id":1036869,
-        "qs_pg:id":1073675,
+        "qs_pg:id":1036869,
         "wd:id":"Q203349",
         "wk:page":"Poole"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073675
     },
     "wof:country":"GB",
     "wof:geomhash":"e62df404c4bb274afd33cb6b073d52e0",
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":101750309,
-    "wof:lastmodified":1563336529,
+    "wof:lastmodified":1566630897,
     "wof:name":"Poole",
     "wof:parent_id":1360698905,
     "wof:placetype":"locality",

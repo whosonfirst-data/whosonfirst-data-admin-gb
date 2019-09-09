@@ -9,14 +9,17 @@
     "geom:bbox":"-1.60453293691,54.7892043351,-1.52501225194,54.8276294082",
     "geom:latitude":54.809018,
     "geom:longitude":-1.563453,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.8084,
     "lbl:longitude":-1.56478,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b0\u09c7\u09ae\u0993\u09af\u09bc\u09c7\u09b2\u0997\u09c7\u099f \u09ae\u09c1\u09b0"
@@ -67,7 +70,7 @@
         "Framwellgate Moor"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0bb0\u0bbe\u0bae\u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0b9f\u0bcd  \u0bae\u0bc2\u0bb0\u0bcd"
+        "\u0baa\u0bbf\u0bb0\u0bbe\u0bae\u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0b9f\u0bcd \u0bae\u0bc2\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c3e\u0c30\u0c4d\u0c2e\u0c4d \u0c35\u0c46\u0c32\u0c4d \u0c17\u0c47\u0c1f\u0c4d"
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1126013609,
-    "wof:lastmodified":1563342403,
+    "wof:lastmodified":1566635887,
     "wof:name":"Framwellgate Moor",
     "wof:parent_id":404433985,
     "wof:placetype":"locality",

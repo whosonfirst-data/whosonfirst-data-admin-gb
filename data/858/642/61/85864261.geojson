@@ -10,8 +10,10 @@
     "geom:latitude":51.604134,
     "geom:longitude":-2.931362,
     "iso:country":"GB",
+    "lbl:bbox":"-2.936362,51.599134,-2.926362,51.609134",
     "lbl:latitude":51.604134,
     "lbl:longitude":-2.931362,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.613108,
     "mps:longitude":-2.916387,
     "mz:hierarchy_label":0,
@@ -83,9 +85,6 @@
     "name:tel_x_preferred":[
         "\u0c30\u0c3f\u0c02\u0c17\u0c4d \u0c32\u0c4d\u0c2f\u0c3e\u0c02\u0c21\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Ringland"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0646\u062c\u0644\u06cc\u0646\u0688"
     ],
@@ -119,7 +118,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":102,
     "wof:belongsto":[
         102191581,
@@ -134,7 +133,6 @@
     "wof:concordances":{
         "gn:id":7298350,
         "gp:id":22526042,
-        "qs:id":212386,
         "qs_pg:id":212386,
         "wd:id":"Q7334910",
         "wk:page":"Ringland, Newport"
@@ -157,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332230,
+    "wof:lastmodified":1566627836,
     "wof:name":"Ringland",
     "wof:parent_id":101852751,
     "wof:placetype":"neighbourhood",

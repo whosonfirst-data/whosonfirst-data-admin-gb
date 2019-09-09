@@ -9,15 +9,17 @@
     "geom:bbox":"-4.48690123439,50.3318130922,-4.43545318576,50.3739680966",
     "geom:latitude":50.352727,
     "geom:longitude":-4.460217,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5398,
-    "gn:population":5112,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":5398,
     "iso:country":"GB",
     "lbl:latitude":50.35778,
     "lbl:longitude":-4.45418,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0644\u0648"
@@ -145,7 +147,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":1126033919,
-    "wof:lastmodified":1563340275,
+    "wof:lastmodified":1566634588,
     "wof:name":"Looe",
     "wof:parent_id":404441063,
     "wof:placetype":"locality",

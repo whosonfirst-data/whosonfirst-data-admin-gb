@@ -9,15 +9,17 @@
     "geom:bbox":"-3.56406352283,51.6389102315,-3.48684886528,51.6864212477",
     "geom:latitude":51.658894,
     "geom:longitude":-3.522651,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8105,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":8105,
     "iso:country":"GB",
     "lbl:latitude":51.65958,
     "lbl:longitude":-3.50587,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09b0\u09c1\u09c7\u09b0\u09cb\u0987\u099a\u09bf"
@@ -106,7 +108,7 @@
     "name:tgk_x_preferred":[
         "\u0422\u0440\u0435\u0430\u0440\u0445\u0438\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Treorky"
     ],
     "name:urd_x_preferred":[
@@ -135,7 +137,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":38117,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":1125839917,
-    "wof:lastmodified":1563343218,
+    "wof:lastmodified":1566636379,
     "wof:name":"Treorchy",
     "wof:parent_id":404451187,
     "wof:placetype":"locality",

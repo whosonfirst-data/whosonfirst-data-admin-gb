@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.539505,
     "lbl:longitude":-0.988991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.539505,
     "mps:longitude":-0.988991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cym_x_preferred":[
         "Kibworth"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Kibworth"
     ],
-    "name:unk_x_variant":[
-        "Kibworth"
-    ],
     "qs:a0":"United Kingdom",
     "qs:a1":"*Leicestershire",
     "qs:a1_lc":"GB12310000",
@@ -67,7 +67,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698569,
@@ -82,7 +82,6 @@
         "fct:id":"0aa2a42a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2645728,
         "gp:id":24904,
-        "qs:id":140782,
         "qs_pg:id":140782,
         "wd:id":"Q6404098",
         "wk:page":"Kibworth"
@@ -107,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336789,
+    "wof:lastmodified":1566630985,
     "wof:name":"Kibworth Harcourt",
     "wof:parent_id":404447023,
     "wof:placetype":"locality",

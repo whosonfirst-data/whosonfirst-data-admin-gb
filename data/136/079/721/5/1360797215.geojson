@@ -9,12 +9,15 @@
     "geom:bbox":"-3.544893,54.588054,-3.544893,54.588054",
     "geom:latitude":54.588054,
     "geom:longitude":-3.544893,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-3.549893,54.583054,-3.539893,54.593054",
     "lbl:latitude":54.588054,
     "lbl:longitude":-3.544893,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Common End"
@@ -37,19 +40,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20091584,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698721,
         102191581,
         404455241,
         85633159,
         404227469,
         101873411,
-        1360698877
+        1360698877,
+        1360698721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1360797215,
-    "wof:lastmodified":1547718817,
+    "wof:lastmodified":1566628824,
     "wof:name":"Common End",
     "wof:parent_id":101873411,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-0.83333,52.36667,-0.83333,52.36667",
     "geom:latitude":52.36667,
     "geom:longitude":-0.83333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-0.83833,52.36167,-0.82833,52.37167",
     "lbl:latitude":52.36667,
     "lbl:longitude":-0.83333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Faxton"
@@ -42,19 +45,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20002,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698577,
         102191581,
         404446251,
         85633159,
         404227469,
         1360753495,
-        1360698755
+        1360698755,
+        1360698577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1360797265,
-    "wof:lastmodified":1547729085,
+    "wof:lastmodified":1566628819,
     "wof:name":"Faxton",
     "wof:parent_id":1360753495,
     "wof:placetype":"neighbourhood",

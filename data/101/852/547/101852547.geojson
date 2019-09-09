@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.376879,
     "lbl:longitude":-0.856097,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.376879,
     "mps:longitude":-0.856097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0648\u0648\u0643\u064a\u0646\u063a\u0647\u0627\u0645"
     ],
@@ -157,7 +160,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.41,
     "wd:longitude":-0.84,
@@ -174,10 +177,12 @@
     "wof:concordances":{
         "gn:id":2633708,
         "gp:id":40831,
-        "qs:id":278976,
-        "qs_pg:id":452762,
+        "qs_pg:id":278976,
         "wd:id":"Q1000679",
         "wk:page":"Wokingham"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":452762
     },
     "wof:coterminous":[
         404435875
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":101852547,
-    "wof:lastmodified":1563337054,
+    "wof:lastmodified":1566631092,
     "wof:name":"Wokingham",
     "wof:parent_id":404441171,
     "wof:placetype":"locality",

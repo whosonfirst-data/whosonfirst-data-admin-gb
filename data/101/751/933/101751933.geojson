@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":54.511331,
     "lbl:longitude":-6.058482,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":54.511331,
     "mps:longitude":-6.058482,
     "mz:hierarchy_label":1,
@@ -172,9 +174,6 @@
     "name:tur_x_preferred":[
         "Lisburn"
     ],
-    "name:unk_x_variant":[
-        "Lios na gCearrbhach"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0633\u0628\u0631\u0646"
     ],
@@ -265,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.516667,
     "wd:longitude":-6.033333,
@@ -282,10 +281,12 @@
         "fips:code":"UK69",
         "gn:id":2644411,
         "gp:id":44951,
-        "qs:id":279009,
-        "qs_pg:id":1074012,
+        "qs_pg:id":279009,
         "wd:id":"Q1828035",
         "wk:page":"Lisburn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074012
     },
     "wof:country":"GB",
     "wof:geomhash":"90b364bc60582290b7f3f576e3815520",
@@ -300,7 +301,7 @@
         }
     ],
     "wof:id":101751933,
-    "wof:lastmodified":1563336515,
+    "wof:lastmodified":1566630894,
     "wof:name":"Lisburn",
     "wof:parent_id":1360699237,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.992395594544,53.5832476443,-0.865314443971,53.6591146791",
     "geom:latitude":53.624167,
     "geom:longitude":-0.93287,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":17295,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.61122,
     "lbl:longitude":-0.96308,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Thorne"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":1125781889,
-    "wof:lastmodified":1564159569,
+    "wof:lastmodified":1566636131,
     "wof:name":"Thorne",
     "wof:parent_id":404431573,
     "wof:placetype":"locality",

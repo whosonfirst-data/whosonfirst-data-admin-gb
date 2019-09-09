@@ -10,8 +10,10 @@
     "geom:latitude":50.354313,
     "geom:longitude":-4.120212,
     "iso:country":"GB",
+    "lbl:bbox":"-4.125212,50.349313,-4.115212,50.359313",
     "lbl:latitude":50.354313,
     "lbl:longitude":-4.120212,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.353055,
     "mps:longitude":-4.122732,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Turnchapel"
-    ],
-    "name:unk_x_variant":[
         "Turnchapel"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698541,
         102191581,
         85633159,
         404227469,
         101750297,
-        1360698841
+        1360698841,
+        1360698541
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2635340,
         "gp:id":38351,
-        "qs:id":1284710,
         "qs_pg:id":1284710
     },
     "wof:country":"GB",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542398355,
+    "wof:lastmodified":1566627756,
     "wof:name":"Turnchapel",
     "wof:parent_id":101750297,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.376221,
     "lbl:longitude":-0.220519,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.373477,
     "mps:longitude":-0.217638,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "N Cheam"
-    ],
-    "name:unk_x_variant":[
-        "North Cheam"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
@@ -66,20 +64,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857303
+        1158857303,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089496,
-        "qs:id":220170,
         "qs_pg:id":220170
     },
     "wof:country":"GB",
@@ -99,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206420,
+    "wof:lastmodified":1566627856,
     "wof:name":"North Cheam",
     "wof:parent_id":1158857303,
     "wof:placetype":"neighbourhood",

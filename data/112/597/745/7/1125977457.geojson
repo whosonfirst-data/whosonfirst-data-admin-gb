@@ -9,15 +9,18 @@
     "geom:bbox":"-4.45567,55.92241,-4.45567,55.92241",
     "geom:latitude":55.92241,
     "geom:longitude":-4.45567,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3528,
-    "gn:population":4850,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":3528,
     "iso:country":"GB",
+    "lbl:bbox":"-4.47567,55.90241,-4.43567,55.94241",
     "lbl:latitude":55.92241,
     "lbl:longitude":-4.45567,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b2\u09aa\u09cd\u09af\u09be\u099f\u09cd\u09b0\u09bf\u0995"
@@ -83,12 +86,12 @@
         "Old Kilpatrick"
     ],
     "name:tam_x_preferred":[
-        "\u0b93\u0bb2\u0bcd\u0b9f\u0bcd  \u0b95\u0bbf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd"
+        "\u0b93\u0bb2\u0bcd\u0b9f\u0bcd \u0b95\u0bbf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c32\u0c4d\u0c21\u0c4d \u0c15\u0c3f\u0c32\u0c4d\u0c2a\u0c1f\u0c4d\u0c30\u0c3f\u0c15\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "West Kilpatrick"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +118,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":30931,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1125977457,
-    "wof:lastmodified":1563341877,
+    "wof:lastmodified":1566635577,
     "wof:name":"Old Kilpatrick",
     "wof:parent_id":404444819,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.949618,
     "lbl:longitude":-1.147547,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.987862,
     "mps:longitude":-1.220629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Nottingham"
     ],
@@ -302,7 +305,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0442\u0442\u0456\u043d\u0433\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cottingham"
     ],
     "name:urd_x_preferred":[
@@ -363,9 +366,11 @@
     "wof:concordances":{
         "gn:id":2641170,
         "gp:id":30720,
-        "qs:id":4,
-        "qs_pg:id":1340366,
+        "qs_pg:id":4,
         "wd:id":"Q41262"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1340366
     },
     "wof:country":"GB",
     "wof:geomhash":"7c318d69fcdaa873c465a0753a7810c1",
@@ -380,7 +385,7 @@
         }
     ],
     "wof:id":1175612705,
-    "wof:lastmodified":1563332674,
+    "wof:lastmodified":1566628263,
     "wof:name":"Nottingham",
     "wof:parent_id":1360698801,
     "wof:placetype":"locality",

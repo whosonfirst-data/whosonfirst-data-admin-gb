@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.745281,
     "lbl:longitude":-3.883887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.745282,
     "mps:longitude":-3.883887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Dolgellau"
     ],
@@ -101,9 +104,6 @@
     "name:swe_x_preferred":[
         "Dolgellau"
     ],
-    "name:unk_x_variant":[
-        "Dolgelley"
-    ],
     "name:zho_x_preferred":[
         "\u591a\u723e\u84cb\u840a"
     ],
@@ -128,7 +128,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.742972,
     "wd:longitude":-3.88375,
     "wd:wordcount":2183,
@@ -145,7 +145,6 @@
         "fct:id":"0aa6767c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2651154,
         "gp:id":18293,
-        "qs:id":974280,
         "qs_pg:id":974280,
         "wd:id":"Q1235510",
         "wk:page":"Dolgellau"
@@ -170,7 +169,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336753,
+    "wof:lastmodified":1566630968,
     "wof:name":"Dolgellau",
     "wof:parent_id":404439501,
     "wof:placetype":"locality",

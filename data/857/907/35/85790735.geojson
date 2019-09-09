@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":52.4292,
     "lbl:longitude":-1.918355,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.428461,
     "mps:longitude":-1.910123,
     "mz:hierarchy_label":1,
@@ -51,9 +52,6 @@
     "name:swe_x_preferred":[
         "Tirley"
     ],
-    "name:unk_x_variant":[
-        "Stirchley"
-    ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2655604,
@@ -83,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -96,7 +94,6 @@
     "wof:concordances":{
         "gn:id":2635779,
         "gp:id":36131,
-        "qs:id":898462,
         "qs_pg:id":898462,
         "wd:id":"Q7809238",
         "wk:page":"Tirley"
@@ -118,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331586,
+    "wof:lastmodified":1566627499,
     "wof:name":"Stirchley",
     "wof:parent_id":101750467,
     "wof:placetype":"neighbourhood",

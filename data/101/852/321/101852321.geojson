@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.594503,
     "lbl:longitude":-1.207249,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.594503,
     "mps:longitude":-1.207249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0646\u062a\u0646\u0648\u0631"
     ],
@@ -101,9 +104,6 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c02\u0c1f\u0c4d\u0c28\u0c30\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Jentnor"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u062a\u0646\u0648\u0631"
     ],
@@ -133,7 +133,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.5976,
     "wd:longitude":-1.2084,
@@ -151,10 +151,12 @@
         "fct:id":"0aa1214a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2634985,
         "gp:id":38871,
-        "qs:id":208656,
-        "qs_pg:id":1061671,
+        "qs_pg:id":208656,
         "wd:id":"Q1026673",
         "wk:page":"Ventnor"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1061671
     },
     "wof:coterminous":[
         404441445
@@ -176,7 +178,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563337076,
+    "wof:lastmodified":1566631097,
     "wof:name":"Ventnor",
     "wof:parent_id":404441445,
     "wof:placetype":"locality",

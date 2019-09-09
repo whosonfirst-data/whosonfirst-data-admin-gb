@@ -11,8 +11,10 @@
     "geom:longitude":-1.990104,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.995104,52.484071,-1.985104,52.494071",
     "lbl:latitude":52.489071,
     "lbl:longitude":-1.990104,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.489437,
     "mps:longitude":-2.003908,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Londonderry"
-    ],
-    "name:unk_x_variant":[
         "Londonderry"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698605,
         102191581,
         1360817335,
         85633159,
         404227469,
         1125938951,
-        1360699035
+        1360699035,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43169,
-        "qs:id":466335,
         "qs_pg:id":466335
     },
     "wof:country":"GB",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699753,
+    "wof:lastmodified":1566627778,
     "wof:name":"Londonderry",
     "wof:parent_id":1125938951,
     "wof:placetype":"neighbourhood",

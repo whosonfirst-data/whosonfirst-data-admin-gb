@@ -9,15 +9,17 @@
     "geom:bbox":"-2.23112756678,51.6863473891,-2.12375162557,51.7219869558",
     "geom:latitude":51.705945,
     "geom:longitude":-2.176357,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2500,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":2500,
     "iso:country":"GB",
     "lbl:latitude":51.70675,
     "lbl:longitude":-2.18502,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0646\u0686\u06cc\u0646\u0647\u0645\u067e\u062a\u0648\u0646"
@@ -121,7 +123,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":1125840485,
-    "wof:lastmodified":1563343011,
+    "wof:lastmodified":1566636271,
     "wof:name":"Minchinhampton",
     "wof:parent_id":404429453,
     "wof:placetype":"locality",

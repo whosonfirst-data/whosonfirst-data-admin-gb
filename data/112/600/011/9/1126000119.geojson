@@ -9,15 +9,17 @@
     "geom:bbox":"-2.69946988827,53.6032026489,-2.62216684747,53.6331973078",
     "geom:latitude":53.616053,
     "geom:longitude":-2.658127,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7417,
-    "gn:population":9014,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":7417,
     "iso:country":"GB",
     "lbl:latitude":53.62527,
     "lbl:longitude":-2.65854,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09aa\u09cd\u09aa\u09c1\u09b2"
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1126000119,
-    "wof:lastmodified":1563342505,
+    "wof:lastmodified":1566635944,
     "wof:name":"Coppull",
     "wof:parent_id":404451233,
     "wof:placetype":"locality",

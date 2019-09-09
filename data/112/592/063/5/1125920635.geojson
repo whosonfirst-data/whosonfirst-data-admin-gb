@@ -9,12 +9,15 @@
     "geom:bbox":"-1.24465790437,51.8397989762,-1.19534456449,51.885012006",
     "geom:latitude":51.866349,
     "geom:longitude":-1.219064,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":51.866528,
     "lbl:longitude":-1.235446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09a8-\u0985\u09a8-\u09a6\u09cd\u09af\u09be-\u0997\u09cd\u09b0\u09bf\u09a8"
@@ -35,7 +38,7 @@
         "\u30a6\u30a7\u30b9\u30c8\u30f3\u30fb\u30aa\u30f3\u30fb\u30b6\u30fb\u30b0\u30ea\u30fc\u30f3"
     ],
     "name:kan_x_preferred":[
-        "\u0cb5\u0cc6\u0cb8\u0ccd\u0c9f\u0ca8\u0ccd-\u0c86\u0ca8\u0ccd  -\u0ca6\u0cbf-\u0c97\u0ccd\u0cb0\u0cc0\u0ca8\u0ccd"
+        "\u0cb5\u0cc6\u0cb8\u0ccd\u0c9f\u0ca8\u0ccd-\u0c86\u0ca8\u0ccd -\u0ca6\u0cbf-\u0c97\u0ccd\u0cb0\u0cc0\u0ca8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc6e8\uc2a4\ud134-\uc628-\ub354-\uadf8\ub9b0"
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1125920635,
-    "wof:lastmodified":1561838288,
+    "wof:lastmodified":1566634229,
     "wof:name":"Weston on the Green",
     "wof:parent_id":404440061,
     "wof:placetype":"locality",

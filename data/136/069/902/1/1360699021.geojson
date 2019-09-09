@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":55.27177,
     "lbl:longitude":-4.68322,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.27177,
     "mps:longitude":-4.68322,
     "mz:hierarchy_label":1,
@@ -148,7 +150,7 @@
         "South Ayrshire"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b85\u0baf\u0bb0\u0bcd\u0bb8\u0bbf\u0bb0\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0baf\u0bb0\u0bcd\u0bb8\u0bbf\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c23 \u0c05\u0c2f\u0c3f\u0c30\u0c4d\u0c37\u0c48\u0c30\u0c4d"
@@ -177,9 +179,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"1,202",
     "statoids:area_mi":"464",
     "statoids:as_of_date":"2011-03-27",
@@ -232,11 +234,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563335995,
+    "wof:lastmodified":1566630630,
     "wof:name":"South Ayrshire",
     "wof:parent_id":1360698697,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary district",
     "wof:population":112799,
     "wof:population_rank":9,

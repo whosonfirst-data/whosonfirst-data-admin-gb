@@ -11,8 +11,10 @@
     "geom:longitude":-0.813446,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.818446,52.239222,-0.808446,52.249222",
     "lbl:latitude":52.244222,
     "lbl:longitude":-0.813446,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.243768,
     "mps:longitude":-0.813596,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Little Billing"
-    ],
-    "name:unk_x_variant":[
         "Little Billing"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698577,
         102191581,
         85633159,
         404227469,
         101750459,
-        1360698755
+        1360698755,
+        1360698577
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26397,
-        "qs:id":1153225,
         "qs_pg:id":1153225
     },
     "wof:country":"GB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698457,
+    "wof:lastmodified":1566627564,
     "wof:name":"Little Billing",
     "wof:parent_id":101750459,
     "wof:placetype":"neighbourhood",

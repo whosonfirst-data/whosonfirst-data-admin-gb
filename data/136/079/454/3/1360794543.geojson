@@ -9,15 +9,17 @@
     "geom:bbox":"-6.29894,49.92515,-6.29894,49.92515",
     "geom:latitude":49.92515,
     "geom:longitude":-6.29894,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":2100,
+    "gn:country":"GB",
+    "gn:fcode":"PPLL",
     "gn:population":2100,
     "iso:country":"GB",
+    "lbl:bbox":"-6.30394,49.92015,-6.29394,49.93015",
     "lbl:latitude":49.92515,
     "lbl:longitude":-6.29894,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Scilly-eilande"
@@ -217,7 +219,7 @@
     "qs_pg:qs_id":1246169,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -249,7 +251,7 @@
         }
     ],
     "wof:id":1360794543,
-    "wof:lastmodified":1564152877,
+    "wof:lastmodified":1566628502,
     "wof:name":"Isles of Scilly",
     "wof:parent_id":1126060067,
     "wof:placetype":"neighbourhood",

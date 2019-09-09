@@ -11,8 +11,10 @@
     "geom:longitude":-1.417739,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.422739,50.900195,-1.412739,50.910195",
     "lbl:latitude":50.905195,
     "lbl:longitude":-1.417739,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.886732,
     "mps:longitude":-1.462042,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Western Docks"
-    ],
-    "name:unk_x_variant":[
         "Western Docks"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698557,
         102191581,
         85633159,
         404227469,
         101750311,
-        1360698907
+        1360698907,
+        1360698557
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":39917,
-        "qs:id":312527,
         "qs_pg:id":312527
     },
     "wof:country":"GB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542399132,
+    "wof:lastmodified":1566627623,
     "wof:name":"Western Docks",
     "wof:parent_id":101750311,
     "wof:placetype":"neighbourhood",

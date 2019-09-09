@@ -11,12 +11,16 @@
     "geom:longitude":-6.247815,
     "gn:population":5566,
     "iso:country":"GB",
+    "lbl:bbox":"-6.267815,55.179737,-6.227815,55.219737",
     "lbl:latitude":55.199737,
     "lbl:longitude":-6.247814,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.199737,
     "mps:longitude":-6.247814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043a\u0430\u0441\u044a\u043b"
     ],
@@ -117,7 +121,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360699231,
@@ -130,10 +134,12 @@
     "wof:concordances":{
         "gn:id":2656531,
         "gp:id":44477,
-        "qs:id":140998,
-        "qs_pg:id":1074001,
+        "qs_pg:id":140998,
         "wd:id":"Q805405",
         "wk:page":"Ballycastle, County Antrim"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074001
     },
     "wof:country":"GB",
     "wof:geomhash":"51e3ebb39c5f02e192b2719e18179629",
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":101873885,
-    "wof:lastmodified":1563336254,
+    "wof:lastmodified":1566630796,
     "wof:name":"Ballycastle",
     "wof:parent_id":1360699231,
     "wof:placetype":"locality",

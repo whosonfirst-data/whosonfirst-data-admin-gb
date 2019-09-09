@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.231031,
     "lbl:longitude":-1.345682,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.231031,
     "mps:longitude":-1.345682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09af\u09bc\u09c7\u09b0\u09ac\u09bf"
     ],
@@ -92,7 +95,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.223519,
     "wd:longitude":-1.339261,
     "wd:wordcount":1365,
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gn:id":7300326,
         "gp:id":37278,
-        "qs:id":1040957,
+        "qs_pg:id":1040957,
         "wd:id":"Q2195282",
         "wk:page":"Sowerby, North Yorkshire"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101872313,
-    "wof:lastmodified":1561838066,
+    "wof:lastmodified":1566630838,
     "wof:name":"Sowerby",
     "wof:parent_id":404448295,
     "wof:placetype":"locality",

@@ -11,12 +11,15 @@
     "geom:longitude":-0.702739,
     "gn:population":6166,
     "iso:country":"GB",
+    "lbl:bbox":"-0.707739,52.153102,-0.697739,52.163102",
     "lbl:latitude":52.158102,
     "lbl:longitude":-0.702739,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.158102,
     "mps:longitude":-0.702739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0646\u064a"
     ],
@@ -101,7 +104,7 @@
     "name:tel_x_preferred":[
         "\u0c13\u0c32\u0c4d\u0c28\u0c3f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colne"
     ],
     "name:urd_x_preferred":[
@@ -133,7 +136,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -148,10 +151,12 @@
     "wof:concordances":{
         "gn:id":2652545,
         "gp:id":31036,
-        "qs:id":1036898,
-        "qs_pg:id":1212828,
+        "qs_pg:id":1036898,
         "wd:id":"Q2454052",
         "wk:page":"Olney, Buckinghamshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1212828
     },
     "wof:country":"GB",
     "wof:geomhash":"0d7f82fb512ece4a2d24cd9083d8b50b",
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":1360790915,
-    "wof:lastmodified":1563333009,
+    "wof:lastmodified":1566628452,
     "wof:name":"Olney",
     "wof:parent_id":1309941285,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.055622,
     "lbl:longitude":-3.070896,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.055622,
     "mps:longitude":-3.070896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Coedpoeth"
     ],
@@ -77,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.0547,
     "wd:longitude":-3.07417,
@@ -95,7 +98,6 @@
         "fct:id":"0aa64f12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2652648,
         "gp:id":16519,
-        "qs:id":238158,
         "qs_pg:id":238158,
         "wd:id":"Q5140559",
         "wk:page":"Coedpoeth"
@@ -120,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336715,
+    "wof:lastmodified":1566630951,
     "wof:name":"Coedpoeth",
     "wof:parent_id":404451749,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.111227,
     "lbl:longitude":-4.078174,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.111227,
     "mps:longitude":-4.078173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b2\u09cd\u09af\u09be\u09ae\u09cd\u09aa\u09c7\u099f\u09be\u09b0"
     ],
@@ -153,7 +156,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1388,
     "wof:belongsto":[
@@ -169,7 +172,6 @@
         "fct:id":"0aa65ac0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2644981,
         "gp:id":25694,
-        "qs:id":974589,
         "qs_pg:id":974589,
         "wd:id":"Q728477",
         "wk:page":"Lampeter"
@@ -194,7 +196,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336796,
+    "wof:lastmodified":1566630988,
     "wof:name":"Lampeter",
     "wof:parent_id":404429299,
     "wof:placetype":"locality",

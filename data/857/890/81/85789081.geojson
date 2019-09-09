@@ -11,8 +11,10 @@
     "geom:longitude":-0.549167,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.554167,51.518584,-0.544167,51.528584",
     "lbl:latitude":51.523584,
     "lbl:longitude":-0.549167,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.524872,
     "mps:longitude":-0.556367,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Middlegreen"
-    ],
-    "name:unk_x_variant":[
         "Middlegreen"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,21 +58,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":70,
     "wof:belongsto":[
-        1360698533,
         102191581,
         404452057,
         85633159,
         404227469,
         1360757713,
-        1360698997
+        1360698997,
+        1360698533
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28858,
-        "qs:id":1073593,
         "qs_pg:id":1073593,
         "wd:id":"Q6841797"
     },
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547731338,
+    "wof:lastmodified":1566627746,
     "wof:name":"Middlegreen",
     "wof:parent_id":1360757713,
     "wof:placetype":"neighbourhood",

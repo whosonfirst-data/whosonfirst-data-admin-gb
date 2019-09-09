@@ -9,15 +9,17 @@
     "geom:bbox":"1.33776,51.27223,1.33776,51.27223",
     "geom:latitude":51.27223,
     "geom:longitude":1.33776,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4496,
-    "gn:population":4599,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4496,
     "iso:country":"GB",
+    "lbl:bbox":"1.33276,51.26723,1.34276,51.27723",
     "lbl:latitude":51.27223,
     "lbl:longitude":1.33776,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ang_x_preferred":[
         "Sandw\u012bc"
@@ -40,7 +42,7 @@
     "name:swe_x_preferred":[
         "Sandwich Bay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sandwich"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +69,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":34025,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1360802625,
-    "wof:lastmodified":1564153975,
+    "wof:lastmodified":1566629593,
     "wof:name":"Sandwich Bay",
     "wof:parent_id":1125774635,
     "wof:placetype":"neighbourhood",

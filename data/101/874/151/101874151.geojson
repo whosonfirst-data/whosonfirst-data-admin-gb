@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.620235,
     "lbl:longitude":-0.566291,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.620235,
     "mps:longitude":-0.566291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Appleby"
     ],
@@ -64,7 +67,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.6219,
     "wd:longitude":-0.566295,
@@ -81,10 +84,12 @@
     "wof:concordances":{
         "gn:id":2657240,
         "gp:id":10880,
-        "qs:id":92316,
-        "qs_pg:id":250552,
+        "qs_pg:id":92316,
         "wd:id":"Q4781302",
         "wk:page":"Appleby, North Lincolnshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":250552
     },
     "wof:coterminous":[
         404452591
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101874151,
-    "wof:lastmodified":1561838043,
+    "wof:lastmodified":1566630745,
     "wof:name":"Appleby",
     "wof:parent_id":404452591,
     "wof:placetype":"locality",

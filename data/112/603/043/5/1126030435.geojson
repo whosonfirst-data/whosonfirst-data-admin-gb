@@ -9,15 +9,17 @@
     "geom:bbox":"-2.18593342635,53.4911147743,-2.04859885469,53.586449695",
     "geom:latitude":53.539324,
     "geom:longitude":-2.12167,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":104782,
+    "gn:country":null,
+    "gn:fcode":"PPLA2",
     "gn:population":104782,
     "iso:country":"GB",
     "lbl:latitude":53.540309,
     "lbl:longitude":-2.114224,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u062f\u0647\u0627\u0645"
@@ -210,7 +212,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -247,7 +249,7 @@
         }
     ],
     "wof:id":1126030435,
-    "wof:lastmodified":1563340372,
+    "wof:lastmodified":1566634649,
     "wof:name":"Oldham",
     "wof:parent_id":1360698953,
     "wof:placetype":"locality",

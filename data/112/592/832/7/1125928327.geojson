@@ -9,15 +9,17 @@
     "geom:bbox":"-0.682837542609,53.4400434308,-0.62660083869,53.4695181946",
     "geom:latitude":53.455891,
     "geom:longitude":-0.655151,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2184,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":2184,
     "iso:country":"GB",
     "lbl:latitude":53.46667,
     "lbl:longitude":-0.65,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Northorpe"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1125928327,
-    "wof:lastmodified":1563339724,
+    "wof:lastmodified":1566634228,
     "wof:name":"Northorpe",
     "wof:parent_id":404454595,
     "wof:placetype":"locality",

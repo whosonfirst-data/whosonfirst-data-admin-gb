@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.639328,
     "lbl:longitude":-2.161955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.639328,
     "mps:longitude":-2.161955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u062a\u0628\u0648\u0631\u06cc"
     ],
@@ -133,7 +136,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.636,
     "wd:longitude":-2.158,
     "wd:wordcount":1154,
@@ -150,10 +153,12 @@
         "fct:id":"0aa2e714-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2636083,
         "gp:id":37125,
-        "qs:id":1036783,
-        "qs_pg:id":1057041,
+        "qs_pg:id":1036783,
         "wd:id":"Q1248924",
         "wk:page":"Tetbury"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1057041
     },
     "wof:coterminous":[
         404449741
@@ -175,7 +180,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563337020,
+    "wof:lastmodified":1566631081,
     "wof:name":"Tetbury",
     "wof:parent_id":404449741,
     "wof:placetype":"locality",

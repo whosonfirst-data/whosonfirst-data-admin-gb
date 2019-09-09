@@ -11,8 +11,10 @@
     "geom:longitude":-2.140425,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.145425,53.655724,-2.135425,53.665724",
     "lbl:latitude":53.660724,
     "lbl:longitude":-2.140425,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.652228,
     "mps:longitude":-2.137482,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Great Howarth"
-    ],
-    "name:unk_x_variant":[
         "Great Howarth"
     ],
     "qs:gn_id":0,
@@ -56,19 +55,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698555,
         102191581,
         85633159,
         404227469,
         101750565,
-        1360699063
+        1360699063,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":21665,
-        "qs:id":281177,
         "qs_pg:id":281177
     },
     "wof:country":"GB",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698114,
+    "wof:lastmodified":1566627691,
     "wof:name":"Great Howarth",
     "wof:parent_id":101750565,
     "wof:placetype":"neighbourhood",

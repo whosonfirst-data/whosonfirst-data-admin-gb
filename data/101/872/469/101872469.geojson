@@ -11,12 +11,16 @@
     "geom:longitude":-3.469418,
     "gn:population":13288,
     "iso:country":"GB",
+    "lbl:bbox":"-3.489418,55.914031,-3.449418,55.954031",
     "lbl:latitude":55.93403,
     "lbl:longitude":-3.469417,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.93403,
     "mps:longitude":-3.469417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u0627\u06a9\u0633\u0628\u0631\u0646"
     ],
@@ -133,7 +137,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.9344,
     "wd:longitude":-3.47134,
@@ -150,10 +154,12 @@
     "wof:concordances":{
         "gn:id":2654480,
         "gp:id":20091446,
-        "qs:id":965794,
-        "qs_pg:id":1000684,
+        "qs_pg:id":965794,
         "wd:id":"Q991350",
         "wk:page":"Broxburn, West Lothian"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1000684
     },
     "wof:country":"GB",
     "wof:geomhash":"da3587ce00bffe1bbaf3fd18d83d1952",
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":101872469,
-    "wof:lastmodified":1563336433,
+    "wof:lastmodified":1566630857,
     "wof:name":"Broxburn",
     "wof:parent_id":404447005,
     "wof:placetype":"locality",

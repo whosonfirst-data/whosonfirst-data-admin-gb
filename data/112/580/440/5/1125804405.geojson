@@ -9,15 +9,17 @@
     "geom:bbox":"-1.74887977666,52.4690120401,-1.71481473708,52.4895509192",
     "geom:latitude":52.478003,
     "geom:longitude":-1.732072,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13010,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":13010,
     "iso:country":"GB",
     "lbl:latitude":52.4781,
     "lbl:longitude":-1.73813,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u099a\u09c7\u09ae\u09b8\u09b2\u09c7"
@@ -97,7 +99,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":1125804405,
-    "wof:lastmodified":1563340900,
+    "wof:lastmodified":1566634975,
     "wof:name":"Chelmsley Wood",
     "wof:parent_id":404433751,
     "wof:placetype":"locality",

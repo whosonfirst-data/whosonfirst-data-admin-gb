@@ -10,12 +10,15 @@
     "geom:latitude":53.889507,
     "geom:longitude":-2.412441,
     "iso:country":"GB",
+    "lbl:bbox":"-2.417441,53.884507,-2.407441,53.894507",
     "lbl:latitude":53.889508,
     "lbl:longitude":-2.412441,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.889508,
     "mps:longitude":-2.412441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Waddington"
     ],
@@ -74,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.887,
     "wd:longitude":-2.417,
     "wd:wordcount":586,
@@ -91,10 +94,12 @@
     "wof:concordances":{
         "gn:id":2634923,
         "gp:id":38923,
-        "qs:id":1082494,
         "qs_pg:id":975125,
         "wd:id":"Q2618433",
         "wk:page":"Waddington, Lancashire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1082494
     },
     "wof:country":"GB",
     "wof:geomhash":"23c246aabfa0eb890c71036dc18dd548",
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":1360791095,
-    "wof:lastmodified":1563333330,
+    "wof:lastmodified":1566628619,
     "wof:name":"Waddington",
     "wof:parent_id":1259612099,
     "wof:placetype":"neighbourhood",

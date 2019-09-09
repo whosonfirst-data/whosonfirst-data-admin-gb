@@ -12,8 +12,10 @@
     "gn:latitude":53.16667,
     "gn:longitude":-1.1,
     "iso:country":"GB",
+    "lbl:bbox":"-1.113225,53.158078,-1.103225,53.168078",
     "lbl:latitude":53.163078,
     "lbl:longitude":-1.108225,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.162166,
     "mps:longitude":-1.094339,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Clipstone"
     ],
     "name:swe_x_preferred":[
-        "Clipstone"
-    ],
-    "name:unk_x_variant":[
         "Clipstone"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -72,25 +71,25 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":53.17,
     "wd:longitude":-1.1073,
     "wd:wordcount":1406,
     "wof:belongsto":[
-        1360698583,
         102191581,
         404449881,
         85633159,
         404227469,
         1126048349,
-        1360698809
+        1360698809,
+        1360698583
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"0ab3c16a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2652821,
         "gp:id":30902,
-        "qs:id":1033226,
+        "qs_pg:id":1033226,
         "wd:id":"Q2520804"
     },
     "wof:country":"GB",
@@ -111,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547725872,
+    "wof:lastmodified":1566627620,
     "wof:name":"Clipstone",
     "wof:parent_id":1126048349,
     "wof:placetype":"neighbourhood",

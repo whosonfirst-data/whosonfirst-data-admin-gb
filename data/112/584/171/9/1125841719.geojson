@@ -9,12 +9,15 @@
     "geom:bbox":"-0.41482002114,51.9873542856,-0.365399986455,52.028001706",
     "geom:latitude":52.007328,
     "geom:longitude":-0.389448,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":52.010622,
     "lbl:longitude":-0.374736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u0641\u0646\u0647\u0648\u0631\u0633\u062a"
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125841719,
-    "wof:lastmodified":1563343142,
+    "wof:lastmodified":1566636335,
     "wof:name":"Gravenhurst",
     "wof:parent_id":404439721,
     "wof:placetype":"locality",

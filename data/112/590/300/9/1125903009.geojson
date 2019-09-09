@@ -9,14 +9,18 @@
     "geom:bbox":"-3.73333,58.56667,-3.73333,58.56667",
     "geom:latitude":58.56667,
     "geom:longitude":-3.73333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.75333,58.54667,-3.71333,58.58667",
     "lbl:latitude":58.56667,
     "lbl:longitude":-3.73333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Kernkraftwerk Dounreay"
@@ -51,7 +55,7 @@
     "name:spa_x_preferred":[
         "Dounreay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dunreay"
     ],
     "qs_pg:aaroncc":"GB",
@@ -75,7 +79,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":18375,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1125903009,
-    "wof:lastmodified":1564159282,
+    "wof:lastmodified":1566635283,
     "wof:name":"Dounreay",
     "wof:parent_id":404436073,
     "wof:placetype":"locality",

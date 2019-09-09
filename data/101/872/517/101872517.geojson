@@ -11,12 +11,16 @@
     "geom:longitude":-4.148199,
     "gn:population":19489,
     "iso:country":"GB",
+    "lbl:bbox":"-4.168199,55.90407,-4.128199,55.94407",
     "lbl:latitude":55.925152,
     "lbl:longitude":-4.148199,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.925152,
     "mps:longitude":-4.148199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0643\u064a\u0646\u062a\u064a\u0644\u0648\u062e"
     ],
@@ -131,7 +135,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u043a\u0456\u043d\u0442\u0456\u043b\u043b\u043e\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirkintillock"
     ],
     "name:urd_x_preferred":[
@@ -160,7 +164,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.935833,
     "wd:longitude":-4.154722,
@@ -177,10 +181,12 @@
     "wof:concordances":{
         "gn:id":2645261,
         "gp:id":25407,
-        "qs:id":247571,
-        "qs_pg:id":1073543,
+        "qs_pg:id":247571,
         "wd:id":"Q2422689",
         "wk:page":"Kirkintilloch"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073543
     },
     "wof:country":"GB",
     "wof:geomhash":"1cd8435c22a09ff1cc0229b9bb664ac9",
@@ -196,7 +202,7 @@
         }
     ],
     "wof:id":101872517,
-    "wof:lastmodified":1563336368,
+    "wof:lastmodified":1566630835,
     "wof:name":"Kirkintilloch",
     "wof:parent_id":404451795,
     "wof:placetype":"locality",

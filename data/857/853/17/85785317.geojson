@@ -11,8 +11,10 @@
     "geom:longitude":-3.026636,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-3.031636,53.745343,-3.021636,53.755343",
     "lbl:latitude":53.750343,
     "lbl:longitude":-3.026636,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.740919,
     "mps:longitude":-3.036853,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Ansdell"
-    ],
-    "name:unk_x_variant":[
         "Ansdell"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,22 +58,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698567,
         102191581,
         404429253,
         85633159,
         404227469,
         1360759573,
-        1360698817
+        1360698817,
+        1360698567
     ],
     "wof:breaches":[
         85790579
     ],
     "wof:concordances":{
         "gp:id":10843,
-        "qs:id":897653,
         "qs_pg:id":897653
     },
     "wof:country":"GB",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547732322,
+    "wof:lastmodified":1566627729,
     "wof:name":"Ansdell",
     "wof:parent_id":1360759573,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"-4.25840407236,51.0224777452,-4.1834035609,51.0787589634",
     "geom:latitude":51.046688,
     "geom:longitude":-4.218877,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7668,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":7668,
     "iso:country":"GB",
     "lbl:latitude":51.03333,
     "lbl:longitude":-4.21667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0646\u0648\u0631\u062a\u0647\u0627\u0645"
@@ -127,7 +129,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":1125929341,
-    "wof:lastmodified":1563339754,
+    "wof:lastmodified":1566634248,
     "wof:name":"Northam",
     "wof:parent_id":404439925,
     "wof:placetype":"locality",

@@ -13,8 +13,10 @@
     "gn:latitude":53.04467,
     "gn:longitude":-2.21327,
     "iso:country":"GB",
+    "lbl:bbox":"-2.211728,53.038695,-2.201728,53.048695",
     "lbl:latitude":53.043695,
     "lbl:longitude":-2.206728,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.046166,
     "mps:longitude":-2.203465,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Longport"
     ],
     "name:sco_x_preferred":[
-        "Longport"
-    ],
-    "name:unk_x_variant":[
         "Longport"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -64,22 +63,24 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":49,
     "wof:belongsto":[
-        1360698593,
         102191581,
         85633159,
         404227469,
         1175612703,
-        1360698805
+        1360698805,
+        1360698593
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"0ab3d9d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2643648,
         "gp:id":27439,
-        "qs:id":235313,
+        "qs_pg:id":235313
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":897982
     },
     "wof:country":"GB",
@@ -99,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698225,
+    "wof:lastmodified":1566627566,
     "wof:name":"Longport",
     "wof:parent_id":1175612703,
     "wof:placetype":"neighbourhood",

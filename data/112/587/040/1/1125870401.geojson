@@ -9,15 +9,17 @@
     "geom:bbox":"-1.15081137909,51.9265279856,-1.10813580286,51.9603705627",
     "geom:latitude":51.944266,
     "geom:longitude":-1.131833,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":602,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.95336,
     "lbl:longitude":-1.12292,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0424\u0440\u0438\u043d\u0433\u0444\u043e\u0440\u0434"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125870401,
-    "wof:lastmodified":1563341100,
+    "wof:lastmodified":1566635095,
     "wof:name":"Fringford",
     "wof:parent_id":404451089,
     "wof:placetype":"locality",

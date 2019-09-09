@@ -9,15 +9,17 @@
     "geom:bbox":"-2.06117157167,53.3323924132,-2.0046671303,53.37406114",
     "geom:latitude":53.353832,
     "geom:longitude":-2.030248,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":3159,
+    "gn:country":null,
+    "gn:fcode":"PPLA3",
     "gn:population":3159,
     "iso:country":"GB",
     "lbl:latitude":53.356801,
     "lbl:longitude":-2.04262,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aar_x_preferred":[
         "Disley"
@@ -652,7 +654,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -694,7 +696,7 @@
         }
     ],
     "wof:id":1125912293,
-    "wof:lastmodified":1563342028,
+    "wof:lastmodified":1566635671,
     "wof:name":"Disley",
     "wof:parent_id":404449649,
     "wof:placetype":"locality",

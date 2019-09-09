@@ -11,8 +11,10 @@
     "geom:longitude":-3.445392,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-3.450392,56.059941,-3.440392,56.069941",
     "lbl:latitude":56.064941,
     "lbl:longitude":-3.445392,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.041777,
     "mps:longitude":-3.428377,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Transy"
-    ],
-    "name:unk_x_variant":[
         "Transy"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698659,
         102191581,
         404444217,
         85633159,
         404227471,
         101750637,
-        1360699123
+        1360699123,
+        1360698659
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":37928,
-        "qs:id":1039620,
         "qs_pg:id":1039620
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542194324,
+    "wof:lastmodified":1566627755,
     "wof:name":"Transy",
     "wof:parent_id":101750637,
     "wof:placetype":"neighbourhood",

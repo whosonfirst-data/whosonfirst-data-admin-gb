@@ -9,15 +9,17 @@
     "geom:bbox":"-0.456948300763,51.9433780718,-0.398890129378,51.9868203989",
     "geom:latitude":51.963818,
     "geom:longitude":-0.424158,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":4900,
-    "gn:population":4992,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":4900,
     "iso:country":"GB",
     "lbl:latitude":51.96598,
     "lbl:longitude":-0.42731,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u062a\u0648\u0646 \u0644\u0647 \u0643\u0644\u064a"
@@ -85,7 +87,7 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c30\u0c4d\u0c1f\u0c28\u0c4d-\u0c32\u0c47-\u0c15\u0c4d\u0c32\u0c47"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barton"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +120,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698527,
@@ -156,7 +158,7 @@
         }
     ],
     "wof:id":1125776855,
-    "wof:lastmodified":1563343192,
+    "wof:lastmodified":1566636362,
     "wof:name":"Barton-le-Clay",
     "wof:parent_id":404442591,
     "wof:placetype":"locality",

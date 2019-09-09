@@ -9,15 +9,17 @@
     "geom:bbox":"-0.132537892561,52.227814242,-0.100426316495,52.2622240357",
     "geom:latitude":52.246896,
     "geom:longitude":-0.113888,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2057,
-    "gn:population":2880,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2057,
     "iso:country":"GB",
     "lbl:latitude":52.24893,
     "lbl:longitude":-0.11827,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062b \u0627\u0648\u0631\u0631\u062f"
@@ -52,7 +54,7 @@
     "name:swe_x_preferred":[
         "Papworth Everard"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Papworth"
     ],
     "qs_pg:aaroncc":"GB",
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125839789,
-    "wof:lastmodified":1563343245,
+    "wof:lastmodified":1566636395,
     "wof:name":"Papworth Everard",
     "wof:parent_id":404437573,
     "wof:placetype":"locality",

@@ -10,12 +10,15 @@
     "geom:latitude":53.478247,
     "geom:longitude":-1.062258,
     "iso:country":"GB",
+    "lbl:bbox":"-1.067258,53.473247,-1.057258,53.483247",
     "lbl:latitude":53.478245,
     "lbl:longitude":-1.062257,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.478245,
     "mps:longitude":-1.062257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u09b8\u09bf\u0982\u099f\u09a8"
     ],
@@ -98,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.475939,
     "wd:longitude":-1.0613,
     "wd:wordcount":1598,
@@ -115,9 +118,11 @@
     "wof:concordances":{
         "gn:id":2639119,
         "gp:id":29979,
-        "qs:id":5,
-        "qs_pg:id":976304,
+        "qs_pg:id":5,
         "wd:id":"Q955961"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":976304
     },
     "wof:country":"GB",
     "wof:geomhash":"868c101d6dd1aed0466dc24219c8829f",
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360791007,
-    "wof:lastmodified":1563333337,
+    "wof:lastmodified":1566628622,
     "wof:name":"New Rossington",
     "wof:parent_id":1360753347,
     "wof:placetype":"neighbourhood",

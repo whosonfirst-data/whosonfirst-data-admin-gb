@@ -9,15 +9,17 @@
     "geom:bbox":"-3.58833,51.56917,-3.58833,51.56917",
     "geom:latitude":51.56917,
     "geom:longitude":-3.58833,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2057,
-    "gn:population":2253,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2057,
     "iso:country":"GB",
+    "lbl:bbox":"-3.59333,51.56417,-3.58333,51.57417",
     "lbl:latitude":51.56917,
     "lbl:longitude":-3.58833,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Betws"
@@ -64,9 +66,6 @@
     "name:swe_x_variant":[
         "Betws"
     ],
-    "name:unk_x_variant":[
-        "Betws"
-    ],
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -88,7 +87,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":12485,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -126,7 +125,7 @@
         }
     ],
     "wof:id":1360712401,
-    "wof:lastmodified":1563334134,
+    "wof:lastmodified":1566629048,
     "wof:name":"Bettws",
     "wof:parent_id":1360711441,
     "wof:placetype":"neighbourhood",

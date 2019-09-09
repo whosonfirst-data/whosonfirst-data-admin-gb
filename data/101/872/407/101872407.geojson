@@ -11,12 +11,16 @@
     "geom:longitude":-2.549904,
     "gn:population":4045,
     "iso:country":"GB",
+    "lbl:bbox":"-2.569904,55.457738,-2.529904,55.497738",
     "lbl:latitude":55.477738,
     "lbl:longitude":-2.549903,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.477738,
     "mps:longitude":-2.549903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ang_x_preferred":[
         "Iudan burh"
     ],
@@ -137,9 +141,6 @@
     "name:tel_x_preferred":[
         "\u0c1c\u0c46\u0c21\u0c4d\u0c2c\u0c4d\u0c30\u0c41\u0c17\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Jedburg"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u06cc\u062f\u0628\u0648\u0631\u06af\u06be"
     ],
@@ -166,7 +167,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.633333,
     "wd:longitude":-2.533333,
@@ -184,10 +185,12 @@
         "fct:id":"0aa620fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2645970,
         "gp:id":24628,
-        "qs:id":229778,
-        "qs_pg:id":1073524,
+        "qs_pg:id":229778,
         "wd:id":"Q1012401",
         "wk:page":"Jedburgh"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073524
     },
     "wof:country":"GB",
     "wof:geomhash":"9792dde6882cbc2bd82e481d8730a0b5",
@@ -206,7 +209,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336358,
+    "wof:lastmodified":1566630831,
     "wof:name":"Jedburgh",
     "wof:parent_id":404442083,
     "wof:placetype":"locality",

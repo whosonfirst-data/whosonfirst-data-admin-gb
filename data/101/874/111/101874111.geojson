@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.207667,
     "lbl:longitude":-0.112416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.207667,
     "mps:longitude":-0.112416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0631\u0646\u06a9\u0633\u062a\u0644"
     ],
@@ -70,9 +73,6 @@
     "name:swe_x_preferred":[
         "Horncastle"
     ],
-    "name:unk_x_variant":[
-        "Banovallum"
-    ],
     "name:zho_x_preferred":[
         "\u970d\u6069\u5361\u65af\u723e"
     ],
@@ -97,7 +97,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.208,
     "wd:longitude":-0.114,
     "wd:wordcount":2864,
@@ -114,7 +114,6 @@
         "fct:id":"0aa2bca8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2646595,
         "gp:id":23902,
-        "qs:id":240961,
         "qs_pg:id":240961,
         "wd:id":"Q1628403",
         "wk:page":"Horncastle, Lincolnshire"
@@ -139,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336122,
+    "wof:lastmodified":1566630750,
     "wof:name":"Horncastle",
     "wof:parent_id":404455091,
     "wof:placetype":"locality",

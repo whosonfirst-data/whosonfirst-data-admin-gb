@@ -9,15 +9,17 @@
     "geom:bbox":"-0.625262644066,51.5314477749,-0.602943241548,51.5729772097",
     "geom:latitude":51.551852,
     "geom:longitude":-0.613981,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6187,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":6187,
     "iso:country":"GB",
     "lbl:latitude":51.54208,
     "lbl:longitude":-0.61584,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u0631\u0646\u0647\u0645 \u0631\u0648\u064a\u0627\u0644"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1126035339,
-    "wof:lastmodified":1563340275,
+    "wof:lastmodified":1566634589,
     "wof:name":"Farnham Royal",
     "wof:parent_id":404451617,
     "wof:placetype":"locality",

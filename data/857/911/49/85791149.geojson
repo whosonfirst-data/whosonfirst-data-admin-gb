@@ -10,8 +10,10 @@
     "geom:latitude":52.996609,
     "geom:longitude":-2.207222,
     "iso:country":"GB",
+    "lbl:bbox":"-2.212222,52.991609,-2.202222,53.001609",
     "lbl:latitude":52.996609,
     "lbl:longitude":-2.207222,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.991827,
     "mps:longitude":-2.205131,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Trent Vale"
-    ],
-    "name:unk_x_variant":[
         "Trent Vale"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -58,21 +57,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":167,
     "wof:belongsto":[
-        1360698593,
         102191581,
         85633159,
         404227469,
         1175612703,
-        1360698805
+        1360698805,
+        1360698593
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2635497,
         "gp:id":38113,
-        "qs:id":277613,
         "qs_pg:id":277613,
         "wd:id":"Q21012739"
     },
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698226,
+    "wof:lastmodified":1566627757,
     "wof:name":"Trent Vale",
     "wof:parent_id":1175612703,
     "wof:placetype":"neighbourhood",

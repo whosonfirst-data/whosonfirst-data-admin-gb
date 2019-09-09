@@ -11,12 +11,16 @@
     "geom:longitude":-6.946478,
     "gn:population":12970,
     "iso:country":"GB",
+    "lbl:bbox":"-6.966478,55.032212,-6.926478,55.072212",
     "lbl:latitude":55.052211,
     "lbl:longitude":-6.946478,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.052211,
     "mps:longitude":-6.946478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Limavady"
     ],
@@ -104,7 +108,7 @@
     "name:swe_x_preferred":[
         "Limavady"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Newtown Limavady"
     ],
     "name:zho_x_preferred":[
@@ -129,7 +133,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360699231,
@@ -142,10 +146,12 @@
     "wof:concordances":{
         "gn:id":2644501,
         "gp:id":44949,
-        "qs:id":1036947,
-        "qs_pg:id":1074011,
+        "qs_pg:id":1036947,
         "wd:id":"Q1002115",
         "wk:page":"Limavady"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074011
     },
     "wof:country":"GB",
     "wof:geomhash":"63f6cbad97888cef7b18d4ab693e2e5b",
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":101873893,
-    "wof:lastmodified":1563336204,
+    "wof:lastmodified":1566630777,
     "wof:name":"Limavady",
     "wof:parent_id":1360699231,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.78264386328,51.1794870524,-1.6909672621,51.2108949478",
     "geom:latitude":51.195798,
     "geom:longitude":-1.732922,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":9519,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
     "gn:population":9519,
     "iso:country":"GB",
     "lbl:latitude":51.1893,
     "lbl:longitude":-1.76009,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b2\u09ab\u09cb\u09b0\u09cd\u09a1"
@@ -91,7 +93,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698611,
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":1125861893,
-    "wof:lastmodified":1563340465,
+    "wof:lastmodified":1566634707,
     "wof:name":"Bulford",
     "wof:parent_id":404450801,
     "wof:placetype":"locality",

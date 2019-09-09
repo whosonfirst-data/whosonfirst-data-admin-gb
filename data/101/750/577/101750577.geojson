@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.744681,
     "lbl:longitude":-1.908697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.744681,
     "mps:longitude":-1.908697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Halifax"
     ],
@@ -196,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360698609,
         102191581,
@@ -210,10 +213,12 @@
         "gn:id":2647632,
         "gp:id":22179,
         "loc:id":"n88132970",
-        "qs:id":352000,
-        "qs_pg:id":399035,
+        "qs_pg:id":352000,
         "wd:id":"Q826561",
         "wk:page":"Halifax, West Yorkshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":399035
     },
     "wof:country":"GB",
     "wof:geomhash":"cd02126def9268fe51ced42b597b1a0d",
@@ -229,7 +234,7 @@
         }
     ],
     "wof:id":101750577,
-    "wof:lastmodified":1563336684,
+    "wof:lastmodified":1566630937,
     "wof:name":"Halifax",
     "wof:parent_id":1360817303,
     "wof:placetype":"locality",

@@ -11,12 +11,15 @@
     "geom:longitude":-0.377394,
     "gn:population":12060,
     "iso:country":"GB",
+    "lbl:bbox":"-0.382394,52.763436,-0.372394,52.773436",
     "lbl:latitude":52.768437,
     "lbl:longitude":-0.377393,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.768437,
     "mps:longitude":-0.377393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u0646"
     ],
@@ -107,9 +110,6 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c30\u0c4d\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Bourn"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0631\u0646"
     ],
@@ -138,7 +138,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.7684,
     "wd:longitude":-0.3775,
@@ -157,10 +157,12 @@
         "fct:id":"0aa3c17a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2657562,
         "gp:id":13378,
-        "qs:id":968276,
-        "qs_pg:id":1191399,
+        "qs_pg:id":968276,
         "wd:id":"Q2223229",
         "wk:page":"Bourne, Lincolnshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1191399
     },
     "wof:country":"GB",
     "wof:geomhash":"474fbfd8f7c72b3501f2a076cc4c1f20",
@@ -180,7 +182,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563333675,
+    "wof:lastmodified":1566628789,
     "wof:name":"Bourne",
     "wof:parent_id":1276264945,
     "wof:placetype":"neighbourhood",

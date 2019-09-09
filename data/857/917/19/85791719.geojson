@@ -11,8 +11,10 @@
     "geom:longitude":-0.156373,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.161373,50.844836,-0.151373,50.854836",
     "lbl:latitude":50.849836,
     "lbl:longitude":-0.156373,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.850173,
     "mps:longitude":-0.158765,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Withdean"
-    ],
-    "name:unk_x_variant":[
         "Withdean"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":269,
     "wof:belongsto":[
-        1360698549,
         102191581,
         85633159,
         404227469,
         101750303,
-        1360699019
+        1360699019,
+        1360698549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":40781,
-        "qs:id":1073956,
         "qs_pg:id":1073956,
         "wd:id":"Q8028125"
     },
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400344,
+    "wof:lastmodified":1566627786,
     "wof:name":"Withdean",
     "wof:parent_id":101750303,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.461866,
     "lbl:longitude":-6.334262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.461866,
     "mps:longitude":-6.334262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "An Lorgain"
     ],
@@ -97,9 +100,6 @@
     "name:swe_x_preferred":[
         "Lurgan"
     ],
-    "name:unk_x_variant":[
-        "An Lorgain"
-    ],
     "name:zho_x_preferred":[
         "\u52d2\u6839"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":7345,
     "wof:belongsto":[
         1360699225,
@@ -134,7 +134,6 @@
     "wof:concordances":{
         "gn:id":2643360,
         "gp:id":44977,
-        "qs:id":663850,
         "qs_pg:id":663850,
         "wd:id":"Q1702713",
         "wk:page":"Lurgan"
@@ -152,7 +151,7 @@
         }
     ],
     "wof:id":101878337,
-    "wof:lastmodified":1561838101,
+    "wof:lastmodified":1566630953,
     "wof:name":"Lurgan",
     "wof:parent_id":1360699225,
     "wof:placetype":"locality",

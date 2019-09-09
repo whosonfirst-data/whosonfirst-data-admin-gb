@@ -9,14 +9,17 @@
     "geom:bbox":"-2.67003,54.2894,-2.67003,54.2894",
     "geom:latitude":54.2894,
     "geom:longitude":-2.67003,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.67503,54.2844,-2.66503,54.2944",
     "lbl:latitude":54.2894,
     "lbl:longitude":-2.67003,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Old Hutton"
@@ -30,7 +33,7 @@
     "name:swe_x_preferred":[
         "Old Hutton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hutton Bridge End"
     ],
     "qs_pg:aaroncc":"GB",
@@ -54,7 +57,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":30929,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1360794319,
-    "wof:lastmodified":1561837875,
+    "wof:lastmodified":1566628485,
     "wof:name":"Old Hutton",
     "wof:parent_id":1360757165,
     "wof:placetype":"neighbourhood",

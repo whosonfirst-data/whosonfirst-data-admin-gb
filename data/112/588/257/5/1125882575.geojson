@@ -9,14 +9,17 @@
     "geom:bbox":"-0.796961206965,51.5159529206,-0.747186565719,51.5683556715",
     "geom:latitude":51.544306,
     "geom:longitude":-0.775964,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.55704,
     "lbl:longitude":-0.77557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u0645"
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         1360698529,
         102191581,
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1125882575,
-    "wof:lastmodified":1563340639,
+    "wof:lastmodified":1566634817,
     "wof:name":"Bisham",
     "wof:parent_id":404439571,
     "wof:placetype":"locality",

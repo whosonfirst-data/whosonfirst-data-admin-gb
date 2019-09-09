@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.512546,
     "lbl:longitude":-0.376548,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.512161,
     "mps:longitude":-0.379745,
     "mz:hierarchy_label":1,
@@ -85,9 +86,6 @@
     "name:swe_x_preferred":[
         "Southall"
     ],
-    "name:unk_x_variant":[
-        "Southall"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0624\u062a\u06be \u06c1\u0627\u0644"
     ],
@@ -123,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":4277,
     "wof:belongsto":[
         102191581,
@@ -136,7 +134,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":35353,
-        "qs:id":1073787,
         "qs_pg:id":1073787,
         "wd:id":"Q83434"
     },
@@ -157,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331894,
+    "wof:lastmodified":1566627660,
     "wof:name":"Southall",
     "wof:parent_id":1158857265,
     "wof:placetype":"neighbourhood",

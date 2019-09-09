@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.449397,
     "lbl:longitude":-0.359489,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.450648,
     "mps:longitude":-0.359441,
     "mz:hierarchy_label":1,
@@ -63,9 +64,6 @@
     "name:swe_x_preferred":[
         "Whitton"
     ],
-    "name:unk_x_variant":[
-        "Whitton"
-    ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2643743,
@@ -95,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":104,
     "wof:belongsto":[
         102191581,
@@ -109,7 +107,6 @@
     "wof:concordances":{
         "gn:id":2634004,
         "gp:id":20089528,
-        "qs:id":938089,
         "qs_pg:id":938089,
         "wd:id":"Q7996944"
     },
@@ -130,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837832,
+    "wof:lastmodified":1566627902,
     "wof:name":"Whitton",
     "wof:parent_id":1158857311,
     "wof:placetype":"neighbourhood",

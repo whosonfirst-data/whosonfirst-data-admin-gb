@@ -10,12 +10,15 @@
     "geom:latitude":52.663961,
     "geom:longitude":-1.218194,
     "iso:country":"GB",
+    "lbl:bbox":"-1.223194,52.658961,-1.213194,52.668961",
     "lbl:latitude":52.663961,
     "lbl:longitude":-1.218194,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.663961,
     "mps:longitude":-1.218194,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09cb\u09ac\u09bf"
     ],
@@ -104,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.658239,
     "wd:longitude":-1.232669,
     "wd:wordcount":1496,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":6691579,
         "gp:id":21931,
-        "qs:id":6,
-        "qs_pg:id":1082238,
+        "qs_pg:id":6,
         "wd:id":"Q984128",
         "wk:page":"Groby"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1082238
     },
     "wof:country":"GB",
     "wof:geomhash":"9836802a6a8a97d41433d48c214c04ae",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":1360790837,
-    "wof:lastmodified":1563332919,
+    "wof:lastmodified":1566628411,
     "wof:name":"Groby",
     "wof:parent_id":1293425191,
     "wof:placetype":"neighbourhood",

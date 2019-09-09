@@ -9,15 +9,17 @@
     "geom:bbox":"-1.90247817274,54.9314743347,-1.82241127523,54.9775215799",
     "geom:latitude":54.953869,
     "geom:longitude":-1.860229,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10669,
-    "gn:population":12075,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":10669,
     "iso:country":"GB",
     "lbl:latitude":54.96154,
     "lbl:longitude":-1.85168,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u067e\u0631\u0648\u062f\u0648"
@@ -127,7 +129,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":1125840701,
-    "wof:lastmodified":1563343014,
+    "wof:lastmodified":1566636272,
     "wof:name":"Prudhoe",
     "wof:parent_id":404450797,
     "wof:placetype":"locality",

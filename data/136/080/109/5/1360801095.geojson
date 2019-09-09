@@ -9,14 +9,17 @@
     "geom:bbox":"-2.09409,53.15982,-2.09409,53.15982",
     "geom:latitude":53.15982,
     "geom:longitude":-2.09409,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.09909,53.15482,-2.08909,53.16482",
     "lbl:latitude":53.15982,
     "lbl:longitude":-2.09409,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Rushton Spencer"
@@ -45,19 +48,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":33800,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698593,
         102191581,
         404441581,
         85633159,
         404227469,
         1360757117,
-        1360698947
+        1360698947,
+        1360698593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1360801095,
-    "wof:lastmodified":1547731026,
+    "wof:lastmodified":1566629444,
     "wof:name":"Rushton Spencer",
     "wof:parent_id":1360757117,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-2.453748,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.458748,53.494074,-2.448748,53.504074",
     "lbl:latitude":53.499074,
     "lbl:longitude":-2.453748,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.495426,
     "mps:longitude":-2.460838,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Astley Green"
-    ],
-    "name:unk_x_variant":[
         "Astley Green"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698555,
         102191581,
         1360817301,
         85633159,
         404227469,
         1125901563,
-        1360699023
+        1360699023,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":11287,
-        "qs:id":1028035,
         "qs_pg:id":1028035
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699673,
+    "wof:lastmodified":1566627728,
     "wof:name":"Astley Green",
     "wof:parent_id":1125901563,
     "wof:placetype":"neighbourhood",

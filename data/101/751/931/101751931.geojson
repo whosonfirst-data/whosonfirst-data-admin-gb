@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":54.603533,
     "lbl:longitude":-5.928807,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":54.603533,
     "mps:longitude":-5.928807,
     "mz:hierarchy_label":1,
@@ -394,21 +396,10 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0444\u0430\u0441\u0442"
     ],
-    "name:und_x_preferred":[
-        "B\u00e9al Feirste"
-    ],
     "name:und_x_variant":[
-        "Belfastas",
         "\u039c\u03c0\u03b5\u03bb\u03c6\u03b1\u03c3\u03c4",
-        "\u0411\u0435\u043b\u0444\u0430\u0441\u0442",
         "\u092c\u0932\u092b\u0938\u091f",
-        "\u092c\u0947\u0932\u092b\u093c\u093e\u0938\u094d\u091f",
-        "\u0e40\u0e1a\u0e25\u0e1f\u0e32\u0e2a\u0e15",
-        "\u0e40\u0e1a\u0e25\u0e1f\u0e32\u0e2a\u0e15\u0e4c",
-        "\u8c9d\u723e\u6cd5\u65af\u7279"
-    ],
-    "name:unk_x_variant":[
-        "B\u00e9al Feirste"
+        "\u0e40\u0e1a\u0e25\u0e1f\u0e32\u0e2a\u0e15"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0644\u0641\u0627\u0633\u0679"
@@ -553,7 +544,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":54.596667,
     "wd:longitude":-5.938333,
@@ -571,10 +562,12 @@
         "fct:id":"0aa59fe0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2656051,
         "gp:id":12141,
-        "qs:id":775141,
-        "qs_pg:id":1037182,
+        "qs_pg:id":775141,
         "wd:id":"Q10686",
         "wk:page":"Belfast"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037182
     },
     "wof:country":"GB",
     "wof:geomhash":"c6eadd1e57a65cbf5633da2e809b7616",
@@ -592,7 +585,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336504,
+    "wof:lastmodified":1566630889,
     "wof:megacity":0,
     "wof:name":"Belfast",
     "wof:parent_id":1360699229,

@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":51.679726,
     "lbl:longitude":-3.740154,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.679726,
     "mps:longitude":-3.740154,
     "mz:hierarchy_label":1,
@@ -240,9 +242,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"441",
     "statoids:area_mi":"170",
     "statoids:as_of_date":"2011-03-27",
@@ -283,10 +285,6 @@
         }
     ],
     "wof:id":1360698825,
-    "wof:lang":[
-        "eng",
-        "wel"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
@@ -296,11 +294,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563336015,
+    "wof:lastmodified":1566630639,
     "wof:name":"Neath Port Talbot",
     "wof:parent_id":1360698629,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary authority",
     "wof:population":139812,
     "wof:population_rank":9,

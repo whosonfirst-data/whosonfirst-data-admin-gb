@@ -12,8 +12,10 @@
     "gn:latitude":54.97836,
     "gn:longitude":-1.70937,
     "iso:country":"GB",
+    "lbl:bbox":"-1.245906,54.521221,-1.235906,54.531221",
     "lbl:latitude":54.526221,
     "lbl:longitude":-1.240906,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.519264,
     "mps:longitude":-1.24329,
     "mz:hierarchy_label":0,
@@ -37,9 +39,8 @@
     "name:pol_x_preferred":[
         "Lemington"
     ],
-    "name:unk_x_variant":[
-        "Lemington-on-Tyne",
-        "Hemlington"
+    "name:und_x_variant":[
+        "Lemington-on-Tyne"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -69,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":278,
     "wof:belongsto":[
         102191581,
@@ -83,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2644627,
         "gp:id":22983,
-        "qs:id":291406,
         "qs_pg:id":291406,
         "wd:id":"Q6521157",
         "wk:page":"Lemington"
@@ -105,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331689,
+    "wof:lastmodified":1566627555,
     "wof:name":"Hemlington",
     "wof:parent_id":101750599,
     "wof:placetype":"neighbourhood",

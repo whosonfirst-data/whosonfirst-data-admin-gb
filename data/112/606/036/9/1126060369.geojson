@@ -9,15 +9,17 @@
     "geom:bbox":"-1.17331731864,53.7830966558,-1.07566155065,53.8455703009",
     "geom:latitude":53.820657,
     "geom:longitude":-1.131994,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1409,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.83303,
     "lbl:longitude":-1.12962,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Cawood"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1126060369,
-    "wof:lastmodified":1563342311,
+    "wof:lastmodified":1566635828,
     "wof:name":"Cawood",
     "wof:parent_id":404454281,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-2.0,53.46667,-2.0,53.46667",
     "geom:latitude":53.46667,
     "geom:longitude":-2.0,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8873,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":8873,
     "iso:country":"GB",
+    "lbl:bbox":"-2.005,53.46167,-1.995,53.47167",
     "lbl:latitude":53.46667,
     "lbl:longitude":-2.0,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b2\u0982\u09a1\u09c7\u09a8\u09a1\u09c7\u09b2"
@@ -91,7 +93,7 @@
     "qs_pg:qs_id":92140,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1360803769,
-    "wof:lastmodified":1563334689,
+    "wof:lastmodified":1566629392,
     "wof:name":"Longdendale",
     "wof:parent_id":1125984457,
     "wof:placetype":"neighbourhood",

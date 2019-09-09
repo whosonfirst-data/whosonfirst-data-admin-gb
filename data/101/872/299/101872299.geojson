@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.007823,
     "lbl:longitude":-1.464696,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.007823,
     "mps:longitude":-1.464696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0646\u0627\u0631\u0633\u0628\u0648\u0631\u0648"
     ],
@@ -130,7 +133,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.0084,
     "wd:longitude":-1.467,
@@ -147,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2645163,
         "gp:id":25505,
-        "qs:id":900411,
         "qs_pg:id":900411,
         "wd:id":"Q535902",
         "wk:page":"Knaresborough"
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":101872299,
-    "wof:lastmodified":1563336453,
+    "wof:lastmodified":1566630864,
     "wof:name":"Knaresborough",
     "wof:parent_id":404449867,
     "wof:placetype":"locality",

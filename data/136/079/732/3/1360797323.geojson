@@ -9,14 +9,17 @@
     "geom:bbox":"1.25854,51.20753,1.25854,51.20753",
     "geom:latitude":51.20753,
     "geom:longitude":1.25854,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"1.25354,51.20253,1.26354,51.21253",
     "lbl:latitude":51.20753,
     "lbl:longitude":1.25854,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Elvington"
@@ -36,7 +39,7 @@
     "name:pol_x_variant":[
         "Elvington"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Halt Elrington"
     ],
     "qs_pg:aaroncc":"GB",
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":19572,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1360797323,
-    "wof:lastmodified":1563333355,
+    "wof:lastmodified":1566628631,
     "wof:name":"Elvington",
     "wof:parent_id":1125921893,
     "wof:placetype":"neighbourhood",

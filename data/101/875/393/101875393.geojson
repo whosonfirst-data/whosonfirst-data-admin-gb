@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.80872,
     "lbl:longitude":0.088084,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.80173,
     "mps:longitude":0.067463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Heighton"
     ],
@@ -58,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.81,
     "wd:longitude":0.05,
     "wd:wordcount":710,
@@ -74,10 +77,12 @@
     "wof:concordances":{
         "gn:id":7296626,
         "gp:id":35245,
-        "qs:id":5,
-        "qs_pg:id":470394,
+        "qs_pg:id":5,
         "wd:id":"Q1970355",
         "wk:page":"South Heighton"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":470394
     },
     "wof:coterminous":[
         404441479
@@ -96,7 +101,7 @@
         }
     ],
     "wof:id":101875393,
-    "wof:lastmodified":1563336486,
+    "wof:lastmodified":1566630878,
     "wof:name":"South Heighton",
     "wof:parent_id":404441479,
     "wof:placetype":"locality",

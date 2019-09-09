@@ -10,12 +10,16 @@
     "geom:latitude":54.805408,
     "geom:longitude":-6.213134,
     "iso:country":"GB",
+    "lbl:bbox":"-6.233134,54.785408,-6.193134,54.825408",
     "lbl:latitude":54.805409,
     "lbl:longitude":-6.213133,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.805409,
     "mps:longitude":-6.213133,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kells"
     ],
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360699239,
         102191581,
@@ -80,10 +84,12 @@
     "wof:concordances":{
         "gn:id":2645865,
         "gp:id":24720,
-        "qs:id":336571,
-        "qs_pg:id":887432,
+        "qs_pg:id":336571,
         "wd:id":"Q1651125",
         "wk:page":"Kells, County Antrim"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":887432
     },
     "wof:country":"GB",
     "wof:geomhash":"f87ba0116512ad44e0a21b3fe60f3b1b",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":101873849,
-    "wof:lastmodified":1563336253,
+    "wof:lastmodified":1566630795,
     "wof:name":"Kells",
     "wof:parent_id":1360699239,
     "wof:placetype":"locality",

@@ -10,12 +10,15 @@
     "geom:latitude":54.973261,
     "geom:longitude":-2.245854,
     "iso:country":"GB",
+    "lbl:bbox":"-2.250854,54.968261,-2.240854,54.978261",
     "lbl:latitude":54.973261,
     "lbl:longitude":-2.245854,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.973261,
     "mps:longitude":-2.245854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Haydon Bridge"
     ],
@@ -71,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.973,
     "wd:longitude":-2.247,
     "wd:wordcount":1285,
@@ -88,10 +91,12 @@
     "wof:concordances":{
         "gn:id":2647264,
         "gp:id":22765,
-        "qs:id":228252,
         "qs_pg:id":226967,
         "wd:id":"Q3783796",
         "wk:page":"Haydon Bridge"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":228252
     },
     "wof:country":"GB",
     "wof:geomhash":"371eb472a2ce10c10913343db0f73e2c",
@@ -108,7 +113,7 @@
         }
     ],
     "wof:id":1360791159,
-    "wof:lastmodified":1563333714,
+    "wof:lastmodified":1566628806,
     "wof:name":"Haydon Bridge",
     "wof:parent_id":1360753307,
     "wof:placetype":"neighbourhood",

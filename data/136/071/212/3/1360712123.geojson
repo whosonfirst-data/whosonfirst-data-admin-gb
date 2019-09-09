@@ -11,12 +11,15 @@
     "geom:longitude":-3.379812,
     "gn:population":30821,
     "iso:country":"GB",
+    "lbl:bbox":"-3.384812,51.743569,-3.374812,51.753569",
     "lbl:latitude":51.748568,
     "lbl:longitude":-3.379811,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.748568,
     "mps:longitude":-3.379811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ast_x_preferred":[
         "Merthyr Tydfil"
     ],
@@ -141,9 +144,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0442\u0456\u0440-\u0422\u0456\u0434\u0432\u0456\u043b"
     ],
-    "name:unk_x_variant":[
-        "Mertyr Tydfil"
-    ],
     "name:vie_x_preferred":[
         "Merthyr Tudful"
     ],
@@ -169,7 +169,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.742892,
     "wd:longitude":-3.378047,
@@ -188,7 +188,6 @@
         "fct:id":"0aa698e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2642705,
         "gp:id":28757,
-        "qs:id":240970,
         "qs_pg:id":240970,
         "wd:id":"Q752762",
         "wk:page":"Merthyr Tydfil"
@@ -211,7 +210,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563334120,
+    "wof:lastmodified":1566629040,
     "wof:name":"Merthyr Tydfil",
     "wof:parent_id":1360711541,
     "wof:placetype":"neighbourhood",

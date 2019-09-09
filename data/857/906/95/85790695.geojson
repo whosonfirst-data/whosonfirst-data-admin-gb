@@ -15,6 +15,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.61533,
     "lbl:longitude":-0.312749,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.615457,
     "mps:longitude":-0.315182,
     "mz:hierarchy_label":1,
@@ -78,9 +79,6 @@
     "name:swe_x_preferred":[
         "Stanmore"
     ],
-    "name:unk_x_variant":[
-        "Stanmore"
-    ],
     "name:zho_x_preferred":[
         "\u53f2\u4e39\u6469"
     ],
@@ -113,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:latitude":51.617,
     "wd:longitude":-0.325,
@@ -130,7 +128,6 @@
     "wof:concordances":{
         "gn:id":2637063,
         "gp:id":35918,
-        "qs:id":1091485,
         "qs_pg:id":1091485,
         "wd:id":"Q2279685",
         "wk:page":"Stanmore"
@@ -152,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331607,
+    "wof:lastmodified":1566627512,
     "wof:name":"Stanmore",
     "wof:parent_id":1158857263,
     "wof:placetype":"neighbourhood",

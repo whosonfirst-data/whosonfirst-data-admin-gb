@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.283027,
     "lbl:longitude":-3.830125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.283027,
     "mps:longitude":-3.830125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0646\u0648\u064a"
     ],
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0432\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aberconway"
     ],
     "name:urd_x_preferred":[
@@ -178,7 +181,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360698637,
         102191581,
@@ -191,10 +194,12 @@
     "wof:concordances":{
         "gn:id":2652426,
         "gp:id":16785,
-        "qs:id":1152106,
         "qs_pg:id":276240,
         "wd:id":"Q634054",
         "wk:page":"Conwy"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152106
     },
     "wof:coterminous":[
         404446965
@@ -213,7 +218,7 @@
         }
     ],
     "wof:id":101872129,
-    "wof:lastmodified":1563336371,
+    "wof:lastmodified":1566630836,
     "wof:name":"Conwy",
     "wof:parent_id":404446965,
     "wof:placetype":"locality",

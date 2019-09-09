@@ -9,15 +9,18 @@
     "geom:bbox":"-5.13851,56.67575,-5.13851,56.67575",
     "geom:latitude":56.67575,
     "geom:longitude":-5.13851,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":633,
-    "gn:population":650,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":633,
     "iso:country":"GB",
+    "lbl:bbox":"-5.15851,56.65575,-5.11851,56.69575",
     "lbl:latitude":56.67575,
     "lbl:longitude":-5.13851,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0447\u0443\u043b\u0438\u0448"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Ballachulish"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ballachuhsh"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":11675,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1125998173,
-    "wof:lastmodified":1563341288,
+    "wof:lastmodified":1566635210,
     "wof:name":"Ballachulish",
     "wof:parent_id":404436073,
     "wof:placetype":"locality",

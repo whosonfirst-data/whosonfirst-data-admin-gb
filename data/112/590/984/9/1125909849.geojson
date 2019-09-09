@@ -9,14 +9,17 @@
     "geom:bbox":"-3.44941959275,52.7882964238,-3.24381948218,52.8933944195",
     "geom:latitude":52.846141,
     "geom:longitude":-3.324046,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.83333,
     "lbl:longitude":-3.3,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Llanrhaeadr-ym-Mochnant"
@@ -69,7 +72,7 @@
     "name:swe_x_preferred":[
         "Llanrhaeadr-ym-Mochnant"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Llanrhaiadr-yn-Mochnant"
     ],
     "nav:latitude":52.83333,
@@ -95,7 +98,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":27056,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125909849,
-    "wof:lastmodified":1563341490,
+    "wof:lastmodified":1566635323,
     "wof:name":"Llanrhaeadr-ym-Mochnant",
     "wof:parent_id":404454713,
     "wof:placetype":"locality",

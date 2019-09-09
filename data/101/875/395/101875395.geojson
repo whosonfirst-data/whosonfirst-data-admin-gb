@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.048929,
     "lbl:longitude":0.513744,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.048364,
     "mps:longitude":0.510477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hawkhurst"
     ],
@@ -271,7 +274,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.0471,
     "wd:longitude":0.5173,
     "wd:wordcount":1902,
@@ -287,7 +290,6 @@
     "wof:concordances":{
         "gn:id":2647291,
         "gp:id":22717,
-        "qs:id":1288523,
         "qs_pg:id":1288523,
         "wd:id":"Q2744669",
         "wk:page":"Hawkhurst"
@@ -309,7 +311,7 @@
         }
     ],
     "wof:id":101875395,
-    "wof:lastmodified":1563336485,
+    "wof:lastmodified":1566630878,
     "wof:name":"Hawkhurst",
     "wof:parent_id":404441941,
     "wof:placetype":"locality",

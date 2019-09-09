@@ -9,14 +9,17 @@
     "geom:bbox":"0.823568446218,50.9451799776,0.930571965675,51.0072668966",
     "geom:latitude":50.976916,
     "geom:longitude":0.87301,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.99012,
     "lbl:longitude":0.89487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Old Romney"
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":1125894505,
-    "wof:lastmodified":1563340866,
+    "wof:lastmodified":1566634951,
     "wof:name":"Old Romney",
     "wof:parent_id":404436067,
     "wof:placetype":"locality",

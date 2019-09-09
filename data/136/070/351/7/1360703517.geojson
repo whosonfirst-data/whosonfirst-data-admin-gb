@@ -11,12 +11,15 @@
     "geom:longitude":-3.403729,
     "gn:population":9477,
     "iso:country":"GB",
+    "lbl:bbox":"-3.408729,55.984507,-3.398729,55.994507",
     "lbl:latitude":55.989508,
     "lbl:longitude":-3.403728,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.989508,
     "mps:longitude":-3.403728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Queensferry"
     ],
@@ -68,9 +71,6 @@
     "name:swe_x_preferred":[
         "Queensferry"
     ],
-    "name:unk_x_variant":[
-        "South Queensferry"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0626\u0646\u0632\u0641\u06cc\u0631\u06cc"
     ],
@@ -94,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.9875,
     "wd:longitude":-3.4,
@@ -112,10 +112,12 @@
     "wof:concordances":{
         "gn:id":2639789,
         "gp:id":32772,
-        "qs:id":218111,
-        "qs_pg:id":1071494,
+        "qs_pg:id":218111,
         "wd:id":"Q767798",
         "wk:page":"South Queensferry"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1071494
     },
     "wof:country":"GB",
     "wof:geomhash":"ad0d6da938d700eb0e1061f132395b3d",
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":1360703517,
-    "wof:lastmodified":1563333859,
+    "wof:lastmodified":1566628883,
     "wof:name":"Queensferry",
     "wof:parent_id":101750629,
     "wof:placetype":"neighbourhood",

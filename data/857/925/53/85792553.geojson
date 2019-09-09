@@ -11,8 +11,10 @@
     "geom:longitude":-4.028409,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-4.033409,55.859189,-4.023409,55.869189",
     "lbl:latitude":55.864189,
     "lbl:longitude":-4.028409,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.858524,
     "mps:longitude":-4.027696,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Langloan"
-    ],
-    "name:unk_x_variant":[
         "Langloan"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698703,
         102191581,
         404435713,
         85633159,
         404227471,
-        1360698949
+        1360698949,
+        1360698703
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43594,
-        "qs:id":1186955,
         "qs_pg:id":1186955
     },
     "wof:country":"GB",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542399743,
+    "wof:lastmodified":1566627644,
     "wof:name":"Langloan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

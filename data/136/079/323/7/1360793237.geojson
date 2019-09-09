@@ -9,14 +9,17 @@
     "geom:bbox":"-1.63954,53.17487,-1.63954,53.17487",
     "geom:latitude":53.17487,
     "geom:longitude":-1.63954,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.64454,53.16987,-1.63454,53.17987",
     "lbl:latitude":53.17487,
     "lbl:longitude":-1.63954,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Stanton in Peak"
@@ -24,7 +27,7 @@
     "name:pol_x_preferred":[
         "Stanton in Peak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":35946,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1360793237,
-    "wof:lastmodified":1564152909,
+    "wof:lastmodified":1566628540,
     "wof:name":"Stanton in Peak",
     "wof:parent_id":1360758169,
     "wof:placetype":"neighbourhood",

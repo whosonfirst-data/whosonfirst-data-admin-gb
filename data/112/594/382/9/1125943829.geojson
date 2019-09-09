@@ -9,14 +9,17 @@
     "geom:bbox":"1.25849911384,52.0527152212,1.33015720647,52.0883362231",
     "geom:latitude":52.067894,
     "geom:longitude":1.29071,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.07376,
     "lbl:longitude":1.28205,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u099f\u09b2\u09b6\u09cd\u09af\u09be\u09ae"
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1125943829,
-    "wof:lastmodified":1563339561,
+    "wof:lastmodified":1566634113,
     "wof:name":"Martlesham",
     "wof:parent_id":404449125,
     "wof:placetype":"locality",

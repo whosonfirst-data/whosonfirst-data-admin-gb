@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.093989,
     "lbl:longitude":-1.395158,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.093989,
     "mps:longitude":-1.395158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0628\u0631\u06cc\u062c"
     ],
@@ -121,7 +124,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.095,
     "wd:longitude":-1.398,
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":2655173,
         "gp:id":13281,
-        "qs:id":1218912,
         "qs_pg:id":1218912,
         "wd:id":"Q2569056",
         "wk:page":"Boroughbridge"
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101872309,
-    "wof:lastmodified":1563336306,
+    "wof:lastmodified":1566630812,
     "wof:name":"Boroughbridge",
     "wof:parent_id":404451039,
     "wof:placetype":"locality",

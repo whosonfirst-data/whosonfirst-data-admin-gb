@@ -9,15 +9,17 @@
     "geom:bbox":"-1.1683133239,52.7314511671,-1.10893297198,52.7714088301",
     "geom:latitude":52.753858,
     "geom:longitude":-1.139417,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5196,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":5196,
     "iso:country":"GB",
     "lbl:latitude":52.75178,
     "lbl:longitude":-1.14601,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Barrow upon Soar"
@@ -46,7 +48,7 @@
     "name:swe_x_preferred":[
         "Barrow upon Soar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barrow"
     ],
     "qs_pg:aaroncc":"GB",
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":1126015197,
-    "wof:lastmodified":1564159476,
+    "wof:lastmodified":1566635873,
     "wof:name":"Barrow upon Soar",
     "wof:parent_id":404439727,
     "wof:placetype":"locality",

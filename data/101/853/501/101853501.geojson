@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.341333,
     "lbl:longitude":0.73163,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.341333,
     "mps:longitude":0.731631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0633\u06cc\u062a\u06cc\u0646\u0642\u0628\u0648\u0631\u0648"
     ],
@@ -91,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.34,
     "wd:longitude":0.74,
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":2637802,
         "gp:id":34868,
-        "qs:id":239387,
         "qs_pg:id":239387,
         "wd:id":"Q1626044",
         "wk:page":"Sittingbourne"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101853501,
-    "wof:lastmodified":1563336767,
+    "wof:lastmodified":1566630976,
     "wof:name":"Sittingbourne",
     "wof:parent_id":1360698811,
     "wof:placetype":"locality",

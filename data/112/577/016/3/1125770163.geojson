@@ -9,15 +9,17 @@
     "geom:bbox":"-3.36713489175,51.6266796837,-3.30443519007,51.6671226378",
     "geom:latitude":51.64652,
     "geom:longitude":-3.334845,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":5983,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.64548,
     "lbl:longitude":-3.32727,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u098f\u09ac\u09be\u09b0\u09b8\u09be\u0987\u09a8\u09a8"
@@ -106,7 +108,7 @@
     "name:tel_x_variant":[
         "\u0c05\u0c2c\u0c46\u0c30\u0c4d\u0c38\u0c48\u0c28\u0c4a\u0c28\u0c4d,"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aberoynon"
     ],
     "name:urd_x_preferred":[
@@ -135,7 +137,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":10239,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":1125770163,
-    "wof:lastmodified":1563343193,
+    "wof:lastmodified":1566636363,
     "wof:name":"Abercynon",
     "wof:parent_id":404450907,
     "wof:placetype":"locality",

@@ -10,12 +10,15 @@
     "geom:latitude":51.387275,
     "geom:longitude":-2.82093,
     "iso:country":"GB",
+    "lbl:bbox":"-2.82593,51.382275,-2.81593,51.392275",
     "lbl:latitude":51.387276,
     "lbl:longitude":-2.820929,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.387276,
     "mps:longitude":-2.820929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u099f\u09cb\u09a8"
     ],
@@ -92,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":51.385556,
     "wd:longitude":-2.825556,
@@ -111,10 +114,12 @@
     "wof:concordances":{
         "gn:id":2633403,
         "gp:id":41344,
-        "qs:id":1032345,
         "qs_pg:id":575367,
         "wd:id":"Q2499687",
         "wk:page":"Yatton"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1032345
     },
     "wof:country":"GB",
     "wof:geomhash":"22371f126919ded38d2d4e26e12bfd4a",
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360790731,
-    "wof:lastmodified":1563333451,
+    "wof:lastmodified":1566628676,
     "wof:name":"Yatton",
     "wof:parent_id":1277112083,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.916091,
     "lbl:longitude":-1.935996,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.916091,
     "mps:longitude":-1.935996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0644\u0633\u062f\u0646"
     ],
@@ -113,7 +116,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.914,
     "wd:longitude":-1.937,
@@ -130,7 +133,6 @@
     "wof:concordances":{
         "gn:id":2637833,
         "gp:id":34831,
-        "qs:id":454183,
         "qs_pg:id":454183,
         "wd:id":"Q2472743",
         "wk:page":"Silsden"
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":101872259,
-    "wof:lastmodified":1563336345,
+    "wof:lastmodified":1566630827,
     "wof:name":"Silsden",
     "wof:parent_id":404443803,
     "wof:placetype":"locality",

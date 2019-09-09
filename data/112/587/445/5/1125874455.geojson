@@ -9,15 +9,17 @@
     "geom:bbox":"-0.0362428522716,51.212268778,0.016691633611,51.2896978687",
     "geom:latitude":51.246881,
     "geom:longitude":-0.008133,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12856,
-    "gn:population":13452,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":12856,
     "iso:country":"GB",
     "lbl:latitude":51.25687,
     "lbl:longitude":-0.00601,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0648\u06a9\u0633\u062a\u062f"
@@ -124,7 +126,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":1125874455,
-    "wof:lastmodified":1563341204,
+    "wof:lastmodified":1566635154,
     "wof:name":"Oxted",
     "wof:parent_id":404431715,
     "wof:placetype":"locality",

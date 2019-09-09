@@ -11,8 +11,10 @@
     "geom:longitude":-1.997018,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.002018,52.510074,-1.992018,52.520074",
     "lbl:latitude":52.515074,
     "lbl:longitude":-1.997018,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.511679,
     "mps:longitude":-1.992497,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Lyng"
-    ],
-    "name:unk_x_variant":[
         "Lyng"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698605,
         102191581,
         1360817335,
         85633159,
         404227469,
         1126041385,
-        1360699035
+        1360699035,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28065,
-        "qs:id":480895,
         "qs_pg:id":480895
     },
     "wof:country":"GB",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699752,
+    "wof:lastmodified":1566627527,
     "wof:name":"The Lyng",
     "wof:parent_id":1126041385,
     "wof:placetype":"neighbourhood",

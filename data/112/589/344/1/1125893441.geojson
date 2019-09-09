@@ -9,15 +9,17 @@
     "geom:bbox":"-1.63880827609,53.7184476349,-1.56797951906,53.7673616048",
     "geom:latitude":53.74394,
     "geom:longitude":-1.600492,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":57385,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
     "gn:population":57385,
     "iso:country":"GB",
     "lbl:latitude":53.74013,
     "lbl:longitude":-1.59877,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0644\u064a"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698609,
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1125893441,
-    "wof:lastmodified":1564159188,
+    "wof:lastmodified":1566634959,
     "wof:name":"Morley",
     "wof:parent_id":404446597,
     "wof:placetype":"locality",

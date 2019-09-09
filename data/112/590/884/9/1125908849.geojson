@@ -9,14 +9,18 @@
     "geom:bbox":"-6.63333,58.33333,-6.63333,58.33333",
     "geom:latitude":58.33333,
     "geom:longitude":-6.63333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-6.65333,58.31333,-6.61333,58.35333",
     "lbl:latitude":58.33333,
     "lbl:longitude":-6.63333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bragar"
@@ -37,9 +41,6 @@
         "Bragar"
     ],
     "name:nld_x_preferred":[
-        "Bragar"
-    ],
-    "name:unk_x_variant":[
         "Bragar"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +64,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":13600,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1125908849,
-    "wof:lastmodified":1563341539,
+    "wof:lastmodified":1566635357,
     "wof:name":"Bragor",
     "wof:parent_id":404429199,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"0.973288319162,51.2282990805,1.0664345662,51.2842941538",
     "geom:latitude":51.255356,
     "geom:longitude":1.014543,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2836,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":2836,
     "iso:country":"GB",
     "lbl:latitude":51.2562,
     "lbl:longitude":1.01836,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u099a\u09be\u09b0\u09cd\u099f\u09b9\u09cd\u09af\u09be\u09ae"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125846813,
-    "wof:lastmodified":1563343003,
+    "wof:lastmodified":1566636267,
     "wof:name":"Chartham",
     "wof:parent_id":404431969,
     "wof:placetype":"locality",

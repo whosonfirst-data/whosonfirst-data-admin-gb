@@ -9,15 +9,17 @@
     "geom:bbox":"-2.58524375795,51.8404790649,-2.52601800412,51.8642437764",
     "geom:latitude":51.854484,
     "geom:longitude":-2.555154,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1999,
-    "gn:population":1849,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1999,
     "iso:country":"GB",
     "lbl:latitude":51.85501,
     "lbl:longitude":-2.55054,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ruardean"
@@ -72,7 +74,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":1125973133,
-    "wof:lastmodified":1563341740,
+    "wof:lastmodified":1566635486,
     "wof:name":"Ruardean",
     "wof:parent_id":404433967,
     "wof:placetype":"locality",

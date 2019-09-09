@@ -9,15 +9,17 @@
     "geom:bbox":"-0.295668081238,52.239211701,-0.23683247047,52.2631220158",
     "geom:latitude":52.250939,
     "geom:longitude":-0.265031,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3073,
-    "gn:population":3244,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":3073,
     "iso:country":"GB",
     "lbl:latitude":52.25045,
     "lbl:longitude":-0.25801,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0644 \u0628\u06a9\u0633\u062a\u0648\u0646"
@@ -80,7 +82,7 @@
         "Little Paxton"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd  \u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd"
+        "\u0bb2\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3f\u0c1f\u0c3f\u0c32\u0c4d \u0c2a\u0c4d\u0c2f\u0c3e\u0c15\u0c4d\u0c37\u0c4d\u0c24\u0c3e\u0c28\u0c4d"
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1125987887,
-    "wof:lastmodified":1563342281,
+    "wof:lastmodified":1566635808,
     "wof:name":"Little Paxton",
     "wof:parent_id":404442697,
     "wof:placetype":"locality",

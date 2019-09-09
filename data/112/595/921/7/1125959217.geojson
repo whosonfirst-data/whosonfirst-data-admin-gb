@@ -9,15 +9,17 @@
     "geom:bbox":"1.02218272622,51.0465773252,1.12899275194,51.0895460206",
     "geom:latitude":51.06931,
     "geom:longitude":1.073926,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14170,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":14170,
     "iso:country":"GB",
     "lbl:latitude":51.0715,
     "lbl:longitude":1.08421,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0647\u0627\u06cc\u062a"
@@ -148,7 +150,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -187,7 +189,7 @@
         }
     ],
     "wof:id":1125959217,
-    "wof:lastmodified":1563339856,
+    "wof:lastmodified":1566634311,
     "wof:name":"Hythe",
     "wof:parent_id":404454909,
     "wof:placetype":"locality",

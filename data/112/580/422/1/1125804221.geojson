@@ -9,15 +9,17 @@
     "geom:bbox":"-3.46535646265,50.6464242451,-3.35638885065,50.7053908732",
     "geom:latitude":50.675107,
     "geom:longitude":-3.405868,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1605,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.67664,
     "lbl:longitude":-3.4016,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0989\u09a1\u09ac\u09c1\u09b0\u09bf"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125804221,
-    "wof:lastmodified":1563340904,
+    "wof:lastmodified":1566634978,
     "wof:name":"Woodbury",
     "wof:parent_id":404454877,
     "wof:placetype":"locality",

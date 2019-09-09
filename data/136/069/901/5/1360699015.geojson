@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":55.530329,
     "lbl:longitude":-2.776329,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.530329,
     "mps:longitude":-2.776329,
     "mz:hierarchy_label":1,
@@ -168,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0456 \u043a\u043e\u0440\u0434\u043e\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borders"
     ],
     "name:urd_x_preferred":[
@@ -250,9 +252,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"4,734",
     "statoids:area_mi":"1,828",
     "statoids:as_of_date":"2011-03-27",
@@ -305,11 +307,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563335856,
+    "wof:lastmodified":1566630406,
     "wof:name":"Scottish Borders",
     "wof:parent_id":1360698725,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary district",
     "wof:population":113870,
     "wof:population_rank":9,

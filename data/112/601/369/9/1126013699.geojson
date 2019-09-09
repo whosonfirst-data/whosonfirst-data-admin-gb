@@ -9,15 +9,17 @@
     "geom:bbox":"-0.155640692604,50.9917631528,-0.119083174883,51.0190801353",
     "geom:latitude":51.00496,
     "geom:longitude":-0.137714,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3339,
-    "gn:population":3500,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":3339,
     "iso:country":"GB",
     "lbl:latitude":51.01073,
     "lbl:longitude":-0.14068,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09be\u0995\u09ab\u09bf\u09b2\u09cd\u09a1"
@@ -115,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1126013699,
-    "wof:lastmodified":1563342401,
+    "wof:lastmodified":1566635886,
     "wof:name":"Cuckfield",
     "wof:parent_id":404435237,
     "wof:placetype":"locality",

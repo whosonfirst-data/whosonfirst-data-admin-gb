@@ -11,12 +11,16 @@
     "geom:longitude":-4.57354,
     "gn:population":4418,
     "iso:country":"GB",
+    "lbl:bbox":"-4.59354,55.836311,-4.55354,55.876311",
     "lbl:latitude":55.856311,
     "lbl:longitude":-4.57354,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.856311,
     "mps:longitude":-4.57354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bridge of Weir"
     ],
@@ -85,7 +89,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.856511,
     "wd:longitude":-4.577667,
@@ -102,10 +106,12 @@
     "wof:concordances":{
         "gn:id":2654736,
         "gp:id":13875,
-        "qs:id":818,
-        "qs_pg:id":246567,
+        "qs_pg:id":818,
         "wd:id":"Q1009612",
         "wk:page":"Bridge of Weir"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":246567
     },
     "wof:country":"GB",
     "wof:geomhash":"325789cac421313874e33d23493425f6",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":101872501,
-    "wof:lastmodified":1563336388,
+    "wof:lastmodified":1566630841,
     "wof:name":"Bridge of Weir",
     "wof:parent_id":404432463,
     "wof:placetype":"locality",

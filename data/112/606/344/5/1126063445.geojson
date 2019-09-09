@@ -9,15 +9,17 @@
     "geom:bbox":"0.69179,51.54424,0.69179,51.54424",
     "geom:latitude":51.54424,
     "geom:longitude":0.69179,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1001,
+    "gn:country":"GB",
+    "gn:fcode":"PPLX",
     "gn:population":1001,
     "iso:country":"GB",
+    "lbl:bbox":"0.68679,51.53924,0.69679,51.54924",
     "lbl:latitude":51.54424,
     "lbl:longitude":0.69179,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Westcliff-on-Sea"
@@ -58,7 +60,7 @@
     "qs_pg:qs_id":1038711,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":1126063445,
-    "wof:lastmodified":1564159468,
+    "wof:lastmodified":1566635843,
     "wof:name":"Westcliff-on-Sea",
     "wof:parent_id":101750371,
     "wof:placetype":"neighbourhood",

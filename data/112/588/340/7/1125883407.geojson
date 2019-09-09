@@ -9,12 +9,15 @@
     "geom:bbox":"0.255169194616,51.2530993011,0.300322135111,51.2999279039",
     "geom:latitude":51.280368,
     "geom:longitude":0.276297,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":51.287107,
     "lbl:longitude":0.286199,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0418\u0433\u0445\u0442\u0445\u0430\u043c"
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125883407,
-    "wof:lastmodified":1563340682,
+    "wof:lastmodified":1566634839,
     "wof:name":"Ightham",
     "wof:parent_id":404440927,
     "wof:placetype":"locality",

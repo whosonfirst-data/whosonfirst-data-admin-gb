@@ -9,14 +9,17 @@
     "geom:bbox":"0.80852457468,52.3285751856,0.847920204311,52.3596117773",
     "geom:latitude":52.345259,
     "geom:longitude":0.828579,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.33956,
     "lbl:longitude":0.81187,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Sapiston"
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125937115,
-    "wof:lastmodified":1563339689,
+    "wof:lastmodified":1566634200,
     "wof:name":"Sapiston",
     "wof:parent_id":404431553,
     "wof:placetype":"locality",

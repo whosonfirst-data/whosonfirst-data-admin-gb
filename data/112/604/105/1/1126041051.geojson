@@ -9,15 +9,17 @@
     "geom:bbox":"-3.04044683693,53.4361522387,-2.95026794279,53.4998486277",
     "geom:latitude":53.46923,
     "geom:longitude":-2.995307,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":57791,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":57791,
     "iso:country":"GB",
     "lbl:latitude":53.46667,
     "lbl:longitude":-3.01667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u0648\u062a\u0644"
@@ -153,7 +155,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -189,7 +191,7 @@
         }
     ],
     "wof:id":1126041051,
-    "wof:lastmodified":1563340160,
+    "wof:lastmodified":1566634510,
     "wof:name":"Bootle",
     "wof:parent_id":1360817501,
     "wof:placetype":"locality",

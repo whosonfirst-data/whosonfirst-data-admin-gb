@@ -9,14 +9,18 @@
     "geom:bbox":"-6.71667,58.2,-6.71667,58.2",
     "geom:latitude":58.2,
     "geom:longitude":-6.71667,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-6.73667,58.18,-6.69667,58.22",
     "lbl:latitude":58.2,
     "lbl:longitude":-6.71667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Callanish"
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u043b\u0430\u043d\u0456\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Callernish"
     ],
     "name:zho_x_preferred":[
@@ -99,7 +103,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":14926,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":1126058611,
-    "wof:lastmodified":1563340008,
+    "wof:lastmodified":1566634407,
     "wof:name":"Calanais",
     "wof:parent_id":404429199,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.620981,
     "lbl:longitude":-2.502034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.620981,
     "mps:longitude":-2.502034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0686\u06cc\u06a9\u0631\u0644"
     ],
@@ -86,9 +89,6 @@
     "name:tel_x_preferred":[
         "\u0c1a\u0c3f\u0c15\u0c4d\u0c15\u0c47\u0c30\u0c46\u0c32\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "West Chickerel"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u06a9\u06cc\u0631\u06cc\u0644"
     ],
@@ -112,7 +112,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.6227,
     "wd:longitude":-2.5053,
@@ -130,7 +130,6 @@
         "fct:id":"0aa2c900-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2653188,
         "gp:id":15873,
-        "qs:id":424191,
         "qs_pg:id":424191,
         "wd:id":"Q2334880",
         "wk:page":"Chickerell"
@@ -155,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336914,
+    "wof:lastmodified":1566631040,
     "wof:name":"Chickerell",
     "wof:parent_id":404455415,
     "wof:placetype":"locality",

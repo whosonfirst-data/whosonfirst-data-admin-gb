@@ -9,12 +9,15 @@
     "geom:bbox":"0.516630505467,51.3992662422,0.652351262811,51.4457483929",
     "geom:latitude":51.422223,
     "geom:longitude":0.57936,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":51.419167,
     "lbl:longitude":0.563285,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09c1 \u09b8\u09c7\u09a8\u09cd\u099f \u0993\u09af\u09bc\u09c7\u09b0\u09ac\u09be\u09b0\u09cd\u0997"
@@ -68,7 +71,7 @@
         "Hoo St. Werburgh"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bc2  \u0bb8\u0bcd\u0b9f   \u0bb5\u0bc6\u0bb0\u0bcd\u0baa\u0bc1\u0bb0\u0b83\u0bb9\u0bcd"
+        "\u0bb9\u0bc2 \u0bb8\u0bcd\u0b9f  \u0bb5\u0bc6\u0bb0\u0bcd\u0baa\u0bc1\u0bb0\u0b83\u0bb9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c42 \u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c35\u0c47\u0c30\u0c4d\u0c2c\u0c30\u0c4d\u0c17\u0c4d"
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1125930715,
-    "wof:lastmodified":1563339627,
+    "wof:lastmodified":1566634156,
     "wof:name":"Hoo St Werburgh",
     "wof:parent_id":404441321,
     "wof:placetype":"locality",

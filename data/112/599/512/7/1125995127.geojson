@@ -9,15 +9,17 @@
     "geom:bbox":"0.0113813428438,52.0941795981,0.0567161621005,52.1249818682",
     "geom:latitude":52.110517,
     "geom:longitude":0.033517,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":594,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.11241,
     "lbl:longitude":0.03253,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Shepreth"
@@ -277,7 +279,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -316,7 +318,7 @@
         }
     ],
     "wof:id":1125995127,
-    "wof:lastmodified":1563341419,
+    "wof:lastmodified":1566635280,
     "wof:name":"Shepreth",
     "wof:parent_id":404440487,
     "wof:placetype":"locality",

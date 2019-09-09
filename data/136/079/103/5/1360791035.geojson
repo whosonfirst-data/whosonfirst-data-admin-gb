@@ -10,12 +10,15 @@
     "geom:latitude":53.656195,
     "geom:longitude":-1.408015,
     "iso:country":"GB",
+    "lbl:bbox":"-1.413015,53.651195,-1.403015,53.661195",
     "lbl:latitude":53.656195,
     "lbl:longitude":-1.408015,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.656195,
     "mps:longitude":-1.408015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u09b6\u09be\u09b0\u09cd\u09b2\u09b8\u099f\u09a8"
     ],
@@ -95,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.669969,
     "wd:longitude":-1.413461,
     "wd:wordcount":456,
@@ -112,10 +115,12 @@
     "wof:concordances":{
         "gn:id":6693722,
         "gp:id":20091886,
-        "qs:id":8,
-        "qs_pg:id":8699,
+        "qs_pg:id":8,
         "wd:id":"Q2797044",
         "wk:page":"Sharlston"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":8699
     },
     "wof:country":"GB",
     "wof:geomhash":"0137e4e565369a2b18c6b37fb1b2f665",
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":1360791035,
-    "wof:lastmodified":1563332742,
+    "wof:lastmodified":1566628328,
     "wof:name":"Sharlston",
     "wof:parent_id":1209644479,
     "wof:placetype":"neighbourhood",

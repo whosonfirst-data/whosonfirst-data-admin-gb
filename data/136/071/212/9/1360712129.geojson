@@ -11,12 +11,15 @@
     "geom:longitude":-4.045305,
     "gn:population":3647,
     "iso:country":"GB",
+    "lbl:bbox":"-4.050305,51.58145,-4.040305,51.59145",
     "lbl:latitude":51.58645,
     "lbl:longitude":-4.045305,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.58645,
     "mps:longitude":-4.045305,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Bishopston"
     ],
@@ -61,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.575,
     "wd:longitude":-4.051,
@@ -80,10 +83,12 @@
         "fct:id":"0aa663da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7291412,
         "gp:id":12789,
-        "qs:id":140965,
-        "qs_pg:id":1317500,
+        "qs_pg:id":140965,
         "wd:id":"Q4918101",
         "wk:page":"Bishopston, Swansea"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1317500
     },
     "wof:country":"GB",
     "wof:geomhash":"61ddf447200ad1e50cd16dac703c4f1f",
@@ -103,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563334119,
+    "wof:lastmodified":1566629040,
     "wof:name":"Bishopston",
     "wof:parent_id":1126024753,
     "wof:placetype":"neighbourhood",

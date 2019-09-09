@@ -9,14 +9,17 @@
     "geom:bbox":"0.823039572442,51.04311413,0.87337498446,51.0968540866",
     "geom:latitude":51.071718,
     "geom:longitude":0.851097,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.07662,
     "lbl:longitude":0.84741,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041e\u0440\u043b\u0435\u0441\u0442\u043e\u043d\u0435"
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125864791,
-    "wof:lastmodified":1563340440,
+    "wof:lastmodified":1566634693,
     "wof:name":"Orlestone",
     "wof:parent_id":404448203,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"-6.25611,54.54504,-6.25611,54.54504",
     "geom:latitude":54.54504,
     "geom:longitude":-6.25611,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-6.27611,54.52504,-6.23611,54.56504",
     "lbl:latitude":54.54504,
     "lbl:longitude":-6.25611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Lower Ballinderry"
@@ -39,7 +43,7 @@
     "name:spa_x_preferred":[
         "Lower Ballinderry"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ballinderry"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +67,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":44469,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Northern Ireland",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1126004081,
-    "wof:lastmodified":1563342473,
+    "wof:lastmodified":1566635926,
     "wof:name":"Ballinderry Lower",
     "wof:parent_id":1360699237,
     "wof:placetype":"locality",

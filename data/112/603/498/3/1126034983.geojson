@@ -9,15 +9,17 @@
     "geom:bbox":"-2.20752923557,51.521120251,-2.12074154112,51.559080365",
     "geom:latitude":51.541502,
     "geom:longitude":-2.161553,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":880,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.53778,
     "lbl:longitude":-2.15163,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0443\u043b\u0430\u0432\u0438\u043d\u0433\u0442\u043e\u043d"
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1126034983,
-    "wof:lastmodified":1563340323,
+    "wof:lastmodified":1566634619,
     "wof:name":"Hullavington",
     "wof:parent_id":404449729,
     "wof:placetype":"locality",

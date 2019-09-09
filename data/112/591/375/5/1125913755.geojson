@@ -9,12 +9,15 @@
     "geom:bbox":"-0.802703497971,52.0500676478,-0.753627544406,52.0741518451",
     "geom:latitude":52.060755,
     "geom:longitude":-0.776377,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":52.064529,
     "lbl:longitude":-0.766811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u062a\u0646\u062a\u0648\u0646\u0628\u0648\u0631\u064a"
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1125913755,
-    "wof:lastmodified":1563342191,
+    "wof:lastmodified":1566635756,
     "wof:name":"Stantonbury",
     "wof:parent_id":404433519,
     "wof:placetype":"locality",

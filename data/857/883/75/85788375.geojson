@@ -10,8 +10,10 @@
     "geom:latitude":53.736916,
     "geom:longitude":-1.721868,
     "iso:country":"GB",
+    "lbl:bbox":"-1.726868,53.731916,-1.716868,53.741916",
     "lbl:latitude":53.736916,
     "lbl:longitude":-1.721868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.739896,
     "mps:longitude":-1.720187,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Hunsworth"
-    ],
-    "name:unk_x_variant":[
         "Hunsworth"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698609,
         102191581,
         85633159,
         404227469,
         101750569,
-        1360698917
+        1360698917,
+        1360698609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698118,
+    "wof:lastmodified":1566627693,
     "wof:name":"Hunsworth",
     "wof:parent_id":101750569,
     "wof:placetype":"neighbourhood",

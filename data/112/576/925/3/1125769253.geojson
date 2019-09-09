@@ -9,15 +9,17 @@
     "geom:bbox":"-2.96970862986,52.1675556597,-2.87363001689,52.255432127",
     "geom:latitude":52.209953,
     "geom:longitude":-2.920177,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":489,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.2183,
     "lbl:longitude":-2.89261,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041f\u0435\u043c\u0431\u0440\u0438\u0434\u0433\u0435"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125769253,
-    "wof:lastmodified":1563342595,
+    "wof:lastmodified":1566636003,
     "wof:name":"Pembridge",
     "wof:parent_id":404447189,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.225849,
     "lbl:longitude":-4.135719,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.22585,
     "mps:longitude":-4.135719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ang_x_preferred":[
         "Bancorena burh"
     ],
@@ -254,7 +257,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.216667,
     "wd:longitude":-4.116667,
@@ -272,7 +275,6 @@
         "fct:id":"0aa67ec4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2656397,
         "gp:id":11768,
-        "qs:id":453396,
         "qs_pg:id":453396,
         "wd:id":"Q234178",
         "wk:page":"Bangor, Gwynedd"
@@ -297,7 +299,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336324,
+    "wof:lastmodified":1566630821,
     "wof:name":"Bangor",
     "wof:parent_id":404435315,
     "wof:placetype":"locality",

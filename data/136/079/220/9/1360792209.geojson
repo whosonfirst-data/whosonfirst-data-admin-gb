@@ -9,12 +9,15 @@
     "geom:bbox":"0.199833,50.752796,0.199833,50.752796",
     "geom:latitude":50.752796,
     "geom:longitude":0.199833,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"0.194833,50.747796,0.204833,50.757796",
     "lbl:latitude":50.752796,
     "lbl:longitude":0.199833,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Westdean"
@@ -40,19 +43,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":39616,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698549,
         102191581,
         404442321,
         85633159,
         404227469,
         1360757705,
-        1360698815
+        1360698815,
+        1360698549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1360792209,
-    "wof:lastmodified":1547731333,
+    "wof:lastmodified":1566628397,
     "wof:name":"West Dean",
     "wof:parent_id":1360757705,
     "wof:placetype":"neighbourhood",

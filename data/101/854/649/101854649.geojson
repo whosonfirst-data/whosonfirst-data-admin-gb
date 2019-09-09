@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.239839,
     "lbl:longitude":1.189444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.239839,
     "mps:longitude":1.189444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0434\u0438\u0448\u0430\u043c"
     ],
@@ -69,7 +72,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.2415,
     "wd:longitude":1.1902,
     "wd:wordcount":452,
@@ -85,10 +88,12 @@
     "wof:concordances":{
         "gn:id":7294682,
         "gp:id":10420,
-        "qs:id":5,
-        "qs_pg:id":1324474,
+        "qs_pg:id":5,
         "wd:id":"Q2790263",
         "wk:page":"Adisham"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1324474
     },
     "wof:coterminous":[
         404454769
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":101854649,
-    "wof:lastmodified":1563336869,
+    "wof:lastmodified":1566631020,
     "wof:name":"Adisham",
     "wof:parent_id":404454769,
     "wof:placetype":"locality",

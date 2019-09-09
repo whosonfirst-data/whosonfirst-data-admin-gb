@@ -10,12 +10,16 @@
     "geom:latitude":56.189661,
     "geom:longitude":-4.051337,
     "iso:country":"GB",
+    "lbl:bbox":"-4.071337,56.169661,-4.031337,56.209661",
     "lbl:latitude":56.189661,
     "lbl:longitude":-4.051336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.189661,
     "mps:longitude":-4.051336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u0443\u043d\u0435"
     ],
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":56.19,
     "wd:longitude":-4.053,
     "wd:wordcount":849,
@@ -112,10 +116,12 @@
     "wof:concordances":{
         "gn:id":2651060,
         "gp:id":28835952,
-        "qs:id":210797,
-        "qs_pg:id":239371,
+        "qs_pg:id":210797,
         "wd:id":"Q1014524",
         "wk:page":"Doune"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":239371
     },
     "wof:country":"GB",
     "wof:geomhash":"29ff53164dd9ba603d141e0b647bcd7b",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":101872597,
-    "wof:lastmodified":1563336394,
+    "wof:lastmodified":1566630843,
     "wof:name":"Doune",
     "wof:parent_id":404433721,
     "wof:placetype":"locality",

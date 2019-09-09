@@ -9,15 +9,17 @@
     "geom:bbox":"0.171001579395,52.2197622902,0.220620552036,52.2698653947",
     "geom:latitude":52.243901,
     "geom:longitude":0.196605,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":378,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.23995,
     "lbl:longitude":0.18552,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0631\u0646\u064a\u0646\u063a\u0633\u064a"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125840239,
-    "wof:lastmodified":1563343002,
+    "wof:lastmodified":1566636267,
     "wof:name":"Horningsea",
     "wof:parent_id":404437325,
     "wof:placetype":"locality",

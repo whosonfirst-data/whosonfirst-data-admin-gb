@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.690502,
     "lbl:longitude":-4.945054,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.690502,
     "mps:longitude":-4.945054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09ae\u09ac\u09cd\u09b0\u09cb\u0995 \u09a1\u0995"
     ],
@@ -121,9 +124,6 @@
     "name:tel_x_preferred":[
         "\u0c2a\u0c46\u0c02\u0c2c\u0c4d\u0c30\u0c4b\u0c15\u0c4d \u0c21\u0c3e\u0c15\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Doc Penfro"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0645\u0628\u0631\u0648\u06a9\u06cc\u00a0\u0688\u0648\u06a9"
     ],
@@ -148,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2553,
     "wof:belongsto":[
@@ -164,7 +164,6 @@
         "fct:id":"0aa63cc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2640502,
         "gp:id":31603,
-        "qs:id":899615,
         "qs_pg:id":899615,
         "wd:id":"Q784824",
         "wk:page":"Pembroke Dock"
@@ -186,7 +185,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336477,
+    "wof:lastmodified":1566630874,
     "wof:name":"Pembroke Dock",
     "wof:parent_id":404436399,
     "wof:placetype":"locality",

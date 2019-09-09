@@ -9,15 +9,17 @@
     "geom:bbox":"1.21703859644,52.6683045801,1.28027079735,52.7284026104",
     "geom:latitude":52.701629,
     "geom:longitude":1.251037,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3688,
-    "gn:population":4163,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":3688,
     "iso:country":"GB",
     "lbl:latitude":52.70153,
     "lbl:longitude":1.24015,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09b0\u09cd\u09ac\u09c1\u09b8 \u09b9\u09b0\u09cd\u09b8\u09ab\u09cb\u09b0\u09cd\u09a1"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125844535,
-    "wof:lastmodified":1563343045,
+    "wof:lastmodified":1566636287,
     "wof:name":"Horsford",
     "wof:parent_id":404450025,
     "wof:placetype":"locality",

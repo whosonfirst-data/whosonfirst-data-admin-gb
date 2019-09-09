@@ -11,12 +11,15 @@
     "geom:longitude":-0.328622,
     "gn:population":43544,
     "iso:country":"GB",
+    "lbl:bbox":"-0.333622,51.297733,-0.323622,51.307733",
     "lbl:latitude":51.284252,
     "lbl:longitude":-0.304871,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.302732,
     "mps:longitude":-0.328622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u062a\u0631\u0647\u06cc\u062f"
     ],
@@ -93,7 +96,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"wk",
     "wd:latitude":51.2951,
     "wd:longitude":-0.3289,
@@ -111,10 +114,12 @@
         "fct:id":"0aa18964-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2644726,
         "gp:id":25985,
-        "qs:id":5,
-        "qs_pg:id":453846,
+        "qs_pg:id":5,
         "wd:id":"Q1810766",
         "wk:page":"Leatherhead"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":453846
     },
     "wof:country":"GB",
     "wof:geomhash":"801d7f3da2f407d87ce3e79518a962fe",
@@ -133,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563333467,
+    "wof:lastmodified":1566628683,
     "wof:name":"Leatherhead",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-1.56667,52.76667,-1.56667,52.76667",
     "geom:latitude":52.76667,
     "geom:longitude":-1.56667,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.57167,52.76167,-1.56167,52.77167",
     "lbl:latitude":52.76667,
     "lbl:longitude":-1.56667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Newhall"
@@ -31,9 +34,6 @@
         "Newhall "
     ],
     "name:pol_x_variant":[
-        "Newhall"
-    ],
-    "name:unk_x_variant":[
         "Newhall"
     ],
     "qs_pg:aaroncc":"GB",
@@ -57,7 +57,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":25515,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1360794641,
-    "wof:lastmodified":1563333048,
+    "wof:lastmodified":1566628471,
     "wof:name":"Knenhall",
     "wof:parent_id":101853671,
     "wof:placetype":"neighbourhood",

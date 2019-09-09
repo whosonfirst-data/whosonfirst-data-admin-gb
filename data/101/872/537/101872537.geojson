@@ -10,8 +10,11 @@
     "geom:latitude":55.944538,
     "geom:longitude":-4.553628,
     "iso:country":"GB",
+    "lbl:bbox":"-4.573628,55.924538,-4.533628,55.964538",
     "lbl:latitude":55.94596,
     "lbl:longitude":-4.553628,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.94596,
     "mps:longitude":-4.553628,
     "mz:hierarchy_label":1,
@@ -243,7 +246,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.948611,
     "wd:longitude":-4.547222,
     "wd:wordcount":4458,
@@ -260,10 +263,12 @@
         "fips:code":"UK87",
         "gn:id":2650802,
         "gp:id":18612,
-        "qs:id":1037084,
-        "qs_pg:id":1073467,
+        "qs_pg:id":1037084,
         "wd:id":"Q34779",
         "wk:page":"Dumbarton"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073467
     },
     "wof:country":"GB",
     "wof:geomhash":"bbc7660596194c44a543c98fc03106fa",
@@ -279,7 +284,7 @@
         }
     ],
     "wof:id":101872537,
-    "wof:lastmodified":1563336387,
+    "wof:lastmodified":1566630841,
     "wof:name":"Dumbarton",
     "wof:parent_id":404444819,
     "wof:placetype":"locality",

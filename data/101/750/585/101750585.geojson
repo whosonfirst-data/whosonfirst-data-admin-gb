@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.74616,
     "lbl:longitude":-2.405234,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.74616,
     "mps:longitude":-2.405234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0643\u0631\u064a\u0646\u062c\u062a\u0648\u0646"
     ],
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.75337,
     "wd:longitude":-2.36384,
@@ -158,7 +161,6 @@
     "wof:concordances":{
         "gn:id":2657770,
         "gp:id":10313,
-        "qs:id":1312746,
         "qs_pg:id":1312746,
         "wd:id":"Q1622949",
         "wk:page":"Accrington"
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":101750585,
-    "wof:lastmodified":1563336668,
+    "wof:lastmodified":1566630933,
     "wof:name":"Accrington",
     "wof:parent_id":1360698817,
     "wof:placetype":"locality",

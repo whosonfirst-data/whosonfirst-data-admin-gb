@@ -9,15 +9,17 @@
     "geom:bbox":"-1.06002472822,52.548929179,-1.01160249671,52.596944623",
     "geom:latitude":52.575117,
     "geom:longitude":-1.034575,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3066,
-    "gn:population":2977,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":3066,
     "iso:country":"GB",
     "lbl:latitude":52.57548,
     "lbl:longitude":-1.0349,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09c7\u099f \u0997\u09cd\u09b2\u09c7\u09a8"
@@ -77,12 +79,12 @@
         "Great Glen"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd  \u0b95\u0bbf\u0bb3\u0bc6\u0ba9\u0bcd"
+        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0b95\u0bbf\u0bb3\u0bc6\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c47\u0c1f\u0c4d \u0c17\u0c4d\u0c32\u0c46\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Great Glenn"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1125849731,
-    "wof:lastmodified":1563343132,
+    "wof:lastmodified":1566636329,
     "wof:name":"Great Glen",
     "wof:parent_id":404437943,
     "wof:placetype":"locality",

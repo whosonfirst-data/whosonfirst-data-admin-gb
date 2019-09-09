@@ -10,12 +10,15 @@
     "geom:latitude":54.769601,
     "geom:longitude":-1.703078,
     "iso:country":"GB",
+    "lbl:bbox":"-1.708078,54.764601,-1.698078,54.774601",
     "lbl:latitude":54.769602,
     "lbl:longitude":-1.703077,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.769602,
     "mps:longitude":-1.703077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:cym_x_preferred":[
         "Esh Winning"
     ],
@@ -53,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.7698,
     "wd:longitude":-1.70366,
     "wd:wordcount":888,
@@ -70,9 +73,11 @@
     "wof:concordances":{
         "gn:id":2649914,
         "gp:id":19686,
-        "qs:id":1,
-        "qs_pg:id":492333,
+        "qs_pg:id":1,
         "wd:id":"Q5397758"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":492333
     },
     "wof:country":"GB",
     "wof:geomhash":"7aabc8440f1571f7db02b455c96df81d",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":1360791123,
-    "wof:lastmodified":1563333704,
+    "wof:lastmodified":1566628801,
     "wof:name":"Esh Winning",
     "wof:parent_id":1360753835,
     "wof:placetype":"neighbourhood",

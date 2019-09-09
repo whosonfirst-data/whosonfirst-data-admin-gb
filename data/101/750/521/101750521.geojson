@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.428465,
     "lbl:longitude":-1.349639,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":53.428465,
     "mps:longitude":-1.349639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ast_x_preferred":[
         "Rotherham"
     ],
@@ -164,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0442\u0435\u0440\u0433\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rotherdam"
     ],
     "name:urd_x_preferred":[
@@ -196,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.43,
     "wd:longitude":-1.357222,
@@ -213,10 +216,12 @@
     "wof:concordances":{
         "gn:id":2639093,
         "gp:id":33591,
-        "qs:id":278990,
-        "qs_pg:id":897759,
+        "qs_pg:id":278990,
         "wd:id":"Q217039",
         "wk:page":"Rotherham"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":897759
     },
     "wof:country":"GB",
     "wof:geomhash":"3da75ce0efd45d4c26cb05ab498dcb4c",
@@ -232,7 +237,7 @@
         }
     ],
     "wof:id":101750521,
-    "wof:lastmodified":1563336582,
+    "wof:lastmodified":1566630910,
     "wof:name":"Rotherham",
     "wof:parent_id":1360817063,
     "wof:placetype":"locality",

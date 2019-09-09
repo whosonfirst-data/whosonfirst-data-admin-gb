@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.404202,
     "lbl:longitude":-1.260631,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.404202,
     "mps:longitude":-1.260631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0627\u0686\u0647\u0627\u0645"
     ],
@@ -129,7 +132,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.405,
     "wd:longitude":-1.2645,
     "wd:wordcount":699,
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":2636049,
         "gp:id":37156,
-        "qs:id":1313913,
         "qs_pg:id":1313913,
         "wd:id":"Q1026304",
         "wk:page":"Thatcham"
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":101852665,
-    "wof:lastmodified":1563337034,
+    "wof:lastmodified":1566631087,
     "wof:name":"Thatcham",
     "wof:parent_id":404441283,
     "wof:placetype":"locality",

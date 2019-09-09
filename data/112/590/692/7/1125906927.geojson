@@ -9,12 +9,15 @@
     "geom:bbox":"0.0704108710191,52.1112922757,0.115016440782,52.1353192947",
     "geom:latitude":52.122701,
     "geom:longitude":0.09638,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":52.134765,
     "lbl:longitude":0.099344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Newton"
@@ -217,7 +220,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":1125906927,
-    "wof:lastmodified":1564159295,
+    "wof:lastmodified":1566635317,
     "wof:name":"Newton",
     "wof:parent_id":404446763,
     "wof:placetype":"locality",

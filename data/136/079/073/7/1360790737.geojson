@@ -10,12 +10,15 @@
     "geom:latitude":51.504153,
     "geom:longitude":-1.96737,
     "iso:country":"GB",
+    "lbl:bbox":"-1.97237,51.499153,-1.96237,51.509153",
     "lbl:latitude":51.504153,
     "lbl:longitude":-1.967369,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.504153,
     "mps:longitude":-1.967369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Church End"
     ],
@@ -44,7 +47,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -59,9 +62,11 @@
     "wof:concordances":{
         "gn:id":2653041,
         "gp:id":20092846,
-        "qs:id":2,
-        "qs_pg:id":524434,
+        "qs_pg:id":2,
         "wd:id":"Q5116583"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":524434
     },
     "wof:country":"GB",
     "wof:geomhash":"6d50e37b7aa2946554011ea8cbe7b5e4",
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":1360790737,
-    "wof:lastmodified":1563333450,
+    "wof:lastmodified":1566628676,
     "wof:name":"Church End",
     "wof:parent_id":1360757521,
     "wof:placetype":"neighbourhood",

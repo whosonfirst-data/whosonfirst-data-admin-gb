@@ -10,12 +10,16 @@
     "geom:latitude":55.13243,
     "geom:longitude":-6.661809,
     "iso:country":"GB",
+    "lbl:bbox":"-6.681809,55.11243,-6.641809,55.15243",
     "lbl:latitude":55.132429,
     "lbl:longitude":-6.661808,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.132429,
     "mps:longitude":-6.661808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u064a\u0631\u064a\u0646"
     ],
@@ -143,7 +147,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360699231,
         102191581,
@@ -155,10 +159,12 @@
     "wof:concordances":{
         "gn:id":2652586,
         "gp:id":44657,
-        "qs:id":1037118,
-        "qs_pg:id":1074004,
+        "qs_pg:id":1037118,
         "wd:id":"Q1108185",
         "wk:page":"Coleraine"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074004
     },
     "wof:country":"GB",
     "wof:geomhash":"62999c0a45e0b6df9083a249e732244c",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":101873875,
-    "wof:lastmodified":1563336181,
+    "wof:lastmodified":1566630771,
     "wof:name":"Coleraine",
     "wof:parent_id":1360699231,
     "wof:placetype":"locality",

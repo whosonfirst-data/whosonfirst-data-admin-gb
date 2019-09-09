@@ -10,12 +10,15 @@
     "geom:latitude":50.990958,
     "geom:longitude":-1.756604,
     "iso:country":"GB",
+    "lbl:bbox":"-1.761604,50.985958,-1.751604,50.995958",
     "lbl:latitude":50.990958,
     "lbl:longitude":-1.756604,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.990958,
     "mps:longitude":-1.756604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Downton"
     ],
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Downton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Doynton"
     ],
     "qs:a0":"United Kingdom",
@@ -65,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.993,
     "wd:longitude":-1.743,
     "wd:wordcount":1588,
@@ -82,10 +85,12 @@
     "wof:concordances":{
         "gn:id":2651017,
         "gp:id":18423,
-        "qs:id":92228,
-        "qs_pg:id":228198,
+        "qs_pg:id":92228,
         "wd:id":"Q2110657",
         "wk:page":"Downton, Wiltshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":228198
     },
     "wof:country":"GB",
     "wof:geomhash":"532eebc40adc806dae3b0dfd63868ecb",
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":1360790743,
-    "wof:lastmodified":1563333466,
+    "wof:lastmodified":1566628683,
     "wof:name":"Downton",
     "wof:parent_id":1360755973,
     "wof:placetype":"neighbourhood",

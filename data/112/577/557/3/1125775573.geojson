@@ -9,15 +9,17 @@
     "geom:bbox":"0.451854752404,51.3772345168,0.50847669184,51.4095051112",
     "geom:latitude":51.394468,
     "geom:longitude":0.482341,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":33381,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":33381,
     "iso:country":"GB",
     "lbl:latitude":51.39594,
     "lbl:longitude":0.49361,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0631\u0648\u062f"
@@ -144,7 +146,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -180,7 +182,7 @@
         }
     ],
     "wof:id":1125775573,
-    "wof:lastmodified":1563343148,
+    "wof:lastmodified":1566636339,
     "wof:name":"Strood",
     "wof:parent_id":1360817083,
     "wof:placetype":"locality",

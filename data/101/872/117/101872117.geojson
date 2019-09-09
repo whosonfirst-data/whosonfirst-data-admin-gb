@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.513191,
     "lbl:longitude":-2.039717,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.513191,
     "mps:longitude":-2.039717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0633\u0644\u06cc"
     ],
@@ -121,7 +124,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.5147,
     "wd:longitude":-2.0387,
@@ -138,10 +141,12 @@
     "wof:concordances":{
         "gn:id":2642143,
         "gp:id":29424,
-        "qs:id":373334,
         "qs_pg:id":278273,
         "wd:id":"Q613847",
         "wk:page":"Mossley"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":373334
     },
     "wof:coterminous":[
         404446135
@@ -160,7 +165,7 @@
         }
     ],
     "wof:id":101872117,
-    "wof:lastmodified":1563336386,
+    "wof:lastmodified":1566630840,
     "wof:name":"Mossley",
     "wof:parent_id":404446135,
     "wof:placetype":"locality",

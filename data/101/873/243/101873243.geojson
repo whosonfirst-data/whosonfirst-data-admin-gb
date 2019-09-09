@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.846078,
     "lbl:longitude":-1.761732,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.846078,
     "mps:longitude":-1.761732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0987\u09b2\u09cd\u09a1\u09a8"
     ],
@@ -106,7 +109,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.851,
     "wd:longitude":-1.763,
@@ -123,10 +126,12 @@
     "wof:concordances":{
         "gn:id":2656627,
         "gp:id":11605,
-        "qs:id":352041,
-        "qs_pg:id":1073302,
+        "qs_pg:id":352041,
         "wd:id":"Q2575062",
         "wk:page":"Baildon"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073302
     },
     "wof:coterminous":[
         404431689
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":101873243,
-    "wof:lastmodified":1563336177,
+    "wof:lastmodified":1566630770,
     "wof:name":"Baildon",
     "wof:parent_id":404431689,
     "wof:placetype":"locality",

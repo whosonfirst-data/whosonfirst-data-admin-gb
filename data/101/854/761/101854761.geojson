@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.778039,
     "lbl:longitude":0.913209,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.778039,
     "mps:longitude":0.913209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0633\u062a \u0645\u0631\u0633\u06cc"
     ],
@@ -90,7 +93,7 @@
         "West Mersea"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0bae\u0bc7\u0bb1\u0bcd\u0bb8\u0bc0"
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb1\u0bcd\u0bb8\u0bc0"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c2e\u0c46\u0c30\u0c4d\u0c38\u0c40"
@@ -121,7 +124,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.7784,
     "wd:longitude":0.9168,
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":2634345,
         "gp:id":39744,
-        "qs:id":1276644,
         "qs_pg:id":1276644,
         "wd:id":"Q2343199",
         "wk:page":"West Mersea"
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101854761,
-    "wof:lastmodified":1563336861,
+    "wof:lastmodified":1566631017,
     "wof:name":"West Mersea",
     "wof:parent_id":404433159,
     "wof:placetype":"locality",

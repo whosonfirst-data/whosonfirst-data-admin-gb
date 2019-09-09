@@ -9,15 +9,17 @@
     "geom:bbox":"-1.52636153903,53.2830502805,-1.44066866354,53.3218452734",
     "geom:latitude":53.304835,
     "geom:longitude":-1.477835,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":20942,
-    "gn:population":21124,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":20942,
     "iso:country":"GB",
     "lbl:latitude":53.30221,
     "lbl:longitude":-1.47507,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u0631\u0648\u0646\u0641\u06cc\u0644\u062f"
@@ -142,7 +144,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -181,7 +183,7 @@
         }
     ],
     "wof:id":1125947719,
-    "wof:lastmodified":1563339559,
+    "wof:lastmodified":1566634112,
     "wof:name":"Dronfield",
     "wof:parent_id":404432025,
     "wof:placetype":"locality",

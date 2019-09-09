@@ -11,12 +11,16 @@
     "geom:longitude":-3.792723,
     "gn:population":18885,
     "iso:country":"GB",
+    "lbl:bbox":"-3.812723,56.096826,-3.772723,56.136826",
     "lbl:latitude":56.116824,
     "lbl:longitude":-3.792724,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.116824,
     "mps:longitude":-3.792724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0627\u0644\u0648\u0622"
     ],
@@ -130,7 +134,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.116667,
     "wd:longitude":-3.8,
@@ -147,10 +151,12 @@
     "wof:concordances":{
         "gn:id":2657471,
         "gp:id":10650,
-        "qs:id":141033,
-        "qs_pg:id":1073277,
+        "qs_pg:id":141033,
         "wd:id":"Q1009331",
         "wk:page":"Alloa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073277
     },
     "wof:country":"GB",
     "wof:geomhash":"196dcd3a936e98b471b3acc5963c9858",
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":101874193,
-    "wof:lastmodified":1563336107,
+    "wof:lastmodified":1566630745,
     "wof:name":"Alloa",
     "wof:parent_id":404443383,
     "wof:placetype":"locality",

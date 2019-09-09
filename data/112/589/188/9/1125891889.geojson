@@ -9,15 +9,17 @@
     "geom:bbox":"-3.52794822676,50.5550645621,-3.42293915208,50.6177040611",
     "geom:latitude":50.590129,
     "geom:longitude":-3.478011,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10676,
-    "gn:population":11312,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":10676,
     "iso:country":"GB",
     "lbl:latitude":50.58118,
     "lbl:longitude":-3.46644,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u0627\u0648\u0644\u06cc\u0634"
@@ -139,7 +141,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":1125891889,
-    "wof:lastmodified":1563340838,
+    "wof:lastmodified":1566634935,
     "wof:name":"Dawlish",
     "wof:parent_id":404436419,
     "wof:placetype":"locality",

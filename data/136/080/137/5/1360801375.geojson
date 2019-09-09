@@ -9,12 +9,15 @@
     "geom:bbox":"-2.935752,54.225658,-2.935752,54.225658",
     "geom:latitude":54.225658,
     "geom:longitude":-2.935752,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-2.940752,54.220658,-2.930752,54.230658",
     "lbl:latitude":54.225658,
     "lbl:longitude":-2.935752,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Field Broughton"
@@ -37,19 +40,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20148,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698721,
         102191581,
         404454353,
         85633159,
         404227469,
         1360753457,
-        1360698877
+        1360698877,
+        1360698721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1360801375,
-    "wof:lastmodified":1547729064,
+    "wof:lastmodified":1566629477,
     "wof:name":"Field Broughton",
     "wof:parent_id":1360753457,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.04609837236,52.1925500218,-0.979567668859,52.2256969955",
     "geom:latitude":52.20776,
     "geom:longitude":-1.010053,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2835,
-    "gn:population":2692,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2835,
     "iso:country":"GB",
     "lbl:latitude":52.21006,
     "lbl:longitude":-1.01304,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0997\u09ac\u09cd\u09b0\u09c1\u0995"
@@ -103,7 +105,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1125848549,
-    "wof:lastmodified":1563343112,
+    "wof:lastmodified":1566636321,
     "wof:name":"Bugbrooke",
     "wof:parent_id":404443415,
     "wof:placetype":"locality",

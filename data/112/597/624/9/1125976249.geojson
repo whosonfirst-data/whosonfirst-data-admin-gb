@@ -9,14 +9,17 @@
     "geom:bbox":"-2.37693878921,53.1549360289,-2.25748227911,53.2064803875",
     "geom:latitude":53.177788,
     "geom:longitude":-2.3195,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.16667,
     "lbl:longitude":-2.33333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Brereton"
@@ -27,7 +30,7 @@
     "name:pol_x_preferred":[
         "Brereton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brereton cum Smethwick"
     ],
     "qs_pg:aaroncc":"GB",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125976249,
-    "wof:lastmodified":1564159352,
+    "wof:lastmodified":1566635530,
     "wof:name":"Brereton",
     "wof:parent_id":404430925,
     "wof:placetype":"locality",

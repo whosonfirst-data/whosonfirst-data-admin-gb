@@ -28,10 +28,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.104587,
     "lbl:longitude":1.120763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.106107,
     "mps:longitude":1.106371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b2\u09c7\u09a1\u09a8"
     ],
@@ -107,7 +110,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         1360698595,
@@ -122,13 +125,13 @@
         "fct:id":"0aa28ea4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2652908,
         "gp:id":16219,
-        "qs:id":1113461,
         "qs_pg:id":1037121,
         "wd:id":"Q3242544",
         "wk:page":"Claydon%2C_Suffolk"
     },
     "wof:concordances_alt":{
-        "gn:id":2652909
+        "gn:id":2652909,
+        "qs_pg:id":1113461
     },
     "wof:coterminous":[
         404429563
@@ -150,7 +153,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336478,
+    "wof:lastmodified":1566630875,
     "wof:name":"Claydon",
     "wof:parent_id":404429563,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-3.43933573424,54.647872335,-3.37963176292,54.6700246787",
     "geom:latitude":54.658455,
     "geom:longitude":-3.409355,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":756,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.65,
     "lbl:longitude":-3.41667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u063a\u0647\u0627\u0645\u060c \u0643\u0648\u0645\u0628\u0631\u064a\u0627"
@@ -88,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":1125912467,
-    "wof:lastmodified":1563342131,
+    "wof:lastmodified":1566635722,
     "wof:name":"Brigham",
     "wof:parent_id":404450085,
     "wof:placetype":"locality",

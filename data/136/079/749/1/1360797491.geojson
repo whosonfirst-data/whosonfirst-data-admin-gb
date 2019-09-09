@@ -9,14 +9,17 @@
     "geom:bbox":"-1.43292,52.59839,-1.43292,52.59839",
     "geom:latitude":52.59839,
     "geom:longitude":-1.43292,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.43792,52.59339,-1.42792,52.60339",
     "lbl:latitude":52.59839,
     "lbl:longitude":-1.43292,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Shenton"
@@ -42,19 +45,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":34552,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698569,
         102191581,
         404453585,
         85633159,
         404227469,
         1125883771,
-        1360698871
+        1360698871,
+        1360698569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1360797491,
-    "wof:lastmodified":1547721651,
+    "wof:lastmodified":1566628547,
     "wof:name":"Shenton",
     "wof:parent_id":1125883771,
     "wof:placetype":"neighbourhood",

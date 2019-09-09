@@ -9,15 +9,17 @@
     "geom:bbox":"-2.28151829917,51.267570127,-2.21559853896,51.3093364834",
     "geom:latitude":51.293076,
     "geom:longitude":-2.24243,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1739,
-    "gn:population":1754,
+    "gn:country":null,
+    "gn:fcode":"PPLA3",
+    "gn:population":1739,
     "iso:country":"GB",
     "lbl:latitude":51.30038,
     "lbl:longitude":-2.23006,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Southwick"
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125973141,
-    "wof:lastmodified":1563341743,
+    "wof:lastmodified":1566635488,
     "wof:name":"Southwick",
     "wof:parent_id":404455027,
     "wof:placetype":"locality",

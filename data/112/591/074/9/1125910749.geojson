@@ -9,15 +9,17 @@
     "geom:bbox":"-3.57994643874,51.7158976947,-3.41674146397,51.8300842508",
     "geom:latitude":51.772793,
     "geom:longitude":-3.490255,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":7247,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.73917,
     "lbl:longitude":-3.51028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u09b0\u09ac\u09be\u0989\u09a8"
@@ -103,7 +105,7 @@
     "name:tel_x_preferred":[
         "\u0c39\u0c3f\u0c30\u0c4d\u0c35\u0c3e\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hirwain"
     ],
     "name:urd_x_preferred":[
@@ -135,7 +137,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":23569,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":1125910749,
-    "wof:lastmodified":1563342131,
+    "wof:lastmodified":1566635722,
     "wof:name":"Hirwaun",
     "wof:parent_id":404450987,
     "wof:placetype":"locality",

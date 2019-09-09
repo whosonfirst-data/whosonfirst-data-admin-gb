@@ -11,8 +11,10 @@
     "geom:longitude":-3.138245,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-3.143245,56.134086,-3.133245,56.144086",
     "lbl:latitude":56.139086,
     "lbl:longitude":-3.138245,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.15264,
     "mps:longitude":-3.139999,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Gallatown"
-    ],
-    "name:unk_x_variant":[
         "Gallatown"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698659,
         102191581,
         404444217,
         85633159,
         404227471,
-        1360699123
+        1360699123,
+        1360698659
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20091149,
-        "qs:id":13559,
         "qs_pg:id":13559
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542194324,
+    "wof:lastmodified":1566627905,
     "wof:name":"Gallatown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-3.09376,51.60287,-3.09376,51.60287",
     "geom:latitude":51.60287,
     "geom:longitude":-3.09376,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.09876,51.59787,-3.08876,51.60787",
     "lbl:latitude":51.60287,
     "lbl:longitude":-3.09376,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Pont-y-meistr"
@@ -31,9 +34,6 @@
         "Pontymister"
     ],
     "name:nld_x_preferred":[
-        "Pontymister"
-    ],
-    "name:unk_x_variant":[
         "Pontymister"
     ],
     "qs_pg:aaroncc":"GB",
@@ -57,7 +57,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":32275,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1360712433,
-    "wof:lastmodified":1563333953,
+    "wof:lastmodified":1566628939,
     "wof:name":"Pont-y-mister",
     "wof:parent_id":1360711599,
     "wof:placetype":"neighbourhood",

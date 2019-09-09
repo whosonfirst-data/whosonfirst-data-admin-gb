@@ -9,12 +9,15 @@
     "geom:bbox":"0.109791525391,52.1204431497,0.143366342657,52.1523704884",
     "geom:latitude":52.135298,
     "geom:longitude":0.124101,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":52.143549,
     "lbl:longitude":0.121021,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0644 \u0634\u0644\u0641\u0631\u062f"
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125880781,
-    "wof:lastmodified":1563340637,
+    "wof:lastmodified":1566634816,
     "wof:name":"Little Shelford",
     "wof:parent_id":404441465,
     "wof:placetype":"locality",

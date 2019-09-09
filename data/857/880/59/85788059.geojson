@@ -10,8 +10,10 @@
     "geom:latitude":52.593569,
     "geom:longitude":-2.105829,
     "iso:country":"GB",
+    "lbl:bbox":"-2.110829,52.588569,-2.100829,52.598569",
     "lbl:latitude":52.593569,
     "lbl:longitude":-2.105829,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.596552,
     "mps:longitude":-2.102668,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Heath Town"
     ],
     "name:pol_x_preferred":[
-        "Heath Town"
-    ],
-    "name:unk_x_variant":[
         "Heath Town"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -66,21 +65,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2620,
     "wof:belongsto":[
-        1360698605,
         102191581,
         85633159,
         404227469,
         1126027181,
-        1360698737
+        1360698737,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2647228,
         "gp:id":22860,
-        "qs:id":1080306,
         "qs_pg:id":1080306,
         "wd:id":"Q5693563"
     },
@@ -101,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547717700,
+    "wof:lastmodified":1566627531,
     "wof:name":"Heath Town",
     "wof:parent_id":1126027181,
     "wof:placetype":"neighbourhood",

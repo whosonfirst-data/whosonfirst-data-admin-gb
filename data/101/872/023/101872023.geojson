@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.927931,
     "lbl:longitude":-4.134199,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.927931,
     "mps:longitude":-4.134199,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Porthmadog"
     ],
@@ -98,9 +101,6 @@
     "name:swe_x_preferred":[
         "Porthmadog"
     ],
-    "name:unk_x_variant":[
-        "Portmadoc"
-    ],
     "name:zho_x_preferred":[
         "\u6ce2\u65af\u99ac\u591a\u683c"
     ],
@@ -125,7 +125,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":6205,
     "wof:belongsto":[
@@ -141,7 +141,6 @@
         "fct:id":"0aa652a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2640045,
         "gp:id":32414,
-        "qs:id":385191,
         "qs_pg:id":385191,
         "wd:id":"Q950671",
         "wk:page":"Porthmadog"
@@ -166,7 +165,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336320,
+    "wof:lastmodified":1566630818,
     "wof:name":"Porthmadog",
     "wof:parent_id":404445877,
     "wof:placetype":"locality",

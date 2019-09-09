@@ -9,15 +9,17 @@
     "geom:bbox":"-1.23584744689,52.1334836297,-1.18554159064,52.1603616592",
     "geom:latitude":52.147934,
     "geom:longitude":-1.211975,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":422,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.14887,
     "lbl:longitude":-1.20807,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Eydon"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125775419,
-    "wof:lastmodified":1563343211,
+    "wof:lastmodified":1566636374,
     "wof:name":"Eydon",
     "wof:parent_id":404436487,
     "wof:placetype":"locality",

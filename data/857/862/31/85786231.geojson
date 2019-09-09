@@ -11,8 +11,10 @@
     "geom:longitude":-0.597145,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.602145,51.506754,-0.592145,51.516754",
     "lbl:latitude":51.511754,
     "lbl:longitude":-0.597145,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.518834,
     "mps:longitude":-0.600786,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "Canvey-on-Sea"
-    ],
-    "name:unk_x_variant":[
-        "Canvey"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698529,
         102191581,
         85633159,
         404227469,
         101750381,
-        1360699061
+        1360699061,
+        1360698529
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15062,
-        "qs:id":1079359,
         "qs_pg:id":1079359
     },
     "wof:country":"GB",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542403462,
+    "wof:lastmodified":1566627717,
     "wof:name":"Canvey",
     "wof:parent_id":101750381,
     "wof:placetype":"neighbourhood",

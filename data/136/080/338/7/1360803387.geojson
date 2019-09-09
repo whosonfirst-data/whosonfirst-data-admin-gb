@@ -9,15 +9,17 @@
     "geom:bbox":"-1.44547,50.97745,-1.44547,50.97745",
     "geom:latitude":50.97745,
     "geom:longitude":-1.44547,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":6823,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.45047,50.97245,-1.44047,50.98245",
     "lbl:latitude":50.97745,
     "lbl:longitude":-1.44547,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09cd\u09a5 \u09ac\u09be\u09a1\u09c7\u09b8\u09b2\u09c7"
@@ -77,7 +79,7 @@
         "North Baddesley"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0baa\u0bc7\u0b9f\u0bcd\u0ba4\u0bc7\u0bb8\u0bcd\u0bb2\u0bc7"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc7\u0b9f\u0bcd\u0ba4\u0bc7\u0bb8\u0bcd\u0bb2\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c30\u0c4d\u0c24\u0c4d \u0c2c\u0c21\u0c4d\u0c21\u0c47\u0c38\u0c4d\u0c32\u0c40"
@@ -106,7 +108,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":30415,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":1360803387,
-    "wof:lastmodified":1563334265,
+    "wof:lastmodified":1566629136,
     "wof:name":"North Bradley",
     "wof:parent_id":1125910631,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.101818506668,53.2469764203,-0.0277307658157,53.2785061927",
     "geom:latitude":53.262418,
     "geom:longitude":-0.064689,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":255,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.26003,
     "lbl:longitude":-0.06017,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0447\u0444\u043e\u0440\u0434"
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1125908587,
-    "wof:lastmodified":1563341478,
+    "wof:lastmodified":1566635315,
     "wof:name":"Belchford",
     "wof:parent_id":404429275,
     "wof:placetype":"locality",

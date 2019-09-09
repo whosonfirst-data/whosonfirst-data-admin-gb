@@ -15,6 +15,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.476326,
     "lbl:longitude":-3.033741,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.479873,
     "mps:longitude":-3.025743,
     "mz:hierarchy_label":1,
@@ -158,9 +159,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0442\u0435\u0440\u043b\u043e\u043e"
     ],
-    "name:unk_x_variant":[
-        "Waterloo"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0679\u0631\u0644\u0648"
     ],
@@ -206,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -221,7 +219,6 @@
     "wof:concordances":{
         "gn:id":8224785,
         "gp:id":39291,
-        "qs:id":891308,
         "qs_pg:id":891308
     },
     "wof:country":"GB",
@@ -242,7 +239,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564152070,
+    "wof:lastmodified":1566627648,
     "wof:name":"Waterloo",
     "wof:parent_id":1125942385,
     "wof:placetype":"neighbourhood",

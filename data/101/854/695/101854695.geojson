@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.479436,
     "lbl:longitude":-0.624005,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.479436,
     "mps:longitude":-0.624004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ang_x_preferred":[
         "Windles\u014dra"
     ],
@@ -173,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u0434\u0437\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "New Windsor"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698529,
@@ -224,7 +227,6 @@
     "wof:concordances":{
         "gn:id":2633842,
         "gp:id":40631,
-        "qs:id":238734,
         "qs_pg:id":238734,
         "wd:id":"Q464955",
         "wk:page":"Windsor, Berkshire"
@@ -242,7 +244,7 @@
         }
     ],
     "wof:id":101854695,
-    "wof:lastmodified":1563336837,
+    "wof:lastmodified":1566631007,
     "wof:name":"Windsor",
     "wof:parent_id":1360698943,
     "wof:placetype":"locality",

@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":53.612169,
     "lbl:longitude":-0.62227,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.612169,
     "mps:longitude":-0.62227,
     "mz:hierarchy_label":1,
@@ -103,7 +105,7 @@
         "North Lincolnshire"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0bb2\u0bbf\u0b99\u0b95\u0bbe\u0ba9\u0bcd\u0bb7\u0bbf\u0bb0\u0bcd"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bb2\u0bbf\u0b99\u0b95\u0bbe\u0ba9\u0bcd\u0bb7\u0bbf\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c32\u0c3f\u0c02\u0c15\u0c28\u0c4d\u0c37\u0c48\u0c30\u0c4d"
@@ -193,9 +195,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"833",
     "statoids:area_mi":"322",
     "statoids:as_of_date":"2011-03-27",
@@ -244,11 +246,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563336081,
+    "wof:lastmodified":1566630716,
     "wof:name":"North Lincolnshire",
     "wof:parent_id":1360698571,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary authority",
     "wof:population":167446,
     "wof:population_rank":9,

@@ -10,12 +10,15 @@
     "geom:latitude":53.006373,
     "geom:longitude":-2.327604,
     "iso:country":"GB",
+    "lbl:bbox":"-2.332604,53.001373,-2.322604,53.011373",
     "lbl:latitude":53.006374,
     "lbl:longitude":-2.327604,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.006374,
     "mps:longitude":-2.327604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u09a1\u09c7\u09b2\u09c7"
     ],
@@ -102,7 +105,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.001,
     "wd:longitude":-2.341,
     "wd:wordcount":938,
@@ -119,9 +122,11 @@
     "wof:concordances":{
         "gn:id":2643232,
         "gp:id":28109,
-        "qs:id":338184,
         "qs_pg:id":281260,
         "wd:id":"Q2438868"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":338184
     },
     "wof:country":"GB",
     "wof:geomhash":"c96c43bef0a5fd18ba41882828c6daf4",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":1360790953,
-    "wof:lastmodified":1563333597,
+    "wof:lastmodified":1566628749,
     "wof:name":"Madeley Heath",
     "wof:parent_id":1125795421,
     "wof:placetype":"neighbourhood",

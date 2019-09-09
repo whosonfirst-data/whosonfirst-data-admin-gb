@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":51.615603,
     "lbl:longitude":-2.522694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.614083,
     "mps:longitude":-2.524214,
     "mz:hierarchy_label":1,
@@ -187,7 +189,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.6094,
     "wd:longitude":-2.5249,
     "wd:wordcount":2587,
@@ -204,10 +206,12 @@
         "fips:code":"UK01",
         "gn:id":2636002,
         "gp:id":37311,
-        "qs:id":373261,
-        "qs_pg:id":1073868,
+        "qs_pg:id":373261,
         "wd:id":"Q1234779",
         "wk:page":"Thornbury, Gloucestershire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073868
     },
     "wof:coterminous":[
         404452765
@@ -226,7 +230,7 @@
         }
     ],
     "wof:id":101875433,
-    "wof:lastmodified":1563336495,
+    "wof:lastmodified":1566630881,
     "wof:name":"Thornbury",
     "wof:parent_id":404452765,
     "wof:placetype":"locality",

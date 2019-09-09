@@ -9,15 +9,17 @@
     "geom:bbox":"-2.51355891348,51.2898473978,-2.45861156731,51.3183933716",
     "geom:latitude":51.306156,
     "geom:longitude":-2.489935,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":4873,
+    "gn:country":null,
+    "gn:fcode":"PPLA3",
     "gn:population":4873,
     "iso:country":"GB",
     "lbl:latitude":51.305618,
     "lbl:longitude":-2.503724,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Paulton"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1126003567,
-    "wof:lastmodified":1563342500,
+    "wof:lastmodified":1566635941,
     "wof:name":"Paulton",
     "wof:parent_id":404442245,
     "wof:placetype":"locality",

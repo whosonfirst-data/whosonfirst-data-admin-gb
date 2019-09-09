@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.333995,
     "lbl:longitude":-4.793341,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.333995,
     "mps:longitude":-4.793341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0633\u0646\u062a \u0622\u0633\u062a\u0644"
     ],
@@ -125,13 +128,10 @@
         "St Austell"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b9f  \u0b86\u0bb8\u0bcd\u0b9f\u0bb2\u0bcd"
+        "\u0bb8\u0bcd\u0b9f \u0b86\u0bb8\u0bcd\u0b9f\u0bb2\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c06\u0c38\u0c4d\u0c1f\u0c46\u0c32\u0c4d"
-    ],
-    "name:unk_x_variant":[
-        "Saint Austell"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u0627\u0648\u0633\u062a\u06cc\u0644"
@@ -168,7 +168,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.338,
     "wd:longitude":-4.795,
@@ -186,7 +186,6 @@
         "fct:id":"0aa435ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2638853,
         "gp:id":35582,
-        "qs:id":900472,
         "qs_pg:id":900472,
         "wd:id":"Q772614",
         "wk:page":"St Austell"
@@ -211,7 +210,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563337002,
+    "wof:lastmodified":1566631073,
     "wof:name":"St Austell",
     "wof:parent_id":404435789,
     "wof:placetype":"locality",

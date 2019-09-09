@@ -9,14 +9,17 @@
     "geom:bbox":"-3.74397667296,52.894232134,-3.43680272871,53.012069208",
     "geom:latitude":52.953941,
     "geom:longitude":-3.584016,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.92127,
     "lbl:longitude":-3.5156,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Llandderfel"
@@ -57,7 +60,7 @@
     "name:swe_x_preferred":[
         "Llandderfel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Llanderfel"
     ],
     "nav:latitude":52.92127,
@@ -83,7 +86,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":26800,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1126012657,
-    "wof:lastmodified":1563342423,
+    "wof:lastmodified":1566635899,
     "wof:name":"Llandderfel",
     "wof:parent_id":404440825,
     "wof:placetype":"locality",

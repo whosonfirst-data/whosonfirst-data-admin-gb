@@ -9,15 +9,17 @@
     "geom:bbox":"-3.21187685057,53.2455889884,-3.11364184702,53.306170075",
     "geom:latitude":53.274938,
     "geom:longitude":-3.164215,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2749,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":2749,
     "iso:country":"GB",
     "lbl:latitude":53.2654,
     "lbl:longitude":-3.16551,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Bagillt"
@@ -55,7 +57,7 @@
     "name:swe_x_preferred":[
         "Bagillt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bagilt"
     ],
     "nav:latitude":53.2654,
@@ -81,7 +83,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":11587,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":1126008035,
-    "wof:lastmodified":1564159490,
+    "wof:lastmodified":1566635926,
     "wof:name":"Bagillt",
     "wof:parent_id":404445827,
     "wof:placetype":"locality",

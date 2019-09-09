@@ -9,14 +9,17 @@
     "geom:bbox":"-2.24995716461,51.1300963094,-2.14937206745,51.1905720631",
     "geom:latitude":51.166933,
     "geom:longitude":-2.19774,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.16647,
     "lbl:longitude":-2.18831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b2\u0982\u0997\u09cd\u09b0\u09bf\u099c \u09a1\u09c7\u09ad\u09c7\u09b0\u09bf\u09b2"
@@ -67,7 +70,7 @@
         "Longbridge Deverill"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbe\u0b99\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9c\u0bcd  \u0ba4\u0bc7\u0bb5\u0bc7\u0bb0\u0bbf\u0bb2\u0bcd"
+        "\u0bb2\u0bbe\u0b99\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9c\u0bcd \u0ba4\u0bc7\u0bb5\u0bc7\u0bb0\u0bbf\u0bb2\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c02\u0c17\u0c4d \u0c2c\u0c4d\u0c30\u0c3f\u0c21\u0c4d\u0c1c\u0c3f \u0c26\u0c47\u0c35\u0c47\u0c30\u0c3f\u0c32\u0c4d"
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1125960799,
-    "wof:lastmodified":1563341906,
+    "wof:lastmodified":1566635598,
     "wof:name":"Longbridge Deverill",
     "wof:parent_id":404431971,
     "wof:placetype":"locality",

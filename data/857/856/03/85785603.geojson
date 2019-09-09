@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.391043,
     "lbl:longitude":-2.853365,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.391442,
     "mps:longitude":-2.853296,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Belle Vale"
     ],
     "name:pol_x_preferred":[
-        "Belle Vale"
-    ],
-    "name:unk_x_variant":[
         "Belle Vale"
     ],
     "qs:gn_id":0,
@@ -62,20 +60,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1338,
     "wof:belongsto":[
-        1360698573,
         102191581,
         85633159,
         404227469,
         101750547,
-        1360698971
+        1360698971,
+        1360698573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12305,
-        "qs:id":215485,
         "qs_pg:id":215485,
         "wd:id":"Q4883699"
     },
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542399893,
+    "wof:lastmodified":1566627599,
     "wof:name":"Belle Vale",
     "wof:parent_id":101750547,
     "wof:placetype":"neighbourhood",

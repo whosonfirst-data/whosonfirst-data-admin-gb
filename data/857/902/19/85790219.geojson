@@ -15,6 +15,7 @@
     "iso:country":"GB",
     "lbl:latitude":55.968328,
     "lbl:longitude":-3.142758,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.972765,
     "mps:longitude":-3.138442,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "Seafield"
     ],
     "name:swe_x_preferred":[
-        "Seafield"
-    ],
-    "name:unk_x_variant":[
         "Seafield"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -71,9 +69,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         404437279,
@@ -87,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2638312,
         "gp:id":34273,
-        "qs:id":1114001,
         "qs_pg:id":1114001
     },
     "wof:country":"GB",
@@ -108,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564152086,
+    "wof:lastmodified":1566627667,
     "wof:name":"Seafield",
     "wof:parent_id":101750629,
     "wof:placetype":"neighbourhood",

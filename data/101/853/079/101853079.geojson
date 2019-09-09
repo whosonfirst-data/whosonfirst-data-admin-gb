@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.195008,
     "lbl:longitude":-1.59286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.195008,
     "mps:longitude":-1.59286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b2\u09c7\u09b8\u09ac\u09b0\u09cd\u09a8"
     ],
@@ -76,9 +79,6 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c32\u0c4d\u0c32\u0c46\u0c38\u0c4d \u0c2c\u0c4b\u0c30\u0c4d\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Wellesbourne Hastings"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0644\u06cc\u0633\u0628\u0648\u0648\u0631\u0646\u06cc"
     ],
@@ -102,7 +102,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.194339,
     "wd:longitude":-1.594719,
     "wd:wordcount":1092,
@@ -119,7 +119,6 @@
         "fct:id":"0aa2cc3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2634582,
         "gp:id":39441,
-        "qs:id":1260175,
         "qs_pg:id":1260175,
         "wd:id":"Q2861086",
         "wk:page":"Wellesbourne"
@@ -144,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336738,
+    "wof:lastmodified":1566630962,
     "wof:name":"Wellesbourne",
     "wof:parent_id":404453429,
     "wof:placetype":"locality",

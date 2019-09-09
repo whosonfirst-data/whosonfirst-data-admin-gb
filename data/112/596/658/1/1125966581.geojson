@@ -9,15 +9,17 @@
     "geom:bbox":"0.241694035657,52.4300948936,0.429357502761,52.5135704526",
     "geom:latitude":52.469557,
     "geom:longitude":0.329022,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6877,
-    "gn:population":7935,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":6877,
     "iso:country":"GB",
     "lbl:latitude":52.45784,
     "lbl:longitude":0.30603,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0644\u0628\u0631\u062a"
@@ -118,7 +120,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":1125966581,
-    "wof:lastmodified":1563341928,
+    "wof:lastmodified":1566635609,
     "wof:name":"Littleport",
     "wof:parent_id":404454035,
     "wof:placetype":"locality",

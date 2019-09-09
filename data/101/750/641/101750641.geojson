@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":56.473055,
     "lbl:longitude":-2.993131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.473055,
     "mps:longitude":-2.993131,
     "mz:hierarchy_label":1,
@@ -399,7 +401,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":56.464,
     "wd:longitude":-2.97,
     "wd:wordcount":13965,
@@ -415,7 +417,6 @@
     "wof:concordances":{
         "gn:id":2650752,
         "gp:id":18637,
-        "qs:id":352015,
         "qs_pg:id":352015,
         "wd:id":"Q123709",
         "wk:page":"Dundee"
@@ -434,7 +435,7 @@
         }
     ],
     "wof:id":101750641,
-    "wof:lastmodified":1563336640,
+    "wof:lastmodified":1566630928,
     "wof:name":"Dundee",
     "wof:parent_id":404430743,
     "wof:placetype":"locality",

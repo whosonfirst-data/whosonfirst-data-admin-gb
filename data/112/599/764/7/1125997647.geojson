@@ -9,15 +9,17 @@
     "geom:bbox":"-0.0322342871868,53.0010726091,0.0466162254084,53.0782600078",
     "geom:latitude":53.042001,
     "geom:longitude":0.010901,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1464,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.03858,
     "lbl:longitude":0.01579,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0438\u0431\u0441\u0435\u0439"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125997647,
-    "wof:lastmodified":1563341258,
+    "wof:lastmodified":1566635190,
     "wof:name":"Sibsey",
     "wof:parent_id":404429159,
     "wof:placetype":"locality",

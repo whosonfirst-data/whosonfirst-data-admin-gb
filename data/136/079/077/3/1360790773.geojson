@@ -10,12 +10,15 @@
     "geom:latitude":51.533044,
     "geom:longitude":-1.076658,
     "iso:country":"GB",
+    "lbl:bbox":"-1.081658,51.528044,-1.071658,51.538044",
     "lbl:latitude":51.533044,
     "lbl:longitude":-1.076658,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.533044,
     "mps:longitude":-1.076658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Woodcote"
     ],
@@ -59,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.534,
     "wd:longitude":-1.072,
     "wd:wordcount":1343,
@@ -76,10 +79,12 @@
     "wof:concordances":{
         "gn:id":2633664,
         "gp:id":40920,
-        "qs:id":1040945,
-        "qs_pg:id":1199491,
+        "qs_pg:id":1040945,
         "wd:id":"Q8032531",
         "wk:page":"Woodcote"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1199491
     },
     "wof:country":"GB",
     "wof:geomhash":"b182307884f84b4df781a051a11ce92e",
@@ -96,7 +101,7 @@
         }
     ],
     "wof:id":1360790773,
-    "wof:lastmodified":1563332916,
+    "wof:lastmodified":1566628410,
     "wof:name":"Woodcote",
     "wof:parent_id":1209544843,
     "wof:placetype":"neighbourhood",

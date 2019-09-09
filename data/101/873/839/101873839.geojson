@@ -11,12 +11,16 @@
     "geom:longitude":-6.2743,
     "gn:population":28932,
     "iso:country":"GB",
+    "lbl:bbox":"-6.2943,54.841576,-6.2543,54.881576",
     "lbl:latitude":54.861577,
     "lbl:longitude":-6.2743,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.861577,
     "mps:longitude":-6.2743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Ballymena"
     ],
@@ -150,7 +154,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360699239,
@@ -163,10 +167,12 @@
     "wof:concordances":{
         "gn:id":2656490,
         "gp:id":44509,
-        "qs:id":140996,
-        "qs_pg:id":219208,
+        "qs_pg:id":140996,
         "wd:id":"Q805451",
         "wk:page":"Ballymena"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":219208
     },
     "wof:country":"GB",
     "wof:geomhash":"ad16f1847bcbe426cf5df29a086b5cab",
@@ -181,7 +187,7 @@
         }
     ],
     "wof:id":101873839,
-    "wof:lastmodified":1563336278,
+    "wof:lastmodified":1566630803,
     "wof:name":"Ballymena",
     "wof:parent_id":1360699239,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-2.74763,53.40368,-2.74763,53.40368",
     "geom:latitude":53.40368,
     "geom:longitude":-2.74763,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.75263,53.39868,-2.74263,53.40868",
     "lbl:latitude":53.40368,
     "lbl:longitude":-2.74763,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b0\u09c7\u0987\u09a8\u09b9\u09bf\u09b2"
@@ -93,7 +96,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0439\u043d\u0445\u0456\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rainhull"
     ],
     "name:urd_x_preferred":[
@@ -126,7 +129,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":13660,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1360802305,
-    "wof:lastmodified":1563335070,
+    "wof:lastmodified":1566629615,
     "wof:name":"Brandhill",
     "wof:parent_id":1125913979,
     "wof:placetype":"neighbourhood",

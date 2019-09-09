@@ -11,8 +11,10 @@
     "geom:longitude":-2.292725,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.297725,52.184144,-2.287725,52.194144",
     "lbl:latitude":52.189144,
     "lbl:longitude":-2.292725,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.193239,
     "mps:longitude":-2.283581,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Crown East"
-    ],
-    "name:unk_x_variant":[
         "Crown East"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698613,
         102191581,
         404430419,
         85633159,
         404227469,
         1360320663,
-        1360699043
+        1360699043,
+        1360698613
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":17519,
-        "qs:id":1192260,
         "qs_pg:id":1192260
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547728533,
+    "wof:lastmodified":1566627597,
     "wof:name":"Crown East",
     "wof:parent_id":1360320663,
     "wof:placetype":"neighbourhood",

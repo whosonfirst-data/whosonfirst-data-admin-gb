@@ -9,15 +9,17 @@
     "geom:bbox":"-1.28162212783,52.6696284868,-1.18166226629,52.7144636857",
     "geom:latitude":52.693158,
     "geom:longitude":-1.22543,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":537,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.66667,
     "lbl:longitude":-1.23333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Newtown Linford"
@@ -55,7 +57,7 @@
     "name:swe_x_preferred":[
         "Newtown Linford"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Newtown Limford"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +87,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1125952089,
-    "wof:lastmodified":1563339845,
+    "wof:lastmodified":1566634305,
     "wof:name":"Newtown Linford",
     "wof:parent_id":404431459,
     "wof:placetype":"locality",

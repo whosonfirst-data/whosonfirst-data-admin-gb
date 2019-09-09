@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.409889,
     "lbl:longitude":-4.214244,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.409889,
     "mps:longitude":-4.214244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0644\u062a\u0634"
     ],
@@ -143,7 +146,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.408,
     "wd:longitude":-4.212,
@@ -160,7 +163,6 @@
     "wof:concordances":{
         "gn:id":2638651,
         "gp:id":33904,
-        "qs:id":967159,
         "qs_pg:id":967159,
         "wd:id":"Q1994597",
         "wk:page":"Saltash"
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":101852381,
-    "wof:lastmodified":1563337080,
+    "wof:lastmodified":1566631098,
     "wof:name":"Saltash",
     "wof:parent_id":404450003,
     "wof:placetype":"locality",

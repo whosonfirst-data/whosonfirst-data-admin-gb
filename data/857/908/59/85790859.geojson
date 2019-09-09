@@ -11,8 +11,10 @@
     "geom:longitude":-0.584411,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.589411,53.207241,-0.579411,53.217241",
     "lbl:latitude":53.212241,
     "lbl:longitude":-0.584411,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.208833,
     "mps:longitude":-0.584703,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Swanpool"
-    ],
-    "name:unk_x_variant":[
         "Swanpool"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,22 +58,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":65,
     "wof:belongsto":[
-        1360698571,
         102191581,
         85633159,
         404227469,
         101750523,
-        1360699067
+        1360699067,
+        1360698571
     ],
     "wof:breaches":[
         85785725
     ],
     "wof:concordances":{
         "gp:id":36755,
-        "qs:id":897771,
         "qs_pg:id":897771
     },
     "wof:country":"GB",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698496,
+    "wof:lastmodified":1566627519,
     "wof:name":"Swanpool",
     "wof:parent_id":101750523,
     "wof:placetype":"neighbourhood",

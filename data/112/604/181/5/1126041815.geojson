@@ -9,14 +9,17 @@
     "geom:bbox":"-2.30532531138,53.973799265,-2.21864254354,53.9967179373",
     "geom:latitude":53.985418,
     "geom:longitude":-2.261654,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.98505,
     "lbl:longitude":-2.23984,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Halton West"
@@ -36,7 +39,7 @@
     "name:swe_x_preferred":[
         "Halton West"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "West Halton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1126041815,
-    "wof:lastmodified":1563340200,
+    "wof:lastmodified":1566634539,
     "wof:name":"Halton West",
     "wof:parent_id":404440049,
     "wof:placetype":"locality",

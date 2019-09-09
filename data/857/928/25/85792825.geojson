@@ -11,8 +11,10 @@
     "geom:longitude":-1.467965,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.472965,50.915239,-1.462965,50.925239",
     "lbl:latitude":50.920239,
     "lbl:longitude":-1.467965,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.917533,
     "mps:longitude":-1.479986,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Wimpson"
-    ],
-    "name:unk_x_variant":[
         "Wimpson"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698557,
         102191581,
         85633159,
         404227469,
         101750311,
-        1360698907
+        1360698907,
+        1360698557
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43771,
-        "qs:id":219200,
         "qs_pg:id":219200
     },
     "wof:country":"GB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542399133,
+    "wof:lastmodified":1566627791,
     "wof:name":"Wimpson",
     "wof:parent_id":101750311,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-4.48333,53.41667,-4.48333,53.41667",
     "geom:latitude":53.41667,
     "geom:longitude":-4.48333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-4.48833,53.41167,-4.47833,53.42167",
     "lbl:latitude":53.41667,
     "lbl:longitude":-4.48333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u0627\u0646\u062f\u064a\u0648\u0633\u0627\u0646\u062a"
@@ -54,7 +57,7 @@
     "name:sco_x_preferred":[
         "Llanddeusant"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Llanddausaint"
     ],
     "qs_pg:aaroncc":"GB",
@@ -78,7 +81,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":26802,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1360714759,
-    "wof:lastmodified":1563334125,
+    "wof:lastmodified":1566629043,
     "wof:name":"Llanddeusant",
     "wof:parent_id":1126042667,
     "wof:placetype":"neighbourhood",
