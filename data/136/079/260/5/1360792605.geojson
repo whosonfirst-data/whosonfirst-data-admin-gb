@@ -9,17 +9,19 @@
     "geom:bbox":"-1.22875,51.86425,-1.22875,51.86425",
     "geom:latitude":51.86425,
     "geom:longitude":-1.22875,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":523,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.23375,51.85925,-1.22375,51.86925",
     "lbl:latitude":51.86425,
     "lbl:longitude":-1.22875,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weston"
     ],
     "qs_pg:aaroncc":"GB",
@@ -43,20 +45,20 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":41185,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698585,
         102191581,
         404440061,
         85633159,
         404227469,
         1125920635,
-        1360698839
+        1360698839,
+        1360698585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1360792605,
-    "wof:lastmodified":1547722684,
+    "wof:lastmodified":1566628482,
     "wof:name":"Woughton on the Green",
     "wof:parent_id":1125920635,
     "wof:placetype":"neighbourhood",

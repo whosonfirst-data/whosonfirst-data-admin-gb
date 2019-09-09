@@ -9,15 +9,17 @@
     "geom:bbox":"-2.72083359674,53.6525176334,-2.63998399712,53.6819092607",
     "geom:latitude":53.668051,
     "geom:longitude":-2.681166,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7863,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":7863,
     "iso:country":"GB",
     "lbl:latitude":53.6699,
     "lbl:longitude":-2.67615,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09c1\u0995\u09cd\u09b8\u099f\u09a8"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125992591,
-    "wof:lastmodified":1563341302,
+    "wof:lastmodified":1566635218,
     "wof:name":"Euxton",
     "wof:parent_id":404445469,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"1.37802836037,51.1887552813,1.40613962456,51.2194584664",
     "geom:latitude":51.202884,
     "geom:longitude":1.396403,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.2029,
     "lbl:longitude":1.38685,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0627\u0644\u0645\u0631"
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1125803909,
-    "wof:lastmodified":1563340899,
+    "wof:lastmodified":1566634974,
     "wof:name":"Walmer",
     "wof:parent_id":404429921,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.74581446124,52.6662056373,-1.69460532589,52.710029317",
     "geom:latitude":52.690083,
     "geom:longitude":-1.718302,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":632,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.69103,
     "lbl:longitude":-1.72103,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0415\u043b\u0444\u043e\u0440\u0434"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125801201,
-    "wof:lastmodified":1563340955,
+    "wof:lastmodified":1566635007,
     "wof:name":"Elford",
     "wof:parent_id":404453613,
     "wof:placetype":"locality",

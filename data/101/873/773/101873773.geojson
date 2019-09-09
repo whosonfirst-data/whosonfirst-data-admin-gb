@@ -10,12 +10,16 @@
     "geom:latitude":54.505314,
     "geom:longitude":-6.186781,
     "iso:country":"GB",
+    "lbl:bbox":"-6.206781,54.485314,-6.166781,54.525314",
     "lbl:latitude":54.505314,
     "lbl:longitude":-6.18678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.505314,
     "mps:longitude":-6.18678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maghaberry"
     ],
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.505,
     "wd:longitude":-6.19028,
     "wd:wordcount":376,
@@ -76,9 +80,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835649,
-        "qs:id":6,
-        "qs_pg:id":898092,
+        "qs_pg:id":6,
         "wd:id":"Q2022663"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":898092
     },
     "wof:country":"GB",
     "wof:geomhash":"c26066e76a3efed25b7198ee7dc39299",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":101873773,
-    "wof:lastmodified":1563336297,
+    "wof:lastmodified":1566630809,
     "wof:name":"Maghaberry",
     "wof:parent_id":1360699237,
     "wof:placetype":"locality",

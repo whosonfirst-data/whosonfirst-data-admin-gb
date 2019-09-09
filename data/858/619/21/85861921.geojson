@@ -11,8 +11,10 @@
     "geom:longitude":-1.082664,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.087664,52.963332,-1.077664,52.973332",
     "lbl:latitude":52.968332,
     "lbl:longitude":-1.082664,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.966094,
     "mps:longitude":-1.075562,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Bakers Fields"
-    ],
-    "name:unk_x_variant":[
         "Bakers Fields"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698583,
         102191581,
         1360817357,
         85633159,
         404227469,
         1125946055,
-        1360698809
+        1360698809,
+        1360698583
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20094393,
-        "qs:id":336548,
         "qs_pg:id":336548
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699774,
+    "wof:lastmodified":1566627834,
     "wof:name":"Bakers Fields",
     "wof:parent_id":1125946055,
     "wof:placetype":"neighbourhood",

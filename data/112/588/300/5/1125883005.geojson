@@ -9,15 +9,17 @@
     "geom:bbox":"-1.35368209041,53.0809503133,-1.30061472043,53.1086685918",
     "geom:latitude":53.093373,
     "geom:longitude":-1.324204,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14357,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":14357,
     "iso:country":"GB",
     "lbl:latitude":53.09062,
     "lbl:longitude":-1.31767,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09a8\u0995\u09cd\u09b8\u099f\u09a8"
@@ -115,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1125883005,
-    "wof:lastmodified":1563340590,
+    "wof:lastmodified":1566634789,
     "wof:name":"Pinxton",
     "wof:parent_id":404448621,
     "wof:placetype":"locality",

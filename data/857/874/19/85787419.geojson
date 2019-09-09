@@ -13,8 +13,10 @@
     "gn:longitude":-1.82549,
     "gn:population":28973,
     "iso:country":"GB",
+    "lbl:bbox":"-2.179263,52.577782,-2.169263,52.587782",
     "lbl:latitude":52.582782,
     "lbl:longitude":-2.174263,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.581357,
     "mps:longitude":-2.17804,
     "mz:hierarchy_label":0,
@@ -216,10 +218,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0447\u0444\u0456\u043b\u0434"
     ],
-    "name:unk_x_variant":[
-        "Lichfield",
-        "Finchfield"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0686\u0641\u06cc\u0644\u0688"
     ],
@@ -265,7 +263,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -279,7 +277,6 @@
     "wof:concordances":{
         "gn:id":2644531,
         "gp:id":20181,
-        "qs:id":239361,
         "qs_pg:id":239361,
         "wd:id":"Q207371",
         "wk:page":"Lichfield"
@@ -301,7 +298,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331640,
+    "wof:lastmodified":1566627529,
     "wof:name":"Finchfield",
     "wof:parent_id":1126027181,
     "wof:placetype":"neighbourhood",

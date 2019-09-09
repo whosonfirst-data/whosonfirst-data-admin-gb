@@ -9,15 +9,17 @@
     "geom:bbox":"-1.75661455038,52.4150224972,-1.67465975461,52.445806336",
     "geom:latitude":52.430054,
     "geom:longitude":-1.710444,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1692,
+    "gn:country":null,
+    "gn:fcode":"PPLA3",
     "gn:population":1692,
     "iso:country":"GB",
     "lbl:latitude":52.421057,
     "lbl:longitude":-1.689662,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09ae\u09cd\u09aa\u099f\u09a8 \u0987\u09a8 \u098f\u09a1\u09c7\u09a8"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1125991857,
-    "wof:lastmodified":1563341421,
+    "wof:lastmodified":1566635281,
     "wof:name":"Hampton in Arden",
     "wof:parent_id":404438699,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.53529760717,53.1265255748,-1.49536552655,53.1539866572",
     "geom:latitude":53.138686,
     "geom:longitude":-1.516102,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1197,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.13197,
     "lbl:longitude":-1.51882,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0430\u043d\u0441\u043b\u0435\u0439"
@@ -64,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1126048475,
-    "wof:lastmodified":1563340232,
+    "wof:lastmodified":1566634559,
     "wof:name":"Tansley",
     "wof:parent_id":404444645,
     "wof:placetype":"locality",

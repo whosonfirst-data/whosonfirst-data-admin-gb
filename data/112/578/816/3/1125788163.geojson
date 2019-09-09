@@ -9,12 +9,15 @@
     "geom:bbox":"0.715592034693,51.2778286747,0.763732510099,51.3110389785",
     "geom:latitude":51.293035,
     "geom:longitude":0.737439,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":51.296692,
     "lbl:longitude":0.729904,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u0441\u0442\u0435\u0430\u0434"
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125788163,
-    "wof:lastmodified":1563342727,
+    "wof:lastmodified":1566636096,
     "wof:name":"Milstead",
     "wof:parent_id":404444701,
     "wof:placetype":"locality",

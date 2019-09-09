@@ -9,15 +9,17 @@
     "geom:bbox":"-1.22328590457,51.3572698668,-1.17115766586,51.3957887124",
     "geom:latitude":51.377966,
     "geom:longitude":-1.197363,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":325,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.37933,
     "lbl:longitude":-1.19794,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0645\u0628\u062a\u0648\u0646"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1126016147,
-    "wof:lastmodified":1563342406,
+    "wof:lastmodified":1566635889,
     "wof:name":"Brimpton",
     "wof:parent_id":404446823,
     "wof:placetype":"locality",

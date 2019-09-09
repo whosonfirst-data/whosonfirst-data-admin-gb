@@ -9,15 +9,17 @@
     "geom:bbox":"-3.05975816762,53.8573280693,-2.96572823111,53.8988195537",
     "geom:latitude":53.87944,
     "geom:longitude":-3.011059,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":31157,
+    "gn:country":"GB",
+    "gn:fcode":"PPLL",
     "gn:population":31157,
     "iso:country":"GB",
     "lbl:latitude":53.877795,
     "lbl:longitude":-3.046774,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Thornton-Cleveleys"
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1125786323,
-    "wof:lastmodified":1563342757,
+    "wof:lastmodified":1566636121,
     "wof:name":"Thornton-cleveleys",
     "wof:parent_id":1360817225,
     "wof:placetype":"locality",

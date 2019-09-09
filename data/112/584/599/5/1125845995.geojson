@@ -9,14 +9,18 @@
     "geom:bbox":"-1.31667,59.88333,-1.31667,59.88333",
     "geom:latitude":59.88333,
     "geom:longitude":-1.31667,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.33667,59.86333,-1.29667,59.90333",
     "lbl:latitude":59.88333,
     "lbl:longitude":-1.31667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Toab"
@@ -30,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u0430\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tolob"
     ],
     "qs_pg:aaroncc":"GB",
@@ -54,7 +58,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":37689,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1125845995,
-    "wof:lastmodified":1563343070,
+    "wof:lastmodified":1566636299,
     "wof:name":"Toab",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

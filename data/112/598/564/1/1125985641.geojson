@@ -9,12 +9,15 @@
     "geom:bbox":"0.970309188816,52.0680796991,1.02825600328,52.0986712368",
     "geom:latitude":52.082862,
     "geom:longitude":0.999209,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":52.080379,
     "lbl:longitude":0.997437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Elmsett"
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1125985641,
-    "wof:lastmodified":1563342254,
+    "wof:lastmodified":1566635791,
     "wof:name":"Elmsett",
     "wof:parent_id":404442213,
     "wof:placetype":"locality",

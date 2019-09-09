@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.493983,
     "lbl:longitude":-3.022026,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.493868,
     "mps:longitude":-3.022357,
     "mz:hierarchy_label":1,
@@ -29,9 +30,8 @@
     "name:pol_x_preferred":[
         "Great Crosby"
     ],
-    "name:unk_x_variant":[
-        "Crosby",
-        "Great Crosby"
+    "name:und_x_variant":[
+        "Crosby"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -60,22 +60,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1701,
     "wof:belongsto":[
-        1360698573,
         102191581,
         1360817501,
         85633159,
         404227469,
         1125942385,
-        1360698771
+        1360698771,
+        1360698573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2648127,
         "gp:id":21612,
-        "qs:id":1082221,
         "qs_pg:id":1082221,
         "wd:id":"Q5599024",
         "wk:page":"Great Crosby"
@@ -98,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699843,
+    "wof:lastmodified":1566627690,
     "wof:name":"Great Crosby",
     "wof:parent_id":1125942385,
     "wof:placetype":"neighbourhood",

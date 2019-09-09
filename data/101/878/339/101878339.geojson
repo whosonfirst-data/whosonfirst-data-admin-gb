@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.446805,
     "lbl:longitude":-6.367432,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":54.446805,
     "mps:longitude":-6.367432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Craigavon"
     ],
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360699225,
@@ -132,10 +135,12 @@
     "wof:concordances":{
         "gn:id":2652152,
         "gp:id":44675,
-        "qs:id":279729,
-        "qs_pg:id":488917,
+        "qs_pg:id":279729,
         "wd:id":"Q1004085",
         "wk:page":"Craigavon"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":488917
     },
     "wof:country":"GB",
     "wof:geomhash":"6d7c73829867bcbbcc0e8dae5ba18509",
@@ -150,7 +155,7 @@
         }
     ],
     "wof:id":101878339,
-    "wof:lastmodified":1563336721,
+    "wof:lastmodified":1566630953,
     "wof:name":"Craigavon",
     "wof:parent_id":1360699225,
     "wof:placetype":"locality",

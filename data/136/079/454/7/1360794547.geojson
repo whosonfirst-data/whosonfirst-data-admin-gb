@@ -9,12 +9,15 @@
     "geom:bbox":"-1.993167,53.324878,-1.993167,53.324878",
     "geom:latitude":53.324878,
     "geom:longitude":-1.993167,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-1.998167,53.319878,-1.988167,53.329878",
     "lbl:latitude":53.324878,
     "lbl:longitude":-1.993167,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0987 \u09aa\u09bf\u0995"
@@ -80,7 +83,7 @@
         "High Peak District"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bc8  \u0baa\u0bc0\u0b95\u0bcd"
+        "\u0bb9\u0bc8 \u0baa\u0bc0\u0b95\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c32\u0c4d\u0c35\u0c3f\u0c1a\u0c4d"
@@ -112,7 +115,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28835487,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1360794547,
-    "wof:lastmodified":1563333105,
+    "wof:lastmodified":1566628501,
     "wof:name":"High Peak",
     "wof:parent_id":101872059,
     "wof:placetype":"neighbourhood",

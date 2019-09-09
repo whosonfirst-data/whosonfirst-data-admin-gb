@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":55.864026,
     "lbl:longitude":-4.011948,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.864026,
     "mps:longitude":-4.011948,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0627\u0631\u062f\u0631\u06cc"
     ],
@@ -152,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.86,
     "wd:longitude":-3.98,
@@ -169,7 +172,6 @@
     "wof:concordances":{
         "gn:id":2657613,
         "gp:id":10487,
-        "qs:id":767967,
         "qs_pg:id":767967,
         "wd:id":"Q408536",
         "wk:page":"Airdrie, North Lanarkshire"
@@ -188,7 +190,7 @@
         }
     ],
     "wof:id":101877117,
-    "wof:lastmodified":1563336693,
+    "wof:lastmodified":1566630940,
     "wof:name":"Airdrie",
     "wof:parent_id":404435713,
     "wof:placetype":"locality",

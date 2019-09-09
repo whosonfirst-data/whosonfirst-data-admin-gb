@@ -9,15 +9,17 @@
     "geom:bbox":"-0.0733783592249,52.6740427699,0.223896954508,52.9730497902",
     "geom:latitude":52.856797,
     "geom:longitude":0.065448,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7408,
-    "gn:population":7914,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":7408,
     "iso:country":"GB",
     "lbl:latitude":52.80401,
     "lbl:longitude":0.01442,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0647\u0648\u0644\u0628\u06cc\u0686"
@@ -130,7 +132,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":1126054283,
-    "wof:lastmodified":1563340087,
+    "wof:lastmodified":1566634461,
     "wof:name":"Holbeach",
     "wof:parent_id":404447231,
     "wof:placetype":"locality",

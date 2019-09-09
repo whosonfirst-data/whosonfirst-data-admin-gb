@@ -9,15 +9,17 @@
     "geom:bbox":"-2.594835938,53.3616887882,-2.55272030378,53.3800290568",
     "geom:latitude":53.371889,
     "geom:longitude":-2.574825,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":6396,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
     "gn:population":6396,
     "iso:country":"GB",
     "lbl:latitude":53.37084,
     "lbl:longitude":-2.57406,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u062a\u0648\u0643\u062a\u0648\u0646 \u0647\u064a\u062b"
@@ -83,7 +85,7 @@
         "Stockton Heath"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b9f\u0ba9\u0bcd  \u0bb9\u0bc7\u0ba4\u0bcd"
+        "\u0bb8\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b9f\u0ba9\u0bcd \u0bb9\u0bc7\u0ba4\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c1f\u0c3e\u0c15\u0c4d \u0c1f\u0c28\u0c4d"
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698537,
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":1125929047,
-    "wof:lastmodified":1563339747,
+    "wof:lastmodified":1566634243,
     "wof:name":"Stockton Heath",
     "wof:parent_id":404446975,
     "wof:placetype":"locality",

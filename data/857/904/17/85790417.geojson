@@ -11,8 +11,10 @@
     "geom:longitude":-1.610332,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.615332,53.710696,-1.605332,53.720696",
     "lbl:latitude":53.715696,
     "lbl:longitude":-1.610332,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.724305,
     "mps:longitude":-1.610023,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Lower Soothill"
-    ],
-    "name:unk_x_variant":[
         "Lower Soothill"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698609,
         102191581,
         85633159,
         404227469,
         101750569,
-        1360698917
+        1360698917,
+        1360698609
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":35142,
-        "qs:id":1073778,
         "qs_pg:id":1073778
     },
     "wof:country":"GB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698119,
+    "wof:lastmodified":1566627661,
     "wof:name":"Lower Soothill",
     "wof:parent_id":101750569,
     "wof:placetype":"neighbourhood",

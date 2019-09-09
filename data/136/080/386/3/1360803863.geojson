@@ -9,15 +9,17 @@
     "geom:bbox":"-0.39602,51.65531,-0.39602,51.65531",
     "geom:latitude":51.65531,
     "geom:longitude":-0.39602,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":125707,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":125707,
     "iso:country":"GB",
+    "lbl:bbox":"-0.40102,51.65031,-0.39102,51.66031",
     "lbl:latitude":51.65531,
     "lbl:longitude":-0.39602,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Batford"
@@ -70,9 +72,6 @@
     "name:srp_x_preferred":[
         "\u0412\u043e\u0442\u0444\u043e\u0440\u0434"
     ],
-    "name:unk_x_variant":[
-        "Watford"
-    ],
     "name:zho_x_preferred":[
         "\u6c83\u7279\u798f\u5fb7"
     ],
@@ -97,7 +96,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28835639,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -132,7 +131,7 @@
         }
     ],
     "wof:id":1360803863,
-    "wof:lastmodified":1564154086,
+    "wof:lastmodified":1566629693,
     "wof:name":"Batford",
     "wof:parent_id":101751603,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.094023,
     "lbl:longitude":1.319849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.094023,
     "mps:longitude":1.319849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0648\u0648\u062f\u0628\u0631\u06cc\u062c"
     ],
@@ -163,7 +166,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.0935,
     "wd:longitude":1.3179,
@@ -181,7 +184,6 @@
         "fct:id":"0aa317f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2633671,
         "gp:id":40911,
-        "qs:id":507699,
         "qs_pg:id":507699,
         "wd:id":"Q1021350",
         "wk:page":"Woodbridge, Suffolk"
@@ -206,7 +208,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336826,
+    "wof:lastmodified":1566631002,
     "wof:name":"Woodbridge",
     "wof:parent_id":404440287,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":52.051797,
     "geom:longitude":1.132498,
     "iso:country":"GB",
+    "lbl:bbox":"1.127498,52.046797,1.137498,52.056797",
     "lbl:latitude":52.051797,
     "lbl:longitude":1.132498,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.037887,
     "mps:longitude":1.117924,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Chantry"
     ],
     "name:pol_x_preferred":[
-        "Chantry"
-    ],
-    "name:unk_x_variant":[
         "Chantry"
     ],
     "qs:gn_fcode":"PPLX",
@@ -63,21 +62,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":313,
     "wof:belongsto":[
-        1360698595,
         102191581,
         85633159,
         404227469,
         101750447,
-        1360699041
+        1360699041,
+        1360698595
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6301919,
         "gp:id":20093088,
-        "qs:id":558113,
         "qs_pg:id":558113,
         "wd:id":"Q2028932",
         "wk:page":"Chantry, Suffolk"
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542194024,
+    "wof:lastmodified":1566627846,
     "wof:name":"Chantry",
     "wof:parent_id":101750447,
     "wof:placetype":"neighbourhood",

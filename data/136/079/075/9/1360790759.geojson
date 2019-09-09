@@ -10,12 +10,15 @@
     "geom:latitude":51.794579,
     "geom:longitude":-2.612846,
     "iso:country":"GB",
+    "lbl:bbox":"-2.617846,51.789579,-2.607846,51.799579",
     "lbl:latitude":51.79458,
     "lbl:longitude":-2.612846,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.79458,
     "mps:longitude":-2.612846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:cym_x_preferred":[
         "Broadwell"
     ],
@@ -59,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -74,9 +77,11 @@
     "wof:concordances":{
         "gn:id":2654626,
         "gp:id":14043,
-        "qs:id":4,
-        "qs_pg:id":33325,
+        "qs_pg:id":4,
         "wd:id":"Q4972561"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":33325
     },
     "wof:country":"GB",
     "wof:geomhash":"44c9945c5125f322d96fc264e5581884",
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":1360790759,
-    "wof:lastmodified":1561837903,
+    "wof:lastmodified":1566628702,
     "wof:name":"Broadwell",
     "wof:parent_id":1125806493,
     "wof:placetype":"neighbourhood",

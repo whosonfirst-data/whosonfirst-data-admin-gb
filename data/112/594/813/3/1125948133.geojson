@@ -9,15 +9,17 @@
     "geom:bbox":"-0.923666864741,53.2380242349,-0.847797953644,53.268439231",
     "geom:latitude":53.25319,
     "geom:longitude":-0.890529,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1160,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.25221,
     "lbl:longitude":-0.89385,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u099f \u09ae\u09be\u09b0\u09cd\u0995\u09b9\u09cd\u09af\u09be\u09ae"
@@ -68,12 +70,12 @@
         "East Markham"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0bb9\u0bbe\u0bae\u0bcd"
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0bb9\u0bbe\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41 \u0c2e\u0c3e\u0c30\u0c4d\u0c16\u0c02"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Markham"
     ],
     "name:urd_x_preferred":[
@@ -103,7 +105,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1125948133,
-    "wof:lastmodified":1563339582,
+    "wof:lastmodified":1566634126,
     "wof:name":"East Markham",
     "wof:parent_id":404434641,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-2.42356594361,51.6032645798,-2.38537668197,51.6457623776",
     "geom:latitude":51.622945,
     "geom:longitude":-2.403211,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.78333,
     "lbl:longitude":-2.26667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Charfield"
@@ -36,7 +39,7 @@
     "name:swe_x_preferred":[
         "Charfield"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Haresfield"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1126002399,
-    "wof:lastmodified":1564159502,
+    "wof:lastmodified":1566635955,
     "wof:name":"Charfield",
     "wof:parent_id":404430915,
     "wof:placetype":"locality",

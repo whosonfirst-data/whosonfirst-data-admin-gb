@@ -9,14 +9,17 @@
     "geom:bbox":"-1.7512951717,51.2668059935,-1.68160870552,51.3109283092",
     "geom:latitude":51.288612,
     "geom:longitude":-1.719139,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.28145,
     "lbl:longitude":-1.70947,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0415\u0432\u0435\u0440\u043b\u0435\u0438\u0433\u0445"
@@ -48,7 +51,7 @@
     "name:swe_x_variant":[
         "Ketley"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "East Everleigh"
     ],
     "qs_pg:aaroncc":"GB",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125860879,
-    "wof:lastmodified":1563340502,
+    "wof:lastmodified":1566634731,
     "wof:name":"Everleigh",
     "wof:parent_id":404450993,
     "wof:placetype":"locality",

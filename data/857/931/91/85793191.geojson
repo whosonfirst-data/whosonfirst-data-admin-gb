@@ -11,8 +11,10 @@
     "geom:longitude":-1.157337,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.162337,53.000792,-1.152337,53.010792",
     "lbl:latitude":53.005792,
     "lbl:longitude":-1.157337,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.011154,
     "mps:longitude":-1.149922,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Bestwood"
-    ],
-    "name:unk_x_variant":[
         "Bestwood"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698583,
         102191581,
         85633159,
         404227469,
         1175612705,
-        1360698801
+        1360698801,
+        1360698583
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":44040,
-        "qs:id":422035,
         "qs_pg:id":422035
     },
     "wof:country":"GB",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698230,
+    "wof:lastmodified":1566627497,
     "wof:name":"Bestwood",
     "wof:parent_id":1175612705,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"0.469104422159,51.7011263777,0.520561792856,51.7307500669",
     "geom:latitude":51.715928,
     "geom:longitude":0.499434,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.71841,
     "lbl:longitude":0.49945,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09c7\u099f \u09ac\u09be\u09a1\u09cd\u09a1\u09cb"
@@ -76,7 +79,7 @@
         "Great Baddow"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd  \u0baa\u0b9f\u0bcd\u0b9f\u0bca\u0bb5\u0bcd"
+        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bca\u0bb5\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c47\u0c1f\u0c4d \u0c2c\u0c3e\u0c21\u0c4d\u0c21\u0c4c"
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1125925067,
-    "wof:lastmodified":1563339744,
+    "wof:lastmodified":1566634241,
     "wof:name":"Great Baddow",
     "wof:parent_id":404435005,
     "wof:placetype":"locality",

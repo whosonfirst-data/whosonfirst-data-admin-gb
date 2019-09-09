@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.22778,
     "lbl:longitude":-4.164068,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.22778,
     "mps:longitude":-4.164068,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Porthaethwy"
     ],
@@ -114,9 +117,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0430\u0439-\u0411\u0440\u0456\u0434\u0436"
     ],
-    "name:unk_x_variant":[
-        "Menai"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0646\u0627\u06cc\u00a0\u0628\u0631\u06cc\u062c"
     ],
@@ -144,7 +144,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1388,
     "wof:belongsto":[
@@ -160,7 +160,6 @@
         "fct:id":"0aa64e68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2642755,
         "gp:id":28699,
-        "qs:id":240960,
         "qs_pg:id":240960,
         "wd:id":"Q2655856",
         "wk:page":"Menai Bridge"
@@ -185,7 +184,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336432,
+    "wof:lastmodified":1566630857,
     "wof:name":"Menai Bridge",
     "wof:parent_id":404444737,
     "wof:placetype":"locality",

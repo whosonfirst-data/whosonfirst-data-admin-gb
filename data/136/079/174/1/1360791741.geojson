@@ -9,12 +9,15 @@
     "geom:bbox":"-2.447462,52.201662,-2.447462,52.201662",
     "geom:latitude":52.201662,
     "geom:longitude":-2.447462,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-2.452462,52.196662,-2.442462,52.206662",
     "lbl:latitude":52.201662,
     "lbl:longitude":-2.447462,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bringsty Common"
@@ -37,19 +40,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":13944,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698617,
         102191581,
         404444389,
         85633159,
         404227469,
         1125782211,
-        1360699053
+        1360699053,
+        1360698617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1360791741,
-    "wof:lastmodified":1547719167,
+    "wof:lastmodified":1566628514,
     "wof:name":"Bringsty Common",
     "wof:parent_id":1125782211,
     "wof:placetype":"neighbourhood",

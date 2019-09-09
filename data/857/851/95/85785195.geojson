@@ -11,8 +11,10 @@
     "geom:longitude":-2.180016,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.185016,51.83115,-2.175016,51.84115",
     "lbl:latitude":51.83615,
     "lbl:longitude":-2.180016,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.829263,
     "mps:longitude":-2.165601,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Abbeymead"
-    ],
-    "name:unk_x_variant":[
         "Abbeymead"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698553,
         102191581,
         404450045,
         85633159,
         404227469,
         1344085387,
-        1360698927
+        1360698927,
+        1360698553
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10189,
-        "qs:id":226541,
         "qs_pg:id":226541
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547728400,
+    "wof:lastmodified":1566627594,
     "wof:name":"Abbeymead",
     "wof:parent_id":1344085387,
     "wof:placetype":"neighbourhood",

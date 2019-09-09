@@ -9,15 +9,17 @@
     "geom:bbox":"-0.929561233142,52.301933452,-0.853321025517,52.3467677577",
     "geom:latitude":52.325486,
     "geom:longitude":-0.897478,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5277,
-    "gn:population":5228,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":5277,
     "iso:country":"GB",
     "lbl:latitude":52.32912,
     "lbl:longitude":-0.9035,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09bf\u0995\u09cd\u09b8\u0993\u09b0\u09cd\u09a5"
@@ -115,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1125797533,
-    "wof:lastmodified":1563342887,
+    "wof:lastmodified":1566636207,
     "wof:name":"Brixworth",
     "wof:parent_id":404436585,
     "wof:placetype":"locality",

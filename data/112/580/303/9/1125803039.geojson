@@ -9,12 +9,15 @@
     "geom:bbox":"-1.76371293886,52.4824494047,-1.73519483019,52.4998633607",
     "geom:latitude":52.491042,
     "geom:longitude":-1.75212,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":52.487405,
     "lbl:longitude":-1.750559,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0982\u09b8\u09cd\u099f\u09b6\u09be\u09b8\u09cd\u099f"
@@ -71,7 +74,7 @@
         "\u0b95\u0bbf\u0b99\u0bcd\u0bb7\u0bc1\u0bb0\u0bb8\u0bcd\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
-        "\u0c15\u0c3f\u0c02\u0c17\u0c4d\u0c38\u0c4d  \u0c39\u0c30\u0c4d\u0c38\u0c4d\u0c1f\u0c4d"
+        "\u0c15\u0c3f\u0c02\u0c17\u0c4d\u0c38\u0c4d \u0c39\u0c30\u0c4d\u0c38\u0c4d\u0c1f\u0c4d"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0646\u062c\u0634\u0648\u0631\u0633\u062a"
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1125803039,
-    "wof:lastmodified":1563340971,
+    "wof:lastmodified":1566635016,
     "wof:name":"Kingshurst",
     "wof:parent_id":404451697,
     "wof:placetype":"locality",

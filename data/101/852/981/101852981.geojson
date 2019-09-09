@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.993852,
     "lbl:longitude":-3.801361,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.993852,
     "mps:longitude":-3.801361,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Llanymddyfri"
     ],
@@ -119,7 +122,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1177,
     "wof:belongsto":[
@@ -135,7 +138,6 @@
         "fct:id":"0aa694ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2644127,
         "gp:id":26843,
-        "qs:id":1036945,
         "qs_pg:id":1036945,
         "wd:id":"Q651733",
         "wk:page":"Llandovery"
@@ -160,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563337082,
+    "wof:lastmodified":1566631099,
     "wof:name":"Llandovery",
     "wof:parent_id":404451465,
     "wof:placetype":"locality",

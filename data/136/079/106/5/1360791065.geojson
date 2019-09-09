@@ -11,12 +11,15 @@
     "geom:longitude":-2.63753,
     "gn:population":33888,
     "iso:country":"GB",
+    "lbl:bbox":"-2.64253,53.63713,-2.63253,53.64713",
     "lbl:latitude":53.642129,
     "lbl:longitude":-2.637529,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.642129,
     "mps:longitude":-2.637529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0686\u0648\u0631\u0644\u06cc"
     ],
@@ -113,7 +116,7 @@
     "name:tur_x_preferred":[
         "Chorley"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hordley"
     ],
     "name:urd_x_preferred":[
@@ -147,7 +150,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.653,
     "wd:longitude":-2.632,
@@ -164,10 +167,12 @@
     "wof:concordances":{
         "gn:id":2646609,
         "gp:id":16004,
-        "qs:id":279048,
-        "qs_pg:id":1333324,
+        "qs_pg:id":279048,
         "wd:id":"Q2078535",
         "wk:page":"Chorley"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1333324
     },
     "wof:country":"GB",
     "wof:geomhash":"ccbb20df7b0de073f744be08033a24f8",
@@ -183,7 +188,7 @@
         }
     ],
     "wof:id":1360791065,
-    "wof:lastmodified":1563333392,
+    "wof:lastmodified":1566628649,
     "wof:name":"Chorley",
     "wof:parent_id":1243102715,
     "wof:placetype":"neighbourhood",

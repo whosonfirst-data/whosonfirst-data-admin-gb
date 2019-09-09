@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.066049,
     "lbl:longitude":-1.314423,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.06605,
     "mps:longitude":-1.314423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Winchester"
     ],
@@ -284,7 +287,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.063333,
     "wd:longitude":-1.308611,
@@ -301,7 +304,6 @@
         "fct:id":"0aa21622-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2633858,
         "gp:id":40611,
-        "qs:id":1036763,
         "qs_pg:id":1036763,
         "wd:id":"Q172157",
         "wk:page":"Winchester"
@@ -322,7 +324,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336926,
+    "wof:lastmodified":1566631044,
     "wof:name":"Winchester",
     "wof:parent_id":1360698827,
     "wof:placetype":"locality",

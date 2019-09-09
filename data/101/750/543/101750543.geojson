@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.55,
     "lbl:longitude":-1.48333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":53.553549,
     "mps:longitude":-1.484378,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ang_x_preferred":[
         "Beornesl\u0113ah"
     ],
@@ -202,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.553611,
     "wd:longitude":-1.478889,
@@ -218,10 +221,12 @@
     "wof:concordances":{
         "gn:id":2654680,
         "gp:id":11916,
-        "qs:id":279054,
-        "qs_pg:id":1240665,
+        "qs_pg:id":279054,
         "wd:id":"Q54212",
         "wk:page":"Barnsley"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1240665
     },
     "wof:country":"GB",
     "wof:geomhash":"2a9c9ffc4839daa170fac7b1d6897618",
@@ -236,7 +241,7 @@
         }
     ],
     "wof:id":101750543,
-    "wof:lastmodified":1563336589,
+    "wof:lastmodified":1566630912,
     "wof:name":"Barnsley",
     "wof:parent_id":1360699091,
     "wof:placetype":"locality",

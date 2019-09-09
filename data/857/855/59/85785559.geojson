@@ -15,6 +15,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.551233,
     "lbl:longitude":0.132245,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.546335,
     "mps:longitude":0.137415,
     "mz:hierarchy_label":1,
@@ -57,9 +58,6 @@
     "name:swe_x_preferred":[
         "Becontree"
     ],
-    "name:unk_x_variant":[
-        "Becontree"
-    ],
     "name:zho_x_preferred":[
         "\u8c9d\u80af\u7fe0"
     ],
@@ -92,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":2547,
     "wof:belongsto":[
@@ -107,7 +105,6 @@
     "wof:concordances":{
         "gn:id":6690870,
         "gp:id":12204,
-        "qs:id":1080292,
         "qs_pg:id":1080292,
         "wd:id":"Q2571762",
         "wk:page":"Becontree"
@@ -129,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837808,
+    "wof:lastmodified":1566627735,
     "wof:name":"Becontree",
     "wof:parent_id":1158857319,
     "wof:placetype":"neighbourhood",

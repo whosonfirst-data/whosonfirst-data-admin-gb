@@ -9,14 +9,17 @@
     "geom:bbox":"0.699416675989,52.2585965857,0.753940740357,52.2803314221",
     "geom:latitude":52.271242,
     "geom:longitude":0.726911,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.26667,
     "lbl:longitude":0.71667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0641\u0648\u0631\u0646\u0647\u0627\u0645 \u0633\u0646\u062a \u0645\u0627\u0631\u062a\u06cc\u0646"
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125977187,
-    "wof:lastmodified":1563341886,
+    "wof:lastmodified":1566635582,
     "wof:name":"Fornham St. Martin",
     "wof:parent_id":404434013,
     "wof:placetype":"locality",

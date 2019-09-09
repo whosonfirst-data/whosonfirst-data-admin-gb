@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":54.992132,
     "lbl:longitude":-7.296416,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":54.992132,
     "mps:longitude":-7.296416,
     "mz:hierarchy_label":1,
@@ -283,9 +285,6 @@
         "\u039b\u03b1\u03bd\u03c4\u03bf\u03bd\u03bd\u03c4\u03b5\u03c1\u03c1\u03c5",
         "\u041b\u043e\u043d\u0434\u043e\u043d\u0434\u0435\u0440\u0440\u0438"
     ],
-    "name:unk_x_variant":[
-        "Doire"
-    ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u0631\u06cc"
     ],
@@ -413,7 +412,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360699233,
@@ -427,7 +426,6 @@
         "fct:id":"0aa590c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2643736,
         "gp:id":44967,
-        "qs:id":663849,
         "qs_pg:id":663849,
         "wd:id":"Q163584",
         "wk:page":"Derry"
@@ -448,7 +446,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336510,
+    "wof:lastmodified":1566630893,
     "wof:name":"Londonderry",
     "wof:parent_id":1360699233,
     "wof:placetype":"locality",

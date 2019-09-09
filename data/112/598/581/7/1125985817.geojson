@@ -9,15 +9,17 @@
     "geom:bbox":"-2.38034222019,53.397696215,-2.28419219511,53.4398259841",
     "geom:latitude":53.419069,
     "geom:longitude":-2.331173,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":55689,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":55689,
     "iso:country":"GB",
     "lbl:latitude":53.42519,
     "lbl:longitude":-2.32443,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0435\u0439\u043b"
@@ -126,7 +128,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":1125985817,
-    "wof:lastmodified":1563342237,
+    "wof:lastmodified":1566635783,
     "wof:name":"Sale",
     "wof:parent_id":1360817437,
     "wof:placetype":"locality",

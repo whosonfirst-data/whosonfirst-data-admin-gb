@@ -9,14 +9,17 @@
     "geom:bbox":"-0.98078,54.20459,-0.98078,54.20459",
     "geom:latitude":54.20459,
     "geom:longitude":-0.98078,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-0.98578,54.19959,-0.97578,54.20959",
     "lbl:latitude":54.20459,
     "lbl:longitude":-0.98078,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0425\u0430\u043d\u0442\u044b\u043d\u0433\u0442\u0430\u043d"
@@ -96,7 +99,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043d\u0442\u0456\u043d\u0433\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nunnington"
     ],
     "name:vol_x_preferred":[
@@ -126,7 +129,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":24172,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":1360801401,
-    "wof:lastmodified":1564154088,
+    "wof:lastmodified":1566629695,
     "wof:name":"Huntington",
     "wof:parent_id":1125770431,
     "wof:placetype":"neighbourhood",

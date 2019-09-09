@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":50.557884,
     "lbl:longitude":-4.515102,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.557884,
     "mps:longitude":-4.515102,
     "mz:hierarchy_label":1,
@@ -336,7 +338,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043d\u0443\u043e\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sillies"
     ],
     "name:urd_x_preferred":[
@@ -448,9 +450,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"3,544",
     "statoids:area_mi":"1,368",
     "statoids:as_of_date":"2011-03-27",
@@ -502,11 +504,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563335865,
+    "wof:lastmodified":1566630408,
     "wof:name":"Cornwall",
     "wof:parent_id":1360698623,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary authority",
     "wof:population":532273,
     "wof:population_rank":11,

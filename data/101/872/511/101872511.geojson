@@ -10,12 +10,16 @@
     "geom:latitude":55.86021,
     "geom:longitude":-3.747851,
     "iso:country":"GB",
+    "lbl:bbox":"-3.767851,55.84021,-3.727851,55.88021",
     "lbl:latitude":55.86021,
     "lbl:longitude":-3.747851,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.86021,
     "mps:longitude":-3.747851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Harthill"
     ],
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360698703,
         102191581,
@@ -70,10 +74,12 @@
     "wof:concordances":{
         "gn:id":2647407,
         "gp:id":22545,
-        "qs:id":8122,
-        "qs_pg:id":140817,
+        "qs_pg:id":8122,
         "wd:id":"Q5674615",
         "wk:page":"Harthill, Scotland"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":140817
     },
     "wof:country":"GB",
     "wof:geomhash":"9963b9655ee320c0af62fe3c541d3216",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":101872511,
-    "wof:lastmodified":1563336380,
+    "wof:lastmodified":1566630838,
     "wof:name":"Harthill",
     "wof:parent_id":404435713,
     "wof:placetype":"locality",

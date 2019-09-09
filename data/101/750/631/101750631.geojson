@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":55.891517,
     "lbl:longitude":-3.519453,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":55.891517,
     "mps:longitude":-3.519453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ast_x_preferred":[
         "Livingston"
     ],
@@ -176,7 +179,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":55.8834,
     "wd:longitude":-3.5157,
@@ -194,10 +197,12 @@
     "wof:concordances":{
         "gn:id":2644204,
         "gp:id":26740,
-        "qs:id":351986,
         "qs_pg:id":213641,
         "wd:id":"Q848287",
         "wk:page":"Livingston, West Lothian"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":351986
     },
     "wof:country":"GB",
     "wof:geomhash":"e2c2f2075539eb90c1eacd922471366f",
@@ -213,7 +218,7 @@
         }
     ],
     "wof:id":101750631,
-    "wof:lastmodified":1563336663,
+    "wof:lastmodified":1566630932,
     "wof:name":"Livingston",
     "wof:parent_id":404447005,
     "wof:placetype":"locality",

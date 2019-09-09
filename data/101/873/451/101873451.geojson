@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":55.119097,
     "lbl:longitude":-1.511938,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.119097,
     "mps:longitude":-1.511938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0628\u0644\u0627\u06cc\u062b"
     ],
@@ -107,7 +110,7 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c32\u0c40\u0c24\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blythe"
     ],
     "name:urd_x_preferred":[
@@ -142,7 +145,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.126,
     "wd:longitude":-1.514,
@@ -160,10 +163,12 @@
         "gn:id":2655315,
         "gp:id":13098,
         "loc:id":"n88187278",
-        "qs:id":140948,
-        "qs_pg:id":897686,
+        "qs_pg:id":140948,
         "wd:id":"Q886899",
         "wk:page":"Blyth, Northumberland"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":897686
     },
     "wof:coterminous":[
         404433399
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":101873451,
-    "wof:lastmodified":1563336270,
+    "wof:lastmodified":1566630800,
     "wof:name":"Blyth",
     "wof:parent_id":404433399,
     "wof:placetype":"locality",

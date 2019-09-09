@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.675618,
     "lbl:longitude":-1.221816,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.688853,
     "mps:longitude":-1.225872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u062a\u0644\u0628\u0648\u0644"
     ],
@@ -154,7 +157,7 @@
     "name:tur_x_preferred":[
         "Hartlepool"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "West Hartlepool"
     ],
     "name:urd_x_preferred":[
@@ -187,7 +190,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.683333,
     "wd:longitude":-1.216667,
     "wd:wordcount":4943,
@@ -202,10 +205,12 @@
     "wof:concordances":{
         "gn:id":2634396,
         "gp:id":22551,
-        "qs:id":279025,
-        "qs_pg:id":1155734,
+        "qs_pg:id":279025,
         "wd:id":"Q215752",
         "wk:page":"Hartlepool"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155734
     },
     "wof:country":"GB",
     "wof:geomhash":"a4f07c849788d18335e1dc60f574494b",
@@ -220,7 +225,7 @@
         }
     ],
     "wof:id":101750609,
-    "wof:lastmodified":1563336664,
+    "wof:lastmodified":1566630932,
     "wof:name":"Hartlepool",
     "wof:parent_id":1360698981,
     "wof:placetype":"locality",

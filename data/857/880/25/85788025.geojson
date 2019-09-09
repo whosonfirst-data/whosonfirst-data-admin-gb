@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.379119,
     "lbl:longitude":0.01348,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.382065,
     "mps:longitude":0.016564,
     "mz:hierarchy_label":1,
@@ -75,9 +76,6 @@
     "name:swe_x_preferred":[
         "Hayes"
     ],
-    "name:unk_x_variant":[
-        "Hayes"
-    ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2643743,
@@ -105,7 +103,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -118,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2647261,
         "gp:id":22772,
-        "qs:id":1091400,
+        "qs_pg:id":1091400,
         "wd:id":"Q678138",
         "wk:page":"Hayes, Hillingdon"
     },
@@ -139,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331651,
+    "wof:lastmodified":1566627536,
     "wof:name":"Hayes",
     "wof:parent_id":1158857297,
     "wof:placetype":"neighbourhood",

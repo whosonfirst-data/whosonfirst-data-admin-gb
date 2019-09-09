@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.54515,
     "lbl:longitude":-1.925209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.54515,
     "mps:longitude":-1.925209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0442\u0444\u043e\u0440\u0442\u0445"
     ],
@@ -65,7 +68,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.540731,
     "wd:longitude":-1.938119,
     "wd:wordcount":238,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":2637005,
         "gp:id":11888,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q687879",
         "wk:page":"Startforth"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101873359,
-    "wof:lastmodified":1563336228,
+    "wof:lastmodified":1566630787,
     "wof:name":"Startforth",
     "wof:parent_id":404430213,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-2.65377775088,53.3120433206,-2.59524117896,53.348482976",
     "geom:latitude":53.332967,
     "geom:longitude":-2.627558,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":4122,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
     "gn:population":4122,
     "iso:country":"GB",
     "lbl:latitude":53.34184,
     "lbl:longitude":-2.635,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u0631\u0633\u0628\u0648\u0631\u064a"
@@ -130,7 +132,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698537,
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":1125917837,
-    "wof:lastmodified":1563342099,
+    "wof:lastmodified":1566635707,
     "wof:name":"Daresbury",
     "wof:parent_id":404443813,
     "wof:placetype":"locality",

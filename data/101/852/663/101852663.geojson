@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.399192,
     "lbl:longitude":-1.320323,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.399192,
     "mps:longitude":-1.320323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ang_x_preferred":[
         "Ulfret\u016bn"
     ],
@@ -169,7 +172,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.4009,
     "wd:longitude":-1.3235,
@@ -186,10 +189,12 @@
     "wof:concordances":{
         "gn:id":2641689,
         "gp:id":30059,
-        "qs:id":351975,
-        "qs_pg:id":976312,
+        "qs_pg:id":351975,
         "wd:id":"Q655874",
         "wk:page":"Newbury, Berkshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":976312
     },
     "wof:coterminous":[
         404449013
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":101852663,
-    "wof:lastmodified":1563337029,
+    "wof:lastmodified":1566631085,
     "wof:name":"Newbury",
     "wof:parent_id":404449013,
     "wof:placetype":"locality",

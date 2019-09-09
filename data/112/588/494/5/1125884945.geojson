@@ -9,14 +9,17 @@
     "geom:bbox":"-3.15132045783,51.6071103965,-3.09930782407,51.6379396595",
     "geom:latitude":51.624031,
     "geom:longitude":-3.123457,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.61917,
     "lbl:longitude":-3.12361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b0\u09b8\u0995\u09c0\u099c"
@@ -104,7 +107,7 @@
     "qs_pg:qs_id":1028915,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         1360698641,
         102191581,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1125884945,
-    "wof:lastmodified":1563340745,
+    "wof:lastmodified":1566634878,
     "wof:name":"Crosskeys",
     "wof:parent_id":404430893,
     "wof:placetype":"locality",

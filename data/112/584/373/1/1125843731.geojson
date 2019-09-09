@@ -9,15 +9,17 @@
     "geom:bbox":"-0.337211348053,50.8160406824,-0.284364197067,50.8499960063",
     "geom:latitude":50.833773,
     "geom:longitude":-0.310785,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18692,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":18692,
     "iso:country":"GB",
     "lbl:latitude":50.82882,
     "lbl:longitude":-0.32247,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09bf\u0982"
@@ -85,7 +87,7 @@
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c28\u0c4d\u0c38\u0c3f\u0c02\u0c17\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "North Lancing"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1125843731,
-    "wof:lastmodified":1563343134,
+    "wof:lastmodified":1566636331,
     "wof:name":"Lancing",
     "wof:parent_id":404433635,
     "wof:placetype":"locality",

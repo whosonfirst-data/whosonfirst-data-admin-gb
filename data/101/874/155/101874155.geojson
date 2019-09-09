@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.52621,
     "lbl:longitude":-0.651954,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.52621,
     "mps:longitude":-0.651954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b8\u09bf\u0982\u09b9\u09cd\u09af\u09be\u09ae"
     ],
@@ -103,7 +106,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.527269,
     "wd:longitude":-0.653461,
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":2642697,
         "gp:id":28765,
-        "qs:id":1249458,
         "qs_pg:id":1249458,
         "wd:id":"Q2265010",
         "wk:page":"Messingham"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101874155,
-    "wof:lastmodified":1563336131,
+    "wof:lastmodified":1566630754,
     "wof:name":"Messingham",
     "wof:parent_id":404444449,
     "wof:placetype":"locality",

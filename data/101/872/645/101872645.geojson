@@ -11,8 +11,11 @@
     "geom:longitude":-3.435877,
     "gn:population":43633,
     "iso:country":"GB",
+    "lbl:bbox":"-3.455877,56.375704,-3.415877,56.415704",
     "lbl:latitude":56.395704,
     "lbl:longitude":-3.435877,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.395704,
     "mps:longitude":-3.435877,
     "mz:hierarchy_label":1,
@@ -414,7 +417,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698691,
@@ -429,7 +432,6 @@
         "fips:code":"UK88",
         "gn:id":2640358,
         "gp:id":31927,
-        "qs:id":1036873,
         "qs_pg:id":1036873,
         "wd:id":"Q203000",
         "wk:page":"Perth, Scotland"
@@ -448,7 +450,7 @@
         }
     ],
     "wof:id":101872645,
-    "wof:lastmodified":1563336329,
+    "wof:lastmodified":1566630822,
     "wof:name":"Perth",
     "wof:parent_id":404451983,
     "wof:placetype":"locality",

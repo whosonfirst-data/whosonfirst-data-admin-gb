@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.376769,
     "lbl:longitude":-2.965844,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.372678,
     "mps:longitude":-2.967357,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Dingle Bank"
-    ],
-    "name:unk_x_variant":[
         "Dingle Bank"
     ],
     "qs:gn_id":0,
@@ -57,19 +55,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698573,
         102191581,
         85633159,
         404227469,
         101750547,
-        1360698971
+        1360698971,
+        1360698573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":18204,
-        "qs:id":1263361,
         "qs_pg:id":1263361
     },
     "wof:country":"GB",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542399894,
+    "wof:lastmodified":1566627687,
     "wof:name":"Dingle Bank",
     "wof:parent_id":101750547,
     "wof:placetype":"neighbourhood",

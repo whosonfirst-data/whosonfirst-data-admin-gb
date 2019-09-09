@@ -9,20 +9,22 @@
     "geom:bbox":"-3.16345133889,51.0387167217,-3.08079189027,51.0732329476",
     "geom:latitude":51.057782,
     "geom:longitude":-3.123092,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":393,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.06056,
     "lbl:longitude":-3.1125,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kingston St Mary"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kingston"
     ],
     "qs_pg:aaroncc":"GB",
@@ -49,7 +51,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1125797371,
-    "wof:lastmodified":1547719560,
+    "wof:lastmodified":1566636206,
     "wof:name":"Kingston St. Mary",
     "wof:parent_id":404434913,
     "wof:placetype":"locality",

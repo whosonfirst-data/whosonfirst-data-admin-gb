@@ -9,15 +9,17 @@
     "geom:bbox":"-0.771504464584,50.8418087133,-0.721415496356,50.8919491595",
     "geom:latitude":50.86556,
     "geom:longitude":-0.745585,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":361,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.84811,
     "lbl:longitude":-0.75033,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09b9\u09cd\u09af\u09be\u09ae\u09cd\u09aa\u09a8\u09c7\u099f"
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1125884531,
-    "wof:lastmodified":1563340659,
+    "wof:lastmodified":1566634829,
     "wof:name":"Westhampnett",
     "wof:parent_id":404447883,
     "wof:placetype":"locality",

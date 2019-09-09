@@ -10,8 +10,11 @@
     "geom:latitude":56.818914,
     "geom:longitude":-5.103589,
     "iso:country":"GB",
+    "lbl:bbox":"-5.123589,56.798914,-5.083589,56.838914",
     "lbl:latitude":56.818914,
     "lbl:longitude":-5.103589,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.818914,
     "mps:longitude":-5.103589,
     "mz:hierarchy_label":1,
@@ -149,7 +152,7 @@
         "Fort William"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd  \u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bae\u0bcd"
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c4b\u0c30\u0c4d\u0c1f\u0c4d \u0c35\u0c3f\u0c32\u0c3f\u0c2f\u0c02"
@@ -275,7 +278,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":56.816944,
     "wd:longitude":-5.109722,
@@ -294,7 +297,6 @@
         "fct:id":"0aa5ed6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2649169,
         "gp:id":20465,
-        "qs:id":966712,
         "qs_pg:id":966712,
         "wd:id":"Q848909",
         "wk:page":"Fort William, Highland"
@@ -316,7 +318,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336376,
+    "wof:lastmodified":1566630837,
     "wof:name":"Fort William",
     "wof:parent_id":404436073,
     "wof:placetype":"locality",

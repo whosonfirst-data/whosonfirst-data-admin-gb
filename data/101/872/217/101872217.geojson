@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.673909,
     "lbl:longitude":-1.694565,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.673909,
     "mps:longitude":-1.694565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0631\u0641\u06cc\u0644\u062f"
     ],
@@ -125,7 +128,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.6807,
     "wd:longitude":-1.6888,
@@ -142,7 +145,6 @@
     "wof:concordances":{
         "gn:id":2642423,
         "gp:id":29122,
-        "qs:id":1036909,
         "qs_pg:id":1036909,
         "wd:id":"Q1301336",
         "wk:page":"Mirfield"
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":101872217,
-    "wof:lastmodified":1563336334,
+    "wof:lastmodified":1566630824,
     "wof:name":"Mirfield",
     "wof:parent_id":404448475,
     "wof:placetype":"locality",

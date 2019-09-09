@@ -11,12 +11,16 @@
     "geom:longitude":-6.768206,
     "gn:population":1477,
     "iso:country":"GB",
+    "lbl:bbox":"-6.788206,55.124466,-6.748206,55.164466",
     "lbl:latitude":55.144467,
     "lbl:longitude":-6.768205,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.144467,
     "mps:longitude":-6.768205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Castlerock"
     ],
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.15,
     "wd:longitude":-6.783333,
@@ -97,10 +101,12 @@
     "wof:concordances":{
         "gn:id":2653554,
         "gp:id":44623,
-        "qs:id":140899,
-        "qs_pg:id":889747,
+        "qs_pg:id":140899,
         "wd:id":"Q619264",
         "wk:page":"Castlerock"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":889747
     },
     "wof:country":"GB",
     "wof:geomhash":"8480f6e626edf7d440be497e52eb30dc",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":101873881,
-    "wof:lastmodified":1563336180,
+    "wof:lastmodified":1566630771,
     "wof:name":"Castlerock",
     "wof:parent_id":1360699231,
     "wof:placetype":"locality",

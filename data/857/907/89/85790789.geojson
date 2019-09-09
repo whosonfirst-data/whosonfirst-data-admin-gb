@@ -12,8 +12,10 @@
     "gn:latitude":57.18333,
     "gn:longitude":-2.16667,
     "iso:country":"GB",
+    "lbl:bbox":"-2.198095,57.185424,-2.188095,57.195424",
     "lbl:latitude":57.190424,
     "lbl:longitude":-2.193095,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.184146,
     "mps:longitude":-2.192314,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Stoneywood"
-    ],
-    "name:unk_x_variant":[
         "Stoneywood"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -61,21 +60,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":37,
     "wof:belongsto":[
-        1360698709,
         102191581,
         404429183,
         85633159,
         404227471,
-        1360698989
+        1360698989,
+        1360698709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2636801,
         "gp:id":36331,
-        "qs:id":401675,
         "qs_pg:id":401675
     },
     "wof:country":"GB",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400102,
+    "wof:lastmodified":1566627500,
     "wof:name":"Stoneywood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

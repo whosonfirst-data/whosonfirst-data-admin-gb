@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.473433,
     "lbl:longitude":-0.04411,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.474319,
     "mps:longitude":-0.046721,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":7,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "New Cross Gate"
-    ],
-    "name:unk_x_variant":[
         "New Cross Gate"
     ],
     "qs:gn_id":0,
@@ -60,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857299
+        1158857299,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089489,
-        "qs:id":335879,
         "qs_pg:id":335879
     },
     "wof:country":"GB",
@@ -93,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206421,
+    "wof:lastmodified":1566627854,
     "wof:name":"New Cross Gate",
     "wof:parent_id":1158857299,
     "wof:placetype":"neighbourhood",

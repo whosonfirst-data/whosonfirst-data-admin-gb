@@ -9,15 +9,17 @@
     "geom:bbox":"-1.11775704385,53.7554028202,-1.05264072154,53.7781616262",
     "geom:latitude":53.766238,
     "geom:longitude":-1.088253,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2913,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":2913,
     "iso:country":"GB",
     "lbl:latitude":53.7651,
     "lbl:longitude":-1.08921,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099f\u09a8"
@@ -103,7 +105,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1126005001,
-    "wof:lastmodified":1563342499,
+    "wof:lastmodified":1566635941,
     "wof:name":"Brayton",
     "wof:parent_id":404444947,
     "wof:placetype":"locality",

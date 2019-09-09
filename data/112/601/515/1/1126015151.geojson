@@ -9,15 +9,17 @@
     "geom:bbox":"-1.17399002946,52.0199581195,-1.13127058217,52.0543631217",
     "geom:latitude":52.036768,
     "geom:longitude":-1.151835,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13628,
-    "gn:population":13018,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":13628,
     "iso:country":"GB",
     "lbl:latitude":52.03333,
     "lbl:longitude":-1.15,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u0631\u0627\u06a9\u0644\u06cc"
@@ -130,7 +132,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":1126015151,
-    "wof:lastmodified":1563342441,
+    "wof:lastmodified":1566635910,
     "wof:name":"Brackley",
     "wof:parent_id":404444987,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-2.175632,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.180632,52.209019,-2.170632,52.219019",
     "lbl:latitude":52.214019,
     "lbl:longitude":-2.175632,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.233639,
     "mps:longitude":-2.174322,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Wall Meadow"
-    ],
-    "name:unk_x_variant":[
         "Wall Meadow"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698613,
         102191581,
         404453455,
         85633159,
         404227469,
         1360759193,
-        1360699043
+        1360699043,
+        1360698613
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":39012,
-        "qs:id":1079734,
         "qs_pg:id":1079734
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547732117,
+    "wof:lastmodified":1566627628,
     "wof:name":"Wall Meadow",
     "wof:parent_id":1360759193,
     "wof:placetype":"neighbourhood",

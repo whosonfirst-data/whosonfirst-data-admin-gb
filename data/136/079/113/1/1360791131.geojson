@@ -11,12 +11,15 @@
     "geom:longitude":-1.694346,
     "gn:population":16200,
     "iso:country":"GB",
+    "lbl:bbox":"-1.699346,54.867312,-1.689346,54.877312",
     "lbl:latitude":54.872312,
     "lbl:longitude":-1.694345,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.872312,
     "mps:longitude":-1.694345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ang_x_preferred":[
         "D\u016bnholm"
     ],
@@ -203,7 +206,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.867,
     "wd:longitude":-1.692,
@@ -221,10 +224,12 @@
     "wof:concordances":{
         "gn:id":2650628,
         "gp:id":18760,
-        "qs:id":1131879,
         "qs_pg:id":770775,
         "wd:id":"Q924360",
         "wk:page":"Stanley, County Durham"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1131879
     },
     "wof:country":"GB",
     "wof:geomhash":"82c1ba5cebf4a401c3a66ac5b0750744",
@@ -241,7 +246,7 @@
         }
     ],
     "wof:id":1360791131,
-    "wof:lastmodified":1563333805,
+    "wof:lastmodified":1566628854,
     "wof:name":"Stanley",
     "wof:parent_id":1259512601,
     "wof:placetype":"neighbourhood",

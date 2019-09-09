@@ -9,14 +9,17 @@
     "geom:bbox":"-1.46899,54.95027,-1.46899,54.95027",
     "geom:latitude":54.95027,
     "geom:longitude":-1.46899,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.47399,54.94527,-1.46399,54.95527",
     "lbl:latitude":54.95027,
     "lbl:longitude":-1.46899,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Boldon Colliery"
@@ -42,18 +45,18 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":13168,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698601,
         102191581,
         85633159,
         404227469,
         101750613,
-        1360698861
+        1360698861,
+        1360698601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1360799467,
-    "wof:lastmodified":1547713337,
+    "wof:lastmodified":1566628529,
     "wof:name":"Boldon colliery",
     "wof:parent_id":101750613,
     "wof:placetype":"neighbourhood",

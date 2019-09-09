@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.588892,
     "lbl:longitude":-0.643269,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":53.575314,
     "mps:longitude":-0.638581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u06a9\u0627\u0646\u200c\u062b\u0648\u0631\u067e"
     ],
@@ -171,7 +174,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.5809,
     "wd:longitude":-0.6502,
@@ -187,10 +190,12 @@
     "wof:concordances":{
         "gn:id":2638324,
         "gp:id":34260,
-        "qs:id":1036828,
         "qs_pg:id":897763,
         "wd:id":"Q913386",
         "wk:page":"Scunthorpe"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036828
     },
     "wof:country":"GB",
     "wof:geomhash":"a05bf1afaccae37978708bd6152159d9",
@@ -205,7 +210,7 @@
         }
     ],
     "wof:id":101750557,
-    "wof:lastmodified":1563336538,
+    "wof:lastmodified":1566630900,
     "wof:name":"Scunthorpe",
     "wof:parent_id":1360698901,
     "wof:placetype":"locality",

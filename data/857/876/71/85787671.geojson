@@ -11,8 +11,10 @@
     "geom:longitude":-2.121108,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.126108,57.192117,-2.116108,57.202117",
     "lbl:latitude":57.197117,
     "lbl:longitude":-2.121108,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.200714,
     "mps:longitude":-2.135976,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Grandholm"
-    ],
-    "name:unk_x_variant":[
         "Grandholm"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698709,
         102191581,
         404429183,
         85633159,
         404227471,
-        1360698989
+        1360698989,
+        1360698709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":21479,
-        "qs:id":1194713,
         "qs_pg:id":1194713
     },
     "wof:country":"GB",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400102,
+    "wof:lastmodified":1566627702,
     "wof:name":"Grandholm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

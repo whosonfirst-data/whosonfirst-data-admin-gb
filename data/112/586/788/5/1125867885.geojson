@@ -9,14 +9,17 @@
     "geom:bbox":"-0.0502037788746,51.1805234929,-0.0190733723138,51.266158118",
     "geom:latitude":51.230037,
     "geom:longitude":-0.033995,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.23801,
     "lbl:longitude":-0.03287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0430\u043d\u0434\u0440\u0438\u0434\u0433\u0435"
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125867885,
-    "wof:lastmodified":1563340536,
+    "wof:lastmodified":1566634753,
     "wof:name":"Tandridge",
     "wof:parent_id":404443119,
     "wof:placetype":"locality",

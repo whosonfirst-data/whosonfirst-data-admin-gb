@@ -9,15 +9,17 @@
     "geom:bbox":"0.625856822763,52.4853587826,0.672091140018,52.5197774795",
     "geom:latitude":52.504075,
     "geom:longitude":0.650507,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1626,
-    "gn:population":1835,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1626,
     "iso:country":"GB",
     "lbl:latitude":52.51246,
     "lbl:longitude":0.65682,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Mundford"
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1125891863,
-    "wof:lastmodified":1563340839,
+    "wof:lastmodified":1566634936,
     "wof:name":"Mundford",
     "wof:parent_id":404433289,
     "wof:placetype":"locality",

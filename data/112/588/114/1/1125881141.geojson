@@ -9,14 +9,17 @@
     "geom:bbox":"1.54770845732,52.2826774362,1.63941118371,52.3389254689",
     "geom:latitude":52.312639,
     "geom:longitude":1.591566,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.32039,
     "lbl:longitude":1.59679,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Blythburgh"
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125881141,
-    "wof:lastmodified":1563340783,
+    "wof:lastmodified":1566634898,
     "wof:name":"Blythburgh",
     "wof:parent_id":404433745,
     "wof:placetype":"locality",

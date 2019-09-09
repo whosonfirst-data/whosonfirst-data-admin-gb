@@ -9,15 +9,17 @@
     "geom:bbox":"-2.93900442389,50.9120444374,-2.89058664073,50.9415502035",
     "geom:latitude":50.926655,
     "geom:longitude":-2.917984,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4550,
-    "gn:population":5808,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4550,
     "iso:country":"GB",
     "lbl:latitude":50.92684,
     "lbl:longitude":-2.91009,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0644\u0645\u06cc\u0646\u0633\u062a\u0631"
@@ -127,7 +129,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":1126035213,
-    "wof:lastmodified":1563340330,
+    "wof:lastmodified":1566634624,
     "wof:name":"Ilminster",
     "wof:parent_id":404453055,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-0.139918,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.144918,50.821905,-0.134918,50.831905",
     "lbl:latitude":50.826905,
     "lbl:longitude":-0.139918,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.828494,
     "mps:longitude":-0.14683,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "N Laines"
-    ],
-    "name:unk_x_variant":[
-        "North Laines"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698549,
         102191581,
         85633159,
         404227469,
         101750303,
-        1360699019
+        1360699019,
+        1360698549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20094197,
-        "qs:id":1014092,
         "qs_pg:id":1014092
     },
     "wof:country":"GB",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400344,
+    "wof:lastmodified":1566627874,
     "wof:name":"North Laines",
     "wof:parent_id":101750303,
     "wof:placetype":"neighbourhood",

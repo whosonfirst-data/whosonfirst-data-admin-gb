@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.195932,
     "lbl:longitude":-1.710033,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.195932,
     "mps:longitude":-1.710033,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Stratford-upon-Avon"
     ],
@@ -225,9 +228,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0435\u0442\u0444\u043e\u0440\u0434-\u043d\u0430-\u0415\u0439\u0432\u043e\u043d\u0456"
     ],
-    "name:unk_x_variant":[
-        "Stratford on Avon"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0679\u0631\u0627\u0679\u0641\u0648\u0631\u0688 \u0622\u067e\u0648\u0646 \u0622\u0624\u0648\u0646"
     ],
@@ -269,7 +269,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.19,
     "wd:longitude":-1.71,
     "wd:wordcount":5024,
@@ -287,7 +287,6 @@
         "gn:id":2636713,
         "gp:id":36424,
         "loc:id":"n79115366",
-        "qs:id":454256,
         "qs_pg:id":454256,
         "wd:id":"Q189288",
         "wk:page":"Stratford-upon-Avon"
@@ -312,7 +311,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336744,
+    "wof:lastmodified":1566630964,
     "wof:name":"Stratford-upon-Avon",
     "wof:parent_id":404442383,
     "wof:placetype":"locality",

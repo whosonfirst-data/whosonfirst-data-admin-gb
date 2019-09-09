@@ -10,12 +10,15 @@
     "geom:latitude":52.894541,
     "geom:longitude":-2.795815,
     "iso:country":"GB",
+    "lbl:bbox":"-2.800815,52.889541,-2.790815,52.899541",
     "lbl:latitude":52.894541,
     "lbl:longitude":-2.795815,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.894541,
     "mps:longitude":-2.795815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Northwood"
     ],
@@ -57,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         404429903,
@@ -71,10 +74,12 @@
     "wof:concordances":{
         "gn:id":2641217,
         "gp:id":30651,
-        "qs:id":1028836,
         "qs_pg:id":962889,
         "wd:id":"Q3187267",
         "wk:page":"Northwood, Isle of Wight"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028836
     },
     "wof:country":"GB",
     "wof:geomhash":"f41bbe05ea989d74d1ec91a87b2d084f",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1360790949,
-    "wof:lastmodified":1563333691,
+    "wof:lastmodified":1566628795,
     "wof:name":"Northwood",
     "wof:parent_id":1360753589,
     "wof:placetype":"neighbourhood",

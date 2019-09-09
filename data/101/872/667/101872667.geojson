@@ -11,12 +11,16 @@
     "geom:longitude":-2.288237,
     "gn:population":10392,
     "iso:country":"GB",
+    "lbl:bbox":"-2.308237,57.12997,-2.268237,57.16997",
     "lbl:latitude":57.14997,
     "lbl:longitude":-2.288236,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.14997,
     "mps:longitude":-2.288236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09b9\u09bf\u09b2"
     ],
@@ -108,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.154,
     "wd:longitude":-2.284,
@@ -125,10 +129,12 @@
     "wof:concordances":{
         "gn:id":2653215,
         "gp:id":39940,
-        "qs:id":1260239,
         "qs_pg:id":536070,
         "wd:id":"Q1002453",
         "wk:page":"Westhill, Aberdeenshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1260239
     },
     "wof:country":"GB",
     "wof:geomhash":"7cb649d98059da740774a1ff585f6fbb",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":101872667,
-    "wof:lastmodified":1563336354,
+    "wof:lastmodified":1566630830,
     "wof:name":"Westhill",
     "wof:parent_id":404448747,
     "wof:placetype":"locality",

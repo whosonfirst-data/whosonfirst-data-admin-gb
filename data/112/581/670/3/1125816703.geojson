@@ -9,15 +9,17 @@
     "geom:bbox":"-2.46925418863,52.6816219068,-2.43469888359,52.7110858037",
     "geom:latitude":52.696196,
     "geom:longitude":-2.454623,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8517,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":8517,
     "iso:country":"GB",
     "lbl:latitude":52.69501,
     "lbl:longitude":-2.45036,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0648\u06a9\u0646\u0642\u06cc\u062a\u0632"
@@ -121,7 +123,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":1125816703,
-    "wof:lastmodified":1563340579,
+    "wof:lastmodified":1566634780,
     "wof:name":"Oakengates",
     "wof:parent_id":404452549,
     "wof:placetype":"locality",

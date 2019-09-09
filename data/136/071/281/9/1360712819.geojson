@@ -9,16 +9,19 @@
     "geom:bbox":"-3.20017,52.21545,-3.20017,52.21545",
     "geom:latitude":52.21545,
     "geom:longitude":-3.20017,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.20517,52.21045,-3.19517,52.22045",
     "lbl:latitude":52.21545,
     "lbl:longitude":-3.20017,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Llanfihangel"
     ],
     "qs_pg:aaroncc":"GB",
@@ -42,19 +45,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":26927,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698625,
         102191581,
         404441317,
         85633159,
         404227475,
         1125880845,
-        1360698985
+        1360698985,
+        1360698625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1360712819,
-    "wof:lastmodified":1547768702,
+    "wof:lastmodified":1566628944,
     "wof:name":"Llanfihangel-nant-Melan",
     "wof:parent_id":1125880845,
     "wof:placetype":"neighbourhood",

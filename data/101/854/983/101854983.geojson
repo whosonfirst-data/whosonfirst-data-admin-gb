@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.581,
     "lbl:longitude":0.21967,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.581,
     "mps:longitude":0.21967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Outwell"
     ],
@@ -61,7 +64,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.61785,
     "wd:longitude":0.231569,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2640781,
         "gp:id":31189,
-        "qs:id":217710,
         "qs_pg:id":217710,
         "wd:id":"Q1969881",
         "wk:page":"Outwell"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101854983,
-    "wof:lastmodified":1563336840,
+    "wof:lastmodified":1566631008,
     "wof:name":"Outwell",
     "wof:parent_id":404432905,
     "wof:placetype":"locality",

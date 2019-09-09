@@ -9,15 +9,17 @@
     "geom:bbox":"-2.65357975738,51.5827437987,-2.54752836296,51.6415547045",
     "geom:latitude":51.608044,
     "geom:longitude":-2.606734,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":226,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.59825,
     "lbl:longitude":-2.6151,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u062a"
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1125816793,
-    "wof:lastmodified":1563340578,
+    "wof:lastmodified":1566634779,
     "wof:name":"Aust",
     "wof:parent_id":404454895,
     "wof:placetype":"locality",

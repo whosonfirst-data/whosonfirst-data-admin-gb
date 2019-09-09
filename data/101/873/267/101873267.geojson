@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.825113,
     "lbl:longitude":-2.415772,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.825113,
     "mps:longitude":-2.415772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09b2\u09c7"
     ],
@@ -107,7 +110,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.824089,
     "wd:longitude":-2.40405,
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":2634192,
         "gp:id":40082,
-        "qs:id":967261,
-        "qs_pg:id":1264203,
+        "qs_pg:id":967261,
         "wd:id":"Q1009524",
         "wk:page":"Whalley, Lancashire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1264203
     },
     "wof:coterminous":[
         404453069
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":101873267,
-    "wof:lastmodified":1563336200,
+    "wof:lastmodified":1566630776,
     "wof:name":"Whalley",
     "wof:parent_id":404453069,
     "wof:placetype":"locality",

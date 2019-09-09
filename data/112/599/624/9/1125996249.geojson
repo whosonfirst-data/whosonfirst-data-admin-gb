@@ -9,15 +9,17 @@
     "geom:bbox":"0.390132092335,51.3167932829,0.460463027549,51.3528972103",
     "geom:latitude":51.334934,
     "geom:longitude":0.428359,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9537,
-    "gn:population":10211,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":9537,
     "iso:country":"GB",
     "lbl:latitude":51.32971,
     "lbl:longitude":0.44305,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0633\u0646\u0648\u062f\u0644\u0646\u062f"
@@ -124,7 +126,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":1125996249,
-    "wof:lastmodified":1563341374,
+    "wof:lastmodified":1566635257,
     "wof:name":"Snodland",
     "wof:parent_id":404442453,
     "wof:placetype":"locality",

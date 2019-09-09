@@ -9,14 +9,17 @@
     "geom:bbox":"-1.34183913324,52.9308409097,-1.27881754789,52.9527105803",
     "geom:latitude":52.941287,
     "geom:longitude":-1.308162,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.93732,
     "lbl:longitude":-1.30931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Stanton by Dale"
@@ -39,7 +42,7 @@
     "name:swe_x_preferred":[
         "Stanton by Dale"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125845761,
-    "wof:lastmodified":1564159634,
+    "wof:lastmodified":1566636327,
     "wof:name":"Stanton by Dale",
     "wof:parent_id":404453125,
     "wof:placetype":"locality",

@@ -9,12 +9,15 @@
     "geom:bbox":"-2.078272,51.481102,-2.078272,51.481102",
     "geom:latitude":51.481102,
     "geom:longitude":-2.078272,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-2.083272,51.476102,-2.073272,51.486102",
     "lbl:latitude":51.481102,
     "lbl:longitude":-2.078272,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kellaways"
@@ -40,19 +43,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":24718,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698611,
         102191581,
         404435077,
         85633159,
         404227469,
         1360756785,
-        1360698937
+        1360698937,
+        1360698611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1360798309,
-    "wof:lastmodified":1547730855,
+    "wof:lastmodified":1566628769,
     "wof:name":"Kellaways",
     "wof:parent_id":1360756785,
     "wof:placetype":"neighbourhood",

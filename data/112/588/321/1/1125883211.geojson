@@ -9,15 +9,17 @@
     "geom:bbox":"-1.15888829504,52.901116385,-1.09839015515,52.943842423",
     "geom:latitude":52.921634,
     "geom:longitude":-1.128553,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":48314,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":48314,
     "iso:country":"GB",
     "lbl:latitude":52.92979,
     "lbl:longitude":-1.12537,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0633\u062a \u0628\u0631\u06cc\u062c\u0641\u0648\u0631\u062f"
@@ -76,7 +78,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0442-\u0411\u0440\u0438\u0434\u0436\u0444\u043e\u0440\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "West Bridgeford"
     ],
     "name:vol_x_preferred":[
@@ -111,7 +113,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1125883211,
-    "wof:lastmodified":1563340784,
+    "wof:lastmodified":1566634898,
     "wof:name":"West Bridgford",
     "wof:parent_id":1360698809,
     "wof:placetype":"locality",

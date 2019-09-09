@@ -11,8 +11,10 @@
     "geom:longitude":0.055121,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"0.050121,51.61912,0.060121,51.62912",
     "lbl:latitude":51.62412,
     "lbl:longitude":0.055121,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.621425,
     "mps:longitude":0.058216,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Roding Valley"
-    ],
-    "name:unk_x_variant":[
         "Roding Valley"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698551,
         102191581,
         404437543,
         85633159,
         404227469,
         1125918629,
-        1360698979
+        1360698979,
+        1360698551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089561,
-        "qs:id":237468,
         "qs_pg:id":237468
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547722668,
+    "wof:lastmodified":1566627888,
     "wof:name":"Roding Valley",
     "wof:parent_id":1125918629,
     "wof:placetype":"neighbourhood",

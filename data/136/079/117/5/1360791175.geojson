@@ -11,12 +11,15 @@
     "geom:longitude":-0.102021,
     "gn:population":6563,
     "iso:country":"GB",
+    "lbl:bbox":"-0.107021,53.511097,-0.097021,53.521097",
     "lbl:latitude":53.516096,
     "lbl:longitude":-0.102021,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.516096,
     "mps:longitude":-0.102021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09b2\u09cd\u099f\u09b9\u09cd\u09af\u09be\u09ae"
     ],
@@ -103,7 +106,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":2634845,
         "gp:id":39069,
-        "qs:id":1036778,
         "qs_pg:id":976770,
         "wd:id":"Q1992690",
         "wk:page":"Waltham, Lincolnshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036778
     },
     "wof:country":"GB",
     "wof:geomhash":"f652f2c9d12e66cc7681ceaac1280aeb",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":1360791175,
-    "wof:lastmodified":1563333272,
+    "wof:lastmodified":1566628592,
     "wof:name":"Waltham",
     "wof:parent_id":1343797529,
     "wof:placetype":"neighbourhood",

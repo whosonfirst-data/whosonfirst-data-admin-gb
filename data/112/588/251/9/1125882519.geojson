@@ -9,14 +9,17 @@
     "geom:bbox":"-1.59199028916,54.4691488237,-1.50418184908,54.5148942358",
     "geom:latitude":54.493776,
     "geom:longitude":-1.540472,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.49008,
     "lbl:longitude":-1.53294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Hurworth Place"
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         1360698621,
         102191581,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125882519,
-    "wof:lastmodified":1561838444,
+    "wof:lastmodified":1566634826,
     "wof:name":"Hurworth",
     "wof:parent_id":404440949,
     "wof:placetype":"locality",

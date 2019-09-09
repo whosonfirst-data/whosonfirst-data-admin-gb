@@ -9,15 +9,17 @@
     "geom:bbox":"-1.73069141535,52.0543281189,-1.67135753876,52.1113728072",
     "geom:latitude":52.082872,
     "geom:longitude":-1.696734,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":712,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.08921,
     "lbl:longitude":-1.69138,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0418\u043b\u043c\u0438\u043d\u0433\u0442\u043e\u043d"
@@ -88,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":1125920387,
-    "wof:lastmodified":1563339721,
+    "wof:lastmodified":1566634226,
     "wof:name":"Ilmington",
     "wof:parent_id":404446539,
     "wof:placetype":"locality",

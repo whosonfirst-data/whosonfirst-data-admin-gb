@@ -10,12 +10,15 @@
     "geom:latitude":54.190485,
     "geom:longitude":-2.092443,
     "iso:country":"GB",
+    "lbl:bbox":"-2.097443,54.185485,-2.087443,54.195485",
     "lbl:latitude":54.190485,
     "lbl:longitude":-2.092442,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.190485,
     "mps:longitude":-2.092442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u062f\u0646"
     ],
@@ -56,7 +59,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.191389,
     "wd:longitude":-2.090539,
     "wd:wordcount":676,
@@ -74,10 +77,12 @@
         "fct:id":"0aa56ba6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2654419,
         "gp:id":14372,
-        "qs:id":1164451,
-        "qs_pg:id":1209287,
+        "qs_pg:id":1164451,
         "wd:id":"Q2793978",
         "wk:page":"Buckden, North Yorkshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1209287
     },
     "wof:country":"GB",
     "wof:geomhash":"68784a4e50674fcf2ece503898376ad0",
@@ -97,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837887,
+    "wof:lastmodified":1566628583,
     "wof:name":"Buckden",
     "wof:parent_id":1209444265,
     "wof:placetype":"neighbourhood",

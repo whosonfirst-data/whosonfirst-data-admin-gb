@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.590474,
     "lbl:longitude":-3.186864,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.590474,
     "mps:longitude":-3.186864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0434\u0443\u0430\u0441"
     ],
@@ -63,7 +66,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"whosonfirst",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.5926,
     "wd:longitude":-3.2061,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2656033,
         "gp:id":12228,
-        "qs:id":1218908,
         "qs_pg:id":1218908,
         "wd:id":"Q3401157",
         "wk:page":"Bedwas"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101852777,
-    "wof:lastmodified":1563336982,
+    "wof:lastmodified":1566631065,
     "wof:name":"Bedwas",
     "wof:parent_id":404430799,
     "wof:placetype":"locality",

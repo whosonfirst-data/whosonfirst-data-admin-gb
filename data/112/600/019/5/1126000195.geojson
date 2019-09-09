@@ -9,15 +9,17 @@
     "geom:bbox":"-0.584307532876,51.6494513999,-0.546145059445,51.6747875059",
     "geom:latitude":51.662782,
     "geom:longitude":-0.562803,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4497,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":4497,
     "iso:country":"GB",
     "lbl:latitude":51.66829,
     "lbl:longitude":-0.57038,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0644 \u062a\u0634\u0644\u0641\u0646\u062a"
@@ -80,7 +82,7 @@
         "Little Chalfont"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd  \u0b9a\u0bbe\u0bb2\u0bcd\u0baa\u0bcb\u0ba3\u0bcd\u0b9f\u0bcd"
+        "\u0bb2\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0bb2\u0bcd\u0baa\u0bcb\u0ba3\u0bcd\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3f\u0c1f\u0c3f\u0c32\u0c4d \u0c1a\u0c3e\u0c2b\u0c4d\u0c2b\u0c3e\u0c02\u0c1f\u0c4d"
@@ -115,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1126000195,
-    "wof:lastmodified":1563342513,
+    "wof:lastmodified":1566635950,
     "wof:name":"Little Chalfont",
     "wof:parent_id":404430087,
     "wof:placetype":"locality",

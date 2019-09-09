@@ -9,15 +9,17 @@
     "geom:bbox":"-2.57176475327,51.8775196563,-2.50403001676,51.9288805844",
     "geom:latitude":51.904865,
     "geom:longitude":-2.533859,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":670,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.90778,
     "lbl:longitude":-2.53691,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Weston under Penyard"
@@ -49,7 +51,7 @@
     "name:swe_x_preferred":[
         "Weston under Penyard"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weston"
     ],
     "qs_pg:aaroncc":"GB",
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1125863247,
-    "wof:lastmodified":1563340466,
+    "wof:lastmodified":1566634708,
     "wof:name":"Weston under Penyard",
     "wof:parent_id":404434087,
     "wof:placetype":"locality",

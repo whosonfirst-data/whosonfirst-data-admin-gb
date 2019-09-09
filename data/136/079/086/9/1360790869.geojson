@@ -11,12 +11,15 @@
     "geom:longitude":0.496452,
     "gn:population":2466,
     "iso:country":"GB",
+    "lbl:bbox":"0.491452,51.167751,0.501452,51.177751",
     "lbl:latitude":51.172751,
     "lbl:longitude":0.496452,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.172751,
     "mps:longitude":0.496452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Marden"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Marden"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Morden"
     ],
     "qs:a0":"United Kingdom",
@@ -69,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.174478,
     "wd:longitude":0.494197,
@@ -87,10 +90,12 @@
     "wof:concordances":{
         "gn:id":2642234,
         "gp:id":28309,
-        "qs:id":364953,
         "qs_pg:id":226654,
         "wd:id":"Q6758628",
         "wk:page":"Marden, Kent"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":364953
     },
     "wof:country":"GB",
     "wof:geomhash":"85a6b6672fd61320a5491d72409d898c",
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":1360790869,
-    "wof:lastmodified":1563333517,
+    "wof:lastmodified":1566628709,
     "wof:name":"Marden",
     "wof:parent_id":1209134711,
     "wof:placetype":"neighbourhood",

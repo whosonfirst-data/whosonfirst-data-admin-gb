@@ -9,15 +9,17 @@
     "geom:bbox":"-1.46153189798,53.0008419017,-1.42080753942,53.0213771471",
     "geom:latitude":53.010981,
     "geom:longitude":-1.441133,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4450,
-    "gn:population":5552,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4450,
     "iso:country":"GB",
     "lbl:latitude":53.0058,
     "lbl:longitude":-1.43869,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kilburn"
@@ -49,7 +51,7 @@
     "name:swe_x_preferred":[
         "Kilburn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kilbourne"
     ],
     "qs_pg:aaroncc":"GB",
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1125917303,
-    "wof:lastmodified":1563342012,
+    "wof:lastmodified":1566635663,
     "wof:name":"Kilburn",
     "wof:parent_id":404450175,
     "wof:placetype":"locality",

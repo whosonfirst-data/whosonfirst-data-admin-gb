@@ -9,15 +9,17 @@
     "geom:bbox":"-1.55124314773,53.5931264953,-1.49008761107,53.6277901202",
     "geom:latitude":53.610845,
     "geom:longitude":-1.523409,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":365,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.61339,
     "lbl:longitude":-1.51457,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u098a\u09b2\u09c7"
@@ -100,7 +102,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698609,
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":1125899833,
-    "wof:lastmodified":1563340830,
+    "wof:lastmodified":1566634931,
     "wof:name":"Woolley",
     "wof:parent_id":404438939,
     "wof:placetype":"locality",

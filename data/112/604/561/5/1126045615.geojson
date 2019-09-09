@@ -9,15 +9,17 @@
     "geom:bbox":"-1.31419391326,53.5753774213,-1.24720595924,53.6070875172",
     "geom:latitude":53.591607,
     "geom:longitude":-1.281611,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":18835,
+    "gn:country":null,
+    "gn:fcode":"PPLA3",
     "gn:population":18835,
     "iso:country":"GB",
     "lbl:latitude":53.595894,
     "lbl:longitude":-1.286859,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0633\u0627\u0648\u062a \u0627\u0644\u0645\u0633\u0627\u0644"
@@ -98,7 +100,7 @@
         "South Elmsall"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b87\u0bb3\u0bae\u0bcd\u0b9a\u0bb2\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0bb3\u0bae\u0bcd\u0b9a\u0bb2\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4c\u0c24\u0c4d \u0c0e\u0c32\u0c4d\u0c2e\u0c4d\u0c38\u0c3e\u0c32\u0c4d"
@@ -133,7 +135,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -175,7 +177,7 @@
         }
     ],
     "wof:id":1126045615,
-    "wof:lastmodified":1563340163,
+    "wof:lastmodified":1566634512,
     "wof:name":"South Elmsall",
     "wof:parent_id":404437359,
     "wof:placetype":"locality",

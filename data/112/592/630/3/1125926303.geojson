@@ -9,15 +9,17 @@
     "geom:bbox":"-2.05719798539,51.6542372095,-1.97369366895,51.7012277872",
     "geom:latitude":51.676911,
     "geom:longitude":-2.015036,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":779,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.67667,
     "lbl:longitude":-2.01806,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Kemble"
@@ -88,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":1125926303,
-    "wof:lastmodified":1563339763,
+    "wof:lastmodified":1566634254,
     "wof:name":"Kemble",
     "wof:parent_id":404450537,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.337543942518,52.9733069819,-0.189868925238,53.0065356736",
     "geom:latitude":52.989768,
     "geom:longitude":-0.256703,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3467,
-    "gn:population":3823,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":3467,
     "iso:country":"GB",
     "lbl:latitude":52.98183,
     "lbl:longitude":-0.29903,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Heckington"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125863237,
-    "wof:lastmodified":1563340467,
+    "wof:lastmodified":1566634708,
     "wof:name":"Heckington",
     "wof:parent_id":404437387,
     "wof:placetype":"locality",

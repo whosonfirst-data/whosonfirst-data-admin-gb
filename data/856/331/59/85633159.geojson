@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":52.418788,
     "lbl:longitude":-1.247349,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":52.418788,
     "mps:longitude":-1.247349,
     "mz:hierarchy_label":1,
@@ -1143,12 +1145,6 @@
         "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0456\u044f",
         "\u0421\u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0435 \u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e"
     ],
-    "name:und_x_preferred":[
-        "Y Deyrnas Unedig"
-    ],
-    "name:unk_x_variant":[
-        "Britain"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0645\u0644\u06a9\u062a \u0645\u062a\u062d\u062f\u06c1"
     ],
@@ -1317,7 +1313,7 @@
         "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"44",
     "statoids:ds":"GB",
@@ -1361,7 +1357,7 @@
         "mzb:id":"united-kingdom",
         "ne:adm0_a3":"GBR",
         "nyt:id":"42273881931420178781",
-        "qs:id":1032377,
+        "qs_pg:id":1032377,
         "uncrt:id":"GB",
         "wd:id":"Q145",
         "wmo:id":"UK"
@@ -1386,7 +1382,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1565711188,
+    "wof:lastmodified":1566627795,
     "wof:name":"United Kingdom",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

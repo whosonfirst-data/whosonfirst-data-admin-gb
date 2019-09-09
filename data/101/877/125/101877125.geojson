@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":57.470977,
     "lbl:longitude":-1.790835,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.470977,
     "mps:longitude":-1.790835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0434\u0430\u043c"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.4702,
     "wd:longitude":-1.7775,
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":2655288,
         "gp:id":13121,
-        "qs:id":905773,
         "qs_pg:id":905773,
         "wd:id":"Q4936404",
         "wk:page":"Boddam, Aberdeenshire"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101877125,
-    "wof:lastmodified":1563336696,
+    "wof:lastmodified":1566630941,
     "wof:name":"Boddam",
     "wof:parent_id":404448747,
     "wof:placetype":"locality",

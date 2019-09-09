@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.106934,
     "lbl:longitude":-0.17913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.106934,
     "mps:longitude":-0.17913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coningsby"
     ],
@@ -66,7 +69,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.1051,
     "wd:longitude":-0.1752,
     "wd:wordcount":756,
@@ -83,10 +86,12 @@
         "fct:id":"0aa3b72a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2652461,
         "gp:id":16760,
-        "qs:id":899701,
         "qs_pg:id":897904,
         "wd:id":"Q2008682",
         "wk:page":"Coningsby"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":899701
     },
     "wof:coterminous":[
         404430585
@@ -108,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336117,
+    "wof:lastmodified":1566630748,
     "wof:name":"Coningsby",
     "wof:parent_id":404446681,
     "wof:placetype":"locality",

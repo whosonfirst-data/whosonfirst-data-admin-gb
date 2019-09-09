@@ -10,12 +10,15 @@
     "geom:latitude":52.696994,
     "geom:longitude":1.697881,
     "iso:country":"GB",
+    "lbl:bbox":"1.692881,52.691994,1.702881,52.701994",
     "lbl:latitude":52.696994,
     "lbl:longitude":1.697881,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.696994,
     "mps:longitude":1.697881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:afr_x_preferred":[
         "Kaliforni\u00eb"
     ],
@@ -608,7 +611,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         404431661,
@@ -621,7 +624,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":14921,
-        "qs:id":2,
+        "qs_pg:id":2
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":247947
     },
     "wof:country":"GB",
@@ -639,7 +644,7 @@
         }
     ],
     "wof:id":1360790931,
-    "wof:lastmodified":1564153102,
+    "wof:lastmodified":1566628789,
     "wof:name":"California",
     "wof:parent_id":1125820473,
     "wof:placetype":"neighbourhood",

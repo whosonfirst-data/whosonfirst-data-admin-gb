@@ -9,15 +9,17 @@
     "geom:bbox":"-2.23517855309,53.6688511463,-2.16205435743,53.7350501766",
     "geom:latitude":53.702773,
     "geom:longitude":-2.197692,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13047,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":13047,
     "iso:country":"GB",
     "lbl:latitude":53.70336,
     "lbl:longitude":-2.2007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u06cc\u06a9\u0627\u067e"
@@ -111,7 +113,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1125844761,
-    "wof:lastmodified":1563343006,
+    "wof:lastmodified":1566636269,
     "wof:name":"Bacup",
     "wof:parent_id":1360817193,
     "wof:placetype":"locality",

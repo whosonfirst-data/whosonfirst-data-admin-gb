@@ -9,15 +9,17 @@
     "geom:bbox":"-2.73333,53.45,-2.73333,53.45",
     "geom:latitude":53.45,
     "geom:longitude":-2.73333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":102555,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA2",
     "gn:population":102555,
     "iso:country":"GB",
+    "lbl:bbox":"-2.73833,53.445,-2.72833,53.455",
     "lbl:latitude":53.45,
     "lbl:longitude":-2.73333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0647\u0644\u0646\u0632"
@@ -143,7 +145,7 @@
         "St Helens"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b9f  \u0bb9\u0bc6\u0bb2\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd"
+        "\u0bb8\u0bcd\u0b9f \u0bb9\u0bc6\u0bb2\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u04ba\u0435\u043b\u0435\u043d\u0441"
@@ -156,9 +158,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u0413\u0435\u043b\u0435\u043d\u0441"
-    ],
-    "name:unk_x_variant":[
-        "St. Helens"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u06be\u0644\u06cc\u0646\u0633"
@@ -190,7 +189,7 @@
     "qs_pg:qs_id":1036832,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -221,7 +220,7 @@
         }
     ],
     "wof:id":1360798539,
-    "wof:lastmodified":1563333620,
+    "wof:lastmodified":1566628760,
     "wof:name":"Saint Helens",
     "wof:parent_id":101750559,
     "wof:placetype":"neighbourhood",

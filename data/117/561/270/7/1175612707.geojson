@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":55.860766,
     "lbl:longitude":-4.268234,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":55.860766,
     "mps:longitude":-4.268234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Glasgow"
     ],
@@ -435,7 +438,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":3298.0,
     "wd:latitude":55.87,
@@ -454,10 +457,12 @@
     "wof:concordances":{
         "gn:id":2648579,
         "gp:id":21125,
-        "qs:id":351998,
-        "qs_pg:id":1031872,
+        "qs_pg:id":351998,
         "wd:id":"Q4093",
         "wk:page":"Glasgow"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1031872
     },
     "wof:coterminous":[
         404430153
@@ -476,7 +481,7 @@
         }
     ],
     "wof:id":1175612707,
-    "wof:lastmodified":1563332670,
+    "wof:lastmodified":1566628262,
     "wof:name":"Glasgow",
     "wof:parent_id":404430153,
     "wof:placetype":"locality",

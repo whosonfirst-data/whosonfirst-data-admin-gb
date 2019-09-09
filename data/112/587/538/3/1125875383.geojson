@@ -9,15 +9,17 @@
     "geom:bbox":"0.74385496179,52.5781330776,0.83628431985,52.6204781593",
     "geom:latitude":52.601935,
     "geom:longitude":0.784086,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1172,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.6,
     "lbl:longitude":0.8,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ashill"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125875383,
-    "wof:lastmodified":1563341171,
+    "wof:lastmodified":1566635136,
     "wof:name":"Ashill",
     "wof:parent_id":404451041,
     "wof:placetype":"locality",

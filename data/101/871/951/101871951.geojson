@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.297223,
     "lbl:longitude":-2.725146,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.297223,
     "mps:longitude":-2.725146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0641\u0648\u0631\u062f\u0634\u0627\u0645"
     ],
@@ -126,7 +129,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.295,
     "wd:longitude":-2.725,
     "wd:wordcount":2874,
@@ -142,7 +145,6 @@
     "wof:concordances":{
         "gn:id":2649029,
         "gp:id":20676,
-        "qs:id":899099,
         "qs_pg:id":899099,
         "wd:id":"Q2464851",
         "wk:page":"Frodsham"
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":101871951,
-    "wof:lastmodified":1563336712,
+    "wof:lastmodified":1566630949,
     "wof:name":"Frodsham",
     "wof:parent_id":404432445,
     "wof:placetype":"locality",

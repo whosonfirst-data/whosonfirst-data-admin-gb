@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.55454,
     "lbl:longitude":-0.292225,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.552049,
     "mps:longitude":-0.294044,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":7,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Wembley Central"
-    ],
-    "name:unk_x_variant":[
         "Wembley Central"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +57,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":14,
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857267
+        1158857267,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089559,
-        "qs:id":425280,
         "qs_pg:id":425280
     },
     "wof:country":"GB",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206400,
+    "wof:lastmodified":1566627887,
     "wof:name":"Wembley Central",
     "wof:parent_id":1158857267,
     "wof:placetype":"neighbourhood",

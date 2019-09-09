@@ -12,8 +12,10 @@
     "gn:latitude":51.4,
     "gn:longitude":0.53333,
     "iso:country":"GB",
+    "lbl:bbox":"0.518023,51.387092,0.528023,51.397092",
     "lbl:latitude":51.392092,
     "lbl:longitude":0.523023,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.403292,
     "mps:longitude":0.534488,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Brompton"
-    ],
-    "name:unk_x_variant":[
         "Brompton"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -61,22 +60,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":567,
     "wof:belongsto":[
-        1360698565,
         102191581,
         1360817083,
         85633159,
         404227469,
         1360832449,
-        1360699105
+        1360699105,
+        1360698565
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2654585,
         "gp:id":14118,
-        "qs:id":888881,
         "qs_pg:id":888881,
         "wd:id":"Q4973747",
         "wk:page":"Brompton, Kent"
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547766291,
+    "wof:lastmodified":1566627605,
     "wof:name":"Brompton",
     "wof:parent_id":1360832449,
     "wof:placetype":"neighbourhood",

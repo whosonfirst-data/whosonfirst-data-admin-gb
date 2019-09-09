@@ -11,12 +11,16 @@
     "geom:longitude":-3.699039,
     "gn:population":9026,
     "iso:country":"GB",
+    "lbl:bbox":"-3.719039,55.878114,-3.679039,55.918114",
     "lbl:latitude":55.898114,
     "lbl:longitude":-3.699039,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.898114,
     "mps:longitude":-3.699039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u09ae\u09be\u09a1\u09c7\u09b2"
     ],
@@ -123,7 +127,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.8978,
     "wd:longitude":-3.70474,
@@ -141,10 +145,12 @@
         "gn:id":2657066,
         "gp:id":11037,
         "loc:id":"n88238217",
-        "qs:id":437171,
-        "qs_pg:id":1337937,
+        "qs_pg:id":437171,
         "wd:id":"Q2706897",
         "wk:page":"Armadale, West Lothian"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1337937
     },
     "wof:country":"GB",
     "wof:geomhash":"1581951a0503a08de2b58435fd503b0a",
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":101872475,
-    "wof:lastmodified":1563336416,
+    "wof:lastmodified":1566630851,
     "wof:name":"Armadale",
     "wof:parent_id":404447005,
     "wof:placetype":"locality",

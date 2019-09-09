@@ -9,14 +9,17 @@
     "geom:bbox":"-1.33372,53.65603,-1.33372,53.65603",
     "geom:latitude":53.65603,
     "geom:longitude":-1.33372,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.33872,53.65103,-1.32872,53.66103",
     "lbl:latitude":53.65603,
     "lbl:longitude":-1.33372,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0985\u0995\u0993\u09b0\u09cd\u09a5"
@@ -87,9 +90,6 @@
     "name:tel_x_preferred":[
         "\u0c05\u0c15\u0c4d\u0c35\u0c30\u0c4d\u0c24\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Ackworth"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0648\u0648\u0631\u062a\u06be"
     ],
@@ -114,7 +114,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":23174,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1360800893,
-    "wof:lastmodified":1563334861,
+    "wof:lastmodified":1566629488,
     "wof:name":"High Ackworth",
     "wof:parent_id":1360755575,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"-3.13255,53.34913,-3.13255,53.34913",
     "geom:latitude":53.34913,
     "geom:longitude":-3.13255,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":160,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.13755,53.34413,-3.12755,53.35413",
     "lbl:latitude":53.34913,
     "lbl:longitude":-3.13255,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Thurstaston"
@@ -46,19 +48,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":37528,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698573,
         102191581,
         85633159,
         404227469,
         1360832459,
-        1360699049
+        1360699049,
+        1360698573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":1360796483,
-    "wof:lastmodified":1547717757,
+    "wof:lastmodified":1566628731,
     "wof:name":"Thurstaston",
     "wof:parent_id":1360832459,
     "wof:placetype":"neighbourhood",

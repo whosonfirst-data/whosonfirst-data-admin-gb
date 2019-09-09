@@ -9,14 +9,17 @@
     "geom:bbox":"0.0937873165811,52.1425783215,0.17595151905,52.1724282423",
     "geom:latitude":52.158371,
     "geom:longitude":0.135899,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.15034,
     "lbl:longitude":0.13621,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u062a \u0634\u0644\u0641\u0631\u062f"
@@ -79,7 +82,7 @@
         "Great Shelford"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd  \u0bb7\u0bc6\u0bb2\u0bcd\u0b9f\u0baa\u0bcb\u0bb0\u0bcd\u0b9f"
+        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0bb7\u0bc6\u0bb2\u0bcd\u0b9f\u0baa\u0bcb\u0bb0\u0bcd\u0b9f"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c3e\u0c1f\u0c47 \u0c37\u0c46\u0c32\u0c4d\u0c2b\u0c4b\u0c30\u0c4d\u0c21\u0c4d"
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1125877215,
-    "wof:lastmodified":1563341238,
+    "wof:lastmodified":1566635174,
     "wof:name":"Great Shelford",
     "wof:parent_id":404452235,
     "wof:placetype":"locality",

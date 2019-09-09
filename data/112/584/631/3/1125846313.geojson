@@ -9,15 +9,17 @@
     "geom:bbox":"-0.349378725051,53.3723331499,-0.302779868068,53.3923717602",
     "geom:latitude":53.38217,
     "geom:longitude":-0.329258,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3569,
-    "gn:population":4773,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":3569,
     "iso:country":"GB",
     "lbl:latitude":53.38764,
     "lbl:longitude":-0.33781,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u0627\u0631\u06a9\u062a \u0631\u0627\u0633\u0646"
@@ -88,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":1125846313,
-    "wof:lastmodified":1563343123,
+    "wof:lastmodified":1566636326,
     "wof:name":"Market Rasen",
     "wof:parent_id":404448803,
     "wof:placetype":"locality",

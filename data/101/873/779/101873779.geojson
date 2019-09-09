@@ -10,12 +10,16 @@
     "geom:latitude":54.504383,
     "geom:longitude":-6.762553,
     "iso:country":"GB",
+    "lbl:bbox":"-6.782553,54.484383,-6.742553,54.524383",
     "lbl:latitude":54.504384,
     "lbl:longitude":-6.762553,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.504384,
     "mps:longitude":-6.762553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "D\u00fan Geanainn"
     ],
@@ -110,7 +114,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360699241,
         102191581,
@@ -122,10 +126,12 @@
     "wof:concordances":{
         "gn:id":2650729,
         "gp:id":44781,
-        "qs:id":1037080,
-        "qs_pg:id":1074006,
+        "qs_pg:id":1037080,
         "wd:id":"Q1025602",
         "wk:page":"Dungannon"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074006
     },
     "wof:country":"GB",
     "wof:geomhash":"002623ac26d81df9329a47a6906a1ec4",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":101873779,
-    "wof:lastmodified":1563336223,
+    "wof:lastmodified":1566630785,
     "wof:name":"Dungannon",
     "wof:parent_id":1360699241,
     "wof:placetype":"locality",

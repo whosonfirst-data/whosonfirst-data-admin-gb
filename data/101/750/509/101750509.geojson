@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.115986,
     "lbl:longitude":-1.266945,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.124106,
     "mps:longitude":-1.268787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u044a\u0442\u044a\u043d \u0438\u043d \u0410\u0448\u0444\u0438\u0439\u043b\u0434"
     ],
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "Sutton in Ashfield"
     ],
-    "name:unk_x_variant":[
-        "Sutton in Ashfield"
-    ],
     "name:vol_x_preferred":[
         "Sutton in Ashfield"
     ],
@@ -85,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.1233,
     "wd:longitude":-1.2669,
     "wd:wordcount":1867,
@@ -101,10 +101,12 @@
         "fct:id":"0aa3989e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2638096,
         "gp:id":11153,
-        "qs:id":239398,
-        "qs_pg:id":975402,
+        "qs_pg:id":239398,
         "wd:id":"Q2119187",
         "wk:page":"Sutton-in-Ashfield"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":975402
     },
     "wof:country":"GB",
     "wof:geomhash":"c2f20ec4ba5ca24fee0e822268b60181",
@@ -122,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336623,
+    "wof:lastmodified":1566630923,
     "wof:name":"Sutton in Ashfield",
     "wof:parent_id":1360698809,
     "wof:placetype":"locality",

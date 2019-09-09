@@ -9,15 +9,17 @@
     "geom:bbox":"-1.98931549193,51.8628380249,-1.95177319498,51.8818898183",
     "geom:latitude":51.873436,
     "geom:longitude":-1.972494,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":555,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.87496,
     "lbl:longitude":-1.96451,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u043d\u0434\u043e\u0432\u0435\u0440\u0441\u0444\u043e\u0440\u0434"
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1125926969,
-    "wof:lastmodified":1563339765,
+    "wof:lastmodified":1566634255,
     "wof:name":"Andoversford",
     "wof:parent_id":404447133,
     "wof:placetype":"locality",

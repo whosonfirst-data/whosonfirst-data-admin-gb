@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.434414,
     "lbl:longitude":-2.757525,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.434414,
     "mps:longitude":-2.757525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0646\u0627\u06cc\u0644\u0633\u06cc"
     ],
@@ -118,7 +121,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.43,
     "wd:longitude":-2.76,
@@ -135,7 +138,6 @@
     "wof:concordances":{
         "gn:id":2641913,
         "gp:id":29639,
-        "qs:id":453978,
         "qs_pg:id":453978,
         "wd:id":"Q942474",
         "wk:page":"Nailsea"
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101852673,
-    "wof:lastmodified":1563336938,
+    "wof:lastmodified":1566631048,
     "wof:name":"Nailsea",
     "wof:parent_id":404440043,
     "wof:placetype":"locality",

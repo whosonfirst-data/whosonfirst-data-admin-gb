@@ -9,15 +9,17 @@
     "geom:bbox":"0.990398701632,52.7629306639,1.05284922938,52.8022388853",
     "geom:latitude":52.783913,
     "geom:longitude":1.020221,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1021,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.78182,
     "lbl:longitude":1.01049,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Foulsham"
@@ -55,7 +57,7 @@
     "name:swe_x_preferred":[
         "Foulsham"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Foulham"
     ],
     "qs_pg:aaroncc":"GB",
@@ -82,7 +84,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":1125974513,
-    "wof:lastmodified":1563341826,
+    "wof:lastmodified":1566635545,
     "wof:name":"Foulsham",
     "wof:parent_id":404449769,
     "wof:placetype":"locality",

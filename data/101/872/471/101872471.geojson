@@ -10,12 +10,16 @@
     "geom:latitude":55.828267,
     "geom:longitude":-3.705865,
     "iso:country":"GB",
+    "lbl:bbox":"-3.725865,55.808267,-3.685865,55.848267",
     "lbl:latitude":55.828267,
     "lbl:longitude":-3.705865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.828267,
     "mps:longitude":-3.705865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ab\u09be\u0989\u09b2\u09b9\u09be\u0989\u099c"
     ],
@@ -111,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.8272,
     "wd:longitude":-3.70907,
     "wd:wordcount":608,
@@ -127,10 +131,12 @@
     "wof:concordances":{
         "gn:id":2649624,
         "gp:id":19986,
-        "qs:id":1037042,
         "qs_pg:id":977672,
         "wd:id":"Q1009114",
         "wk:page":"Fauldhouse"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037042
     },
     "wof:country":"GB",
     "wof:geomhash":"1ffd864fb99622f0211df1541c8e5799",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":101872471,
-    "wof:lastmodified":1563336322,
+    "wof:lastmodified":1566630820,
     "wof:name":"Fauldhouse",
     "wof:parent_id":404447005,
     "wof:placetype":"locality",

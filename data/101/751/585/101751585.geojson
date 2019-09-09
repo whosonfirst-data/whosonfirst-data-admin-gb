@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.631392,
     "lbl:longitude":-2.463103,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.629386,
     "mps:longitude":-2.462334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Weymouth"
     ],
@@ -167,7 +170,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.613056,
     "wd:longitude":-2.456944,
@@ -184,7 +187,6 @@
         "gn:id":2634202,
         "gp:id":40071,
         "loc:id":"nr97009928",
-        "qs:id":140634,
         "qs_pg:id":140634,
         "wd:id":"Q661619",
         "wk:page":"Weymouth, Dorset"
@@ -202,7 +204,7 @@
         }
     ],
     "wof:id":101751585,
-    "wof:lastmodified":1563336522,
+    "wof:lastmodified":1566630896,
     "wof:name":"Weymouth",
     "wof:parent_id":1360698745,
     "wof:placetype":"locality",

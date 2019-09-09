@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.379741,
     "lbl:longitude":-2.486579,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.379741,
     "mps:longitude":-2.486579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0645"
     ],
@@ -109,7 +112,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.383397,
     "wd:longitude":-2.475033,
@@ -126,10 +129,12 @@
     "wof:concordances":{
         "gn:id":2643309,
         "gp:id":28045,
-        "qs:id":1036934,
-        "qs_pg:id":1263642,
+        "qs_pg:id":1036934,
         "wd:id":"Q998181",
         "wk:page":"Lymm"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1263642
     },
     "wof:coterminous":[
         404451483
@@ -148,7 +153,7 @@
         }
     ],
     "wof:id":101872115,
-    "wof:lastmodified":1563336456,
+    "wof:lastmodified":1566630865,
     "wof:name":"Lymm",
     "wof:parent_id":404451483,
     "wof:placetype":"locality",

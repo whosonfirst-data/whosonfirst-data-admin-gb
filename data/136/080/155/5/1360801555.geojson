@@ -9,14 +9,17 @@
     "geom:bbox":"-0.8138,52.26188,-0.8138,52.26188",
     "geom:latitude":52.26188,
     "geom:longitude":-0.8138,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-0.8188,52.25688,-0.8088,52.26688",
     "lbl:latitude":52.26188,
     "lbl:longitude":-0.8138,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b2\u09cd\u09b2\u09bf\u0982"
@@ -81,9 +84,6 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c3f\u0c32\u0c4d\u0c32\u0c3f\u0c02\u0c17\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Billing"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u0646\u06af"
     ],
@@ -108,7 +108,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":21569,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":1360801555,
-    "wof:lastmodified":1563334818,
+    "wof:lastmodified":1566629462,
     "wof:name":"Great Billington",
     "wof:parent_id":101750459,
     "wof:placetype":"neighbourhood",

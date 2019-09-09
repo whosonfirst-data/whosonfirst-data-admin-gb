@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.500212,
     "lbl:longitude":-0.870909,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.500212,
     "mps:longitude":-0.870909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0631\u063a\u0631\u0648\u0641"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Wargrave"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wagrave"
     ],
     "qs:a0":"United Kingdom",
@@ -94,7 +97,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.499,
     "wd:longitude":-0.867,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":2634772,
         "gp:id":39174,
-        "qs:id":1243734,
         "qs_pg:id":1243734,
         "wd:id":"Q598948",
         "wk:page":"Wargrave"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101852549,
-    "wof:lastmodified":1563337045,
+    "wof:lastmodified":1566631090,
     "wof:name":"Wargrave",
     "wof:parent_id":404433173,
     "wof:placetype":"locality",

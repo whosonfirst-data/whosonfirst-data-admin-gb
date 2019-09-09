@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":50.740796,
     "lbl:longitude":-1.864552,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.739972,
     "mps:longitude":-1.866968,
     "mz:hierarchy_label":1,
@@ -344,7 +346,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":50.72,
     "wd:longitude":-1.88,
@@ -361,9 +363,11 @@
     "wof:concordances":{
         "gn:id":2655095,
         "gp:id":13383,
-        "qs:id":352030,
-        "qs_pg:id":897681,
+        "qs_pg:id":352030,
         "wd:id":"Q170478"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":897681
     },
     "wof:country":"GB",
     "wof:geomhash":"f9bb6a01ec722ae653d4e5e81c3e8085",
@@ -378,7 +382,7 @@
         }
     ],
     "wof:id":101750305,
-    "wof:lastmodified":1563336627,
+    "wof:lastmodified":1566630924,
     "wof:name":"Bournemouth",
     "wof:parent_id":1360698873,
     "wof:placetype":"locality",

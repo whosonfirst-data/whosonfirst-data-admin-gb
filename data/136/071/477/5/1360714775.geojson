@@ -9,14 +9,17 @@
     "geom:bbox":"-3.55489,52.11223,-3.55489,52.11223",
     "geom:latitude":52.11223,
     "geom:longitude":-3.55489,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.55989,52.10723,-3.54989,52.11723",
     "lbl:latitude":52.11223,
     "lbl:longitude":-3.55489,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Llangamarch"
@@ -33,7 +36,7 @@
     "name:ita_x_preferred":[
         "Llangammarch Wells"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Llangammarch"
     ],
     "qs_pg:aaroncc":"GB",
@@ -57,7 +60,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":26956,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1360714775,
-    "wof:lastmodified":1564153244,
+    "wof:lastmodified":1566628930,
     "wof:name":"Llangammarch Wells",
     "wof:parent_id":1360711841,
     "wof:placetype":"neighbourhood",

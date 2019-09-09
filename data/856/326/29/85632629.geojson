@@ -23,6 +23,8 @@
     ],
     "lbl:latitude":18.42785,
     "lbl:longitude":-64.640814,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":18.42785,
     "mps:longitude":-64.640814,
     "mz:hierarchy_label":1,
@@ -607,10 +609,7 @@
         "Britiske Jomfruoyene"
     ],
     "name:und_x_variant":[
-        "Britiske Jomfru\u00f8er",
-        "Britiske Jomfru\u00f8yene"
-    ],
-    "name:unk_x_variant":[
+        "Britiske Jomfru\u00f8yene",
         "Virgin Islands Presidency"
     ],
     "name:urd_x_preferred":[
@@ -734,7 +733,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "statoids:dial":"1-284",
     "statoids:ds":"BVI",
@@ -750,12 +749,6 @@
     "statoids:marc":"vb",
     "statoids:name":"Virgin Islands, British",
     "statoids:wmo":"VI",
-    "wof:belongs":[
-        102191581,
-        136253055,
-        85633159
-    ],
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191575,
         136253055
@@ -772,7 +765,7 @@
         "m49:code":"092",
         "marc:id":"vb",
         "mzb:id":"british-virgin-islands",
-        "qs:id":896430,
+        "qs_pg:id":896430,
         "uncrt:id":"BVI",
         "wd:id":"Q25305",
         "wmo:id":"VI"
@@ -791,7 +784,7 @@
         }
     ],
     "wof:id":85632629,
-    "wof:lastmodified":1565711195,
+    "wof:lastmodified":1566627826,
     "wof:name":"British Virgin Islands",
     "wof:parent_id":136253055,
     "wof:placetype":"dependency",

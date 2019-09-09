@@ -9,15 +9,17 @@
     "geom:bbox":"-1.64339,54.68307,-1.64339,54.68307",
     "geom:latitude":54.68307,
     "geom:longitude":-1.64339,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":271,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":271,
     "iso:country":"GB",
+    "lbl:bbox":"-1.64839,54.67807,-1.63839,54.68807",
     "lbl:latitude":54.68307,
     "lbl:longitude":-1.64339,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u0438\u043d\u0447\u0435\u0441\u0442\u0435\u0440"
@@ -55,7 +57,7 @@
     "qs_pg:qs_id":643413,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":1360793627,
-    "wof:lastmodified":1563332760,
+    "wof:lastmodified":1566628337,
     "wof:name":"Binchester",
     "wof:parent_id":1126029943,
     "wof:placetype":"neighbourhood",

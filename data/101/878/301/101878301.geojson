@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.782146,
     "lbl:longitude":-0.589672,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.767652,
     "mps:longitude":-0.600952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0648\u062a \u06a9\u06cc\u0648"
     ],
@@ -54,7 +57,7 @@
         "\u30b5\u30a6\u30b9\u30fb\u30b1\u30a4\u30d6"
     ],
     "name:kan_x_preferred":[
-        "\u0cb8\u0ccc\u0ca5\u0ccd  \u0c95\u0cc7\u0cb5\u0ccd"
+        "\u0cb8\u0ccc\u0ca5\u0ccd \u0c95\u0cc7\u0cb5\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\uc6b0\uc2a4 \ucf00\uc774\ube0c"
@@ -81,7 +84,7 @@
         "South Cave"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b95\u0bc7\u0bb5\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc7\u0bb5\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4c\u0c24\u0c4d \u0c15\u0c47\u0c35\u0c4d"
@@ -110,7 +113,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.769011,
     "wd:longitude":-0.598044,
@@ -128,7 +131,6 @@
         "fct:id":"0aa56ac0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2637461,
         "gp:id":35192,
-        "qs:id":1276589,
         "qs_pg:id":1276589,
         "wd:id":"Q2211572",
         "wk:page":"South Cave"
@@ -153,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336720,
+    "wof:lastmodified":1566630953,
     "wof:name":"South Cave",
     "wof:parent_id":404445621,
     "wof:placetype":"locality",

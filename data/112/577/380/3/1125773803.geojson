@@ -9,14 +9,17 @@
     "geom:bbox":"-0.627212790632,53.1691041542,-0.564951260437,53.2072981352",
     "geom:latitude":53.187309,
     "geom:longitude":-0.596502,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.18306,
     "lbl:longitude":-0.58766,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0646\u0648\u0631\u062b \u0647\u0627\u06cc\u06a9\u0647\u0645"
@@ -48,7 +51,7 @@
     "name:swe_x_preferred":[
         "North Hykeham"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hykeham"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125773803,
-    "wof:lastmodified":1564159649,
+    "wof:lastmodified":1566636373,
     "wof:name":"North Hykeham",
     "wof:parent_id":404446593,
     "wof:placetype":"locality",

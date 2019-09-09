@@ -10,12 +10,15 @@
     "geom:latitude":54.075109,
     "geom:longitude":-2.714505,
     "iso:country":"GB",
+    "lbl:bbox":"-2.719505,54.070109,-2.709505,54.080109",
     "lbl:latitude":54.075109,
     "lbl:longitude":-2.714505,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.075109,
     "mps:longitude":-2.714505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Brookhouse"
     ],
@@ -38,21 +41,23 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
-        1360698567,
         102191581,
         404439825,
         85633159,
         404227469,
         1360755723,
-        1360698817
+        1360698817,
+        1360698567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":14156,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":247355
     },
     "wof:country":"GB",
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1360791103,
-    "wof:lastmodified":1547730289,
+    "wof:lastmodified":1566628584,
     "wof:name":"Brookhouse",
     "wof:parent_id":1360755723,
     "wof:placetype":"neighbourhood",

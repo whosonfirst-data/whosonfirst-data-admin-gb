@@ -9,15 +9,17 @@
     "geom:bbox":"0.6672407004,51.2080707397,0.777523641244,51.2575712608",
     "geom:latitude":51.232555,
     "geom:longitude":0.722384,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2240,
-    "gn:population":2197,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2240,
     "iso:country":"GB",
     "lbl:latitude":51.23705,
     "lbl:longitude":0.71892,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u09a8\u09b9\u09be\u09ae"
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1125972283,
-    "wof:lastmodified":1563341665,
+    "wof:lastmodified":1566635438,
     "wof:name":"Lenham",
     "wof:parent_id":404437841,
     "wof:placetype":"locality",

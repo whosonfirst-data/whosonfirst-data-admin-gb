@@ -11,8 +11,10 @@
     "geom:longitude":-0.441893,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.446893,51.419449,-0.436893,51.429449",
     "lbl:latitude":51.424449,
     "lbl:longitude":-0.441893,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.422396,
     "mps:longitude":-0.445934,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Ashford Common"
-    ],
-    "name:unk_x_variant":[
         "Ashford Common"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698599,
         102191581,
         1360817203,
         85633159,
         404227469,
         1326665409,
-        1360698887
+        1360698887,
+        1360698599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089525,
-        "qs:id":13456,
         "qs_pg:id":13456
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699303,
+    "wof:lastmodified":1566627902,
     "wof:name":"Ashford Common",
     "wof:parent_id":1326665409,
     "wof:placetype":"neighbourhood",

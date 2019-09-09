@@ -9,16 +9,19 @@
     "geom:bbox":"-1.78333,53.25,-1.78333,53.25",
     "geom:latitude":53.25,
     "geom:longitude":-1.78333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.78833,53.245,-1.77833,53.255",
     "lbl:latitude":53.25,
     "lbl:longitude":-1.78333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Millers Dale"
     ],
     "qs_pg:aaroncc":"GB",
@@ -42,19 +45,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28993,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698539,
         102191581,
         404434507,
         85633159,
         404227469,
         1125839845,
-        1360698765
+        1360698765,
+        1360698539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1360796405,
-    "wof:lastmodified":1547720216,
+    "wof:lastmodified":1566628696,
     "wof:name":"Miller's Dale",
     "wof:parent_id":1125839845,
     "wof:placetype":"neighbourhood",

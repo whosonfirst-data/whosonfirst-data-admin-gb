@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":57.34111,
     "lbl:longitude":-4.931904,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.34111,
     "mps:longitude":-4.931904,
     "mz:hierarchy_label":1,
@@ -168,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0439\u043b\u0435\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Highland Region"
     ],
     "name:urd_x_preferred":[
@@ -250,9 +252,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"25,784",
     "statoids:area_mi":"9,955",
     "statoids:as_of_date":"2011-03-27",
@@ -307,11 +309,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563335987,
+    "wof:lastmodified":1566630628,
     "wof:name":"Highland",
     "wof:parent_id":1360698661,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary district",
     "wof:population":232132,
     "wof:population_rank":10,

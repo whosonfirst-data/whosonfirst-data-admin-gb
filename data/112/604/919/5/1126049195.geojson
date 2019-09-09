@@ -9,15 +9,17 @@
     "geom:bbox":"-2.85005894383,53.2087915686,-2.8077613869,53.2345883814",
     "geom:latitude":53.222505,
     "geom:longitude":-2.828988,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1872,
-    "gn:population":1822,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1872,
     "iso:country":"GB",
     "lbl:latitude":53.22146,
     "lbl:longitude":-2.83225,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0643\u0644 \u062a\u0631\u0627\u0641\u0648\u0631\u062f"
@@ -77,7 +79,7 @@
         "Mickle Trafford"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc7  \u0b9f\u0bbf\u0bb0\u0bbe\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f"
+        "\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc7 \u0b9f\u0bbf\u0bb0\u0bbe\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c48\u0c15\u0c46\u0c32\u0c4d \u0c1f\u0c4d\u0c30\u0c3e\u0c2b\u0c4b\u0c30\u0c4d\u0c21\u0c4d"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1126049195,
-    "wof:lastmodified":1563340261,
+    "wof:lastmodified":1566634579,
     "wof:name":"Mickle Trafford",
     "wof:parent_id":404434621,
     "wof:placetype":"locality",

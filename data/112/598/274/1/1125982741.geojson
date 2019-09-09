@@ -9,15 +9,17 @@
     "geom:bbox":"0.157625026979,51.3343979125,0.236428585964,51.3839072431",
     "geom:latitude":51.361683,
     "geom:longitude":0.202106,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2788,
-    "gn:population":2791,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2788,
     "iso:country":"GB",
     "lbl:latitude":51.36765,
     "lbl:longitude":0.21132,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u098f\u0987\u09a8\u09cd\u09b8\u09ab\u09cb\u09b0\u09cd\u09a1"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125982741,
-    "wof:lastmodified":1563342209,
+    "wof:lastmodified":1566635766,
     "wof:name":"Eynsford",
     "wof:parent_id":404433697,
     "wof:placetype":"locality",

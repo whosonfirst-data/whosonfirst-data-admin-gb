@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.680298,
     "lbl:longitude":-5.902429,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":54.680298,
     "mps:longitude":-5.902429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Newtownabbey"
     ],
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360699223,
@@ -138,10 +141,12 @@
     "wof:concordances":{
         "gn:id":2641520,
         "gp:id":45059,
-        "qs:id":1036902,
-        "qs_pg:id":1074019,
+        "qs_pg:id":1036902,
         "wd:id":"Q918947",
         "wk:page":"Newtownabbey"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074019
     },
     "wof:country":"GB",
     "wof:geomhash":"f730ab35de81b235b557ee96eec00a6e",
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":101751937,
-    "wof:lastmodified":1563336506,
+    "wof:lastmodified":1566630891,
     "wof:name":"Newtownabbey",
     "wof:parent_id":1360699223,
     "wof:placetype":"locality",

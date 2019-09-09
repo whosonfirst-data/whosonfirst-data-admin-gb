@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":55.923219,
     "lbl:longitude":-3.165603,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.924379,
     "mps:longitude":-3.181298,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Nether Liberton"
-    ],
-    "name:unk_x_variant":[
         "Nether Liberton"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +57,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698673,
         102191581,
         404437279,
         85633159,
         404227471,
         101750629,
-        1360698761
+        1360698761,
+        1360698673
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43668,
-        "qs:id":1187885,
         "qs_pg:id":1187885
     },
     "wof:country":"GB",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542191932,
+    "wof:lastmodified":1566627775,
     "wof:name":"Nether Liberton",
     "wof:parent_id":101750629,
     "wof:placetype":"neighbourhood",

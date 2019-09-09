@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.401032,
     "lbl:longitude":-2.45789,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.401032,
     "mps:longitude":-2.45789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b8\u09b2\u09cd\u099f\u09ab\u09cb\u09b0\u09cd\u09a1"
     ],
@@ -94,7 +97,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.4015,
     "wd:longitude":-2.4592,
@@ -111,10 +114,12 @@
     "wof:concordances":{
         "gn:id":2638639,
         "gp:id":33924,
-        "qs:id":92021,
-        "qs_pg:id":1073728,
+        "qs_pg:id":92021,
         "wd:id":"Q2490486",
         "wk:page":"Saltford"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073728
     },
     "wof:coterminous":[
         404445129
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":101852639,
-    "wof:lastmodified":1561838142,
+    "wof:lastmodified":1566631086,
     "wof:name":"Saltford",
     "wof:parent_id":404445129,
     "wof:placetype":"locality",

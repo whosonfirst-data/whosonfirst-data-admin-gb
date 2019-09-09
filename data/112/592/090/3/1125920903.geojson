@@ -9,15 +9,17 @@
     "geom:bbox":"-1.44704347825,51.5949558264,-1.39378780566,51.6262553312",
     "geom:latitude":51.610473,
     "geom:longitude":-1.418846,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18312,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":18312,
     "iso:country":"GB",
     "lbl:latitude":51.60954,
     "lbl:longitude":-1.42187,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Grove"
@@ -94,7 +96,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":1125920903,
-    "wof:lastmodified":1564158921,
+    "wof:lastmodified":1566634230,
     "wof:name":"Grove",
     "wof:parent_id":404455037,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.299965503843,52.2073246988,-0.217814930996,52.246131289",
     "geom:latitude":52.226538,
     "geom:longitude":-0.261559,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15270,
-    "gn:population":30811,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":15270,
     "iso:country":"GB",
     "lbl:latitude":52.21667,
     "lbl:longitude":-0.26667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0633\u0646\u062a \u0646\u0626\u0648\u062a\u0632"
@@ -107,13 +109,10 @@
         "St. Neots"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b9f  \u0ba9\u0bc7\u0b92\u0b9f\u0bcd\u0bb8\u0bcd"
+        "\u0bb8\u0bcd\u0b9f \u0ba9\u0bc7\u0b92\u0b9f\u0bcd\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c28\u0c3f\u0c2f\u0c4b\u0c1f\u0c4d\u0c38\u0c4d"
-    ],
-    "name:unk_x_variant":[
-        "Saint Neots"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u0646\u06cc\u0648\u062a\u0633"
@@ -148,7 +147,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -187,7 +186,7 @@
         }
     ],
     "wof:id":1126031581,
-    "wof:lastmodified":1563340284,
+    "wof:lastmodified":1566634595,
     "wof:name":"St. Neots",
     "wof:parent_id":404449225,
     "wof:placetype":"locality",

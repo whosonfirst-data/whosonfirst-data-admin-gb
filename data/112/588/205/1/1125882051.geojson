@@ -9,15 +9,17 @@
     "geom:bbox":"-2.01063246161,50.6289863431,-1.92228567407,50.7043404711",
     "geom:latitude":50.662198,
     "geom:longitude":-1.971423,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":299,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.64271,
     "lbl:longitude":-1.95316,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "Studland"
@@ -115,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1125882051,
-    "wof:lastmodified":1563340660,
+    "wof:lastmodified":1566634829,
     "wof:name":"Studland",
     "wof:parent_id":404438537,
     "wof:placetype":"locality",

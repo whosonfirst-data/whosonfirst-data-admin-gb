@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.740276,
     "lbl:longitude":-2.99496,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.740276,
     "mps:longitude":-2.994959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u062a\u0647\u0627\u0645 \u0633\u0646\u062a \u0622\u0646\u0633"
     ],
@@ -103,7 +106,7 @@
         "Lytham St Annes"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbf\u0ba4\u0bae\u0bcd  \u0bb8\u0bcd\u0b9f  \u0b85\u0ba9\u0bc0\u0bb8\u0bcd"
+        "\u0bb2\u0bbf\u0ba4\u0bae\u0bcd \u0bb8\u0bcd\u0b9f \u0b85\u0ba9\u0bc0\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3f\u0c25\u0c02 \u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c05\u0c28\u0c4d\u0c28\u0c47\u0c38\u0c4d"
@@ -140,7 +143,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.7426,
     "wd:longitude":-2.997,
@@ -156,10 +159,12 @@
     "wof:concordances":{
         "gn:id":6693470,
         "gp:id":28086,
-        "qs:id":21565,
-        "qs_pg:id":1079619,
+        "qs_pg:id":21565,
         "wd:id":"Q1757473",
         "wk:page":"Lytham St Annes"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079619
     },
     "wof:country":"GB",
     "wof:geomhash":"2b20d97f9be963dd531fc4f80d3eba54",
@@ -174,7 +179,7 @@
         }
     ],
     "wof:id":101872281,
-    "wof:lastmodified":1563336341,
+    "wof:lastmodified":1566630825,
     "wof:name":"Lytham St Annes",
     "wof:parent_id":1360698817,
     "wof:placetype":"locality",

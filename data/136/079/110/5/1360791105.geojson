@@ -10,12 +10,15 @@
     "geom:latitude":54.118832,
     "geom:longitude":-2.508844,
     "iso:country":"GB",
+    "lbl:bbox":"-2.513844,54.113832,-2.503844,54.123832",
     "lbl:latitude":54.118832,
     "lbl:longitude":-2.508844,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.118832,
     "mps:longitude":-2.508844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "High Bentham"
     ],
@@ -61,9 +64,6 @@
     "name:swe_x_preferred":[
         "High Bentham"
     ],
-    "name:unk_x_variant":[
-        "Bentham"
-    ],
     "name:vol_x_preferred":[
         "High Bentham"
     ],
@@ -86,7 +86,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":940,
     "wof:belongsto":[
         102191581,
@@ -102,10 +102,12 @@
         "fct:id":"0aa4c156-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8063570,
         "gp:id":12373,
-        "qs:id":974555,
-        "qs_pg:id":1140911,
+        "qs_pg:id":974555,
         "wd:id":"Q26774476",
         "wk:page":"Bentham, North Yorkshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1140911
     },
     "wof:country":"GB",
     "wof:geomhash":"b629257861e36f44263b0674d73a627b",
@@ -125,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563333257,
+    "wof:lastmodified":1566628584,
     "wof:name":"High Bentham",
     "wof:parent_id":1360758935,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.540881,
     "lbl:longitude":-0.264676,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.54121,
     "mps:longitude":-0.264002,
     "mz:hierarchy_label":1,
@@ -45,9 +46,8 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u043d\u0431\u0440\u0438\u0434\u0436"
     ],
-    "name:unk_x_variant":[
-        "Tonbridge",
-        "Stonebridge"
+    "name:und_x_variant":[
+        "Tonbridge"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0679\u0648\u0646\u0628\u0631\u062c"
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -72,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2635703,
         "gp:id":20094353,
-        "qs:id":938122,
         "qs_pg:id":938122,
         "wd:id":"Q146360",
         "wk:page":"Tonbridge"
@@ -94,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837825,
+    "wof:lastmodified":1566627831,
     "wof:name":"Stonebridge",
     "wof:parent_id":1158857267,
     "wof:placetype":"neighbourhood",

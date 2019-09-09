@@ -9,15 +9,17 @@
     "geom:bbox":"0.966580838985,51.0665403695,1.04745962475,51.0944668465",
     "geom:latitude":51.078833,
     "geom:longitude":1.0082,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1704,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.07773,
     "lbl:longitude":1.02808,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Lympne"
@@ -85,7 +87,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1125880657,
-    "wof:lastmodified":1563340639,
+    "wof:lastmodified":1566634818,
     "wof:name":"Lympne",
     "wof:parent_id":404437827,
     "wof:placetype":"locality",

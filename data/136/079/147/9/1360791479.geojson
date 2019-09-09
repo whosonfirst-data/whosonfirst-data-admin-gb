@@ -9,15 +9,17 @@
     "geom:bbox":"-2.97935,53.3485,-2.97935,53.3485",
     "geom:latitude":53.3485,
     "geom:longitude":-2.97935,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":14850,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.98435,53.3435,-2.97435,53.3535",
     "lbl:latitude":53.3485,
     "lbl:longitude":-2.97935,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09cb\u09ae\u09ac\u09b0\u09cb"
@@ -94,7 +96,7 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c30\u0c4b\u0c2e\u0c4d\u0c2c\u0c4b\u0c30\u0c4b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brambourg"
     ],
     "name:urd_x_preferred":[
@@ -121,7 +123,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28835515,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":1360791479,
-    "wof:lastmodified":1563333811,
+    "wof:lastmodified":1566628856,
     "wof:name":"Bromborough Pool",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

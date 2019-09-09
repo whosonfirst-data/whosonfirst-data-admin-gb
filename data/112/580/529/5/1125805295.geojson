@@ -9,15 +9,17 @@
     "geom:bbox":"-0.530285674673,53.7562301178,-0.408729968471,53.8053922758",
     "geom:latitude":53.78016,
     "geom:longitude":-0.473367,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1132,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.78921,
     "lbl:longitude":-0.46131,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u043a\u0438\u0434\u0431\u0439"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125805295,
-    "wof:lastmodified":1563340960,
+    "wof:lastmodified":1566635010,
     "wof:name":"Skidby",
     "wof:parent_id":404454401,
     "wof:placetype":"locality",

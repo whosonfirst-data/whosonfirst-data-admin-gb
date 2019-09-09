@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.572201,
     "lbl:longitude":-0.777496,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.572201,
     "mps:longitude":-0.777496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u0631\u0644\u0648"
     ],
@@ -113,9 +116,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043b\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Great Marlow"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u0644\u0648\u0648"
     ],
@@ -145,7 +145,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.951833,
     "wd:longitude":-1.285194,
@@ -163,7 +163,6 @@
         "fct:id":"0aa1a548-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2643003,
         "gp:id":28379,
-        "qs:id":453898,
         "qs_pg:id":453898,
         "wd:id":"Q508998",
         "wk:page":"Marlow, Buckinghamshire"
@@ -188,7 +187,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336948,
+    "wof:lastmodified":1566631052,
     "wof:name":"Marlow",
     "wof:parent_id":404452331,
     "wof:placetype":"locality",

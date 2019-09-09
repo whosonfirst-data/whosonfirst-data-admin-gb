@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.693138,
     "lbl:longitude":-1.506917,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":53.693138,
     "mps:longitude":-1.506917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Wakefield"
     ],
@@ -232,7 +235,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.6801,
     "wd:longitude":-1.492,
@@ -249,10 +252,12 @@
     "wof:concordances":{
         "gn:id":2634910,
         "gp:id":38952,
-        "qs:id":1062643,
-        "qs_pg:id":1073899,
+        "qs_pg:id":1062643,
         "wd:id":"Q216638",
         "wk:page":"Wakefield"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073899
     },
     "wof:country":"GB",
     "wof:geomhash":"6a30c6b2dbd2310531fbb67784047e76",
@@ -268,7 +273,7 @@
         }
     ],
     "wof:id":101751637,
-    "wof:lastmodified":1563336520,
+    "wof:lastmodified":1566630895,
     "wof:name":"Wakefield",
     "wof:parent_id":1360817491,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.290079448807,53.9820256628,-0.203280797282,54.0173625609",
     "geom:latitude":54.000899,
     "geom:longitude":-0.244886,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":239,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.99198,
     "lbl:longitude":-0.22968,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0423\u043b\u0440\u043e\u043c\u0435"
@@ -64,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1125913153,
-    "wof:lastmodified":1563342089,
+    "wof:lastmodified":1566635702,
     "wof:name":"Ulrome",
     "wof:parent_id":404436557,
     "wof:placetype":"locality",

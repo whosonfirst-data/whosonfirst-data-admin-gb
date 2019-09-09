@@ -9,14 +9,17 @@
     "geom:bbox":"-0.7881,51.43159,-0.7881,51.43159",
     "geom:latitude":51.43159,
     "geom:longitude":-0.7881,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-0.7931,51.42659,-0.7831,51.43659",
     "lbl:latitude":51.43159,
     "lbl:longitude":-0.7881,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0641\u064a\u0644\u062f"
@@ -38,19 +41,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20772,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698529,
         102191581,
         404430863,
         85633159,
         404227469,
         1126007427,
-        1360698967
+        1360698967,
+        1360698529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1360803401,
-    "wof:lastmodified":1547724890,
+    "wof:lastmodified":1566629398,
     "wof:name":"Gainfield",
     "wof:parent_id":1126007427,
     "wof:placetype":"neighbourhood",

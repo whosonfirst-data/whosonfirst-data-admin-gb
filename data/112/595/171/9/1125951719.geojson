@@ -9,14 +9,17 @@
     "geom:bbox":"0.142772767984,51.0141743536,0.270202461793,51.1054685234",
     "geom:latitude":51.057583,
     "geom:longitude":0.209262,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.04628,
     "lbl:longitude":0.21943,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0420\u043e\u0442\u0445\u0435\u0440\u0444\u0438\u0435\u043b\u0434"
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125951719,
-    "wof:lastmodified":1563339862,
+    "wof:lastmodified":1566634315,
     "wof:name":"Rotherfield",
     "wof:parent_id":404449445,
     "wof:placetype":"locality",

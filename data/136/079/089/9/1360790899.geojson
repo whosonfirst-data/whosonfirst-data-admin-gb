@@ -10,12 +10,15 @@
     "geom:latitude":51.904828,
     "geom:longitude":0.193767,
     "iso:country":"GB",
+    "lbl:bbox":"0.188767,51.899828,0.198767,51.909828",
     "lbl:latitude":51.904829,
     "lbl:longitude":0.193767,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.904829,
     "mps:longitude":0.193767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09b8\u09cd\u099f\u09c7\u09a1 \u09ae\u09be\u0989\u09a8\u09cd\u099f\u09ab\u09bf\u099a\u09c7\u099f"
     ],
@@ -82,9 +85,6 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c1f\u0c3e\u0c28\u0c4d\u0c38\u0c4d\u0c1f\u0c46\u0c21\u0c4d \u0c2e\u0c4c\u0c02\u0c1f\u0c4d \u0c2b\u0c3f\u0c1f\u0c4d\u0c1a\u0c46\u0c1f\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Stansted"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0679\u0627\u0646\u0633\u0679\u0688\u00a0\u0645\u0648\u0648\u0646\u062a\u0641\u06cc\u062a\u0686\u06cc\u062a"
     ],
@@ -107,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.898,
     "wd:longitude":0.198,
     "wd:wordcount":780,
@@ -125,10 +125,12 @@
         "fct:id":"0aa15cc8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2637053,
         "gp:id":35930,
-        "qs:id":1114038,
         "qs_pg:id":535785,
         "wd:id":"Q126579",
         "wk:page":"Stansted Mountfitchet"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1114038
     },
     "wof:country":"GB",
     "wof:geomhash":"5e05dbf9270af158727c83c796646120",
@@ -148,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563333427,
+    "wof:lastmodified":1566628666,
     "wof:name":"Stansted Mountfitchet",
     "wof:parent_id":1225973629,
     "wof:placetype":"neighbourhood",

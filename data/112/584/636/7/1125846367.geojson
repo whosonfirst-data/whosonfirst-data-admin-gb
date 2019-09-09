@@ -9,15 +9,17 @@
     "geom:bbox":"-0.798643381392,51.4589407546,-0.742553035873,51.5168300427",
     "geom:latitude":51.490261,
     "geom:longitude":-0.767377,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":349,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.48833,
     "lbl:longitude":-0.77844,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0648\u0627\u064a\u062a \u0648\u0644\u062a\u0647\u0645"
@@ -83,7 +85,7 @@
         "White Waltham"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bc8\u0b9f\u0bcd  \u0bb5\u0bbe\u0bb3\u0bcd\u0ba4\u0bbe\u0bae\u0bcd"
+        "\u0bb5\u0bc8\u0b9f\u0bcd \u0bb5\u0bbe\u0bb3\u0bcd\u0ba4\u0bbe\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c48\u0c1f\u0c4d \u0c35\u0c3e\u0c32\u0c4d\u0c24\u0c02"
@@ -115,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1125846367,
-    "wof:lastmodified":1563343123,
+    "wof:lastmodified":1566636326,
     "wof:name":"White Waltham",
     "wof:parent_id":404448979,
     "wof:placetype":"locality",

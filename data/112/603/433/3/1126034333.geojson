@@ -9,15 +9,17 @@
     "geom:bbox":"0.172499324765,52.1212218436,0.232305129501,52.1604153527",
     "geom:latitude":52.139964,
     "geom:longitude":0.204484,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":276,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.13212,
     "lbl:longitude":0.2096,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0647\u0645"
@@ -85,7 +87,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1126034333,
-    "wof:lastmodified":1563340391,
+    "wof:lastmodified":1566634659,
     "wof:name":"Babraham",
     "wof:parent_id":404451843,
     "wof:placetype":"locality",

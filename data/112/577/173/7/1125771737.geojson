@@ -9,14 +9,17 @@
     "geom:bbox":"-1.26293712078,51.581250689,-1.20532181565,51.6021464444",
     "geom:latitude":51.592049,
     "geom:longitude":-1.234602,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.59115,
     "lbl:longitude":-1.24094,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "East Hagbourne"
@@ -36,7 +39,7 @@
     "name:swe_x_preferred":[
         "East Hagbourne"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hagbourne"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125771737,
-    "wof:lastmodified":1563343174,
+    "wof:lastmodified":1566636352,
     "wof:name":"East Hagbourne",
     "wof:parent_id":404445917,
     "wof:placetype":"locality",

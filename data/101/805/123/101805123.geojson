@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.103082,
     "lbl:longitude":-6.251792,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.103082,
     "mps:longitude":-6.251792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Warrenpoint"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1250,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2634743,
         "gp:id":45226,
-        "qs:id":112911,
         "qs_pg:id":112911,
         "wd:id":"Q2224481",
         "wk:page":"Warrenpoint"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101805123,
-    "wof:lastmodified":1563336499,
+    "wof:lastmodified":1566630883,
     "wof:name":"Warrenpoint",
     "wof:parent_id":1360699243,
     "wof:placetype":"locality",

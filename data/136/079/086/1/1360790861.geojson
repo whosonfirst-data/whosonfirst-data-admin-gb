@@ -10,12 +10,15 @@
     "geom:latitude":50.86513,
     "geom:longitude":-0.40792,
     "iso:country":"GB",
+    "lbl:bbox":"-0.41292,50.86013,-0.40292,50.87013",
     "lbl:latitude":50.86513,
     "lbl:longitude":-0.40792,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.86513,
     "mps:longitude":-0.40792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Findon"
     ],
@@ -63,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.8682,
     "wd:longitude":-0.4072,
     "wd:wordcount":551,
@@ -81,10 +84,12 @@
         "fct:id":"0aa1aee4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2649431,
         "gp:id":20188,
-        "qs:id":1287539,
         "qs_pg:id":963489,
         "wd:id":"Q5355915",
         "wk:page":"Findon, West Sussex"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1287539
     },
     "wof:country":"GB",
     "wof:geomhash":"7ea4f53e5ec0b13184699970e4db302e",
@@ -104,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563333519,
+    "wof:lastmodified":1566628709,
     "wof:name":"Findon",
     "wof:parent_id":1310034885,
     "wof:placetype":"neighbourhood",

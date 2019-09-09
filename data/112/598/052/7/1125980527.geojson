@@ -9,15 +9,17 @@
     "geom:bbox":"-1.61050748561,52.8062597146,-1.55508985308,52.8389882237",
     "geom:latitude":52.819917,
     "geom:longitude":-1.582786,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":659,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.8288,
     "lbl:longitude":-1.58289,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Newton Solney"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125980527,
-    "wof:lastmodified":1563342226,
+    "wof:lastmodified":1566635777,
     "wof:name":"Newton Solney",
     "wof:parent_id":404429829,
     "wof:placetype":"locality",

@@ -9,19 +9,23 @@
     "geom:bbox":"-2.18679,57.17851,-2.18679,57.17851",
     "geom:latitude":57.17851,
     "geom:longitude":-2.18679,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.20679,57.15851,-2.16679,57.19851",
     "lbl:latitude":57.17851,
     "lbl:longitude":-2.18679,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eus_x_preferred":[
         "Bucksburn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Auchmull"
     ],
     "qs_pg:aaroncc":"GB",
@@ -45,7 +49,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":14425,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1125835161,
-    "wof:lastmodified":1564159657,
+    "wof:lastmodified":1566636395,
     "wof:name":"Bucksburn",
     "wof:parent_id":404429183,
     "wof:placetype":"locality",

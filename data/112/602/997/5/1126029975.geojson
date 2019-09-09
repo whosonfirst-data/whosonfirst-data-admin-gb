@@ -9,14 +9,17 @@
     "geom:bbox":"-5.45789793703,50.1366787234,-5.3744930005,50.1787339756",
     "geom:latitude":50.158481,
     "geom:longitude":-5.414986,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.16667,
     "lbl:longitude":-5.43333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0627\u0631\u062b"
@@ -69,7 +72,7 @@
     "name:swe_x_preferred":[
         "St. Erth"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint Erth"
     ],
     "qs_pg:aaroncc":"GB",
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1126029975,
-    "wof:lastmodified":1563339876,
+    "wof:lastmodified":1566634328,
     "wof:name":"St. Erth",
     "wof:parent_id":404444631,
     "wof:placetype":"locality",

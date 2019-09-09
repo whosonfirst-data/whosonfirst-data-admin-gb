@@ -9,15 +9,17 @@
     "geom:bbox":"1.45972028121,52.0380870784,1.58719613637,52.1099575987",
     "geom:latitude":52.086078,
     "geom:longitude":1.540278,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":713,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.09572,
     "lbl:longitude":1.53448,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0648\u0631\u0641\u0648\u0631\u062f"
@@ -94,7 +96,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":1126014713,
-    "wof:lastmodified":1563342344,
+    "wof:lastmodified":1566635852,
     "wof:name":"Orford",
     "wof:parent_id":404430901,
     "wof:placetype":"locality",

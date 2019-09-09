@@ -9,15 +9,17 @@
     "geom:bbox":"-2.09672,52.76083,-2.09672,52.76083",
     "geom:latitude":52.76083,
     "geom:longitude":-2.09672,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":786,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.10172,52.75583,-2.09172,52.76583",
     "lbl:latitude":52.76083,
     "lbl:longitude":-2.09672,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Acton Trussell"
@@ -37,7 +39,7 @@
     "name:swe_x_preferred":[
         "Acton Trussell"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aston Trussell"
     ],
     "name:urd_x_preferred":[
@@ -64,7 +66,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":10396,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1360800493,
-    "wof:lastmodified":1563334475,
+    "wof:lastmodified":1566629266,
     "wof:name":"Acton Trussell",
     "wof:parent_id":1360756417,
     "wof:placetype":"neighbourhood",

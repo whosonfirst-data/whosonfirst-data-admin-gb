@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.438567,
     "lbl:longitude":-2.005431,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.438567,
     "mps:longitude":-2.005431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646"
     ],
@@ -130,7 +133,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.4353,
     "wd:longitude":-2.004269,
@@ -147,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2653974,
         "gp:id":14940,
-        "qs:id":217757,
         "qs_pg:id":217757,
         "wd:id":"Q1235307",
         "wk:page":"Calne"
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":101852745,
-    "wof:lastmodified":1563337076,
+    "wof:lastmodified":1566631098,
     "wof:name":"Calne",
     "wof:parent_id":404441423,
     "wof:placetype":"locality",

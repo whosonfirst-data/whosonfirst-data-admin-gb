@@ -9,14 +9,17 @@
     "geom:bbox":"-1.68333,51.05,-1.68333,51.05",
     "geom:latitude":51.05,
     "geom:longitude":-1.68333,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.68833,51.045,-1.67833,51.055",
     "lbl:latitude":51.05,
     "lbl:longitude":-1.68333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Farley"
@@ -28,9 +31,6 @@
         "Farley"
     ],
     "name:pol_x_preferred":[
-        "Farley"
-    ],
-    "name:unk_x_variant":[
         "Farley"
     ],
     "qs_pg:aaroncc":"GB",
@@ -54,7 +54,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28835440,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1360796747,
-    "wof:lastmodified":1561837868,
+    "wof:lastmodified":1566628425,
     "wof:name":"Parley",
     "wof:parent_id":1360754873,
     "wof:placetype":"neighbourhood",

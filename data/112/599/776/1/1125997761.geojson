@@ -9,14 +9,18 @@
     "geom:bbox":"-5.86189,54.89734,-5.86189,54.89734",
     "geom:latitude":54.89734,
     "geom:longitude":-5.86189,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-5.88189,54.87734,-5.84189,54.91734",
     "lbl:latitude":54.89734,
     "lbl:longitude":-5.86189,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ballygalley"
@@ -45,9 +49,6 @@
     "name:spa_x_preferred":[
         "Ballygalley"
     ],
-    "name:unk_x_variant":[
-        "Ballygalley"
-    ],
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +70,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":44489,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Northern Ireland",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1125997761,
-    "wof:lastmodified":1563341333,
+    "wof:lastmodified":1566635235,
     "wof:name":"Ballygally",
     "wof:parent_id":1360699239,
     "wof:placetype":"locality",

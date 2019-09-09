@@ -9,14 +9,17 @@
     "geom:bbox":"-3.14885142188,54.3132476607,-3.06912401217,54.3745669536",
     "geom:latitude":54.339633,
     "geom:longitude":-3.11408,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.33854,
     "lbl:longitude":-3.10223,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u043e\u0440\u0432\u0435\u0440"
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125803771,
-    "wof:lastmodified":1563340950,
+    "wof:lastmodified":1566635004,
     "wof:name":"Torver",
     "wof:parent_id":404440441,
     "wof:placetype":"locality",

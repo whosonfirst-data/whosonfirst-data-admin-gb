@@ -9,15 +9,17 @@
     "geom:bbox":"-1.37538290321,52.9558369644,-1.32535522483,52.9788721703",
     "geom:latitude":52.968665,
     "geom:longitude":-1.349386,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6314,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":6314,
     "iso:country":"GB",
     "lbl:latitude":52.97093,
     "lbl:longitude":-1.35846,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09b9\u09b2\u09be\u09ae"
@@ -77,7 +79,7 @@
         "West Hallam"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0bb9\u0bb2\u0bbe\u0bae\u0bcd"
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0bb9\u0bb2\u0bbe\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d \u0c39\u0c32\u0c3e\u0c02"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1126008857,
-    "wof:lastmodified":1563342508,
+    "wof:lastmodified":1566635946,
     "wof:name":"West Hallam",
     "wof:parent_id":404454263,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.054531872433,51.0019944512,0.0137183492749,51.06178877",
     "geom:latitude":51.03655,
     "geom:longitude":-0.026824,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1180,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.03659,
     "lbl:longitude":-0.02798,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Horsted Keynes"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125953935,
-    "wof:lastmodified":1563339826,
+    "wof:lastmodified":1566634292,
     "wof:name":"Horsted Keynes",
     "wof:parent_id":404445925,
     "wof:placetype":"locality",

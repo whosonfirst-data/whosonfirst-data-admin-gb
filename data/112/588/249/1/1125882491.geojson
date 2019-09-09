@@ -9,15 +9,17 @@
     "geom:bbox":"-2.15350746624,51.402575017,-2.06308758338,51.4489612661",
     "geom:latitude":51.419748,
     "geom:longitude":-2.120031,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":320,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.41528,
     "lbl:longitude":-2.12194,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Lacock"
@@ -82,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0439\u043a\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laycock"
     ],
     "name:zho_x_preferred":[
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698611,
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":1125882491,
-    "wof:lastmodified":1563340734,
+    "wof:lastmodified":1566634871,
     "wof:name":"Lacock",
     "wof:parent_id":404455003,
     "wof:placetype":"locality",

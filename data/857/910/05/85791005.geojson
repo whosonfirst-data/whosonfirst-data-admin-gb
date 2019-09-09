@@ -11,8 +11,10 @@
     "geom:longitude":-1.628426,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.633426,53.664595,-1.623426,53.674595",
     "lbl:latitude":53.669595,
     "lbl:longitude":-1.628426,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.67312,
     "mps:longitude":-1.616833,
     "mz:hierarchy_label":0,
@@ -27,7 +29,7 @@
     "name:eng_x_preferred":[
         "Thornhill Lees"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lee"
     ],
     "qs:gn_id":0,
@@ -36,23 +38,25 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":137,
     "wof:belongsto":[
-        1360698609,
         102191581,
         85633159,
         404227469,
         101750569,
-        1360698917
+        1360698917,
+        1360698609
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2644698,
         "gp:id":20089470,
-        "qs:id":966379,
-        "qs_pg:id":1251342,
+        "qs_pg:id":966379,
         "wd:id":"Q7796436"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1251342
     },
     "wof:country":"GB",
     "wof:geomhash":"69822ffba4639fe737b19169271a7b27",
@@ -71,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542399196,
+    "wof:lastmodified":1566627792,
     "wof:name":"Thornhill Lees",
     "wof:parent_id":101750569,
     "wof:placetype":"neighbourhood",

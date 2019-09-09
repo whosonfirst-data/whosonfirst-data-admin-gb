@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.599342,
     "lbl:longitude":-0.210781,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.595385,
     "mps:longitude":-0.21337,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":7,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Holders Hill"
-    ],
-    "name:unk_x_variant":[
         "Holders Hill"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +57,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857285
+        1158857285,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43202,
-        "qs:id":1086303,
         "qs_pg:id":1086303
     },
     "wof:country":"GB",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206384,
+    "wof:lastmodified":1566627764,
     "wof:name":"Holders Hill",
     "wof:parent_id":1158857285,
     "wof:placetype":"neighbourhood",

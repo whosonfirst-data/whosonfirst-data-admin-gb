@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.140732,
     "lbl:longitude":-0.484154,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.140732,
     "mps:longitude":-0.484154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0627\u0646\u0644\u06cc"
     ],
@@ -129,7 +132,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.1363,
     "wd:longitude":-0.4784,
     "wd:wordcount":3475,
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":2652082,
         "gp:id":17199,
-        "qs:id":1037103,
         "qs_pg:id":1037103,
         "wd:id":"Q2681944",
         "wk:page":"Cranleigh"
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":101854687,
-    "wof:lastmodified":1563336823,
+    "wof:lastmodified":1566631001,
     "wof:name":"Cranleigh",
     "wof:parent_id":404443939,
     "wof:placetype":"locality",

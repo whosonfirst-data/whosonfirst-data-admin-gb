@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.39979,
     "lbl:longitude":-3.2838,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.413426,
     "mps:longitude":-3.265579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u044b"
     ],
@@ -184,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.4064,
     "wd:longitude":-3.2667,
@@ -202,10 +205,12 @@
         "fct:id":"0aa68cd4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6269316,
         "gp:id":38978,
-        "qs:id":453408,
-        "qs_pg:id":1073901,
+        "qs_pg:id":453408,
         "wd:id":"Q809009",
         "wk:page":"Barry, Vale of Glamorgan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073901
     },
     "wof:country":"GB",
     "wof:geomhash":"554174bf5cf752f3f7fecaec710162e4",
@@ -224,7 +229,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336606,
+    "wof:lastmodified":1566630918,
     "wof:name":"Barry",
     "wof:parent_id":404433843,
     "wof:placetype":"locality",

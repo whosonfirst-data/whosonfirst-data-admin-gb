@@ -11,8 +11,10 @@
     "geom:longitude":0.857761,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"0.852761,51.867802,0.862761,51.877802",
     "lbl:latitude":51.872802,
     "lbl:longitude":0.857761,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.858052,
     "mps:longitude":0.858603,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Shrub End"
-    ],
-    "name:unk_x_variant":[
         "Shrub End"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698551,
         102191581,
         85633159,
         404227469,
         101750405,
-        1360698979
+        1360698979,
+        1360698551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20093173,
-        "qs:id":236499,
         "qs_pg:id":236499
     },
     "wof:country":"GB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400073,
+    "wof:lastmodified":1566627848,
     "wof:name":"Shrub End",
     "wof:parent_id":101750405,
     "wof:placetype":"neighbourhood",

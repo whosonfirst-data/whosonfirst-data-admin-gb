@@ -10,12 +10,15 @@
     "geom:latitude":54.489334,
     "geom:longitude":-1.141191,
     "iso:country":"GB",
+    "lbl:bbox":"-1.146191,54.484334,-1.136191,54.494334",
     "lbl:latitude":54.489334,
     "lbl:longitude":-1.141191,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.489334,
     "mps:longitude":-1.141191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Great Ayton"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Great Ayton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayton"
     ],
     "qs:a0":"United Kingdom",
@@ -74,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.495689,
     "wd:longitude":-1.129189,
     "wd:wordcount":775,
@@ -92,10 +95,12 @@
         "fct:id":"0aa4f0cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2656697,
         "gp:id":11509,
-        "qs:id":487986,
-        "qs_pg:id":1032676,
+        "qs_pg:id":487986,
         "wd:id":"Q1616712",
         "wk:page":"Great Ayton"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1032676
     },
     "wof:country":"GB",
     "wof:geomhash":"b69e332fa471ec605e9c29329f8905cf",
@@ -115,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563333257,
+    "wof:lastmodified":1566628584,
     "wof:name":"Great Ayton",
     "wof:parent_id":1259812677,
     "wof:placetype":"neighbourhood",

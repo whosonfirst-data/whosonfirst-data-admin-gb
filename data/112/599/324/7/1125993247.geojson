@@ -9,15 +9,17 @@
     "geom:bbox":"0.0116434855565,50.875398901,0.12190741797,50.9260296784",
     "geom:latitude":50.900446,
     "geom:longitude":0.066476,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3004,
-    "gn:population":3165,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":3004,
     "iso:country":"GB",
     "lbl:latitude":50.89307,
     "lbl:longitude":0.05545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u0982\u09ae\u09be\u09b0"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125993247,
-    "wof:lastmodified":1563341331,
+    "wof:lastmodified":1566635233,
     "wof:name":"Ringmer",
     "wof:parent_id":404440385,
     "wof:placetype":"locality",

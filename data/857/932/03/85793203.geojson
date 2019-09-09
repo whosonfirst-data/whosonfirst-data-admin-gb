@@ -11,8 +11,10 @@
     "geom:longitude":1.275682,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"1.270682,52.647247,1.280682,52.657247",
     "lbl:latitude":52.652247,
     "lbl:longitude":1.275682,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.655749,
     "mps:longitude":1.268885,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Upper Hellesdon"
-    ],
-    "name:unk_x_variant":[
         "Upper Hellesdon"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698575,
         102191581,
         85633159,
         404227469,
         101750483,
-        1360698955
+        1360698955,
+        1360698575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":44056,
-        "qs:id":224358,
         "qs_pg:id":224358
     },
     "wof:country":"GB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542193511,
+    "wof:lastmodified":1566627652,
     "wof:name":"Upper Hellesdon",
     "wof:parent_id":101750483,
     "wof:placetype":"neighbourhood",

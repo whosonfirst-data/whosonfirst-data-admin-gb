@@ -11,8 +11,10 @@
     "geom:longitude":-2.121699,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.126699,57.170879,-2.116699,57.180879",
     "lbl:latitude":57.175879,
     "lbl:longitude":-2.121699,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.176246,
     "mps:longitude":-2.122335,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Woodside East"
-    ],
-    "name:unk_x_variant":[
         "Woodside East"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698709,
         102191581,
         404429183,
         85633159,
         404227471,
         101750639,
-        1360698989
+        1360698989,
+        1360698709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43146,
-        "qs:id":1073988,
         "qs_pg:id":1073988
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400103,
+    "wof:lastmodified":1566627780,
     "wof:name":"Woodside East",
     "wof:parent_id":101750639,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"1.22311152575,52.5465442327,1.2618834178,52.5743590269",
     "geom:latitude":52.560017,
     "geom:longitude":1.242412,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2702,
-    "gn:population":3315,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2702,
     "iso:country":"GB",
     "lbl:latitude":52.55913,
     "lbl:longitude":1.23327,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Mulbarton"
@@ -69,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":1125869593,
-    "wof:lastmodified":1563340486,
+    "wof:lastmodified":1566634720,
     "wof:name":"Mulbarton",
     "wof:parent_id":404455391,
     "wof:placetype":"locality",

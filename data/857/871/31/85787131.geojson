@@ -10,8 +10,10 @@
     "geom:latitude":56.126464,
     "geom:longitude":-3.119379,
     "iso:country":"GB",
+    "lbl:bbox":"-3.124379,56.121464,-3.114379,56.131464",
     "lbl:latitude":56.126464,
     "lbl:longitude":-3.119379,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.137518,
     "mps:longitude":-3.099482,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
     "name:sco_x_preferred":[
         "Dysart"
     ],
-    "name:unk_x_variant":[
-        "Dysart"
-    ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2645298,
@@ -92,8 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         404444217,
@@ -106,7 +104,6 @@
     "wof:concordances":{
         "gn:id":2650585,
         "gp:id":18811,
-        "qs:id":1082155,
         "qs_pg:id":1082155,
         "wd:id":"Q2631587",
         "wk:page":"Dysart, Fife"
@@ -129,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331981,
+    "wof:lastmodified":1566627704,
     "wof:name":"Dysart",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

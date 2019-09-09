@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.395131,
     "lbl:longitude":-2.98842,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.392389,
     "mps:longitude":-2.985746,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "King's Waterfront"
-    ],
-    "name:unk_x_variant":[
         "King's Waterfront"
     ],
     "qs:gn_id":0,
@@ -56,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698573,
         102191581,
         85633159,
         404227469,
         101750547,
-        1360698971
+        1360698971,
+        1360698573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20094288,
-        "qs:id":237548,
         "qs_pg:id":237548
     },
     "wof:country":"GB",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542399898,
+    "wof:lastmodified":1566627878,
     "wof:name":"King's Waterfront",
     "wof:parent_id":101750547,
     "wof:placetype":"neighbourhood",

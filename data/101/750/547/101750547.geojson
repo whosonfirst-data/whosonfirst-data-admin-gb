@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.410374,
     "lbl:longitude":-2.979375,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.399369,
     "mps:longitude":-2.936434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Liverpool"
     ],
@@ -466,10 +469,12 @@
     "wof:concordances":{
         "gn:id":2644210,
         "gp:id":26734,
-        "qs:id":351985,
-        "qs_pg:id":1153224,
+        "qs_pg:id":351985,
         "wd:id":"Q24826",
         "wk:page":"Liverpool"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1153224
     },
     "wof:country":"GB",
     "wof:geomhash":"9a6bc1137dddf3a762ca0f932bec176d",
@@ -484,7 +489,7 @@
         }
     ],
     "wof:id":101750547,
-    "wof:lastmodified":1563336672,
+    "wof:lastmodified":1566630934,
     "wof:name":"Liverpool",
     "wof:parent_id":1360698971,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.987499800209,52.9667007311,-0.928206223455,53.0084146068",
     "geom:latitude":52.987384,
     "geom:longitude":-0.956194,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1853,
-    "gn:population":1814,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1853,
     "iso:country":"GB",
     "lbl:latitude":52.97954,
     "lbl:longitude":-0.96563,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "East Bridgford"
@@ -64,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1125916433,
-    "wof:lastmodified":1563342030,
+    "wof:lastmodified":1566635672,
     "wof:name":"East Bridgford",
     "wof:parent_id":404432867,
     "wof:placetype":"locality",

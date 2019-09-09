@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.358393,
     "lbl:longitude":0.074291,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.358607,
     "mps:longitude":0.0704,
     "mz:hierarchy_label":1,
@@ -111,9 +112,6 @@
     "name:tur_x_preferred":[
         "Farnborough"
     ],
-    "name:unk_x_variant":[
-        "Farnborough"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0631\u0646\u0628\u0648\u0631\u0648"
     ],
@@ -152,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -165,7 +163,6 @@
     "wof:concordances":{
         "gn:id":2649672,
         "gp:id":19941,
-        "qs:id":453704,
         "qs_pg:id":453704,
         "wd:id":"Q547071",
         "wk:page":"Farnborough, Hampshire"
@@ -184,7 +181,7 @@
         }
     ],
     "wof:id":85787355,
-    "wof:lastmodified":1563331666,
+    "wof:lastmodified":1566627543,
     "wof:name":"Farnborough",
     "wof:parent_id":1158857297,
     "wof:placetype":"neighbourhood",

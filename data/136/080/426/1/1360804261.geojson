@@ -9,12 +9,15 @@
     "geom:bbox":"-1.4673,54.519885,-1.4673,54.519885",
     "geom:latitude":54.519885,
     "geom:longitude":-1.4673,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-1.4723,54.514885,-1.4623,54.524885",
     "lbl:latitude":54.519885,
     "lbl:longitude":-1.4673,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a1\u09b2\u099f\u09cb\u09a8 \u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09b0\u09cd\u099c"
@@ -71,7 +74,7 @@
         "Middleton St. George"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbf\u0b9f\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd  \u0bb8\u0bcd\u0b9f  \u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd"
+        "\u0bae\u0bbf\u0b9f\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd \u0bb8\u0bcd\u0b9f \u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c21\u0c3f\u0c32\u0c4d\u0c1f\u0c28\u0c4d \u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c1c\u0c3e\u0c30\u0c4d\u0c1c\u0c4d"
@@ -97,7 +100,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28906,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1360804261,
-    "wof:lastmodified":1563334865,
+    "wof:lastmodified":1566629490,
     "wof:name":"Middleton St. George",
     "wof:parent_id":1309747447,
     "wof:placetype":"neighbourhood",

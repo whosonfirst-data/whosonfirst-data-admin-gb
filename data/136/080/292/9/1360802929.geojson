@@ -9,14 +9,17 @@
     "geom:bbox":"0.66667,52.8,0.66667,52.8",
     "geom:latitude":52.8,
     "geom:longitude":0.66667,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"0.66167,52.795,0.67167,52.805",
     "lbl:latitude":52.8,
     "lbl:longitude":0.66667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0430\u0440\u043f\u043b\u0435\u0439"
@@ -45,9 +48,6 @@
     "name:swe_x_preferred":[
         "Harpley"
     ],
-    "name:unk_x_variant":[
-        "Harpley"
-    ],
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +69,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28276256,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1360802929,
-    "wof:lastmodified":1563334515,
+    "wof:lastmodified":1566629290,
     "wof:name":"Hardley",
     "wof:parent_id":1125960907,
     "wof:placetype":"neighbourhood",

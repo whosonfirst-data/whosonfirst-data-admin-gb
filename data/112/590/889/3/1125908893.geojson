@@ -9,15 +9,17 @@
     "geom:bbox":"-1.24125871753,53.8110498903,-1.17427734615,53.8379724295",
     "geom:latitude":53.823672,
     "geom:longitude":-1.210303,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1357,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.82626,
     "lbl:longitude":-1.2189,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Church Fenton"
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1125908893,
-    "wof:lastmodified":1563341454,
+    "wof:lastmodified":1566635301,
     "wof:name":"Church Fenton",
     "wof:parent_id":404447755,
     "wof:placetype":"locality",

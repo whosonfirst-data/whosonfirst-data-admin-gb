@@ -11,8 +11,10 @@
     "geom:longitude":-1.098567,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.103567,52.941755,-1.093567,52.951755",
     "lbl:latitude":52.946755,
     "lbl:longitude":-1.098567,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.943399,
     "mps:longitude":-1.100926,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Sneiton"
-    ],
-    "name:unk_x_variant":[
         "Sneiton"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698583,
         102191581,
         85633159,
         404227469,
         1175612705,
-        1360698801
+        1360698801,
+        1360698583
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20094392,
-        "qs:id":236510,
         "qs_pg:id":236510
     },
     "wof:country":"GB",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698231,
+    "wof:lastmodified":1566627835,
     "wof:name":"Sneiton",
     "wof:parent_id":1175612705,
     "wof:placetype":"neighbourhood",

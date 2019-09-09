@@ -10,8 +10,10 @@
     "geom:latitude":52.936153,
     "geom:longitude":-1.139667,
     "iso:country":"GB",
+    "lbl:bbox":"-1.144667,52.931153,-1.134667,52.941153",
     "lbl:latitude":52.936153,
     "lbl:longitude":-1.139667,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.930262,
     "mps:longitude":-1.140032,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Meadows"
-    ],
-    "name:unk_x_variant":[
         "Meadows"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,21 +58,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":58,
     "wof:belongsto":[
-        1360698583,
         102191581,
         85633159,
         404227469,
         1175612705,
-        1360698801
+        1360698801,
+        1360698583
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6697277,
         "gp:id":20094391,
-        "qs:id":1209905,
         "qs_pg:id":1209905
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698231,
+    "wof:lastmodified":1566627834,
     "wof:name":"Meadows",
     "wof:parent_id":1175612705,
     "wof:placetype":"neighbourhood",

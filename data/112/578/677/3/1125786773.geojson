@@ -9,15 +9,17 @@
     "geom:bbox":"0.293848004721,51.2816673731,0.318930832947,51.2992842052",
     "geom:latitude":51.291154,
     "geom:longitude":0.306582,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4342,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":4342,
     "iso:country":"GB",
     "lbl:latitude":51.29158,
     "lbl:longitude":0.30478,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Borough Green"
@@ -274,7 +276,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -313,7 +315,7 @@
         }
     ],
     "wof:id":1125786773,
-    "wof:lastmodified":1563342831,
+    "wof:lastmodified":1566636171,
     "wof:name":"Borough Green",
     "wof:parent_id":404449247,
     "wof:placetype":"locality",

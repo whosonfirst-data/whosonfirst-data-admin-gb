@@ -9,15 +9,17 @@
     "geom:bbox":"-2.62678811175,53.4129748157,-2.55608678913,53.4503579311",
     "geom:latitude":53.429089,
     "geom:longitude":-2.593946,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":2435,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.43333,
     "lbl:longitude":-2.6,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0648\u064a\u0646\u0648\u064a\u0643"
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698537,
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":1125774681,
-    "wof:lastmodified":1563343203,
+    "wof:lastmodified":1566636370,
     "wof:name":"Winwick",
     "wof:parent_id":404432087,
     "wof:placetype":"locality",

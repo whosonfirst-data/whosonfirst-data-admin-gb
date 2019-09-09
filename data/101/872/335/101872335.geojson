@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.837842,
     "lbl:longitude":-1.348319,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.837842,
     "mps:longitude":-1.348319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0647\u0627\u0645"
     ],
@@ -92,7 +95,7 @@
     "name:tgl_x_preferred":[
         "Seaham"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Seaham Harbour"
     ],
     "name:urd_x_preferred":[
@@ -121,7 +124,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.84,
     "wd:longitude":-1.34,
@@ -139,7 +142,6 @@
         "gn:id":2638302,
         "gp:id":34279,
         "loc:id":"nr2002029090",
-        "qs:id":59128,
         "qs_pg:id":59128,
         "wd:id":"Q2345990",
         "wk:page":"Seaham"
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":101872335,
-    "wof:lastmodified":1563336393,
+    "wof:lastmodified":1566630843,
     "wof:name":"Seaham",
     "wof:parent_id":404435787,
     "wof:placetype":"locality",

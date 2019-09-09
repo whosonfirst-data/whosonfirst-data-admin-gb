@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":57.146262,
     "lbl:longitude":-2.136575,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":57.146262,
     "mps:longitude":-2.136575,
     "mz:hierarchy_label":1,
@@ -443,7 +445,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":57.15,
     "wd:longitude":-2.1,
@@ -461,10 +463,12 @@
     "wof:concordances":{
         "gn:id":2657832,
         "gp:id":10243,
-        "qs:id":352040,
         "qs_pg:id":238262,
         "wd:id":"Q36405",
         "wk:page":"Aberdeen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":352040
     },
     "wof:country":"GB",
     "wof:geomhash":"d692029299d32ff3aa90bf85c7a14842",
@@ -480,7 +484,7 @@
         }
     ],
     "wof:id":101750639,
-    "wof:lastmodified":1563336652,
+    "wof:lastmodified":1566630930,
     "wof:name":"Aberdeen",
     "wof:parent_id":404429183,
     "wof:placetype":"locality",

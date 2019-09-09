@@ -9,15 +9,17 @@
     "geom:bbox":"1.49463847237,52.7206228788,1.621123102,52.7506565128",
     "geom:latitude":52.735418,
     "geom:longitude":1.535278,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":699,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.73972,
     "lbl:longitude":1.53482,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Catfield"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125937813,
-    "wof:lastmodified":1563339683,
+    "wof:lastmodified":1566634197,
     "wof:name":"Catfield",
     "wof:parent_id":404435677,
     "wof:placetype":"locality",

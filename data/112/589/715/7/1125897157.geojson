@@ -9,14 +9,17 @@
     "geom:bbox":"-0.366706093495,53.2256705875,-0.300488910294,53.2580289785",
     "geom:latitude":53.242487,
     "geom:longitude":-0.337863,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.23333,
     "lbl:longitude":-0.35,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0438\u043d\u0444\u0438\u0435\u043b\u0434"
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125897157,
-    "wof:lastmodified":1563340836,
+    "wof:lastmodified":1566634934,
     "wof:name":"Stainfield",
     "wof:parent_id":404449491,
     "wof:placetype":"locality",

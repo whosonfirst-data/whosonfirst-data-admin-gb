@@ -9,14 +9,17 @@
     "geom:bbox":"0.595742103739,52.028262773,0.664595356941,52.0593941443",
     "geom:latitude":52.04518,
     "geom:longitude":0.626949,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.04441,
     "lbl:longitude":0.62871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Belchamp Otten"
@@ -42,7 +45,7 @@
     "name:swe_x_preferred":[
         "Belchamp Otten"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belchamp Otton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125973655,
-    "wof:lastmodified":1563341615,
+    "wof:lastmodified":1566635407,
     "wof:name":"Belchamp Otten",
     "wof:parent_id":404446279,
     "wof:placetype":"locality",

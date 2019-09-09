@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.480099,
     "lbl:longitude":-4.047937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.4801,
     "mps:longitude":-4.047937,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Y Borth"
     ],
@@ -61,9 +64,6 @@
     "name:swe_x_preferred":[
         "Borth"
     ],
-    "name:unk_x_variant":[
-        "Morfa Borth"
-    ],
     "nav:latitude":52.480099,
     "nav:longitude":-4.047937,
     "qs:a0":"United Kingdom",
@@ -86,7 +86,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":890,
     "wof:belongsto":[
         1360698639,
@@ -101,10 +101,12 @@
         "fct:id":"0aa6a106-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2655162,
         "gp:id":28835620,
-        "qs:id":363999,
         "qs_pg:id":229897,
         "wd:id":"Q894252",
         "wk:page":"Borth"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":363999
     },
     "wof:coterminous":[
         404437309
@@ -126,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336774,
+    "wof:lastmodified":1566630978,
     "wof:name":"Borth",
     "wof:parent_id":404437309,
     "wof:placetype":"locality",

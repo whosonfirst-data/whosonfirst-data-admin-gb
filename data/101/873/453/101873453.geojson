@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":55.185051,
     "lbl:longitude":-1.51028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.185051,
     "mps:longitude":-1.51028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0646\u06cc\u0648\u0628\u06cc\u0642\u06cc\u0646-\u0628\u0627\u06cc-\u062f\u0647-\u0633\u06cc"
     ],
@@ -118,7 +121,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.183,
     "wd:longitude":-1.515,
@@ -135,7 +138,6 @@
     "wof:concordances":{
         "gn:id":2641718,
         "gp:id":30020,
-        "qs:id":899559,
         "qs_pg:id":899559,
         "wd:id":"Q2097392",
         "wk:page":"Newbiggin-by-the-Sea"
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101873453,
-    "wof:lastmodified":1563336208,
+    "wof:lastmodified":1566630779,
     "wof:name":"Newbiggin-by-the-Sea",
     "wof:parent_id":404441587,
     "wof:placetype":"locality",

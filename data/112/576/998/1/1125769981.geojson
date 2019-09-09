@@ -9,14 +9,18 @@
     "geom:bbox":"-5.40476,56.49126,-5.40476,56.49126",
     "geom:latitude":56.49126,
     "geom:longitude":-5.40476,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-5.42476,56.47126,-5.38476,56.51126",
     "lbl:latitude":56.49126,
     "lbl:longitude":-5.40476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Benderloch"
@@ -39,7 +43,7 @@
     "name:nld_x_preferred":[
         "Benderloch"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Selma"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +67,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20090832,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125769981,
-    "wof:lastmodified":1563342577,
+    "wof:lastmodified":1566635991,
     "wof:name":"Benderloch",
     "wof:parent_id":404439789,
     "wof:placetype":"locality",

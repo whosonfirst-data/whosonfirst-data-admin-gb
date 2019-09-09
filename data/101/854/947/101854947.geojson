@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.673551,
     "lbl:longitude":0.947667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.673551,
     "mps:longitude":0.947667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dereham"
     ],
@@ -109,9 +112,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0445\u0435\u043c"
     ],
-    "name:unk_x_variant":[
-        "East Dereham"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0631\u06cc\u06c1\u0627\u0645"
     ],
@@ -141,7 +141,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.682197,
     "wd:longitude":0.940444,
     "wd:wordcount":2435,
@@ -158,7 +158,6 @@
         "fct:id":"0aa29d7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2650470,
         "gp:id":18951,
-        "qs:id":986052,
         "qs_pg:id":986052,
         "wd:id":"Q302893",
         "wk:page":"Dereham"
@@ -183,7 +182,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336847,
+    "wof:lastmodified":1566631010,
     "wof:name":"Dereham",
     "wof:parent_id":404433001,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"0.642112311468,52.5267363106,0.751133438884,52.5949913295",
     "geom:latitude":52.563446,
     "geom:longitude":0.695424,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.57115,
     "lbl:longitude":0.69283,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Hilborough"
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126052987,
-    "wof:lastmodified":1563340114,
+    "wof:lastmodified":1566634477,
     "wof:name":"Hilborough",
     "wof:parent_id":404432499,
     "wof:placetype":"locality",

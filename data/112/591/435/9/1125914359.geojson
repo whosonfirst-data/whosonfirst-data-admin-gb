@@ -9,15 +9,17 @@
     "geom:bbox":"-0.486859220339,52.0632350542,-0.397022424386,52.1042272776",
     "geom:latitude":52.083065,
     "geom:longitude":-0.44113,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":2013,
-    "gn:population":2177,
+    "gn:country":null,
+    "gn:fcode":"PPLA3",
+    "gn:population":2013,
     "iso:country":"GB",
     "lbl:latitude":52.079393,
     "lbl:longitude":-0.437961,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0648\u064a\u0644\u0633\u062a\u064a\u062f"
@@ -55,7 +57,7 @@
     "name:swe_x_variant":[
         "Wilstead"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wilhamstead"
     ],
     "name:vol_x_preferred":[
@@ -85,7 +87,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":1125914359,
-    "wof:lastmodified":1563342168,
+    "wof:lastmodified":1566635743,
     "wof:name":"Wilshamstead",
     "wof:parent_id":404431933,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"1.0755,51.89008,1.0755,51.89008",
     "geom:latitude":51.89008,
     "geom:longitude":1.0755,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"1.0705,51.88508,1.0805,51.89508",
     "lbl:latitude":51.89008,
     "lbl:longitude":1.0755,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Little Tey"
@@ -27,7 +30,7 @@
     "name:pol_x_preferred":[
         "Little Tey"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Little Bentley"
     ],
     "qs_pg:aaroncc":"GB",
@@ -51,7 +54,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":26646,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1360798791,
-    "wof:lastmodified":1564153007,
+    "wof:lastmodified":1566628672,
     "wof:name":"Little Tey",
     "wof:parent_id":1125971425,
     "wof:placetype":"neighbourhood",

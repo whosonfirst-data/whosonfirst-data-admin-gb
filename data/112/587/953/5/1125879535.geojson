@@ -9,15 +9,17 @@
     "geom:bbox":"-2.10682473847,51.9309107894,-2.04741763491,51.9588678566",
     "geom:latitude":51.945468,
     "geom:longitude":-2.074901,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":14231,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.94749,
     "lbl:longitude":-2.06277,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b6\u09aa'\u09b8 \u0995\u09cd\u09b2\u09bf\u09ad"
@@ -77,7 +79,7 @@
         "Bishop's Cleeve"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0bb7\u0baa\u0bcd '\u0bb8\u0bcd  \u0b95\u0bbf\u0bb3\u0bc0\u0bb5\u0bc7"
+        "\u0baa\u0bbf\u0bb7\u0baa\u0bcd '\u0bb8\u0bcd \u0b95\u0bbf\u0bb3\u0bc0\u0bb5\u0bc7"
     ],
     "name:tel_x_preferred":[
         ""
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125879535,
-    "wof:lastmodified":1563341063,
+    "wof:lastmodified":1566635073,
     "wof:name":"Bishops Cleeve",
     "wof:parent_id":404432133,
     "wof:placetype":"locality",

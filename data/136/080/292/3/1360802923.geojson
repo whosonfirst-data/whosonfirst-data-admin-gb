@@ -9,12 +9,15 @@
     "geom:bbox":"-3.237018,54.665169,-3.237018,54.665169",
     "geom:latitude":54.665169,
     "geom:longitude":-3.237018,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-3.242018,54.660169,-3.232018,54.670169",
     "lbl:latitude":54.665169,
     "lbl:longitude":-3.237018,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Routenbeck"
@@ -37,19 +40,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":33644,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698721,
         102191581,
         404431513,
         85633159,
         404227469,
         1126051185,
-        1360698877
+        1360698877,
+        1360698721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1360802923,
-    "wof:lastmodified":1547725991,
+    "wof:lastmodified":1566629291,
     "wof:name":"Routenbeck",
     "wof:parent_id":1126051185,
     "wof:placetype":"neighbourhood",

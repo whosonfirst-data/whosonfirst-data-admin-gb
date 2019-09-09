@@ -9,14 +9,17 @@
     "geom:bbox":"-1.03978409921,54.1852200154,-0.946176495937,54.2174036223",
     "geom:latitude":54.198006,
     "geom:longitude":-1.007539,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.19149,
     "lbl:longitude":-0.99382,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Stonegrave"
@@ -258,7 +261,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -296,7 +299,7 @@
         }
     ],
     "wof:id":1125845807,
-    "wof:lastmodified":1563343064,
+    "wof:lastmodified":1566636296,
     "wof:name":"Stonegrave",
     "wof:parent_id":404446435,
     "wof:placetype":"locality",

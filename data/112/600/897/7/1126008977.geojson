@@ -9,15 +9,17 @@
     "geom:bbox":"0.149158332661,51.4082142589,0.257848456237,51.4822173416",
     "geom:latitude":51.448212,
     "geom:longitude":0.210959,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":56694,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":56694,
     "iso:country":"GB",
     "lbl:latitude":51.44352,
     "lbl:longitude":0.21964,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u0627\u0631\u062a\u0641\u0648\u0631\u062f"
@@ -180,7 +182,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -214,7 +216,7 @@
         }
     ],
     "wof:id":1126008977,
-    "wof:lastmodified":1563342529,
+    "wof:lastmodified":1566635960,
     "wof:name":"Dartford",
     "wof:parent_id":1360698811,
     "wof:placetype":"locality",

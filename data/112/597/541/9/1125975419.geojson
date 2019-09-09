@@ -9,15 +9,17 @@
     "geom:bbox":"-1.01410996156,52.2272989278,-0.96176222354,52.2594227068",
     "geom:latitude":52.242682,
     "geom:longitude":-0.987428,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1344,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.24246,
     "lbl:longitude":-0.98937,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u09aa\u09c1\u09b2"
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1125975419,
-    "wof:lastmodified":1563341870,
+    "wof:lastmodified":1566635572,
     "wof:name":"Harpole",
     "wof:parent_id":404440405,
     "wof:placetype":"locality",

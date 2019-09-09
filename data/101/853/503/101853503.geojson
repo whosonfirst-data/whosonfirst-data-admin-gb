@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.167348,
     "lbl:longitude":0.625658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.167348,
     "mps:longitude":0.625658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u09a1\u0995\u09b0\u09cd\u09a3"
     ],
@@ -105,7 +108,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.169547,
     "wd:longitude":0.620342,
     "wd:wordcount":1918,
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2647240,
         "gp:id":22812,
-        "qs:id":1029810,
         "qs_pg:id":1029810,
         "wd:id":"Q743020",
         "wk:page":"Headcorn"
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":101853503,
-    "wof:lastmodified":1563336733,
+    "wof:lastmodified":1566630960,
     "wof:name":"Headcorn",
     "wof:parent_id":404442623,
     "wof:placetype":"locality",

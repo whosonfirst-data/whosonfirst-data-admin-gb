@@ -9,14 +9,17 @@
     "geom:bbox":"1.06138898554,52.5115835163,1.16464075821,52.6106684884",
     "geom:latitude":52.560624,
     "geom:longitude":1.112838,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.57012,
     "lbl:longitude":1.11623,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Wymondham"
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1125975353,
-    "wof:lastmodified":1563341640,
+    "wof:lastmodified":1566635421,
     "wof:name":"Wymondham",
     "wof:parent_id":404444211,
     "wof:placetype":"locality",

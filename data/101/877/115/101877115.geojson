@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":55.904036,
     "lbl:longitude":-3.636954,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.904036,
     "mps:longitude":-3.636954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062b\u063a\u064a\u062a"
     ],
@@ -146,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.9024,
     "wd:longitude":-3.6431,
@@ -163,7 +166,6 @@
     "wof:concordances":{
         "gn:id":2656169,
         "gp:id":12064,
-        "qs:id":437343,
         "qs_pg:id":437343,
         "wd:id":"Q810794",
         "wk:page":"Bathgate"
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":101877115,
-    "wof:lastmodified":1563336695,
+    "wof:lastmodified":1566630941,
     "wof:name":"Bathgate",
     "wof:parent_id":404447005,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.0285509670491,52.04948003,0.0613893004465,52.1007130532",
     "geom:latitude":52.071796,
     "geom:longitude":0.021019,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4394,
-    "gn:population":4689,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4394,
     "iso:country":"GB",
     "lbl:latitude":52.08128,
     "lbl:longitude":0.01514,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0644\u0628\u0648\u0631\u0646"
@@ -85,7 +87,7 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c46\u0c32\u0c4d\u0c2c\u0c4b\u0c30\u0c4d\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Melborn"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +120,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":1125993111,
-    "wof:lastmodified":1563341409,
+    "wof:lastmodified":1566635275,
     "wof:name":"Melbourn",
     "wof:parent_id":404436563,
     "wof:placetype":"locality",

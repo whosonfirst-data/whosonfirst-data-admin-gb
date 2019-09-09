@@ -11,8 +11,11 @@
     "geom:longitude":-5.811851,
     "gn:population":18421,
     "iso:country":"GB",
+    "lbl:bbox":"-5.831851,54.83527,-5.791851,54.87527",
     "lbl:latitude":54.85527,
     "lbl:longitude":-5.811851,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.85527,
     "mps:longitude":-5.811851,
     "mz:hierarchy_label":1,
@@ -189,7 +192,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.851111,
     "wd:longitude":-5.811111,
@@ -205,10 +208,12 @@
     "wof:concordances":{
         "gn:id":2652939,
         "gp:id":44941,
-        "qs:id":279016,
-        "qs_pg:id":1164968,
+        "qs_pg:id":279016,
         "wd:id":"Q935686",
         "wk:page":"Larne"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1164968
     },
     "wof:country":"GB",
     "wof:geomhash":"bda85860fb2e7686c9ce71f352490dcd",
@@ -223,7 +228,7 @@
         }
     ],
     "wof:id":101873833,
-    "wof:lastmodified":1563336207,
+    "wof:lastmodified":1566630778,
     "wof:name":"Larne",
     "wof:parent_id":1360699239,
     "wof:placetype":"locality",

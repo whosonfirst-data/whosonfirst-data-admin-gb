@@ -10,8 +10,10 @@
     "geom:latitude":51.416941,
     "geom:longitude":-0.413533,
     "iso:country":"GB",
+    "lbl:bbox":"-0.418533,51.411941,-0.408533,51.421941",
     "lbl:latitude":51.416941,
     "lbl:longitude":-0.413533,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.419763,
     "mps:longitude":-0.417814,
     "mz:hierarchy_label":0,
@@ -28,10 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Upper Sunbury"
-    ],
-    "name:unk_x_variant":[
-        "Upper Sunbury",
-        "Sunbury Common"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
@@ -63,21 +61,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698599,
         102191581,
         1360817203,
         85633159,
         404227469,
         1125880665,
-        1360698887
+        1360698887,
+        1360698599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2636533,
         "gp:id":36613,
-        "qs:id":898467,
         "qs_pg:id":898467
     },
     "wof:country":"GB",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699303,
+    "wof:lastmodified":1566627520,
     "wof:name":"Sunbury Common",
     "wof:parent_id":1125880665,
     "wof:placetype":"neighbourhood",

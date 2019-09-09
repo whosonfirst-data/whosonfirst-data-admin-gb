@@ -9,14 +9,18 @@
     "geom:bbox":"-6.21135,58.47341,-6.21135,58.47341",
     "geom:latitude":58.47341,
     "geom:longitude":-6.21135,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-6.23135,58.45341,-6.19135,58.49341",
     "lbl:latitude":58.47341,
     "lbl:longitude":-6.21135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skigersta"
@@ -36,7 +40,7 @@
     "name:nld_x_preferred":[
         "Skigersta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Port Skiogar"
     ],
     "qs_pg:aaroncc":"GB",
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":34891,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1125878465,
-    "wof:lastmodified":1563341187,
+    "wof:lastmodified":1566635144,
     "wof:name":"Sgiogarstaigh",
     "wof:parent_id":404429199,
     "wof:placetype":"locality",

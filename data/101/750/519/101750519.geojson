@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.262436,
     "lbl:longitude":-2.13339,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":53.255903,
     "mps:longitude":-2.133246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Macclesfield"
     ],
@@ -308,7 +311,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.2581,
     "wd:longitude":-2.1274,
@@ -325,7 +328,6 @@
         "gn:id":2643266,
         "gp:id":28094,
         "loc:id":"n85233601",
-        "qs:id":453899,
         "qs_pg:id":453899,
         "wd:id":"Q868637",
         "wk:page":"Macclesfield"
@@ -346,7 +348,7 @@
         }
     ],
     "wof:id":101750519,
-    "wof:lastmodified":1563336583,
+    "wof:lastmodified":1566630910,
     "wof:name":"Macclesfield",
     "wof:parent_id":1360698929,
     "wof:placetype":"locality",

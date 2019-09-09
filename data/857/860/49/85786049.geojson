@@ -11,8 +11,10 @@
     "geom:longitude":-2.131312,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.136312,52.482058,-2.126312,52.492058",
     "lbl:latitude":52.487058,
     "lbl:longitude":-2.131312,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.484452,
     "mps:longitude":-2.131038,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Brockmoor"
-    ],
-    "name:unk_x_variant":[
         "Brockmoor"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698605,
         102191581,
         1360817295,
         85633159,
         404227469,
         1125917795,
-        1360698933
+        1360698933,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":14076,
-        "qs:id":1079336,
         "qs_pg:id":1079336
     },
     "wof:country":"GB",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699579,
+    "wof:lastmodified":1566627606,
     "wof:name":"Brockmoor",
     "wof:parent_id":1125917795,
     "wof:placetype":"neighbourhood",

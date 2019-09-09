@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.390673,
     "lbl:longitude":-3.0257,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":53.372886,
     "mps:longitude":-3.089713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u06a9\u0646\u200c\u0647\u062f"
     ],
@@ -187,7 +190,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.383333,
     "wd:longitude":-3.016667,
@@ -203,7 +206,6 @@
     "wof:concordances":{
         "gn:id":2655613,
         "gp:id":12710,
-        "qs:id":967899,
         "qs_pg:id":967899,
         "wd:id":"Q746718",
         "wk:page":"Birkenhead"
@@ -221,7 +223,7 @@
         }
     ],
     "wof:id":101750549,
-    "wof:lastmodified":1563336666,
+    "wof:lastmodified":1566630932,
     "wof:name":"Birkenhead",
     "wof:parent_id":1360699049,
     "wof:placetype":"locality",

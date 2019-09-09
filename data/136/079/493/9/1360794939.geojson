@@ -9,14 +9,17 @@
     "geom:bbox":"1.40505,51.38871,1.40505,51.38871",
     "geom:latitude":51.38871,
     "geom:longitude":1.40505,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"1.40005,51.38371,1.41005,51.39371",
     "lbl:latitude":51.38871,
     "lbl:longitude":1.40505,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Cliftonville"
@@ -51,18 +54,18 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":16332,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698565,
         102191581,
         85633159,
         404227469,
         101750335,
-        1360698811
+        1360698811,
+        1360698565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1360794939,
-    "wof:lastmodified":1547711135,
+    "wof:lastmodified":1566628733,
     "wof:name":"Cliftonville",
     "wof:parent_id":101750335,
     "wof:placetype":"neighbourhood",

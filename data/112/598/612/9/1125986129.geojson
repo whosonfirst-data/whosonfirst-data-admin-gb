@@ -9,15 +9,17 @@
     "geom:bbox":"-2.78849261851,53.0057601168,-2.72893512372,53.036089455",
     "geom:latitude":53.020541,
     "geom:longitude":-2.759556,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1628,
-    "gn:population":1321,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":1628,
     "iso:country":"GB",
     "lbl:latitude":53.01667,
     "lbl:longitude":-2.76667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0644\u0628\u0633"
@@ -88,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698537,
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":1125986129,
-    "wof:lastmodified":1563342265,
+    "wof:lastmodified":1566635799,
     "wof:name":"Malpas",
     "wof:parent_id":404450471,
     "wof:placetype":"locality",

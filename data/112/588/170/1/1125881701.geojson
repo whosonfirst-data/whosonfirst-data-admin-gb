@@ -9,15 +9,17 @@
     "geom:bbox":"-0.162040767001,50.8938117035,-0.116878802411,50.9499696821",
     "geom:latitude":50.924677,
     "geom:longitude":-0.1418,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6821,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":6821,
     "iso:country":"GB",
     "lbl:latitude":50.92814,
     "lbl:longitude":-0.16617,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Hassocks"
@@ -277,7 +279,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -316,7 +318,7 @@
         }
     ],
     "wof:id":1125881701,
-    "wof:lastmodified":1563340771,
+    "wof:lastmodified":1566634892,
     "wof:name":"Hassocks",
     "wof:parent_id":404436065,
     "wof:placetype":"locality",

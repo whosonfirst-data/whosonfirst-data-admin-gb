@@ -9,14 +9,17 @@
     "geom:bbox":"0.564656846703,51.3204106573,0.597913318506,51.3375021138",
     "geom:latitude":51.32905,
     "geom:longitude":0.580688,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.33099,
     "lbl:longitude":0.57605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u0434\u0445\u0443\u0440\u0441\u0442"
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125941615,
-    "wof:lastmodified":1563339532,
+    "wof:lastmodified":1566634091,
     "wof:name":"Bredhurst",
     "wof:parent_id":404431075,
     "wof:placetype":"locality",

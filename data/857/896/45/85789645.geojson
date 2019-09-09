@@ -11,8 +11,10 @@
     "geom:longitude":-0.275557,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.280557,52.544868,-0.270557,52.554868",
     "lbl:latitude":52.549868,
     "lbl:longitude":-0.275557,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.549636,
     "mps:longitude":-0.265491,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Orton Malborne"
-    ],
-    "name:unk_x_variant":[
         "Orton Malborne"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -57,22 +56,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698535,
         102191581,
         404433841,
         85633159,
         404227469,
         1126032499,
-        1360698773
+        1360698773,
+        1360698535
     ],
     "wof:breaches":[
         85786129
     ],
     "wof:concordances":{
         "gp:id":31105,
-        "qs:id":1263761,
         "qs_pg:id":1263761
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547725521,
+    "wof:lastmodified":1566627713,
     "wof:name":"Orton Malborne",
     "wof:parent_id":1126032499,
     "wof:placetype":"neighbourhood",

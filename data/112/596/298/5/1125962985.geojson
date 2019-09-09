@@ -9,15 +9,17 @@
     "geom:bbox":"-1.30123231102,52.9863576061,-1.27135963918,52.9971958383",
     "geom:latitude":52.991753,
     "geom:longitude":-1.286501,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2634,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":2634,
     "iso:country":"GB",
     "lbl:latitude":52.98912,
     "lbl:longitude":-1.28354,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Awsworth"
@@ -61,7 +63,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":1125962985,
-    "wof:lastmodified":1563341983,
+    "wof:lastmodified":1566635644,
     "wof:name":"Awsworth",
     "wof:parent_id":404438225,
     "wof:placetype":"locality",

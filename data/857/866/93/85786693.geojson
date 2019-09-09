@@ -14,8 +14,10 @@
     "gn:longitude":-1.61107,
     "gn:population":8109,
     "iso:country":"GB",
+    "lbl:bbox":"-2.228926,52.984344,-2.218926,52.994344",
     "lbl:latitude":52.989344,
     "lbl:longitude":-2.223926,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.98003,
     "mps:longitude":-2.237105,
     "mz:hierarchy_label":0,
@@ -51,10 +53,6 @@
     "name:swe_x_preferred":[
         "Clayton West"
     ],
-    "name:unk_x_variant":[
-        "Clayton West",
-        "Clayton"
-    ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
     "qs:gn_local":2641674,
@@ -84,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,10 +97,12 @@
         "fct:id":"0ab4ddac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2652901,
         "gp:id":16236,
-        "qs:id":2853,
-        "qs_pg:id":550502,
+        "qs_pg:id":2853,
         "wd:id":"Q5130366",
         "wk:page":"Clayton West"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":550502
     },
     "wof:country":"GB",
     "wof:geomhash":"69b22f74f43d1774e0517472011dc563",
@@ -121,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563331718,
+    "wof:lastmodified":1566627570,
     "wof:name":"Clayton",
     "wof:parent_id":1125775375,
     "wof:placetype":"neighbourhood",

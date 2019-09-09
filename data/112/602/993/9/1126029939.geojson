@@ -9,15 +9,17 @@
     "geom:bbox":"-0.929274361205,52.9409636484,-0.8650288225,52.9669254901",
     "geom:latitude":52.955609,
     "geom:longitude":-0.897692,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1571,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.95299,
     "lbl:longitude":-0.897,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Aslockton"
@@ -40,7 +42,7 @@
     "name:swe_x_preferred":[
         "Aslockton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aslocton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1126029939,
-    "wof:lastmodified":1563339923,
+    "wof:lastmodified":1566634357,
     "wof:name":"Aslockton",
     "wof:parent_id":404444505,
     "wof:placetype":"locality",

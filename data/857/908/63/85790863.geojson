@@ -11,8 +11,10 @@
     "geom:longitude":-2.629335,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.634335,53.543363,-2.624335,53.553363",
     "lbl:latitude":53.548363,
     "lbl:longitude":-2.629335,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.547815,
     "mps:longitude":-2.617127,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Swinley"
-    ],
-    "name:unk_x_variant":[
         "Swinley"
     ],
     "qs:gn_id":0,
@@ -56,20 +55,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698555,
         102191581,
         1360817301,
         85633159,
         404227469,
         1125871869,
-        1360699023
+        1360699023,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":36816,
-        "qs:id":1073846,
         "qs_pg:id":1073846
     },
     "wof:country":"GB",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699674,
+    "wof:lastmodified":1566627522,
     "wof:name":"Swinley",
     "wof:parent_id":1125871869,
     "wof:placetype":"neighbourhood",

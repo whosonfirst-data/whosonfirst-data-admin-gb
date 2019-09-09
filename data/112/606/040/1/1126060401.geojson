@@ -9,15 +9,17 @@
     "geom:bbox":"-0.350906025748,52.0254619067,-0.316202707044,52.0517435317",
     "geom:latitude":52.039368,
     "geom:longitude":-0.335142,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4928,
-    "gn:population":10816,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4928,
     "iso:country":"GB",
     "lbl:latitude":52.0387,
     "lbl:longitude":-0.33399,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0634\u0641\u0648\u0631\u062f"
@@ -133,7 +135,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -172,7 +174,7 @@
         }
     ],
     "wof:id":1126060401,
-    "wof:lastmodified":1563342308,
+    "wof:lastmodified":1566635825,
     "wof:name":"Shefford",
     "wof:parent_id":404444471,
     "wof:placetype":"locality",

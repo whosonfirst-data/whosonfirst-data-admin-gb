@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.019999,
     "lbl:longitude":-1.314057,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.019999,
     "mps:longitude":-1.314057,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Twyford"
     ],
@@ -69,7 +72,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.0218,
     "wd:longitude":-1.3136,
     "wd:wordcount":865,
@@ -86,10 +89,12 @@
         "fct:id":"0aa1c406-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2635293,
         "gp:id":38419,
-        "qs:id":899840,
         "qs_pg:id":898475,
         "wd:id":"Q2685778",
         "wk:page":"Twyford, Hampshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":899840
     },
     "wof:coterminous":[
         404431311
@@ -111,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336949,
+    "wof:lastmodified":1566631053,
     "wof:name":"Twyford",
     "wof:parent_id":404431311,
     "wof:placetype":"locality",

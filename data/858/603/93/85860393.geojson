@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.628172,
     "lbl:longitude":-0.065385,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.626164,
     "mps:longitude":-0.074436,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":7,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Lower Edmonton"
-    ],
-    "name:unk_x_variant":[
         "Lower Edmonton"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -58,20 +56,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857281
+        1158857281,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8128644,
         "gp:id":20089442,
-        "qs:id":891410,
         "qs_pg:id":891410
     },
     "wof:country":"GB",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206423,
+    "wof:lastmodified":1566627861,
     "wof:name":"Lower Edmonton",
     "wof:parent_id":1158857281,
     "wof:placetype":"neighbourhood",

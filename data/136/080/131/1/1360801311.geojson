@@ -9,12 +9,15 @@
     "geom:bbox":"-2.3742695,53.7018825,-2.3742695,53.7018825",
     "geom:latitude":53.701883,
     "geom:longitude":-2.37427,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-2.3792695,53.6968825,-2.3692695,53.7068825",
     "lbl:latitude":53.701883,
     "lbl:longitude":-2.37427,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Haslingden Grane"
@@ -37,19 +40,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":20092128,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698567,
         102191581,
         1360817193,
         85633159,
         404227469,
         1125898295,
-        1360698817
+        1360698817,
+        1360698567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1360801311,
-    "wof:lastmodified":1547714230,
+    "wof:lastmodified":1566629436,
     "wof:name":"Haslingden Grane",
     "wof:parent_id":1125898295,
     "wof:placetype":"neighbourhood",

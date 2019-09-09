@@ -10,12 +10,16 @@
     "geom:latitude":54.619599,
     "geom:longitude":-6.209993,
     "iso:country":"GB",
+    "lbl:bbox":"-6.229993,54.599599,-6.189993,54.639599",
     "lbl:latitude":54.619599,
     "lbl:longitude":-6.209993,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.619599,
     "mps:longitude":-6.209993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u043c\u043b\u0438\u043d"
     ],
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360699223,
         102191581,
@@ -83,10 +87,12 @@
     "wof:concordances":{
         "gn:id":2651804,
         "gp:id":17561,
-        "qs:id":899993,
         "qs_pg:id":226922,
         "wd:id":"Q2053639",
         "wk:page":"Crumlin, County Antrim"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":899993
     },
     "wof:country":"GB",
     "wof:geomhash":"f957053957eb7c786f143f509161e718",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":101873809,
-    "wof:lastmodified":1563336270,
+    "wof:lastmodified":1566630800,
     "wof:name":"Crumlin",
     "wof:parent_id":1360699223,
     "wof:placetype":"locality",

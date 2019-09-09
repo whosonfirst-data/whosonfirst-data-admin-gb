@@ -9,15 +9,17 @@
     "geom:bbox":"-0.257455963055,51.9850277461,-0.201261153224,52.0323852406",
     "geom:latitude":52.012554,
     "geom:longitude":-0.230865,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":6245,
-    "gn:population":6838,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":6245,
     "iso:country":"GB",
     "lbl:latitude":52.01632,
     "lbl:longitude":-0.23209,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0648\u062a\u0641\u0648\u0644\u062f"
@@ -127,7 +129,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698527,
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":1125822765,
-    "wof:lastmodified":1563342569,
+    "wof:lastmodified":1566635986,
     "wof:name":"Stotfold",
     "wof:parent_id":404448625,
     "wof:placetype":"locality",

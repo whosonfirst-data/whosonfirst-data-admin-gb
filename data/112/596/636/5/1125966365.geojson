@@ -9,15 +9,17 @@
     "geom:bbox":"0.850379574902,51.9171892892,0.893672499129,51.9691819268",
     "geom:latitude":51.942283,
     "geom:longitude":0.872631,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1853,
-    "gn:population":2476,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1853,
     "iso:country":"GB",
     "lbl:latitude":51.93821,
     "lbl:longitude":0.87551,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09c7\u099f \u09b9\u0995\u09cd\u09b8\u09b2\u09c7"
@@ -77,12 +79,12 @@
         "Great Horkesley"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd  \u0bb9\u0bcb\u0bb0\u0bcd\u0b95\u0bc7\u0b9a\u0bc1\u0bb2\u0bc7"
+        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0bb9\u0bcb\u0bb0\u0bcd\u0b95\u0bc7\u0b9a\u0bc1\u0bb2\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c47\u0c1f\u0c4d \u0c39\u0c3e\u0c30\u0c4d\u0c15\u0c4d\u0c38\u0c4d\u0c32\u0c47"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Horkesley"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1125966365,
-    "wof:lastmodified":1563341991,
+    "wof:lastmodified":1566635650,
     "wof:name":"Great Horkesley",
     "wof:parent_id":404441579,
     "wof:placetype":"locality",

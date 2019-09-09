@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":55.951701,
     "lbl:longitude":-3.158539,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.952032,
     "mps:longitude":-3.154381,
     "mz:hierarchy_label":1,
@@ -44,9 +45,6 @@
     "name:ita_x_preferred":[
         "Parsons Green"
     ],
-    "name:unk_x_variant":[
-        "Parsons Green"
-    ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
     "qs:gn_local":2645970,
@@ -75,21 +73,20 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":94,
     "wof:belongsto":[
-        1360698673,
         102191581,
         404437279,
         85633159,
         404227471,
         101750629,
-        1360698761
+        1360698761,
+        1360698673
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20094259,
-        "qs:id":891593,
         "qs_pg:id":891593
     },
     "wof:country":"GB",
@@ -110,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542191936,
+    "wof:lastmodified":1566627879,
     "wof:name":"Parsons Green",
     "wof:parent_id":101750629,
     "wof:placetype":"neighbourhood",

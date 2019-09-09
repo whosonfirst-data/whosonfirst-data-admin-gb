@@ -9,12 +9,15 @@
     "geom:bbox":"-1.881387,52.5776795,-1.881387,52.5776795",
     "geom:latitude":52.57768,
     "geom:longitude":-1.881387,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-1.886387,52.5726795,-1.876387,52.5826795",
     "lbl:latitude":52.57768,
     "lbl:longitude":-1.881387,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "New Oscott"
@@ -40,18 +43,18 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28835895,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698605,
         102191581,
         85633159,
         404227469,
         1125853123,
-        1360698875
+        1360698875,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1360797157,
-    "wof:lastmodified":1547717640,
+    "wof:lastmodified":1566628553,
     "wof:name":"New Oscott",
     "wof:parent_id":1125853123,
     "wof:placetype":"neighbourhood",

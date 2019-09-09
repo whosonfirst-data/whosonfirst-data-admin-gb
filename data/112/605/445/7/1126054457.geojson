@@ -9,14 +9,17 @@
     "geom:bbox":"-2.70596458668,52.0054615631,-2.65615990212,52.0472270635",
     "geom:latitude":52.026388,
     "geom:longitude":-2.681894,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.02638,
     "lbl:longitude":-2.68103,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0414\u0438\u043d\u0435\u0434\u043e\u0440"
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1126054457,
-    "wof:lastmodified":1563340105,
+    "wof:lastmodified":1566634472,
     "wof:name":"Dinedor",
     "wof:parent_id":404430667,
     "wof:placetype":"locality",

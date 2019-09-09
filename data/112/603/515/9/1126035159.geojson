@@ -9,15 +9,17 @@
     "geom:bbox":"-1.32229902804,52.6659730158,-1.25349892769,52.7152444856",
     "geom:latitude":52.688327,
     "geom:longitude":-1.286803,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5080,
-    "gn:population":4993,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":5080,
     "iso:country":"GB",
     "lbl:latitude":52.68747,
     "lbl:longitude":-1.27476,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u0995\u09ab\u09bf\u09b2\u09cd\u09a1"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1126035159,
-    "wof:lastmodified":1563340416,
+    "wof:lastmodified":1566634674,
     "wof:name":"Markfield",
     "wof:parent_id":404453743,
     "wof:placetype":"locality",

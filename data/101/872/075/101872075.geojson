@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.262989,
     "lbl:longitude":-1.358718,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.262989,
     "mps:longitude":-1.358718,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0648\u0644\u06cc"
     ],
@@ -130,7 +133,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.2694,
     "wd:longitude":-1.3484,
@@ -147,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2636995,
         "gp:id":36027,
-        "qs:id":440970,
         "qs_pg:id":440970,
         "wd:id":"Q2569174",
         "wk:page":"Staveley, Derbyshire"
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":101872075,
-    "wof:lastmodified":1563336419,
+    "wof:lastmodified":1566630852,
     "wof:name":"Staveley",
     "wof:parent_id":404445011,
     "wof:placetype":"locality",

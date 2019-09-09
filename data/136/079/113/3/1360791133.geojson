@@ -11,12 +11,15 @@
     "geom:longitude":-1.737144,
     "gn:population":10356,
     "iso:country":"GB",
+    "lbl:bbox":"-1.742144,54.854863,-1.732144,54.864863",
     "lbl:latitude":54.859863,
     "lbl:longitude":-1.737144,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.859863,
     "mps:longitude":-1.737144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Annfield Plain"
     ],
@@ -64,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.857,
     "wd:longitude":-1.737,
@@ -82,10 +85,12 @@
     "wof:concordances":{
         "gn:id":2657282,
         "gp:id":32125,
-        "qs:id":141016,
-        "qs_pg:id":1015320,
+        "qs_pg:id":141016,
         "wd:id":"Q4769155",
         "wk:page":"Annfield Plain"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1015320
     },
     "wof:country":"GB",
     "wof:geomhash":"53afc94bf20bf3d2bf03e646ac864dea",
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":1360791133,
-    "wof:lastmodified":1563333806,
+    "wof:lastmodified":1566628854,
     "wof:name":"Annfield Plain",
     "wof:parent_id":1259512601,
     "wof:placetype":"neighbourhood",

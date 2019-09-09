@@ -9,15 +9,18 @@
     "geom:bbox":"-2.91667,56.21667,-2.91667,56.21667",
     "geom:latitude":56.21667,
     "geom:longitude":-2.91667,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":496,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":496,
     "iso:country":"GB",
+    "lbl:bbox":"-2.93667,56.19667,-2.89667,56.23667",
     "lbl:latitude":56.21667,
     "lbl:longitude":-2.91667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kirkton of Largo"
@@ -43,9 +46,6 @@
     "name:swe_x_preferred":[
         "Kirkton of Largo"
     ],
-    "name:unk_x_variant":[
-        "Upper Largo"
-    ],
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +67,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":25449,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125998053,
-    "wof:lastmodified":1563341324,
+    "wof:lastmodified":1566635229,
     "wof:name":"Kirkton of Largo",
     "wof:parent_id":404444217,
     "wof:placetype":"locality",

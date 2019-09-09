@@ -9,15 +9,17 @@
     "geom:bbox":"-1.61415447508,52.2568110155,-1.53482010647,52.3038585356",
     "geom:latitude":52.280132,
     "geom:longitude":-1.580466,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":24040,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA2",
     "gn:population":24040,
     "iso:country":"GB",
     "lbl:latitude":52.28333,
     "lbl:longitude":-1.58333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0648\u0631\u0643"
@@ -214,7 +216,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -253,7 +255,7 @@
         }
     ],
     "wof:id":1125994457,
-    "wof:lastmodified":1563341381,
+    "wof:lastmodified":1566635260,
     "wof:name":"Warwick",
     "wof:parent_id":404441251,
     "wof:placetype":"locality",

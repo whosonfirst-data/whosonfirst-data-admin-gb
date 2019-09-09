@@ -9,14 +9,17 @@
     "geom:bbox":"-2.55846552602,54.1565081765,-2.47937513013,54.2032807684",
     "geom:latitude":54.173111,
     "geom:longitude":-2.529329,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM4",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"ADM4",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.17988,
     "lbl:longitude":-2.51891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0418\u0440\u0435\u0431\u0439"
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125910887,
-    "wof:lastmodified":1563342141,
+    "wof:lastmodified":1566635727,
     "wof:name":"Ireby",
     "wof:parent_id":404449237,
     "wof:placetype":"locality",

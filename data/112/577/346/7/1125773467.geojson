@@ -9,15 +9,17 @@
     "geom:bbox":"-1.40173866429,54.6825983658,-1.3571473827,54.743700522",
     "geom:latitude":54.712996,
     "geom:longitude":-1.383902,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4761,
-    "gn:population":5134,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4761,
     "iso:country":"GB",
     "lbl:latitude":54.73242,
     "lbl:longitude":-1.37896,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Wingate"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125773467,
-    "wof:lastmodified":1563343171,
+    "wof:lastmodified":1566636351,
     "wof:name":"Wingate",
     "wof:parent_id":404451977,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":54.277307,
     "lbl:longitude":-0.415285,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.277307,
     "mps:longitude":-0.415285,
     "mz:hierarchy_label":1,
@@ -307,7 +309,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.283333,
     "wd:longitude":-0.4,
@@ -323,7 +325,6 @@
     "wof:concordances":{
         "gn:id":2638419,
         "gp:id":34158,
-        "qs:id":654492,
         "qs_pg:id":654492,
         "wd:id":"Q743521",
         "wk:page":"Scarborough, North Yorkshire"
@@ -341,7 +342,7 @@
         }
     ],
     "wof:id":101874185,
-    "wof:lastmodified":1563336145,
+    "wof:lastmodified":1566630759,
     "wof:name":"Scarborough",
     "wof:parent_id":1360698753,
     "wof:placetype":"locality",

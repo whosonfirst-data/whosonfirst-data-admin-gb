@@ -9,15 +9,17 @@
     "geom:bbox":"-2.36907579238,53.4152707235,-2.2530506087,53.4803613705",
     "geom:latitude":53.45636,
     "geom:longitude":-2.309986,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":41953,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA2",
     "gn:population":41953,
     "iso:country":"GB",
     "lbl:latitude":53.45,
     "lbl:longitude":-2.31667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u062a\u0641\u0648\u0631\u062f"
@@ -144,7 +146,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698555,
@@ -175,7 +177,7 @@
         }
     ],
     "wof:id":1125882177,
-    "wof:lastmodified":1563340629,
+    "wof:lastmodified":1566634812,
     "wof:name":"Stretford",
     "wof:parent_id":1360817437,
     "wof:placetype":"locality",

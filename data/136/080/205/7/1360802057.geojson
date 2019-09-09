@@ -9,15 +9,17 @@
     "geom:bbox":"-1.279,52.53707,-1.279,52.53707",
     "geom:latitude":52.53707,
     "geom:longitude":-1.279,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2458,
-    "gn:population":2442,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2458,
     "iso:country":"GB",
+    "lbl:bbox":"-1.284,52.53207,-1.274,52.54207",
     "lbl:latitude":52.53707,
     "lbl:longitude":-1.279,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Sapcote"
@@ -43,9 +45,6 @@
     "name:swe_x_preferred":[
         "Sapcote"
     ],
-    "name:unk_x_variant":[
-        "Sapcote"
-    ],
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +66,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":23702026,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -105,7 +104,7 @@
         }
     ],
     "wof:id":1360802057,
-    "wof:lastmodified":1563334606,
+    "wof:lastmodified":1566629342,
     "wof:name":"Shapcott",
     "wof:parent_id":1126026453,
     "wof:placetype":"neighbourhood",

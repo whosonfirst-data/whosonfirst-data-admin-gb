@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":52.962779,
     "lbl:longitude":-1.177659,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.962779,
     "mps:longitude":-1.177659,
     "mz:hierarchy_label":1,
@@ -114,9 +116,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0442\u0442\u0456\u043d\u0433\u0435\u043c"
     ],
-    "name:unk_x_variant":[
-        "Nottingham"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0679\u0646\u06af\u06be\u0645"
     ],
@@ -205,9 +204,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"75",
     "statoids:area_mi":"29",
     "statoids:as_of_date":"2011-03-27",
@@ -258,11 +257,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563335876,
+    "wof:lastmodified":1566630411,
     "wof:name":"City of Nottingham",
     "wof:parent_id":1360698583,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary authority",
     "wof:population":305680,
     "wof:population_rank":10,

@@ -9,15 +9,17 @@
     "geom:bbox":"0.200539513084,51.1985629776,0.281544877916,51.2448479256",
     "geom:latitude":51.221215,
     "geom:longitude":0.238799,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":575,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.21317,
     "lbl:longitude":0.24994,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u09b2\u09cd\u09a1\u09c7\u09a8\u09ac\u09b0\u09cb"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125861737,
-    "wof:lastmodified":1563340461,
+    "wof:lastmodified":1566634705,
     "wof:name":"Hildenborough",
     "wof:parent_id":404450939,
     "wof:placetype":"locality",

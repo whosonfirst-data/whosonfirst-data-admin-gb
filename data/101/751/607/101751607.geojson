@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.196908,
     "lbl:longitude":-2.217442,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":52.190698,
     "mps:longitude":-2.224215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Worcester"
     ],
@@ -282,7 +285,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":52.191111,
     "wd:longitude":-2.222222,
@@ -301,7 +304,6 @@
         "gn:id":2633563,
         "gp:id":41117,
         "loc:id":"n81018214",
-        "qs:id":775015,
         "qs_pg:id":775015,
         "wd:id":"Q1646181",
         "wk:page":"Worcester"
@@ -322,7 +324,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336521,
+    "wof:lastmodified":1566630896,
     "wof:name":"Worcester",
     "wof:parent_id":1360699043,
     "wof:placetype":"locality",

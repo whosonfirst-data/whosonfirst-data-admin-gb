@@ -9,17 +9,19 @@
     "geom:bbox":"-2.008756,53.740541,-2.008756,53.740541",
     "geom:latitude":53.740541,
     "geom:longitude":-2.008756,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4177,
-    "gn:population":4235,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4177,
     "iso:country":"GB",
+    "lbl:bbox":"-2.013756,53.735541,-2.003756,53.745541",
     "lbl:latitude":53.740542,
     "lbl:longitude":-2.008756,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.740542,
     "mps:longitude":-2.008756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Hebden Bridge"
     ],
@@ -74,7 +76,7 @@
     "name:szl_x_preferred":[
         "Hebden Bridge"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hebden"
     ],
     "name:zho_x_preferred":[
@@ -120,7 +122,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.742,
     "wd:longitude":-2.009,
@@ -138,7 +140,6 @@
     "wof:concordances":{
         "gn:id":2647208,
         "gp:id":22895,
-        "qs:id":899159,
         "qs_pg:id":424576,
         "wd:id":"Q1023948",
         "wk:page":"Hebden Bridge"
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":1360791051,
-    "wof:lastmodified":1563332797,
+    "wof:lastmodified":1566628354,
     "wof:name":"Hebden Bridge",
     "wof:parent_id":1360754013,
     "wof:placetype":"neighbourhood",

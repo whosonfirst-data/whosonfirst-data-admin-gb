@@ -10,12 +10,16 @@
     "geom:latitude":54.645721,
     "geom:longitude":-6.743295,
     "iso:country":"GB",
+    "lbl:bbox":"-6.763295,54.625721,-6.723295,54.665721",
     "lbl:latitude":54.645722,
     "lbl:longitude":-6.743295,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.645722,
     "mps:longitude":-6.743295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u043a\u0441\u0442\u0430\u0443\u043d"
     ],
@@ -110,7 +114,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         1360699241,
         102191581,
@@ -122,10 +126,12 @@
     "wof:concordances":{
         "gn:id":2652417,
         "gp:id":44664,
-        "qs:id":847010,
-        "qs_pg:id":1074013,
+        "qs_pg:id":847010,
         "wd:id":"Q1129639",
         "wk:page":"Cookstown"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074013
     },
     "wof:country":"GB",
     "wof:geomhash":"c43494109197fb61906d798932bb1ac3",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":101873813,
-    "wof:lastmodified":1563336261,
+    "wof:lastmodified":1566630797,
     "wof:name":"Cookstown",
     "wof:parent_id":1360699241,
     "wof:placetype":"locality",

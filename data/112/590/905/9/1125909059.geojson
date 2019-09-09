@@ -9,15 +9,17 @@
     "geom:bbox":"-4.0727107323,50.8686289364,-3.99299186287,50.9113284925",
     "geom:latitude":50.891597,
     "geom:longitude":-4.031862,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":687,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.89169,
     "lbl:longitude":-4.03066,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "Dolton"
@@ -82,7 +84,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":1125909059,
-    "wof:lastmodified":1563341529,
+    "wof:lastmodified":1566635351,
     "wof:name":"Dolton",
     "wof:parent_id":404445007,
     "wof:placetype":"locality",

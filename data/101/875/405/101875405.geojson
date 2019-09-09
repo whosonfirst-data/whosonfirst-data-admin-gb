@@ -9,17 +9,19 @@
     "geom:bbox":"0.72905831243,51.4091019548,0.792505892353,51.4490876614",
     "geom:latitude":51.428795,
     "geom:longitude":0.760691,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11914,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":11914,
     "iso:country":"GB",
     "lbl:latitude":51.430792,
     "lbl:longitude":0.757573,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.444074,
     "mps:longitude":0.756593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0634\u06cc\u0631\u0646\u0633"
     ],
@@ -95,7 +97,7 @@
     "name:tur_x_preferred":[
         "Sheerness"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sheering"
     ],
     "name:vol_x_preferred":[
@@ -142,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.441111,
     "wd:longitude":0.760833,
@@ -159,7 +161,6 @@
         "gn:id":2638082,
         "gp:id":34499,
         "loc:id":"n85149562",
-        "qs:id":974877,
         "qs_pg:id":889949,
         "wd:id":"Q1003196",
         "wk:page":"Sheerness"
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":101875405,
-    "wof:lastmodified":1563336494,
+    "wof:lastmodified":1566630881,
     "wof:name":"Sheerness",
     "wof:parent_id":1360698811,
     "wof:placetype":"locality",

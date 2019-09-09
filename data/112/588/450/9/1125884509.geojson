@@ -9,14 +9,17 @@
     "geom:bbox":"-4.58595615413,53.3137033517,-4.50289930965,53.3666575582",
     "geom:latitude":53.341968,
     "geom:longitude":-4.546226,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.3524,
     "lbl:longitude":-4.53418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u0627\u0646\u0641\u064a\u062a\u0644\u0648"
@@ -60,7 +63,7 @@
     "name:swe_x_preferred":[
         "Llanfaethlu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Llanfaethly"
     ],
     "nav:latitude":53.3524,
@@ -86,7 +89,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":26897,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1125884509,
-    "wof:lastmodified":1563340754,
+    "wof:lastmodified":1566634883,
     "wof:name":"Llanfaethlu",
     "wof:parent_id":404446343,
     "wof:placetype":"locality",

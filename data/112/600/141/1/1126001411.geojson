@@ -9,14 +9,17 @@
     "geom:bbox":"0.632126994541,52.8112913613,0.680414784379,52.84239195",
     "geom:latitude":52.827788,
     "geom:longitude":0.656552,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.81667,
     "lbl:longitude":0.65,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "Houton"
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1126001411,
-    "wof:lastmodified":1563342536,
+    "wof:lastmodified":1566635964,
     "wof:name":"Houghton",
     "wof:parent_id":404444793,
     "wof:placetype":"locality",

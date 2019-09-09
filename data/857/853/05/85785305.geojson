@@ -12,6 +12,7 @@
     "iso:country":"GB",
     "lbl:latitude":53.430653,
     "lbl:longitude":-2.958449,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.430401,
     "mps:longitude":-2.95152,
     "mz:hierarchy_label":1,
@@ -51,9 +52,6 @@
     "name:pol_x_preferred":[
         "Hadfield"
     ],
-    "name:unk_x_variant":[
-        "Anfield"
-    ],
     "name:zho_x_preferred":[
         "\u54c8\u5fb7\u83f2\u5fb7"
     ],
@@ -84,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -97,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2647680,
         "gp:id":10812,
-        "qs:id":246865,
         "qs_pg:id":246865,
         "wd:id":"Q1612071",
         "wk:page":"Hadfield, Derbyshire"
@@ -119,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332036,
+    "wof:lastmodified":1566627728,
     "wof:name":"Anfield",
     "wof:parent_id":101750547,
     "wof:placetype":"neighbourhood",

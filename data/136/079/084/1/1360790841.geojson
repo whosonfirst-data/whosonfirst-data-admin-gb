@@ -11,12 +11,15 @@
     "geom:longitude":-2.807503,
     "gn:population":3927,
     "iso:country":"GB",
+    "lbl:bbox":"-2.812503,52.533816,-2.802503,52.543816",
     "lbl:latitude":52.538816,
     "lbl:longitude":-2.807503,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.538816,
     "mps:longitude":-2.807503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0686\u0631\u0648\u0686 \u0627\u0633\u062a\u0631\u062a\u0648\u0646"
     ],
@@ -90,12 +93,12 @@
         "Church Stretton"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd  \u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd"
+        "\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd \u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c30\u0c4d\u0c1a\u0c3f \u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c46\u0c1f\u0c4d\u0c1f\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Church"
     ],
     "name:urd_x_preferred":[
@@ -126,7 +129,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.539,
     "wd:longitude":-2.808,
@@ -145,10 +148,12 @@
         "fct:id":"0aa342b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2653049,
         "gp:id":20092860,
-        "qs:id":224479,
-        "qs_pg:id":989892,
+        "qs_pg:id":224479,
         "wd:id":"Q867120",
         "wk:page":"Church Stretton"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":989892
     },
     "wof:country":"GB",
     "wof:geomhash":"bab0cc60851899e743e1cfe1bf09e1fb",
@@ -168,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332925,
+    "wof:lastmodified":1566628413,
     "wof:name":"Church Stretton",
     "wof:parent_id":1209850909,
     "wof:placetype":"neighbourhood",

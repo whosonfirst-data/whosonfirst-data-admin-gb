@@ -11,12 +11,15 @@
     "geom:longitude":1.364349,
     "gn:population":2253,
     "iso:country":"GB",
+    "lbl:bbox":"1.359349,52.150542,1.369349,52.160542",
     "lbl:latitude":52.155542,
     "lbl:longitude":1.364349,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.155542,
     "mps:longitude":1.364349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Wickham Market"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Wickham Market"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wickham"
     ],
     "name:vol_x_preferred":[
@@ -72,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.15,
     "wd:longitude":1.367,
@@ -91,10 +94,12 @@
         "fct:id":"0aa29d40-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2633975,
         "gp:id":40410,
-        "qs:id":211005,
-        "qs_pg:id":1071623,
+        "qs_pg:id":211005,
         "wd:id":"Q2001797",
         "wk:page":"Wickham Market"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1071623
     },
     "wof:country":"GB",
     "wof:geomhash":"462d54fec137062f74a65a420c2a1e02",
@@ -114,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563333612,
+    "wof:lastmodified":1566628755,
     "wof:name":"Wickham Market",
     "wof:parent_id":1360314213,
     "wof:placetype":"neighbourhood",

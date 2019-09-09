@@ -9,14 +9,17 @@
     "geom:bbox":"-4.16908533281,50.8353826744,-4.08544581175,50.8908026844",
     "geom:latitude":50.869056,
     "geom:longitude":-4.122287,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.86667,
     "lbl:longitude":-4.11667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Petrockstow"
@@ -48,9 +51,6 @@
     "name:swe_x_preferred":[
         "Petrockstow"
     ],
-    "name:unk_x_variant":[
-        "Petrockstow"
-    ],
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125774237,
-    "wof:lastmodified":1563343158,
+    "wof:lastmodified":1566636345,
     "wof:name":"Petrockstowe",
     "wof:parent_id":404445187,
     "wof:placetype":"locality",

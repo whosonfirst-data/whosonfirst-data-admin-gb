@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-54.592416,
     "lbl:longitude":-36.215683,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-54.592416,
     "mps:longitude":-36.215683,
     "mz:hierarchy_label":1,
@@ -441,7 +443,6 @@
         "South Georgia og De Sydlige Sandwichoer"
     ],
     "name:und_x_variant":[
-        "South Georgia og De Sydlige Sandwich\u00f8er",
         "S\u00f8r-Georgia og S\u00f8ndre Sandwich\u00f8yene"
     ],
     "name:urd_x_preferred":[
@@ -590,7 +591,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "statoids:dial":"500",
     "statoids:ds":"",
@@ -606,12 +607,6 @@
     "statoids:marc":"xs",
     "statoids:name":"South Georgia and South Sandwich Islands",
     "statoids:wmo":"",
-    "wof:belongs":[
-        102191581,
-        136253055,
-        85633159
-    ],
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527,
         136253055
@@ -626,7 +621,7 @@
         "m49:code":"239",
         "marc:id":"xs",
         "mzb:id":"south-georgia-and-the-south-sandwich-islands",
-        "qs:id":1242366,
+        "qs_pg:id":1242366,
         "wd:id":"Q35086"
     },
     "wof:controlled":[
@@ -643,7 +638,7 @@
         }
     ],
     "wof:id":85632301,
-    "wof:lastmodified":1565711191,
+    "wof:lastmodified":1566627807,
     "wof:name":"South Georgia and South Sandwich Islands",
     "wof:parent_id":136253055,
     "wof:placetype":"dependency",

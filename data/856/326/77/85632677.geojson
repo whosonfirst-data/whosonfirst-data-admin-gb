@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":16.73717,
     "lbl:longitude":-62.188252,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":16.73717,
     "mps:longitude":-62.188252,
     "mz:hierarchy_label":1,
@@ -535,7 +537,7 @@
     "name:ukr_x_variant":[
         "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Montserrat Colony of"
     ],
     "name:urd_x_preferred":[
@@ -653,7 +655,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "statoids:dial":"1-664",
     "statoids:ds":"",
@@ -669,11 +671,6 @@
     "statoids:marc":"mj",
     "statoids:name":"Montserrat",
     "statoids:wmo":"",
-    "wof:belongs":[
-        102191581,
-        136253055,
-        85633159
-    ],
     "wof:belongsto":[
         102191575,
         136253055
@@ -690,7 +687,7 @@
         "m49:code":"500",
         "marc:id":"mj",
         "mzb:id":"montserrat",
-        "qs:id":220226,
+        "qs_pg:id":220226,
         "wd:id":"Q13353"
     },
     "wof:controlled":[
@@ -710,7 +707,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1565711195,
+    "wof:lastmodified":1566627826,
     "wof:name":"Montserrat",
     "wof:parent_id":136253055,
     "wof:placetype":"dependency",

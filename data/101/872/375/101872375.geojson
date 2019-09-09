@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":55.343397,
     "lbl:longitude":-1.605894,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.343397,
     "mps:longitude":-1.605894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Warkworth"
     ],
@@ -66,7 +69,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.345,
     "wd:longitude":-1.611,
     "wd:wordcount":944,
@@ -82,10 +85,12 @@
     "wof:concordances":{
         "gn:id":2634762,
         "gp:id":39180,
-        "qs:id":244510,
-        "qs_pg:id":898001,
+        "qs_pg:id":244510,
         "wd:id":"Q1616632",
         "wk:page":"Warkworth, Northumberland"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":898001
     },
     "wof:coterminous":[
         404446141
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":101872375,
-    "wof:lastmodified":1563336468,
+    "wof:lastmodified":1566630871,
     "wof:name":"Warkworth",
     "wof:parent_id":404446141,
     "wof:placetype":"locality",

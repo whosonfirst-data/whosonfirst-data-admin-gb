@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":55.019914,
     "lbl:longitude":-1.525098,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.019914,
     "mps:longitude":-1.525098,
     "mz:hierarchy_label":1,
@@ -97,12 +99,12 @@
         "Borough of North Tyneside"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b9f\u0bbf\u0ba9\u0bc7\u0b9a\u0bc8\u0b9f\u0bc1"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bbf\u0ba9\u0bc7\u0b9a\u0bc8\u0b9f\u0bc1"
     ],
     "name:tel_x_preferred":[
-        "\u0c28\u0c3e\u0c30\u0c4d\u0c24\u0c4d  \u0c1f\u0c48\u0c28\u0c4d\u0c38\u0c48\u0c21\u0c4d"
+        "\u0c28\u0c3e\u0c30\u0c4d\u0c24\u0c4d \u0c1f\u0c48\u0c28\u0c4d\u0c38\u0c48\u0c21\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "North Tyneside District"
     ],
     "name:urd_x_preferred":[
@@ -187,9 +189,9 @@
     "qs:type":"Metropolitan District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"84",
     "statoids:area_mi":"32",
     "statoids:as_of_date":"2011-03-27",
@@ -241,11 +243,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563335979,
+    "wof:lastmodified":1566630626,
     "wof:name":"North Tyneside",
     "wof:parent_id":1360698601,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"metropolitan borough",
     "wof:population":200801,
     "wof:population_rank":10,

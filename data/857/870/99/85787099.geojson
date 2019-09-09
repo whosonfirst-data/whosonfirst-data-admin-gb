@@ -11,8 +11,10 @@
     "geom:longitude":-2.0544,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.0594,52.517409,-2.0494,52.527409",
     "lbl:latitude":52.522409,
     "lbl:longitude":-2.0544,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.515384,
     "mps:longitude":-2.052581,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Dudley Port"
-    ],
-    "name:unk_x_variant":[
         "Dudley Port"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698605,
         102191581,
         1360817335,
         85633159,
         404227469,
         1125833493,
-        1360699035
+        1360699035,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":18583,
-        "qs:id":226930,
         "qs_pg:id":226930
     },
     "wof:country":"GB",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547699752,
+    "wof:lastmodified":1566627687,
     "wof:name":"Dudley Port",
     "wof:parent_id":1125833493,
     "wof:placetype":"neighbourhood",

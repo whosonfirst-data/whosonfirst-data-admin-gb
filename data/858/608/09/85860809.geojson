@@ -11,8 +11,10 @@
     "geom:longitude":-0.434526,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.439526,51.643893,-0.429526,51.653893",
     "lbl:latitude":51.648893,
     "lbl:longitude":-0.434526,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.650233,
     "mps:longitude":-0.451968,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Croxley Centre"
-    ],
-    "name:unk_x_variant":[
         "Croxley Centre"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698559,
         102191581,
         404439573,
         85633159,
         404227469,
         1125971041,
-        1360698763
+        1360698763,
+        1360698559
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089552,
-        "qs:id":425277,
         "qs_pg:id":425277
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547723636,
+    "wof:lastmodified":1566627886,
     "wof:name":"Croxley Centre",
     "wof:parent_id":1125971041,
     "wof:placetype":"neighbourhood",

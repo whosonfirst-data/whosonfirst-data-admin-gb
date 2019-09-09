@@ -9,15 +9,17 @@
     "geom:bbox":"-1.64113,52.11478,-1.64113,52.11478",
     "geom:latitude":52.11478,
     "geom:longitude":-1.64113,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":517,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.64613,52.10978,-1.63613,52.11978",
     "lbl:latitude":52.11478,
     "lbl:longitude":-1.64113,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Newbold on Stour"
@@ -37,7 +39,7 @@
     "name:swe_x_preferred":[
         "Newbold-on-Stour"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Newbold-upon-Stour"
     ],
     "qs_pg:aaroncc":"GB",
@@ -61,7 +63,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":30029,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1360799439,
-    "wof:lastmodified":1563333825,
+    "wof:lastmodified":1566628864,
     "wof:name":"Newbold on Stour",
     "wof:parent_id":1360753169,
     "wof:placetype":"neighbourhood",

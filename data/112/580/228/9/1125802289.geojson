@@ -9,14 +9,17 @@
     "geom:bbox":"-1.19374481154,52.5275386916,-1.13927646461,52.5817824054",
     "geom:latitude":52.553149,
     "geom:longitude":-1.172523,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.56667,
     "lbl:longitude":-1.18333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09cb\u09af\u09bc\u09c7\u099f\u09b8\u09cd\u099f\u09cb\u09a8"
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1125802289,
-    "wof:lastmodified":1563340914,
+    "wof:lastmodified":1566634984,
     "wof:name":"Whetstone",
     "wof:parent_id":404437155,
     "wof:placetype":"locality",

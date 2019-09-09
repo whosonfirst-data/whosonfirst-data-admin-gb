@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.168898,
     "lbl:longitude":-0.811648,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.168898,
     "mps:longitude":-0.811648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carlton-on-Trent"
     ],
@@ -54,7 +57,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.1658,
     "wd:longitude":-0.8066,
     "wd:wordcount":220,
@@ -70,10 +73,12 @@
     "wof:concordances":{
         "gn:id":2653758,
         "gp:id":15201,
-        "qs:id":8,
-        "qs_pg:id":1172955,
+        "qs_pg:id":8,
         "wd:id":"Q2102779",
         "wk:page":"Carlton-on-Trent"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1172955
     },
     "wof:coterminous":[
         404433115
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":101871935,
-    "wof:lastmodified":1561838099,
+    "wof:lastmodified":1566630948,
     "wof:name":"Carlton-on-Trent",
     "wof:parent_id":404433115,
     "wof:placetype":"locality",

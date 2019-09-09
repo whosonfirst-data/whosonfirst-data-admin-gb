@@ -9,14 +9,17 @@
     "geom:bbox":"-1.46526,50.94483,-1.46526,50.94483",
     "geom:latitude":50.94483,
     "geom:longitude":-1.46526,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.47026,50.93983,-1.46026,50.94983",
     "lbl:latitude":50.94483,
     "lbl:longitude":-1.46526,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09b0\u09cd\u09b8\u09b2\u09bf\u0982"
@@ -75,7 +78,7 @@
     "name:tel_x_preferred":[
         "\u0c28\u0c30\u0c4d\u0c38\u0c4d\u0c32\u0c3f\u0c02\u0c17\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nutshalling"
     ],
     "name:urd_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":30749,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1360798055,
-    "wof:lastmodified":1563333122,
+    "wof:lastmodified":1566628510,
     "wof:name":"Nursling",
     "wof:parent_id":1360756303,
     "wof:placetype":"neighbourhood",

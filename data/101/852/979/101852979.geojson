@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.88427,
     "lbl:longitude":-3.99079,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.88427,
     "mps:longitude":-3.99079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Llandeilo"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_preferred":[
         "Llandeilo"
     ],
-    "name:unk_x_variant":[
-        "Llandilo"
-    ],
     "name:zho_x_preferred":[
         "\u862d\u4ee3\u6d1b"
     ],
@@ -99,7 +99,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.8841,
     "wd:longitude":-3.99918,
@@ -117,7 +117,6 @@
         "fct:id":"0aa69bde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2644135,
         "gp:id":26826,
-        "qs:id":974621,
         "qs_pg:id":974621,
         "wd:id":"Q2204179",
         "wk:page":"Llandeilo"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336961,
+    "wof:lastmodified":1566631058,
     "wof:name":"Llandeilo",
     "wof:parent_id":404451815,
     "wof:placetype":"locality",

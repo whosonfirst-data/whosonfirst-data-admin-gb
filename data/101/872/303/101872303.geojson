@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.289367,
     "lbl:longitude":-1.592093,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.289367,
     "mps:longitude":-1.592093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u062f\u06cc\u0644"
     ],
@@ -85,7 +88,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":54.288,
     "wd:longitude":-1.591,
@@ -104,10 +107,12 @@
         "fct:id":"0aa49794-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2656051,
         "gp:id":12205,
-        "qs:id":1037182,
-        "qs_pg:id":1079304,
+        "qs_pg:id":1037182,
         "wd:id":"Q813810",
         "wk:page":"Bedale"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079304
     },
     "wof:coterminous":[
         404439595
@@ -129,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336391,
+    "wof:lastmodified":1566630843,
     "wof:name":"Bedale",
     "wof:parent_id":404439595,
     "wof:placetype":"locality",

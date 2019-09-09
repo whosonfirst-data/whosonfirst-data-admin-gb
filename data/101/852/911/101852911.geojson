@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.80333,
     "lbl:longitude":-1.636665,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.80333,
     "mps:longitude":-1.636665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ang_x_preferred":[
         "Beorgford"
     ],
@@ -130,7 +133,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.808,
     "wd:longitude":-1.637,
@@ -148,10 +151,12 @@
         "fct:id":"0aa16eca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2654312,
         "gp:id":14523,
-        "qs:id":1029410,
         "qs_pg:id":398858,
         "wd:id":"Q2019274",
         "wk:page":"Burford"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1029410
     },
     "wof:coterminous":[
         404435753
@@ -173,7 +178,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563337046,
+    "wof:lastmodified":1566631090,
     "wof:name":"Burford",
     "wof:parent_id":404435753,
     "wof:placetype":"locality",

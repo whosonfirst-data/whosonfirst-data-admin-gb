@@ -11,12 +11,16 @@
     "geom:longitude":-4.435902,
     "gn:population":5091,
     "iso:country":"GB",
+    "lbl:bbox":"-4.455902,55.765941,-4.415902,55.805941",
     "lbl:latitude":55.785941,
     "lbl:longitude":-4.435902,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.785941,
     "mps:longitude":-4.435902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0644\u0633\u062a\u0646"
     ],
@@ -118,7 +122,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698699,
@@ -132,10 +136,12 @@
     "wof:concordances":{
         "gn:id":2641815,
         "gp:id":29759,
-        "qs:id":234059,
-        "qs_pg:id":1190201,
+        "qs_pg:id":234059,
         "wd:id":"Q747777",
         "wk:page":"Neilston"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190201
     },
     "wof:country":"GB",
     "wof:geomhash":"1e7c9c4c71da4ee8ce05bc853b4ff9ad",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":101873503,
-    "wof:lastmodified":1563336158,
+    "wof:lastmodified":1566630764,
     "wof:name":"Neilston",
     "wof:parent_id":404435263,
     "wof:placetype":"locality",

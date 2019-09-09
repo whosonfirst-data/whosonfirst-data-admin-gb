@@ -10,12 +10,15 @@
     "geom:latitude":53.573331,
     "geom:longitude":-1.655745,
     "iso:country":"GB",
+    "lbl:bbox":"-1.660745,53.568331,-1.650745,53.578331",
     "lbl:latitude":53.573331,
     "lbl:longitude":-1.655745,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.573331,
     "mps:longitude":-1.655745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09a8\u09ac\u09bf \u09a1\u09c7\u09b2"
     ],
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043d\u0431\u0456-\u0414\u0435\u0439\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dale"
     ],
     "name:urd_x_preferred":[
@@ -104,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.572,
     "wd:longitude":-1.655,
     "wd:wordcount":678,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":2651600,
         "gp:id":17838,
-        "qs:id":1286805,
         "qs_pg:id":397457,
         "wd:id":"Q3022297",
         "wk:page":"Denby Dale"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1286805
     },
     "wof:country":"GB",
     "wof:geomhash":"ee85568d27f9013441de32e8a2f6ba21",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":1360791049,
-    "wof:lastmodified":1563332729,
+    "wof:lastmodified":1566628322,
     "wof:name":"Denby Dale",
     "wof:parent_id":1260213013,
     "wof:placetype":"neighbourhood",

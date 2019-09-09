@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.873134,
     "lbl:longitude":-2.388478,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.873134,
     "mps:longitude":-2.388478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u064a\u0630\u0631\u0648"
     ],
@@ -145,7 +148,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.8711,
     "wd:longitude":-2.3916,
@@ -162,7 +165,6 @@
     "wof:concordances":{
         "gn:id":2652819,
         "gp:id":16342,
-        "qs:id":1286352,
         "qs_pg:id":1286352,
         "wd:id":"Q1008765",
         "wk:page":"Clitheroe"
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":101873269,
-    "wof:lastmodified":1563336205,
+    "wof:lastmodified":1566630777,
     "wof:name":"Clitheroe",
     "wof:parent_id":404431007,
     "wof:placetype":"locality",

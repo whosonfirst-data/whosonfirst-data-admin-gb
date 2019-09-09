@@ -9,14 +9,17 @@
     "geom:bbox":"-3.02306,54.34046,-3.02306,54.34046",
     "geom:latitude":54.34046,
     "geom:longitude":-3.02306,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.02806,54.33546,-3.01806,54.34546",
     "lbl:latitude":54.34046,
     "lbl:longitude":-3.02306,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Grizedale"
@@ -42,19 +45,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":21930,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698721,
         102191581,
         404451951,
         85633159,
         404227469,
         1126002581,
-        1360698877
+        1360698877,
+        1360698721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1360793081,
-    "wof:lastmodified":1547724846,
+    "wof:lastmodified":1566628357,
     "wof:name":"Grizedale",
     "wof:parent_id":1126002581,
     "wof:placetype":"neighbourhood",

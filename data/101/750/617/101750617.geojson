@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":54.989692,
     "lbl:longitude":-1.627914,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":54.98763,
     "mps:longitude":-1.633844,
     "mz:hierarchy_label":1,
@@ -179,7 +181,7 @@
         "\u30cb\u30e5\u30fc\u30ab\u30c3\u30b9\u30eb\u30fb\u30a2\u30dd\u30f3\u30fb\u30bf\u30a4\u30f3"
     ],
     "name:kan_x_preferred":[
-        "\u0ca8\u0ccd\u0caf\u0cc2\u0c95\u0ccd\u0caf\u0cbe\u0cb8\u0cb2\u0ccd \u0c85\u0caa\u0cbe\u0ca8  \u0c9f\u0cc8\u0ca8\u0ccd"
+        "\u0ca8\u0ccd\u0caf\u0cc2\u0c95\u0ccd\u0caf\u0cbe\u0cb8\u0cb2\u0ccd \u0c85\u0caa\u0cbe\u0ca8 \u0c9f\u0cc8\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10e3\u10d9\u10d0\u10e1\u10da-\u10d0\u10de\u10dd\u10dc-\u10e2\u10d0\u10d8\u10dc\u10d8"
@@ -473,7 +475,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.977778,
     "wd:longitude":-1.613333,
@@ -490,7 +492,6 @@
         "fct:id":"0aa4b1fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2641673,
         "gp:id":30079,
-        "qs:id":239699,
         "qs_pg:id":239699,
         "wd:id":"Q1425428",
         "wk:page":"Newcastle upon Tyne"
@@ -511,7 +512,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336550,
+    "wof:lastmodified":1566630903,
     "wof:megacity":1,
     "wof:name":"Newcastle Upon Tyne",
     "wof:parent_id":1360698961,

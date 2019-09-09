@@ -11,12 +11,15 @@
     "geom:longitude":-2.675368,
     "gn:population":8944,
     "iso:country":"GB",
+    "lbl:bbox":"-2.680368,52.963282,-2.670368,52.973282",
     "lbl:latitude":52.968282,
     "lbl:longitude":-2.675367,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.968282,
     "mps:longitude":-2.675367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u062a\u0686\u0648\u0631\u0686"
     ],
@@ -144,7 +147,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.969,
     "wd:longitude":-2.6827,
@@ -162,10 +165,12 @@
     "wof:concordances":{
         "gn:id":2634128,
         "gp:id":40192,
-        "qs:id":900529,
-        "qs_pg:id":1033281,
+        "qs_pg:id":900529,
         "wd:id":"Q636627",
         "wk:page":"Whitchurch, Shropshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1033281
     },
     "wof:country":"GB",
     "wof:geomhash":"a49eeb6579916eac036a82fdadb94e13",
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":1360790941,
-    "wof:lastmodified":1563333692,
+    "wof:lastmodified":1566628795,
     "wof:name":"Whitchurch",
     "wof:parent_id":1360757761,
     "wof:placetype":"neighbourhood",

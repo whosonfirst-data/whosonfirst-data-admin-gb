@@ -11,8 +11,10 @@
     "geom:longitude":0.056487,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"0.051487,51.6561,0.061487,51.6661",
     "lbl:latitude":51.6611,
     "lbl:longitude":0.056487,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.667227,
     "mps:longitude":0.058004,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Arewater Green"
-    ],
-    "name:unk_x_variant":[
         "Arewater Green"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698551,
         102191581,
         404449997,
         85633159,
         404227469,
         1126058653,
-        1360698979
+        1360698979,
+        1360698551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089560,
-        "qs:id":237467,
         "qs_pg:id":237467
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547726182,
+    "wof:lastmodified":1566627886,
     "wof:name":"Arewater Green",
     "wof:parent_id":1126058653,
     "wof:placetype":"neighbourhood",

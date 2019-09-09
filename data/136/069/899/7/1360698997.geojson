@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":51.875078,
     "lbl:longitude":-0.872165,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.875078,
     "mps:longitude":-0.872165,
     "mz:hierarchy_label":1,
@@ -249,7 +251,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u0456\u043d\u0433\u0435\u043c\u0448\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bucks"
     ],
     "name:urd_x_preferred":[
@@ -355,9 +357,9 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"1,569",
     "statoids:area_mi":"606",
     "statoids:as_of_date":"2011-03-27",
@@ -409,11 +411,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563336075,
+    "wof:lastmodified":1566630712,
     "wof:name":"Buckinghamshire",
     "wof:parent_id":1360698533,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative county",
     "wof:population":505283,
     "wof:population_rank":11,

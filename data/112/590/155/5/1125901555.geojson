@@ -9,15 +9,17 @@
     "geom:bbox":"0.931138630815,51.8913475955,1.02555206769,51.9401947736",
     "geom:latitude":51.919036,
     "geom:longitude":0.975455,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":912,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.92598,
     "lbl:longitude":0.98547,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u09a1\u09b2\u09c7\u09b9"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125901555,
-    "wof:lastmodified":1563341526,
+    "wof:lastmodified":1566635348,
     "wof:name":"Ardleigh",
     "wof:parent_id":404455407,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"-2.93717,56.21261,-2.93717,56.21261",
     "geom:latitude":56.21261,
     "geom:longitude":-2.93717,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.95717,56.19261,-2.91717,56.23261",
     "lbl:latitude":56.21261,
     "lbl:longitude":-2.93717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Lower Largo"
@@ -51,7 +55,7 @@
     "name:spa_x_preferred":[
         "Lower Largo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Largo"
     ],
     "name:urd_x_preferred":[
@@ -78,7 +82,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":27743,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1125960641,
-    "wof:lastmodified":1563341934,
+    "wof:lastmodified":1566635613,
     "wof:name":"Lower Largo",
     "wof:parent_id":404444217,
     "wof:placetype":"locality",

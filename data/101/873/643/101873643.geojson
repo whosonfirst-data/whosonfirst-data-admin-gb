@@ -10,12 +10,16 @@
     "geom:latitude":57.60717,
     "geom:longitude":-3.619144,
     "iso:country":"GB",
+    "lbl:bbox":"-3.639144,57.58717,-3.599144,57.62717",
     "lbl:latitude":57.607171,
     "lbl:longitude":-3.619143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.607171,
     "mps:longitude":-3.619143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ab\u09cb\u09b0\u09c7\u09b8"
     ],
@@ -138,7 +142,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":57.6,
     "wd:longitude":-3.61673,
     "wd:wordcount":1388,
@@ -154,10 +158,12 @@
     "wof:concordances":{
         "gn:id":2649192,
         "gp:id":20455,
-        "qs:id":469506,
-        "qs_pg:id":1299779,
+        "qs_pg:id":469506,
         "wd:id":"Q1010531",
         "wk:page":"Forres"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1299779
     },
     "wof:country":"GB",
     "wof:geomhash":"a1297d4003789fdc6d9210f914b1236c",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":101873643,
-    "wof:lastmodified":1563336165,
+    "wof:lastmodified":1566630766,
     "wof:name":"Forres",
     "wof:parent_id":404446793,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-2.69130596584,52.0204519999,-2.62688044451,52.0677071994",
     "geom:latitude":52.042811,
     "geom:longitude":-2.655829,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":339,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.04016,
     "lbl:longitude":-2.65717,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Hampton Bishop"
@@ -38,9 +40,6 @@
         "Hampton Bishop"
     ],
     "name:swe_x_preferred":[
-        "Hampton Bishop"
-    ],
-    "name:unk_x_variant":[
         "Hampton Bishop"
     ],
     "qs_pg:aaroncc":"GB",
@@ -67,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -106,7 +105,7 @@
         }
     ],
     "wof:id":1126001973,
-    "wof:lastmodified":1563342500,
+    "wof:lastmodified":1566635941,
     "wof:name":"Compton Bishop",
     "wof:parent_id":404433451,
     "wof:placetype":"locality",

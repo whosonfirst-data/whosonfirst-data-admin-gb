@@ -11,8 +11,10 @@
     "geom:longitude":-2.38034,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.38534,53.404249,-2.37534,53.414249",
     "lbl:latitude":53.409249,
     "lbl:longitude":-2.38034,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.4128,
     "mps:longitude":-2.381811,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Woodhouses"
-    ],
-    "name:unk_x_variant":[
         "Woodhouses"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698555,
         102191581,
         404453319,
         85633159,
         404227469,
         1126053065,
-        1360698935
+        1360698935,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":44077,
-        "qs:id":976920,
         "qs_pg:id":976920
     },
     "wof:country":"GB",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547726043,
+    "wof:lastmodified":1566627655,
     "wof:name":"Woodhouses",
     "wof:parent_id":1126053065,
     "wof:placetype":"neighbourhood",

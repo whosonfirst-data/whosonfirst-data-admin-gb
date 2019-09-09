@@ -9,15 +9,17 @@
     "geom:bbox":"-0.265867452773,51.2050330164,-0.170293469951,51.2688330277",
     "geom:latitude":51.232645,
     "geom:longitude":-0.211368,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":52123,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":52123,
     "iso:country":"GB",
     "lbl:latitude":51.23758,
     "lbl:longitude":-0.2078,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0631\u06cc\u0642\u06cc\u062a"
@@ -127,7 +129,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":1126022277,
-    "wof:lastmodified":1563339881,
+    "wof:lastmodified":1566634332,
     "wof:name":"Reigate",
     "wof:parent_id":1360817233,
     "wof:placetype":"locality",

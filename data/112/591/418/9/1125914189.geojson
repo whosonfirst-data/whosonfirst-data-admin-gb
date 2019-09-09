@@ -9,14 +9,18 @@
     "geom:bbox":"-6.4,54.3,-6.4,54.3",
     "geom:latitude":54.3,
     "geom:longitude":-6.4,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-6.42,54.28,-6.38,54.32",
     "lbl:latitude":54.3,
     "lbl:longitude":-6.4,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041f\u043e\u0439\u043d\u0446 \u041f\u0430\u0441"
@@ -54,7 +58,7 @@
     "name:spa_x_preferred":[
         "Poyntzpass"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pointz Pass"
     ],
     "qs_pg:aaroncc":"GB",
@@ -78,7 +82,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":45088,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Northern Ireland",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1125914189,
-    "wof:lastmodified":1563342141,
+    "wof:lastmodified":1566635727,
     "wof:name":"Poyntz Pass",
     "wof:parent_id":1360699225,
     "wof:placetype":"locality",

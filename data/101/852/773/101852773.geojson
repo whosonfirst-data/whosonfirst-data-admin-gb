@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.777204,
     "lbl:longitude":-3.086201,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.777204,
     "mps:longitude":-3.086201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Blaenafon"
     ],
@@ -182,7 +185,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.773631,
     "wd:longitude":-3.082781,
@@ -199,7 +202,6 @@
     "wof:concordances":{
         "gn:id":2655413,
         "gp:id":12939,
-        "qs:id":898628,
         "qs_pg:id":898628,
         "wd:id":"Q804282"
     },
@@ -220,7 +222,7 @@
         }
     ],
     "wof:id":101852773,
-    "wof:lastmodified":1563337069,
+    "wof:lastmodified":1566631096,
     "wof:name":"Blaenavon",
     "wof:parent_id":404443947,
     "wof:placetype":"locality",

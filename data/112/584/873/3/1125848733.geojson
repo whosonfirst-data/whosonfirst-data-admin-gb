@@ -9,15 +9,17 @@
     "geom:bbox":"-2.35569315004,53.6144930192,-2.25678142764,53.6748603739",
     "geom:latitude":53.651385,
     "geom:longitude":-2.297003,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2126,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":2126,
     "iso:country":"GB",
     "lbl:latitude":53.66674,
     "lbl:longitude":-2.30481,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u062f\u0646\u0641\u06cc\u0644\u062f"
@@ -78,7 +80,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1125848733,
-    "wof:lastmodified":1563343012,
+    "wof:lastmodified":1566636272,
     "wof:name":"Edenfield",
     "wof:parent_id":1360817193,
     "wof:placetype":"locality",

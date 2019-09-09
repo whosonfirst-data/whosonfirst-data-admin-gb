@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.500836,
     "lbl:longitude":-0.39106,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.499339,
     "mps:longitude":-0.386593,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":7,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Southall Green"
-    ],
-    "name:unk_x_variant":[
         "Southall Green"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -58,19 +56,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857265
+        1158857265,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089534,
-        "qs:id":1087258,
         "qs_pg:id":1087258
     },
     "wof:country":"GB",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206406,
+    "wof:lastmodified":1566627900,
     "wof:name":"Southall Green",
     "wof:parent_id":1158857265,
     "wof:placetype":"neighbourhood",

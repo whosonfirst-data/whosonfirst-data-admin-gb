@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":53.014654,
     "lbl:longitude":-2.163351,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.014654,
     "mps:longitude":-2.163351,
     "mz:hierarchy_label":1,
@@ -25,9 +27,6 @@
         "City of Stoke-on-Trent"
     ],
     "name:eng_x_variant":[
-        "Stoke-on-Trent"
-    ],
-    "name:unk_x_variant":[
         "Stoke-on-Trent"
     ],
     "ne:abbrev":"Stok-o-T",
@@ -103,9 +102,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"93",
     "statoids:area_mi":"36",
     "statoids:as_of_date":"2011-03-27",
@@ -155,11 +154,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1542396761,
+    "wof:lastmodified":1566630411,
     "wof:name":"City of Stoke-on-Trent",
     "wof:parent_id":1360698593,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary authority",
     "wof:population":249008,
     "wof:population_rank":10,

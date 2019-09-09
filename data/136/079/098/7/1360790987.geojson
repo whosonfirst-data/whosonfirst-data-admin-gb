@@ -11,12 +11,15 @@
     "geom:longitude":-1.406224,
     "gn:population":21097,
     "iso:country":"GB",
+    "lbl:bbox":"-1.411224,53.045162,-1.401224,53.055162",
     "lbl:latitude":53.050163,
     "lbl:longitude":-1.406224,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.050163,
     "mps:longitude":-1.406224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0631\u06cc\u067e\u0644\u06cc"
     ],
@@ -135,7 +138,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.033333,
     "wd:longitude":-1.4,
@@ -153,10 +156,12 @@
     "wof:concordances":{
         "gn:id":2639324,
         "gp:id":33357,
-        "qs:id":1165392,
         "qs_pg:id":1121921,
         "wd:id":"Q936514",
         "wk:page":"Ripley, Derbyshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1165392
     },
     "wof:country":"GB",
     "wof:geomhash":"cfc187daedb0a3ad9878a1c66fe69864",
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360790987,
-    "wof:lastmodified":1563333037,
+    "wof:lastmodified":1566628466,
     "wof:name":"Ripley",
     "wof:parent_id":1243291125,
     "wof:placetype":"neighbourhood",

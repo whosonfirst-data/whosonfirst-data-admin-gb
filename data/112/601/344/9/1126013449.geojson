@@ -9,14 +9,17 @@
     "geom:bbox":"-4.79171611569,50.5728623332,-4.69784783968,50.6392214214",
     "geom:latitude":50.609136,
     "geom:longitude":-4.746496,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.58333,
     "lbl:longitude":-4.73333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "St. Teath"
@@ -45,7 +48,7 @@
     "name:swe_x_preferred":[
         "St. Teath"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint Teath"
     ],
     "qs_pg:aaroncc":"GB",
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1126013449,
-    "wof:lastmodified":1563342440,
+    "wof:lastmodified":1566635910,
     "wof:name":"St. Teath",
     "wof:parent_id":404439899,
     "wof:placetype":"locality",

@@ -9,12 +9,15 @@
     "geom:bbox":"-0.0856234709816,53.5163241968,-0.0458228302183,53.5507005462",
     "geom:latitude":53.531731,
     "geom:longitude":-0.066863,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":53.523,
     "lbl:longitude":-0.055618,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09a8\u09a4\u09c1\u09a8 \u0993\u09af\u09bc\u09be\u09b2\u09a5\u09ae"
@@ -68,7 +71,7 @@
         "New Waltham"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bbf\u0baf\u0bc2  \u0bb5\u0bbe\u0bb2\u0bcd\u0ba4\u0bbe\u0bae\u0bcd"
+        "\u0ba8\u0bbf\u0baf\u0bc2 \u0bb5\u0bbe\u0bb2\u0bcd\u0ba4\u0bbe\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c4d\u0c2f\u0c42 \u0c35\u0c3e\u0c32\u0c4d\u0c25\u0c02"
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1125969277,
-    "wof:lastmodified":1563341994,
+    "wof:lastmodified":1566635652,
     "wof:name":"New Waltham",
     "wof:parent_id":404443409,
     "wof:placetype":"locality",

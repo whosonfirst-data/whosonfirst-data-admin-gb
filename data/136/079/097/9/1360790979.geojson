@@ -11,12 +11,15 @@
     "geom:longitude":-2.151023,
     "gn:population":3342,
     "iso:country":"GB",
+    "lbl:bbox":"-2.156023,53.28404,-2.146023,53.29404",
     "lbl:latitude":53.289041,
     "lbl:longitude":-2.151023,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.289041,
     "mps:longitude":-2.151023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0633\u062a\u0628\u0648\u0631\u064a"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "Prestbury"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prestburg"
     ],
     "name:urd_x_preferred":[
@@ -114,7 +117,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.292842,
     "wd:longitude":-2.145181,
@@ -132,10 +135,12 @@
     "wof:concordances":{
         "gn:id":2634482,
         "gp:id":32552,
-        "qs:id":1036862,
         "qs_pg:id":897751,
         "wd:id":"Q2715192",
         "wk:page":"Prestbury, Cheshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036862
     },
     "wof:country":"GB",
     "wof:geomhash":"a9f45ad94f7fdfcbff7cde03d4edd714",
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360790979,
-    "wof:lastmodified":1563333082,
+    "wof:lastmodified":1566628491,
     "wof:name":"Prestbury",
     "wof:parent_id":1309738991,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-1.84240281322,51.5948849996,-1.75453175163,51.6340813596",
     "geom:latitude":51.614738,
     "geom:longitude":-1.795331,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.6,
     "lbl:longitude":-1.8,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Blunsdon St. Andrew"
@@ -33,7 +36,7 @@
     "name:swe_x_preferred":[
         "Blunsdon St. Andrew"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blunsdon"
     ],
     "qs_pg:aaroncc":"GB",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125839305,
-    "wof:lastmodified":1563343221,
+    "wof:lastmodified":1566636380,
     "wof:name":"Blunsdon St. Andrew",
     "wof:parent_id":404455227,
     "wof:placetype":"locality",

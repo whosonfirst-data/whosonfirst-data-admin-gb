@@ -10,12 +10,15 @@
     "geom:latitude":52.273772,
     "geom:longitude":0.325659,
     "iso:country":"GB",
+    "lbl:bbox":"0.320659,52.268772,0.330659,52.278772",
     "lbl:latitude":52.273773,
     "lbl:longitude":0.32566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.273773,
     "mps:longitude":0.32566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0644"
     ],
@@ -113,7 +116,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         404436691,
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":2654194,
         "gp:id":14706,
-        "qs:id":1057129,
-        "qs_pg:id":1191746,
+        "qs_pg:id":1057129,
         "wd:id":"Q1982669",
         "wk:page":"Burwell, Cambridgeshire"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1191746
     },
     "wof:country":"GB",
     "wof:geomhash":"3f4edbf1531920644ce308bed8407804",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":1360790825,
-    "wof:lastmodified":1563332981,
+    "wof:lastmodified":1566628440,
     "wof:name":"Burwell",
     "wof:parent_id":1260315681,
     "wof:placetype":"neighbourhood",

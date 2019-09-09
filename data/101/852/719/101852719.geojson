@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.346045,
     "lbl:longitude":-2.249796,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.346045,
     "mps:longitude":-2.249796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u062f \u0627\u0648\u0646 \u0627\u0641\u0648\u0646"
     ],
@@ -108,7 +111,7 @@
         "Bradford on Avon"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcd\u0bb0\u0bbe\u0b9f\u0bcd\u0baa\u0bcb\u0bb0\u0bcd\u0b9f  \u0b86\u0ba9\u0bcd  \u0b85\u0bb5\u0bbe\u0ba9\u0bcd"
+        "\u0baa\u0bcd\u0bb0\u0bbe\u0b9f\u0bcd\u0baa\u0bcb\u0bb0\u0bcd\u0b9f \u0b86\u0ba9\u0bcd \u0b85\u0bb5\u0bbe\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c30\u0c3e\u0c21\u0c4d \u0c2b\u0c4b\u0c30\u0c4d\u0c21\u0c4d"
@@ -145,7 +148,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.3469,
     "wd:longitude":-2.251,
@@ -162,10 +165,12 @@
     "wof:concordances":{
         "gn:id":2654991,
         "gp:id":11459,
-        "qs:id":140934,
-        "qs_pg:id":265020,
+        "qs_pg:id":140934,
         "wd:id":"Q896940",
         "wk:page":"Bradford on Avon"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":265020
     },
     "wof:coterminous":[
         404434777
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":101852719,
-    "wof:lastmodified":1563337061,
+    "wof:lastmodified":1566631094,
     "wof:name":"Bradford-on-Avon",
     "wof:parent_id":404434777,
     "wof:placetype":"locality",

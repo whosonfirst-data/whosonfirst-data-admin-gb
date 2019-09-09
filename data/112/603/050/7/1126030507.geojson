@@ -9,15 +9,17 @@
     "geom:bbox":"-0.937893885467,51.0189369996,-0.84955173967,51.0639349965",
     "geom:latitude":51.044247,
     "geom:longitude":-0.88919,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6584,
-    "gn:population":6248,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":6584,
     "iso:country":"GB",
     "lbl:latitude":51.04396,
     "lbl:longitude":-0.89393,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u099c"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1126030507,
-    "wof:lastmodified":1563340388,
+    "wof:lastmodified":1566634658,
     "wof:name":"Liss",
     "wof:parent_id":404445107,
     "wof:placetype":"locality",

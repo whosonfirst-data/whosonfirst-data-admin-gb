@@ -9,15 +9,17 @@
     "geom:bbox":"-0.396665356049,53.0518432172,-0.314012923857,53.0770393452",
     "geom:latitude":53.06662,
     "geom:longitude":-0.366097,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":344,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.06667,
     "lbl:longitude":-0.38333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Dorrington"
@@ -64,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1125873841,
-    "wof:lastmodified":1563341132,
+    "wof:lastmodified":1566635115,
     "wof:name":"Dorrington",
     "wof:parent_id":404431251,
     "wof:placetype":"locality",

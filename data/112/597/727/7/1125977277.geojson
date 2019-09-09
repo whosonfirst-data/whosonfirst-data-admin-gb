@@ -9,15 +9,17 @@
     "geom:bbox":"-4.56164871816,51.7883803479,-4.42353917987,51.8498987374",
     "geom:latitude":51.821485,
     "geom:longitude":-4.490478,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1605,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":1605,
     "iso:country":"GB",
     "lbl:latitude":51.81989,
     "lbl:longitude":-4.49783,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u0995\u09cd\u09b2\u09bf\u09af\u09bc\u09be\u09b0\u09cd\u09b8"
@@ -86,13 +88,10 @@
         "Saint Clears"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b9f  \u0b95\u0bbf\u0bb3\u0bc7\u0bb0\u0bcd\u0bb8\u0bcd"
+        "\u0bb8\u0bcd\u0b9f \u0b95\u0bbf\u0bb3\u0bc7\u0bb0\u0bcd\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c15\u0c4d\u0c32\u0c3f\u0c2f\u0c30\u0c4d\u0c38\u0c4d"
-    ],
-    "name:unk_x_variant":[
-        "Sancl\u00ear"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u06a9\u0644\u06cc\u0627\u0631\u0633"
@@ -123,7 +122,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":35601,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -162,7 +161,7 @@
         }
     ],
     "wof:id":1125977277,
-    "wof:lastmodified":1563341885,
+    "wof:lastmodified":1566635581,
     "wof:name":"St. Clears",
     "wof:parent_id":404434293,
     "wof:placetype":"locality",

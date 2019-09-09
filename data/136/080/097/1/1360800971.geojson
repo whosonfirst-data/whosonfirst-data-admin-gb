@@ -9,16 +9,19 @@
     "geom:bbox":"-1.44058,51.47016,-1.44058,51.47016",
     "geom:latitude":51.47016,
     "geom:longitude":-1.44058,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.44558,51.46516,-1.43558,51.47516",
     "lbl:latitude":51.47016,
     "lbl:longitude":-1.44058,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Little Shefford"
     ],
     "qs_pg:aaroncc":"GB",
@@ -42,19 +45,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":19084,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698529,
         102191581,
         404442991,
         85633159,
         404227469,
         1125986547,
-        1360698857
+        1360698857,
+        1360698529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1360800971,
-    "wof:lastmodified":1547724309,
+    "wof:lastmodified":1566629328,
     "wof:name":"East Shefford",
     "wof:parent_id":1125986547,
     "wof:placetype":"neighbourhood",

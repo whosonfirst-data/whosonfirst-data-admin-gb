@@ -9,15 +9,17 @@
     "geom:bbox":"0.0343573118851,52.1343819031,0.107853062109,52.1742907596",
     "geom:latitude":52.158022,
     "geom:longitude":0.064669,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1585,
-    "gn:population":1507,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":1585,
     "iso:country":"GB",
     "lbl:latitude":52.15016,
     "lbl:longitude":0.05579,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0633\u0644\u064a\u0646\u063a\u0641\u064a\u0644\u062f"
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1125917915,
-    "wof:lastmodified":1563342017,
+    "wof:lastmodified":1566635666,
     "wof:name":"Haslingfield",
     "wof:parent_id":404443675,
     "wof:placetype":"locality",

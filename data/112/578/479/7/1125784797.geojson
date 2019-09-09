@@ -9,15 +9,17 @@
     "geom:bbox":"0.977979327893,51.0813585122,1.02344461993,51.1223048664",
     "geom:latitude":51.102981,
     "geom:longitude":0.998943,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":759,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.10297,
     "lbl:longitude":1.00546,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09b2\u09bf\u09a8\u09cd\u09a1\u09af\u09c7"
@@ -82,7 +84,7 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c47\u0c32\u0c4d\u0c32\u0c3f\u0c02\u0c26\u0c4d\u0c17\u0c47"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sellinge"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1125784797,
-    "wof:lastmodified":1563342738,
+    "wof:lastmodified":1566636105,
     "wof:name":"Sellindge",
     "wof:parent_id":404438955,
     "wof:placetype":"locality",

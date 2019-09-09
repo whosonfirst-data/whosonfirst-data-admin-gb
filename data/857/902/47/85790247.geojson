@@ -11,8 +11,10 @@
     "geom:longitude":-0.897119,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.902119,52.236612,-0.892119,52.246612",
     "lbl:latitude":52.241612,
     "lbl:longitude":-0.897119,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.24289,
     "mps:longitude":-0.903261,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Semilong"
-    ],
-    "name:unk_x_variant":[
         "Semilong"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698577,
         102191581,
         85633159,
         404227469,
         101750459,
-        1360698755
+        1360698755,
+        1360698577
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":34369,
-        "qs:id":1036966,
         "qs_pg:id":1036966
     },
     "wof:country":"GB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542191844,
+    "wof:lastmodified":1566627669,
     "wof:name":"Semilong",
     "wof:parent_id":101750459,
     "wof:placetype":"neighbourhood",

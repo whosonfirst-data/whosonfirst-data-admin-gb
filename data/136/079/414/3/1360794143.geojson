@@ -9,15 +9,17 @@
     "geom:bbox":"-0.00421,51.687,-0.00421,51.687",
     "geom:latitude":51.687,
     "geom:longitude":-0.00421,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18069,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":18069,
     "iso:country":"GB",
+    "lbl:bbox":"-0.00921,51.682,0.00079,51.692",
     "lbl:latitude":51.687,
     "lbl:longitude":-0.00421,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0423\u043e\u043b\u0442\u0445\u044d\u043c-\u042d\u0431\u0456"
@@ -95,10 +97,10 @@
         "Waltham Abbey"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbe\u0bb2\u0bcd\u0ba4\u0bae\u0bcd  \u0b85\u0baa\u0bc7"
+        "\u0bb5\u0bbe\u0bb2\u0bcd\u0ba4\u0bae\u0bcd \u0b85\u0baa\u0bc7"
     ],
     "name:tel_x_preferred":[
-        "\u0c35\u0c3e\u0c32\u0c4d\u0c24\u0c02  \u0c05\u0c2c\u0c4d\u0c2c\u0c47"
+        "\u0c35\u0c3e\u0c32\u0c4d\u0c24\u0c02 \u0c05\u0c2c\u0c4d\u0c2c\u0c47"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0644\u062a\u06be\u0645\u00a0\u0627\u0628\u06d2"
@@ -130,7 +132,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":39070,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":1360794143,
-    "wof:lastmodified":1563332930,
+    "wof:lastmodified":1566628415,
     "wof:name":"Waltham Abbey",
     "wof:parent_id":1360756245,
     "wof:placetype":"neighbourhood",

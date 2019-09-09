@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.923468,
     "lbl:longitude":-1.475258,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.908756,
     "mps:longitude":-1.48952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:amh_x_preferred":[
         "\u12f0\u122d\u1262"
     ],
@@ -268,7 +271,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0431\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Enderby"
     ],
     "name:urd_x_preferred":[
@@ -324,10 +327,12 @@
     "wof:concordances":{
         "gn:id":2650000,
         "gp:id":18114,
-        "qs:id":352018,
         "qs_pg:id":140869,
         "wd:id":"Q43475",
         "wk:page":"Derby"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":352018
     },
     "wof:country":"GB",
     "wof:geomhash":"4d4bac2ee3f4b3b58f842586710c78ef",
@@ -342,7 +347,7 @@
         }
     ],
     "wof:id":101750489,
-    "wof:lastmodified":1563336642,
+    "wof:lastmodified":1566630928,
     "wof:name":"Derby",
     "wof:parent_id":1360699093,
     "wof:placetype":"locality",

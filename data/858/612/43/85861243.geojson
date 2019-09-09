@@ -11,8 +11,10 @@
     "geom:longitude":-0.130837,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.135837,50.84899,-0.125837,50.85899",
     "lbl:latitude":50.85399,
     "lbl:longitude":-0.130837,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.855312,
     "mps:longitude":-0.128575,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Hollingbury"
-    ],
-    "name:unk_x_variant":[
         "Hollingbury"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1216,
     "wof:belongsto":[
-        1360698549,
         102191581,
         85633159,
         404227469,
         101750303,
-        1360699019
+        1360699019,
+        1360698549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20093510,
-        "qs:id":1087336,
         "qs_pg:id":1087336,
         "wd:id":"Q5881429"
     },
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400344,
+    "wof:lastmodified":1566627876,
     "wof:name":"Hollingbury",
     "wof:parent_id":101750303,
     "wof:placetype":"neighbourhood",

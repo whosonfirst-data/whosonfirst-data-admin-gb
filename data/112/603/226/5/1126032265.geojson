@@ -9,15 +9,17 @@
     "geom:bbox":"-1.02580588304,53.0187924349,-0.931377331615,53.0592911109",
     "geom:latitude":53.038313,
     "geom:longitude":-0.976547,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":440,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.03585,
     "lbl:longitude":-0.96499,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0445\u0443\u0440\u0433\u0430\u0440\u0442\u043e\u043d"
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1126032265,
-    "wof:lastmodified":1563340302,
+    "wof:lastmodified":1566634605,
     "wof:name":"Thurgarton",
     "wof:parent_id":404443847,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-2.27606869741,52.2379839147,-2.19135223562,52.3120219243",
     "geom:latitude":52.278727,
     "geom:longitude":-2.234189,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":623,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.27103,
     "lbl:longitude":-2.22883,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0993\u09ae\u09cd\u09ac\u09be\u09b0\u09cd\u09b8\u09b2\u09c7"
@@ -103,7 +105,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1125845133,
-    "wof:lastmodified":1563343133,
+    "wof:lastmodified":1566636330,
     "wof:name":"Ombersley",
     "wof:parent_id":404433421,
     "wof:placetype":"locality",

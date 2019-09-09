@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":51.887493,
     "lbl:longitude":-0.424424,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":51.894955,
     "mps:longitude":-0.43167,
     "mz:hierarchy_label":1,
@@ -326,7 +328,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.9,
     "wd:longitude":-0.433333,
@@ -342,10 +344,12 @@
     "wof:concordances":{
         "gn:id":2643340,
         "gp:id":27998,
-        "qs:id":274230,
-        "qs_pg:id":474099,
+        "qs_pg:id":274230,
         "wd:id":"Q203889",
         "wk:page":"Luton"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":474099
     },
     "wof:country":"GB",
     "wof:geomhash":"971ab239e8734b1c2350ac4adb337b5f",
@@ -360,7 +364,7 @@
         }
     ],
     "wof:id":101750401,
-    "wof:lastmodified":1563336564,
+    "wof:lastmodified":1566630906,
     "wof:name":"Luton",
     "wof:parent_id":1360698783,
     "wof:placetype":"locality",

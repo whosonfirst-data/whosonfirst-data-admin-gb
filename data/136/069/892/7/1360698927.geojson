@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":51.799316,
     "lbl:longitude":-2.180179,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.799316,
     "mps:longitude":-2.180179,
     "mz:hierarchy_label":1,
@@ -255,7 +257,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u043e\u0441\u0442\u0435\u0440\u0448\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gloucester"
     ],
     "name:urd_x_preferred":[
@@ -364,9 +366,9 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"2,654",
     "statoids:area_mi":"1,025",
     "statoids:as_of_date":"2011-03-27",
@@ -416,11 +418,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563335918,
+    "wof:lastmodified":1566630461,
     "wof:name":"Gloucestershire",
     "wof:parent_id":1360698553,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative county",
     "wof:population":596984,
     "wof:population_rank":11,

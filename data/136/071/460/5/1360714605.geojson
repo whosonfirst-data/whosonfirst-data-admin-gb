@@ -9,14 +9,17 @@
     "geom:bbox":"-3.27694,51.60818,-3.27694,51.60818",
     "geom:latitude":51.60818,
     "geom:longitude":-3.27694,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.28194,51.60318,-3.27194,51.61318",
     "lbl:latitude":51.60818,
     "lbl:longitude":-3.27694,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d\u0433\u0445\u0435\u043d\u0438\u0434"
@@ -39,7 +42,7 @@
     "name:nld_x_preferred":[
         "Senghenydd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Senghenith"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":34376,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1360714605,
-    "wof:lastmodified":1563334165,
+    "wof:lastmodified":1566629065,
     "wof:name":"Senghenydd",
     "wof:parent_id":1360711757,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-2.19105,53.78759,-2.19105,53.78759",
     "geom:latitude":53.78759,
     "geom:longitude":-2.19105,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.19605,53.78259,-2.18605,53.79259",
     "lbl:latitude":53.78759,
     "lbl:longitude":-2.19105,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Worsthorne"
@@ -39,7 +42,7 @@
     "name:swe_x_preferred":[
         "Worsthorne"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Worsthorn"
     ],
     "qs_pg:aaroncc":"GB",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":41160,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1360799349,
-    "wof:lastmodified":1563333413,
+    "wof:lastmodified":1566628659,
     "wof:name":"Worsthorne",
     "wof:parent_id":1360755031,
     "wof:placetype":"neighbourhood",

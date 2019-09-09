@@ -9,14 +9,17 @@
     "geom:bbox":"-1.1885,53.51388,-1.1885,53.51388",
     "geom:latitude":53.51388,
     "geom:longitude":-1.1885,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.1935,53.50888,-1.1835,53.51888",
     "lbl:latitude":53.51388,
     "lbl:longitude":-1.1885,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09aa\u099f\u09ac\u09cd\u09b0\u09be\u0997"
@@ -69,7 +72,7 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c2a\u0c4d\u0c30\u0c42\u0c1f\u0c4d\u0c2c\u0c4d\u0c30\u0c4b\u0c17\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sprotboro"
     ],
     "name:urd_x_preferred":[
@@ -96,7 +99,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":35546,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1360803925,
-    "wof:lastmodified":1563334752,
+    "wof:lastmodified":1566629426,
     "wof:name":"Sprotbrough",
     "wof:parent_id":1360759557,
     "wof:placetype":"neighbourhood",

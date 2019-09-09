@@ -9,15 +9,17 @@
     "geom:bbox":"0.633171004712,51.8540106369,0.723509759139,51.9091448451",
     "geom:latitude":51.882936,
     "geom:longitude":0.67699,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4006,
-    "gn:population":4727,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4006,
     "iso:country":"GB",
     "lbl:latitude":51.87077,
     "lbl:longitude":0.68536,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Coggeshall"
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1126051897,
-    "wof:lastmodified":1563340044,
+    "wof:lastmodified":1566634432,
     "wof:name":"Coggeshall",
     "wof:parent_id":404437465,
     "wof:placetype":"locality",

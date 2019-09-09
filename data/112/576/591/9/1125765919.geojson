@@ -9,15 +9,17 @@
     "geom:bbox":"-2.27492491328,52.3062871129,-2.20468628973,52.3611740917",
     "geom:latitude":52.333462,
     "geom:longitude":-2.237203,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1525,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.33333,
     "lbl:longitude":-2.23333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0430\u0440\u0442\u043b\u0435\u0431\u0443\u0440\u0439"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125765919,
-    "wof:lastmodified":1563342602,
+    "wof:lastmodified":1566636008,
     "wof:name":"Hartlebury",
     "wof:parent_id":404438781,
     "wof:placetype":"locality",

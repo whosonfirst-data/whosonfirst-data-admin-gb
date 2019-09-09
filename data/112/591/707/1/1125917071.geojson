@@ -9,15 +9,17 @@
     "geom:bbox":"-2.18721239416,55.693790643,-2.09746712516,55.7405144395",
     "geom:latitude":55.718122,
     "geom:longitude":-2.140827,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":579,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":55.71884,
     "lbl:longitude":-2.16266,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0646\u0648\u0631\u0647\u0627\u0645"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125917071,
-    "wof:lastmodified":1563342026,
+    "wof:lastmodified":1566635670,
     "wof:name":"Norham",
     "wof:parent_id":404437909,
     "wof:placetype":"locality",

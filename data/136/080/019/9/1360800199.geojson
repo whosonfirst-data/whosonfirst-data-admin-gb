@@ -9,15 +9,17 @@
     "geom:bbox":"0.90097,52.80823,0.90097,52.80823",
     "geom:latitude":52.80823,
     "geom:longitude":0.90097,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":694,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"0.89597,52.80323,0.90597,52.81323",
     "lbl:latitude":52.80823,
     "lbl:longitude":0.90097,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Great Ryburgh"
@@ -37,7 +39,7 @@
     "name:spa_x_preferred":[
         "Great Ryburgh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ryburgh"
     ],
     "qs_pg:aaroncc":"GB",
@@ -61,7 +63,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":21714,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1360800199,
-    "wof:lastmodified":1563334973,
+    "wof:lastmodified":1566629557,
     "wof:name":"Great Ryburgh",
     "wof:parent_id":1360758269,
     "wof:placetype":"neighbourhood",

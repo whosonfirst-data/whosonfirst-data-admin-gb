@@ -9,14 +9,17 @@
     "geom:bbox":"-0.03568,53.27541,-0.03568,53.27541",
     "geom:latitude":53.27541,
     "geom:longitude":-0.03568,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-0.04068,53.27041,-0.03068,53.28041",
     "lbl:latitude":53.27541,
     "lbl:longitude":-0.03568,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Oxcombe"
@@ -45,19 +48,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":31269,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698571,
         102191581,
         404450771,
         85633159,
         404227469,
         1360755679,
-        1360699067
+        1360699067,
+        1360698571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1360796423,
-    "wof:lastmodified":1547730263,
+    "wof:lastmodified":1566628421,
     "wof:name":"Oxcombe",
     "wof:parent_id":1360755679,
     "wof:placetype":"neighbourhood",

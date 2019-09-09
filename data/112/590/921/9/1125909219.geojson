@@ -9,15 +9,17 @@
     "geom:bbox":"-1.42653912636,51.1240648817,-1.35076666655,51.1899424965",
     "geom:latitude":51.161522,
     "geom:longitude":-1.386926,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":780,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.1667,
     "lbl:longitude":-1.37848,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Barton Stacey"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125909219,
-    "wof:lastmodified":1563341587,
+    "wof:lastmodified":1566635392,
     "wof:name":"Barton Stacey",
     "wof:parent_id":404449825,
     "wof:placetype":"locality",

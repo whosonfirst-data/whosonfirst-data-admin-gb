@@ -9,15 +9,17 @@
     "geom:bbox":"0.291981257255,50.8053556073,0.378364791453,50.8646710917",
     "geom:latitude":50.834994,
     "geom:longitude":0.336828,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3152,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":3152,
     "iso:country":"GB",
     "lbl:latitude":50.81966,
     "lbl:longitude":0.33963,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09ad\u09c7\u09a8\u09cd\u09b8\u09c7"
@@ -121,7 +123,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":1125805123,
-    "wof:lastmodified":1563341054,
+    "wof:lastmodified":1566635067,
     "wof:name":"Pevensey",
     "wof:parent_id":404431105,
     "wof:placetype":"locality",

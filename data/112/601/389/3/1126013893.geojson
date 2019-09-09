@@ -9,14 +9,17 @@
     "geom:bbox":"-1.27539545203,52.9630109291,-1.23197433798,52.988930568",
     "geom:latitude":52.976421,
     "geom:longitude":-1.253731,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM4",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"ADM4",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.97599,
     "lbl:longitude":-1.25369,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0435\u043b\u0435\u0439"
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1126013893,
-    "wof:lastmodified":1563342433,
+    "wof:lastmodified":1566635906,
     "wof:name":"Strelley",
     "wof:parent_id":404446595,
     "wof:placetype":"locality",

@@ -10,12 +10,15 @@
     "geom:latitude":51.928842,
     "geom:longitude":-1.367558,
     "iso:country":"GB",
+    "lbl:bbox":"-1.372558,51.923842,-1.362558,51.933842",
     "lbl:latitude":51.928843,
     "lbl:longitude":-1.367558,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.928843,
     "mps:longitude":-1.367558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Middle Barton"
     ],
@@ -31,7 +34,7 @@
     "name:spa_x_preferred":[
         "Middle Barton F.C."
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Church Tysoe"
     ],
     "qs:a0":"United Kingdom",
@@ -53,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":323,
     "wof:belongsto":[
         102191581,
@@ -68,9 +71,11 @@
     "wof:concordances":{
         "gn:id":2656220,
         "gp:id":11991,
-        "qs:id":1164471,
         "qs_pg:id":996714,
         "wd:id":"Q6841215"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1164471
     },
     "wof:country":"GB",
     "wof:geomhash":"6f488ab4d6f4e922e2663b150bbf189a",
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":1360790767,
-    "wof:lastmodified":1563332985,
+    "wof:lastmodified":1566628442,
     "wof:name":"Middle Barton",
     "wof:parent_id":1360755085,
     "wof:placetype":"neighbourhood",

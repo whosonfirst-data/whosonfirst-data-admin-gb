@@ -9,12 +9,15 @@
     "geom:bbox":"-2.801035,54.083411,-2.801035,54.083411",
     "geom:latitude":54.083411,
     "geom:longitude":-2.801035,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
+    "lbl:bbox":"-2.806035,54.078411,-2.796035,54.088411",
     "lbl:latitude":54.083411,
     "lbl:longitude":-2.801035,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Slyne"
@@ -40,19 +43,19 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":35015,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698567,
         102191581,
         404451533,
         85633159,
         404227469,
         1360756867,
-        1360698817
+        1360698817,
+        1360698567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1360792255,
-    "wof:lastmodified":1547730897,
+    "wof:lastmodified":1566628719,
     "wof:name":"Slyne",
     "wof:parent_id":1360756867,
     "wof:placetype":"neighbourhood",

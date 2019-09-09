@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":51.378485,
     "lbl:longitude":-2.36767,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.378572,
     "mps:longitude":-2.367934,
     "mz:hierarchy_label":1,
@@ -413,7 +415,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698589,
@@ -429,10 +431,12 @@
         "gn:id":2656173,
         "gp:id":12056,
         "nyt:id":"64706191745168528111",
-        "qs:id":352033,
-        "qs_pg:id":1073312,
+        "qs_pg:id":352033,
         "wd:id":"Q22889",
         "wk:page":"Bath, Somerset"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073312
     },
     "wof:country":"GB",
     "wof:geomhash":"87607ca563ddf60691d2c9d1fd928d46",
@@ -447,7 +451,7 @@
         }
     ],
     "wof:id":101750387,
-    "wof:lastmodified":1563336678,
+    "wof:lastmodified":1566630935,
     "wof:name":"Bath",
     "wof:parent_id":1360698775,
     "wof:placetype":"locality",

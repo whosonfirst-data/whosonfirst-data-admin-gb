@@ -11,8 +11,10 @@
     "geom:longitude":-1.832297,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.837297,51.562592,-1.827297,51.572592",
     "lbl:latitude":51.567592,
     "lbl:longitude":-1.832297,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.569182,
     "mps:longitude":-1.826095,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Ramleaze"
-    ],
-    "name:unk_x_variant":[
         "Ramleaze"
     ],
     "qs:gn_id":0,
@@ -56,19 +55,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698611,
         102191581,
         85633159,
         404227469,
         101750393,
-        1360699033
+        1360699033,
+        1360698611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":32887,
-        "qs:id":37878,
         "qs_pg:id":37878
     },
     "wof:country":"GB",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542400536,
+    "wof:lastmodified":1566627507,
     "wof:name":"Ramleaze",
     "wof:parent_id":101750393,
     "wof:placetype":"neighbourhood",

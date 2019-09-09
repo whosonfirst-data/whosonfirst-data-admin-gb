@@ -11,12 +11,15 @@
     "geom:longitude":-2.522594,
     "gn:population":30812,
     "iso:country":"GB",
+    "lbl:bbox":"-2.527594,53.186769,-2.517594,53.196769",
     "lbl:latitude":53.191768,
     "lbl:longitude":-2.522593,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.191768,
     "mps:longitude":-2.522593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0646\u0633\u0641\u0648\u0631\u062f"
     ],
@@ -121,7 +124,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.194,
     "wd:longitude":-2.52,
@@ -139,10 +142,12 @@
     "wof:concordances":{
         "gn:id":2633811,
         "gp:id":40678,
-        "qs:id":140631,
-        "qs_pg:id":1073946,
+        "qs_pg:id":140631,
         "wd:id":"Q2011679",
         "wk:page":"Winsford"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073946
     },
     "wof:country":"GB",
     "wof:geomhash":"e0b5f6e44de349df00f147487c53487e",
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360790971,
-    "wof:lastmodified":1563333083,
+    "wof:lastmodified":1566628491,
     "wof:name":"Winsford",
     "wof:parent_id":1226681555,
     "wof:placetype":"neighbourhood",

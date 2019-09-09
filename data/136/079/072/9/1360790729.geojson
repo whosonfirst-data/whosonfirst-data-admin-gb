@@ -11,12 +11,15 @@
     "geom:longitude":-4.194868,
     "gn:population":2161,
     "iso:country":"GB",
+    "lbl:bbox":"-4.199868,51.046742,-4.189868,51.056742",
     "lbl:latitude":51.051742,
     "lbl:longitude":-4.194868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.051742,
     "mps:longitude":-4.194868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Appledore"
     ],
@@ -72,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,10 +91,12 @@
         "fct:id":"0aa27806-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2657233,
         "gp:id":20093680,
-        "qs:id":1190653,
         "qs_pg:id":1000699,
         "wd:id":"Q1229094",
         "wk:page":"Appledore, Torridge"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190653
     },
     "wof:country":"GB",
     "wof:geomhash":"91df9ba58e99e5b489d3f45ef26d2fda",
@@ -111,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563333513,
+    "wof:lastmodified":1566628706,
     "wof:name":"Appledore",
     "wof:parent_id":1125929341,
     "wof:placetype":"neighbourhood",

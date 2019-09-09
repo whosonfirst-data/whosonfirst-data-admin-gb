@@ -9,15 +9,17 @@
     "geom:bbox":"-3.90878238882,50.901141356,-3.77652283777,50.9546725951",
     "geom:latitude":50.927852,
     "geom:longitude":-3.842216,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1017,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.91289,
     "lbl:longitude":-3.86938,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0686\u0627\u0644\u0645\u0644\u06cc"
@@ -85,7 +87,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1125800485,
-    "wof:lastmodified":1563340907,
+    "wof:lastmodified":1566634979,
     "wof:name":"Chulmleigh",
     "wof:parent_id":404442525,
     "wof:placetype":"locality",

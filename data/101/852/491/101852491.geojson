@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.159392,
     "lbl:longitude":-3.315575,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.159392,
     "mps:longitude":-3.315575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sampford Brett"
     ],
@@ -51,7 +54,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":636,
     "wof:belongsto":[
         1360698589,
@@ -65,10 +68,12 @@
     "wof:concordances":{
         "gn:id":7291690,
         "gp:id":33945,
-        "qs:id":9,
-        "qs_pg:id":959249,
+        "qs_pg:id":9,
         "wd:id":"Q2053443",
         "wk:page":"Sampford Brett"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":959249
     },
     "wof:coterminous":[
         404447235
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":101852491,
-    "wof:lastmodified":1547718008,
+    "wof:lastmodified":1566631057,
     "wof:name":"Sampford Brett",
     "wof:parent_id":404437207,
     "wof:placetype":"locality",

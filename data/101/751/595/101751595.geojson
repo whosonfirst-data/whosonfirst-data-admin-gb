@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":51.340211,
     "lbl:longitude":-2.972209,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.340481,
     "mps:longitude":-2.965166,
     "mz:hierarchy_label":1,
@@ -239,7 +241,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":51.346111,
     "wd:longitude":-2.976944,
@@ -258,10 +260,12 @@
         "fips:code":"UK01",
         "gn:id":2634308,
         "gp:id":40016,
-        "qs:id":1028816,
-        "qs_pg:id":1040806,
+        "qs_pg:id":1028816,
         "wd:id":"Q845623",
         "wk:page":"Weston-super-Mare"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1040806
     },
     "wof:coterminous":[
         404444501
@@ -280,7 +284,7 @@
         }
     ],
     "wof:id":101751595,
-    "wof:lastmodified":1563336505,
+    "wof:lastmodified":1566630891,
     "wof:name":"Weston-Super-Mare",
     "wof:parent_id":404444501,
     "wof:placetype":"locality",

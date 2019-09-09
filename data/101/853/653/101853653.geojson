@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.525301,
     "lbl:longitude":-2.199373,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.525301,
     "mps:longitude":-2.199373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0989\u09ae\u09ac\u09b0\u09cd\u09a8"
     ],
@@ -76,9 +79,6 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c42\u0c2e\u0c4d\u0c2c\u0c4b\u0c30\u0c4d\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
-        "Wombourn"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u0645\u0628\u0648\u0648\u0631\u0646\u06cc"
     ],
@@ -102,7 +102,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.530222,
     "wd:longitude":-2.185692,
     "wd:wordcount":3222,
@@ -118,10 +118,12 @@
     "wof:concordances":{
         "gn:id":2633683,
         "gp:id":40873,
-        "qs:id":8,
-        "qs_pg:id":224969,
+        "qs_pg:id":8,
         "wd:id":"Q2768862",
         "wk:page":"Wombourne"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":224969
     },
     "wof:coterminous":[
         404443475
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101853653,
-    "wof:lastmodified":1563336792,
+    "wof:lastmodified":1566630986,
     "wof:name":"Wombourne",
     "wof:parent_id":404443475,
     "wof:placetype":"locality",

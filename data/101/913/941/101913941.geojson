@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.551749,
     "lbl:longitude":-2.781264,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.541893,
     "mps:longitude":-2.764971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u06a9\u0644\u0645\u0631\u0633\u062f\u06cc\u0644"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.5495,
     "wd:longitude":-2.7712,
@@ -108,7 +111,7 @@
         "fct:id":"0aa4e334-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2637752,
         "gp:id":34901,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q668237",
         "wk:page":"Skelmersdale"
     },
@@ -128,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336500,
+    "wof:lastmodified":1566630885,
     "wof:name":"Skelmersdale",
     "wof:parent_id":1360698817,
     "wof:placetype":"locality",

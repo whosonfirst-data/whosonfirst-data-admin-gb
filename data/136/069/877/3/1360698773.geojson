@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":52.589759,
     "lbl:longitude":-0.273348,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.589759,
     "mps:longitude":-0.273348,
     "mz:hierarchy_label":1,
@@ -99,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0442\u0435\u0440\u0431\u043e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Peterborough"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0679\u0631\u0628\u0648\u0631\u0648"
     ],
@@ -181,9 +180,9 @@
     "qs:type":"Unitary Authority",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"333",
     "statoids:area_mi":"129",
     "statoids:as_of_date":"2011-03-27",
@@ -234,11 +233,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563336006,
+    "wof:lastmodified":1566630636,
     "wof:name":"City of Peterborough",
     "wof:parent_id":1360698535,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unitary authority",
     "wof:population":183631,
     "wof:population_rank":9,

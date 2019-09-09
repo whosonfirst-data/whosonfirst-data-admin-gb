@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.684645,
     "lbl:longitude":-1.82067,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.684645,
     "mps:longitude":-1.82067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ang_x_preferred":[
         "Liccidfeld"
     ],
@@ -241,7 +244,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.133333,
     "wd:longitude":-2.383333,
@@ -259,10 +262,12 @@
         "fct:id":"0aa25e20-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2644531,
         "gp:id":26222,
-        "qs:id":5,
-        "qs_pg:id":1190006,
+        "qs_pg:id":5,
         "wd:id":"Q207371",
         "wk:page":"Lichfield"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190006
     },
     "wof:coterminous":[
         404447815
@@ -284,7 +289,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336786,
+    "wof:lastmodified":1566630984,
     "wof:name":"Lichfield",
     "wof:parent_id":404447815,
     "wof:placetype":"locality",

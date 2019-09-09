@@ -11,8 +11,10 @@
     "geom:longitude":0.094976,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"0.089976,51.774412,0.099976,51.784412",
     "lbl:latitude":51.779412,
     "lbl:longitude":0.094976,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.786556,
     "mps:longitude":0.093894,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Little Parndon"
-    ],
-    "name:unk_x_variant":[
         "Little Parndon"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698551,
         102191581,
         85633159,
         404227469,
         1360832393,
-        1360698979
+        1360698979,
+        1360698551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":44051,
-        "qs:id":1204842,
         "qs_pg:id":1204842
     },
     "wof:country":"GB",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547717725,
+    "wof:lastmodified":1566627498,
     "wof:name":"Little Parndon",
     "wof:parent_id":1360832393,
     "wof:placetype":"neighbourhood",

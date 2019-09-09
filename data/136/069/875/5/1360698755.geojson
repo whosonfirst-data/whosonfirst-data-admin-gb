@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":52.290223,
     "lbl:longitude":-0.913221,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.290223,
     "mps:longitude":-0.913221,
     "mz:hierarchy_label":1,
@@ -240,7 +242,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0442\u0433\u0435\u043c\u043f\u0442\u043e\u043d\u0448\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Northants"
     ],
     "name:urd_x_preferred":[
@@ -337,9 +339,9 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"2,367",
     "statoids:area_mi":"914",
     "statoids:as_of_date":"2011-03-27",
@@ -394,11 +396,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563335903,
+    "wof:lastmodified":1566630424,
     "wof:name":"Northamptonshire",
     "wof:parent_id":1360698577,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative county",
     "wof:population":691952,
     "wof:population_rank":11,

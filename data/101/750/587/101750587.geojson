@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.793527,
     "lbl:longitude":-2.245586,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":53.793527,
     "mps:longitude":-2.245586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0646\u0644\u064a"
     ],
@@ -196,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":9774,
     "wof:belongsto":[
@@ -211,10 +214,12 @@
     "wof:concordances":{
         "gn:id":2654264,
         "gp:id":14605,
-        "qs:id":140919,
-        "qs_pg:id":1073402,
+        "qs_pg:id":140919,
         "wd:id":"Q209096",
         "wk:page":"Burnley"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073402
     },
     "wof:country":"GB",
     "wof:geomhash":"c31262af2bdc3400b9e396d0ce1720a6",
@@ -230,7 +235,7 @@
         }
     ],
     "wof:id":101750587,
-    "wof:lastmodified":1563336602,
+    "wof:lastmodified":1566630917,
     "wof:name":"Burnley",
     "wof:parent_id":404435039,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"0.63124,52.86268,0.63124,52.86268",
     "geom:latitude":52.86268,
     "geom:longitude":0.63124,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":448,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"0.62624,52.85768,0.63624,52.86768",
     "lbl:latitude":52.86268,
     "lbl:longitude":0.63124,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Great Bircham"
@@ -25,7 +27,7 @@
     "name:pol_x_preferred":[
         "Great Bircham"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bircham"
     ],
     "qs_pg:aaroncc":"GB",
@@ -49,7 +51,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":21570,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1360796907,
-    "wof:lastmodified":1564153064,
+    "wof:lastmodified":1566628744,
     "wof:name":"Great Bircham",
     "wof:parent_id":1360756937,
     "wof:placetype":"neighbourhood",

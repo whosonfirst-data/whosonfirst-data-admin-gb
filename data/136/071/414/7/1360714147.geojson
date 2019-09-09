@@ -9,14 +9,17 @@
     "geom:bbox":"-3.65028,51.58667,-3.65028,51.58667",
     "geom:latitude":51.58667,
     "geom:longitude":-3.65028,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-3.65528,51.58167,-3.64528,51.59167",
     "lbl:latitude":51.58667,
     "lbl:longitude":-3.65028,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Llangynwyd"
@@ -57,7 +60,7 @@
     "name:sco_x_preferred":[
         "Llangynwyd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Llanganoyd"
     ],
     "qs_pg:aaroncc":"GB",
@@ -79,7 +82,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":27015,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1360714147,
-    "wof:lastmodified":1561837929,
+    "wof:lastmodified":1566628929,
     "wof:name":"Llangynwyd",
     "wof:parent_id":1360711423,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.289558,
     "lbl:longitude":-2.902509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.279139,
     "mps:longitude":-2.900106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0644\u0632\u0645\u0631 \u067e\u0648\u0631\u062a"
     ],
@@ -101,7 +104,7 @@
         "Ellesmere Port"
     ],
     "name:tam_x_preferred":[
-        "\u0b8e\u0bb2\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd\u0bae\u0bc6\u0bb0\u0bbf  \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd"
+        "\u0b8e\u0bb2\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd\u0bae\u0bc6\u0bb0\u0bbf \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u042d\u043b\u0441\u043c\u0438\u0440-\u041f\u043e\u0440\u0442"
@@ -136,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.279,
     "wd:longitude":-2.897,
     "wd:wordcount":2239,
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":2650096,
         "gp:id":19484,
-        "qs:id":5321,
         "qs_pg:id":5321,
         "wd:id":"Q1011600",
         "wk:page":"Ellesmere Port"
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":101750513,
-    "wof:lastmodified":1563336674,
+    "wof:lastmodified":1566630935,
     "wof:name":"Ellesmere Port",
     "wof:parent_id":1360698923,
     "wof:placetype":"locality",

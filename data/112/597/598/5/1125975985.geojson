@@ -9,15 +9,17 @@
     "geom:bbox":"0.880428766795,51.8211778602,0.913652976402,51.8461970602",
     "geom:latitude":51.83425,
     "geom:longitude":0.897281,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":831,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.83435,
     "lbl:longitude":0.91084,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Abberton"
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1125975985,
-    "wof:lastmodified":1563341781,
+    "wof:lastmodified":1566635514,
     "wof:name":"Abberton",
     "wof:parent_id":404439963,
     "wof:placetype":"locality",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-24.364576,
     "lbl:longitude":-128.317536,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-24.364576,
     "mps:longitude":-128.317536,
     "mz:hierarchy_label":1,
@@ -428,7 +430,7 @@
         "Pitcairnoeya",
         "Pitcairnoya"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Pitcairn\u00f8ya"
     ],
     "name:urd_x_preferred":[
@@ -586,7 +588,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "statoids:dial":"870",
     "statoids:ds":"",
@@ -602,12 +604,6 @@
     "statoids:marc":"pc",
     "statoids:name":"Pitcairn",
     "statoids:wmo":"PT",
-    "wof:belongs":[
-        102191581,
-        136253055,
-        85633159
-    ],
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         136253055
@@ -624,7 +620,7 @@
         "m49:code":"612",
         "marc:id":"pc",
         "mzb:id":"pitcairn-islands",
-        "qs:id":422984,
+        "qs_pg:id":422984,
         "wd:id":"Q35672",
         "wmo:id":"PT"
     },
@@ -645,7 +641,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1565711192,
+    "wof:lastmodified":1566627810,
     "wof:name":"Pitcairn Islands",
     "wof:parent_id":136253055,
     "wof:placetype":"dependency",

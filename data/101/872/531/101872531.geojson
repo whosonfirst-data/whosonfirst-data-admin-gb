@@ -11,12 +11,16 @@
     "geom:longitude":-3.886681,
     "gn:population":7123,
     "iso:country":"GB",
+    "lbl:bbox":"-3.906681,55.981495,-3.866681,56.021495",
     "lbl:latitude":56.001495,
     "lbl:longitude":-3.886681,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.001495,
     "mps:longitude":-3.886681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09ac\u09a8\u09bf\u09ac\u09cd\u09b0\u09be\u0987\u09a1"
     ],
@@ -118,7 +122,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.003593,
     "wd:longitude":-3.885745,
@@ -135,10 +139,12 @@
     "wof:concordances":{
         "gn:id":2655211,
         "gp:id":13221,
-        "qs:id":974556,
-        "qs_pg:id":1073363,
+        "qs_pg:id":974556,
         "wd:id":"Q1014515",
         "wk:page":"Bonnybridge"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073363
     },
     "wof:country":"GB",
     "wof:geomhash":"98760b28e90b239227a9f78834ec129b",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":101872531,
-    "wof:lastmodified":1563336398,
+    "wof:lastmodified":1566630845,
     "wof:name":"Bonnybridge",
     "wof:parent_id":404451599,
     "wof:placetype":"locality",

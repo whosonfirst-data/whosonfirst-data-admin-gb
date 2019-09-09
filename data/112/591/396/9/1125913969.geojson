@@ -9,14 +9,17 @@
     "geom:bbox":"-0.455100410436,53.791108426,-0.353595968457,53.8387192234",
     "geom:latitude":53.816081,
     "geom:longitude":-0.400074,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.81491,
     "lbl:longitude":-0.40438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0989\u09a1\u09ae\u09cd\u09af\u09be\u09a8\u09b6\u09c7"
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1125913969,
-    "wof:lastmodified":1563342011,
+    "wof:lastmodified":1566635662,
     "wof:name":"Woodmansey",
     "wof:parent_id":404442649,
     "wof:placetype":"locality",

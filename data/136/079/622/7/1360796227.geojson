@@ -9,15 +9,17 @@
     "geom:bbox":"-1.7,54.03333,-1.7,54.03333",
     "geom:latitude":54.03333,
     "geom:longitude":-1.7,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":783,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-1.705,54.02833,-1.695,54.03833",
     "lbl:latitude":54.03333,
     "lbl:longitude":-1.7,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Gerste"
@@ -358,7 +360,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0447\u043c\u0456\u043d\u044c \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Darley"
     ],
     "name:uzb_x_preferred":[
@@ -406,7 +408,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":11868,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -443,7 +445,7 @@
         }
     ],
     "wof:id":1360796227,
-    "wof:lastmodified":1564153018,
+    "wof:lastmodified":1566628681,
     "wof:name":"Barley",
     "wof:parent_id":1360753701,
     "wof:placetype":"neighbourhood",

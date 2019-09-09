@@ -9,15 +9,17 @@
     "geom:bbox":"0.52211,52.41755,0.52211,52.41755",
     "geom:latitude":52.41755,
     "geom:longitude":0.52211,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8590,
-    "gn:population":4369,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":8590,
     "iso:country":"GB",
+    "lbl:bbox":"0.51711,52.41255,0.52711,52.42255",
     "lbl:latitude":52.41755,
     "lbl:longitude":0.52211,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Lakenheath"
@@ -49,7 +51,7 @@
     "name:swe_x_preferred":[
         "Lakenheath"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lake Heath"
     ],
     "qs_pg:aaroncc":"GB",
@@ -73,7 +75,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":32852,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":1360800209,
-    "wof:lastmodified":1563334894,
+    "wof:lastmodified":1566629507,
     "wof:name":"RAF Lakenheath",
     "wof:parent_id":101854843,
     "wof:placetype":"neighbourhood",

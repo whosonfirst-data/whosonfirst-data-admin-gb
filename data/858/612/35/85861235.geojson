@@ -11,8 +11,10 @@
     "geom:longitude":0.246518,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"0.241518,50.813376,0.251518,50.823376",
     "lbl:latitude":50.818376,
     "lbl:longitude":0.246518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.811396,
     "mps:longitude":0.252013,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Wannock"
-    ],
-    "name:unk_x_variant":[
         "Wannock"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698549,
         102191581,
         404447727,
         85633159,
         404227469,
         1125959435,
-        1360698815
+        1360698815,
+        1360698549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20093505,
-        "qs:id":1286007,
         "qs_pg:id":1286007
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547723342,
+    "wof:lastmodified":1566627874,
     "wof:name":"Wannock",
     "wof:parent_id":1125959435,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.864669,
     "lbl:longitude":0.962242,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.855312,
     "mps:longitude":0.957801,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Wivenhoe"
     ],
@@ -98,7 +101,7 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c35\u0c28\u0c4d\u0c2f\u0c41"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wyvenhoe"
     ],
     "name:urd_x_preferred":[
@@ -128,7 +131,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.8582,
     "wd:longitude":0.9653,
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":2633717,
         "gp:id":40822,
-        "qs:id":140621,
         "qs_pg:id":140621,
         "wd:id":"Q1757774",
         "wk:page":"Wivenhoe"
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":101875443,
-    "wof:lastmodified":1563336488,
+    "wof:lastmodified":1566630879,
     "wof:name":"Wivenhoe",
     "wof:parent_id":404452499,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.13089161265,52.787589174,-1.03602226717,52.8246815156",
     "geom:latitude":52.806058,
     "geom:longitude":-1.084176,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1296,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.80536,
     "lbl:longitude":-1.11288,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Wymeswold"
@@ -43,7 +45,7 @@
     "name:swe_x_preferred":[
         "Wymeswold"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wimeswould"
     ],
     "qs_pg:aaroncc":"GB",
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125882233,
-    "wof:lastmodified":1563340725,
+    "wof:lastmodified":1566634865,
     "wof:name":"Wymeswold",
     "wof:parent_id":404448445,
     "wof:placetype":"locality",

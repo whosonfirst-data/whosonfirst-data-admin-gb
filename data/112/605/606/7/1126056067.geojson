@@ -9,15 +9,17 @@
     "geom:bbox":"-0.533557074944,52.378980748,-0.432917424686,52.4208565219",
     "geom:latitude":52.398746,
     "geom:longitude":-0.483073,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":598,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.40677,
     "lbl:longitude":-0.49825,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0438\u0442\u0447\u043c\u0430\u0440\u0448"
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1126056067,
-    "wof:lastmodified":1563340117,
+    "wof:lastmodified":1566634479,
     "wof:name":"Titchmarsh",
     "wof:parent_id":404438379,
     "wof:placetype":"locality",

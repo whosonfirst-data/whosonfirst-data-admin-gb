@@ -9,15 +9,17 @@
     "geom:bbox":"1.57481960666,52.7524525861,1.64336590031,52.7966261141",
     "geom:latitude":52.773892,
     "geom:longitude":1.608825,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":451,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.78558,
     "lbl:longitude":1.601,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Sea Palling"
@@ -49,7 +51,7 @@
     "name:swe_x_preferred":[
         "Sea Palling"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palling"
     ],
     "qs_pg:aaroncc":"GB",
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1125881521,
-    "wof:lastmodified":1563340706,
+    "wof:lastmodified":1566634856,
     "wof:name":"Sea Palling",
     "wof:parent_id":404451161,
     "wof:placetype":"locality",

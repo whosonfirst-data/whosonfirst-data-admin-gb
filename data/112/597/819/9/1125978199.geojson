@@ -9,15 +9,17 @@
     "geom:bbox":"0.457791205768,52.3080465363,0.502979367272,52.3456728081",
     "geom:latitude":52.328886,
     "geom:longitude":0.482474,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":526,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.33505,
     "lbl:longitude":0.48748,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Worlington"
@@ -61,7 +63,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":1125978199,
-    "wof:lastmodified":1563341662,
+    "wof:lastmodified":1566635436,
     "wof:name":"Worlington",
     "wof:parent_id":404435731,
     "wof:placetype":"locality",

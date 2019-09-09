@@ -9,15 +9,17 @@
     "geom:bbox":"-1.01892928636,51.9054080773,-0.933208649911,51.9559571958",
     "geom:latitude":51.935632,
     "geom:longitude":-0.980378,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2312,
-    "gn:population":2114,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2312,
     "iso:country":"GB",
     "lbl:latitude":51.93643,
     "lbl:longitude":-0.98328,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u062a\u064a\u0628\u0644 \u0643\u0644\u064a\u062f\u0646"
@@ -52,7 +54,7 @@
     "name:swe_x_preferred":[
         "Steeple Claydon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Claydon"
     ],
     "qs_pg:aaroncc":"GB",
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125894845,
-    "wof:lastmodified":1563340816,
+    "wof:lastmodified":1566634921,
     "wof:name":"Steeple Claydon",
     "wof:parent_id":404444485,
     "wof:placetype":"locality",

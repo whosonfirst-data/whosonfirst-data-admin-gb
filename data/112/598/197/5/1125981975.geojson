@@ -9,15 +9,17 @@
     "geom:bbox":"-0.738497991491,53.5848275758,-0.685967298049,53.6085423809",
     "geom:latitude":53.594378,
     "geom:longitude":-0.717215,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2253,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":2253,
     "iso:country":"GB",
     "lbl:latitude":53.5908,
     "lbl:longitude":-0.72834,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09a8\u09c7\u09b8"
@@ -76,7 +78,7 @@
     "name:tel_x_preferred":[
         "\u0c17\u0c41\u0c28\u0c4d\u0c28\u0c3f\u0c38\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gunhouse"
     ],
     "name:urd_x_preferred":[
@@ -104,7 +106,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":1125981975,
-    "wof:lastmodified":1563342256,
+    "wof:lastmodified":1566635792,
     "wof:name":"Gunness",
     "wof:parent_id":404431199,
     "wof:placetype":"locality",

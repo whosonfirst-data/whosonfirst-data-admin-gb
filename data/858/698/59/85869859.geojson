@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.546024,
     "lbl:longitude":-0.260214,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.546335,
     "mps:longitude":-0.263706,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":7,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Neasden and Stonebridge"
-    ],
-    "name:unk_x_variant":[
         "Neasden and Stonebridge"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +57,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857267
+        1158857267,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835388,
-        "qs:id":221661,
         "qs_pg:id":221661
     },
     "wof:country":"GB",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206427,
+    "wof:lastmodified":1566627894,
     "wof:name":"Neasden and Stonebridge",
     "wof:parent_id":1158857267,
     "wof:placetype":"neighbourhood",

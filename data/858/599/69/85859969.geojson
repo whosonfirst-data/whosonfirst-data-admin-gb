@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.56961,
     "lbl:longitude":-0.344206,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.565955,
     "mps:longitude":-0.355014,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
     ],
     "name:hin_x_preferred":[
         "\u0930\u0949\u0915\u094d\u0938\u0947\u0925"
-    ],
-    "name:unk_x_variant":[
-        "Roxeth"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
@@ -64,20 +62,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":482,
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857263
+        1158857263,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089307,
-        "qs:id":1154081,
         "qs_pg:id":1154081,
         "wd:id":"Q7372433"
     },
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206397,
+    "wof:lastmodified":1566627866,
     "wof:name":"Roxeth",
     "wof:parent_id":1158857263,
     "wof:placetype":"neighbourhood",

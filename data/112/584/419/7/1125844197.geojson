@@ -9,15 +9,17 @@
     "geom:bbox":"0.926235611589,52.1986993748,0.99376836642,52.249014992",
     "geom:latitude":52.223081,
     "geom:longitude":0.968757,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1285,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.21907,
     "lbl:longitude":0.968,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0430\u0443\u0433\u0445\u043b\u0435\u0439"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125844197,
-    "wof:lastmodified":1563343081,
+    "wof:lastmodified":1566636306,
     "wof:name":"Haughley",
     "wof:parent_id":404436575,
     "wof:placetype":"locality",

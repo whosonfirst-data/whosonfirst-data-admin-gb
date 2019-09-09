@@ -9,12 +9,15 @@
     "geom:bbox":"-0.0590534484386,51.7680393065,-0.0219296902951,51.8001173473",
     "geom:latitude":51.782458,
     "geom:longitude":-0.039988,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":51.787168,
     "lbl:longitude":-0.042899,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u09cd\u099f\u09ab\u09cb\u09b0\u09cd\u09a1 \u09b9\u09bf\u09a5"
@@ -68,7 +71,7 @@
         "Hertford Heath"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bc6\u0bb0\u0bcd\u0b9f\u0bcd\u0baa\u0bcb\u0bb0\u0bcd\u0b9f  \u0bb9\u0bc0\u0ba4\u0bcd"
+        "\u0bb9\u0bc6\u0bb0\u0bcd\u0b9f\u0bcd\u0baa\u0bcb\u0bb0\u0bcd\u0b9f \u0bb9\u0bc0\u0ba4\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c3e\u0c30\u0c4d\u0c1f\u0c4d \u0c2b\u0c4b\u0c30\u0c4d\u0c21\u0c4d \u0c39\u0c40\u0c24\u0c4d"
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1126000059,
-    "wof:lastmodified":1563342524,
+    "wof:lastmodified":1566635957,
     "wof:name":"Hertford Heath",
     "wof:parent_id":404449905,
     "wof:placetype":"locality",

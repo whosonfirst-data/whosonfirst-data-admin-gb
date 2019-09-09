@@ -9,14 +9,17 @@
     "geom:bbox":"-5.20785,50.07849,-5.20785,50.07849",
     "geom:latitude":50.07849,
     "geom:longitude":-5.20785,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-5.21285,50.07349,-5.20285,50.08349",
     "lbl:latitude":50.07849,
     "lbl:longitude":-5.20785,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Meugan"
@@ -24,7 +27,7 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0443\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mawgan in Meneage"
     ],
     "qs_pg:aaroncc":"GB",
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":28551,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1360797427,
-    "wof:lastmodified":1564153150,
+    "wof:lastmodified":1566628849,
     "wof:name":"Mawgan",
     "wof:parent_id":1360755161,
     "wof:placetype":"neighbourhood",

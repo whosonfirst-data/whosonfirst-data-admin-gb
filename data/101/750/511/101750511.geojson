@@ -13,6 +13,8 @@
     "iso:country":"GB",
     "lbl:latitude":53.190608,
     "lbl:longitude":-2.906634,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":53.207393,
     "mps:longitude":-2.881343,
     "mz:hierarchy_label":1,
@@ -371,7 +373,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.2,
     "wd:longitude":-2.883333,
@@ -388,10 +390,12 @@
         "gn:id":2653221,
         "gp:id":15837,
         "loc:id":"n80138689",
-        "qs:id":1037124,
         "qs_pg:id":963452,
         "wd:id":"Q170263",
         "wk:page":"Chester"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037124
     },
     "wof:country":"GB",
     "wof:geomhash":"b656a38e2a25b34fe2bd4a36539ebea4",
@@ -406,7 +410,7 @@
         }
     ],
     "wof:id":101750511,
-    "wof:lastmodified":1563336599,
+    "wof:lastmodified":1566630916,
     "wof:name":"Chester",
     "wof:parent_id":1360698923,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":57.64802,
     "geom:longitude":-3.320025,
     "iso:country":"GB",
+    "lbl:bbox":"-3.340025,57.62802,-3.300025,57.66802",
     "lbl:latitude":57.648022,
     "lbl:longitude":-3.320025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.648022,
     "mps:longitude":-3.320025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644\u063a\u064a\u0646"
     ],
@@ -168,7 +172,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":57.646389,
     "wd:longitude":-3.315278,
     "wd:wordcount":4953,
@@ -184,10 +188,12 @@
     "wof:concordances":{
         "gn:id":2650122,
         "gp:id":19450,
-        "qs:id":279037,
-        "qs_pg:id":1056952,
+        "qs_pg:id":279037,
         "wd:id":"Q841074",
         "wk:page":"Elgin, Moray"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1056952
     },
     "wof:country":"GB",
     "wof:geomhash":"7b41e385cd9bf90ba1e0ae6d332f42d2",
@@ -203,7 +209,7 @@
         }
     ],
     "wof:id":101873635,
-    "wof:lastmodified":1563336204,
+    "wof:lastmodified":1566630777,
     "wof:name":"Elgin",
     "wof:parent_id":404446793,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-2.49619361445,51.4977818693,-2.41028017132,51.5456747186",
     "geom:latitude":51.519218,
     "geom:longitude":-2.454654,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":575,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.51605,
     "lbl:longitude":-2.43416,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09be\u09b0\u09b2\u09c7\u0987"
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1125870131,
-    "wof:lastmodified":1563341090,
+    "wof:lastmodified":1566635090,
     "wof:name":"Westerleigh",
     "wof:parent_id":404446925,
     "wof:placetype":"locality",

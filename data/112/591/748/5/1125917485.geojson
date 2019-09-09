@@ -9,15 +9,17 @@
     "geom:bbox":"-2.03911047216,52.643338609,-1.99472124353,52.6727344346",
     "geom:latitude":52.656496,
     "geom:longitude":-2.015046,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":19193,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":19193,
     "iso:country":"GB",
     "lbl:latitude":52.66277,
     "lbl:longitude":-2.01111,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09c7\u099f \u09ac\u09bf\u09b0\u09cd\u09b2\u09c7"
@@ -71,7 +73,7 @@
         "Great Wyrley"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd  \u0bb5\u0bcd\u0baf\u0bcd\u0bb0\u0bb2\u0bc7"
+        "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0bb5\u0bcd\u0baf\u0bcd\u0bb0\u0bb2\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c47\u0c1f\u0c4d \u0c35\u0c48\u0c30\u0c4d\u0c32\u0c3f"
@@ -79,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0435\u0439\u0442 \u0412\u0456\u0440\u043b\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wyrley"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125917485,
-    "wof:lastmodified":1563342098,
+    "wof:lastmodified":1566635706,
     "wof:name":"Great Wyrley",
     "wof:parent_id":404431349,
     "wof:placetype":"locality",

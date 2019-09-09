@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.346732,
     "lbl:longitude":0.211584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.346732,
     "mps:longitude":0.211584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u062a\u0647\u0627\u0645"
     ],
@@ -105,7 +108,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.35,
     "wd:longitude":0.22,
     "wd:wordcount":3184,
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2636661,
         "gp:id":36482,
-        "qs:id":905695,
         "qs_pg:id":905695,
         "wd:id":"Q655898",
         "wk:page":"Stretham"
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":101854911,
-    "wof:lastmodified":1563336890,
+    "wof:lastmodified":1566631029,
     "wof:name":"Stretham",
     "wof:parent_id":404434321,
     "wof:placetype":"locality",

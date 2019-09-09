@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.485061,
     "lbl:longitude":-2.434034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.485061,
     "mps:longitude":-2.434034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Pucklechurch"
     ],
@@ -79,7 +82,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.4833,
     "wd:longitude":-2.43333,
@@ -96,10 +99,12 @@
     "wof:concordances":{
         "gn:id":3345395,
         "gp:id":32653,
-        "qs:id":848241,
         "qs_pg:id":265139,
         "wd:id":"Q7258264",
         "wk:page":"Pucklechurch"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":848241
     },
     "wof:coterminous":[
         404435515
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101852753,
-    "wof:lastmodified":1563336916,
+    "wof:lastmodified":1566631041,
     "wof:name":"Pucklechurch",
     "wof:parent_id":404435515,
     "wof:placetype":"locality",

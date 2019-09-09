@@ -9,15 +9,17 @@
     "geom:bbox":"-1.37235176972,53.4422847188,-1.29772110103,53.4780403409",
     "geom:latitude":53.464311,
     "geom:longitude":-1.33683,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18616,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":18616,
     "iso:country":"GB",
     "lbl:latitude":53.46062,
     "lbl:longitude":-1.34437,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b0\u09ae\u09be\u09b0\u09cd\u09b6"
@@ -111,7 +113,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1125848587,
-    "wof:lastmodified":1563343041,
+    "wof:lastmodified":1566636284,
     "wof:name":"Rawmarsh",
     "wof:parent_id":1360817063,
     "wof:placetype":"locality",

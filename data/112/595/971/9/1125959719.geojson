@@ -9,12 +9,15 @@
     "geom:bbox":"0.132958505541,51.6575701551,0.167976758795,51.7082410469",
     "geom:latitude":51.677596,
     "geom:longitude":0.153128,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":51.669896,
     "lbl:longitude":0.155611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u09a1\u09a8 \u09ae\u09be\u0989\u09a8\u09cd\u099f"
@@ -74,7 +77,7 @@
         "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd -\u0b95\u0bc1\u0bae\u0bcd -\u0b9f\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
-        "\u0c26\u0c3f\u0c2f\u0c4d\u0c21\u0c3e\u0c28\u0c4d  \u0c2e\u0c4c\u0c02\u0c1f\u0c4d"
+        "\u0c26\u0c3f\u0c2f\u0c4d\u0c21\u0c3e\u0c28\u0c4d \u0c2e\u0c4c\u0c02\u0c1f\u0c4d"
     ],
     "name:urd_x_preferred":[
         "\u062a\u06be\u06cc\u06cc\u062f\u0648\u0646\u00a0\u0645\u0648\u0646\u0679"
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1125959719,
-    "wof:lastmodified":1563339814,
+    "wof:lastmodified":1566634286,
     "wof:name":"Theydon Mount",
     "wof:parent_id":404435711,
     "wof:placetype":"locality",

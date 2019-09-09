@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.554015,
     "lbl:longitude":-2.566421,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.554015,
     "mps:longitude":-2.566421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u098f\u09b2\u09cd\u09ae\u09a8\u09cd\u09a1\u09ac\u09cd\u09af\u09c1\u09b0\u09bf"
     ],
@@ -100,7 +103,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.5567,
     "wd:longitude":-2.5725,
@@ -117,10 +120,12 @@
     "wof:concordances":{
         "gn:id":2657450,
         "gp:id":10673,
-        "qs:id":141032,
-        "qs_pg:id":1073278,
+        "qs_pg:id":141032,
         "wd:id":"Q2665491",
         "wk:page":"Almondsbury"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073278
     },
     "wof:coterminous":[
         404446115
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101852759,
-    "wof:lastmodified":1563337012,
+    "wof:lastmodified":1566631078,
     "wof:name":"Almondsbury",
     "wof:parent_id":404446115,
     "wof:placetype":"locality",

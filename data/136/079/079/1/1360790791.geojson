@@ -9,14 +9,17 @@
     "geom:bbox":"-1.857673,52.164882,-1.857673,52.164882",
     "geom:latitude":52.164882,
     "geom:longitude":-1.857673,
-    "geonames:id":"2655705,6640065",
+    "gn:id":"2655705,6640065",
     "iso:country":"GB",
+    "lbl:bbox":"-1.862673,52.159882,-1.852673,52.169882",
     "lbl:latitude":52.164882,
     "lbl:longitude":-1.857672,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.164882,
     "mps:longitude":-1.857672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Bidford-on-avon"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_variant":[
         "Bidford-on-Avon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bidford"
     ],
     "qs:a0":"United Kingdom",
@@ -69,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.164381,
     "wd:longitude":-1.856681,
     "wd:wordcount":914,
@@ -86,9 +89,11 @@
     "wof:concordances":{
         "gn:id":6640065,
         "gp:id":12574,
-        "qs:id":8,
-        "qs_pg:id":898596,
+        "qs_pg:id":8,
         "wd:id":"Q1770280"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":898596
     },
     "wof:country":"GB",
     "wof:geomhash":"67a19048a6b7c02288385678b023b558",
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":1360790791,
-    "wof:lastmodified":1563332897,
+    "wof:lastmodified":1566628400,
     "wof:name":"Bidford-on-Avon",
     "wof:parent_id":1276903945,
     "wof:placetype":"neighbourhood",

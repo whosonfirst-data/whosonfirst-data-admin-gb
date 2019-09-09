@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.854716,
     "lbl:longitude":-1.598836,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.854716,
     "mps:longitude":-1.598836,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Shipton-under-Wychwood"
     ],
@@ -48,9 +51,6 @@
     "name:swe_x_preferred":[
         "Shipton-under-Wychwood"
     ],
-    "name:unk_x_variant":[
-        "Shipton"
-    ],
     "qs:a0":"United Kingdom",
     "qs:a1":"*Oxfordshire",
     "qs:a1_lc":"GB12380000",
@@ -72,7 +72,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.86,
     "wd:longitude":-1.596,
@@ -90,9 +90,11 @@
         "fct:id":"0aa12fe6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2637948,
         "gp:id":34661,
-        "qs:id":216210,
-        "qs_pg:id":1326113,
+        "qs_pg:id":216210,
         "wd:id":"Q2111981"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1326113
     },
     "wof:coterminous":[
         404434669
@@ -114,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563337058,
+    "wof:lastmodified":1566631093,
     "wof:name":"Shipton under Wychwood",
     "wof:parent_id":404434669,
     "wof:placetype":"locality",

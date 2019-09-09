@@ -10,12 +10,15 @@
     "geom:latitude":52.267628,
     "geom:longitude":-2.152951,
     "iso:country":"GB",
+    "lbl:bbox":"-2.157951,52.262628,-2.147951,52.272628",
     "lbl:latitude":52.267629,
     "lbl:longitude":-2.15295,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.267629,
     "mps:longitude":-2.15295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u062f\u0631\u0648\u06cc\u0648\u06cc\u0686 \u0627\u0633\u067e\u0627"
     ],
@@ -92,7 +95,7 @@
         "Droitwich Spa"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bcd\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0bb5\u0bbf\u0b9a\u0bcd  \u0bb8\u0bcd\u0baa\u0bbe"
+        "\u0b9f\u0bcd\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0bb5\u0bbf\u0b9a\u0bcd \u0bb8\u0bcd\u0baa\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c4d\u0c30\u0c48\u0c1f\u0c4d \u0c35\u0c3f\u0c1a\u0c4d \u0c38\u0c4d\u0c2a\u0c3e"
@@ -119,7 +122,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.267,
     "wd:longitude":-2.153,
     "wd:wordcount":2930,
@@ -136,10 +139,12 @@
     "wof:concordances":{
         "gn:id":2650983,
         "gp:id":18505,
-        "qs:id":5,
-        "qs_pg:id":1286897,
+        "qs_pg:id":5,
         "wd:id":"Q1260116",
         "wk:page":"Droitwich Spa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1286897
     },
     "wof:country":"GB",
     "wof:geomhash":"78c9c6b942320d6fb9edbe34e5064721",
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":1360790785,
-    "wof:lastmodified":1563332996,
+    "wof:lastmodified":1566628446,
     "wof:name":"Droitwich Spa",
     "wof:parent_id":1226570133,
     "wof:placetype":"neighbourhood",

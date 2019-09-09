@@ -9,15 +9,18 @@
     "geom:bbox":"-2.70229,56.22315,-2.70229,56.22315",
     "geom:latitude":56.22315,
     "geom:longitude":-2.70229,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3527,
-    "gn:population":3420,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":3527,
     "iso:country":"GB",
+    "lbl:bbox":"-2.72229,56.20315,-2.68229,56.24315",
     "lbl:latitude":56.22315,
     "lbl:longitude":-2.70229,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u043d\u0441\u0442\u0440\u0443\u0442\u0445\u0435\u0440"
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0441\u0442\u0440\u0443\u0442\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "West Anstruther"
     ],
     "qs_pg:aaroncc":"GB",
@@ -112,7 +115,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":10852,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1125893347,
-    "wof:lastmodified":1563340849,
+    "wof:lastmodified":1566634941,
     "wof:name":"Anstruther",
     "wof:parent_id":404444217,
     "wof:placetype":"locality",

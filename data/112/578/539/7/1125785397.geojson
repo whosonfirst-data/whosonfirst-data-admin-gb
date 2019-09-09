@@ -9,15 +9,17 @@
     "geom:bbox":"-2.13785537496,51.4822413341,-2.09153921593,51.5158080491",
     "geom:latitude":51.495928,
     "geom:longitude":-2.115668,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":841,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.48877,
     "lbl:longitude":-2.11663,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Kington Langley"
@@ -271,7 +273,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -310,7 +312,7 @@
         }
     ],
     "wof:id":1125785397,
-    "wof:lastmodified":1563342791,
+    "wof:lastmodified":1566636143,
     "wof:name":"Kington Langley",
     "wof:parent_id":404431673,
     "wof:placetype":"locality",

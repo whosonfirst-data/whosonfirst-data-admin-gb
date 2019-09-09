@@ -9,14 +9,17 @@
     "geom:bbox":"-3.09431244503,54.5954365942,-2.99554729985,54.649594185",
     "geom:latitude":54.62589,
     "geom:longitude":-3.044584,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.61965,
     "lbl:longitude":-3.04991,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062a\u0631\u0644\u06a9\u0644\u062f"
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125881765,
-    "wof:lastmodified":1563340788,
+    "wof:lastmodified":1566634901,
     "wof:name":"Threlkeld",
     "wof:parent_id":404432185,
     "wof:placetype":"locality",

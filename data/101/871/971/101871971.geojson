@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.06672,
     "lbl:longitude":-2.512892,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.06672,
     "mps:longitude":-2.512892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0646\u0627\u0646\u062a\u200c\u0648\u06cc\u0686"
     ],
@@ -136,7 +139,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.067,
     "wd:longitude":-2.522,
@@ -153,7 +156,6 @@
     "wof:concordances":{
         "gn:id":2641892,
         "gp:id":29677,
-        "qs:id":140728,
         "qs_pg:id":140728,
         "wd:id":"Q1077003",
         "wk:page":"Nantwich"
@@ -175,7 +177,7 @@
         }
     ],
     "wof:id":101871971,
-    "wof:lastmodified":1563336706,
+    "wof:lastmodified":1566630946,
     "wof:name":"Nantwich",
     "wof:parent_id":404440827,
     "wof:placetype":"locality",

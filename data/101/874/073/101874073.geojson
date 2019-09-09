@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.943851,
     "lbl:longitude":1.212498,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.943851,
     "mps:longitude":1.212498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0634\u0631\u06cc\u0646\u0642\u0647\u0627\u0645"
     ],
@@ -130,7 +133,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.933333,
     "wd:longitude":1.216667,
@@ -148,10 +151,12 @@
         "fct:id":"0aa3ac3a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2638019,
         "gp:id":34589,
-        "qs:id":20681,
-        "qs_pg:id":1037093,
+        "qs_pg:id":20681,
         "wd:id":"Q239496",
         "wk:page":"Sheringham"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037093
     },
     "wof:coterminous":[
         404433809
@@ -173,7 +178,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336133,
+    "wof:lastmodified":1566630755,
     "wof:name":"Sheringham",
     "wof:parent_id":404433809,
     "wof:placetype":"locality",

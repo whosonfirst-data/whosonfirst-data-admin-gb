@@ -15,6 +15,8 @@
     "iso:country":"GB",
     "lbl:latitude":51.78067,
     "lbl:longitude":-1.38653,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.78067,
     "mps:longitude":-1.38653,
     "mz:hierarchy_label":1,
@@ -258,7 +260,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0441\u0444\u043e\u0440\u0434\u0448\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oxon"
     ],
     "name:urd_x_preferred":[
@@ -370,9 +372,9 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-27",
+    "src:population_date":"2011-03-27",
     "statoids:area_km":"2,603",
     "statoids:area_mi":"1,005",
     "statoids:as_of_date":"2011-03-27",
@@ -427,11 +429,10 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1563336008,
+    "wof:lastmodified":1566630637,
     "wof:name":"Oxfordshire",
     "wof:parent_id":1360698585,
     "wof:placetype":"county",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative county",
     "wof:population":653798,
     "wof:population_rank":11,

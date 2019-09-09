@@ -12,8 +12,10 @@
     "gn:latitude":53.75,
     "gn:longitude":-3.01667,
     "iso:country":"GB",
+    "lbl:bbox":"-3.001914,53.739675,-2.991914,53.749675",
     "lbl:latitude":53.744675,
     "lbl:longitude":-2.996914,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.750982,
     "mps:longitude":-2.989575,
     "mz:hierarchy_label":0,
@@ -40,9 +42,8 @@
         "St. Anne's",
         "St. Anne's on Sea"
     ],
-    "name:unk_x_variant":[
-        "Saint Anne\u2019s on Sea",
-        "St. Annes on the Sea"
+    "name:und_x_variant":[
+        "Saint Anne\u2019s on Sea"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
@@ -74,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -87,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2638861,
         "gp:id":35571,
-        "qs:id":974944,
         "qs_pg:id":974944
     },
     "wof:country":"GB",
@@ -107,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1559950520,
+    "wof:lastmodified":1566627666,
     "wof:name":"St. Annes on the Sea",
     "wof:parent_id":101872281,
     "wof:placetype":"neighbourhood",

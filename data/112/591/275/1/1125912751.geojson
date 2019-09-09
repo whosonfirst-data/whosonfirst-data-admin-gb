@@ -9,14 +9,17 @@
     "geom:bbox":"-0.275719021655,53.4169498452,-0.177655823523,53.444997267",
     "geom:latitude":53.433812,
     "geom:longitude":-0.237184,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.43249,
     "lbl:longitude":-0.23404,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Stainton Le Vale"
@@ -39,7 +42,7 @@
     "name:swe_x_preferred":[
         "Stainton Le Vale"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stainton"
     ],
     "qs_pg:aaroncc":"GB",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125912751,
-    "wof:lastmodified":1563342052,
+    "wof:lastmodified":1566635684,
     "wof:name":"Stainton le Vale",
     "wof:parent_id":404444009,
     "wof:placetype":"locality",

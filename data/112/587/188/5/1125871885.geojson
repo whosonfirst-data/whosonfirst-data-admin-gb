@@ -9,15 +9,17 @@
     "geom:bbox":"-1.88371731569,54.570678281,-1.76119411286,54.5932983805",
     "geom:latitude":54.580894,
     "geom:longitude":-1.820291,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":1310,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":54.58102,
     "lbl:longitude":-1.80708,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0438\u043d\u0434\u0440\u043e\u043f"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698621,
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":1125871885,
-    "wof:lastmodified":1563341141,
+    "wof:lastmodified":1566635119,
     "wof:name":"Staindrop",
     "wof:parent_id":404446911,
     "wof:placetype":"locality",

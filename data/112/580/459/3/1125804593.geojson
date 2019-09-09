@@ -9,15 +9,17 @@
     "geom:bbox":"-0.135851370248,50.8771565524,-0.0873268985736,50.9635896317",
     "geom:latitude":50.918132,
     "geom:longitude":-0.112692,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1476,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.921,
     "lbl:longitude":-0.11536,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u06cc\u0686\u0644\u06cc\u0646\u0642"
@@ -61,7 +63,7 @@
     "name:swe_x_preferred":[
         "Ditchling"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ditchelling"
     ],
     "qs_pg:aaroncc":"GB",
@@ -88,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":1125804593,
-    "wof:lastmodified":1563341028,
+    "wof:lastmodified":1566635051,
     "wof:name":"Ditchling",
     "wof:parent_id":404436371,
     "wof:placetype":"locality",

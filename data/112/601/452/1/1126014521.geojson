@@ -9,15 +9,17 @@
     "geom:bbox":"0.37271177107,51.7018429816,0.44735173443,51.7550181256",
     "geom:latitude":51.728545,
     "geom:longitude":0.417224,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4749,
-    "gn:population":4840,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4749,
     "iso:country":"GB",
     "lbl:latitude":51.72906,
     "lbl:longitude":0.42938,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u099f\u09b2"
@@ -112,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":1126014521,
-    "wof:lastmodified":1563342363,
+    "wof:lastmodified":1566635864,
     "wof:name":"Writtle",
     "wof:parent_id":404436479,
     "wof:placetype":"locality",

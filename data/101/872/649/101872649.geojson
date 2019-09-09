@@ -10,12 +10,16 @@
     "geom:latitude":56.53231,
     "geom:longitude":-3.468452,
     "iso:country":"GB",
+    "lbl:bbox":"-3.488452,56.51231,-3.448452,56.55231",
     "lbl:latitude":56.53231,
     "lbl:longitude":-3.468452,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.53231,
     "mps:longitude":-3.468452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Murthly"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":56.5303,
     "wd:longitude":-3.46389,
     "wd:wordcount":290,
@@ -71,9 +75,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29579,
-        "qs:id":5,
-        "qs_pg:id":1194582,
+        "qs_pg:id":5,
         "wd:id":"Q6939737"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1194582
     },
     "wof:country":"GB",
     "wof:geomhash":"0d4fbf21e242b8faa4ba10670590b7ca",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":101872649,
-    "wof:lastmodified":1563336413,
+    "wof:lastmodified":1566630850,
     "wof:name":"Murthly",
     "wof:parent_id":404451983,
     "wof:placetype":"locality",

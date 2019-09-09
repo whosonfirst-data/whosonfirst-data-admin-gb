@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.887496,
     "lbl:longitude":-1.283754,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.887494,
     "mps:longitude":-1.283754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Long Eaton"
     ],
@@ -94,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.899,
     "wd:longitude":-1.271,
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":2643697,
         "gp:id":27334,
-        "qs:id":900433,
         "qs_pg:id":900433,
         "wd:id":"Q1626288",
         "wk:page":"Long Eaton"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101872097,
-    "wof:lastmodified":1563336360,
+    "wof:lastmodified":1566630832,
     "wof:name":"Long Eaton",
     "wof:parent_id":1360698765,
     "wof:placetype":"locality",

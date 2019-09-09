@@ -9,15 +9,17 @@
     "geom:bbox":"-1.21105019297,53.1727152528,-1.0947538843,53.2356006451",
     "geom:latitude":53.204823,
     "geom:longitude":-1.151891,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9766,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":9766,
     "iso:country":"GB",
     "lbl:latitude":53.21402,
     "lbl:longitude":-1.15091,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09b0\u09b6\u09aa"
@@ -108,7 +110,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1125871103,
-    "wof:lastmodified":1563341155,
+    "wof:lastmodified":1566635126,
     "wof:name":"Warsop",
     "wof:parent_id":404449747,
     "wof:placetype":"locality",

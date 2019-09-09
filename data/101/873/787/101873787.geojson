@@ -9,17 +9,20 @@
     "geom:bbox":"-5.794579,54.72443,-5.794579,54.72443",
     "geom:latitude":54.72443,
     "geom:longitude":-5.794579,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":29208,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA2",
     "gn:population":29208,
     "iso:country":"GB",
+    "lbl:bbox":"-5.814579,54.70443,-5.774579,54.74443",
     "lbl:latitude":54.724429,
     "lbl:longitude":-5.794579,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.724429,
     "mps:longitude":-5.794579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Carrickfergus"
     ],
@@ -143,7 +146,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.716,
     "wd:longitude":-5.809,
@@ -159,13 +162,12 @@
     "wof:concordances":{
         "gn:id":2653680,
         "gp:id":44614,
-        "qs:id":1037135,
-        "qs_pg:id":1283586,
+        "qs_pg:id":1037135,
         "wd:id":"Q1020354",
         "wk:page":"Carrickfergus"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1037135
+        "qs_pg:id":1283586
     },
     "wof:country":"GB",
     "wof:geomhash":"29b125d4f7be527830ca7045059ba2dc",
@@ -180,7 +182,7 @@
         }
     ],
     "wof:id":101873787,
-    "wof:lastmodified":1563336299,
+    "wof:lastmodified":1566630809,
     "wof:name":"Carrickfergus",
     "wof:parent_id":1360699239,
     "wof:placetype":"locality",

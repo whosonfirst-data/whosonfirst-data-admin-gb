@@ -10,8 +10,10 @@
     "geom:latitude":50.362434,
     "geom:longitude":-4.065208,
     "iso:country":"GB",
+    "lbl:bbox":"-4.070208,50.357434,-4.060208,50.367434",
     "lbl:latitude":50.362434,
     "lbl:longitude":-4.065208,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.358355,
     "mps:longitude":-4.064455,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Elburton"
-    ],
-    "name:unk_x_variant":[
         "Elburton"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698541,
         102191581,
         85633159,
         404227469,
         101750297,
-        1360698841
+        1360698841,
+        1360698541
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2650132,
         "gp:id":19433,
-        "qs:id":228219,
         "qs_pg:id":228219
     },
     "wof:country":"GB",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542398356,
+    "wof:lastmodified":1566627544,
     "wof:name":"Elburton",
     "wof:parent_id":101750297,
     "wof:placetype":"neighbourhood",

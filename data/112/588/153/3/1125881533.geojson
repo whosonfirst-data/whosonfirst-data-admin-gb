@@ -9,15 +9,17 @@
     "geom:bbox":"-1.11634468799,51.3372477647,-1.05161980253,51.3618716222",
     "geom:latitude":51.349491,
     "geom:longitude":-1.086459,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":774,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.35356,
     "lbl:longitude":-1.10061,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Silchester"
@@ -235,7 +237,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -274,7 +276,7 @@
         }
     ],
     "wof:id":1125881533,
-    "wof:lastmodified":1563340693,
+    "wof:lastmodified":1566634846,
     "wof:name":"Silchester",
     "wof:parent_id":404455011,
     "wof:placetype":"locality",

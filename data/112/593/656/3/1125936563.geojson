@@ -9,15 +9,17 @@
     "geom:bbox":"-0.088833156332,51.2920289157,-0.0600730405331,51.3168626554",
     "geom:latitude":51.303461,
     "geom:longitude":-0.078259,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3315,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":3315,
     "iso:country":"GB",
     "lbl:latitude":51.30808,
     "lbl:longitude":-0.08429,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f\u09c7\u09b2\u09bf\u09ab\u09c7"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125936563,
-    "wof:lastmodified":1563339633,
+    "wof:lastmodified":1566634161,
     "wof:name":"Whyteleafe",
     "wof:parent_id":404444257,
     "wof:placetype":"locality",

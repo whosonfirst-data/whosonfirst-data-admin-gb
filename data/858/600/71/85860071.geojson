@@ -11,8 +11,10 @@
     "geom:longitude":0.230907,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"0.225907,51.449761,0.235907,51.459761",
     "lbl:latitude":51.454761,
     "lbl:longitude":0.230907,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.465981,
     "mps:longitude":0.241145,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Joyce Green"
-    ],
-    "name:unk_x_variant":[
         "Joyce Green"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":36,
     "wof:belongsto":[
-        1360698565,
         102191581,
         85633159,
         404227469,
         1126008977,
-        1360698811
+        1360698811,
+        1360698565
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089344,
-        "qs:id":237454,
         "qs_pg:id":237454
     },
     "wof:country":"GB",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547717696,
+    "wof:lastmodified":1566627899,
     "wof:name":"Joyce Green",
     "wof:parent_id":1126008977,
     "wof:placetype":"neighbourhood",

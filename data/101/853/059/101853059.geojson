@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.421264,
     "lbl:longitude":-0.804586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.421264,
     "mps:longitude":-0.804586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Rothwell"
     ],
@@ -254,7 +257,7 @@
     "name:tur_x_preferred":[
         "Rothwell"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rowell"
     ],
     "name:urd_x_preferred":[
@@ -304,7 +307,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.425,
     "wd:longitude":-0.801,
@@ -321,7 +324,6 @@
     "wof:concordances":{
         "gn:id":2639074,
         "gp:id":33604,
-        "qs:id":140674,
         "qs_pg:id":140674,
         "wd:id":"Q947197",
         "wk:page":"Rothwell, Northamptonshire"
@@ -343,7 +345,7 @@
         }
     ],
     "wof:id":101853059,
-    "wof:lastmodified":1563336790,
+    "wof:lastmodified":1566630985,
     "wof:name":"Rothwell",
     "wof:parent_id":404433417,
     "wof:placetype":"locality",

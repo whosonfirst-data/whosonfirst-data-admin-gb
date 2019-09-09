@@ -9,15 +9,17 @@
     "geom:bbox":"-0.510319748326,52.6659967038,-0.438010433916,52.7135591499",
     "geom:latitude":52.688478,
     "geom:longitude":-0.474331,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":1459,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.68585,
     "lbl:longitude":-0.46846,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0420\u0439\u0445\u0430\u043b"
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698581,
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":1125830405,
-    "wof:lastmodified":1563343229,
+    "wof:lastmodified":1566636386,
     "wof:name":"Ryhall",
     "wof:parent_id":404430909,
     "wof:placetype":"locality",

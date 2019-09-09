@@ -9,14 +9,17 @@
     "geom:bbox":"-5.33109645149,50.2280425153,-5.25357196776,50.2578894874",
     "geom:latitude":50.242358,
     "geom:longitude":-5.291996,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.24393,
     "lbl:longitude":-5.26564,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u064a\u0644\u063a\u0646"
@@ -91,7 +94,7 @@
         "Illogan"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc7\u0b9f\u0bca\u0ba9\u0bcd  \u0b95\u0bb0\u0bcd\u0ba3\u0ba9\u0bcd"
+        "\u0ba4\u0bc7\u0b9f\u0bca\u0ba9\u0bcd \u0b95\u0bb0\u0bcd\u0ba3\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c4b\u0c17\u0c3e\u0c28\u0c4d"
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1125868377,
-    "wof:lastmodified":1563340529,
+    "wof:lastmodified":1566634747,
     "wof:name":"Illogan",
     "wof:parent_id":404447615,
     "wof:placetype":"locality",

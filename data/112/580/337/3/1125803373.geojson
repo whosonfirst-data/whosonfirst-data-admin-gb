@@ -9,15 +9,17 @@
     "geom:bbox":"0.740076080807,51.1822668712,0.84960523858,51.2393038033",
     "geom:latitude":51.211812,
     "geom:longitude":0.791681,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1841,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.21073,
     "lbl:longitude":0.79466,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u099a\u09be\u09b0\u09bf\u0982"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125803373,
-    "wof:lastmodified":1563340888,
+    "wof:lastmodified":1566634967,
     "wof:name":"Charing",
     "wof:parent_id":404443811,
     "wof:placetype":"locality",

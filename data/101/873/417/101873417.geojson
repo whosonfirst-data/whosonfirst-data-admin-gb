@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":54.824711,
     "lbl:longitude":-3.161275,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.824711,
     "mps:longitude":-3.161275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0642\u062a\u0648\u0646"
     ],
@@ -116,7 +119,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.823,
     "wd:longitude":-3.159,
@@ -133,7 +136,6 @@
     "wof:concordances":{
         "gn:id":2633933,
         "gp:id":40476,
-        "qs:id":238735,
         "qs_pg:id":238735,
         "wd:id":"Q2227457",
         "wk:page":"Wigton"
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101873417,
-    "wof:lastmodified":1563336246,
+    "wof:lastmodified":1566630793,
     "wof:name":"Wigton",
     "wof:parent_id":404443393,
     "wof:placetype":"locality",

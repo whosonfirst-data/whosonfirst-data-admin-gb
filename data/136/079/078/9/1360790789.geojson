@@ -10,12 +10,15 @@
     "geom:latitude":52.271662,
     "geom:longitude":-1.899477,
     "iso:country":"GB",
+    "lbl:bbox":"-1.904477,52.266662,-1.894477,52.276662",
     "lbl:latitude":52.271677,
     "lbl:longitude":-1.899477,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.271677,
     "mps:longitude":-1.899477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:bar_x_preferred":[
         "Studley"
     ],
@@ -101,7 +104,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":83,
     "wof:belongsto":[
         102191581,
@@ -117,9 +120,11 @@
         "fct:id":"0aa371b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2636596,
         "gp:id":36545,
-        "qs:id":507604,
-        "qs_pg:id":1001164,
+        "qs_pg:id":507604,
         "wd:id":"Q3076557"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1001164
     },
     "wof:country":"GB",
     "wof:geomhash":"f87339f5cd441d410e7f72d276491924",
@@ -139,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332995,
+    "wof:lastmodified":1566628446,
     "wof:name":"Studley",
     "wof:parent_id":1242908913,
     "wof:placetype":"neighbourhood",

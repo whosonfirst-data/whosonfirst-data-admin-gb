@@ -9,14 +9,17 @@
     "geom:bbox":"-4.86276125881,50.3116505736,-4.80551840753,50.3728368901",
     "geom:latitude":50.334973,
     "geom:longitude":-4.83077,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.3318,
     "lbl:longitude":-4.81808,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0645\u0648\u0646"
@@ -79,7 +82,7 @@
         "St. Mewan"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b9f  \u0bae\u0bc7\u0bb5\u0bbe\u0ba9\u0bcd"
+        "\u0bb8\u0bcd\u0b9f \u0bae\u0bc7\u0bb5\u0bbe\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         ""
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1125912713,
-    "wof:lastmodified":1563342142,
+    "wof:lastmodified":1566635728,
     "wof:name":"St. Mewan",
     "wof:parent_id":404447539,
     "wof:placetype":"locality",

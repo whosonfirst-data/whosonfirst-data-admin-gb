@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.33996,
     "lbl:longitude":-1.764091,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.33996,
     "mps:longitude":-1.764091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pewsey"
     ],
@@ -70,7 +73,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.343,
     "wd:longitude":-1.764,
@@ -87,10 +90,12 @@
     "wof:concordances":{
         "gn:id":2640327,
         "gp:id":31966,
-        "qs:id":1036872,
         "qs_pg:id":219138,
         "wd:id":"Q639675",
         "wk:page":"Pewsey"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036872
     },
     "wof:coterminous":[
         404447665
@@ -109,7 +114,7 @@
         }
     ],
     "wof:id":101852709,
-    "wof:lastmodified":1563336919,
+    "wof:lastmodified":1566631042,
     "wof:name":"Pewsey",
     "wof:parent_id":404447665,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-0.91005947601,51.9513183033,-0.833288877987,51.9955133828",
     "geom:latitude":51.975207,
     "geom:longitude":-0.877185,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1049,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.97351,
     "lbl:longitude":-0.88088,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u062a \u0647\u0631\u0648\u0648\u062f"
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1125925039,
-    "wof:lastmodified":1563339705,
+    "wof:lastmodified":1566634215,
     "wof:name":"Great Horwood",
     "wof:parent_id":404443185,
     "wof:placetype":"locality",

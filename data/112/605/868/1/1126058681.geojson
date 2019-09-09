@@ -9,15 +9,18 @@
     "geom:bbox":"-2.26588,57.09929,-2.26588,57.09929",
     "geom:latitude":57.09929,
     "geom:longitude":-2.26588,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":4560,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
+    "lbl:bbox":"-2.28588,57.07929,-2.24588,57.11929",
     "lbl:latitude":57.09929,
     "lbl:longitude":-2.26588,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Peterculter"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Peterculter"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Culter"
     ],
     "qs_pg:aaroncc":"GB",
@@ -82,7 +85,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":31933,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1126058681,
-    "wof:lastmodified":1563340010,
+    "wof:lastmodified":1566634408,
     "wof:name":"Peterculter",
     "wof:parent_id":404429183,
     "wof:placetype":"locality",

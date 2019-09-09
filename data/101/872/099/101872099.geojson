@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.258716,
     "lbl:longitude":-1.905372,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.258716,
     "mps:longitude":-1.905372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0633\u062a\u0648\u0646"
     ],
@@ -118,7 +121,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.259,
     "wd:longitude":-1.911,
@@ -134,10 +137,12 @@
     "wof:concordances":{
         "gn:id":2654142,
         "gp:id":14772,
-        "qs:id":889425,
-        "qs_pg:id":1264930,
+        "qs_pg:id":889425,
         "wd:id":"Q971223",
         "wk:page":"Buxton"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1264930
     },
     "wof:country":"GB",
     "wof:geomhash":"7399d90e215183c37ef35647116b49f1",
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":101872099,
-    "wof:lastmodified":1563336356,
+    "wof:lastmodified":1566630830,
     "wof:name":"Buxton",
     "wof:parent_id":1360698765,
     "wof:placetype":"locality",

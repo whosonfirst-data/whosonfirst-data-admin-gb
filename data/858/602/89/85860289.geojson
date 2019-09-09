@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.540295,
     "lbl:longitude":0.106515,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.540043,
     "mps:longitude":0.112618,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":7,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Upney"
-    ],
-    "name:unk_x_variant":[
         "Upney"
     ],
     "qs:gn_id":0,
@@ -61,20 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698645,
         102191581,
         85633159,
         404227469,
         101750367,
-        1158857319
+        1158857319,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20089405,
-        "qs:id":220161,
         "qs_pg:id":220161
     },
     "wof:country":"GB",
@@ -94,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542206423,
+    "wof:lastmodified":1566627850,
     "wof:name":"Upney",
     "wof:parent_id":1158857319,
     "wof:placetype":"neighbourhood",

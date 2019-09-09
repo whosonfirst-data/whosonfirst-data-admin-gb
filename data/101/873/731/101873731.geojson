@@ -10,12 +10,16 @@
     "geom:latitude":54.296974,
     "geom:longitude":-6.51931,
     "iso:country":"GB",
+    "lbl:bbox":"-6.53931,54.276974,-6.49931,54.316974",
     "lbl:latitude":54.296974,
     "lbl:longitude":-6.51931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.296974,
     "mps:longitude":-6.51931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Markethill"
     ],
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.2985,
     "wd:longitude":-6.5214,
     "wd:wordcount":1045,
@@ -83,9 +87,11 @@
     "wof:concordances":{
         "gn:id":2643026,
         "gp:id":25541,
-        "qs:id":277627,
-        "qs_pg:id":976169,
+        "qs_pg:id":277627,
         "wd:id":"Q1501581"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":976169
     },
     "wof:country":"GB",
     "wof:geomhash":"229d9632dc62c9f01082831f05721dfb",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":101873731,
-    "wof:lastmodified":1563336158,
+    "wof:lastmodified":1566630764,
     "wof:name":"Markethill",
     "wof:parent_id":1360699225,
     "wof:placetype":"locality",

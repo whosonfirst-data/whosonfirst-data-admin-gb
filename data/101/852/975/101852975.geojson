@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.034175,
     "lbl:longitude":-4.464363,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.034176,
     "mps:longitude":-4.464362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Castell Newydd Emlyn"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Newcastle Emlyn"
     ],
-    "name:unk_x_variant":[
-        "Castell Newydd Emlyn"
-    ],
     "name:zho_x_preferred":[
         "\u7d10\u5361\u7d22\u723e\u57c3\u59c6\u6797"
     ],
@@ -105,7 +105,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.04,
     "wd:longitude":-4.47,
@@ -122,10 +122,12 @@
     "wof:concordances":{
         "gn:id":2641676,
         "gp:id":22526034,
-        "qs:id":140722,
-        "qs_pg:id":896988,
+        "qs_pg:id":140722,
         "wd:id":"Q2273077",
         "wk:page":"Newcastle Emlyn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":896988
     },
     "wof:coterminous":[
         404450051
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101852975,
-    "wof:lastmodified":1563337083,
+    "wof:lastmodified":1566631099,
     "wof:name":"Newcastle Emlyn",
     "wof:parent_id":404450051,
     "wof:placetype":"locality",

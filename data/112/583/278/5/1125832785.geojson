@@ -9,15 +9,17 @@
     "geom:bbox":"-1.1919996312,53.9715753211,-1.12079169971,54.0024754388",
     "geom:latitude":53.987277,
     "geom:longitude":-1.155813,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3504,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":3504,
     "iso:country":"GB",
     "lbl:latitude":53.98793,
     "lbl:longitude":-1.15062,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u09a6\u09be\u09b0\u09aa\u09aa\u09c7\u09b2\u09cd\u099f\u09a8"
@@ -77,7 +79,7 @@
         "Nether Poppleton"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bc6\u0ba4\u0bc6\u0bb0\u0bcd  \u0baa\u0bcb\u0baa\u0bcd\u0baa\u0bcd\u0bb2\u0bc7\u0b9f\u0bcb\u0ba9\u0bcd"
+        "\u0ba8\u0bc6\u0ba4\u0bc6\u0bb0\u0bcd \u0baa\u0bcb\u0baa\u0bcd\u0baa\u0bcd\u0bb2\u0bc7\u0b9f\u0bcb\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c46\u0c26\u0c30\u0c4d \u0c2a\u0c3e\u0c2a\u0c4d\u0c32\u0c3f\u0c1f\u0c28\u0c4d"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125832785,
-    "wof:lastmodified":1563343264,
+    "wof:lastmodified":1566636407,
     "wof:name":"Nether Poppleton",
     "wof:parent_id":404446195,
     "wof:placetype":"locality",

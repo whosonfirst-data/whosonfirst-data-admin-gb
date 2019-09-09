@@ -11,12 +11,15 @@
     "geom:longitude":-1.25746,
     "gn:population":13804,
     "iso:country":"GB",
+    "lbl:bbox":"-1.26246,53.70358,-1.25246,53.71358",
     "lbl:latitude":53.708579,
     "lbl:longitude":-1.25746,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.708579,
     "mps:longitude":-1.25746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u09a8\u099f\u09bf\u0982\u09b2\u09c7"
     ],
@@ -92,7 +95,7 @@
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c1f\u0c4d\u0c1f\u0c3f\u0c28\u0c4d\u0c17\u0c4d\u0c32\u0c47"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Knottingly"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +120,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.705,
     "wd:longitude":-1.249,
@@ -135,10 +138,12 @@
     "wof:concordances":{
         "gn:id":2645102,
         "gp:id":25571,
-        "qs:id":321815,
-        "qs_pg:id":1079571,
+        "qs_pg:id":321815,
         "wd:id":"Q1777543",
         "wk:page":"Knottingley"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079571
     },
     "wof:country":"GB",
     "wof:geomhash":"ec8c77b27cd3939ea22201a1b0ab51e5",
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360791031,
-    "wof:lastmodified":1563332742,
+    "wof:lastmodified":1566628328,
     "wof:name":"Knottingley",
     "wof:parent_id":1125868155,
     "wof:placetype":"neighbourhood",

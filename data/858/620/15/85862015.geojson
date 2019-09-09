@@ -11,8 +11,10 @@
     "geom:longitude":-1.093534,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-1.098534,50.777531,-1.088534,50.787531",
     "lbl:latitude":50.782531,
     "lbl:longitude":-1.093534,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.770611,
     "mps:longitude":-1.100102,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Southsea Common"
-    ],
-    "name:unk_x_variant":[
         "Southsea Common"
     ],
     "qs:gn_id":0,
@@ -56,20 +55,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698557,
         102191581,
         85633159,
         404227469,
         101750307,
-        1360699069
+        1360699069,
+        1360698557
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20094412,
-        "qs:id":1256440,
         "qs_pg:id":1256440
     },
     "wof:country":"GB",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547698077,
+    "wof:lastmodified":1566627842,
     "wof:name":"Southsea Common",
     "wof:parent_id":101750307,
     "wof:placetype":"neighbourhood",

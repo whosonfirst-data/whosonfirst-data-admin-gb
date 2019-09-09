@@ -9,15 +9,17 @@
     "geom:bbox":"-1.12521886181,52.8303082473,-1.07438192578,52.8558235342",
     "geom:latitude":52.842838,
     "geom:longitude":-1.100935,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":431,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.84011,
     "lbl:longitude":-1.10361,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Wysall"
@@ -61,7 +63,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":1125841659,
-    "wof:lastmodified":1563343068,
+    "wof:lastmodified":1566636298,
     "wof:name":"Wysall",
     "wof:parent_id":404432635,
     "wof:placetype":"locality",

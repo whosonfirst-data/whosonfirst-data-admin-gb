@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":55.899595,
     "lbl:longitude":-4.281174,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.904327,
     "mps:longitude":-4.2819,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Cambhill"
-    ],
-    "name:unk_x_variant":[
         "Cambhill"
     ],
     "qs:gn_id":0,
@@ -57,20 +55,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1360698707,
         102191581,
         404430153,
         85633159,
         404227471,
         1175612707,
-        1360698797
+        1360698797,
+        1360698707
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43638,
-        "qs:id":1187756,
         "qs_pg:id":1187756
     },
     "wof:country":"GB",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547770087,
+    "wof:lastmodified":1566627776,
     "wof:name":"Cambhill",
     "wof:parent_id":1175612707,
     "wof:placetype":"neighbourhood",

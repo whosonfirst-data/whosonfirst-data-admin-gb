@@ -13,6 +13,7 @@
     "iso:country":"GB",
     "lbl:latitude":51.565127,
     "lbl:longitude":0.062137,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.567718,
     "mps:longitude":0.058613,
     "mz:hierarchy_label":1,
@@ -49,9 +50,6 @@
     "name:pol_x_variant":[
         "Cranbrook"
     ],
-    "name:unk_x_variant":[
-        "Cranbrook"
-    ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2643743,
@@ -81,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -95,10 +93,12 @@
         "fct:id":"0ab45bac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2652088,
         "gp:id":20089403,
-        "qs:id":140881,
-        "qs_pg:id":364709,
+        "qs_pg:id":140881,
         "wd:id":"Q5181944",
         "wk:page":"Cranbrook, Kent"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":364709
     },
     "wof:country":"GB",
     "wof:geomhash":"be44c3293d860978ee429d8b70ea73e4",
@@ -117,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563332259,
+    "wof:lastmodified":1566627851,
     "wof:name":"Cranbrook",
     "wof:parent_id":1158857291,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"1.50564690798,52.1563214839,1.57321838529,52.2004838794",
     "geom:latitude":52.177689,
     "geom:longitude":1.541078,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.18333,
     "lbl:longitude":1.53333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0424\u0440\u0438\u0441\u0442\u043e\u043d"
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125783825,
-    "wof:lastmodified":1563342778,
+    "wof:lastmodified":1566636133,
     "wof:name":"Friston",
     "wof:parent_id":404433029,
     "wof:placetype":"locality",

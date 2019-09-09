@@ -9,15 +9,17 @@
     "geom:bbox":"-5.48259353757,50.1177187032,-5.4419569543,50.137890759",
     "geom:latitude":50.127351,
     "geom:longitude":-5.465456,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":1294,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.12556,
     "lbl:longitude":-5.47505,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u0627\u0631\u0627\u0632\u06cc\u0648\u0646"
@@ -107,7 +109,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698623,
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1125986123,
-    "wof:lastmodified":1563342266,
+    "wof:lastmodified":1566635799,
     "wof:name":"Marazion",
     "wof:parent_id":404448035,
     "wof:placetype":"locality",

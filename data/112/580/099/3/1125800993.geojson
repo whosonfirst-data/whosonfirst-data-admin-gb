@@ -9,14 +9,17 @@
     "geom:bbox":"-1.13606261793,51.4166665408,-1.07424068856,51.4591261664",
     "geom:latitude":51.438629,
     "geom:longitude":-1.105322,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.44251,
     "lbl:longitude":-1.10164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0646\u063a\u0644\u0641\u064a\u0644\u062f"
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125800993,
-    "wof:lastmodified":1563340935,
+    "wof:lastmodified":1566634995,
     "wof:name":"Englefield",
     "wof:parent_id":404453039,
     "wof:placetype":"locality",

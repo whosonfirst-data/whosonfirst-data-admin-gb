@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":53.431359,
     "lbl:longitude":-1.019368,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.431359,
     "mps:longitude":-1.019368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0648\u062a\u0631\u06cc"
     ],
@@ -115,7 +118,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.4278,
     "wd:longitude":-1.0167,
@@ -132,7 +135,6 @@
     "wof:concordances":{
         "gn:id":2656144,
         "gp:id":12097,
-        "qs:id":967377,
         "qs_pg:id":967377,
         "wd:id":"Q586090",
         "wk:page":"Bawtry"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101872141,
-    "wof:lastmodified":1563336463,
+    "wof:lastmodified":1566630868,
     "wof:name":"Bawtry",
     "wof:parent_id":404444337,
     "wof:placetype":"locality",

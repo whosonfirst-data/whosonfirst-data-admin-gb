@@ -9,15 +9,17 @@
     "geom:bbox":"-0.466820236554,51.6800007264,-0.375565743006,51.7407823727",
     "geom:latitude":51.707712,
     "geom:longitude":-0.424206,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10472,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":10472,
     "iso:country":"GB",
     "lbl:latitude":51.70573,
     "lbl:longitude":-0.41757,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u042d\u0431\u0430\u0442\u0441-\u041b\u0435\u043d\u0433\u043b\u0456"
@@ -92,7 +94,7 @@
         "Abbots Langley"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0baa\u0bcd\u0baa\u0bca\u0b9f\u0bcd\u0bb8\u0bcd  \u0bb2\u0bbe\u0b99\u0bcd\u0bb2\u0bc0"
+        "\u0b85\u0baa\u0bcd\u0baa\u0bca\u0b9f\u0bcd\u0bb8\u0bcd \u0bb2\u0bbe\u0b99\u0bcd\u0bb2\u0bc0"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2c\u0c4b\u0c1f\u0c4d\u0c38\u0c4d \u0c32\u0c3e\u0c02\u0c17\u0c4d\u0c32\u0c47"
@@ -133,7 +135,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -172,7 +174,7 @@
         }
     ],
     "wof:id":1125963275,
-    "wof:lastmodified":1563341993,
+    "wof:lastmodified":1566635651,
     "wof:name":"Abbots Langley",
     "wof:parent_id":404436239,
     "wof:placetype":"locality",

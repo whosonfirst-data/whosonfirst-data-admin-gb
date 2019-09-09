@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.667566,
     "lbl:longitude":-0.407563,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":51.67332,
     "mps:longitude":-0.401927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062a\u0641\u0648\u0631\u062f"
     ],
@@ -210,7 +213,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":71.0,
     "wd:latitude":51.655278,
@@ -227,10 +230,12 @@
     "wof:concordances":{
         "gn:id":2634676,
         "gp:id":39321,
-        "qs:id":970536,
-        "qs_pg:id":1073913,
+        "qs_pg:id":970536,
         "wd:id":"Q2598",
         "wk:page":"Watford"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073913
     },
     "wof:country":"GB",
     "wof:geomhash":"3ec1b524598a4ea088359ee57fc65f75",
@@ -245,7 +250,7 @@
         }
     ],
     "wof:id":101751603,
-    "wof:lastmodified":1563336509,
+    "wof:lastmodified":1566630892,
     "wof:name":"Watford",
     "wof:parent_id":1360698763,
     "wof:placetype":"locality",

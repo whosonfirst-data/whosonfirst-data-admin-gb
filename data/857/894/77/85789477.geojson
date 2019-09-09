@@ -11,8 +11,10 @@
     "geom:longitude":-4.165091,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-4.170091,50.386565,-4.160091,50.396565",
     "lbl:latitude":50.391565,
     "lbl:longitude":-4.165091,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.392761,
     "mps:longitude":-4.163353,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "N Prospect"
-    ],
-    "name:unk_x_variant":[
-        "North Prospect"
     ],
     "qs:gn_adm0_cc":"GB",
     "qs:gn_id":0,
@@ -62,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":766,
     "wof:belongsto":[
-        1360698541,
         102191581,
         85633159,
         404227469,
         101750297,
-        1360698841
+        1360698841,
+        1360698541
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":30539,
-        "qs:id":976342,
         "qs_pg:id":976342,
         "wd:id":"Q7056421"
     },
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542398357,
+    "wof:lastmodified":1566627609,
     "wof:name":"North Prospect",
     "wof:parent_id":101750297,
     "wof:placetype":"neighbourhood",

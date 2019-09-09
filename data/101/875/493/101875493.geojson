@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.34658,
     "lbl:longitude":-2.280539,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.347169,
     "mps:longitude":-2.274915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0648\u0631\u067e\u0648\u0631\u062a-\u0622\u0646-\u0633\u0648\u0631\u0646"
     ],
@@ -102,9 +105,6 @@
     "name:tel_x_preferred":[
         ""
     ],
-    "name:unk_x_variant":[
-        "Stourport"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u062a\u0648\u0648\u0631\u067e\u0648\u0631\u062a-\u0648\u0646-\u0633\u06cc\u0648\u06cc\u0631\u0646"
     ],
@@ -132,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.341819,
     "wd:longitude":-2.276239,
@@ -150,7 +150,6 @@
         "fct:id":"0aa25aa6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2636767,
         "gp:id":36370,
-        "qs:id":1253585,
         "qs_pg:id":1253585,
         "wd:id":"Q2299073",
         "wk:page":"Stourport-on-Severn"
@@ -175,7 +174,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336492,
+    "wof:lastmodified":1566630880,
     "wof:name":"Stourport-on-Severn",
     "wof:parent_id":404452319,
     "wof:placetype":"locality",

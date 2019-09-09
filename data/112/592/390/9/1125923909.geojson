@@ -9,15 +9,17 @@
     "geom:bbox":"0.861446416993,51.7870287851,0.940886536571,51.8409633902",
     "geom:latitude":51.811763,
     "geom:longitude":0.894832,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":559,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.81313,
     "lbl:longitude":0.88552,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041f\u0435\u043b\u0434\u043e\u043d"
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1125923909,
-    "wof:lastmodified":1563339707,
+    "wof:lastmodified":1566634216,
     "wof:name":"Peldon",
     "wof:parent_id":404451029,
     "wof:placetype":"locality",

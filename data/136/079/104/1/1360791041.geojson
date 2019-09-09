@@ -11,12 +11,15 @@
     "geom:longitude":-2.217819,
     "gn:population":28024,
     "iso:country":"GB",
+    "lbl:bbox":"-2.222819,53.589518,-2.212819,53.599518",
     "lbl:latitude":53.592634,
     "lbl:longitude":-2.21966,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.592634,
     "mps:longitude":-2.21966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0647\u06cc\u0648\u0648\u062f"
     ],
@@ -129,7 +132,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -143,10 +146,12 @@
     "wof:concordances":{
         "gn:id":6691235,
         "gp:id":23160,
-        "qs:id":1038706,
         "qs_pg:id":386571,
         "wd:id":"Q1013970",
         "wk:page":"Heywood, Greater Manchester"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1038706
     },
     "wof:country":"GB",
     "wof:geomhash":"b999ff9f8f1620327c5a529c7ab0443a",
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1360791041,
-    "wof:lastmodified":1563332730,
+    "wof:lastmodified":1566628322,
     "wof:name":"Heywood",
     "wof:parent_id":101750565,
     "wof:placetype":"neighbourhood",

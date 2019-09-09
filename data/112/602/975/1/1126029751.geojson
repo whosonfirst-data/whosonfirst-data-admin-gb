@@ -9,15 +9,17 @@
     "geom:bbox":"-3.74836764669,50.5653273182,-3.63809070842,50.6438747225",
     "geom:latitude":50.597572,
     "geom:longitude":-3.688084,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4615,
-    "gn:population":4729,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":4615,
     "iso:country":"GB",
     "lbl:latitude":50.59259,
     "lbl:longitude":-3.67543,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u0648\u0648\u06cc \u062a\u0631\u06cc\u0633\u06cc"
@@ -118,7 +120,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":1126029751,
-    "wof:lastmodified":1563339967,
+    "wof:lastmodified":1566634381,
     "wof:name":"Bovey Tracey",
     "wof:parent_id":404441427,
     "wof:placetype":"locality",

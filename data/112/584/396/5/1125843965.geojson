@@ -9,14 +9,17 @@
     "geom:bbox":"-0.734914323748,52.2534558549,-0.682675007061,52.290087944",
     "geom:latitude":52.273993,
     "geom:longitude":-0.714144,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.27435,
     "lbl:longitude":-0.70862,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Great Doddington"
@@ -42,7 +45,7 @@
     "name:swe_x_preferred":[
         "Great Doddington"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Doddington"
     ],
     "qs_pg:aaroncc":"GB",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125843965,
-    "wof:lastmodified":1564159612,
+    "wof:lastmodified":1566636260,
     "wof:name":"Great Doddington",
     "wof:parent_id":404440115,
     "wof:placetype":"locality",

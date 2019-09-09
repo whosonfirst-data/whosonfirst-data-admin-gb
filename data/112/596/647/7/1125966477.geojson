@@ -9,15 +9,17 @@
     "geom:bbox":"0.279761607935,51.1927297985,0.367916195199,51.2439811076",
     "geom:latitude":51.220175,
     "geom:longitude":0.331858,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2845,
-    "gn:population":2849,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2845,
     "iso:country":"GB",
     "lbl:latitude":51.22417,
     "lbl:longitude":0.33914,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09a1\u09b2\u09cb"
@@ -103,7 +105,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1125966477,
-    "wof:lastmodified":1563341969,
+    "wof:lastmodified":1566635635,
     "wof:name":"Hadlow",
     "wof:parent_id":404453515,
     "wof:placetype":"locality",

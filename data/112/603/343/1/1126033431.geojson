@@ -9,14 +9,17 @@
     "geom:bbox":"-4.11851601063,51.6815324134,-4.06230908961,51.7318386339",
     "geom:latitude":51.704004,
     "geom:longitude":-4.094069,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.69617,
     "lbl:longitude":-4.08394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u09b2\u09cd\u09af\u09be\u09a8\u0997\u09c7\u09a8\u09c7\u0995"
@@ -96,7 +99,7 @@
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c02\u0c17\u0c46\u0c28\u0c4d\u0c28\u0c47\u0c1a\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Llangennoch"
     ],
     "name:urd_x_preferred":[
@@ -125,7 +128,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":26973,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1126033431,
-    "wof:lastmodified":1563340417,
+    "wof:lastmodified":1566634675,
     "wof:name":"Llangennech",
     "wof:parent_id":404431607,
     "wof:placetype":"locality",

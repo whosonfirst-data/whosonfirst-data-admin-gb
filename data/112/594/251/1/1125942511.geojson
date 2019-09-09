@@ -9,15 +9,17 @@
     "geom:bbox":"0.353427377304,51.1979382923,0.408801379073,51.2504284327",
     "geom:latitude":51.221245,
     "geom:longitude":0.379768,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2475,
-    "gn:population":2485,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2475,
     "iso:country":"GB",
     "lbl:latitude":51.21234,
     "lbl:longitude":0.38624,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u099f \u09aa\u09c7\u0995\u09b9\u09cd\u09af\u09be\u09ae"
@@ -77,7 +79,7 @@
         "East Peckham"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0baa\u0bc6\u0b95\u0bcd\u0bb9\u0bbe\u0bae\u0bcd"
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc6\u0b95\u0bcd\u0bb9\u0bbe\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c08\u0c38\u0c4d\u0c1f\u0c4d \u0c2a\u0c46\u0c15\u0c4d\u0c39\u0c3e\u0c2e\u0c4d"
@@ -109,7 +111,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1125942511,
-    "wof:lastmodified":1563339551,
+    "wof:lastmodified":1566634106,
     "wof:name":"East Peckham",
     "wof:parent_id":404434643,
     "wof:placetype":"locality",

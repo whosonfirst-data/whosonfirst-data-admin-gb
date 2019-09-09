@@ -12,6 +12,8 @@
     "iso:country":"GB",
     "lbl:latitude":55.944321,
     "lbl:longitude":-3.242511,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.944321,
     "mps:longitude":-3.242511,
     "mz:hierarchy_label":1,
@@ -436,7 +438,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0434\u0438\u043d\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aebura"
     ],
     "name:urd_x_preferred":[
@@ -592,7 +594,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":259.0,
     "wd:elevation":47.0,
@@ -616,10 +618,12 @@
         "gp:id":19344,
         "loc:id":"n79053770",
         "nyt:id":"N45752581330994625741",
-        "qs:id":351999,
         "qs_pg:id":229778,
         "wd:id":"Q23436",
         "wk:page":"Edinburgh"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":351999
     },
     "wof:coterminous":[
         404437279
@@ -638,7 +642,7 @@
         }
     ],
     "wof:id":101750629,
-    "wof:lastmodified":1563336561,
+    "wof:lastmodified":1566630905,
     "wof:megacity":0,
     "wof:name":"Edinburgh",
     "wof:parent_id":404437279,

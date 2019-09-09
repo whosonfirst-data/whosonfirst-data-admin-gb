@@ -9,12 +9,15 @@
     "geom:bbox":"0.0742147315295,50.8202566271,0.127320407882,50.8719387083",
     "geom:latitude":50.848085,
     "geom:longitude":0.098488,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":50.842343,
     "lbl:longitude":0.096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0641\u0631\u0644 \u0648\u0644\u06cc\u062c"
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1126059649,
-    "wof:lastmodified":1563339985,
+    "wof:lastmodified":1566634392,
     "wof:name":"Firle",
     "wof:parent_id":404429669,
     "wof:placetype":"locality",

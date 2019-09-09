@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.670527,
     "lbl:longitude":-0.731094,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.670527,
     "mps:longitude":-0.731094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Oakham"
     ],
@@ -152,7 +155,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         1360698581,
@@ -166,10 +169,12 @@
     "wof:concordances":{
         "gn:id":2641128,
         "gp:id":30791,
-        "qs:id":1036900,
-        "qs_pg:id":1079652,
+        "qs_pg:id":1036900,
         "wd:id":"Q1001942",
         "wk:page":"Oakham"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079652
     },
     "wof:coterminous":[
         404438907
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":101854931,
-    "wof:lastmodified":1563336808,
+    "wof:lastmodified":1566630993,
     "wof:name":"Oakham",
     "wof:parent_id":404438907,
     "wof:placetype":"locality",

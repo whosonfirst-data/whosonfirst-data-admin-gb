@@ -9,15 +9,17 @@
     "geom:bbox":"-5.8992,54.61511,-5.8992,54.61511",
     "geom:latitude":54.61511,
     "geom:longitude":-5.8992,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"STNB",
-    "gn:gn_pop":30,
+    "gn:country":"GB",
+    "gn:fcode":"STNB",
     "gn:population":30,
     "iso:country":"GB",
+    "lbl:bbox":"-5.9042,54.61011,-5.8942,54.62011",
     "lbl:latitude":54.61511,
     "lbl:longitude":-5.8992,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Research Center of SAP (UK) Limited"
@@ -38,15 +40,15 @@
     "qs_pg:qs_id":692650,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1360699229,
         102191581,
         85633159,
         404227473,
         101751931,
-        136253055
+        136253055,
+        1360699229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1360702895,
-    "wof:lastmodified":1547766327,
+    "wof:lastmodified":1566628880,
     "wof:name":"SAP Research Center Belfast",
     "wof:parent_id":101751931,
     "wof:placetype":"neighbourhood",

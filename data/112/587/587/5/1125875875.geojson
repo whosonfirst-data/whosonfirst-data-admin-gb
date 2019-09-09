@@ -9,15 +9,17 @@
     "geom:bbox":"-1.07581037904,52.6871475671,-1.00484416646,52.7133847685",
     "geom:latitude":52.702597,
     "geom:longitude":-1.035819,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2307,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":2307,
     "iso:country":"GB",
     "lbl:latitude":52.70591,
     "lbl:longitude":-1.04749,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09c7\u09a8\u09bf\u09ac\u09b0\u09cb"
@@ -82,7 +84,7 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c2f\u0c42\u0c28\u0c3f\u0c2c\u0c30\u0c4b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Queniboro"
     ],
     "name:urd_x_preferred":[
@@ -108,7 +110,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1125875875,
-    "wof:lastmodified":1563341158,
+    "wof:lastmodified":1566635128,
     "wof:name":"Queniborough",
     "wof:parent_id":404450219,
     "wof:placetype":"locality",

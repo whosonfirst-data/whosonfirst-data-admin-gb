@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":51.413786,
     "lbl:longitude":0.733576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.417211,
     "mps:longitude":0.747502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u06a9\u0648\u06cc\u06cc\u0646\u200c\u0628\u0648\u0631\u0648"
     ],
@@ -119,7 +122,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.4183,
     "wd:longitude":0.745,
@@ -136,7 +139,6 @@
     "wof:concordances":{
         "gn:id":2639796,
         "gp:id":32767,
-        "qs:id":231546,
         "qs_pg:id":231546,
         "wd:id":"Q587299",
         "wk:page":"Queenborough"
@@ -158,7 +160,7 @@
         }
     ],
     "wof:id":101875409,
-    "wof:lastmodified":1563336483,
+    "wof:lastmodified":1566630877,
     "wof:name":"Queenborough",
     "wof:parent_id":404448581,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-1.04439807392,53.3764801668,-0.991321238231,53.3957402342",
     "geom:latitude":53.384284,
     "geom:longitude":-1.016165,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1362,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":53.38281,
     "lbl:longitude":-1.01402,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0420\u0430\u043d\u0441\u043a\u0438\u043b"
@@ -40,7 +42,7 @@
     "name:swe_x_preferred":[
         "Ranskill"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramskill"
     ],
     "qs_pg:aaroncc":"GB",
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1126056917,
-    "wof:lastmodified":1563340121,
+    "wof:lastmodified":1566634482,
     "wof:name":"Laskill",
     "wof:parent_id":404438223,
     "wof:placetype":"locality",

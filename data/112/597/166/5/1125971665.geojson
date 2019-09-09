@@ -9,15 +9,17 @@
     "geom:bbox":"-1.59080922301,52.6366226497,-1.54242997817,52.6736492179",
     "geom:latitude":52.654293,
     "geom:longitude":-1.565377,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":928,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.65677,
     "lbl:longitude":-1.56679,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Austrey"
@@ -64,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1125971665,
-    "wof:lastmodified":1563341619,
+    "wof:lastmodified":1566635409,
     "wof:name":"Austrey",
     "wof:parent_id":404429235,
     "wof:placetype":"locality",

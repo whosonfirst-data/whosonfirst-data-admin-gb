@@ -9,17 +9,19 @@
     "geom:bbox":"-1.570933,54.618434,-1.570933,54.618434",
     "geom:latitude":54.618434,
     "geom:longitude":-1.570933,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":26269,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:population":26269,
     "iso:country":"GB",
+    "lbl:bbox":"-1.575933,54.613434,-1.565933,54.623434",
     "lbl:latitude":54.618436,
     "lbl:longitude":-1.570932,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.618436,
     "mps:longitude":-1.570932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Newton Aycliffe"
     ],
@@ -65,7 +67,7 @@
     "name:swe_x_preferred":[
         "Newton Aycliffe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Newton"
     ],
     "name:vol_x_preferred":[
@@ -113,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.62,
     "wd:longitude":-1.58,
@@ -131,7 +133,6 @@
     "wof:concordances":{
         "gn:id":2641565,
         "gp:id":30204,
-        "qs:id":454009,
         "qs_pg:id":278383,
         "wd:id":"Q339608",
         "wk:page":"Newton Aycliffe"
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1360791129,
-    "wof:lastmodified":1563333703,
+    "wof:lastmodified":1566628800,
     "wof:name":"Newton Aycliffe",
     "wof:parent_id":1360756819,
     "wof:placetype":"neighbourhood",

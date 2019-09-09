@@ -9,14 +9,17 @@
     "geom:bbox":"-5.10871450354,50.1922894807,-5.02719288822,50.2297251232",
     "geom:latitude":50.215379,
     "geom:longitude":-5.065226,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":50.20582,
     "lbl:longitude":-5.05035,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0648\u0643"
@@ -60,7 +63,7 @@
     "name:swe_x_preferred":[
         "Feock"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint Feoch"
     ],
     "qs_pg:aaroncc":"GB",
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1125817741,
-    "wof:lastmodified":1563340587,
+    "wof:lastmodified":1566634786,
     "wof:name":"Feock",
     "wof:parent_id":404447423,
     "wof:placetype":"locality",

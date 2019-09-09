@@ -9,15 +9,17 @@
     "geom:bbox":"-2.97378576596,53.2039829726,-2.92944005558,53.2502776741",
     "geom:latitude":53.224897,
     "geom:longitude":-2.949114,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2726,
-    "gn:population":2569,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":2726,
     "iso:country":"GB",
     "lbl:latitude":53.22618,
     "lbl:longitude":-2.95649,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0642\u0644\u0644"
@@ -52,7 +54,7 @@
     "name:swe_x_preferred":[
         "Saughall"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Great Saughall"
     ],
     "qs_pg:aaroncc":"GB",
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125916827,
-    "wof:lastmodified":1563342133,
+    "wof:lastmodified":1566635723,
     "wof:name":"Saughall",
     "wof:parent_id":404442491,
     "wof:placetype":"locality",

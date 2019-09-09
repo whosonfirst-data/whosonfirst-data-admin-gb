@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.30107,
     "lbl:longitude":-0.695485,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.301072,
     "mps:longitude":-0.695485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0648\u0644\u06cc\u0646\u0642\u0628\u0648\u0631\u0648"
     ],
@@ -151,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4229,
     "wof:belongsto":[
@@ -165,10 +168,12 @@
     "wof:concordances":{
         "gn:id":2634578,
         "gp:id":39446,
-        "qs:id":278979,
-        "qs_pg:id":1190783,
+        "qs_pg:id":278979,
         "wd:id":"Q913499",
         "wk:page":"Wellingborough"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190783
     },
     "wof:country":"GB",
     "wof:geomhash":"daa28bfb9300e7cc00951ac04d2c4313",
@@ -183,7 +188,7 @@
         }
     ],
     "wof:id":101853583,
-    "wof:lastmodified":1563336804,
+    "wof:lastmodified":1566630992,
     "wof:name":"Wellingborough",
     "wof:parent_id":1360698755,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"0.622952333639,51.5256004934,0.670951328959,51.5575859264",
     "geom:latitude":51.540517,
     "geom:longitude":0.646036,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.54297,
     "lbl:longitude":0.64905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0644\u06cc-\u0622\u0646-\u0633\u06cc"
@@ -105,7 +108,7 @@
     "name:tel_x_preferred":[
         "\u0c32\u0c48-\u0c06\u0c28\u0c4d-\u0c38\u0c40"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leigh"
     ],
     "name:urd_x_preferred":[
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         1360698551,
         102191581,
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1125901729,
-    "wof:lastmodified":1563341501,
+    "wof:lastmodified":1566635331,
     "wof:name":"Leigh-on-Sea",
     "wof:parent_id":404430929,
     "wof:placetype":"locality",

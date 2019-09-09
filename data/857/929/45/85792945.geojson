@@ -11,8 +11,10 @@
     "geom:longitude":-2.462641,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-2.467641,53.561119,-2.457641,53.571119",
     "lbl:latitude":53.566119,
     "lbl:longitude":-2.462641,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.568158,
     "mps:longitude":-2.476737,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Fernhill Gate"
-    ],
-    "name:unk_x_variant":[
         "Fernhill Gate"
     ],
     "qs:gn_adm0_cc":"GB",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698555,
         102191581,
         85633159,
         404227469,
         101750551,
-        1360699099
+        1360699099,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":43852,
-        "qs:id":1085995,
         "qs_pg:id":1085995
     },
     "wof:country":"GB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1542404060,
+    "wof:lastmodified":1566627762,
     "wof:name":"Fernhill Gate",
     "wof:parent_id":101750551,
     "wof:placetype":"neighbourhood",

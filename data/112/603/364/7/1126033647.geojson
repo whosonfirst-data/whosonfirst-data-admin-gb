@@ -9,15 +9,17 @@
     "geom:bbox":"-1.48891002501,52.1698233833,-1.44478993391,52.1980932762",
     "geom:latitude":52.184658,
     "geom:longitude":-1.465958,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":446,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":52.1834,
     "lbl:longitude":-1.4701,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09af\u09c7\u09a1\u09cb\u09a8"
@@ -115,7 +117,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1126033647,
-    "wof:lastmodified":1563340289,
+    "wof:lastmodified":1566634597,
     "wof:name":"Gaydon",
     "wof:parent_id":404442643,
     "wof:placetype":"locality",

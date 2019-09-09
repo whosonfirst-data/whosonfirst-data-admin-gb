@@ -9,15 +9,17 @@
     "geom:bbox":"-0.798003901155,51.9420132303,-0.729721910891,51.9641807331",
     "geom:latitude":51.952215,
     "geom:longitude":-0.764374,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":596,
-    "gn:population":614,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":596,
     "iso:country":"GB",
     "lbl:latitude":51.94934,
     "lbl:longitude":-0.78046,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u0631\u064a\u062a\u0648\u0646 \u0628\u0631\u0633\u0644\u0648"
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125954357,
-    "wof:lastmodified":1563339847,
+    "wof:lastmodified":1566634306,
     "wof:name":"Drayton Parslow",
     "wof:parent_id":404446227,
     "wof:placetype":"locality",

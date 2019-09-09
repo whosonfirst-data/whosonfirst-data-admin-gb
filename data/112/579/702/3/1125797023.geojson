@@ -9,14 +9,17 @@
     "geom:bbox":"-3.64903451009,51.4341438164,-3.53242110514,51.4845240722",
     "geom:latitude":51.459195,
     "geom:longitude":-3.593792,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.46167,
     "lbl:longitude":-3.59167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Saint-y-brid"
@@ -45,7 +48,7 @@
     "name:swe_x_preferred":[
         "St Brides Major"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint Brides"
     ],
     "nav:latitude":51.46167,
@@ -71,7 +74,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":35591,
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Wales",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125797023,
-    "wof:lastmodified":1563342933,
+    "wof:lastmodified":1566636231,
     "wof:name":"St. Brides Major",
     "wof:parent_id":404453987,
     "wof:placetype":"locality",

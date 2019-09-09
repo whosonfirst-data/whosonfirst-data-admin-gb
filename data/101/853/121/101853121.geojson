@@ -13,10 +13,13 @@
     "iso:country":"GB",
     "lbl:latitude":52.271439,
     "lbl:longitude":-3.006449,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.271439,
     "mps:longitude":-3.006448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Llanandras"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Presteigne"
     ],
-    "name:unk_x_variant":[
-        "Presteigh"
-    ],
     "name:zho_x_preferred":[
         "\u666e\u5229\u65af\u63d0\u6069"
     ],
@@ -109,7 +109,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.274444,
     "wd:longitude":-3.005278,
@@ -127,7 +127,6 @@
         "fct:id":"0aa691b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2639924,
         "gp:id":32553,
-        "qs:id":140678,
         "qs_pg:id":140678,
         "wd:id":"Q2532363",
         "wk:page":"Presteigne"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563336763,
+    "wof:lastmodified":1566630974,
     "wof:name":"Presteigne",
     "wof:parent_id":404445509,
     "wof:placetype":"locality",

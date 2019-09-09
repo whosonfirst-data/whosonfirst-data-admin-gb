@@ -12,8 +12,10 @@
     "gn:latitude":54.57415,
     "gn:longitude":-1.19219,
     "iso:country":"GB",
+    "lbl:bbox":"-1.192332,54.572932,-1.182332,54.582932",
     "lbl:latitude":54.577932,
     "lbl:longitude":-1.187332,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.578237,
     "mps:longitude":-1.188344,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:eng_x_preferred":[
         "Cargo Fleet"
     ],
-    "name:unk_x_variant":[
-        "Cleveland Port",
-        "Cargo Fleet"
+    "name:und_x_variant":[
+        "Cleveland Port"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -60,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        1360698619,
         102191581,
         85633159,
         404227469,
         101873325,
-        1360698859
+        1360698859,
+        1360698619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2653794,
         "gp:id":15151,
-        "qs:id":290926,
         "qs_pg:id":290926
     },
     "wof:country":"GB",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1547717623,
+    "wof:lastmodified":1566627716,
     "wof:name":"Cargo Fleet",
     "wof:parent_id":101873325,
     "wof:placetype":"neighbourhood",

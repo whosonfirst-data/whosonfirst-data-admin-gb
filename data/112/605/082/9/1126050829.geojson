@@ -9,12 +9,15 @@
     "geom:bbox":"-2.71410424042,50.9091009649,-2.6567588888,50.9390309038",
     "geom:latitude":50.923922,
     "geom:longitude":-2.682995,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"GB",
     "lbl:latitude":50.919464,
     "lbl:longitude":-2.686103,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u0995\u09cb\u0995\u09be\u09b0"
@@ -71,7 +74,7 @@
         "West Coker"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0b95\u0bcb\u0b95\u0bc6\u0bb0\u0bcd"
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bcb\u0b95\u0bc6\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d \u0c15\u0c4b\u0c15\u0c30\u0c4d"
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1126050829,
-    "wof:lastmodified":1563340001,
+    "wof:lastmodified":1566634402,
     "wof:name":"West Coker",
     "wof:parent_id":404433361,
     "wof:placetype":"locality",

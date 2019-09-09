@@ -9,14 +9,17 @@
     "geom:bbox":"0.365984799154,51.3284009747,0.426061889549,51.3819517571",
     "geom:latitude":51.361008,
     "geom:longitude":0.394277,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:latitude":51.37079,
     "lbl:longitude":0.39774,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Luddesdown"
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125929109,
-    "wof:lastmodified":1563339775,
+    "wof:lastmodified":1566634262,
     "wof:name":"Luddesdown",
     "wof:parent_id":404442287,
     "wof:placetype":"locality",

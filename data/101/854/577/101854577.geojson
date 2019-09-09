@@ -12,10 +12,13 @@
     "iso:country":"GB",
     "lbl:latitude":50.820185,
     "lbl:longitude":0.339568,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.820185,
     "mps:longitude":0.339568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09b9\u09cd\u09af\u09be\u09ae"
     ],
@@ -79,7 +82,7 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d\u0c25\u0c02"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Westhay"
     ],
     "name:urd_x_preferred":[
@@ -105,7 +108,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.82,
     "wd:longitude":0.32,
     "wd:wordcount":551,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":3345371,
         "gp:id":39933,
-        "qs:id":380434,
-        "qs_pg:id":976805,
+        "qs_pg:id":380434,
         "wd:id":"Q1610331",
         "wk:page":"Westham"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":976805
     },
     "wof:coterminous":[
         404439535
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":101854577,
-    "wof:lastmodified":1563336899,
+    "wof:lastmodified":1566631033,
     "wof:name":"Westham",
     "wof:parent_id":404431105,
     "wof:placetype":"locality",

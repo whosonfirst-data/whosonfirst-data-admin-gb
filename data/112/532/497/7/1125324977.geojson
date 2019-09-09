@@ -12,15 +12,18 @@
     "geom:bbox":"-0.3023,51.51282,-0.3023,51.51282",
     "geom:latitude":51.51282,
     "geom:longitude":-0.3023,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":318500,
-    "gn:population":343196,
+    "gn:country":"GB",
+    "gn:fcode":"ADM3",
+    "gn:population":318500,
     "iso:country":"GB",
+    "lbl:bbox":"-0.4023,51.41282,-0.2023,51.61282",
     "lbl:latitude":51.51282,
     "lbl:longitude":-0.3023,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0644\u06cc\u0646\u0642"
@@ -157,7 +160,7 @@
     "qs_pg:qs_id":582655,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85633159
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1125324977,
-    "wof:lastmodified":1563339864,
+    "wof:lastmodified":1566634318,
     "wof:name":"Ealing",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
