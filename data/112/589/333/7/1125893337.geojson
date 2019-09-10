@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -215,14 +216,16 @@
         }
     ],
     "wof:id":1125893337,
-    "wof:lastmodified":1566634941,
+    "wof:lastmodified":1568137241,
     "wof:name":"Paisley",
     "wof:parent_id":404432463,
     "wof:placetype":"locality",
     "wof:population":76220,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125903301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
