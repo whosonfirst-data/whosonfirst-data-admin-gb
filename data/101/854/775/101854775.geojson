@@ -112,8 +112,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -136,6 +137,11 @@
         "wk:page":"Potters Bar"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ed601ed50bd5f7c59e87b15eace91b3",
     "wof:hierarchy":[
         {
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":101854775,
-    "wof:lastmodified":1566631030,
+    "wof:lastmodified":1582310973,
     "wof:name":"Potters Bar",
     "wof:parent_id":1360698763,
     "wof:placetype":"locality",

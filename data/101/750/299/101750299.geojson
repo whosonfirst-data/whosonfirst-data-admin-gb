@@ -134,7 +134,8 @@
     "qs:type":"urban core",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -158,6 +159,10 @@
         "wk:page":"Paignton"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "whosonfirst"
+    ],
     "wof:geomhash":"57bdcc09d7d2318853a8cc393b5637ef",
     "wof:hierarchy":[
         {
@@ -171,7 +176,7 @@
         }
     ],
     "wof:id":101750299,
-    "wof:lastmodified":1566630932,
+    "wof:lastmodified":1582310941,
     "wof:name":"Paignton",
     "wof:parent_id":1360817197,
     "wof:placetype":"locality",

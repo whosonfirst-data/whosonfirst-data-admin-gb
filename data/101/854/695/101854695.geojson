@@ -211,8 +211,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -232,6 +233,11 @@
         "wk:page":"Windsor, Berkshire"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef77e8c0c09ca150080b32611e2d3afa",
     "wof:hierarchy":[
         {
@@ -244,7 +250,7 @@
         }
     ],
     "wof:id":101854695,
-    "wof:lastmodified":1566631007,
+    "wof:lastmodified":1582310967,
     "wof:name":"Windsor",
     "wof:parent_id":1360698943,
     "wof:placetype":"locality",

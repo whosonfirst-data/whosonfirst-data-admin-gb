@@ -154,8 +154,9 @@
     "qs:type":"buffered point",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -184,6 +185,11 @@
         404439693
     ],
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e55606373daa142814f90f9b950a8c90",
     "wof:hierarchy":[
         {
@@ -200,7 +206,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630947,
+    "wof:lastmodified":1582310946,
     "wof:name":"Chirk",
     "wof:parent_id":404439693,
     "wof:placetype":"locality",

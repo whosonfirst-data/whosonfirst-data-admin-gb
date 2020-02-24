@@ -174,8 +174,9 @@
     "qs:type":"buffered point",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "whosonfirst",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -203,6 +204,11 @@
         404440355
     ],
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "whosonfirst",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65290298fe205a55e40830eb94406305",
     "wof:hierarchy":[
         {
@@ -219,7 +225,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566631053,
+    "wof:lastmodified":1582310982,
     "wof:name":"Port Talbot",
     "wof:parent_id":404440355,
     "wof:placetype":"locality",

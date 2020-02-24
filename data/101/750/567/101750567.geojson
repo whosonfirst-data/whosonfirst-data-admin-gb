@@ -176,7 +176,8 @@
     "qs:type":"urban core",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -199,6 +200,10 @@
         "wk:page":"Bury"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "whosonfirst"
+    ],
     "wof:geomhash":"79a66948d17cfccd5e54f0dd93c90ef7",
     "wof:hierarchy":[
         {
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":101750567,
-    "wof:lastmodified":1566630898,
+    "wof:lastmodified":1582310927,
     "wof:name":"Bury",
     "wof:parent_id":1360698847,
     "wof:placetype":"locality",

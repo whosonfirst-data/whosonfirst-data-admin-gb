@@ -139,8 +139,9 @@
     "qs:type":"buffered point",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -167,6 +168,11 @@
         404434345
     ],
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f70e2870120c541938a56960bc77ec14",
     "wof:hierarchy":[
         {
@@ -183,7 +189,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630976,
+    "wof:lastmodified":1582310957,
     "wof:name":"Machynlleth",
     "wof:parent_id":404434345,
     "wof:placetype":"locality",

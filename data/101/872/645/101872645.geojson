@@ -413,8 +413,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "naturalearth",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -437,6 +438,11 @@
         "wk:page":"Perth, Scotland"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6faf6b04c817f6a23792b3fdb661bd84",
     "wof:hierarchy":[
         {
@@ -450,7 +456,7 @@
         }
     ],
     "wof:id":101872645,
-    "wof:lastmodified":1566630822,
+    "wof:lastmodified":1582310906,
     "wof:name":"Perth",
     "wof:parent_id":404451983,
     "wof:placetype":"locality",

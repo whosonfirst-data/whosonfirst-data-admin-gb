@@ -180,8 +180,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.062,
@@ -205,6 +206,11 @@
         "wk:page":"Horsham"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b31fdd1486e3889272c4cda4ed19eb9",
     "wof:hierarchy":[
         {
@@ -220,7 +226,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566631022,
+    "wof:lastmodified":1582310971,
     "wof:name":"Horsham",
     "wof:parent_id":1360698757,
     "wof:placetype":"locality",

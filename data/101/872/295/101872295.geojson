@@ -130,8 +130,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -155,6 +156,11 @@
         "wk:page":"Ormskirk"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec79f690913b80ffd4ef54f3ed0f62c9",
     "wof:hierarchy":[
         {
@@ -170,7 +176,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630828,
+    "wof:lastmodified":1582310908,
     "wof:name":"Ormskirk",
     "wof:parent_id":1360698817,
     "wof:placetype":"locality",

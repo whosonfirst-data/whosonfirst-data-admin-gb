@@ -130,8 +130,9 @@
     "qs:type":"buffered point",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -158,6 +159,11 @@
         404448559
     ],
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aebf53d5c0f7fb511be12fe7b27d617a",
     "wof:hierarchy":[
         {
@@ -174,7 +180,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630853,
+    "wof:lastmodified":1582310914,
     "wof:name":"Connah's Quay",
     "wof:parent_id":404448559,
     "wof:placetype":"locality",

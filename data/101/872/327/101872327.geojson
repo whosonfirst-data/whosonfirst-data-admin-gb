@@ -117,8 +117,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "whosonfirst",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.841,
@@ -141,6 +142,11 @@
         "wk:page":"Houghton-le-Spring"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "whosonfirst",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05717b0f48ffea5ada9773139e15ab15",
     "wof:hierarchy":[
         {
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":101872327,
-    "wof:lastmodified":1566630865,
+    "wof:lastmodified":1582310917,
     "wof:name":"Houghton-le-Spring",
     "wof:parent_id":1360817213,
     "wof:placetype":"locality",

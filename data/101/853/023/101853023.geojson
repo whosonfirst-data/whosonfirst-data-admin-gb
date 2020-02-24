@@ -145,8 +145,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -170,6 +171,11 @@
         "wk:page":"Bromsgrove"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"838597e4b4f2773885ec7d92dececb16",
     "wof:hierarchy":[
         {
@@ -185,7 +191,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630961,
+    "wof:lastmodified":1582310951,
     "wof:name":"Bromsgrove",
     "wof:parent_id":1360699043,
     "wof:placetype":"locality",

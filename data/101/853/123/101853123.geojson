@@ -197,8 +197,9 @@
     "qs:type":"buffered point",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -224,6 +225,11 @@
         404438871
     ],
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"037bb8a83177ee6e19036d337b446044",
     "wof:hierarchy":[
         {
@@ -240,7 +246,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630990,
+    "wof:lastmodified":1582310961,
     "wof:name":"Brecon",
     "wof:parent_id":404438871,
     "wof:placetype":"locality",

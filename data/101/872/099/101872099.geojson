@@ -118,8 +118,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg",
-        "quattroshapes"
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -145,6 +146,11 @@
         "qs_pg:id":1264930
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "whosonfirst"
+    ],
     "wof:geomhash":"7399d90e215183c37ef35647116b49f1",
     "wof:hierarchy":[
         {
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":101872099,
-    "wof:lastmodified":1566630830,
+    "wof:lastmodified":1582310908,
     "wof:name":"Buxton",
     "wof:parent_id":1360698765,
     "wof:placetype":"locality",

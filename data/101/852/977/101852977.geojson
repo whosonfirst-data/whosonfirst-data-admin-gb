@@ -190,8 +190,9 @@
     "qs:type":"buffered point",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -218,6 +219,11 @@
         404445927
     ],
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"832decc8efdf76980830df81859fba7f",
     "wof:hierarchy":[
         {
@@ -234,7 +240,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566631057,
+    "wof:lastmodified":1582310983,
     "wof:name":"Carmarthen",
     "wof:parent_id":404445927,
     "wof:placetype":"locality",

@@ -266,8 +266,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "naturalearth",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -292,6 +293,11 @@
         "wk:page":"Dumfries"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ab50ea67a64e1573040641afd7447972",
     "wof:hierarchy":[
         {
@@ -308,7 +314,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630801,
+    "wof:lastmodified":1582310901,
     "wof:name":"Dumfries",
     "wof:parent_id":404444245,
     "wof:placetype":"locality",

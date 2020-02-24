@@ -99,8 +99,9 @@
     "qs:type":"buffered point",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -128,6 +129,11 @@
         404439811
     ],
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42fe712b059324cdce411e27fdfd8559",
     "wof:hierarchy":[
         {
@@ -144,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630829,
+    "wof:lastmodified":1582310908,
     "wof:name":"Dyserth",
     "wof:parent_id":404439811,
     "wof:placetype":"locality",

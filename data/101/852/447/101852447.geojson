@@ -284,8 +284,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg",
-        "quattroshapes"
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -309,6 +310,11 @@
         "wk:page":"Winchester"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "whosonfirst"
+    ],
     "wof:geomhash":"47326213c87396b575d18c38231209ab",
     "wof:hierarchy":[
         {
@@ -324,7 +330,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566631044,
+    "wof:lastmodified":1582310979,
     "wof:name":"Winchester",
     "wof:parent_id":1360698827,
     "wof:placetype":"locality",

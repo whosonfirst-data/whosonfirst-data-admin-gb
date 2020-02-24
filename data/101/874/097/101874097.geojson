@@ -165,8 +165,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "whosonfirst",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.918056,
@@ -189,6 +190,11 @@
         "wk:page":"Grantham"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "whosonfirst",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f09e9ce4be05d3db37d50c8aae99d0de",
     "wof:hierarchy":[
         {
@@ -204,7 +210,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630748,
+    "wof:lastmodified":1582310889,
     "wof:name":"Grantham",
     "wof:parent_id":1360699067,
     "wof:placetype":"locality",

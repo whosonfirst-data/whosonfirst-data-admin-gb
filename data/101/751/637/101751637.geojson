@@ -233,7 +233,8 @@
     "qs:type":"urban core",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -260,6 +261,10 @@
         "qs_pg:id":1073899
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "whosonfirst"
+    ],
     "wof:geomhash":"6a30c6b2dbd2310531fbb67784047e76",
     "wof:hierarchy":[
         {
@@ -273,7 +278,7 @@
         }
     ],
     "wof:id":101751637,
-    "wof:lastmodified":1566630895,
+    "wof:lastmodified":1582310925,
     "wof:name":"Wakefield",
     "wof:parent_id":1360817491,
     "wof:placetype":"locality",
