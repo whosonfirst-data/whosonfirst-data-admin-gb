@@ -80,7 +80,8 @@
     "qs:type":"urban core",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -104,6 +105,10 @@
         "wk:page":"Whitley Bay"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "whosonfirst"
+    ],
     "wof:geomhash":"417924466fc3d4198f6114340610d2f4",
     "wof:hierarchy":[
         {
@@ -117,7 +122,7 @@
         }
     ],
     "wof:id":101751655,
-    "wof:lastmodified":1566630895,
+    "wof:lastmodified":1582310925,
     "wof:name":"Whitley Bay",
     "wof:parent_id":1360817045,
     "wof:placetype":"locality",

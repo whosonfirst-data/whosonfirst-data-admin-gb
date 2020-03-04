@@ -109,8 +109,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg",
-        "quattroshapes"
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -134,6 +135,11 @@
         "wk:page":"Chertsey"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "whosonfirst"
+    ],
     "wof:geomhash":"58ca40996c2bf7765b1c9730f1a12fb0",
     "wof:hierarchy":[
         {
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":101853507,
-    "wof:lastmodified":1566630977,
+    "wof:lastmodified":1582310957,
     "wof:name":"Chertsey",
     "wof:parent_id":1360817277,
     "wof:placetype":"locality",

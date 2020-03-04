@@ -166,8 +166,9 @@
     "qs:type":"buffered point",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -196,6 +197,11 @@
         404429451
     ],
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4c229a6adb27f083d07315e0d43619f",
     "wof:hierarchy":[
         {
@@ -212,7 +218,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566631046,
+    "wof:lastmodified":1582310979,
     "wof:name":"Chepstow",
     "wof:parent_id":404429451,
     "wof:placetype":"locality",

@@ -84,8 +84,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.774,
@@ -109,6 +110,11 @@
         "wk:page":"Swadlincote"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"361d7250b91f3334b25ba74d64b7a5fc",
     "wof:hierarchy":[
         {
@@ -125,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630980,
+    "wof:lastmodified":1582310958,
     "wof:name":"Swadlincote",
     "wof:parent_id":1360817119,
     "wof:placetype":"locality",

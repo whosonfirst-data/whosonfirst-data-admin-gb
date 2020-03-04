@@ -124,8 +124,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg",
-        "quattroshapes"
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -146,6 +147,11 @@
         "wk:page":"Blaydon-on-Tyne"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "whosonfirst"
+    ],
     "wof:geomhash":"c1cbaf54876dac5e1087a57dd056038b",
     "wof:hierarchy":[
         {
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":101873371,
-    "wof:lastmodified":1566630783,
+    "wof:lastmodified":1582310897,
     "wof:name":"Blaydon",
     "wof:parent_id":1360817105,
     "wof:placetype":"locality",

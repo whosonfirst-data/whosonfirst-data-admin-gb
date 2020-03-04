@@ -160,8 +160,9 @@
     "qs:type":"buffered point",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "whosonfirst",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -190,6 +191,11 @@
         404429415
     ],
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "whosonfirst",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9c3ffe1ab03092dd3926e59013865f40",
     "wof:hierarchy":[
         {
@@ -206,7 +212,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566631072,
+    "wof:lastmodified":1582310988,
     "wof:name":"Caerleon",
     "wof:parent_id":404429415,
     "wof:placetype":"locality",

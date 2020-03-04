@@ -166,8 +166,9 @@
     "qs:type":"buffered point",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -196,6 +197,11 @@
         404454873
     ],
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"551811747cf536d39ede692ef3f012fd",
     "wof:hierarchy":[
         {
@@ -212,7 +218,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566630828,
+    "wof:lastmodified":1582310908,
     "wof:name":"Ruthin",
     "wof:parent_id":404454873,
     "wof:placetype":"locality",

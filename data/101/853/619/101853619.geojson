@@ -106,8 +106,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -130,6 +131,11 @@
         "wk:page":"Melton Mowbray"
     },
     "wof:country":"GB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6bd1aa064f119d5ff4f67a67fa9d5fa",
     "wof:hierarchy":[
         {
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":101853619,
-    "wof:lastmodified":1566630963,
+    "wof:lastmodified":1582310952,
     "wof:name":"Melton Mowbray",
     "wof:parent_id":1360698871,
     "wof:placetype":"locality",
