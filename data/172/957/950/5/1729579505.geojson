@@ -115,10 +115,6 @@
     "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
-    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -133,10 +129,6 @@
         "wk:page":"Widnes"
     },
     "wof:country":"GB",
-    "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
-    ],
     "wof:geomhash":"326c98df2f39f6cd9823e4666f2978f7",
     "wof:hierarchy":[
         {
@@ -149,13 +141,15 @@
         }
     ],
     "wof:id":1729579505,
-    "wof:lastmodified":1607478209,
+    "wof:lastmodified":1607478532,
     "wof:name":"Widnes",
     "wof:parent_id":1360698991,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101751623
+    ],
     "wof:tags":[]
 },
   "bbox": [
