@@ -1,9 +1,8 @@
 {
-  "id": 101751623,
+  "id": 1729579505,
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2020-12-08",
     "edtf:inception":"uuuu",
     "geom:area":0.007318,
     "geom:area_square_m":54012556.722024,
@@ -19,7 +18,7 @@
     "mps:latitude":53.370502,
     "mps:longitude":-2.722206,
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
+    "mz:is_current":1,
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u062f\u0646\u0633"
@@ -116,15 +115,8 @@
     "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
-    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wd:latitude":53.363,
-    "wd:longitude":-2.728,
-    "wd:wordcount":6950,
     "wof:belongsto":[
         102191581,
         85633159,
@@ -134,48 +126,30 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2633954,
-        "gp:id":40442,
-        "qs_pg:id":1036765,
-        "wd:id":"Q1022741",
         "wk:page":"Widnes"
     },
-    "wof:concordances_alt":{
-        "qs_pg:id":1073943
-    },
     "wof:country":"GB",
-    "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
-    ],
     "wof:geomhash":"326c98df2f39f6cd9823e4666f2978f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698991,
-            "locality_id":101751623,
+            "localadmin_id":1729579505,
             "macroregion_id":404227469,
             "region_id":1360698537
         }
     ],
-    "wof:id":101751623,
-    "wof:lastmodified":1607478380,
+    "wof:id":1729579505,
+    "wof:lastmodified":1607478532,
     "wof:name":"Widnes",
     "wof:parent_id":1360698991,
-    "wof:placetype":"locality",
-    "wof:placetype_alt":[
-        "localadmin"
-    ],
-    "wof:population":56097,
-    "wof:population_rank":8,
+    "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[
-        1729579505,
-        1729579503,
-        1729579495
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101751623
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
