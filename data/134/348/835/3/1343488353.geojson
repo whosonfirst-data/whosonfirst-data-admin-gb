@@ -2,73 +2,76 @@
   "id": 1343488353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2018-12-14",
-    "edtf:inception":"",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-3.3,55.95,-3.3,55.95",
-    "geom:latitude":55.95,
-    "geom:longitude":-3.3,
-    "gn:admin1_code":"SCT",
-    "gn:admin2_code":"U8",
-    "gn:asciiname":"Cramond Bridge",
-    "gn:country_code":"GB",
-    "gn:dem":67,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2652093,
-    "gn:latitude":55.95,
-    "gn:longitude":-3.3,
-    "gn:modification_date":"2007-05-22",
-    "gn:name":"Cramond Bridge",
-    "gn:population":0,
-    "gn:timezone":"Europe/London",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        1360698673,
-        102191581,
-        404437279,
-        85633159,
-        404227471,
-        1360698761
+    "date:cessation_lower": "2018-12-14",
+    "date:cessation_upper": "2018-12-14",
+    "edtf:cessation": "2018-12-14",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.300000,55.950000,-3.300000,55.950000",
+    "geom:latitude": 55.95,
+    "geom:longitude": -3.3,
+    "gn:admin1_code": "SCT",
+    "gn:admin2_code": "U8",
+    "gn:asciiname": "Cramond Bridge",
+    "gn:country_code": "GB",
+    "gn:dem": 67,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2652093,
+    "gn:latitude": 55.95,
+    "gn:longitude": -3.3,
+    "gn:modification_date": "2007-05-22",
+    "gn:name": "Cramond Bridge",
+    "gn:population": 0,
+    "gn:timezone": "Europe/London",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      1360698673,
+      102191581,
+      404437279,
+      85633159,
+      404227471,
+      1360698761
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2652093
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2652093
     },
-    "wof:country":"GB",
-    "wof:geomhash":"95a6738b473f581f78baa4c60b4df0b0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698761,
-            "localadmin_id":404437279,
-            "locality_id":1343488353,
-            "macroregion_id":404227471,
-            "region_id":1360698673
-        }
+    "wof:country": "GB",
+    "wof:created": 1644774784,
+    "wof:geomhash": "95a6738b473f581f78baa4c60b4df0b0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698761,
+        "localadmin_id": 404437279,
+        "locality_id": 1343488353,
+        "macroregion_id": 404227471,
+        "region_id": 1360698673
+      }
     ],
-    "wof:id":1343488353,
-    "wof:lastmodified":1547766383,
-    "wof:name":"Cramond Bridge",
-    "wof:parent_id":404437279,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[
-        1360703507
+    "wof:id": 1343488353,
+    "wof:lastmodified": 1644774967,
+    "wof:name": "Cramond Bridge",
+    "wof:parent_id": 404437279,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:superseded_by": [
+      1360703507
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -3.3,
     55.95,
     -3.3,
     55.95
-],
+  ],
   "geometry": {"coordinates":[-3.3,55.95],"type":"Point"}
 }

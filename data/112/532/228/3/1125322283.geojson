@@ -2,78 +2,80 @@
   "id": 1125322283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2017-05-19",
-    "edtf:inception":"",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"0.36405,51.44291,0.36405,51.44291",
-    "geom:latitude":51.44291,
-    "geom:longitude":0.36405,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":97700,
-    "gn:population":106808,
-    "iso:country":"GB",
-    "lbl:latitude":51.44291,
-    "lbl:longitude":0.36405,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:eng_x_preferred":[
-        "Gravesham District"
+    "date:cessation_lower": "2017-05-19",
+    "date:cessation_upper": "2017-05-19",
+    "edtf:cessation": "2017-05-19",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.364050,51.442910,0.364050,51.442910",
+    "geom:latitude": 51.44291,
+    "geom:longitude": 0.36405,
+    "gn:gn_country": "GB",
+    "gn:gn_fcode": "ADM3",
+    "gn:gn_pop": 97700,
+    "gn:population": 106808,
+    "iso:country": "GB",
+    "lbl:latitude": 51.44291,
+    "lbl:longitude": 0.36405,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred": [
+      "Gravesham District"
     ],
-    "name:eng_x_variant":[
-        "Gravesham",
-        "Borough of Gravesham"
+    "name:eng_x_variant": [
+      "Gravesham",
+      "Borough of Gravesham"
     ],
-    "qs_pg:aaroncc":"GB",
-    "qs_pg:gn_country":"GB",
-    "qs_pg:gn_fcode":"ADM3",
-    "qs_pg:gn_id":2648186,
-    "qs_pg:gn_pop":97700,
-    "qs_pg:name":"Borough of Gravesham",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":8,
-    "qs_pg:qs_id":92206,
-    "qs_pg:qs_pg_placetype":"localadmin",
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85633159
+    "qs_pg:aaroncc": "GB",
+    "qs_pg:gn_country": "GB",
+    "qs_pg:gn_fcode": "ADM3",
+    "qs_pg:gn_id": 2648186,
+    "qs_pg:gn_pop": 97700,
+    "qs_pg:name": "Borough of Gravesham",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 8,
+    "qs_pg:qs_id": 92206,
+    "qs_pg:qs_pg_placetype": "localadmin",
+    "src:geom": "qs_pg",
+    "src:lbl:centroid": "qs_pg",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85633159
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2648186,
-        "qs_pg:id":92206
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2648186,
+      "qs_pg:id": 92206
     },
-    "wof:country":"GB",
-    "wof:created":1497044601,
-    "wof:geomhash":"ae7093b36aedab3facf4279d4e7363c1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633159,
-            "localadmin_id":1125322283
-        }
+    "wof:country": "GB",
+    "wof:created": 1497044601,
+    "wof:geomhash": "ae7093b36aedab3facf4279d4e7363c1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "localadmin_id": 1125322283
+      }
     ],
-    "wof:id":1125322283,
-    "wof:lastmodified":1505186505,
-    "wof:name":"Borough of Gravesham",
-    "wof:parent_id":-1,
-    "wof:placetype":"localadmin",
-    "wof:population":106808,
-    "wof:population_rank":9,
-    "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125322283,
+    "wof:lastmodified": 1644774959,
+    "wof:name": "Borough of Gravesham",
+    "wof:parent_id": -1,
+    "wof:placetype": "localadmin",
+    "wof:population": 106808,
+    "wof:population_rank": 9,
+    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     0.36405,
     51.44291,
     0.36405,
     51.44291
-],
+  ],
   "geometry": {"coordinates":[0.36405,51.44291],"type":"Point"}
 }

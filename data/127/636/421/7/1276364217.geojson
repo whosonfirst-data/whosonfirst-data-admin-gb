@@ -2,65 +2,68 @@
   "id": 1276364217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2019-02-12",
-    "edtf:inception":"",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-5.66667,54.6,-5.66667,54.6",
-    "geom:latitude":54.6,
-    "geom:longitude":-5.66667,
-    "gn:admin1_code":"NIR",
-    "gn:admin2_code":"N09000011",
-    "gn:asciiname":"Drumhirk",
-    "gn:country_code":"GB",
-    "gn:dem":51,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2650937,
-    "gn:latitude":54.6,
-    "gn:longitude":-5.66667,
-    "gn:modification_date":"2016-12-04",
-    "gn:name":"Drumhirk",
-    "gn:population":0,
-    "gn:timezone":"Europe/London",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191581,
-        85633159,
-        85683923
+    "date:cessation_lower": "2019-02-12",
+    "date:cessation_upper": "2019-02-12",
+    "edtf:cessation": "2019-02-12",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-5.666670,54.600000,-5.666670,54.600000",
+    "geom:latitude": 54.6,
+    "geom:longitude": -5.66667,
+    "gn:admin1_code": "NIR",
+    "gn:admin2_code": "N09000011",
+    "gn:asciiname": "Drumhirk",
+    "gn:country_code": "GB",
+    "gn:dem": 51,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2650937,
+    "gn:latitude": 54.6,
+    "gn:longitude": -5.66667,
+    "gn:modification_date": "2016-12-04",
+    "gn:name": "Drumhirk",
+    "gn:population": 0,
+    "gn:timezone": "Europe/London",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      102191581,
+      85633159,
+      85683923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2650937
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2650937
     },
-    "wof:country":"GB",
-    "wof:geomhash":"d3da4301515d7ae0ff7905060b459148",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "locality_id":1276364217,
-            "region_id":85683923
-        }
+    "wof:country": "GB",
+    "wof:created": 1644774782,
+    "wof:geomhash": "d3da4301515d7ae0ff7905060b459148",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 1276364217,
+        "region_id": 85683923
+      }
     ],
-    "wof:id":1276364217,
-    "wof:lastmodified":1550015365,
-    "wof:name":"Drumhirk",
-    "wof:parent_id":85683923,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276364217,
+    "wof:lastmodified": 1644774967,
+    "wof:name": "Drumhirk",
+    "wof:parent_id": 85683923,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -5.66667,
     54.6,
     -5.66667,
     54.6
-],
+  ],
   "geometry": {"coordinates":[-5.66667,54.6],"type":"Point"}
 }

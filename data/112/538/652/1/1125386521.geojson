@@ -2,70 +2,72 @@
   "id": 1125386521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2017-05-19",
-    "edtf:inception":"",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-4.5,55.5,-4.5,55.5",
-    "geom:latitude":55.5,
-    "geom:longitude":-4.5,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
-    "iso:country":"GB",
-    "lbl:latitude":55.5,
-    "lbl:longitude":-4.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
-        "Ayr County"
+    "date:cessation_lower": "2017-05-19",
+    "date:cessation_upper": "2017-05-19",
+    "edtf:cessation": "2017-05-19",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.500000,55.500000,-4.500000,55.500000",
+    "geom:latitude": 55.5,
+    "geom:longitude": -4.5,
+    "gn:gn_country": "GB",
+    "gn:gn_fcode": "ADM3",
+    "gn:gn_pop": 0,
+    "iso:country": "GB",
+    "lbl:latitude": 55.5,
+    "lbl:longitude": -4.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant": [
+      "Ayr County"
     ],
-    "qs_pg:aaroncc":"GB",
-    "qs_pg:gn_country":"GB",
-    "qs_pg:gn_fcode":"ADM3",
-    "qs_pg:gn_id":2656700,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Ayrshire",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":1032423,
-    "qs_pg:qs_pg_placetype":"localadmin",
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
-    "wof:belongsto":[
-        85633159
+    "qs_pg:aaroncc": "GB",
+    "qs_pg:gn_country": "GB",
+    "qs_pg:gn_fcode": "ADM3",
+    "qs_pg:gn_id": 2656700,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Ayrshire",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 1032423,
+    "qs_pg:qs_pg_placetype": "localadmin",
+    "src:geom": "qs_pg",
+    "src:lbl:centroid": "qs_pg",
+    "wof:belongsto": [
+      85633159
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2656700,
-        "qs_pg:id":1032423
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2656700,
+      "qs_pg:id": 1032423
     },
-    "wof:country":"GB",
-    "wof:created":1497048416,
-    "wof:geomhash":"8580c758b85983876a4f47ac6cc9eda0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633159,
-            "localadmin_id":1125386521
-        }
+    "wof:country": "GB",
+    "wof:created": 1497048416,
+    "wof:geomhash": "8580c758b85983876a4f47ac6cc9eda0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "localadmin_id": 1125386521
+      }
     ],
-    "wof:id":1125386521,
-    "wof:lastmodified":1505248152,
-    "wof:name":"Ayrshire",
-    "wof:parent_id":-1,
-    "wof:placetype":"localadmin",
-    "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125386521,
+    "wof:lastmodified": 1644774957,
+    "wof:name": "Ayrshire",
+    "wof:parent_id": -1,
+    "wof:placetype": "localadmin",
+    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -4.5,
     55.5,
     -4.5,
     55.5
-],
+  ],
   "geometry": {"coordinates":[-4.5,55.5],"type":"Point"}
 }

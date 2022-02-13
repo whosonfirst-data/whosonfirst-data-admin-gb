@@ -2,82 +2,84 @@
   "id": 1125376523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2017-05-19",
-    "edtf:inception":"",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-5.75,54.33333,-5.75,54.33333",
-    "geom:latitude":54.33333,
-    "geom:longitude":-5.75,
-    "gn:gn_country":"GB",
-    "gn:gn_fcode":"ADMD",
-    "gn:gn_pop":516000,
-    "gn:population":516000,
-    "iso:country":"GB",
-    "lbl:latitude":54.33333,
-    "lbl:longitude":-5.75,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:eng_x_preferred":[
-        "County of Down"
+    "date:cessation_lower": "2017-05-19",
+    "date:cessation_upper": "2017-05-19",
+    "edtf:cessation": "2017-05-19",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-5.750000,54.333330,-5.750000,54.333330",
+    "geom:latitude": 54.33333,
+    "geom:longitude": -5.75,
+    "gn:gn_country": "GB",
+    "gn:gn_fcode": "ADMD",
+    "gn:gn_pop": 516000,
+    "gn:population": 516000,
+    "iso:country": "GB",
+    "lbl:latitude": 54.33333,
+    "lbl:longitude": -5.75,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred": [
+      "County of Down"
     ],
-    "name:eng_x_variant":[
-        "Down",
-        "County Down",
-        "Co. Down"
+    "name:eng_x_variant": [
+      "Down",
+      "County Down",
+      "Co. Down"
     ],
-    "name:unk_x_variant":[
-        "An D\u00fan"
+    "name:unk_x_variant": [
+      "An Dún"
     ],
-    "qs_pg:aaroncc":"GB",
-    "qs_pg:gn_country":"GB",
-    "qs_pg:gn_fcode":"ADMD",
-    "qs_pg:gn_id":2651037,
-    "qs_pg:gn_pop":516000,
-    "qs_pg:name":"County Down",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":11,
-    "qs_pg:qs_id":277018,
-    "qs_pg:qs_pg_placetype":"localadmin",
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85633159
+    "qs_pg:aaroncc": "GB",
+    "qs_pg:gn_country": "GB",
+    "qs_pg:gn_fcode": "ADMD",
+    "qs_pg:gn_id": 2651037,
+    "qs_pg:gn_pop": 516000,
+    "qs_pg:name": "County Down",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 11,
+    "qs_pg:qs_id": 277018,
+    "qs_pg:qs_pg_placetype": "localadmin",
+    "src:geom": "qs_pg",
+    "src:lbl:centroid": "qs_pg",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85633159
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2651037,
-        "qs_pg:id":277018
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2651037,
+      "qs_pg:id": 277018
     },
-    "wof:country":"GB",
-    "wof:created":1497047779,
-    "wof:geomhash":"2295bd8fc94c077269293c786e9f671e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633159,
-            "localadmin_id":1125376523
-        }
+    "wof:country": "GB",
+    "wof:created": 1497047779,
+    "wof:geomhash": "2295bd8fc94c077269293c786e9f671e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "localadmin_id": 1125376523
+      }
     ],
-    "wof:id":1125376523,
-    "wof:lastmodified":1505186509,
-    "wof:name":"County Down",
-    "wof:parent_id":-1,
-    "wof:placetype":"localadmin",
-    "wof:population":516000,
-    "wof:population_rank":11,
-    "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125376523,
+    "wof:lastmodified": 1644774957,
+    "wof:name": "County Down",
+    "wof:parent_id": -1,
+    "wof:placetype": "localadmin",
+    "wof:population": 516000,
+    "wof:population_rank": 11,
+    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -5.75,
     54.33333,
     -5.75,
     54.33333
-],
+  ],
   "geometry": {"coordinates":[-5.75,54.33333],"type":"Point"}
 }
