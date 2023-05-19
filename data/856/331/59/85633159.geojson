@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"UK",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"United Kingdom",
+    "eurostat:name_local":"United Kingdom",
+    "eurostat:nuts_2021_id":"UK",
+    "eurostat:nuts_2021_level_0":"UK",
+    "eurostat:population":66647112,
+    "eurostat:population_year":2019,
     "geom:area":34.11384,
-    "geom:area_square_m":246870199490.974426,
+    "geom:area_square_m":246870200042.727966,
     "geom:bbox":"-13.687525,49.902515,1.767464,60.845474",
     "geom:latitude":54.145962,
     "geom:longitude":-2.886225,
@@ -1430,7 +1438,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:dial":"44",
     "statoids:ds":"GB",
     "statoids:fifa":"NER, ENG, SCO, WAL",
@@ -1460,6 +1469,7 @@
     "wof:concordances":{
         "dbp:id":"Great_Britain",
         "digitalenvoy:country_code":826,
+        "eurostat:nuts_2021_id":"UK",
         "fb:id":"en.great_britain",
         "fips:code":"UK",
         "gaul:id":"256",
@@ -1488,7 +1498,7 @@
         "naturalearth",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"ce4a954892341531d64d036adcf51f3f",
+    "wof:geomhash":"38ba75316512163506ba0a61144376c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1506,11 +1516,11 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1618362108,
+    "wof:lastmodified":1684351341,
     "wof:name":"United Kingdom",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":63705000,
+    "wof:population":66647112,
     "wof:population_rank":16,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"GB",
