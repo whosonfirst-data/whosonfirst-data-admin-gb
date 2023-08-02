@@ -32,6 +32,12 @@
     "name:ara_x_variant":[
         "\u0631\u064a\u062f\u0646\u063a"
     ],
+    "name:ary_x_preferred":[
+        "\u0631\u064a\u062f\u064a\u0646\u06ad"
+    ],
+    "name:arz_x_preferred":[
+        "\u0631\u064a\u062f\u064a\u0646\u062c"
+    ],
     "name:ast_x_preferred":[
         "Reading"
     ],
@@ -41,11 +47,17 @@
     "name:aze_x_preferred":[
         "Ridinq"
     ],
+    "name:bar_x_preferred":[
+        "Reading"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0434\u044b\u043d\u0433"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09a1\u09bf\u0982"
+    ],
+    "name:ben_x_variant":[
+        "\u09b0\u09c7\u09a1\u09bf\u0982"
     ],
     "name:bre_x_preferred":[
         "Reading"
@@ -61,6 +73,9 @@
     ],
     "name:ces_x_preferred":[
         "Reading"
+    ],
+    "name:chv_x_preferred":[
+        "\u0420\u0435\u0434\u0438\u043d\u0433"
     ],
     "name:cym_x_preferred":[
         "Reading"
@@ -98,10 +113,16 @@
     "name:fra_x_preferred":[
         "Reading"
     ],
+    "name:frr_x_preferred":[
+        "Reading"
+    ],
     "name:gla_x_preferred":[
         "Reading"
     ],
     "name:gle_x_preferred":[
+        "Reading"
+    ],
+    "name:glg_x_preferred":[
         "Reading"
     ],
     "name:guj_x_preferred":[
@@ -140,6 +161,12 @@
     "name:kan_x_preferred":[
         "\u0cb0\u0cc0\u0ca1\u0cbf\u0c82\u0c97\u0ccd"
     ],
+    "name:kas_x_preferred":[
+        "\u0631\u06cc\u0688\u0650\u0646\u06af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d4\u10d3\u10d8\u10dc\u10d2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub808\ub529"
     ],
@@ -151,6 +178,9 @@
     ],
     "name:lit_x_preferred":[
         "Redingas"
+    ],
+    "name:lld_x_preferred":[
+        "Reading"
     ],
     "name:ltz_x_preferred":[
         "Reading"
@@ -164,6 +194,9 @@
     "name:msa_x_preferred":[
         "Reading"
     ],
+    "name:nan_x_preferred":[
+        "Reading"
+    ],
     "name:nld_x_preferred":[
         "Reading"
     ],
@@ -172,6 +205,12 @@
     ],
     "name:nob_x_preferred":[
         "Reading"
+    ],
+    "name:nrm_x_preferred":[
+        "R\u00e9dingue"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u0435\u0434\u0438\u043d\u0433"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u06cc\u0688\u0646\u06af"
@@ -223,6 +262,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c30\u0c40\u0c21\u0c3f\u0c02\u0c17\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0420\u0435\u0434\u0438\u043d\u0433"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e23\u0e14\u0e34\u0e07"
@@ -280,11 +322,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        1360698529,
         102191581,
         85633159,
-        1360698983,
         404227469,
-        1360698529
+        1360698983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -316,7 +358,7 @@
         }
     ],
     "wof:id":1175612721,
-    "wof:lastmodified":1607981910,
+    "wof:lastmodified":1690915834,
     "wof:name":"Reading",
     "wof:parent_id":1360698983,
     "wof:placetype":"locality",

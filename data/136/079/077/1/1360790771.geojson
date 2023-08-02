@@ -26,6 +26,9 @@
     "name:azb_x_preferred":[
         "\u0627\u0628\u06cc\u0646\u0642\u062f\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0431\u0456\u043d\u0433\u0434\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09bf\u0982\u09a1\u09a8"
     ],
@@ -94,11 +97,17 @@
     "name:gle_x_preferred":[
         "Abingdon-on-Thames"
     ],
+    "name:glg_x_preferred":[
+        "Abingdon-on-Thames"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aac\u0abf\u0a82\u0a97\u0aa1\u0aa8"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d1\u05d9\u05e0\u05d2\u05d3\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d1\u05d9\u05e0\u05d2\u05d3\u05d5\u05df-\u05d0\u05d5\u05df-\u05ea\u05de\u05d6\u05d4"
     ],
     "name:hun_x_preferred":[
         "Abingdon"
@@ -139,6 +148,12 @@
     "name:lit_x_preferred":[
         "Abingdonas"
     ],
+    "name:lld_x_preferred":[
+        "Abingdon"
+    ],
+    "name:nan_x_preferred":[
+        "Abingdon"
+    ],
     "name:nld_x_preferred":[
         "Abingdon"
     ],
@@ -156,6 +171,12 @@
     ],
     "name:nob_x_variant":[
         "Abingdon-on-Thames"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a10\u0a2c\u0a3f\u0a70\u0a17\u0a21\u0a28"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u06cc\u0628\u0646\u06af\u0688\u0646"
     ],
     "name:pol_x_preferred":[
         "Abingdon"
@@ -205,6 +226,9 @@
     "name:tel_x_preferred":[
         "\u0c05\u0c2c\u0c3f\u0c02\u0c17\u0c4d\u0c21\u0c28\u0c4d"
     ],
+    "name:tur_x_preferred":[
+        "Abingdon-on-Thames"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0456\u043d\u0433\u0434\u043e\u043d"
     ],
@@ -247,11 +271,11 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633159,
-        1360698839,
         404449341,
-        1360753485,
+        85633159,
         404227469,
+        1360753485,
+        1360698839,
         1360698585
     ],
     "wof:breaches":[],
@@ -281,7 +305,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587163126,
+    "wof:lastmodified":1690916018,
     "wof:name":"Abingdon",
     "wof:parent_id":1360753485,
     "wof:placetype":"neighbourhood",

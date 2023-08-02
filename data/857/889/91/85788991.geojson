@@ -45,6 +45,9 @@
     "name:aze_x_preferred":[
         "Bataql\u0131q"
     ],
+    "name:bak_x_preferred":[
+        "\u04bb\u0430\u0499\u043b\u044b\u04a1"
+    ],
     "name:bar_x_preferred":[
         "Moos"
     ],
@@ -52,7 +55,8 @@
         "\u041c\u0430\u0440\u0448\u044b"
     ],
     "name:bel_x_variant":[
-        "\u0411\u0430\u043b\u043e\u0442\u0430"
+        "\u0411\u0430\u043b\u043e\u0442\u0430",
+        "\u0431\u0430\u043b\u043e\u0442\u0430"
     ],
     "name:bos_x_preferred":[
         "Mo\u010dvara"
@@ -66,11 +70,32 @@
     "name:cat_x_preferred":[
         "Aiguamoll"
     ],
+    "name:cat_x_variant":[
+        "aiguamoll"
+    ],
     "name:ces_x_preferred":[
         "Mar\u0161e"
     ],
+    "name:ces_x_variant":[
+        "mok\u0159adn\u00ed louka"
+    ],
+    "name:chv_x_preferred":[
+        "\u0428\u0443\u0440\u043b\u0103\u0445"
+    ],
+    "name:cor_x_preferred":[
+        "keunegen"
+    ],
+    "name:csb_x_preferred":[
+        "bagnisk\u00f2"
+    ],
+    "name:cym_x_preferred":[
+        "cors"
+    ],
     "name:dan_x_preferred":[
         "Marsk"
+    ],
+    "name:dan_x_variant":[
+        "Sump"
     ],
     "name:deu_x_preferred":[
         "Marschland"
@@ -94,10 +119,14 @@
         "Aluvia grundo"
     ],
     "name:epo_x_variant":[
-        "Mar\u0109o"
+        "Mar\u0109o",
+        "mar\u0109o"
     ],
     "name:est_x_preferred":[
         "Padur"
+    ],
+    "name:est_x_variant":[
+        "padur"
     ],
     "name:eus_x_preferred":[
         "Padura"
@@ -110,6 +139,9 @@
     ],
     "name:fin_x_preferred":[
         "Marskimaa"
+    ],
+    "name:fin_x_variant":[
+        "marskimaa"
     ],
     "name:fra_x_preferred":[
         "Mar\u00e9cage"
@@ -126,8 +158,14 @@
     "name:gla_x_preferred":[
         "Boglach"
     ],
+    "name:gla_x_variant":[
+        "boglach"
+    ],
     "name:gle_x_preferred":[
         "Corcach"
+    ],
+    "name:gle_x_variant":[
+        "riasc"
     ],
     "name:glg_x_preferred":[
         "Marisma"
@@ -144,17 +182,29 @@
     "name:hrv_x_preferred":[
         "Mo\u010dvara"
     ],
+    "name:hrv_x_variant":[
+        "mo\u010dvara"
+    ],
     "name:hun_x_preferred":[
         "Mocs\u00e1r"
     ],
+    "name:hun_x_variant":[
+        "mocs\u00e1r"
+    ],
     "name:ido_x_preferred":[
         "Marsho"
+    ],
+    "name:ina_x_preferred":[
+        "Elos"
     ],
     "name:ind_x_preferred":[
         "Paya"
     ],
     "name:ita_x_preferred":[
         "palude"
+    ],
+    "name:jav_x_preferred":[
+        "Paya"
     ],
     "name:jpn_x_preferred":[
         "\u6cbc"
@@ -171,14 +221,38 @@
     "name:kor_x_preferred":[
         "\uc18c\ud0dd"
     ],
+    "name:kur_x_preferred":[
+        "\u00c7irav"
+    ],
     "name:lat_x_preferred":[
         "Aquatica"
+    ],
+    "name:lat_x_variant":[
+        "palus"
+    ],
+    "name:lav_x_preferred":[
+        "purv\u0101js"
+    ],
+    "name:lim_x_preferred":[
+        "Z\u00f3mp"
+    ],
+    "name:lit_x_preferred":[
+        "Mar\u0161a"
+    ],
+    "name:ltz_x_preferred":[
+        "Supp"
     ],
     "name:mkd_x_preferred":[
         "\u043c\u043e\u0447\u0443\u0440\u0438\u0448\u0442\u0435"
     ],
+    "name:mlg_x_preferred":[
+        "Heniheny"
+    ],
     "name:msa_x_preferred":[
         "Rawang"
+    ],
+    "name:myv_x_preferred":[
+        "\u0447\u0435\u044f\u0434\u0430\u0432\u043a\u0441"
     ],
     "name:nds_x_preferred":[
         "Masch"
@@ -208,10 +282,17 @@
         "Rozlewisko"
     ],
     "name:pol_x_variant":[
-        "Bagno"
+        "Bagno",
+        "bagno"
     ],
     "name:por_x_preferred":[
         "Marisma"
+    ],
+    "name:por_x_variant":[
+        "marisma"
+    ],
+    "name:rue_x_preferred":[
+        "\u041c\u043e\u0447\u0430\u0440"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0448\u0438"
@@ -228,14 +309,29 @@
     "name:slk_x_preferred":[
         "Mo\u010diar"
     ],
+    "name:slk_x_variant":[
+        "mo\u010diar"
+    ],
+    "name:slv_x_preferred":[
+        "mo\u010dvirje"
+    ],
     "name:spa_x_preferred":[
         "Marisma"
+    ],
+    "name:spa_x_variant":[
+        "pantano"
     ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u0447\u0432\u0430\u0440\u0430"
     ],
     "name:swe_x_preferred":[
         "Marskland"
+    ],
+    "name:swe_x_variant":[
+        "k\u00e4rr"
+    ],
+    "name:szl_x_preferred":[
+        "barzo\u0142o"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
@@ -253,13 +349,17 @@
         "\u041c\u0430\u0440\u0448\u0456"
     ],
     "name:ukr_x_variant":[
-        "\u0411\u043e\u043b\u043e\u0442\u043e"
+        "\u0411\u043e\u043b\u043e\u0442\u043e",
+        "\u0431\u043e\u043b\u043e\u0442\u043e"
     ],
     "name:vec_x_preferred":[
         "Pa\u0142\u00f9"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ed3ng l\u1ea7y"
+    ],
+    "name:vie_x_variant":[
+        "\u0111\u1ed3ng l\u1ea7y"
     ],
     "name:zho_x_preferred":[
         "\u6cb3\u6d41\u6e7f\u5730"
@@ -333,7 +433,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582310625,
+    "wof:lastmodified":1690915211,
     "wof:name":"Marsh",
     "wof:parent_id":101750573,
     "wof:placetype":"neighbourhood",
