@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09a8\u09cd\u09a1\u09a8 \u09b9\u09bf\u09a5\u09cd\u09b0\u09cb \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u09b9\u09bf\u09a5\u09cd\u09b0\u09cb \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
     "name:bos_x_preferred":[
         "London Heathrow Airport"
     ],
@@ -56,11 +59,17 @@
     "name:cym_x_preferred":[
         "Maes Awyr Heathrow"
     ],
+    "name:dag_x_preferred":[
+        "London Heathrow Airport"
+    ],
     "name:dan_x_preferred":[
         "London Heathrow Airport"
     ],
     "name:deu_x_preferred":[
         "Flughafen London Heathrow"
+    ],
+    "name:diq_x_preferred":[
+        "Meydan\u00ea Teyareye Heathrow"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a7\u03af\u03b8\u03c1\u03bf\u03bf\u03c5"
@@ -105,6 +114,9 @@
     ],
     "name:hak_x_preferred":[
         "L\u00f9n-t\u00fbn H\u00ee-s\u1e73\u0302-lu K\u00ee-chh\u00f2ng"
+    ],
+    "name:hau_x_preferred":[
+        "Filin jirgin saman Landan-Heathrow"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05dc\u05d5\u05e0\u05d3\u05d5\u05df \u05d4\u05d9\u05ea'\u05e8\u05d5"
@@ -151,6 +163,9 @@
     "name:lit_x_preferred":[
         "Londono Hitrou oro uostas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d40\u0d24\u0d4d\u0d30\u0d42 \u0d05\u0d28\u0d4d\u0d24\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u0902\u0921\u0928 \u0939\u0940\u0925\u094d\u0930\u094b \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
@@ -162,6 +177,9 @@
     ],
     "name:mya_x_preferred":[
         "\u101c\u1014\u103a\u1012\u1014\u103a \u101f\u102d\u101e\u103a\u101b\u102d\u102f\u1038 \u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:new_x_preferred":[
+        "\u0939\u0940\u0925\u094d\u0930\u094b \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
     ],
     "name:nld_x_preferred":[
         "Luchthaven Londen Heathrow"
@@ -193,6 +211,9 @@
     "name:rus_x_preferred":[
         "\u0425\u0438\u0442\u0440\u043e\u0443"
     ],
+    "name:sah_x_preferred":[
+        "\u04ba\u0438\u0442\u0440\u043e\u0443"
+    ],
     "name:sco_x_preferred":[
         "Lunnon Heathrow Airport"
     ],
@@ -223,6 +244,9 @@
     "name:tel_x_preferred":[
         "\u0c39\u0c40\u0c24\u0c4d\u0c30\u0c42 \u0c35\u0c3f\u0c2e\u0c3e\u0c28\u0c3e\u0c36\u0c4d\u0c30\u0c2f\u0c02"
     ],
+    "name:tgl_x_preferred":[
+        "Paliparang Heathrow"
+    ],
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e25\u0e2d\u0e19\u0e14\u0e2d\u0e19\u0e2e\u0e35\u0e17\u0e42\u0e18\u0e23\u0e27\u0e4c"
     ],
@@ -252,6 +276,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f26\u6566\u5e0c\u601d\u7f57\u673a\u573a"
+    ],
+    "name:zho_x_variant":[
+        "\u502b\u6566\u5e0c\u65af\u8def\u6a5f\u5834"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -295,7 +322,7 @@
         }
     ],
     "wof:id":102556703,
-    "wof:lastmodified":1566627414,
+    "wof:lastmodified":1690915159,
     "wof:name":"London Heathrow Airport",
     "wof:parent_id":85788065,
     "wof:placetype":"campus",

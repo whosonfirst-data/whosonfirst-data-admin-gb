@@ -21,11 +21,20 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0648\u0648\u0631\u062b"
+    ],
     "name:bel_x_preferred":[
         "\u0425\u043e\u044d\u0440\u0442"
     ],
+    "name:bel_x_variant":[
+        "\u0413\u043e\u045e\u044d\u0440\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0993\u09b0\u09cd\u09a5"
+    ],
+    "name:cat_x_preferred":[
+        "Haworth"
     ],
     "name:ceb_x_preferred":[
         "Haworth"
@@ -58,6 +67,9 @@
         "Haworth"
     ],
     "name:fry_x_preferred":[
+        "Haworth"
+    ],
+    "name:gle_x_preferred":[
         "Haworth"
     ],
     "name:guj_x_preferred":[
@@ -96,9 +108,6 @@
     "name:oci_x_preferred":[
         "Haworth"
     ],
-    "name:oci_x_variant":[
-        "Haworth"
-    ],
     "name:pol_x_preferred":[
         "Haworth"
     ],
@@ -118,9 +127,6 @@
         "Haworth"
     ],
     "name:swe_x_preferred":[
-        "Haworth"
-    ],
-    "name:swe_x_variant":[
         "Haworth"
     ],
     "name:tam_x_preferred":[
@@ -164,11 +170,11 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633159,
-        1360698963,
         404429339,
-        1360759669,
+        85633159,
         404227469,
+        1360759669,
+        1360698963,
         1360698609,
         101877101
     ],
@@ -205,7 +211,7 @@
         }
     ],
     "wof:id":1360801183,
-    "wof:lastmodified":1587163133,
+    "wof:lastmodified":1690917232,
     "wof:name":"Hainworth",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
