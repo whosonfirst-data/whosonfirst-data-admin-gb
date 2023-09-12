@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.964591,
-    "geom:area_square_m":14068699118.357424,
+    "geom:area_square_m":14068699118.357349,
     "geom:bbox":"-8.176658,54.02288,-5.432781,55.312315",
     "geom:latitude":54.609675,
     "geom:longitude":-6.693536,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
@@ -605,6 +608,8 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"Province",
     "src:geom":"quattroshapes",
+    "src:population":"wd",
+    "src:population_year":"2021",
     "wd:wordcount":14551,
     "wof:belongsto":[
         102191581,
@@ -617,7 +622,7 @@
         "wd:id":"Q26"
     },
     "wof:country":"GB",
-    "wof:geomhash":"750f054bddde638b868249d8e1445051",
+    "wof:geomhash":"0333fa618fc55fe68d160e747565c1ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -636,10 +641,12 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1690918320,
+    "wof:lastmodified":1694493051,
     "wof:name":"Northern Ireland",
     "wof:parent_id":85633159,
     "wof:placetype":"macroregion",
+    "wof:population":1905000,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],

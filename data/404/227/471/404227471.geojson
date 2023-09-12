@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.724021,
-    "geom:area_square_m":79294919339.472092,
+    "geom:area_square_m":79294919339.471985,
     "geom:bbox":"-8.619048,54.633049,-0.761244,60.845474",
     "geom:latitude":56.83301,
     "geom:longitude":-4.180209,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
@@ -716,6 +719,8 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"Country",
     "src:geom":"quattroshapes",
+    "src:population":"wd",
+    "src:population_year":"2021",
     "wd:wordcount":18007,
     "wof:belongsto":[
         102191581,
@@ -727,7 +732,7 @@
         "wd:id":"Q22"
     },
     "wof:country":"GB",
-    "wof:geomhash":"aec6aabf267b73aa4f1296d6139495ad",
+    "wof:geomhash":"71e83ba78bd7aa1a53f9fcef93262283",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -745,10 +750,12 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1690918318,
+    "wof:lastmodified":1694493050,
     "wof:name":"Scotland",
     "wof:parent_id":85633159,
     "wof:placetype":"macroregion",
+    "wof:population":5480000,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],

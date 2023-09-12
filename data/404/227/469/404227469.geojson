@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.623528,
-    "geom:area_square_m":132339776436.908737,
+    "geom:area_square_m":132339776436.909073,
     "geom:bbox":"-6.351152,49.902515,1.767464,55.81179",
     "geom:latitude":52.59431,
     "geom:longitude":-1.461208,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
@@ -797,6 +800,8 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"Country",
     "src:geom":"quattroshapes",
+    "src:population":"wd",
+    "src:population_year":"2021",
     "wd:wordcount":20843,
     "wof:belongsto":[
         102191581,
@@ -808,7 +813,7 @@
         "wd:id":"Q21"
     },
     "wof:country":"GB",
-    "wof:geomhash":"c90db60c23cf20aa2827d1fb5a4fac92",
+    "wof:geomhash":"cb0605aeac4e454f4ebe13160368be6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -826,10 +831,12 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1690918321,
+    "wof:lastmodified":1694493051,
     "wof:name":"England",
     "wof:parent_id":85633159,
     "wof:placetype":"macroregion",
+    "wof:population":56536000,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],

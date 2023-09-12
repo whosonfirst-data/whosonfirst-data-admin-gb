@@ -10,6 +10,9 @@
     "geom:latitude":52.336717,
     "geom:longitude":-3.76532,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "principality"
+    ],
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
@@ -650,6 +653,8 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"Country",
     "src:geom":"quattroshapes",
+    "src:population":"wd",
+    "src:population_year":"2021",
     "wd:wordcount":22585,
     "wof:belongsto":[
         102191581,
@@ -661,7 +666,7 @@
         "wd:id":"Q25"
     },
     "wof:country":"GB",
-    "wof:geomhash":"8715b08ad9a3e3e4aa1d517347b726e1",
+    "wof:geomhash":"73f8a0e487253eff6089765746b531c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -679,10 +684,12 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1690918319,
+    "wof:lastmodified":1694493051,
     "wof:name":"Wales",
     "wof:parent_id":85633159,
     "wof:placetype":"macroregion",
+    "wof:population":3105000,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
