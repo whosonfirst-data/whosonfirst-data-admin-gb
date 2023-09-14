@@ -5,12 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012522,
-    "geom:area_square_m":127391720.960644,
+    "geom:area_square_m":127391720.199274,
     "geom:bbox":"32.754901,34.562027,33.037804,34.705774",
     "geom:latitude":34.637683,
     "geom:longitude":32.923225,
     "iso:country":"XY",
     "iso:parent":"GB",
+    "label:eng_x_preferred_placetype":[
+        "overseas territory"
+    ],
     "lbl:latitude":34.60353,
     "lbl:longitude":32.968053,
     "lbl:max_zoom":8.0,
@@ -212,6 +215,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"naturalearth",
+    "src:population_date":"2017",
     "wof:belongsto":[
         102191569,
         136253055
@@ -232,7 +237,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"356bd8a52a887166206c2a9b04e79491",
+    "wof:geomhash":"3b5269cce194bf5afcbf44507f769a60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -242,13 +247,15 @@
     ],
     "wof:id":85632743,
     "wof:label":"Akrotiri Sovereign Base Area",
-    "wof:lastmodified":1690915680,
+    "wof:lastmodified":1694639809,
     "wof:name":"Akrotiri",
     "wof:parent_id":136253055,
     "wof:placetype":"dependency",
     "wof:placetype_alt":[
         "region"
     ],
+    "wof:population":7850,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[

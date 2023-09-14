@@ -5,12 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012896,
-    "geom:area_square_m":130590339.521685,
+    "geom:area_square_m":130590287.082874,
     "geom:bbox":"33.673705,34.94278,33.916555,35.123731",
     "geom:latitude":35.018441,
     "geom:longitude":33.790093,
     "iso:country":"XY",
     "iso:parent":"GB",
+    "label:eng_x_preferred_placetype":[
+        "overseas territory"
+    ],
     "lbl:latitude":35.020556,
     "lbl:longitude":33.787379,
     "lbl:max_zoom":8.0,
@@ -172,6 +175,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"naturalearth",
+    "src:population_date":"2013",
     "wof:belongsto":[
         102191569,
         136253055
@@ -192,7 +197,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"06d06ff37fe48f8b20e6d2178f571a26",
+    "wof:geomhash":"2a0b3f67a7116e51a9baa0aa4f2ceff3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -202,13 +207,15 @@
     ],
     "wof:id":85632387,
     "wof:label":"Dhekelia Sovereign Base Area",
-    "wof:lastmodified":1642551726,
+    "wof:lastmodified":1694639813,
     "wof:name":"Dhekelia",
     "wof:parent_id":136253055,
     "wof:placetype":"dependency",
     "wof:placetype_alt":[
         "region"
     ],
+    "wof:population":7850,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[
