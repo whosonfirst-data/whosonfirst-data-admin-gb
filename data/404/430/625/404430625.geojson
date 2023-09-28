@@ -10,12 +10,18 @@
     "geom:latitude":52.515436,
     "geom:longitude":1.005707,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.517546,
     "lbl:longitude":1.006485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u062a\u0644\u0628\u0631\u0648"
@@ -84,12 +90,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006085"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"515df9ab459d55f78f95024f06e7e944",
+    "wof:geomhash":"ec672f0bd73794d7f60d8298ebdded89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404430625,
     "wof:label":"Attleborough Civil Parish",
-    "wof:lastmodified":1566632010,
+    "wof:lastmodified":1695877018,
     "wof:name":"Attleborough",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

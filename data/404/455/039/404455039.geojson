@@ -10,12 +10,18 @@
     "geom:latitude":51.381836,
     "geom:longitude":0.314001,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.382396,
     "lbl:longitude":0.312555,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Hartley"
@@ -97,12 +103,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004994"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754557
     ],
     "wof:country":"GB",
-    "wof:geomhash":"80cc32375dac88e1e3656d04eba1cf4b",
+    "wof:geomhash":"d572e182411410ef048bb14fa2996a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +124,7 @@
     ],
     "wof:id":404455039,
     "wof:label":"Hartley Civil Parish",
-    "wof:lastmodified":1566632285,
+    "wof:lastmodified":1695877135,
     "wof:name":"Hartley",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

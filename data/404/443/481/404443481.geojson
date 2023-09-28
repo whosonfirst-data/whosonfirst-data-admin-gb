@@ -10,12 +10,18 @@
     "geom:latitude":51.340458,
     "geom:longitude":-2.386818,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.342797,
     "lbl:longitude":-2.3865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Combe Hay"
@@ -54,12 +60,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000961"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125805641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6799a945decf1d29ea24fa02e51d271c",
+    "wof:geomhash":"8ad889b4e43a3a2e6ffd80f3aff46843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404443481,
     "wof:label":"Combe Hay Civil Parish",
-    "wof:lastmodified":1566633055,
+    "wof:lastmodified":1695877485,
     "wof:name":"Combe Hay",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

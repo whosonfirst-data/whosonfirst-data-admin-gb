@@ -10,12 +10,18 @@
     "geom:latitude":54.112312,
     "geom:longitude":-1.520341,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.113517,
     "lbl:longitude":-1.514754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Littlethorpe"
@@ -46,9 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04007380",
         "gn:id":7302038,
         "qs_pg:id":904201
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343791229
     ],
@@ -56,7 +64,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a67d7dec063ada5eedc26e40b3b99e4",
+    "wof:geomhash":"187c42e208e1f0cf277806c79d4d919c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +77,7 @@
     ],
     "wof:id":404446699,
     "wof:label":"Littlethorpe Civil Parish",
-    "wof:lastmodified":1582311068,
+    "wof:lastmodified":1695877954,
     "wof:name":"Littlethorpe",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.973571,
     "geom:longitude":0.041335,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.974844,
     "lbl:longitude":0.038891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Anstey"
@@ -72,12 +78,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004713"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243398613
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cbf7e81a063b9bdcfbb307ba9fb4ce84",
+    "wof:geomhash":"136ef318c181b571b2110314bd5cc50e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404443941,
     "wof:label":"Anstey Civil Parish",
-    "wof:lastmodified":1566633028,
+    "wof:lastmodified":1695877472,
     "wof:name":"Anstey",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

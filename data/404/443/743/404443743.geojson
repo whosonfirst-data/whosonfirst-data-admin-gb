@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002035,
-    "geom:area_square_m":15530881.629071,
+    "geom:area_square_m":15530881.62907,
     "geom:bbox":"-4.94375410446,51.8743253037,-4.8480986434,51.9077558583",
     "geom:latitude":51.893802,
     "geom:longitude":-4.897853,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.890025,
     "lbl:longitude":-4.893081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ambleston Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000408"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293419029
     ],
     "wof:country":"GB",
-    "wof:geomhash":"84efda0aa4091ee082e2efcb75a49941",
+    "wof:geomhash":"cb9d1fbff2794efb24f4e48ec57b4e9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443743,
-    "wof:lastmodified":1566633078,
+    "wof:lastmodified":1695877495,
     "wof:name":"Ambleston Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

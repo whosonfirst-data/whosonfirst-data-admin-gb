@@ -10,12 +10,18 @@
     "geom:latitude":51.920013,
     "geom:longitude":-0.884276,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.921188,
     "lbl:longitude":-0.884761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0646\u0628\u0631\u0648"
@@ -69,12 +75,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001486"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125791333
     ],
     "wof:country":"GB",
-    "wof:geomhash":"320457422baf8c45d9ea20b48b6e7523",
+    "wof:geomhash":"bef94e6748a206d03714c15b31e38818",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404433219,
     "wof:label":"Granborough Civil Parish",
-    "wof:lastmodified":1566633657,
+    "wof:lastmodified":1695877755,
     "wof:name":"Granborough",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

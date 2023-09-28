@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003396,
-    "geom:area_square_m":26065632.998479,
+    "geom:area_square_m":26065632.99848,
     "geom:bbox":"-1.74026345078,51.5843374644,-1.65997759709,51.6630677915",
     "geom:latitude":51.628405,
     "geom:longitude":-1.703315,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.628202,
     "lbl:longitude":-1.702707,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Highworth"
@@ -99,12 +105,15 @@
         1360699033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001092"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852687
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8b5e024c5acdd01115ea82acc080ac99",
+    "wof:geomhash":"cfce131ed4de0a64ee8f0c7555a2ba16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404434543,
     "wof:label":"Highworth Civil Parish",
-    "wof:lastmodified":1566633576,
+    "wof:lastmodified":1695877721,
     "wof:name":"Highworth",
     "wof:parent_id":1360699033,
     "wof:placetype":"localadmin",

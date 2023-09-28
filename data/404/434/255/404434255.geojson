@@ -10,12 +10,18 @@
     "geom:latitude":51.600861,
     "geom:longitude":-2.982006,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.599684,
     "lbl:longitude":-2.982203,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Julians Community"
@@ -44,9 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"W04000831",
         "gn:id":7298837,
         "qs_pg:id":380354
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125774683
     ],
@@ -54,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bfba0170d630813dd78a47c01370f9c6",
+    "wof:geomhash":"4092bcd18fbe2abcf67962691dfd157d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404434255,
-    "wof:lastmodified":1582311143,
+    "wof:lastmodified":1695877983,
     "wof:name":"St. Julians Community",
     "wof:parent_id":1360698735,
     "wof:placetype":"localadmin",

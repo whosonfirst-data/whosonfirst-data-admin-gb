@@ -10,12 +10,18 @@
     "geom:latitude":52.080186,
     "geom:longitude":-0.854223,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.079903,
     "lbl:longitude":-0.854621,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cosgrove"
@@ -69,12 +75,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006815"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059587
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5e833b656b569bfecfb20d4044ddc2a2",
+    "wof:geomhash":"e0b97dbbd10300b799bc8485e1c0b82f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404451695,
     "wof:label":"Cosgrove Civil Parish",
-    "wof:lastmodified":1566633462,
+    "wof:lastmodified":1695877664,
     "wof:name":"Cosgrove",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

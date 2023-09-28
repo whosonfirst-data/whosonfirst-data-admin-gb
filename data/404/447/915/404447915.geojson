@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001901,
-    "geom:area_square_m":14098472.439335,
+    "geom:area_square_m":14098472.439336,
     "geom:bbox":"-1.58343923484,53.1124243316,-1.51437059216,53.1713615908",
     "geom:latitude":53.138738,
     "geom:longitude":-1.544773,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.140846,
     "lbl:longitude":-1.547114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Matlock Town"
@@ -40,12 +46,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002786"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756065
     ],
     "wof:country":"GB",
-    "wof:geomhash":"875bd5c6faaf38c8a32eee8134071c44",
+    "wof:geomhash":"ca6a4961a6c6ede205474eb65ca6ecf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404447915,
     "wof:label":"Matlock Town Civil Parish",
-    "wof:lastmodified":1566631281,
+    "wof:lastmodified":1695878287,
     "wof:name":"Matlock Town",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

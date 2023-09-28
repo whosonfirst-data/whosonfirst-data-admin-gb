@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001064,
-    "geom:area_square_m":8142490.750088,
+    "geom:area_square_m":8142490.750087,
     "geom:bbox":"0.480401532855,51.7249179343,0.532549599902,51.7726188929",
     "geom:latitude":51.7473,
     "geom:longitude":0.50634,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.739998,
     "lbl:longitude":0.511089,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0628\u0631\u064a\u0646\u063a\u0641\u064a\u0644\u062f"
@@ -192,12 +198,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003973"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226177803
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7ff4d8b55cf41c0fdcbc00ecf0500561",
+    "wof:geomhash":"f22c939a64f66e9b93114b38bd38e0d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -210,7 +219,7 @@
     ],
     "wof:id":404454947,
     "wof:label":"Springfield Civil Parish",
-    "wof:lastmodified":1566632688,
+    "wof:lastmodified":1695877320,
     "wof:name":"Springfield",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

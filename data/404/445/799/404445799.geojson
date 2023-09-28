@@ -10,12 +10,18 @@
     "geom:latitude":54.111296,
     "geom:longitude":-1.34854,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.11095,
     "lbl:longitude":-1.348538,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Humberton"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007360"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759719
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32ff473345d0a3bdac9de8981359b59f",
+    "wof:geomhash":"3b48f0bb5a53a2fba78d3b856ab01c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404445799,
     "wof:label":"Humberton Civil Parish",
-    "wof:lastmodified":1566633307,
+    "wof:lastmodified":1695877597,
     "wof:name":"Humberton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

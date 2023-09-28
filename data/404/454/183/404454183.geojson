@@ -10,12 +10,18 @@
     "geom:latitude":50.263223,
     "geom:longitude":-4.933191,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.265382,
     "lbl:longitude":-4.93582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tregoney"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011593"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310135027
     ],
     "wof:country":"GB",
-    "wof:geomhash":"25205de7d35feaf28ea563c6517506c4",
+    "wof:geomhash":"610ce012ec7d7babd4e5db5735032d59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404454183,
     "wof:label":"Tregoney Civil Parish",
-    "wof:lastmodified":1566632739,
+    "wof:lastmodified":1695877345,
     "wof:name":"Tregoney",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

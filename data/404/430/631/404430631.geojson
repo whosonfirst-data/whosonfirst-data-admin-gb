@@ -10,12 +10,18 @@
     "geom:latitude":51.560083,
     "geom:longitude":-1.242871,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.557638,
     "lbl:longitude":-1.243511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Blewbury"
@@ -63,12 +69,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008194"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852957
     ],
     "wof:country":"GB",
-    "wof:geomhash":"79952f5dc77428500dde9fe5f994ea0a",
+    "wof:geomhash":"4ae93af0d990d720bbbe9916f6c2df97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430631,
     "wof:label":"Blewbury Civil Parish",
-    "wof:lastmodified":1566632033,
+    "wof:lastmodified":1695877030,
     "wof:name":"Blewbury",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

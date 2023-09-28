@@ -10,12 +10,18 @@
     "geom:latitude":51.255946,
     "geom:longitude":0.070887,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.257303,
     "lbl:longitude":0.073113,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0633\u062a\u0631\u0647\u0627\u0645"
@@ -93,12 +99,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005009"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853493
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8a184570aff97653bf35bddfb2fd1f27",
+    "wof:geomhash":"cb89c4b2ac99d1c589329a983dd0ed5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404436063,
     "wof:label":"Westerham Civil Parish",
-    "wof:lastmodified":1566632355,
+    "wof:lastmodified":1695877166,
     "wof:name":"Westerham",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

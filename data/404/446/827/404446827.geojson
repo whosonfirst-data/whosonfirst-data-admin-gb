@@ -10,12 +10,18 @@
     "geom:latitude":52.463417,
     "geom:longitude":-2.727778,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.453823,
     "lbl:longitude":-2.728925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Diddlebury"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011262"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800621
     ],
     "wof:country":"GB",
-    "wof:geomhash":"863c7ae1d8168a04f4adfbf04b1ddcdc",
+    "wof:geomhash":"84992167140f862199f9fdd9140159c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404446827,
     "wof:label":"Diddlebury Civil Parish",
-    "wof:lastmodified":1566631612,
+    "wof:lastmodified":1695876853,
     "wof:name":"Diddlebury",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

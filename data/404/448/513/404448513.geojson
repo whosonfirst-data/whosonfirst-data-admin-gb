@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002607,
-    "geom:area_square_m":20056508.323743,
+    "geom:area_square_m":20056508.323742,
     "geom:bbox":"-0.538932444709,51.4932097167,-0.483166583003,51.5588064863",
     "geom:latitude":51.524168,
     "geom:longitude":-0.513379,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.525296,
     "lbl:longitude":-0.512847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0648\u0631"
@@ -72,12 +78,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001588"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126014857
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2ad23c3fca010bcbcc18ac7903cc8771",
+    "wof:geomhash":"db752ce1a7865148a21ca7c3d29fb02e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404448513,
     "wof:label":"Iver Civil Parish",
-    "wof:lastmodified":1566631564,
+    "wof:lastmodified":1695876842,
     "wof:name":"Iver",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

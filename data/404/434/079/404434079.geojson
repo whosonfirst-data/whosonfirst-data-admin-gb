@@ -10,12 +10,18 @@
     "geom:latitude":53.271194,
     "geom:longitude":-1.056684,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.27106,
     "lbl:longitude":-1.053893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clumber and Hardwick"
@@ -43,12 +49,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007854"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755233
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4246a174585e3e5405237fb13e8e7503",
+    "wof:geomhash":"4d3e9f7d72b54ce4af8349fc84d06fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404434079,
     "wof:label":"Clumber and Hardwick Civil Parish",
-    "wof:lastmodified":1566633550,
+    "wof:lastmodified":1695877708,
     "wof:name":"Clumber and Hardwick",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

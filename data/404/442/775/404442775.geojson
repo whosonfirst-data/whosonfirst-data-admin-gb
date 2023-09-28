@@ -10,12 +10,18 @@
     "geom:latitude":51.864147,
     "geom:longitude":1.029594,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.863277,
     "lbl:longitude":1.029585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Frating"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004094"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125787647
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bf11b9ffabd9326c20f4aa9b7056b446",
+    "wof:geomhash":"2ae9dab7e9900e1b87cf9ed60eeef28b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442775,
     "wof:label":"Frating Civil Parish",
-    "wof:lastmodified":1566633294,
+    "wof:lastmodified":1695877591,
     "wof:name":"Frating",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

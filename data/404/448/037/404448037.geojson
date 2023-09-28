@@ -10,12 +10,18 @@
     "geom:latitude":54.897641,
     "geom:longitude":-1.983591,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.905589,
     "lbl:longitude":-1.979521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Healey"
@@ -66,12 +72,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010795"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243290733
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f4a417834650694d42bda5b929cea275",
+    "wof:geomhash":"4da7721abde5ff8b54b5d0ad281fc082",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404448037,
     "wof:label":"Healey Civil Parish",
-    "wof:lastmodified":1566631500,
+    "wof:lastmodified":1695876814,
     "wof:name":"Healey",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

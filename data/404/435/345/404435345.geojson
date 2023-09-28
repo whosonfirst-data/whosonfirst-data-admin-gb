@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001372,
-    "geom:area_square_m":9967740.693452,
+    "geom:area_square_m":9967740.693451,
     "geom:bbox":"-1.26967979852,53.9966507115,-1.21757291735,54.0360608818",
     "geom:latitude":54.017645,
     "geom:longitude":-1.242832,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.018884,
     "lbl:longitude":-1.238118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nun Monkton"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007404"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802699
     ],
     "wof:country":"GB",
-    "wof:geomhash":"411c7924d94ddc668e44e8864a8f0fec",
+    "wof:geomhash":"a0ad9945bb8378dcb30b625901aef1d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404435345,
     "wof:label":"Nun Monkton Civil Parish",
-    "wof:lastmodified":1566634080,
+    "wof:lastmodified":1695877940,
     "wof:name":"Nun Monkton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.898102,
     "geom:longitude":-1.054463,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.895164,
     "lbl:longitude":-1.051376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clipston"
@@ -51,12 +57,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007966"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126048333
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c721479d6d2e4cd813670b3e9bc09491",
+    "wof:geomhash":"2a262ee9c31c2ea3c7cd60c91890b2c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404442851,
     "wof:label":"Clipston Civil Parish",
-    "wof:lastmodified":1566633228,
+    "wof:lastmodified":1695877563,
     "wof:name":"Clipston",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

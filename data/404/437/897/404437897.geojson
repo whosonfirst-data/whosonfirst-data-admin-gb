@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001989,
-    "geom:area_square_m":15667560.260232,
+    "geom:area_square_m":15667560.26023,
     "geom:bbox":"-5.12633458705,50.398828117,-5.02235764237,50.4492241391",
     "geom:latitude":50.42003,
     "geom:longitude":-5.05933,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.417061,
     "lbl:longitude":-5.059313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u06cc\u0648\u06a9\u06cc"
@@ -123,12 +129,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011495"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852409
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5c2bc27f906b4e6074ac6da5aeb8b769",
+    "wof:geomhash":"51a3ae7ad9a3d8e831f01fe15c75d44b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +150,7 @@
     ],
     "wof:id":404437897,
     "wof:label":"Newquay Civil Parish",
-    "wof:lastmodified":1566632148,
+    "wof:lastmodified":1695877078,
     "wof:name":"Newquay",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

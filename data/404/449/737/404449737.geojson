@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001717,
-    "geom:area_square_m":13028696.168716,
+    "geom:area_square_m":13028696.168717,
     "geom:bbox":"-2.23364905089,52.1153741407,-2.16494366316,52.1673449076",
     "geom:latitude":52.139422,
     "geom:longitude":-2.205034,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.140044,
     "lbl:longitude":-2.207895,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kempsey"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010312"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853019
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a238dcabe92a7da2e4427f0067396086",
+    "wof:geomhash":"01a28fda3a94fade958d8dd79f5604b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404449737,
     "wof:label":"Kempsey Civil Parish",
-    "wof:lastmodified":1566631356,
+    "wof:lastmodified":1695878319,
     "wof:name":"Kempsey",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

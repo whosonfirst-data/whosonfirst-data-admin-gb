@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008747,
-    "geom:area_square_m":66469772.240438,
+    "geom:area_square_m":66469772.240436,
     "geom:bbox":"-4.36749223478,52.0371354828,-4.22830237888,52.1330941585",
     "geom:latitude":52.079875,
     "geom:longitude":-4.293341,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.08595,
     "lbl:longitude":-4.292015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llandysul Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000376"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881835
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d660c57fd83c0d6d50a34e232724ebd9",
+    "wof:geomhash":"404c21e5b0f382e8b99feaca8174c4f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404434517,
-    "wof:lastmodified":1566633572,
+    "wof:lastmodified":1695877719,
     "wof:name":"Llandysul Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

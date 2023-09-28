@@ -10,12 +10,18 @@
     "geom:latitude":50.758674,
     "geom:longitude":-1.759975,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.758705,
     "lbl:longitude":-1.759551,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Burton"
@@ -105,12 +111,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003360"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344192749
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3efe5f05014e7816ed3ec023d9f3fd5a",
+    "wof:geomhash":"3db324ce4499c160dd323b5913e69b13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404454311,
     "wof:label":"Burton Civil Parish",
-    "wof:lastmodified":1566632736,
+    "wof:lastmodified":1695877344,
     "wof:name":"Burton",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

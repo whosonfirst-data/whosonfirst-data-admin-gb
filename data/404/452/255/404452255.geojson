@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002343,
-    "geom:area_square_m":18074945.243056,
+    "geom:area_square_m":18074945.243057,
     "geom:bbox":"-3.39778129336,51.3793578351,-3.30072328029,51.4162056656",
     "geom:latitude":51.396711,
     "geom:longitude":-3.351464,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.396606,
     "lbl:longitude":-3.351467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rhoose Community"
@@ -40,12 +46,15 @@
         1360698899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000667"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125896727
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ec9d1e631cbba51402ad46619d4c10ea",
+    "wof:geomhash":"88b362160e16c13d7135b994cccefb45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452255,
-    "wof:lastmodified":1566632254,
+    "wof:lastmodified":1695877122,
     "wof:name":"Rhoose Community",
     "wof:parent_id":1360698899,
     "wof:placetype":"localadmin",

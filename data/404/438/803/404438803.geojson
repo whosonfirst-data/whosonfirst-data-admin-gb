@@ -10,12 +10,18 @@
     "geom:latitude":52.70627,
     "geom:longitude":-1.934686,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.705733,
     "lbl:longitude":-1.937579,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cannock Wood"
@@ -54,12 +60,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008872"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782421
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b68a5820eb4091cb4ae12e869e393b75",
+    "wof:geomhash":"66347c4bef2a5938b4d67f1ee9173e72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404438803,
     "wof:label":"Cannock Wood Civil Parish",
-    "wof:lastmodified":1566632567,
+    "wof:lastmodified":1695877263,
     "wof:name":"Cannock Wood",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

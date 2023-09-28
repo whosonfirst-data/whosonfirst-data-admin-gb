@@ -10,12 +10,18 @@
     "geom:latitude":50.370768,
     "geom:longitude":-3.932569,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.370263,
     "lbl:longitude":-3.937398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ermington"
@@ -48,12 +54,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003149"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125954391
     ],
     "wof:country":"GB",
-    "wof:geomhash":"efcfe57c0a41d5cd6b6dc6ac9ff041e2",
+    "wof:geomhash":"fa39874564c8ac660542b04802259c24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404440447,
     "wof:label":"Ermington Civil Parish",
-    "wof:lastmodified":1566631138,
+    "wof:lastmodified":1695878220,
     "wof:name":"Ermington",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

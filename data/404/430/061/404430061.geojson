@@ -10,12 +10,18 @@
     "geom:latitude":54.18086,
     "geom:longitude":-2.771769,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.179274,
     "lbl:longitude":-2.775998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yealand Redmayne"
@@ -63,12 +69,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005214"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126036709
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4128b2871f0dddfbd5269613685194bf",
+    "wof:geomhash":"bc5a6d4e75600bba375b657cea912bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430061,
     "wof:label":"Yealand Redmayne Civil Parish",
-    "wof:lastmodified":1566632025,
+    "wof:lastmodified":1695877025,
     "wof:name":"Yealand Redmayne",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

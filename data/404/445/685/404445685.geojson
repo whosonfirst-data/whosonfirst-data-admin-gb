@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001342,
-    "geom:area_square_m":9656291.928904,
+    "geom:area_square_m":9656291.928903,
     "geom:bbox":"-1.41394764047,54.3873785421,-1.3610405465,54.4356950861",
     "geom:latitude":54.413448,
     "geom:longitude":-1.391492,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.413557,
     "lbl:longitude":-1.393284,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Welbury"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007290"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125791449
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cd864b44345e7daedb0d0335dd5ccf99",
+    "wof:geomhash":"e7658c91aedf7684af3dfc8f154d1423",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404445685,
     "wof:label":"Welbury Civil Parish",
-    "wof:lastmodified":1566633381,
+    "wof:lastmodified":1695877630,
     "wof:name":"Welbury",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

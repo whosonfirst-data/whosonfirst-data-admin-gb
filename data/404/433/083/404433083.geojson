@@ -10,12 +10,18 @@
     "geom:latitude":53.014814,
     "geom:longitude":-2.923059,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.01945,
     "lbl:longitude":-2.922453,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sesswick Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000901"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711465
     ],
     "wof:country":"GB",
-    "wof:geomhash":"34e1ecdf47e7797a860b99c7d6f53118",
+    "wof:geomhash":"ac1ddf92527bdfb421612d2c9147f1e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433083,
-    "wof:lastmodified":1566633655,
+    "wof:lastmodified":1695877754,
     "wof:name":"Sesswick Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

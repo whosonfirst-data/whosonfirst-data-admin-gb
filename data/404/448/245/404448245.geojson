@@ -10,12 +10,18 @@
     "geom:latitude":51.089013,
     "geom:longitude":-0.80506,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.08801,
     "lbl:longitude":-0.805065,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bramshott and Liphook"
@@ -43,12 +49,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004494"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756541
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2cff2e5123be5ada2b6090a6a37b50ad",
+    "wof:geomhash":"5eec84c345148589a9a716307aedb4fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404448245,
     "wof:label":"Bramshott and Liphook Civil Parish",
-    "wof:lastmodified":1566631480,
+    "wof:lastmodified":1695876806,
     "wof:name":"Bramshott and Liphook",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

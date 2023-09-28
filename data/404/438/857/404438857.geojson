@@ -10,12 +10,18 @@
     "geom:latitude":52.204623,
     "geom:longitude":0.931226,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.204445,
     "lbl:longitude":0.930322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shelland"
@@ -55,12 +61,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010560"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754911
     ],
     "wof:country":"GB",
-    "wof:geomhash":"536789bd24bfff50aa8e436629f02715",
+    "wof:geomhash":"ef42b0f4735389fb80b861a6e4c6b407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404438857,
     "wof:label":"Shelland Civil Parish",
-    "wof:lastmodified":1566632564,
+    "wof:lastmodified":1695877262,
     "wof:name":"Shelland",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

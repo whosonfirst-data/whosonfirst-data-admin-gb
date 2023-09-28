@@ -10,12 +10,18 @@
     "geom:latitude":53.992362,
     "geom:longitude":-0.942173,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.992005,
     "lbl:longitude":-0.952333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gate Helmsley"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007578"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125965743
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fdd22fb511af1c9ddbffc3dac7b30478",
+    "wof:geomhash":"e7a14f7e3dcfa6a7270d4d304a7fcbf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404449565,
     "wof:label":"Gate Helmsley Civil Parish",
-    "wof:lastmodified":1566631412,
+    "wof:lastmodified":1695876776,
     "wof:name":"Gate Helmsley",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

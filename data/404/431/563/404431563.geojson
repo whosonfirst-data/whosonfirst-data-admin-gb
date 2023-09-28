@@ -10,12 +10,18 @@
     "geom:latitude":53.425156,
     "geom:longitude":-1.243033,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.425413,
     "lbl:longitude":-1.242855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hellaby"
@@ -54,12 +60,15 @@
         1360698851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012113"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054291
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e31a2ef20d7bcae26629812d4de7d92d",
+    "wof:geomhash":"c8bbfd058cd2a38ce1a3f0dd6eb3412f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404431563,
     "wof:label":"Hellaby Civil Parish",
-    "wof:lastmodified":1566632489,
+    "wof:lastmodified":1695877227,
     "wof:name":"Hellaby",
     "wof:parent_id":1360698851,
     "wof:placetype":"localadmin",

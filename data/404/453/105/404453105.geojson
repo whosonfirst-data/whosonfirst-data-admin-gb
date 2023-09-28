@@ -10,12 +10,18 @@
     "geom:latitude":51.74493,
     "geom:longitude":-3.345643,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.748435,
     "lbl:longitude":-3.333489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Town Community"
@@ -44,9 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"W04000721",
         "gn:id":7296583,
         "qs_pg:id":1040847
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711525
     ],
@@ -54,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c33e5710f23690ff717bb5037019b21",
+    "wof:geomhash":"86ec30f716a48cdabfa6bb3fc5782266",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404453105,
-    "wof:lastmodified":1582311112,
+    "wof:lastmodified":1695877972,
     "wof:name":"Town Community",
     "wof:parent_id":1360698803,
     "wof:placetype":"localadmin",

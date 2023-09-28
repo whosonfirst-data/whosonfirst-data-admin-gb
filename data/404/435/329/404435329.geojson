@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002875,
-    "geom:area_square_m":20655972.685804,
+    "geom:area_square_m":20655972.685802,
     "geom:bbox":"-2.36541986623,54.4471542695,-2.20304984851,54.5088979227",
     "geom:latitude":54.472565,
     "geom:longitude":-2.277165,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.460824,
     "lbl:longitude":-2.262498,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winton"
@@ -79,12 +85,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002582"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757183
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ff6a54e8b83b02b4bfe2e943ba8276de",
+    "wof:geomhash":"ef629b369cfb35c8147236992b01bdce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +106,7 @@
     ],
     "wof:id":404435329,
     "wof:label":"Winton Civil Parish",
-    "wof:lastmodified":1566634078,
+    "wof:lastmodified":1695877939,
     "wof:name":"Winton",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

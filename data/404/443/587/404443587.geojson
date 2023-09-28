@@ -10,12 +10,18 @@
     "geom:latitude":52.271848,
     "geom:longitude":0.897637,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.271197,
     "lbl:longitude":0.898968,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hunston"
@@ -49,12 +55,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009219"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758431
     ],
     "wof:country":"GB",
-    "wof:geomhash":"41d290256a3bb1085e1a7d226392c94b",
+    "wof:geomhash":"9773e3784e267a0b17bf7f89ef3a7043",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404443587,
     "wof:label":"Hunston Civil Parish",
-    "wof:lastmodified":1566633036,
+    "wof:lastmodified":1695877476,
     "wof:name":"Hunston",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

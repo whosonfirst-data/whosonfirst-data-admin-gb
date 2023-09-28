@@ -10,12 +10,18 @@
     "geom:latitude":53.002119,
     "geom:longitude":-2.768008,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.001105,
     "lbl:longitude":-2.767841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u062a\u0634\u0648\u0642"
@@ -61,12 +67,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011196"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754659
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6cbc6070d5c1c809dc592d3a990dee32",
+    "wof:geomhash":"54b3a2c408620ff28c711900e24ab03e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404450097,
     "wof:label":"Wychough Civil Parish",
-    "wof:lastmodified":1566633777,
+    "wof:lastmodified":1695877808,
     "wof:name":"Wychough",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

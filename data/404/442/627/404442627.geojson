@@ -10,12 +10,18 @@
     "geom:latitude":50.971792,
     "geom:longitude":-0.082812,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.975866,
     "lbl:longitude":-0.080169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wivelsfield"
@@ -63,12 +69,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003793"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125871467
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f8ada7d27ef0dfa3fa7a714d549b99cc",
+    "wof:geomhash":"b1e13500d35d04344d73f94628951395",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442627,
     "wof:label":"Wivelsfield Civil Parish",
-    "wof:lastmodified":1566633219,
+    "wof:lastmodified":1695877558,
     "wof:name":"Wivelsfield",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

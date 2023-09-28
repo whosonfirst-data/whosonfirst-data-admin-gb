@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004087,
-    "geom:area_square_m":31171917.031174,
+    "geom:area_square_m":31171917.031175,
     "geom:bbox":"-4.82534847288,51.8525041125,-4.74234350032,51.9559588087",
     "geom:latitude":51.911036,
     "geom:longitude":-4.778697,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.916847,
     "lbl:longitude":-4.778707,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maenclochog Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000444"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276480257
     ],
     "wof:country":"GB",
-    "wof:geomhash":"70cab2ab5714f6e9fe5a26959e105c5b",
+    "wof:geomhash":"139e4887d941fc8f0f8dad06a8ad1d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438209,
-    "wof:lastmodified":1566632616,
+    "wof:lastmodified":1695877284,
     "wof:name":"Maenclochog Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.585636,
     "geom:longitude":-1.333202,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.58521,
     "lbl:longitude":-1.329332,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Hendred"
@@ -66,12 +72,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012128"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125905575
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a9c61c0ca11468a9116debccbf6d003a",
+    "wof:geomhash":"2bce81862d5aa47848a024cf15a7c978",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404445021,
     "wof:label":"East Hendred Civil Parish",
-    "wof:lastmodified":1566633391,
+    "wof:lastmodified":1695877635,
     "wof:name":"East Hendred",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

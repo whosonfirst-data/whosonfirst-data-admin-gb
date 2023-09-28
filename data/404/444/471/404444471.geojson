@@ -10,12 +10,18 @@
     "geom:latitude":52.039368,
     "geom:longitude":-0.335142,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.040246,
     "lbl:longitude":-0.338298,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shefford"
@@ -57,12 +63,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011980"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"25949ddfd8427b5c7f72d2ffb8fd2681",
+    "wof:geomhash":"0ef826cac9e6943495374cfb1ed48e83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404444471,
     "wof:label":"Shefford Civil Parish",
-    "wof:lastmodified":1566632877,
+    "wof:lastmodified":1695877407,
     "wof:name":"Shefford",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

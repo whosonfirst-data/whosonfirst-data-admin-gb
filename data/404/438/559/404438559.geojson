@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001722,
-    "geom:area_square_m":13318962.80204,
+    "geom:area_square_m":13318962.802039,
     "geom:bbox":"0.951869739767,51.2679811345,1.01699604891,51.3196365465",
     "geom:latitude":51.292923,
     "geom:longitude":0.984455,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.29619,
     "lbl:longitude":0.990376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Duinkerken"
@@ -303,12 +309,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005049"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125889741
     ],
     "wof:country":"GB",
-    "wof:geomhash":"41054051a209a0465d151d0fb78464dc",
+    "wof:geomhash":"93b4128f210f648f471a6b1f7ba31a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -321,7 +330,7 @@
     ],
     "wof:id":404438559,
     "wof:label":"Dunkirk Civil Parish",
-    "wof:lastmodified":1566632543,
+    "wof:lastmodified":1695877252,
     "wof:name":"Dunkirk",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

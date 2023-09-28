@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003475,
-    "geom:area_square_m":24627880.033841,
+    "geom:area_square_m":24627880.033843,
     "geom:bbox":"-2.14541235081,55.0016989424,-2.00855113854,55.0510973592",
     "geom:latitude":55.025715,
     "geom:longitude":-2.081377,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.026598,
     "lbl:longitude":-2.081374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Muur"
@@ -282,12 +288,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010874"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c4bb051b752f99ce2ebf7210d2d17b6e",
+    "wof:geomhash":"6ccdd310e0ddd439ab9a7a8391e4f936",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -300,7 +309,7 @@
     ],
     "wof:id":404449259,
     "wof:label":"Wall Civil Parish",
-    "wof:lastmodified":1566631376,
+    "wof:lastmodified":1695878327,
     "wof:name":"Wall",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

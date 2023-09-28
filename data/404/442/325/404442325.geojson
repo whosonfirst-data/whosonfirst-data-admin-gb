@@ -10,12 +10,18 @@
     "geom:latitude":54.046273,
     "geom:longitude":-0.299358,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.059554,
     "lbl:longitude":-0.306622,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burton Agnes"
@@ -60,12 +66,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000368"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881951
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3139958909a44dbdcb52a28ac9580560",
+    "wof:geomhash":"af15ccaa554a1b28624b7a6c1a0625c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404442325,
     "wof:label":"Burton Agnes Civil Parish",
-    "wof:lastmodified":1566633250,
+    "wof:lastmodified":1695877574,
     "wof:name":"Burton Agnes",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

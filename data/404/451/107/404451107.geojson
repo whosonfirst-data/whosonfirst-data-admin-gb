@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001532,
-    "geom:area_square_m":11285269.843334,
+    "geom:area_square_m":11285269.843333,
     "geom:bbox":"-0.649780436927,53.4124509603,-0.549074326076,53.4325674556",
     "geom:latitude":53.422404,
     "geom:longitude":-0.598976,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.42357,
     "lbl:longitude":-0.598974,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Willoughton"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006080"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276150009
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b7b7462c6dd3373284b75e8125aeeb11",
+    "wof:geomhash":"6d2acc64bac57508fc9ed608ac2372c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451107,
     "wof:label":"Willoughton Civil Parish",
-    "wof:lastmodified":1566633485,
+    "wof:lastmodified":1695877674,
     "wof:name":"Willoughton",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.055707,
     "geom:longitude":-0.97794,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.055273,
     "lbl:longitude":-0.978408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Halloughton"
@@ -57,12 +63,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007910"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327261121
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0ab940a3bdda19268947f0f08c184773",
+    "wof:geomhash":"20db9a270d97fb0de6212c35738f57e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404449877,
     "wof:label":"Halloughton Civil Parish",
-    "wof:lastmodified":1566631418,
+    "wof:lastmodified":1695876778,
     "wof:name":"Halloughton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

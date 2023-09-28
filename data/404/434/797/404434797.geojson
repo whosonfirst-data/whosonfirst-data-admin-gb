@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004762,
-    "geom:area_square_m":36454086.962989,
+    "geom:area_square_m":36454086.96298,
     "geom:bbox":"-4.51204186789,51.7239084476,-4.3975041666,51.7991362928",
     "geom:latitude":51.753879,
     "geom:longitude":-4.463596,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.753647,
     "lbl:longitude":-4.477031,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Laugharne Township Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000507"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711895
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1e69cc18701d97b832526223c0dd0b06",
+    "wof:geomhash":"6c59c315767ec1cc911927dbb27ed4c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404434797,
-    "wof:lastmodified":1566633534,
+    "wof:lastmodified":1695877699,
     "wof:name":"Laugharne Township Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.129904,
     "geom:longitude":-2.933183,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.131716,
     "lbl:longitude":-2.933535,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0641\u0631\u062f"
@@ -75,12 +81,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011158"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259718901
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3aea9ad56fe1858a726722c0140da09c",
+    "wof:geomhash":"37c2886c64d1298688f4d755f9e1cd8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404446209,
     "wof:label":"Pulford Civil Parish",
-    "wof:lastmodified":1566631683,
+    "wof:lastmodified":1695876879,
     "wof:name":"Pulford",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

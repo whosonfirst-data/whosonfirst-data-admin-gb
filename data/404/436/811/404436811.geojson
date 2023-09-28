@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001743,
-    "geom:area_square_m":13328088.937135,
+    "geom:area_square_m":13328088.937134,
     "geom:bbox":"-2.45183260722,51.7776236691,-2.37363400026,51.8185326337",
     "geom:latitude":51.796262,
     "geom:longitude":-2.417727,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.800621,
     "lbl:longitude":-2.428096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arlingham"
@@ -60,12 +66,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004338"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125902315
     ],
     "wof:country":"GB",
-    "wof:geomhash":"22f55e7cb4eaabbbc2fc04b3b8e5309f",
+    "wof:geomhash":"4e718d25aa9b3cc744fa9742e2801a2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404436811,
     "wof:label":"Arlingham Civil Parish",
-    "wof:lastmodified":1566632332,
+    "wof:lastmodified":1695877157,
     "wof:name":"Arlingham",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

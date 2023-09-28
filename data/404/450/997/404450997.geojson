@@ -10,12 +10,18 @@
     "geom:latitude":52.932695,
     "geom:longitude":-2.594004,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.935132,
     "lbl:longitude":-2.594553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ightfield"
@@ -52,12 +58,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011293"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756039
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f41083cd4cb58a1b6c0bd3a5501ff79",
+    "wof:geomhash":"86abef9defd878e022bd385fc889821c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404450997,
     "wof:label":"Ightfield Civil Parish",
-    "wof:lastmodified":1566633753,
+    "wof:lastmodified":1695877798,
     "wof:name":"Ightfield",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

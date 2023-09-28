@@ -10,12 +10,18 @@
     "geom:latitude":54.872513,
     "geom:longitude":-3.125962,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.868637,
     "lbl:longitude":-3.121163,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aikton"
@@ -63,12 +69,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002380"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125865337
     ],
     "wof:country":"GB",
-    "wof:geomhash":"388667a50718215fd59374412d390d68",
+    "wof:geomhash":"88eabd4b64011a25e5d44a6a98c75fab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404443333,
     "wof:label":"Aikton Civil Parish",
-    "wof:lastmodified":1566633048,
+    "wof:lastmodified":1695877482,
     "wof:name":"Aikton",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

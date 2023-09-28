@@ -10,12 +10,18 @@
     "geom:latitude":52.170483,
     "geom:longitude":-2.203736,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.170497,
     "lbl:longitude":-2.206869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Peter the Great County"
@@ -44,12 +50,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010352"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756651
     ],
     "wof:country":"GB",
-    "wof:geomhash":"84b11cd9676c7f625a6e50c6ed8543fc",
+    "wof:geomhash":"7154768da3526ce8f22be54d05ea552f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +71,7 @@
     ],
     "wof:id":404440995,
     "wof:label":"St. Peter the Great County Civil Parish",
-    "wof:lastmodified":1566631179,
+    "wof:lastmodified":1695878240,
     "wof:name":"St. Peter the Great County",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

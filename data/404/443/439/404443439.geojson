@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001273,
-    "geom:area_square_m":9275553.183313,
+    "geom:area_square_m":9275553.183314,
     "geom:bbox":"-2.34683062081,53.8676355,-2.27382984809,53.903827111",
     "geom:latitude":53.886731,
     "geom:longitude":-2.311257,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.88595,
     "lbl:longitude":-2.308777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0646\u0647\u0627\u0645"
@@ -58,12 +64,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005255"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758353
     ],
     "wof:country":"GB",
-    "wof:geomhash":"12872d1af0bd32f68d6f414cdfbe61c4",
+    "wof:geomhash":"1e2feec485c1a913884eb4c082f89db2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404443439,
     "wof:label":"Downham Civil Parish",
-    "wof:lastmodified":1566633012,
+    "wof:lastmodified":1695877465,
     "wof:name":"Downham",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

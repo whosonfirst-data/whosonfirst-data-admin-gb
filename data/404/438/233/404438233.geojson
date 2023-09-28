@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001253,
-    "geom:area_square_m":9552173.884716,
+    "geom:area_square_m":9552173.884717,
     "geom:bbox":"-2.60120327286,51.9411120361,-2.53499060789,51.9764689003",
     "geom:latitude":51.955128,
     "geom:longitude":-2.566982,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.954721,
     "lbl:longitude":-2.567479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Foy"
@@ -66,12 +72,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000762"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310440785
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1435c84d732d5140c651b8ab5b8acec4",
+    "wof:geomhash":"e45335fd72bc09a512d6de04b9042907",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404438233,
     "wof:label":"Foy Civil Parish",
-    "wof:lastmodified":1566632574,
+    "wof:lastmodified":1695877266,
     "wof:name":"Foy",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

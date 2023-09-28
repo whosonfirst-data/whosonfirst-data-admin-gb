@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009352,
-    "geom:area_square_m":71337576.942614,
+    "geom:area_square_m":71337576.942613,
     "geom:bbox":"-3.09319246646,51.8566968898,-2.93835329574,51.9830988683",
     "geom:latitude":51.911126,
     "geom:longitude":-3.021227,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.894887,
     "lbl:longitude":-3.008322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crucorney Community"
@@ -40,12 +46,15 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000779"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711653
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bd369780e4d7e97a3f2e02796782fc61",
+    "wof:geomhash":"992b3289bfdad9ede4136c58475be3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429537,
-    "wof:lastmodified":1566633141,
+    "wof:lastmodified":1695877523,
     "wof:name":"Crucorney Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

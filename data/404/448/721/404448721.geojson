@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001451,
-    "geom:area_square_m":10620912.16798,
+    "geom:area_square_m":10620912.167979,
     "geom:bbox":"-0.663888350278,53.6917482049,-0.589145179815,53.7244561185",
     "geom:latitude":53.709132,
     "geom:longitude":-0.627389,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.708226,
     "lbl:longitude":-0.627393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whitton"
@@ -72,12 +78,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000584"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259712451
     ],
     "wof:country":"GB",
-    "wof:geomhash":"66944ce4313a2bad2a7bc6a21c1e4768",
+    "wof:geomhash":"2a89c827c7e2fe1e173af9af573030ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404448721,
     "wof:label":"Whitton Civil Parish",
-    "wof:lastmodified":1566631564,
+    "wof:lastmodified":1695876842,
     "wof:name":"Whitton",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002719,
-    "geom:area_square_m":19563586.309051,
+    "geom:area_square_m":19563586.309052,
     "geom:bbox":"-0.676417049484,54.3805354081,-0.593003812713,54.4696531818",
     "geom:latitude":54.423833,
     "geom:longitude":-0.626432,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.402311,
     "lbl:longitude":-0.637481,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sneaton"
@@ -60,12 +66,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007700"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125891931
     ],
     "wof:country":"GB",
-    "wof:geomhash":"568fffc5abb4e65fb7fb0de4f87bdd25",
+    "wof:geomhash":"8218055bf3000db172fbbbcdad3b602b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404438775,
     "wof:label":"Sneaton Civil Parish",
-    "wof:lastmodified":1566632630,
+    "wof:lastmodified":1695877291,
     "wof:name":"Sneaton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

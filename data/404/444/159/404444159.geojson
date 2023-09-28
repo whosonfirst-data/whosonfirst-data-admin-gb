@@ -10,12 +10,18 @@
     "geom:latitude":51.665824,
     "geom:longitude":-3.218185,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.665879,
     "lbl:longitude":-3.220385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pengam Community"
@@ -40,12 +46,15 @@
         1360698925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000909"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125901571
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4d87880095bc2b5b88548869f9f415eb",
+    "wof:geomhash":"21245cc0c61a3134bffc96db5a3a7bee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444159,
-    "wof:lastmodified":1566632866,
+    "wof:lastmodified":1695877402,
     "wof:name":"Pengam Community",
     "wof:parent_id":1360698925,
     "wof:placetype":"localadmin",

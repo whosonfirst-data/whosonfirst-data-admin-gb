@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00362,
-    "geom:area_square_m":25799518.392386,
+    "geom:area_square_m":25799518.392389,
     "geom:bbox":"-3.34298898956,54.7757872091,-3.2231200153,54.8282718291",
     "geom:latitude":54.802982,
     "geom:longitude":-3.274023,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.804645,
     "lbl:longitude":-3.269948,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Bromfield"
@@ -64,12 +70,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002395"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759165
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6b93c785c315011ae86ac2eb5abe2ecf",
+    "wof:geomhash":"52156842f81456a4a9b55ca3de858c9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404437017,
     "wof:label":"Bromfield Civil Parish",
-    "wof:lastmodified":1566632129,
+    "wof:lastmodified":1695877070,
     "wof:name":"Bromfield",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.519098,
     "geom:longitude":-3.373131,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.520879,
     "lbl:longitude":-3.372536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pont-y-Clun Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000878"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913163
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d5eb54910190d9f97ccc94fd2a58d8f3",
+    "wof:geomhash":"efae48c36f3994ba180f032e371094ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454425,
-    "wof:lastmodified":1566632660,
+    "wof:lastmodified":1695877306,
     "wof:name":"Pont-y-Clun Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

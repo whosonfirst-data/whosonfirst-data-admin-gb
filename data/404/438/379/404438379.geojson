@@ -10,12 +10,18 @@
     "geom:latitude":52.398746,
     "geom:longitude":-0.483073,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.394349,
     "lbl:longitude":-0.478149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Titchmarsh"
@@ -45,12 +51,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006754"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126056067
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d191611e274034cafbd47e2f02715067",
+    "wof:geomhash":"b4674b3387c7e1851b830edb975cb2ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404438379,
     "wof:label":"Titchmarsh Civil Parish",
-    "wof:lastmodified":1566632575,
+    "wof:lastmodified":1695877267,
     "wof:name":"Titchmarsh",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

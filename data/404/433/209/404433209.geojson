@@ -10,12 +10,18 @@
     "geom:latitude":52.098511,
     "geom:longitude":-1.916513,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.098179,
     "lbl:longitude":-1.914921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aldington"
@@ -66,12 +72,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010356"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908063
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5a0e6fdcd0897838b2c2e2a1f7fb1efd",
+    "wof:geomhash":"3401238c38d4a5bc9dd92ea3ba9371b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404433209,
     "wof:label":"Aldington Civil Parish",
-    "wof:lastmodified":1566633718,
+    "wof:lastmodified":1695877783,
     "wof:name":"Aldington",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.536696,
     "geom:longitude":0.685752,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.538756,
     "lbl:longitude":0.685146,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ickburgh"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006132"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910553
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a66705a735d38d62968badad046ade12",
+    "wof:geomhash":"bcff7b3a6c4e231e702f987bdae3ba3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404436635,
     "wof:label":"Ickburgh Civil Parish",
-    "wof:lastmodified":1566632354,
+    "wof:lastmodified":1695877166,
     "wof:name":"Ickburgh",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

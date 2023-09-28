@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001928,
-    "geom:area_square_m":13478465.214124,
+    "geom:area_square_m":13478465.214125,
     "geom:bbox":"-2.14912333293,55.5650214428,-2.03115985348,55.5970481783",
     "geom:latitude":55.581306,
     "geom:longitude":-2.084797,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.586371,
     "lbl:longitude":-2.084785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ewart"
@@ -40,12 +46,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010781"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754241
     ],
     "wof:country":"GB",
-    "wof:geomhash":"519586032663df3a8cd939df4dc8c22f",
+    "wof:geomhash":"0fa3835f8397b36ab527a40896b3677b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404446733,
     "wof:label":"Ewart Civil Parish",
-    "wof:lastmodified":1566631654,
+    "wof:lastmodified":1695876869,
     "wof:name":"Ewart",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

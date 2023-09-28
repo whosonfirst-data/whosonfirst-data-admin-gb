@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002892,
-    "geom:area_square_m":22326382.945622,
+    "geom:area_square_m":22326382.945621,
     "geom:bbox":"-0.735268866776,51.3389636019,-0.632039394199,51.3873168286",
     "geom:latitude":51.362992,
     "geom:longitude":-0.676533,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.362346,
     "lbl:longitude":-0.676535,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Windlesham"
@@ -60,12 +66,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009582"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9d0b2a5a51bde3864184abcd45ef2e37",
+    "wof:geomhash":"d381e34e7bef81df1a64e1949911e777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404433543,
     "wof:label":"Windlesham Civil Parish",
-    "wof:lastmodified":1566633681,
+    "wof:lastmodified":1695877766,
     "wof:name":"Windlesham",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

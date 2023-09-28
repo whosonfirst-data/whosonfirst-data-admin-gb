@@ -10,12 +10,18 @@
     "geom:latitude":50.682563,
     "geom:longitude":-1.504892,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.686025,
     "lbl:longitude":-1.50874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Freshwater"
@@ -42,12 +48,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001301"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125873697
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1e6e645b3c70c451ae192c7b428c1a72",
+    "wof:geomhash":"66939b46469422860ec97aa82e1dbb3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404431233,
     "wof:label":"Freshwater Civil Parish",
-    "wof:lastmodified":1566632467,
+    "wof:lastmodified":1695877217,
     "wof:name":"Freshwater",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

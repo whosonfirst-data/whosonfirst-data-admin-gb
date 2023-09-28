@@ -10,12 +10,18 @@
     "geom:latitude":52.371208,
     "geom:longitude":-2.573466,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.376695,
     "lbl:longitude":-2.582152,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coreley"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011256"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126007479
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d6bf27af0c401d790daf33d8243b90b3",
+    "wof:geomhash":"2accd6e19b4d4685cb57ffa4168af392",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429349,
     "wof:label":"Coreley Civil Parish",
-    "wof:lastmodified":1566633136,
+    "wof:lastmodified":1695877521,
     "wof:name":"Coreley",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

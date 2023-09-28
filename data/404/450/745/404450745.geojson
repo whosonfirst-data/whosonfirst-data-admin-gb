@@ -10,12 +10,18 @@
     "geom:latitude":50.783966,
     "geom:longitude":-2.470525,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.783533,
     "lbl:longitude":-2.470532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nether Cerne"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003571"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125904551
     ],
     "wof:country":"GB",
-    "wof:geomhash":"828aae7d3ee1dfaf798904811c54fdf3",
+    "wof:geomhash":"8a7d130193dde7de828035811f1aeb49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404450745,
     "wof:label":"Nether Cerne Civil Parish",
-    "wof:lastmodified":1566633845,
+    "wof:lastmodified":1695877834,
     "wof:name":"Nether Cerne",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

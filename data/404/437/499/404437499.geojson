@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000603,
-    "geom:area_square_m":4612882.842692,
+    "geom:area_square_m":4612882.842693,
     "geom:bbox":"-1.52586337926,51.7963342454,-1.49254676604,51.8335110262",
     "geom:latitude":51.816967,
     "geom:longitude":-1.510614,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.816738,
     "lbl:longitude":-1.508985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Crawley"
@@ -159,12 +165,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008280"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243000051
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d7dc05aab73a093d9de13fe1f617c35",
+    "wof:geomhash":"08f38a35f87aa1f652df56021dcc65eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +186,7 @@
     ],
     "wof:id":404437499,
     "wof:label":"Crawley Civil Parish",
-    "wof:lastmodified":1566632083,
+    "wof:lastmodified":1695877050,
     "wof:name":"Crawley",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

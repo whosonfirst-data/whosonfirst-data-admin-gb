@@ -10,12 +10,18 @@
     "geom:latitude":53.972313,
     "geom:longitude":-1.415442,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.975598,
     "lbl:longitude":-1.418034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Ribston"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007379"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326957611
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2bf838729a5791116b3e73d6c75a2c95",
+    "wof:geomhash":"c0031ce268eefea2ab222226a857459c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404441071,
     "wof:label":"Little Ribston Civil Parish",
-    "wof:lastmodified":1566631739,
+    "wof:lastmodified":1695876900,
     "wof:name":"Little Ribston",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

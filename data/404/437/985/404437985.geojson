@@ -10,12 +10,18 @@
     "geom:latitude":51.893937,
     "geom:longitude":-1.023686,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.894906,
     "lbl:longitude":-1.027769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u062f\u063a\u0643\u062a"
@@ -69,12 +75,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001481"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125989817
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5cd3efc0f59845ada8a18a921f7750e3",
+    "wof:geomhash":"2d3e1125afab53f6d9dbb884408d004f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404437985,
     "wof:label":"Edgcott Civil Parish",
-    "wof:lastmodified":1566632098,
+    "wof:lastmodified":1695877059,
     "wof:name":"Edgcott",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

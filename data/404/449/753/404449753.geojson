@@ -10,12 +10,18 @@
     "geom:latitude":53.454135,
     "geom:longitude":-0.10466,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.453746,
     "lbl:longitude":-0.098193,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hawerby Cum Beesby"
@@ -40,12 +46,15 @@
         1360698837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000523"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754137
     ],
     "wof:country":"GB",
-    "wof:geomhash":"da680ce9ec0ede96deb69b72afe8b759",
+    "wof:geomhash":"18d4138afe8f99179fc207d68678135f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404449753,
     "wof:label":"Hawerby Cum Beesby Civil Parish",
-    "wof:lastmodified":1566631357,
+    "wof:lastmodified":1695878320,
     "wof:name":"Hawerby Cum Beesby",
     "wof:parent_id":1360698837,
     "wof:placetype":"localadmin",

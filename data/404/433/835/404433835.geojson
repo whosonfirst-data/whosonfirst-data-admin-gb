@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005659,
-    "geom:area_square_m":42737047.418739,
+    "geom:area_square_m":42737047.418742,
     "geom:bbox":"-4.02633212123,52.3210617305,-3.85214458093,52.3871580699",
     "geom:latitude":52.355746,
     "geom:longitude":-3.94495,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.351225,
     "lbl:longitude":-3.931872,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trawsgoed Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000399"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"54031c5b0cf20baa7ad25e2a5f648ac1",
+    "wof:geomhash":"4c0914d1e19b667f6699d767aa4e2138",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433835,
-    "wof:lastmodified":1566633667,
+    "wof:lastmodified":1695877759,
     "wof:name":"Trawsgoed Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

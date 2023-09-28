@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001043,
-    "geom:area_square_m":7660693.185422,
+    "geom:area_square_m":7660693.185423,
     "geom:bbox":"-0.357939828167,53.5585457494,-0.308499414221,53.5957846342",
     "geom:latitude":53.578699,
     "geom:longitude":-0.336028,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.577655,
     "lbl:longitude":-0.339775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirmington"
@@ -66,12 +72,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000565"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868605
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7495b5699271570bb508fbe015fc58a1",
+    "wof:geomhash":"4faf285e7312b9e83c8be14de62c0df1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404451767,
     "wof:label":"Kirmington Civil Parish",
-    "wof:lastmodified":1566633482,
+    "wof:lastmodified":1695877673,
     "wof:name":"Kirmington",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

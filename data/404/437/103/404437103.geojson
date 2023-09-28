@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001859,
-    "geom:area_square_m":14481710.460502,
+    "geom:area_square_m":14481710.460503,
     "geom:bbox":"-4.17979760684,50.9438722362,-4.10208074633,50.9793783152",
     "geom:latitude":50.961826,
     "geom:longitude":-4.136768,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.96194,
     "lbl:longitude":-4.129003,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0631\u06cc\u062a \u062a\u0648\u0631\u06cc\u0646\u0642\u062a\u0648\u0646"
@@ -87,12 +93,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003263"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852607
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5b98671ddea45036b2b057a298b39319",
+    "wof:geomhash":"8e6dacc93e90b168f324a3833d455f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404437103,
     "wof:label":"Great Torrington Civil Parish",
-    "wof:lastmodified":1566632051,
+    "wof:lastmodified":1695877037,
     "wof:name":"Great Torrington",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

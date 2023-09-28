@@ -10,12 +10,18 @@
     "geom:latitude":51.811763,
     "geom:longitude":0.894832,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.809311,
     "lbl:longitude":0.898744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Peldon"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004002"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125923909
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ae8d3e1bf16fd03f60be62aa01bfa365",
+    "wof:geomhash":"f17c1f479178d82ab5f4a6cbc1f5e8f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404451029,
     "wof:label":"Peldon Civil Parish",
-    "wof:lastmodified":1566633499,
+    "wof:lastmodified":1695877681,
     "wof:name":"Peldon",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

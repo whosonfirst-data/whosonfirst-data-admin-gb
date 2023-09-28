@@ -10,12 +10,18 @@
     "geom:latitude":51.561483,
     "geom:longitude":-4.178354,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.561786,
     "lbl:longitude":-4.17836,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penrice Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000588"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125924079
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1a014d2158594f264ff25b6db64b61ca",
+    "wof:geomhash":"0bebea132fc062e18314a14822713491",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404445443,
-    "wof:lastmodified":1566633382,
+    "wof:lastmodified":1695877631,
     "wof:name":"Penrice Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

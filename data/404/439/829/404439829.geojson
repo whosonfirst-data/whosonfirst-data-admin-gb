@@ -10,12 +10,18 @@
     "geom:latitude":52.254692,
     "geom:longitude":0.238023,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.254291,
     "lbl:longitude":0.235393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ganglagerst\u00e4tte"
@@ -51,12 +57,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001637"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126056923
     ],
     "wof:country":"GB",
-    "wof:geomhash":"554c4f266867ad9293ea7e1f71df110a",
+    "wof:geomhash":"0ddc92f2dbeb5f3ea0cb5cc1ea8e22af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404439829,
     "wof:label":"Lode Civil Parish",
-    "wof:lastmodified":1566631844,
+    "wof:lastmodified":1695876947,
     "wof:name":"Lode",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

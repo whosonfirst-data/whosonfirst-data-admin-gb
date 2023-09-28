@@ -10,12 +10,18 @@
     "geom:latitude":52.86031,
     "geom:longitude":-1.136516,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.858897,
     "lbl:longitude":-1.135907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bunny"
@@ -42,12 +48,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007964"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125845837
     ],
     "wof:country":"GB",
-    "wof:geomhash":"98ca66901264f87a3a8a64722dc80bd5",
+    "wof:geomhash":"8c0c699dcc622fe7c555ff3866e48a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404436327,
     "wof:label":"Bunny Civil Parish",
-    "wof:lastmodified":1566632415,
+    "wof:lastmodified":1695877193,
     "wof:name":"Bunny",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

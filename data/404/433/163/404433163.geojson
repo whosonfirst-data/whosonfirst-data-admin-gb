@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00309,
-    "geom:area_square_m":23955049.170329,
+    "geom:area_square_m":23955049.170327,
     "geom:bbox":"-1.85357426457,51.1493954157,-1.71171324627,51.1918750684",
     "geom:latitude":51.172586,
     "geom:longitude":-1.781412,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.16782,
     "lbl:longitude":-1.774429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u0645\u0633\u0628\u0648\u0631\u06cc"
@@ -123,12 +129,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011623"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852731
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0dcf1f81b65fbc29d0af66ab7977d2a8",
+    "wof:geomhash":"b1313f855f40dde50bbb326747683045",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +150,7 @@
     ],
     "wof:id":404433163,
     "wof:label":"Amesbury Civil Parish",
-    "wof:lastmodified":1566633696,
+    "wof:lastmodified":1695877773,
     "wof:name":"Amesbury",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

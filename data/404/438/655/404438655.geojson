@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003147,
-    "geom:area_square_m":24691222.495658,
+    "geom:area_square_m":24691222.495659,
     "geom:bbox":"-3.62920562182,50.585047462,-3.5450772578,50.6459240633",
     "geom:latitude":50.614828,
     "geom:longitude":-3.584741,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.611589,
     "lbl:longitude":-3.583946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0627\u062f\u0644\u06cc"
@@ -72,12 +78,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003202"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852575
     ],
     "wof:country":"GB",
-    "wof:geomhash":"18f2b9239f75dc84e9b440abfe312376",
+    "wof:geomhash":"2b58de16e1722a19336aea28cdbd0789",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404438655,
     "wof:label":"Chudleigh Civil Parish",
-    "wof:lastmodified":1566632616,
+    "wof:lastmodified":1695877284,
     "wof:name":"Chudleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

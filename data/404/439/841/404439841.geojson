@@ -10,12 +10,18 @@
     "geom:latitude":50.871203,
     "geom:longitude":-2.610269,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.871535,
     "lbl:longitude":-2.610261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Melbury Osmond"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003565"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125788051
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6932270eefba349af2c58f08aafa1d23",
+    "wof:geomhash":"c16bb29569737c17cdc128076641ac54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439841,
     "wof:label":"Melbury Osmond Civil Parish",
-    "wof:lastmodified":1566631895,
+    "wof:lastmodified":1695876971,
     "wof:name":"Melbury Osmond",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

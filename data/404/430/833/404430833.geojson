@@ -10,12 +10,18 @@
     "geom:latitude":51.285928,
     "geom:longitude":-1.808874,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.293961,
     "lbl:longitude":-1.798616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upavon"
@@ -66,12 +72,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011843"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126058689
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1798efcb6862336167f9fbfee6061337",
+    "wof:geomhash":"23e7a6fc05383d6dfae62388e54f905d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404430833,
     "wof:label":"Upavon Civil Parish",
-    "wof:lastmodified":1566631973,
+    "wof:lastmodified":1695877005,
     "wof:name":"Upavon",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.872615,
     "geom:longitude":-0.550104,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.870699,
     "lbl:longitude":-0.553597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Stoke"
@@ -52,12 +58,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009876"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756559
     ],
     "wof:country":"GB",
-    "wof:geomhash":"313e5a90b8e8bd5c05f374fb39f0da11",
+    "wof:geomhash":"863d5d12a580036c5964993de67ae543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404434941,
     "wof:label":"South Stoke Civil Parish",
-    "wof:lastmodified":1566633574,
+    "wof:lastmodified":1695877720,
     "wof:name":"South Stoke",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

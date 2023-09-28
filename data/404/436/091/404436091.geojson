@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000863,
-    "geom:area_square_m":6718121.282397,
+    "geom:area_square_m":6718121.282396,
     "geom:bbox":"-2.89367156426,50.9720537265,-2.84901497988,51.0081918662",
     "geom:latitude":50.990738,
     "geom:longitude":-2.870665,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.990046,
     "lbl:longitude":-2.871011,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hambridge and Westport"
@@ -55,12 +61,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008776"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6bf63077b49e3526d784b5427067dd20",
+    "wof:geomhash":"a23ecaf4639f0642446c28119fcc88cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404436091,
     "wof:label":"Hambridge and Westport Civil Parish",
-    "wof:lastmodified":1566632345,
+    "wof:lastmodified":1695877162,
     "wof:name":"Hambridge and Westport",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

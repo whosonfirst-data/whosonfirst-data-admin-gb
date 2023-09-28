@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001681,
-    "geom:area_square_m":13140342.373766,
+    "geom:area_square_m":13140342.373767,
     "geom:bbox":"-1.63716046708,50.7625374026,-1.56354425158,50.7974382163",
     "geom:latitude":50.779524,
     "geom:longitude":-1.601349,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.780176,
     "lbl:longitude":-1.601352,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sway"
@@ -81,12 +87,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004586"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852479
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f1f7000e8cad96483bf398b93738b7d2",
+    "wof:geomhash":"e4622f8419e6b0b05a6a0458d7d42754",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404436813,
     "wof:label":"Sway Civil Parish",
-    "wof:lastmodified":1566632400,
+    "wof:lastmodified":1695877187,
     "wof:name":"Sway",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

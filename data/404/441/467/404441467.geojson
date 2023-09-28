@@ -10,12 +10,18 @@
     "geom:latitude":53.393269,
     "geom:longitude":-0.969001,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.394759,
     "lbl:longitude":-0.979326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mattersey"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007821"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a2c6ab342798f3882f7d4ea4f922f503",
+    "wof:geomhash":"6aa36cca3887c9103d9be395c2807fb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404441467,
     "wof:label":"Mattersey Civil Parish",
-    "wof:lastmodified":1566631803,
+    "wof:lastmodified":1695876928,
     "wof:name":"Mattersey",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

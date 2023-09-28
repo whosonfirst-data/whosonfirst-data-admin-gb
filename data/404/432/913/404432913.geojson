@@ -10,12 +10,18 @@
     "geom:latitude":51.231837,
     "geom:longitude":-2.248999,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.232059,
     "lbl:longitude":-2.251984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chapmanslade"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011663"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125832499
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7cbc47fc0c85cbcf6266cc5507ce6818",
+    "wof:geomhash":"4b10b4d4fce44f188b59071ca7fc198d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404432913,
     "wof:label":"Chapmanslade Civil Parish",
-    "wof:lastmodified":1566633919,
+    "wof:lastmodified":1695877859,
     "wof:name":"Chapmanslade",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

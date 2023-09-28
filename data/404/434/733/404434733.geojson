@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00063,
-    "geom:area_square_m":4797470.716692,
+    "geom:area_square_m":4797470.716693,
     "geom:bbox":"-0.997310386749,52.000798655,-0.936385899977,52.0280890308",
     "geom:latitude":52.013935,
     "geom:longitude":-0.970846,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.016314,
     "lbl:longitude":-0.970861,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0633 \u0645\u0631\u062a\u0648\u0646"
@@ -64,12 +70,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001508"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101875467
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5e85addb10ae022962030049dfb6cee2",
+    "wof:geomhash":"caa3b4c0e4087d18cf465d8166a6e584",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404434733,
     "wof:label":"Maids Moreton Civil Parish",
-    "wof:lastmodified":1566633586,
+    "wof:lastmodified":1695877725,
     "wof:name":"Maids Moreton",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

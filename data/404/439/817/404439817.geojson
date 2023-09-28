@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006102,
-    "geom:area_square_m":46278986.327028,
+    "geom:area_square_m":46278986.327031,
     "geom:bbox":"-4.24635875943,52.1254046347,-4.07647387518,52.2008143075",
     "geom:latitude":52.167197,
     "geom:longitude":-4.163083,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.164669,
     "lbl:longitude":-4.163102,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfihangel Ystrad Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000379"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209242131
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f7dff26835632a1dcaa8abc2fcba027b",
+    "wof:geomhash":"6146c50000a474ab9da49ad6b964671a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404439817,
-    "wof:lastmodified":1566631851,
+    "wof:lastmodified":1695876950,
     "wof:name":"Llanfihangel Ystrad Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

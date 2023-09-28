@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000768,
-    "geom:area_square_m":5591018.740843,
+    "geom:area_square_m":5591018.740842,
     "geom:bbox":"-1.60728227343,53.9029202335,-1.54906555471,53.9333511396",
     "geom:latitude":53.917971,
     "geom:longitude":-1.57633,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.917988,
     "lbl:longitude":-1.576325,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weeton"
@@ -45,12 +51,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007435"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125942747
     ],
     "wof:country":"GB",
-    "wof:geomhash":"728aedc0982a77da0b7aa26cd2796427",
+    "wof:geomhash":"62680191ca9f54f9653d7cd5042b607a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404438033,
     "wof:label":"Weeton Civil Parish",
-    "wof:lastmodified":1566632622,
+    "wof:lastmodified":1695877287,
     "wof:name":"Weeton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.023633,
     "geom:longitude":-1.811234,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.019782,
     "lbl:longitude":-1.812211,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thruscross"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007430"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782309
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d2aa8e113d78b31baf0428f3b5931caf",
+    "wof:geomhash":"ca668e6400e5f2c4cbf966d78811b5ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452529,
     "wof:label":"Thruscross Civil Parish",
-    "wof:lastmodified":1566632211,
+    "wof:lastmodified":1695877104,
     "wof:name":"Thruscross",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

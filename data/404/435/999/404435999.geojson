@@ -10,12 +10,18 @@
     "geom:latitude":54.335147,
     "geom:longitude":-1.713988,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.3352,
     "lbl:longitude":-1.714364,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hunton"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007494"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125996623
     ],
     "wof:country":"GB",
-    "wof:geomhash":"444bd8dd68027c7cfd07453090b5a2b6",
+    "wof:geomhash":"880e504724ebd55ec9dd73ec500a5c6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404435999,
     "wof:label":"Hunton Civil Parish",
-    "wof:lastmodified":1566633990,
+    "wof:lastmodified":1695877892,
     "wof:name":"Hunton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

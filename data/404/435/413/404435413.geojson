@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002528,
-    "geom:area_square_m":17931280.961007,
+    "geom:area_square_m":17931280.961006,
     "geom:bbox":"-2.45430810611,54.9624035108,-2.38119738824,55.0358982612",
     "geom:latitude":55.000195,
     "geom:longitude":-2.420334,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.013433,
     "lbl:longitude":-2.423351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Melkridge"
@@ -61,12 +67,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010830"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757333
     ],
     "wof:country":"GB",
-    "wof:geomhash":"08e19ca06ee995e4847fe0871aa1f853",
+    "wof:geomhash":"a2d56286240d6d4eb947e43513f089e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404435413,
     "wof:label":"Melkridge Civil Parish",
-    "wof:lastmodified":1566633997,
+    "wof:lastmodified":1695877896,
     "wof:name":"Melkridge",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004832,
-    "geom:area_square_m":35811579.319351,
+    "geom:area_square_m":35811579.319352,
     "geom:bbox":"-4.12732206071,53.1003151016,-4.01865757525,53.2445267089",
     "geom:latitude":53.172802,
     "geom:longitude":-4.079343,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.168546,
     "lbl:longitude":-4.088324,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llandygai Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000073"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711623
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d7a72dc393f8dc802c4bc7036f3ebbaf",
+    "wof:geomhash":"cb81518b28c91dc121bde33337dbca15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404450727,
-    "wof:lastmodified":1566633848,
+    "wof:lastmodified":1695877836,
     "wof:name":"Llandygai Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

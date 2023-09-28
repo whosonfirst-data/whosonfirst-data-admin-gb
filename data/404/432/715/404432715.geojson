@@ -10,12 +10,18 @@
     "geom:latitude":53.086629,
     "geom:longitude":-1.884612,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.085959,
     "lbl:longitude":-1.885396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grindon"
@@ -57,12 +63,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009042"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125919165
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ba3eb135c180e1875890e944074fe16b",
+    "wof:geomhash":"0f28b1118039e57ea5aa8297a67d28dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404432715,
     "wof:label":"Grindon Civil Parish",
-    "wof:lastmodified":1566633914,
+    "wof:lastmodified":1695877857,
     "wof:name":"Grindon",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

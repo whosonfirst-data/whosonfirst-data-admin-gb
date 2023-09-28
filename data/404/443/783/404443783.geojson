@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001201,
-    "geom:area_square_m":9264271.686395,
+    "geom:area_square_m":9264271.686394,
     "geom:bbox":"0.475142491742,51.3854544284,0.538271440871,51.4340400495",
     "geom:latitude":51.411097,
     "geom:longitude":0.509226,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.415176,
     "lbl:longitude":0.507079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Frindsbury Extra"
@@ -52,12 +58,15 @@
         1360699105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001133"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758529
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6f93d240a6f1050376bdc20142d42feb",
+    "wof:geomhash":"76fa630b3003cd88995f039d0b7872b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404443783,
     "wof:label":"Frindsbury Extra Civil Parish",
-    "wof:lastmodified":1566633034,
+    "wof:lastmodified":1695877475,
     "wof:name":"Frindsbury Extra",
     "wof:parent_id":1360699105,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.837268,
     "geom:longitude":-1.942755,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.839482,
     "lbl:longitude":-1.938153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u0442"
@@ -110,9 +116,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04003373",
         "gn:id":7296616,
         "qs_pg:id":1040837
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755911
     ],
@@ -120,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f8c4400d9657780069b1dcc68bdb800",
+    "wof:geomhash":"295590980acebb5938406a4cc78db07c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +141,7 @@
     ],
     "wof:id":404440053,
     "wof:label":"Holt Civil Parish",
-    "wof:lastmodified":1582311048,
+    "wof:lastmodified":1695877945,
     "wof:name":"Holt",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.824479,
     "geom:longitude":-2.429575,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.82051,
     "lbl:longitude":-2.429568,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alton Pancras"
@@ -55,12 +61,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003494"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759525
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aed81c48f6931d1e59547313c3fc003c",
+    "wof:geomhash":"80f6f55854d374f85c315229f9f1fd91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404429219,
     "wof:label":"Alton Pancras Civil Parish",
-    "wof:lastmodified":1566633112,
+    "wof:lastmodified":1695877511,
     "wof:name":"Alton Pancras",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

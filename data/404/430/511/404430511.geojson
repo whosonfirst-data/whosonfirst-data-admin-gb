@@ -10,12 +10,18 @@
     "geom:latitude":50.869668,
     "geom:longitude":-1.413001,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.870206,
     "lbl:longitude":-1.413584,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hythe and Dibden"
@@ -43,12 +49,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004573"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754531
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6324625f2c56410f9d310b206e9c350b",
+    "wof:geomhash":"5a1a7090a640337555ef9e44e1df0853",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404430511,
     "wof:label":"Hythe and Dibden Civil Parish",
-    "wof:lastmodified":1566631988,
+    "wof:lastmodified":1695877011,
     "wof:name":"Hythe and Dibden",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01033,
-    "geom:area_square_m":75877974.325799,
+    "geom:area_square_m":75877974.325801,
     "geom:bbox":"-2.07306087194,53.5041738266,-1.90962568755,53.6242238576",
     "geom:latitude":53.555798,
     "geom:longitude":-1.993918,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.557106,
     "lbl:longitude":-1.999456,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saddleworth"
@@ -49,12 +55,15 @@
         1360698953
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000005"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754417
     ],
     "wof:country":"GB",
-    "wof:geomhash":"93e3b05d0d7990273902875e06c154cd",
+    "wof:geomhash":"c8bd9cbbed5436c673f87eb80963faf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404446855,
     "wof:label":"Saddleworth Civil Parish",
-    "wof:lastmodified":1566631694,
+    "wof:lastmodified":1695876883,
     "wof:name":"Saddleworth",
     "wof:parent_id":1360698953,
     "wof:placetype":"localadmin",

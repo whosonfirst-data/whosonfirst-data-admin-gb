@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007265,
-    "geom:area_square_m":57133062.152553,
+    "geom:area_square_m":57133062.152552,
     "geom:bbox":"-4.61136652849,50.4541231088,-4.4994016721,50.5618074507",
     "geom:latitude":50.50518,
     "geom:longitude":-4.558466,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.508803,
     "lbl:longitude":-4.553962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Neot"
@@ -45,12 +51,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011576"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803045
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b5ba235ec9a482b20b157dbadbcfbf03",
+    "wof:geomhash":"78d01fd92c57e825ce0cc3d0f467f605",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404440805,
     "wof:label":"St. Neot Civil Parish",
-    "wof:lastmodified":1566631164,
+    "wof:lastmodified":1695878233,
     "wof:name":"St. Neot",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

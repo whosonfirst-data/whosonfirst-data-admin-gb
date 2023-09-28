@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001262,
-    "geom:area_square_m":9844267.626414,
+    "geom:area_square_m":9844267.626415,
     "geom:bbox":"-3.9259666671,50.8604411443,-3.8734907753,50.9050356951",
     "geom:latitude":50.88484,
     "geom:longitude":-3.897686,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.892122,
     "lbl:longitude":-3.89114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wembworthy"
@@ -52,12 +58,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003061"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757837
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ab03f0d9187cfaae32f89db3c75ff265",
+    "wof:geomhash":"c85398029b90f991c8e3f24efb6df8fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404452131,
     "wof:label":"Wembworthy Civil Parish",
-    "wof:lastmodified":1566632220,
+    "wof:lastmodified":1695877107,
     "wof:name":"Wembworthy",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

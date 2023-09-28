@@ -10,12 +10,18 @@
     "geom:latitude":51.862414,
     "geom:longitude":-0.981083,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.86251,
     "lbl:longitude":-0.984672,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woodham"
@@ -50,9 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04001556",
         "gn:id":7298726,
         "qs_pg:id":904181
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759505
     ],
@@ -60,7 +68,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"560cb6603d48ef0a31205c5db1572e12",
+    "wof:geomhash":"1d088952cf0e2bb373986529faa7628c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +81,7 @@
     ],
     "wof:id":404437327,
     "wof:label":"Woodham Civil Parish",
-    "wof:lastmodified":1582311087,
+    "wof:lastmodified":1695877962,
     "wof:name":"Woodham",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

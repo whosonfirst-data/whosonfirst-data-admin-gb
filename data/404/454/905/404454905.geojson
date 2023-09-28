@@ -10,12 +10,18 @@
     "geom:latitude":52.001888,
     "geom:longitude":1.274239,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.999453,
     "lbl:longitude":1.273972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stratton Hall"
@@ -55,12 +61,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009458"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754327
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b58d44a1ab6b144f8f6019f4e5789efb",
+    "wof:geomhash":"181c2ca7aaa3842788c7452bcdc373bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404454905,
     "wof:label":"Stratton Hall Civil Parish",
-    "wof:lastmodified":1566632704,
+    "wof:lastmodified":1695877329,
     "wof:name":"Stratton Hall",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

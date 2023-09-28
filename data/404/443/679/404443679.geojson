@@ -10,12 +10,18 @@
     "geom:latitude":50.872916,
     "geom:longitude":-2.087569,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.873154,
     "lbl:longitude":-2.077379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tarrant Monkton"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010500"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310434597
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a0ef45b1bc330cf49b692d7942e35b56",
+    "wof:geomhash":"254843e71a2ab2d9ffc755788b7265ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404443679,
     "wof:label":"Tarrant Monkton Civil Parish",
-    "wof:lastmodified":1566633061,
+    "wof:lastmodified":1695877488,
     "wof:name":"Tarrant Monkton",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

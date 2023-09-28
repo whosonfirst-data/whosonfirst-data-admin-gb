@@ -10,12 +10,18 @@
     "geom:latitude":52.139303,
     "geom:longitude":-2.069684,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.139123,
     "lbl:longitude":-2.069687,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pinvin"
@@ -60,12 +66,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010426"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125785023
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ff9dfba2ecbfb3a2f763b1ebadf2b5a4",
+    "wof:geomhash":"dcdf73c2ef749a860945f21341f0752d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404432349,
     "wof:label":"Pinvin Civil Parish",
-    "wof:lastmodified":1566633915,
+    "wof:lastmodified":1695877857,
     "wof:name":"Pinvin",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

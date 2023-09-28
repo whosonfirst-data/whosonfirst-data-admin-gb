@@ -10,12 +10,18 @@
     "geom:latitude":54.069555,
     "geom:longitude":-1.892903,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.070147,
     "lbl:longitude":-1.885049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Appletreewick"
@@ -63,12 +69,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012235"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125772109
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1bf3b45751c65ea47c9129a00b6031d8",
+    "wof:geomhash":"f77e257666f52e83ee4282a33360f378",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404433463,
     "wof:label":"Appletreewick Civil Parish",
-    "wof:lastmodified":1566633666,
+    "wof:lastmodified":1695877759,
     "wof:name":"Appletreewick",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

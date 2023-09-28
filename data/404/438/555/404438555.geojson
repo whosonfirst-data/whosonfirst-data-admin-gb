@@ -10,12 +10,18 @@
     "geom:latitude":54.27966,
     "geom:longitude":-1.462763,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.281188,
     "lbl:longitude":-1.468088,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maunby"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007224"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343887303
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ccfe46c8ba1fe6e641efa77398ac1d5e",
+    "wof:geomhash":"79a65081d7dde7f582a5d8d807dd5e79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404438555,
     "wof:label":"Maunby Civil Parish",
-    "wof:lastmodified":1566632593,
+    "wof:lastmodified":1695877273,
     "wof:name":"Maunby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

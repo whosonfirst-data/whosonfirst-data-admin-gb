@@ -10,12 +10,18 @@
     "geom:latitude":53.735277,
     "geom:longitude":-1.201781,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.733245,
     "lbl:longitude":-1.21318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Birkin"
@@ -55,12 +61,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007719"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759555
     ],
     "wof:country":"GB",
-    "wof:geomhash":"caee7636b8007fed8475fd4deef6d351",
+    "wof:geomhash":"a3a0fc3f0a9428a3f38bd6a5d5fe4077",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404429241,
     "wof:label":"Birkin Civil Parish",
-    "wof:lastmodified":1566633157,
+    "wof:lastmodified":1695877529,
     "wof:name":"Birkin",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

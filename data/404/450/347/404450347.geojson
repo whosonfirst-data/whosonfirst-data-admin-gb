@@ -10,12 +10,18 @@
     "geom:latitude":53.926459,
     "geom:longitude":-1.061849,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.929766,
     "lbl:longitude":-1.05982,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fulford"
@@ -63,12 +69,15 @@
         1360698977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000602"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125899863
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5ee00456cd808c793f22fead334c2fa5",
+    "wof:geomhash":"8a08708f568f169a34ed8dc45df20962",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404450347,
     "wof:label":"Fulford Civil Parish",
-    "wof:lastmodified":1566633790,
+    "wof:lastmodified":1695877813,
     "wof:name":"Fulford",
     "wof:parent_id":1360698977,
     "wof:placetype":"localadmin",

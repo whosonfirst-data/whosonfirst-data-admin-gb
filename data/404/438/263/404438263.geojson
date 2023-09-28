@@ -10,12 +10,18 @@
     "geom:latitude":51.069617,
     "geom:longitude":-4.122911,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.064321,
     "lbl:longitude":-4.133203,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fremington"
@@ -48,12 +54,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003090"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910797
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d23fdb42d7ed53379e0c5c3130119635",
+    "wof:geomhash":"87a122598b1ed7a4ec6a670899de22b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404438263,
     "wof:label":"Fremington Civil Parish",
-    "wof:lastmodified":1566632626,
+    "wof:lastmodified":1695877289,
     "wof:name":"Fremington",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004697,
-    "geom:area_square_m":35288929.773818,
+    "geom:area_square_m":35288929.773819,
     "geom:bbox":"-2.63679320906,52.5424570584,-2.50927474465,52.6261679597",
     "geom:latitude":52.582763,
     "geom:longitude":-2.567664,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.579846,
     "lbl:longitude":-2.566713,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u0686 \u0648\u0646\u0644\u0627\u06a9"
@@ -114,12 +120,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011324"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853635
     ],
     "wof:country":"GB",
-    "wof:geomhash":"90fb91c234778f0381fa62d65c513b91",
+    "wof:geomhash":"ccf860746fa4b9265993050154906eee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +141,7 @@
     ],
     "wof:id":404438169,
     "wof:label":"Much Wenlock Civil Parish",
-    "wof:lastmodified":1566632548,
+    "wof:lastmodified":1695877254,
     "wof:name":"Much Wenlock",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

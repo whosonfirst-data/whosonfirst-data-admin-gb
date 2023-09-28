@@ -10,12 +10,18 @@
     "geom:latitude":52.219396,
     "geom:longitude":-1.487874,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.21448,
     "lbl:longitude":-1.477785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chesterton and Kingston"
@@ -43,12 +49,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009723"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756697
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9ec72c399b11bdf3b418151539811e42",
+    "wof:geomhash":"0acabd9e2ead5f25d86eb63f4d3d22ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404451433,
     "wof:label":"Chesterton and Kingston Civil Parish",
-    "wof:lastmodified":1566633513,
+    "wof:lastmodified":1695877688,
     "wof:name":"Chesterton and Kingston",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

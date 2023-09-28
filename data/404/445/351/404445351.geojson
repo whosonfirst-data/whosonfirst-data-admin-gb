@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000999,
-    "geom:area_square_m":7416073.879441,
+    "geom:area_square_m":7416073.879442,
     "geom:bbox":"0.137605369998,53.1028134764,0.249687796808,53.1206509815",
     "geom:latitude":53.112887,
     "geom:longitude":0.196191,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.114724,
     "lbl:longitude":0.197042,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u06cc\u0646\u0641\u0644\u06cc\u062a \u0622\u0644 \u0633\u06cc\u0646\u062a\u0633"
@@ -72,12 +78,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005753"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125934161
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32eac12c41fc690e00a5dec1e2f9953e",
+    "wof:geomhash":"b3327494908364463515753a8ecf6f1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404445351,
     "wof:label":"Wainfleet All Saints Civil Parish",
-    "wof:lastmodified":1566633371,
+    "wof:lastmodified":1695877626,
     "wof:name":"Wainfleet All Saints",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

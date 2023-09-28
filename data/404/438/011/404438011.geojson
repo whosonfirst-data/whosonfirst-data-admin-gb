@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001827,
-    "geom:area_square_m":13317635.587843,
+    "geom:area_square_m":13317635.587842,
     "geom:bbox":"-0.234155033996,53.8568300726,-0.150529086344,53.8912066804",
     "geom:latitude":53.873209,
     "geom:longitude":-0.1968,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.87476,
     "lbl:longitude":-0.196795,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hatfield"
@@ -85,12 +91,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000407"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753573
     ],
     "wof:country":"GB",
-    "wof:geomhash":"297aadc19b450753718916f352cbc54a",
+    "wof:geomhash":"1d3a42c97206205eca25587aec608665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +112,7 @@
     ],
     "wof:id":404438011,
     "wof:label":"Hatfield Civil Parish",
-    "wof:lastmodified":1566632606,
+    "wof:lastmodified":1695877280,
     "wof:name":"Hatfield",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

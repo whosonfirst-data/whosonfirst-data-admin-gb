@@ -10,12 +10,18 @@
     "geom:latitude":51.520568,
     "geom:longitude":-1.697157,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.520431,
     "lbl:longitude":-1.697714,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Liddington"
@@ -60,12 +66,15 @@
         1360699033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001094"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976033
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fad06a0fba2b9bee0d29a1f3cb0ccbc0",
+    "wof:geomhash":"18c352fac7151ed26cd946d2598dffa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404453865,
     "wof:label":"Liddington Civil Parish",
-    "wof:lastmodified":1566632836,
+    "wof:lastmodified":1695877389,
     "wof:name":"Liddington",
     "wof:parent_id":1360699033,
     "wof:placetype":"localadmin",

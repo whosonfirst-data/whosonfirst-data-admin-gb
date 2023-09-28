@@ -10,12 +10,18 @@
     "geom:latitude":51.597988,
     "geom:longitude":-3.764756,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.598357,
     "lbl:longitude":-3.772461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Port Talbot Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000622"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852835
     ],
     "wof:country":"GB",
-    "wof:geomhash":"65290298fe205a55e40830eb94406305",
+    "wof:geomhash":"def7fd8162cd81c01cde74106ac23f5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440355,
-    "wof:lastmodified":1566631134,
+    "wof:lastmodified":1695878218,
     "wof:name":"Port Talbot Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

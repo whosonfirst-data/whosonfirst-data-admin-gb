@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001258,
-    "geom:area_square_m":9301731.433964,
+    "geom:area_square_m":9301731.433963,
     "geom:bbox":"-0.155331066819,53.2390405272,-0.0976388376144,53.275946336",
     "geom:latitude":53.259804,
     "geom:longitude":-0.131183,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.25755,
     "lbl:longitude":-0.13352,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hemingby"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005661"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209650637
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4bf53e30f61c3748f5048d5ad377dcc6",
+    "wof:geomhash":"cca8289ea5ae658799dd11126ec6cb2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404445461,
     "wof:label":"Hemingby Civil Parish",
-    "wof:lastmodified":1566633399,
+    "wof:lastmodified":1695877639,
     "wof:name":"Hemingby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

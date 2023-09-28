@@ -10,12 +10,18 @@
     "geom:latitude":51.682378,
     "geom:longitude":-2.077753,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.684545,
     "lbl:longitude":-2.074306,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rodmarton"
@@ -66,12 +72,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004261"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030519
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0d51df602d83e4892d49d08b304732d1",
+    "wof:geomhash":"492604eefde83609af7c801d945cbd51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404437993,
     "wof:label":"Rodmarton Civil Parish",
-    "wof:lastmodified":1566632108,
+    "wof:lastmodified":1695877063,
     "wof:name":"Rodmarton",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

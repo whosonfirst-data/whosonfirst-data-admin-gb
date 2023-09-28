@@ -10,12 +10,18 @@
     "geom:latitude":51.800906,
     "geom:longitude":-1.230652,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.802803,
     "lbl:longitude":-1.232598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woodeaton"
@@ -57,12 +63,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008184"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126051059
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7367b9db700075a272f92fedbc95b7b8",
+    "wof:geomhash":"b0e80929c36b395835c22bae85c7ddae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404433203,
     "wof:label":"Woodeaton Civil Parish",
-    "wof:lastmodified":1566633668,
+    "wof:lastmodified":1695877760,
     "wof:name":"Woodeaton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

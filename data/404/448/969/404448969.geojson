@@ -10,12 +10,18 @@
     "geom:latitude":53.323107,
     "geom:longitude":-2.312518,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.321012,
     "lbl:longitude":-2.317901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0628\u0628\u0631\u0644\u064a"
@@ -69,12 +75,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010975"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125858035
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3402724e00e0e24ef0595c9d1678cb7f",
+    "wof:geomhash":"c60ec75d20147f59ac5c61e48fe64d17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404448969,
     "wof:label":"Mobberley Civil Parish",
-    "wof:lastmodified":1566631531,
+    "wof:lastmodified":1695876827,
     "wof:name":"Mobberley",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004264,
-    "geom:area_square_m":33384768.360402,
+    "geom:area_square_m":33384768.360401,
     "geom:bbox":"-2.17531703109,50.6881618021,-2.03293349308,50.7417362159",
     "geom:latitude":50.714,
     "geom:longitude":-2.10807,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.714065,
     "lbl:longitude":-2.09734,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wareham St. Martin"
@@ -40,12 +46,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003487"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758101
     ],
     "wof:country":"GB",
-    "wof:geomhash":"448b128ee60e5bbadfac907693f6d5f1",
+    "wof:geomhash":"870520fd8d000092e5e82b9f77a6c7f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404452389,
     "wof:label":"Wareham St. Martin Civil Parish",
-    "wof:lastmodified":1566632259,
+    "wof:lastmodified":1695877124,
     "wof:name":"Wareham St. Martin",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

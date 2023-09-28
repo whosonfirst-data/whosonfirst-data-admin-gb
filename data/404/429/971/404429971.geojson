@@ -10,12 +10,18 @@
     "geom:latitude":50.845538,
     "geom:longitude":-0.614586,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.844408,
     "lbl:longitude":-0.603509,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Walberton"
@@ -63,12 +69,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009877"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126034941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"55d402a33d7273e3e492002be0867397",
+    "wof:geomhash":"962425e47ea29f74afe3e8a1363a5843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404429971,
     "wof:label":"Walberton Civil Parish",
-    "wof:lastmodified":1566633137,
+    "wof:lastmodified":1695877522,
     "wof:name":"Walberton",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001703,
-    "geom:area_square_m":12888641.784102,
+    "geom:area_square_m":12888641.784103,
     "geom:bbox":"0.493548553801,52.2238351271,0.559983408248,52.2830613371",
     "geom:latitude":52.25343,
     "geom:longitude":0.529824,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.259036,
     "lbl:longitude":0.524817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gazeley"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009147"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d2b943d02d974485f78cf7433e146eab",
+    "wof:geomhash":"a12f8b6dcc6cfd5a75e484ea9387dd1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448745,
     "wof:label":"Gazeley Civil Parish",
-    "wof:lastmodified":1566631570,
+    "wof:lastmodified":1695876845,
     "wof:name":"Gazeley",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001351,
-    "geom:area_square_m":10402928.927849,
+    "geom:area_square_m":10402928.92785,
     "geom:bbox":"-3.53948213446,51.4754857795,-3.46790650365,51.5152975901",
     "geom:latitude":51.496451,
     "geom:longitude":-3.500105,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.495458,
     "lbl:longitude":-3.49956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangan Community"
@@ -40,12 +46,15 @@
         1360698899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000659"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126022685
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d3abb2078809730a5fdfa01f39ae983",
+    "wof:geomhash":"94b1cf59c2c65edf7c6fc7117de9aceb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442887,
-    "wof:lastmodified":1566633215,
+    "wof:lastmodified":1695877557,
     "wof:name":"Llangan Community",
     "wof:parent_id":1360698899,
     "wof:placetype":"localadmin",

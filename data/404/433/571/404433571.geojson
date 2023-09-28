@@ -10,12 +10,18 @@
     "geom:latitude":51.884416,
     "geom:longitude":1.075186,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.884881,
     "lbl:longitude":1.075572,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Bentley"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004101"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125971425
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4837f599ea63b4968f1655c0ac2bcf04",
+    "wof:geomhash":"ca0784558e115c5e76208994bfb7a239",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404433571,
     "wof:label":"Little Bentley Civil Parish",
-    "wof:lastmodified":1566633729,
+    "wof:lastmodified":1695877788,
     "wof:name":"Little Bentley",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

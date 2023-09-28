@@ -10,12 +10,18 @@
     "geom:latitude":51.395122,
     "geom:longitude":-0.636117,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.394924,
     "lbl:longitude":-0.632939,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646\u064a\u0646\u063a\u062f\u0644"
@@ -78,12 +84,15 @@
         1360698943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001222"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060109
     ],
     "wof:country":"GB",
-    "wof:geomhash":"21d6f943d04566fc32b9f7cb20816221",
+    "wof:geomhash":"894ee49c9df2eb4a6c09ed73147a176e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404445395,
     "wof:label":"Sunningdale Civil Parish",
-    "wof:lastmodified":1566633364,
+    "wof:lastmodified":1695877624,
     "wof:name":"Sunningdale",
     "wof:parent_id":1360698943,
     "wof:placetype":"localadmin",

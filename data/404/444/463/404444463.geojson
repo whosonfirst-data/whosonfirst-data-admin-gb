@@ -10,12 +10,18 @@
     "geom:latitude":52.293845,
     "geom:longitude":-1.287288,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.293906,
     "lbl:longitude":-1.290311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grandborough"
@@ -60,12 +66,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009676"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209550921
     ],
     "wof:country":"GB",
-    "wof:geomhash":"027947af5bcdad8c0919c4e2830a6523",
+    "wof:geomhash":"0e836a4d0382fef761e77c2e6b3d3f01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444463,
     "wof:label":"Grandborough Civil Parish",
-    "wof:lastmodified":1566632901,
+    "wof:lastmodified":1695877414,
     "wof:name":"Grandborough",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

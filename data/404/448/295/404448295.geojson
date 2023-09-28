@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001755,
-    "geom:area_square_m":12678154.566946,
+    "geom:area_square_m":12678154.566947,
     "geom:bbox":"-1.40271745612,54.2246916232,-1.29322179952,54.2603088648",
     "geom:latitude":54.241649,
     "geom:longitude":-1.354432,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.243062,
     "lbl:longitude":-1.368098,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0631\u06cc\u0633\u06a9"
@@ -96,12 +102,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007276"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125916679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4659b70d3ec915a7eca85fdadc248385",
+    "wof:geomhash":"42d144e4a087fcf523f202e6016989c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404448295,
     "wof:label":"Thirsk Civil Parish",
-    "wof:lastmodified":1566631492,
+    "wof:lastmodified":1695876811,
     "wof:name":"Thirsk",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

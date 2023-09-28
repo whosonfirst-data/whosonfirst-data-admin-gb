@@ -10,12 +10,18 @@
     "geom:latitude":53.01829,
     "geom:longitude":-1.971138,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.016205,
     "lbl:longitude":-1.982032,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u063a\u0633\u0644\u064a"
@@ -108,12 +114,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009049"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125787817
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fc97f157b64c8cb513d215f8a29c10f9",
+    "wof:geomhash":"7e6ef9c5d8d3b93a3f854aa1dac6057e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +135,7 @@
     ],
     "wof:id":404454791,
     "wof:label":"Kingsley Civil Parish",
-    "wof:lastmodified":1566632649,
+    "wof:lastmodified":1695877301,
     "wof:name":"Kingsley",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

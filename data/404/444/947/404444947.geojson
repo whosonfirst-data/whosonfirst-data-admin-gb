@@ -10,12 +10,18 @@
     "geom:latitude":53.766238,
     "geom:longitude":-1.088253,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.7678,
     "lbl:longitude":-1.094155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brayton"
@@ -63,12 +69,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007721"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126005001
     ],
     "wof:country":"GB",
-    "wof:geomhash":"df9a5ca703ca296dd30ba24350c04097",
+    "wof:geomhash":"051b39225d1fc2f7c1c8b9a18c7879f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404444947,
     "wof:label":"Brayton Civil Parish",
-    "wof:lastmodified":1566632920,
+    "wof:lastmodified":1695877422,
     "wof:name":"Brayton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

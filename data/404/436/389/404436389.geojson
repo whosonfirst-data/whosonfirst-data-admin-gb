@@ -10,12 +10,18 @@
     "geom:latitude":50.75084,
     "geom:longitude":-4.146347,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.739894,
     "lbl:longitude":-4.119839,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beaworthy"
@@ -57,12 +63,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003304"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998369
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d1ffe7e64e4ea3f90886a49c70a63d1f",
+    "wof:geomhash":"9d0b0633dc16f0cd181ff3bba93c0859",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404436389,
     "wof:label":"Beaworthy Civil Parish",
-    "wof:lastmodified":1566632418,
+    "wof:lastmodified":1695877195,
     "wof:name":"Beaworthy",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

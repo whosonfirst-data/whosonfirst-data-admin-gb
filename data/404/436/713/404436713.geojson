@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003062,
-    "geom:area_square_m":23758752.487089,
+    "geom:area_square_m":23758752.487091,
     "geom:bbox":"-3.98945520475,51.1017839003,-3.88551588346,51.1601324177",
     "geom:latitude":51.129263,
     "geom:longitude":-3.926154,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.133894,
     "lbl:longitude":-3.916713,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bratton Fleming"
@@ -63,12 +69,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003074"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293819253
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d21994d3b0ae4ab253ff4dd8d925e1cb",
+    "wof:geomhash":"1cce1afc0b4b393c5cd19ffaf4ccc157",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404436713,
     "wof:label":"Bratton Fleming Civil Parish",
-    "wof:lastmodified":1566632363,
+    "wof:lastmodified":1695877170,
     "wof:name":"Bratton Fleming",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

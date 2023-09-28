@@ -10,12 +10,18 @@
     "geom:latitude":51.146257,
     "geom:longitude":0.38584,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.145095,
     "lbl:longitude":0.389061,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brenchley"
@@ -63,12 +69,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005118"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125768691
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9bd89bbe9b64578784da83ebde71653c",
+    "wof:geomhash":"a43b2e1c3a934a35f3887ef2c8d53f22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454799,
     "wof:label":"Brenchley Civil Parish",
-    "wof:lastmodified":1566632644,
+    "wof:lastmodified":1695877298,
     "wof:name":"Brenchley",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

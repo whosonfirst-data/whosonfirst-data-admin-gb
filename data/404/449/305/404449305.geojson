@@ -10,12 +10,18 @@
     "geom:latitude":52.238904,
     "geom:longitude":-2.175337,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.239085,
     "lbl:longitude":-2.175332,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Martin Hussingtree"
@@ -60,12 +66,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010411"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125888505
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a63556ba942557a6eb30c51f6488b987",
+    "wof:geomhash":"ade784193a10dc0de2c2e070e9cf8246",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404449305,
     "wof:label":"Martin Hussingtree Civil Parish",
-    "wof:lastmodified":1566631413,
+    "wof:lastmodified":1695876777,
     "wof:name":"Martin Hussingtree",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

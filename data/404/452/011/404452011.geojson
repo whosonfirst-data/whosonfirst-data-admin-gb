@@ -10,12 +10,18 @@
     "geom:latitude":52.524941,
     "geom:longitude":1.663251,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.525091,
     "lbl:longitude":1.663259,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Somerleyton, Ashby and Herringfleet"
@@ -43,12 +49,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009525"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757631
     ],
     "wof:country":"GB",
-    "wof:geomhash":"47391e8542c8ec6fd0affdea2e1d8dd1",
+    "wof:geomhash":"c276e180ec5c0383f41304cdd694b1ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404452011,
     "wof:label":"Somerleyton, Ashby and Herringfleet Civil Parish",
-    "wof:lastmodified":1566632235,
+    "wof:lastmodified":1695877114,
     "wof:name":"Somerleyton, Ashby and Herringfleet",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

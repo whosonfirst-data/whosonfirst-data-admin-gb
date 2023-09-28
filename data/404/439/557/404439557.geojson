@@ -10,12 +10,18 @@
     "geom:latitude":52.279698,
     "geom:longitude":-1.709937,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.279583,
     "lbl:longitude":-1.705595,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Claverdon"
@@ -57,12 +63,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009724"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881787
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ad51235892b195c69df3a99eba180ee1",
+    "wof:geomhash":"493157e2ba78f2d3f87d270c8e32581f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439557,
     "wof:label":"Claverdon Civil Parish",
-    "wof:lastmodified":1566631838,
+    "wof:lastmodified":1695876944,
     "wof:name":"Claverdon",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

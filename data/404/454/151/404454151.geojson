@@ -10,12 +10,18 @@
     "geom:latitude":52.779955,
     "geom:longitude":-3.103224,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.781108,
     "lbl:longitude":-3.100875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carreghofa Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000261"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711929
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d41b70c098742c3a400cb7da3cefce23",
+    "wof:geomhash":"941ad89f5b8d882996d44a56a5c31e70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454151,
-    "wof:lastmodified":1566632653,
+    "wof:lastmodified":1695877303,
     "wof:name":"Carreghofa Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

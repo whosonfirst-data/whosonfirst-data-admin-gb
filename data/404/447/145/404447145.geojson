@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001181,
-    "geom:area_square_m":9099839.941405,
+    "geom:area_square_m":9099839.941406,
     "geom:bbox":"-2.68701580759,51.4440021778,-2.63158072949,51.486670959",
     "geom:latitude":51.463918,
     "geom:longitude":-2.661118,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.462551,
     "lbl:longitude":-2.661525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Abbots Leigh"
@@ -63,12 +69,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000999"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125875667
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b59f2fe0049cdbe00c46c00f58a6ad8e",
+    "wof:geomhash":"89566afeaf711840d848f65b4141410d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447145,
     "wof:label":"Abbots Leigh Civil Parish",
-    "wof:lastmodified":1566631279,
+    "wof:lastmodified":1695878285,
     "wof:name":"Abbots Leigh",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.335268,
     "geom:longitude":-2.69169,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.336071,
     "lbl:longitude":-2.690151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ashford Carbonel"
@@ -42,12 +48,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011207"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293819249
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f3bb9913d638a336ed5f25b132b9f914",
+    "wof:geomhash":"7a780968f1c18bd807c4e1b3b590c75f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404438171,
     "wof:label":"Ashford Carbonel Civil Parish",
-    "wof:lastmodified":1566632641,
+    "wof:lastmodified":1695877297,
     "wof:name":"Ashford Carbonel",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

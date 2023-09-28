@@ -10,12 +10,18 @@
     "geom:latitude":52.205765,
     "geom:longitude":-1.066648,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.207023,
     "lbl:longitude":-1.066249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stowe Ix Churches"
@@ -40,12 +46,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006693"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759741
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8ced4ee1898bdbb8019d4409795139a0",
+    "wof:geomhash":"619e3f3195e02b0ca2a7a011838d0f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404429417,
     "wof:label":"Stowe Ix Churches Civil Parish",
-    "wof:lastmodified":1566633158,
+    "wof:lastmodified":1695877530,
     "wof:name":"Stowe Ix Churches",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

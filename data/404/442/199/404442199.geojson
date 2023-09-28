@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001538,
-    "geom:area_square_m":11516756.546554,
+    "geom:area_square_m":11516756.546556,
     "geom:bbox":"0.293834593867,52.7254639683,0.38559341455,52.7473514815",
     "geom:latitude":52.737109,
     "geom:longitude":0.338274,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.737281,
     "lbl:longitude":0.338279,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tilney All Saints"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006362"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125891181
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3d56f12bde9845582a5380c40d98f80b",
+    "wof:geomhash":"4aba337d6f503ff68e945339ed190aef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442199,
     "wof:label":"Tilney All Saints Civil Parish",
-    "wof:lastmodified":1566633260,
+    "wof:lastmodified":1695877578,
     "wof:name":"Tilney All Saints",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

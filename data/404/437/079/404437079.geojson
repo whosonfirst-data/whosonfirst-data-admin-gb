@@ -10,12 +10,18 @@
     "geom:latitude":50.50533,
     "geom:longitude":-3.560655,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.503484,
     "lbl:longitude":-3.559236,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coffinswell"
@@ -57,12 +63,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003203"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974207
     ],
     "wof:country":"GB",
-    "wof:geomhash":"36f44120ac03e8e27501056719ccf4e9",
+    "wof:geomhash":"113e3fe1a719e12381373eb2d15bd871",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404437079,
     "wof:label":"Coffinswell Civil Parish",
-    "wof:lastmodified":1566632068,
+    "wof:lastmodified":1695877043,
     "wof:name":"Coffinswell",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

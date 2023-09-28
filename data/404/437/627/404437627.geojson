@@ -10,12 +10,18 @@
     "geom:latitude":55.519113,
     "geom:longitude":-1.891946,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.518844,
     "lbl:longitude":-1.891934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chillingham"
@@ -42,12 +48,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010760"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126000679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7a5930287b13f349be8051296eef91da",
+    "wof:geomhash":"cc0444d1ee4a9d076e0497a90d477569",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404437627,
     "wof:label":"Chillingham Civil Parish",
-    "wof:lastmodified":1566632075,
+    "wof:lastmodified":1695877047,
     "wof:name":"Chillingham",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

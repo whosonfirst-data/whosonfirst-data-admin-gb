@@ -10,12 +10,18 @@
     "geom:latitude":51.680787,
     "geom:longitude":-1.756422,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.680561,
     "lbl:longitude":-1.75643,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kempsford"
@@ -69,12 +75,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004239"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125831449
     ],
     "wof:country":"GB",
-    "wof:geomhash":"961183fd85c7d8f334faa2995c8b5957",
+    "wof:geomhash":"4298da7178e30ae8aa681d09ae7235f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404441425,
     "wof:label":"Kempsford Civil Parish",
-    "wof:lastmodified":1566631733,
+    "wof:lastmodified":1695876898,
     "wof:name":"Kempsford",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

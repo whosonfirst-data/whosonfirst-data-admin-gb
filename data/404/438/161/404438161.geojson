@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001537,
-    "geom:area_square_m":12083984.662029,
+    "geom:area_square_m":12083984.662028,
     "geom:bbox":"-3.72315829321,50.4784962787,-3.6387559923,50.5270701033",
     "geom:latitude":50.504537,
     "geom:longitude":-3.675512,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.496038,
     "lbl:longitude":-3.662068,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Denbury and Torbryan"
@@ -43,12 +49,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003235"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753823
     ],
     "wof:country":"GB",
-    "wof:geomhash":"987619c2c6902eb6815def22e47798bc",
+    "wof:geomhash":"5f173479c1fdf0ea0f9af27f7ad5ac69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404438161,
     "wof:label":"Denbury and Torbryan Civil Parish",
-    "wof:lastmodified":1566632541,
+    "wof:lastmodified":1695877251,
     "wof:name":"Denbury and Torbryan",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

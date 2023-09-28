@@ -10,12 +10,18 @@
     "geom:latitude":53.040514,
     "geom:longitude":-0.9388,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.039783,
     "lbl:longitude":-0.9388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bleasby"
@@ -42,12 +48,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007884"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326865399
     ],
     "wof:country":"GB",
-    "wof:geomhash":"edc93b8aa9fd61acfa6c33cbc51d49f3",
+    "wof:geomhash":"43ae0586638206abc80ae8a55c3399f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404446537,
     "wof:label":"Bleasby Civil Parish",
-    "wof:lastmodified":1566631652,
+    "wof:lastmodified":1695876868,
     "wof:name":"Bleasby",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

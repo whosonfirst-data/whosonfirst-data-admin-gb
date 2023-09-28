@@ -10,12 +10,18 @@
     "geom:latitude":50.805348,
     "geom:longitude":-0.685786,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.808325,
     "lbl:longitude":-0.681375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bersted"
@@ -51,12 +57,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009854"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209744631
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ba92b41ca3afe458e6f6d63f427a12bf",
+    "wof:geomhash":"e134980e1208d2ab1c2a3db54232887c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404441545,
     "wof:label":"Bersted Civil Parish",
-    "wof:lastmodified":1566631771,
+    "wof:lastmodified":1695876912,
     "wof:name":"Bersted",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

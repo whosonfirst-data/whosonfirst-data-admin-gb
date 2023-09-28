@@ -10,12 +10,18 @@
     "geom:latitude":51.540808,
     "geom:longitude":-0.946809,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.539638,
     "lbl:longitude":-0.943218,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rotherfield Greys"
@@ -60,12 +66,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008156"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977303
     ],
     "wof:country":"GB",
-    "wof:geomhash":"55b283aad61b3b9879b06074c71adb91",
+    "wof:geomhash":"0c967670df5cfb586fd560a9cedb2858",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404449561,
     "wof:label":"Rotherfield Greys Civil Parish",
-    "wof:lastmodified":1566631358,
+    "wof:lastmodified":1695878320,
     "wof:name":"Rotherfield Greys",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

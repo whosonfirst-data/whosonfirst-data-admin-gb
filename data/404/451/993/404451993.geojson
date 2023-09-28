@@ -10,12 +10,18 @@
     "geom:latitude":50.824679,
     "geom:longitude":-3.474367,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.815405,
     "lbl:longitude":-3.474904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0641\u0631\u062a\u0648\u0646"
@@ -90,12 +96,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003048"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013335
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4c143415d91d3902470ea1ded27a0b18",
+    "wof:geomhash":"507cdd1341df414f31b6f996ad5c06ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404451993,
     "wof:label":"Silverton Civil Parish",
-    "wof:lastmodified":1566633486,
+    "wof:lastmodified":1695877675,
     "wof:name":"Silverton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

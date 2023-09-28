@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002245,
-    "geom:area_square_m":17158354.800767,
+    "geom:area_square_m":17158354.800768,
     "geom:bbox":"-1.73905361805,51.7775698793,-1.67640631136,51.8528720192",
     "geom:latitude":51.816028,
     "geom:longitude":-1.703767,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.830754,
     "lbl:longitude":-1.700701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Barrington"
@@ -97,12 +103,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004190"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755611
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3098d51727bac49123fbac46ec382d96",
+    "wof:geomhash":"749c35af65138b28b556892b8b0802cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +124,7 @@
     ],
     "wof:id":404439665,
     "wof:label":"Barrington Civil Parish",
-    "wof:lastmodified":1566631914,
+    "wof:lastmodified":1695876981,
     "wof:name":"Barrington",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

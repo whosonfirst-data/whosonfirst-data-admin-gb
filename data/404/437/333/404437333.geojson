@@ -10,12 +10,18 @@
     "geom:latitude":52.138683,
     "geom:longitude":-1.561896,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.139636,
     "lbl:longitude":-1.561893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pillerton Hersey"
@@ -52,12 +58,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009766"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759519
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6e85e6f5cc1c5173c091d37ec5bb5950",
+    "wof:geomhash":"b588588d5a462739444469abc0e8c5f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404437333,
     "wof:label":"Pillerton Hersey Civil Parish",
-    "wof:lastmodified":1566632115,
+    "wof:lastmodified":1695877065,
     "wof:name":"Pillerton Hersey",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

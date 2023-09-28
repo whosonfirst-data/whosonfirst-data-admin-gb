@@ -10,12 +10,18 @@
     "geom:latitude":53.13657,
     "geom:longitude":-0.752549,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.137233,
     "lbl:longitude":-0.74965,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Collingham"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007892"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874079
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f4556d13dbfed582b5314166490df5f6",
+    "wof:geomhash":"c1ad39b0abd8c3513939eaa7f58b89b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452437,
     "wof:label":"Collingham Civil Parish",
-    "wof:lastmodified":1566632193,
+    "wof:lastmodified":1695877097,
     "wof:name":"Collingham",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

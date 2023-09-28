@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011666,
-    "geom:area_square_m":86965803.179804,
+    "geom:area_square_m":86965803.179806,
     "geom:bbox":"-3.8136795964,52.8710096644,-3.60354832264,52.9770266407",
     "geom:latitude":52.923104,
     "geom:longitude":-3.708651,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.936732,
     "lbl:longitude":-3.743524,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanycil Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000088"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976267
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e4bd460b0a68a6b33dc1ccc6e709b652",
+    "wof:geomhash":"6d8e8d4a0c2f68b78602f17df937719d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441583,
-    "wof:lastmodified":1566631826,
+    "wof:lastmodified":1695876938,
     "wof:name":"Llanycil Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

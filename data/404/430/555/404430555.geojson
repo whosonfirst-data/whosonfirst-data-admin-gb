@@ -10,12 +10,18 @@
     "geom:latitude":51.496294,
     "geom:longitude":-1.342384,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.500077,
     "lbl:longitude":-1.34026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u0645\u0631"
@@ -69,12 +75,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001185"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125894549
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e79afaeb51d48de7a92c88fbbea55164",
+    "wof:geomhash":"593d868a4afe0e32c3f37f941a88545e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404430555,
     "wof:label":"Peasemore Civil Parish",
-    "wof:lastmodified":1566631996,
+    "wof:lastmodified":1695877014,
     "wof:name":"Peasemore",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

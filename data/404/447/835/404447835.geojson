@@ -10,12 +10,18 @@
     "geom:latitude":54.849112,
     "geom:longitude":-1.642715,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.846057,
     "lbl:longitude":-1.640275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Edmondsley"
@@ -63,12 +69,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010621"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903157
     ],
     "wof:country":"GB",
-    "wof:geomhash":"67114a2bdae067bc93a2ece9c16474e2",
+    "wof:geomhash":"36c73bbc28b44affa90ccd7595bb1cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447835,
     "wof:label":"Edmondsley Civil Parish",
-    "wof:lastmodified":1566631268,
+    "wof:lastmodified":1695878280,
     "wof:name":"Edmondsley",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

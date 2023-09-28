@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000676,
-    "geom:area_square_m":5178590.042329,
+    "geom:area_square_m":5178590.042328,
     "geom:bbox":"-4.73174355889,51.6743742077,-4.67968371012,51.706862216",
     "geom:latitude":51.692746,
     "geom:longitude":-4.711284,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.691415,
     "lbl:longitude":-4.715953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Mary Out Liberty Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000470"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711491
     ],
     "wof:country":"GB",
-    "wof:geomhash":"49f6559d798d089fd6f27525f1af962b",
+    "wof:geomhash":"fb5eff7a9fdb8df9544b8491180db746",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433103,
-    "wof:lastmodified":1566633640,
+    "wof:lastmodified":1695877747,
     "wof:name":"St. Mary Out Liberty Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

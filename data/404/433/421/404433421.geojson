@@ -10,12 +10,18 @@
     "geom:latitude":52.278727,
     "geom:longitude":-2.234189,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.281568,
     "lbl:longitude":-2.235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ombersley"
@@ -60,12 +66,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010421"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125845133
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bcb516ae302b6655959724b8540388cf",
+    "wof:geomhash":"6a6f73af211acdd965a213eb4e296be9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404433421,
     "wof:label":"Ombersley Civil Parish",
-    "wof:lastmodified":1566633704,
+    "wof:lastmodified":1695877777,
     "wof:name":"Ombersley",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

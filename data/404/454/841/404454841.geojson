@@ -10,12 +10,18 @@
     "geom:latitude":50.968508,
     "geom:longitude":0.0217,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.967086,
     "lbl:longitude":0.02212,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Newick"
@@ -66,12 +72,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003779"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854587
     ],
     "wof:country":"GB",
-    "wof:geomhash":"963a8c5153f94a4fbaf401873d8320d7",
+    "wof:geomhash":"83a4360264d8d7d4390d44338a3108c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404454841,
     "wof:label":"Newick Civil Parish",
-    "wof:lastmodified":1566632707,
+    "wof:lastmodified":1695877330,
     "wof:name":"Newick",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

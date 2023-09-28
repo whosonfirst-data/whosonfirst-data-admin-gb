@@ -10,12 +10,18 @@
     "geom:latitude":54.210192,
     "geom:longitude":-1.151242,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.213435,
     "lbl:longitude":-1.147749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Byland with Wass"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007560"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758059
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8d039816c19a7fd6c24b1d0843b0a8eb",
+    "wof:geomhash":"b8267f22f309fb1bd1455c0903ff0b0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404442917,
     "wof:label":"Byland with Wass Civil Parish",
-    "wof:lastmodified":1566633300,
+    "wof:lastmodified":1695877594,
     "wof:name":"Byland with Wass",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

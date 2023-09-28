@@ -10,12 +10,18 @@
     "geom:latitude":52.261529,
     "geom:longitude":-2.527151,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.261901,
     "lbl:longitude":-2.526553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stoke Bliss"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010344"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243589331
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ebe5aa40b5234a45a0865b7a603953ca",
+    "wof:geomhash":"84d9d2fc7d1c9158667443fd10bef216",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404442509,
     "wof:label":"Stoke Bliss Civil Parish",
-    "wof:lastmodified":1566633260,
+    "wof:lastmodified":1695877578,
     "wof:name":"Stoke Bliss",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

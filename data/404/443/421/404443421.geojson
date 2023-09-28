@@ -10,12 +10,18 @@
     "geom:latitude":50.919026,
     "geom:longitude":-0.574168,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.916535,
     "lbl:longitude":-0.573629,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Bury"
@@ -96,12 +102,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009887"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243489757
     ],
     "wof:country":"GB",
-    "wof:geomhash":"39a1f93a16308d87bdeeed923ef12764",
+    "wof:geomhash":"ab852be5f8b522cfa4202197a84ce71b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404443421,
     "wof:label":"Bury Civil Parish",
-    "wof:lastmodified":1566633051,
+    "wof:lastmodified":1695877483,
     "wof:name":"Bury",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

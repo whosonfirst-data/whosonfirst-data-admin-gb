@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003422,
-    "geom:area_square_m":25327591.084486,
+    "geom:area_square_m":25327591.084483,
     "geom:bbox":"-4.40991076931,53.2037250104,-4.30202428868,53.2602439225",
     "geom:latitude":53.232976,
     "geom:longitude":-4.354151,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.228873,
     "lbl:longitude":-4.350482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangristiolus Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000026"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125911459
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fe30d731ab8ddcbe379dc234e6a2500d",
+    "wof:geomhash":"8927ca8e900ff6de40b5877b9c2ac014",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404431705,
-    "wof:lastmodified":1566632484,
+    "wof:lastmodified":1695877225,
     "wof:name":"Llangristiolus Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

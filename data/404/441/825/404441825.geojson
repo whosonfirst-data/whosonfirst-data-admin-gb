@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002173,
-    "geom:area_square_m":16498542.398518,
+    "geom:area_square_m":16498542.398516,
     "geom:bbox":"-4.59348088688,52.1035984869,-4.50764714151,52.1444898349",
     "geom:latitude":52.123386,
     "geom:longitude":-4.550658,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.124139,
     "lbl:longitude":-4.55577,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aberporth Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000358"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853091
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ffb175c55d012e123d546c56335764b9",
+    "wof:geomhash":"ff415e7a4e81a199956b6b45a0eb4675",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441825,
-    "wof:lastmodified":1566631800,
+    "wof:lastmodified":1695876926,
     "wof:name":"Aberporth Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.824648,
     "geom:longitude":-2.277917,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.825654,
     "lbl:longitude":-2.277914,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Quedgeley"
@@ -55,12 +61,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004335"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756481
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c9f7ae9d239d6296e29b44952037365a",
+    "wof:geomhash":"409594d384b41577ea6cc8192391891d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404440801,
     "wof:label":"Quedgeley Civil Parish",
-    "wof:lastmodified":1566631216,
+    "wof:lastmodified":1695878257,
     "wof:name":"Quedgeley",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.552766,
     "geom:longitude":-1.470365,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.551267,
     "lbl:longitude":-1.470362,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Letcombe Bassett"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008224"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125838909
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d00990ce96a02fa40019e7c91554a9d4",
+    "wof:geomhash":"e23026fb98f45f2eb347f21f33ee2a80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404435791,
     "wof:label":"Letcombe Bassett Civil Parish",
-    "wof:lastmodified":1566633987,
+    "wof:lastmodified":1695877890,
     "wof:name":"Letcombe Bassett",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.75942,
     "geom:longitude":-1.340719,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.761741,
     "lbl:longitude":-1.339465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ledston"
@@ -57,12 +63,15 @@
         1360698749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000201"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326859473
     ],
     "wof:country":"GB",
-    "wof:geomhash":"288336c2907c09313968ca123753eb23",
+    "wof:geomhash":"9cca8ae007a57bda63ae03008438f83b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404434785,
     "wof:label":"Ledston Civil Parish",
-    "wof:lastmodified":1566633576,
+    "wof:lastmodified":1695877721,
     "wof:name":"Ledston",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

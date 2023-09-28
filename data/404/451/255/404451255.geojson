@@ -10,12 +10,18 @@
     "geom:latitude":53.148351,
     "geom:longitude":-0.38403,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.150604,
     "lbl:longitude":-0.356612,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Metheringham"
@@ -66,12 +72,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005814"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874121
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0ff5d36474d2a76bdb60cd0f64c890ea",
+    "wof:geomhash":"2d02ee5ae066dcdc689c47b7e9f677d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404451255,
     "wof:label":"Metheringham Civil Parish",
-    "wof:lastmodified":1566633518,
+    "wof:lastmodified":1695877691,
     "wof:name":"Metheringham",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

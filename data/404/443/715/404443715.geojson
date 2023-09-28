@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1041202.290849,
+    "geom:area_square_m":1041202.29085,
     "geom:bbox":"-1.73205934357,54.6250070475,-1.70883689545,54.6345216286",
     "geom:latitude":54.629978,
     "geom:longitude":-1.719958,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.630245,
     "lbl:longitude":-1.717407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Auckland"
@@ -72,12 +78,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010709"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974389
     ],
     "wof:country":"GB",
-    "wof:geomhash":"28728229d0e033e7986dcd35f50823e9",
+    "wof:geomhash":"269866d61bfe9a2d488da578f33388e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404443715,
     "wof:label":"West Auckland Civil Parish",
-    "wof:lastmodified":1566633032,
+    "wof:lastmodified":1695877474,
     "wof:name":"West Auckland",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

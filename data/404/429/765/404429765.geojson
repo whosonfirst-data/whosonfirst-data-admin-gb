@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000646,
-    "geom:area_square_m":4545081.174942,
+    "geom:area_square_m":4545081.174941,
     "geom:bbox":"-1.61720088793,55.3000500426,-1.55345102995,55.3220143117",
     "geom:latitude":55.310802,
     "geom:longitude":-1.588162,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.313342,
     "lbl:longitude":-1.600975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Togston"
@@ -40,12 +46,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010871"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753367
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5ec1fd54498c0606a9439dbab1939b0c",
+    "wof:geomhash":"67937e3acd4c1fc115fc6013fb1ea535",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404429765,
     "wof:label":"Togston Civil Parish",
-    "wof:lastmodified":1566633101,
+    "wof:lastmodified":1695877506,
     "wof:name":"Togston",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

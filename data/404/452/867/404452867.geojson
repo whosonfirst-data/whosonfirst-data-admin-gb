@@ -10,12 +10,18 @@
     "geom:latitude":51.478927,
     "geom:longitude":-0.866496,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.481405,
     "lbl:longitude":-0.868047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Twyford"
@@ -60,12 +66,15 @@
         1360698967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001238"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243392153
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2b2b46624d605bbc3f9c040e2fc9c4e5",
+    "wof:geomhash":"f7f2fba858839fcf59ed1ed8faf6728f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404452867,
     "wof:label":"Twyford Civil Parish",
-    "wof:lastmodified":1566632200,
+    "wof:lastmodified":1695877099,
     "wof:name":"Twyford",
     "wof:parent_id":1360698967,
     "wof:placetype":"localadmin",

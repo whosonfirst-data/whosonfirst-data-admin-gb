@@ -10,12 +10,18 @@
     "geom:latitude":51.683946,
     "geom:longitude":0.279555,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.680895,
     "lbl:longitude":0.283047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stondon Massey"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003947"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125957261
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bba35a1de0dc7b0e746a379f7b09673d",
+    "wof:geomhash":"bb645a58604d937c4f94ebce19ebe603",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404453009,
     "wof:label":"Stondon Massey Civil Parish",
-    "wof:lastmodified":1566632781,
+    "wof:lastmodified":1695877365,
     "wof:name":"Stondon Massey",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

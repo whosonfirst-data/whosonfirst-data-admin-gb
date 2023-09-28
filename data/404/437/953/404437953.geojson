@@ -10,12 +10,18 @@
     "geom:latitude":52.407735,
     "geom:longitude":-1.37274,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.405228,
     "lbl:longitude":-1.373153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brinklow"
@@ -70,9 +76,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04009665",
         "gn:id":7292676,
         "qs_pg:id":1154392
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125799829
     ],
@@ -80,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30dfe96ad14201436c7cc7ca5c824cf5",
+    "wof:geomhash":"fefb91831e45b6b74e03c84c1d9ae575",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +101,7 @@
     ],
     "wof:id":404437953,
     "wof:label":"Brinklow Civil Parish",
-    "wof:lastmodified":1582311085,
+    "wof:lastmodified":1695877961,
     "wof:name":"Brinklow",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

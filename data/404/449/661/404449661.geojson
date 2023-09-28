@@ -10,12 +10,18 @@
     "geom:latitude":52.962492,
     "geom:longitude":-1.730543,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.962454,
     "lbl:longitude":-1.72869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yeaveley"
@@ -63,12 +69,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002821"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260315659
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1c8336ad06180fffb30319e67223dee7",
+    "wof:geomhash":"d914d0e719a39e1fe42b960a0158c099",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404449661,
     "wof:label":"Yeaveley Civil Parish",
-    "wof:lastmodified":1566631385,
+    "wof:lastmodified":1695878332,
     "wof:name":"Yeaveley",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001157,
-    "geom:area_square_m":8839871.967899,
+    "geom:area_square_m":8839871.9679,
     "geom:bbox":"-2.69873651007,51.8259029864,-2.63883756447,51.8708377234",
     "geom:latitude":51.851141,
     "geom:longitude":-2.659482,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.856927,
     "lbl:longitude":-2.656983,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Whitchurch"
@@ -75,12 +81,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000908"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309738993
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3dc6bba571119aa7444f0e621a53c869",
+    "wof:geomhash":"39dc0dc748d96f62c50c0eff609c908d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404444901,
     "wof:label":"Whitchurch Civil Parish",
-    "wof:lastmodified":1566632868,
+    "wof:lastmodified":1695877404,
     "wof:name":"Whitchurch",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

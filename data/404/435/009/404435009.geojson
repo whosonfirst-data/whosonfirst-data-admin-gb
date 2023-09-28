@@ -10,12 +10,18 @@
     "geom:latitude":52.23523,
     "geom:longitude":-2.643489,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.236728,
     "lbl:longitude":-2.644002,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pudlestone"
@@ -40,12 +46,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000858"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756671
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fd4419eb55a265f41ceb44759e5f831c",
+    "wof:geomhash":"9266182b6a149018f7d9994b5b39777c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404435009,
     "wof:label":"Pudlestone Civil Parish",
-    "wof:lastmodified":1566634011,
+    "wof:lastmodified":1695877902,
     "wof:name":"Pudlestone",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

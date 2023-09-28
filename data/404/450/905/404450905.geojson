@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001741,
-    "geom:area_square_m":12948681.730973,
+    "geom:area_square_m":12948681.730974,
     "geom:bbox":"-0.530396585055,52.998557762,-0.45208710126,53.0274496226",
     "geom:latitude":53.013355,
     "geom:longitude":-0.494402,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.013313,
     "lbl:longitude":-0.4944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Rauceby"
@@ -63,12 +69,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005820"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126049749
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e37e10128c88ddb3e9832591384d0bd2",
+    "wof:geomhash":"dd27c60593b096c052e8ac460c918477",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404450905,
     "wof:label":"North Rauceby Civil Parish",
-    "wof:lastmodified":1566633803,
+    "wof:lastmodified":1695877819,
     "wof:name":"North Rauceby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

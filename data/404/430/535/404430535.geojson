@@ -10,12 +10,18 @@
     "geom:latitude":52.1453,
     "geom:longitude":-3.403965,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.142996,
     "lbl:longitude":-3.40672,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Builth Community"
@@ -40,9 +46,12 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000257"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"870a0404c0881eaa08ce877113e3ba19",
+    "wof:geomhash":"d00a192e743f5697448a9a9e8cb76e19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404430535,
-    "wof:lastmodified":1566631946,
+    "wof:lastmodified":1695876994,
     "wof:name":"Builth Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

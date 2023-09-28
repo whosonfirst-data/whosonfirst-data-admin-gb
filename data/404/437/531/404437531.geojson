@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001687,
-    "geom:area_square_m":13255359.563298,
+    "geom:area_square_m":13255359.563297,
     "geom:bbox":"-4.1666905939,50.5283034927,-4.11263345214,50.5783162673",
     "geom:latitude":50.552386,
     "geom:longitude":-4.142356,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.551263,
     "lbl:longitude":-4.145575,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "T\u00e6fingstoc"
@@ -123,12 +129,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003354"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852555
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b13fd34625132e52fc923b1035446c02",
+    "wof:geomhash":"174e48a37eba79ae8bcfd8ebaf1d3768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +150,7 @@
     ],
     "wof:id":404437531,
     "wof:label":"Tavistock Civil Parish",
-    "wof:lastmodified":1566632111,
+    "wof:lastmodified":1695877063,
     "wof:name":"Tavistock",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005194,
-    "geom:area_square_m":39753196.694214,
+    "geom:area_square_m":39753196.694213,
     "geom:bbox":"-4.89804853954,51.7179306072,-4.78826993616,51.7972274562",
     "geom:latitude":51.757686,
     "geom:longitude":-4.845593,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.754344,
     "lbl:longitude":-4.857608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Martletwy Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000448"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209744179
     ],
     "wof:country":"GB",
-    "wof:geomhash":"df0c7f18bb9c5182c189c6d8ac9c7f9b",
+    "wof:geomhash":"e63bdb03d3007d8a66c000ec6d0b7acf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404432497,
-    "wof:lastmodified":1566633898,
+    "wof:lastmodified":1695877849,
     "wof:name":"Martletwy Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.622197,
     "geom:longitude":-4.183173,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.620753,
     "lbl:longitude":-4.182183,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanrhidian Lower Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000578"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711907
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4d4f4aeaf9a7e73c0bdab67cb24532fd",
+    "wof:geomhash":"dca0d047874c52a12a73c4dae35de8cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437337,
-    "wof:lastmodified":1566632057,
+    "wof:lastmodified":1695877039,
     "wof:name":"Llanrhidian Lower Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002761,
-    "geom:area_square_m":20436978.621908,
+    "geom:area_square_m":20436978.621909,
     "geom:bbox":"-2.13859255,53.2017451702,-2.04762453009,53.2525503304",
     "geom:latitude":53.228332,
     "geom:longitude":-2.090034,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.229087,
     "lbl:longitude":-2.089182,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "S\u016b\u00fetun"
@@ -106,12 +112,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011012"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754817
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9a53ec18c44e99c788316dfc94fbd713",
+    "wof:geomhash":"74005aca2a5c99c62e11124a83386c61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,7 +133,7 @@
     ],
     "wof:id":404455207,
     "wof:label":"Sutton Civil Parish",
-    "wof:lastmodified":1566632306,
+    "wof:lastmodified":1695877144,
     "wof:name":"Sutton",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

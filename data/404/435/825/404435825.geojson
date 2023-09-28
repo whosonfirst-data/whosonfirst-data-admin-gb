@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001618,
-    "geom:area_square_m":12131563.556833,
+    "geom:area_square_m":12131563.556832,
     "geom:bbox":"0.419642962275,52.663371542,0.507477382756,52.6982296534",
     "geom:latitude":52.682693,
     "geom:longitude":0.463089,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.683017,
     "lbl:longitude":0.460107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wormegay"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006382"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125788969
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e6f3d42268f508b3d4c40a1f5accb5b3",
+    "wof:geomhash":"149159ae994cb7c1374b5c562ff96f73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404435825,
     "wof:label":"Wormegay Civil Parish",
-    "wof:lastmodified":1566634060,
+    "wof:lastmodified":1695877930,
     "wof:name":"Wormegay",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

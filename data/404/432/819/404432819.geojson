@@ -10,12 +10,18 @@
     "geom:latitude":51.727527,
     "geom:longitude":-2.26198,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.728078,
     "lbl:longitude":-2.262544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "King's Stanley"
@@ -69,12 +75,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004361"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126042635
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2441206b10e648bbdc64f9152a972eba",
+    "wof:geomhash":"5615bd8d76e7f463ad2fa7d08c0f86d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404432819,
     "wof:label":"King's Stanley Civil Parish",
-    "wof:lastmodified":1566633872,
+    "wof:lastmodified":1695877845,
     "wof:name":"King's Stanley",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

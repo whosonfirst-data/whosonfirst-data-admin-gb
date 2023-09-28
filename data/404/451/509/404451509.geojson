@@ -10,12 +10,18 @@
     "geom:latitude":52.429394,
     "geom:longitude":-2.048968,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.428865,
     "lbl:longitude":-2.048738,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hunnington"
@@ -52,12 +58,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010272"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756815
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c5aaf1698437308a12e36f9305153f4",
+    "wof:geomhash":"19989ed959a45e02edc79ea82dc08efd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404451509,
     "wof:label":"Hunnington Civil Parish",
-    "wof:lastmodified":1566633489,
+    "wof:lastmodified":1695877676,
     "wof:name":"Hunnington",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.980574,
     "geom:longitude":-4.388127,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.979446,
     "lbl:longitude":-4.389197,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanaelhaearn Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000066"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711603
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3875f175c0fcd5d09cef1d03a9e13c2c",
+    "wof:geomhash":"3803e153bfe819b9206f9a083d64296c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404431835,
-    "wof:lastmodified":1566632460,
+    "wof:lastmodified":1695877214,
     "wof:name":"Llanaelhaearn Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

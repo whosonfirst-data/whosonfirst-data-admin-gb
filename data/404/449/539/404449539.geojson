@@ -10,12 +10,18 @@
     "geom:latitude":52.972277,
     "geom:longitude":-1.591891,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.972291,
     "lbl:longitude":-1.591891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mercaston"
@@ -58,12 +64,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002787"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753783
     ],
     "wof:country":"GB",
-    "wof:geomhash":"00000bc298adc0f1a1a0cf5d5eabf457",
+    "wof:geomhash":"336a3045fba120426ec028a66cc28a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404449539,
     "wof:label":"Mercaston Civil Parish",
-    "wof:lastmodified":1566631402,
+    "wof:lastmodified":1695878339,
     "wof:name":"Mercaston",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

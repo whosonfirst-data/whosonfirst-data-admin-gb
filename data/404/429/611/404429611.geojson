@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000745,
-    "geom:area_square_m":5601225.993893,
+    "geom:area_square_m":5601225.993892,
     "geom:bbox":"0.842323378737,52.5399886854,0.889841171763,52.5696442419",
     "geom:latitude":52.556084,
     "geom:longitude":0.865682,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.556484,
     "lbl:longitude":0.865338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Griston"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006122"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125952575
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8f564180d9f9e786ba72f1bdebed2bdf",
+    "wof:geomhash":"b39860afd41cafd5a0c97e3a1f7e0819",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404429611,
     "wof:label":"Griston Civil Parish",
-    "wof:lastmodified":1566633117,
+    "wof:lastmodified":1695877513,
     "wof:name":"Griston",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

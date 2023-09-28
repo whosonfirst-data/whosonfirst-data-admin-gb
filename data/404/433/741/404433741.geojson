@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000818,
-    "geom:area_square_m":6255338.176499,
+    "geom:area_square_m":6255338.176497,
     "geom:bbox":"-4.64349126593,51.8021292525,-4.58997485863,51.8336195853",
     "geom:latitude":51.821711,
     "geom:longitude":-4.615396,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.821521,
     "lbl:longitude":-4.612765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitland Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000560"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126046361
     ],
     "wof:country":"GB",
-    "wof:geomhash":"355f722d76d86184cdd21c2c982fa5d0",
+    "wof:geomhash":"b9e333a9f5687f7e2031c088afee98dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433741,
-    "wof:lastmodified":1566633688,
+    "wof:lastmodified":1695877770,
     "wof:name":"Whitland Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

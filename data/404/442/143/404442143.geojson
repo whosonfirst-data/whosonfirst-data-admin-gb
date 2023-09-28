@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000509,
-    "geom:area_square_m":3817857.665534,
+    "geom:area_square_m":3817857.665535,
     "geom:bbox":"-0.611209213438,52.6854088598,-0.572775475144,52.7066888984",
     "geom:latitude":52.697204,
     "geom:longitude":-0.593895,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.69701,
     "lbl:longitude":-0.593892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Horn"
@@ -121,12 +127,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000648"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757561
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0b9ebe75ebc43262587b07205777cd41",
+    "wof:geomhash":"eda4157a2f37a6f2c9c367a1396a3360",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +148,7 @@
     ],
     "wof:id":404442143,
     "wof:label":"Horn Civil Parish",
-    "wof:lastmodified":1566633243,
+    "wof:lastmodified":1695877571,
     "wof:name":"Horn",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

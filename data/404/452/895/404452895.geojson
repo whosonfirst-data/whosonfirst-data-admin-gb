@@ -10,12 +10,18 @@
     "geom:latitude":53.313386,
     "geom:longitude":0.20772,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.31494,
     "lbl:longitude":0.20809,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maltby Le Marsh"
@@ -42,12 +48,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005688"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326665399
     ],
     "wof:country":"GB",
-    "wof:geomhash":"517d50a32be6201607226996d4499a55",
+    "wof:geomhash":"06528c8ec448866f3924af2bb512267a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404452895,
     "wof:label":"Maltby Le Marsh Civil Parish",
-    "wof:lastmodified":1566632192,
+    "wof:lastmodified":1695877097,
     "wof:name":"Maltby Le Marsh",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

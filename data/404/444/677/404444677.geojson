@@ -10,12 +10,18 @@
     "geom:latitude":51.234844,
     "geom:longitude":-0.294093,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.232928,
     "lbl:longitude":-0.292447,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u0627\u06a9\u0647\u0645"
@@ -67,9 +73,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04009566",
         "gn:id":7291940,
         "qs_pg:id":1154368
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782195
     ],
@@ -77,7 +85,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d8e844ae7d14a36ea408db29f46aacf",
+    "wof:geomhash":"ef6414ec543dd898ba252e17be1385ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +98,7 @@
     ],
     "wof:id":404444677,
     "wof:label":"Brockham Civil Parish",
-    "wof:lastmodified":1582311118,
+    "wof:lastmodified":1695877975,
     "wof:name":"Brockham",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

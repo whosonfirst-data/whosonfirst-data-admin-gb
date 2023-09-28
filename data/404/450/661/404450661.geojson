@@ -10,12 +10,18 @@
     "geom:latitude":53.98378,
     "geom:longitude":-0.398413,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.981353,
     "lbl:longitude":-0.399086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skerne and Wansford"
@@ -49,12 +55,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000470"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755499
     ],
     "wof:country":"GB",
-    "wof:geomhash":"509c40328790cf59f2e1606c1e393ce6",
+    "wof:geomhash":"5e07982d51e7f11957f3f011e8bd9ef2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404450661,
     "wof:label":"Skerne and Wansford Civil Parish",
-    "wof:lastmodified":1566633779,
+    "wof:lastmodified":1695877809,
     "wof:name":"Skerne and Wansford",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

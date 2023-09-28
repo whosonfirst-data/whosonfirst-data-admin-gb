@@ -10,12 +10,18 @@
     "geom:latitude":53.23814,
     "geom:longitude":-0.75706,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.237896,
     "lbl:longitude":-0.757521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Clifton"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007929"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125894477
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f8f23bf6e18bbfb0af9300ce580336a2",
+    "wof:geomhash":"367645dbcc5bb26f35620f9e910ad87e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440585,
     "wof:label":"North Clifton Civil Parish",
-    "wof:lastmodified":1566631222,
+    "wof:lastmodified":1695878259,
     "wof:name":"North Clifton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

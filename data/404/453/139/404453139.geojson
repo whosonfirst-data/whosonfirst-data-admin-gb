@@ -10,12 +10,18 @@
     "geom:latitude":52.061639,
     "geom:longitude":-1.810808,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.058595,
     "lbl:longitude":-1.810444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weston Subedge"
@@ -42,12 +48,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004284"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343388427
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5995a886912fa6dd86797fd8564e8296",
+    "wof:geomhash":"552a50c3ddc8ddd58246f93084544cca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404453139,
     "wof:label":"Weston Subedge Civil Parish",
-    "wof:lastmodified":1566632816,
+    "wof:lastmodified":1695877381,
     "wof:name":"Weston Subedge",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

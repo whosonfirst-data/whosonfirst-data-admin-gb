@@ -10,12 +10,18 @@
     "geom:latitude":52.509802,
     "geom:longitude":-0.825243,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.509425,
     "lbl:longitude":-0.825247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ashley"
@@ -111,12 +117,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006764"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326957153
     ],
     "wof:country":"GB",
-    "wof:geomhash":"48f5eb5fdd373bbcbf3327cf905a6d54",
+    "wof:geomhash":"b868333051a7f821c9c2395102688b4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +138,7 @@
     ],
     "wof:id":404444497,
     "wof:label":"Ashley Civil Parish",
-    "wof:lastmodified":1566632901,
+    "wof:lastmodified":1695877414,
     "wof:name":"Ashley",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

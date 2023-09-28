@@ -10,12 +10,18 @@
     "geom:latitude":52.985758,
     "geom:longitude":-0.550115,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.988117,
     "lbl:longitude":-0.550617,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ancaster"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005874"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126019981
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bba85327943047ce39a5a7796e5942af",
+    "wof:geomhash":"d0e7c76d9ed6796117d13f1c2f09d3fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451141,
     "wof:label":"Ancaster Civil Parish",
-    "wof:lastmodified":1566633526,
+    "wof:lastmodified":1695877695,
     "wof:name":"Ancaster",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

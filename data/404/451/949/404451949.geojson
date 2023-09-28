@@ -10,12 +10,18 @@
     "geom:latitude":52.082531,
     "geom:longitude":0.07132,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.084424,
     "lbl:longitude":0.066443,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u0645\u0631"
@@ -72,12 +78,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001784"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125915999
     ],
     "wof:country":"GB",
-    "wof:geomhash":"15cdb688ce827a68c748d381b101cbbf",
+    "wof:geomhash":"f0279ffc7d99c2316bf729b60ea7dc01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404451949,
     "wof:label":"Fowlmere Civil Parish",
-    "wof:lastmodified":1566633475,
+    "wof:lastmodified":1695877670,
     "wof:name":"Fowlmere",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

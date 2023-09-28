@@ -10,12 +10,18 @@
     "geom:latitude":52.323208,
     "geom:longitude":-2.832658,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.321115,
     "lbl:longitude":-2.837144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leinthall Starkes"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000798"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343791221
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a650c5999bda48dc4a63813ac6c3c247",
+    "wof:geomhash":"5c2c5c8b7d4cf3c37115bd209b50d2dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404450509,
     "wof:label":"Leinthall Starkes Civil Parish",
-    "wof:lastmodified":1566633803,
+    "wof:lastmodified":1695877819,
     "wof:name":"Leinthall Starkes",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

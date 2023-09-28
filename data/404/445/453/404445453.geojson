@@ -10,12 +10,18 @@
     "geom:latitude":53.840694,
     "geom:longitude":-1.644121,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.841708,
     "lbl:longitude":-1.644657,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0631\u0633\u0641\u0648\u0631\u062b"
@@ -87,12 +93,15 @@
         1360698749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000217"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125938089
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e07bb82d990b6897e3f78f50ad7e7a8e",
+    "wof:geomhash":"475058bf530e15ddfe99e1f5b42b234a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404445453,
     "wof:label":"Horsforth Civil Parish",
-    "wof:lastmodified":1566633346,
+    "wof:lastmodified":1695877615,
     "wof:name":"Horsforth",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

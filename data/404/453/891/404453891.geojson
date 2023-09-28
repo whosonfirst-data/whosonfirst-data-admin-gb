@@ -10,12 +10,18 @@
     "geom:latitude":51.87174,
     "geom:longitude":-0.873233,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.870657,
     "lbl:longitude":-0.873233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0634\u0643\u062a"
@@ -66,12 +72,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001520"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125849279
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bfa9b932cc470e81efec592d40763ae6",
+    "wof:geomhash":"50f590cdc7ef0a13c5f682672c6859e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404453891,
     "wof:label":"Pitchcott Civil Parish",
-    "wof:lastmodified":1566632836,
+    "wof:lastmodified":1695877389,
     "wof:name":"Pitchcott",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

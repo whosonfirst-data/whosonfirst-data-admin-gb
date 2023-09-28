@@ -10,12 +10,18 @@
     "geom:latitude":53.721834,
     "geom:longitude":-0.943947,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.722781,
     "lbl:longitude":-0.944532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Newland"
@@ -69,12 +75,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007758"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125952093
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f65f6a8b6b6c2337ceaaefba5d4a35fa",
+    "wof:geomhash":"22ce20d9fff45e73798fdf9391c63a67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404438219,
     "wof:label":"Newland Civil Parish",
-    "wof:lastmodified":1566632556,
+    "wof:lastmodified":1695877258,
     "wof:name":"Newland",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

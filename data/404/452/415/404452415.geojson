@@ -10,12 +10,18 @@
     "geom:latitude":50.549866,
     "geom:longitude":-2.444511,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.549155,
     "lbl:longitude":-2.437119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Portland"
@@ -210,12 +216,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003630"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125901227
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a3bdad5623a89a350949b4bd15d0f573",
+    "wof:geomhash":"e2a233d985f3e69900c8c867b1d1e4c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -228,7 +237,7 @@
     ],
     "wof:id":404452415,
     "wof:label":"Portland Civil Parish",
-    "wof:lastmodified":1566632188,
+    "wof:lastmodified":1695877094,
     "wof:name":"Portland",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

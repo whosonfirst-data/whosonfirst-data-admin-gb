@@ -10,12 +10,18 @@
     "geom:latitude":52.428501,
     "geom:longitude":1.008881,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.431199,
     "lbl:longitude":1.008878,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kenninghall"
@@ -69,12 +75,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006134"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868451
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ba6c1333bbd406fdd57e063bd6831bf4",
+    "wof:geomhash":"fae43579c234ef76ca140eb29e4599bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404451331,
     "wof:label":"Kenninghall Civil Parish",
-    "wof:lastmodified":1566633420,
+    "wof:lastmodified":1695877648,
     "wof:name":"Kenninghall",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.027483,
     "geom:longitude":-0.59397,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.022203,
     "lbl:longitude":-0.595057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Caythorpe"
@@ -51,12 +57,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005892"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126020907
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c7ff26227c6904d1afc456dfa10ea40",
+    "wof:geomhash":"90cdf6d12987cb0b35b1bf29398878fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404435717,
     "wof:label":"Caythorpe Civil Parish",
-    "wof:lastmodified":1566634081,
+    "wof:lastmodified":1695877941,
     "wof:name":"Caythorpe",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

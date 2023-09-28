@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002317,
-    "geom:area_square_m":17609006.654057,
+    "geom:area_square_m":17609006.654056,
     "geom:bbox":"-0.0285509670491,52.04948003,0.0613893004465,52.1007130532",
     "geom:latitude":52.071796,
     "geom:longitude":0.021019,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.068455,
     "lbl:longitude":0.021016,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0644\u0628\u0648\u0631\u0646"
@@ -78,12 +84,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001825"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125993111
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c9f47138067c704f3706c0ee1947275c",
+    "wof:geomhash":"c8db0ac5dcd105a555bda34b3e5e92cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404436563,
     "wof:label":"Melbourn Civil Parish",
-    "wof:lastmodified":1566632381,
+    "wof:lastmodified":1695877179,
     "wof:name":"Melbourn",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

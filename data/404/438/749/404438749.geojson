@@ -10,12 +10,18 @@
     "geom:latitude":50.229245,
     "geom:longitude":-4.907207,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.230184,
     "lbl:longitude":-4.902999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0631\u064a\u0646"
@@ -72,12 +78,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011602"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125778841
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a7c48df83d495cd5aafc05ee7dcbc6b9",
+    "wof:geomhash":"22a0e2828aba31ef4bc618cb4aeabc32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404438749,
     "wof:label":"Veryan Civil Parish",
-    "wof:lastmodified":1566632582,
+    "wof:lastmodified":1695877269,
     "wof:name":"Veryan",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

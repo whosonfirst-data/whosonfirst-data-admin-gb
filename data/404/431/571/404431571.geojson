@@ -10,12 +10,18 @@
     "geom:latitude":53.409974,
     "geom:longitude":-2.694711,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.405124,
     "lbl:longitude":-2.692149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bold"
@@ -42,12 +48,15 @@
         1360698793
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000023"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126047737
     ],
     "wof:country":"GB",
-    "wof:geomhash":"400d0fedcabb606e6750e4fd01595551",
+    "wof:geomhash":"638af8fc07d67238a99301ad43dbbc76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404431571,
     "wof:label":"Bold Civil Parish",
-    "wof:lastmodified":1566632523,
+    "wof:lastmodified":1695877242,
     "wof:name":"Bold",
     "wof:parent_id":1360698793,
     "wof:placetype":"localadmin",

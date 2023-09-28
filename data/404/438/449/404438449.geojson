@@ -10,12 +10,18 @@
     "geom:latitude":52.55248,
     "geom:longitude":1.411151,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.553134,
     "lbl:longitude":1.410624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bergh Apton"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006516"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125875697
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9696917ee5814ba17c3553118b95cf40",
+    "wof:geomhash":"df1fb5f108732d482f48ab9454d23845",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404438449,
     "wof:label":"Bergh Apton Civil Parish",
-    "wof:lastmodified":1566632551,
+    "wof:lastmodified":1695877256,
     "wof:name":"Bergh Apton",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

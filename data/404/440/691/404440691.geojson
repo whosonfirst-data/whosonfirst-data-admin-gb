@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002323,
-    "geom:area_square_m":17800456.071093,
+    "geom:area_square_m":17800456.07109,
     "geom:bbox":"-2.85568734599,51.6666014842,-2.79180445121,51.7348350835",
     "geom:latitude":51.700185,
     "geom:longitude":-2.823417,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.691734,
     "lbl:longitude":-2.828247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangwm Community"
@@ -40,9 +46,12 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000789"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"9ab6bae32459a45d6a904139acb26bb2",
+    "wof:geomhash":"5c875c57a04be7cda74dc0427a568166",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404440691,
-    "wof:lastmodified":1566631213,
+    "wof:lastmodified":1695878256,
     "wof:name":"Llangwm Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.244297,
     "geom:longitude":-2.270605,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.245663,
     "lbl:longitude":-2.280076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grimley"
@@ -42,12 +48,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010303"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126016017
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e82cfab5287656b74b8fef53d2bc3f82",
+    "wof:geomhash":"eb086e81f1c4d21d6fbc5c966227bcc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404447961,
     "wof:label":"Grimley Civil Parish",
-    "wof:lastmodified":1566631292,
+    "wof:lastmodified":1695878292,
     "wof:name":"Grimley",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

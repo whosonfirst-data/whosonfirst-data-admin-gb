@@ -10,12 +10,18 @@
     "geom:latitude":52.832567,
     "geom:longitude":-2.829949,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.831416,
     "lbl:longitude":-2.828648,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Petton"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011338"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125958583
     ],
     "wof:country":"GB",
-    "wof:geomhash":"836dc0d16179759dc71c4dd69c6359a1",
+    "wof:geomhash":"f495ee9a4adf6b67eeaa54a094feb404",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448355,
     "wof:label":"Petton Civil Parish",
-    "wof:lastmodified":1566631472,
+    "wof:lastmodified":1695876802,
     "wof:name":"Petton",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

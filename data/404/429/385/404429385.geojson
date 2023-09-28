@@ -10,12 +10,18 @@
     "geom:latitude":52.20697,
     "geom:longitude":-2.373625,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.206683,
     "lbl:longitude":-2.364925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Doddenham"
@@ -54,12 +60,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010298"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276794115
     ],
     "wof:country":"GB",
-    "wof:geomhash":"495065fa2384ab8426282cb6c54d4320",
+    "wof:geomhash":"8e24b6b3dbed4848ff6c9ff1a0d652dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429385,
     "wof:label":"Doddenham Civil Parish",
-    "wof:lastmodified":1566633135,
+    "wof:lastmodified":1695877521,
     "wof:name":"Doddenham",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

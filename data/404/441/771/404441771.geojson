@@ -10,12 +10,18 @@
     "geom:latitude":51.321817,
     "geom:longitude":-2.110757,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.324211,
     "lbl:longitude":-2.115979,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Keevil"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011742"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1277011661
     ],
     "wof:country":"GB",
-    "wof:geomhash":"26b156a18258fa929cdd2d9c32a9d956",
+    "wof:geomhash":"fbd8738965e4c42cf8ff6df95ad69545",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404441771,
     "wof:label":"Keevil Civil Parish",
-    "wof:lastmodified":1566631762,
+    "wof:lastmodified":1695876909,
     "wof:name":"Keevil",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

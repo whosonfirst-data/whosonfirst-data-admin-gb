@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002108,
-    "geom:area_square_m":16641094.509028,
+    "geom:area_square_m":16641094.509029,
     "geom:bbox":"-3.86934233614,50.2903171599,-3.81386983513,50.3546136357",
     "geom:latitude":50.325931,
     "geom:longitude":-3.840331,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.328239,
     "lbl:longitude":-3.835307,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aveton Gifford"
@@ -54,12 +60,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003130"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125963003
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2145c348395990a26b4c5be7c4767879",
+    "wof:geomhash":"6b8739c5e221efa12bd39a46e44b408e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404437825,
     "wof:label":"Aveton Gifford Civil Parish",
-    "wof:lastmodified":1566632130,
+    "wof:lastmodified":1695877070,
     "wof:name":"Aveton Gifford",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

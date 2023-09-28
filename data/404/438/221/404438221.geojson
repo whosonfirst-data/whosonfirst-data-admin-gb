@@ -10,12 +10,18 @@
     "geom:latitude":51.960113,
     "geom:longitude":-2.385636,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.958082,
     "lbl:longitude":-2.382321,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pauntley"
@@ -42,12 +48,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004319"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259908715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"60613f3365dcb0dbec96707d7ab742f5",
+    "wof:geomhash":"b05cc625d992eb536b4f442096b0a342",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404438221,
     "wof:label":"Pauntley Civil Parish",
-    "wof:lastmodified":1566632555,
+    "wof:lastmodified":1695877257,
     "wof:name":"Pauntley",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

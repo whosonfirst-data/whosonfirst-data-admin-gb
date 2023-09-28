@@ -10,12 +10,18 @@
     "geom:latitude":51.793508,
     "geom:longitude":-2.616586,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.794032,
     "lbl:longitude":-2.616587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coleford"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004301"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125806493
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ece28592f2c9889bfeec9b7f00ee5345",
+    "wof:geomhash":"00acec770d1666da65f68c946a3d4cc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431139,
     "wof:label":"Coleford Civil Parish",
-    "wof:lastmodified":1566632493,
+    "wof:lastmodified":1695877228,
     "wof:name":"Coleford",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

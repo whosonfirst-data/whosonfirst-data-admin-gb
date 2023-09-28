@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001284,
-    "geom:area_square_m":9701270.423313,
+    "geom:area_square_m":9701270.423312,
     "geom:bbox":"-2.76701595372,52.3080923004,-2.67983889506,52.3554890525",
     "geom:latitude":52.331234,
     "geom:longitude":-2.725799,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.331016,
     "lbl:longitude":-2.733743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Richard's Castle (Shropshire)"
@@ -43,12 +49,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011345"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755993
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8fc76fb7e3ced3ef6ebda2428bdd42ad",
+    "wof:geomhash":"a19051f87a12e686e95f6ef1acfdbae9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404450975,
     "wof:label":"Richard's Castle (Shropshire) Civil Parish",
-    "wof:lastmodified":1566633847,
+    "wof:lastmodified":1695877835,
     "wof:name":"Richard's Castle (Shropshire)",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

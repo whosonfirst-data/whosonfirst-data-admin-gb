@@ -10,12 +10,18 @@
     "geom:latitude":50.609136,
     "geom:longitude":-4.746496,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.605146,
     "lbl:longitude":-4.751113,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Teath"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011582"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013449
     ],
     "wof:country":"GB",
-    "wof:geomhash":"433cf7f06becb08d0217c9288851f27a",
+    "wof:geomhash":"0687d280d98025b02cec787d79885fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404439899,
     "wof:label":"St. Teath Civil Parish",
-    "wof:lastmodified":1566631916,
+    "wof:lastmodified":1695876982,
     "wof:name":"St. Teath",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

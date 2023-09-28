@@ -10,12 +10,18 @@
     "geom:latitude":52.264229,
     "geom:longitude":-2.407504,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.264589,
     "lbl:longitude":-2.407713,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shelsley Walsh"
@@ -51,12 +57,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010340"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126045613
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dc1f05e38d632d820dc7c1f780702889",
+    "wof:geomhash":"bd6f3300fccc3602ff1e3cdd03c66410",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404433563,
     "wof:label":"Shelsley Walsh Civil Parish",
-    "wof:lastmodified":1566633695,
+    "wof:lastmodified":1695877773,
     "wof:name":"Shelsley Walsh",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

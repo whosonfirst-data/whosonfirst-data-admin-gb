@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002619,
-    "geom:area_square_m":19635283.435097,
+    "geom:area_square_m":19635283.435096,
     "geom:bbox":"-0.629692802214,52.6415992567,-0.55579358674,52.7082630643",
     "geom:latitude":52.670811,
     "geom:longitude":-0.589389,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.664948,
     "lbl:longitude":-0.591906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Empingham"
@@ -72,12 +78,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000640"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310636111
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1cef06063c4dedb1c064752ad16d9ea9",
+    "wof:geomhash":"16956110be695625a5ca02862e8ca787",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404452333,
     "wof:label":"Empingham Civil Parish",
-    "wof:lastmodified":1566632227,
+    "wof:lastmodified":1695877110,
     "wof:name":"Empingham",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

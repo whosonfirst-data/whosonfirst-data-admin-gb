@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00459,
-    "geom:area_square_m":35026502.807632,
+    "geom:area_square_m":35026502.80763,
     "geom:bbox":"-5.17209577429,51.8570536405,-5.0728256425,51.9243822552",
     "geom:latitude":51.889109,
     "geom:longitude":-5.115801,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.890972,
     "lbl:longitude":-5.106812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brawdy Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000412"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209241645
     ],
     "wof:country":"GB",
-    "wof:geomhash":"016f0ba52f816ca43f89c62d17fe0507",
+    "wof:geomhash":"4015917f71d8321221462364472c16df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438327,
-    "wof:lastmodified":1566632628,
+    "wof:lastmodified":1695877290,
     "wof:name":"Brawdy Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

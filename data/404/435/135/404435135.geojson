@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000778,
-    "geom:area_square_m":5919039.884873,
+    "geom:area_square_m":5919039.884872,
     "geom:bbox":"-0.770177707911,52.0235610504,-0.710964855772,52.067858943",
     "geom:latitude":52.045056,
     "geom:longitude":-0.734439,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.04807,
     "lbl:longitude":-0.72704,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Campbell Park"
@@ -51,12 +57,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012224"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054211
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2d66cafa13780846c9e01990f869540a",
+    "wof:geomhash":"d7abf1e8a5161e83f5e013e059b36e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404435135,
     "wof:label":"Campbell Park Civil Parish",
-    "wof:lastmodified":1566633978,
+    "wof:lastmodified":1695877885,
     "wof:name":"Campbell Park",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

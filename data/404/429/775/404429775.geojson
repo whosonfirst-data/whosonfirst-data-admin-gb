@@ -10,12 +10,18 @@
     "geom:latitude":52.219566,
     "geom:longitude":0.653292,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.219098,
     "lbl:longitude":0.653296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ickworth"
@@ -55,12 +61,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009327"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753387
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4ddf8f17c8ffd93889ff99a61ad6d229",
+    "wof:geomhash":"ca2cf622ee1638d6c1839b7d96d336e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404429775,
     "wof:label":"Ickworth Civil Parish",
-    "wof:lastmodified":1566633183,
+    "wof:lastmodified":1695877541,
     "wof:name":"Ickworth",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

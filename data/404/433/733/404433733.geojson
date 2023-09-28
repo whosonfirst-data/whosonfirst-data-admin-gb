@@ -10,12 +10,18 @@
     "geom:latitude":52.277042,
     "geom:longitude":-0.406749,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.276634,
     "lbl:longitude":-0.409382,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u062a\u0646\u0647\u0644"
@@ -66,12 +72,15 @@
         1360699073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011904"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226072423
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fd17bfdbe8eaa6243473f80b838de047",
+    "wof:geomhash":"2ca829289c045427f370b4af50b4aaf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404433733,
     "wof:label":"Pertenhall Civil Parish",
-    "wof:lastmodified":1566633691,
+    "wof:lastmodified":1695877772,
     "wof:name":"Pertenhall",
     "wof:parent_id":1360699073,
     "wof:placetype":"localadmin",

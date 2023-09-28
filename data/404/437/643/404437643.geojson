@@ -10,12 +10,18 @@
     "geom:latitude":52.412309,
     "geom:longitude":-0.378366,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.410877,
     "lbl:longitude":-0.378369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winwick"
@@ -60,12 +66,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001750"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126038545
     ],
     "wof:country":"GB",
-    "wof:geomhash":"199a9927aeac09c004bc8b417ff14640",
+    "wof:geomhash":"3b43aca8833cda01254e832a9e76fba6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404437643,
     "wof:label":"Winwick Civil Parish",
-    "wof:lastmodified":1566632067,
+    "wof:lastmodified":1695877043,
     "wof:name":"Winwick",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

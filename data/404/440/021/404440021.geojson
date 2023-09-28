@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003417,
-    "geom:area_square_m":24879769.816047,
+    "geom:area_square_m":24879769.816048,
     "geom:bbox":"-0.369823224574,53.8958473175,-0.271682251558,53.9457492349",
     "geom:latitude":53.922307,
     "geom:longitude":-0.317537,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.920076,
     "lbl:longitude":-0.316583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brandesburton"
@@ -57,12 +63,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000362"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125842885
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5f028c5fb23bbc70c577dbc882f8f1e5",
+    "wof:geomhash":"9a2d6c5501152ac38cf988f90325aa72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440021,
     "wof:label":"Brandesburton Civil Parish",
-    "wof:lastmodified":1566631206,
+    "wof:lastmodified":1695878252,
     "wof:name":"Brandesburton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

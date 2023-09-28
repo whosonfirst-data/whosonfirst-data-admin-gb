@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006722,
-    "geom:area_square_m":49836629.188728,
+    "geom:area_square_m":49836629.188725,
     "geom:bbox":"-4.42791267661,53.1262263985,-4.27343497987,53.2016467951",
     "geom:latitude":53.162734,
     "geom:longitude":-4.351451,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.162764,
     "lbl:longitude":-4.346184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rhosyr Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000036"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711817
     ],
     "wof:country":"GB",
-    "wof:geomhash":"653a273150f732614f42a7e2b0a700a6",
+    "wof:geomhash":"e22f91ad72d51459f986e4b0f767edce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441737,
-    "wof:lastmodified":1566631720,
+    "wof:lastmodified":1695876893,
     "wof:name":"Rhosyr Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

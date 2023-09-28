@@ -10,12 +10,18 @@
     "geom:latitude":52.865691,
     "geom:longitude":0.733032,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.869467,
     "lbl:longitude":0.732516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Syderstone"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006358"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125986275
     ],
     "wof:country":"GB",
-    "wof:geomhash":"46fcd1c44badc42e0c3c9db39eaae31c",
+    "wof:geomhash":"8b4833fafcc2cbb12973fec23d039d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404452909,
     "wof:label":"Syderstone Civil Parish",
-    "wof:lastmodified":1566632163,
+    "wof:lastmodified":1695877084,
     "wof:name":"Syderstone",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

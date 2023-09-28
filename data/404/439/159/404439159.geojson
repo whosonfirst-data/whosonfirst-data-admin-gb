@@ -10,12 +10,18 @@
     "geom:latitude":52.013089,
     "geom:longitude":-1.048043,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.012585,
     "lbl:longitude":-1.049999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062a\u0631 \u0633\u062a\u0631\u062a\u0641\u0631\u062f"
@@ -70,12 +76,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001545"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755241
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0b45765c7ae5fdfa7fc0850acec078f6",
+    "wof:geomhash":"b743b925c0d7cad81074e29ca4bd96c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +97,7 @@
     ],
     "wof:id":404439159,
     "wof:label":"Water Stratford Civil Parish",
-    "wof:lastmodified":1566631834,
+    "wof:lastmodified":1695876942,
     "wof:name":"Water Stratford",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

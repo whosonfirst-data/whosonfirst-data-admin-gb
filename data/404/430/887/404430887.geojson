@@ -10,12 +10,18 @@
     "geom:latitude":51.920097,
     "geom:longitude":-1.348049,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.919591,
     "lbl:longitude":-1.34759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Steeple Barton"
@@ -52,12 +58,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008327"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755085
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aa8f6bb3f92191199b5166e6371d461d",
+    "wof:geomhash":"79a725308a2bdc6b0a93489a234a5a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404430887,
     "wof:label":"Steeple Barton Civil Parish",
-    "wof:lastmodified":1566631953,
+    "wof:lastmodified":1695876997,
     "wof:name":"Steeple Barton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

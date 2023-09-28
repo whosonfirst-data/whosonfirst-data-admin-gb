@@ -10,12 +10,18 @@
     "geom:latitude":52.267685,
     "geom:longitude":-1.490054,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.266912,
     "lbl:longitude":-1.492372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Radford Semele"
@@ -60,12 +66,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009834"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125839803
     ],
     "wof:country":"GB",
-    "wof:geomhash":"516b2bd5dd25b5885362183a3e6c63e6",
+    "wof:geomhash":"d2f5da72a52dfc1f6509893356a600e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404429897,
     "wof:label":"Radford Semele Civil Parish",
-    "wof:lastmodified":1566633180,
+    "wof:lastmodified":1695877539,
     "wof:name":"Radford Semele",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

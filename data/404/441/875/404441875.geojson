@@ -10,12 +10,18 @@
     "geom:latitude":54.45905,
     "geom:longitude":-1.359522,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.45909,
     "lbl:longitude":-1.35953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Picton"
@@ -78,12 +84,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007243"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309739003
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cff41d331024fd269267d06be1d12d5a",
+    "wof:geomhash":"07d013729f34d1f503fc8f2d580e7371",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404441875,
     "wof:label":"Picton Civil Parish",
-    "wof:lastmodified":1566631741,
+    "wof:lastmodified":1695876901,
     "wof:name":"Picton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003563,
-    "geom:area_square_m":28245255.750922,
+    "geom:area_square_m":28245255.750923,
     "geom:bbox":"-5.21382891392,50.0877077163,-5.12551288919,50.1625654733",
     "geom:latitude":50.121604,
     "geom:longitude":-5.17331,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.120635,
     "lbl:longitude":-5.172646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Constantine"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011421"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125985385
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0f67007f1b671817cd939f1967109739",
+    "wof:geomhash":"6fe856d24425eec26a3ffdb3949d6ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404451825,
     "wof:label":"Constantine Civil Parish",
-    "wof:lastmodified":1566633506,
+    "wof:lastmodified":1695877685,
     "wof:name":"Constantine",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

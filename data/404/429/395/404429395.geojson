@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000732,
-    "geom:area_square_m":5500157.065839,
+    "geom:area_square_m":5500157.065838,
     "geom:bbox":"1.21939896698,52.5834355663,1.27792066309,52.6017149714",
     "geom:latitude":52.592053,
     "geom:longitude":1.249592,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.592083,
     "lbl:longitude":1.249593,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keswick and Intwood"
@@ -43,12 +49,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006563"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759723
     ],
     "wof:country":"GB",
-    "wof:geomhash":"22a2e8f718df5ec3c0a849bef5028df0",
+    "wof:geomhash":"4351ecca3d7c81b94b79012f00e6fc3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404429395,
     "wof:label":"Keswick and Intwood Civil Parish",
-    "wof:lastmodified":1566633142,
+    "wof:lastmodified":1695877524,
     "wof:name":"Keswick and Intwood",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.360211,
     "geom:longitude":0.043824,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.361106,
     "lbl:longitude":0.041692,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stewton"
@@ -52,12 +58,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005730"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759115
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f98746c7c6c31deee3c5f5f0471cadf8",
+    "wof:geomhash":"328dcd2e703a91a35c594d819fcba7a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404436967,
     "wof:label":"Stewton Civil Parish",
-    "wof:lastmodified":1566632382,
+    "wof:lastmodified":1695877179,
     "wof:name":"Stewton",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

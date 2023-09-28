@@ -10,12 +10,18 @@
     "geom:latitude":52.606885,
     "geom:longitude":-0.955579,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.605772,
     "lbl:longitude":-0.954103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Frisby"
@@ -43,12 +49,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005424"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753259
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f754f10f29c97f7483c662e8e8068a27",
+    "wof:geomhash":"23040027779c4cf57bc414c2cf8471f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404429693,
     "wof:label":"Frisby Civil Parish",
-    "wof:lastmodified":1566633123,
+    "wof:lastmodified":1695877516,
     "wof:name":"Frisby",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

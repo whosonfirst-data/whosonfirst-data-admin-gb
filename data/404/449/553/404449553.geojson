@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011946,
-    "geom:area_square_m":89826752.032867,
+    "geom:area_square_m":89826752.032866,
     "geom:bbox":"-0.197864637055,52.4889886977,-0.00765583079193,52.5941963288",
     "geom:latitude":52.545633,
     "geom:longitude":-0.094662,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.539616,
     "lbl:longitude":-0.102342,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u062a\u0644\u0633\u06cc"
@@ -75,12 +81,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001666"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854921
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f78a6ca2b1668a62892ea3252c4c167a",
+    "wof:geomhash":"c33a97a09518dc4c3cacded0a1c57ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404449553,
     "wof:label":"Whittlesey Civil Parish",
-    "wof:lastmodified":1566631414,
+    "wof:lastmodified":1695876777,
     "wof:name":"Whittlesey",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.494949,
     "geom:longitude":-1.076517,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.495504,
     "lbl:longitude":-1.073131,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitchurch-On-Thames"
@@ -44,9 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04008182",
         "gn:id":7292130,
         "qs_pg:id":1154389
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755979
     ],
@@ -54,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"db9f2857fb6746057f3c60a82917d268",
+    "wof:geomhash":"7a1b57abe3b37405f7d04fcc507f3bab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +75,7 @@
     ],
     "wof:id":404440125,
     "wof:label":"Whitchurch-On-Thames Civil Parish",
-    "wof:lastmodified":1582311050,
+    "wof:lastmodified":1695877947,
     "wof:name":"Whitchurch-On-Thames",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

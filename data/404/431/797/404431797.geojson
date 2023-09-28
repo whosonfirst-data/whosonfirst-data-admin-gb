@@ -10,12 +10,18 @@
     "geom:latitude":51.005028,
     "geom:longitude":-3.126128,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.004541,
     "lbl:longitude":-3.127445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Comeytrowe"
@@ -55,12 +61,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008789"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756479
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e9ce18a8b1299826af42b756ff86f378",
+    "wof:geomhash":"6557378bb5dd201a2dff410cfcb8847f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404431797,
     "wof:label":"Comeytrowe Civil Parish",
-    "wof:lastmodified":1566632429,
+    "wof:lastmodified":1695877200,
     "wof:name":"Comeytrowe",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

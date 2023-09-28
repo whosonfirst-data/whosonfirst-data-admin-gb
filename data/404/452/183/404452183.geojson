@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001643,
-    "geom:area_square_m":12142753.745902,
+    "geom:area_square_m":12142753.745901,
     "geom:bbox":"-3.56590733741,53.2815892776,-3.49651707312,53.3235827468",
     "geom:latitude":53.29989,
     "geom:longitude":-3.529692,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.299235,
     "lbl:longitude":-3.52917,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kinmel Bay and Towyn Community"
@@ -40,9 +46,12 @@
         1360698739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000119"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"7ed3a1a3fe8494cec11f09e290a4a383",
+    "wof:geomhash":"7d6aa140926237f9163887ac03c42be5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404452183,
-    "wof:lastmodified":1566632261,
+    "wof:lastmodified":1695877125,
     "wof:name":"Kinmel Bay and Towyn Community",
     "wof:parent_id":1360698739,
     "wof:placetype":"localadmin",

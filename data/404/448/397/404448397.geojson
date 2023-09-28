@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002316,
-    "geom:area_square_m":17550828.448039,
+    "geom:area_square_m":17550828.448038,
     "geom:bbox":"-4.39799954114,52.1649695019,-4.28775625513,52.222129618",
     "geom:latitude":52.196347,
     "geom:longitude":-4.349473,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.185069,
     "lbl:longitude":-4.353219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanllwchaiarn Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000387"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293912543
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b8b65264c8369ccb4af43d5638355eee",
+    "wof:geomhash":"cb88a36cbb4e28bf5c3faf21230af023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404448397,
-    "wof:lastmodified":1566631473,
+    "wof:lastmodified":1695876802,
     "wof:name":"Llanllwchaiarn Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

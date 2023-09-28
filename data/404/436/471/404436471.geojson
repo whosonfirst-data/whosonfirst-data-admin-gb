@@ -10,12 +10,18 @@
     "geom:latitude":52.305305,
     "geom:longitude":-1.677017,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.300412,
     "lbl:longitude":-1.679661,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shrewley"
@@ -42,12 +48,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009837"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060403
     ],
     "wof:country":"GB",
-    "wof:geomhash":"25b1a2c71e074fc5dd5ed594d959b15c",
+    "wof:geomhash":"355f19e9e052bdc1dcfabffe2df04288",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404436471,
     "wof:label":"Shrewley Civil Parish",
-    "wof:lastmodified":1566632332,
+    "wof:lastmodified":1695877156,
     "wof:name":"Shrewley",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

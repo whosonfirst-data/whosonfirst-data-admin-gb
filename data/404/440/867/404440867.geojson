@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001226,
-    "geom:area_square_m":9222859.471038,
+    "geom:area_square_m":9222859.471037,
     "geom:bbox":"-0.787246187213,52.5170076738,-0.713282709143,52.5604207929",
     "geom:latitude":52.536664,
     "geom:longitude":-0.754709,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.538702,
     "lbl:longitude":-0.760291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Great Easton"
@@ -43,12 +49,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005430"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756531
     ],
     "wof:country":"GB",
-    "wof:geomhash":"765b5f675a3df235bfac33ad07ac6a26",
+    "wof:geomhash":"a9bd59a5b1f2963f097ceb4f9a5cbde7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404440867,
     "wof:label":"Great Easton Civil Parish",
-    "wof:lastmodified":1566631162,
+    "wof:lastmodified":1695878232,
     "wof:name":"Great Easton",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

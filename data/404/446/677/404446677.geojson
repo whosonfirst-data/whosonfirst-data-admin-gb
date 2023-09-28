@@ -10,12 +10,18 @@
     "geom:latitude":51.861051,
     "geom:longitude":-4.472504,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.854257,
     "lbl:longitude":-4.466178,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meidrim Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000547"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209844423
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0b9959d4fc924e68512e2e3c488fb76b",
+    "wof:geomhash":"930cb56574baf26ee5f0bc2b1ede4fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404446677,
-    "wof:lastmodified":1566631681,
+    "wof:lastmodified":1695876879,
     "wof:name":"Meidrim Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

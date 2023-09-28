@@ -10,12 +10,18 @@
     "geom:latitude":53.445946,
     "geom:longitude":-0.163088,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.447738,
     "lbl:longitude":-0.162624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Swinhope"
@@ -51,12 +57,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006062"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125845893
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6f3d8160952dec38301d60bb605da940",
+    "wof:geomhash":"161352b675cbfee17c63604165b92ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404437523,
     "wof:label":"Swinhope Civil Parish",
-    "wof:lastmodified":1566632160,
+    "wof:lastmodified":1695877083,
     "wof:name":"Swinhope",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.734683,
     "geom:longitude":-1.586095,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.737296,
     "lbl:longitude":-1.586442,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Black Bourton"
@@ -52,12 +58,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008261"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758423
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c333466155bc9351d0c2dcdf195d197a",
+    "wof:geomhash":"1d612550a66497ca3e703426938d4e30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404436281,
     "wof:label":"Black Bourton Civil Parish",
-    "wof:lastmodified":1566632343,
+    "wof:lastmodified":1695877161,
     "wof:name":"Black Bourton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

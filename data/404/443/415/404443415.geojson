@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001193,
-    "geom:area_square_m":9037095.845482,
+    "geom:area_square_m":9037095.845481,
     "geom:bbox":"-1.04609837236,52.1925500218,-0.979567668859,52.2256969955",
     "geom:latitude":52.20776,
     "geom:longitude":-1.010053,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.209363,
     "lbl:longitude":-1.010552,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bugbrooke"
@@ -60,12 +66,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006809"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125848549
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f5e9ccb609db24e877e53780cc38bf29",
+    "wof:geomhash":"5e8e845d7d27c4d6bd9d112def3f6b63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404443415,
     "wof:label":"Bugbrooke Civil Parish",
-    "wof:lastmodified":1566633008,
+    "wof:lastmodified":1695877463,
     "wof:name":"Bugbrooke",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001706,
-    "geom:area_square_m":12485945.416463,
+    "geom:area_square_m":12485945.416462,
     "geom:bbox":"-0.204284331638,53.6875066766,-0.129445319855,53.7350238808",
     "geom:latitude":53.715802,
     "geom:longitude":-0.165747,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.71503,
     "lbl:longitude":-0.162072,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thorngumbald"
@@ -63,12 +69,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000487"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125871553
     ],
     "wof:country":"GB",
-    "wof:geomhash":"23d28eabc9c47583f46701bd96840ba3",
+    "wof:geomhash":"021719c1ce90f46e3da6a05c639d10d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404453121,
     "wof:label":"Thorngumbald Civil Parish",
-    "wof:lastmodified":1566632802,
+    "wof:lastmodified":1695877374,
     "wof:name":"Thorngumbald",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003044,
-    "geom:area_square_m":23241733.267397,
+    "geom:area_square_m":23241733.267398,
     "geom:bbox":"0.323339297583,51.8376425316,0.404910329275,51.9089795328",
     "geom:latitude":51.872322,
     "geom:longitude":0.361611,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.867946,
     "lbl:longitude":0.361002,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0631\u06cc\u062a \u062f\u0627\u0646\u0645\u0648"
@@ -87,12 +93,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004132"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853519
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b7e9addde57cc1da4fe7ac46dbb21d91",
+    "wof:geomhash":"a2cce7920f33b51762aa7232b0be0f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404440363,
     "wof:label":"Great Dunmow Civil Parish",
-    "wof:lastmodified":1566631136,
+    "wof:lastmodified":1695878219,
     "wof:name":"Great Dunmow",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

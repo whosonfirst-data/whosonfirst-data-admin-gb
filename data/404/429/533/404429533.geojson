@@ -10,12 +10,18 @@
     "geom:latitude":52.913373,
     "geom:longitude":-2.541502,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.911927,
     "lbl:longitude":-2.541503,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moreton Say"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011322"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260219473
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2cc746e64498a710aa05f4b96eafeea8",
+    "wof:geomhash":"46e4b3afb2d45c7ccd2f37f169a5a1ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429533,
     "wof:label":"Moreton Say Civil Parish",
-    "wof:lastmodified":1566633096,
+    "wof:lastmodified":1695877503,
     "wof:name":"Moreton Say",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

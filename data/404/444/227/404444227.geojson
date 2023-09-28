@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001677,
-    "geom:area_square_m":13208398.603017,
+    "geom:area_square_m":13208398.603015,
     "geom:bbox":"-3.9376611145,50.3936521617,-3.89265403272,50.4818071214",
     "geom:latitude":50.4287,
     "geom:longitude":-3.911748,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.418505,
     "lbl:longitude":-3.908332,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Harford"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003153"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126012807
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ee801042508704c760664e619913dbbd",
+    "wof:geomhash":"8e2e0db2bf42157e13c0d9f04fde466c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444227,
     "wof:label":"Harford Civil Parish",
-    "wof:lastmodified":1566632876,
+    "wof:lastmodified":1695877407,
     "wof:name":"Harford",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

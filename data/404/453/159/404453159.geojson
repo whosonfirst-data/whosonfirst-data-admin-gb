@@ -10,12 +10,18 @@
     "geom:latitude":51.910609,
     "geom:longitude":-2.749775,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.910831,
     "lbl:longitude":-2.749001,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Weonards"
@@ -42,12 +48,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000867"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125860315
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8d039bee885b8f9bfcc599f92d032dde",
+    "wof:geomhash":"0d58e38e1934b028632430ab90e56923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404453159,
     "wof:label":"St. Weonards Civil Parish",
-    "wof:lastmodified":1566632753,
+    "wof:lastmodified":1695877352,
     "wof:name":"St. Weonards",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

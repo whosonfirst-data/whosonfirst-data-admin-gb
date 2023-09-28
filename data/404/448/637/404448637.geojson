@@ -10,12 +10,18 @@
     "geom:latitude":54.560325,
     "geom:longitude":-3.423412,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.563834,
     "lbl:longitude":-3.419608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lamplugh"
@@ -57,12 +63,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010479"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125793169
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7fb62139d4c9fc1740f463a4ffd6b188",
+    "wof:geomhash":"74dc4efa2133a13c64ab70d9509aac4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448637,
     "wof:label":"Lamplugh Civil Parish",
-    "wof:lastmodified":1566631551,
+    "wof:lastmodified":1695876836,
     "wof:name":"Lamplugh",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

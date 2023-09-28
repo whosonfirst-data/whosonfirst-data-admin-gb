@@ -10,12 +10,18 @@
     "geom:latitude":54.226303,
     "geom:longitude":-0.350824,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.230099,
     "lbl:longitude":-0.351138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lebberston"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007687"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059735
     ],
     "wof:country":"GB",
-    "wof:geomhash":"620aaaf18654e2c5d7529b9e0a11c493",
+    "wof:geomhash":"e9f55e5bc833207d76e030c5113e7c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404442057,
     "wof:label":"Lebberston Civil Parish",
-    "wof:lastmodified":1566633284,
+    "wof:lastmodified":1695877587,
     "wof:name":"Lebberston",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001324,
-    "geom:area_square_m":10089936.288041,
+    "geom:area_square_m":10089936.288042,
     "geom:bbox":"-2.15156578915,51.9387060353,-2.09076746671,51.9739661369",
     "geom:latitude":51.959083,
     "geom:longitude":-2.116981,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.959117,
     "lbl:longitude":-2.114532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stoke Orchard"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004423"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126047595
     ],
     "wof:country":"GB",
-    "wof:geomhash":"476a52cf933954b1722507bedd977e9d",
+    "wof:geomhash":"3b57b3ad7f18c05a57dd069c628de081",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447173,
     "wof:label":"Stoke Orchard Civil Parish",
-    "wof:lastmodified":1566631278,
+    "wof:lastmodified":1695878285,
     "wof:name":"Stoke Orchard",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

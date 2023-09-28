@@ -10,12 +10,18 @@
     "geom:latitude":50.925465,
     "geom:longitude":0.415228,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.926301,
     "lbl:longitude":0.410822,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penhurst"
@@ -42,12 +48,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003817"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125894539
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dcf56b85dae64472f7524194edb42b35",
+    "wof:geomhash":"4f5e7587e53fd24d5adf98de43de4c33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404452861,
     "wof:label":"Penhurst Civil Parish",
-    "wof:lastmodified":1566632192,
+    "wof:lastmodified":1695877097,
     "wof:name":"Penhurst",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.486397,
     "geom:longitude":-1.115112,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.486177,
     "lbl:longitude":-1.115121,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loversall"
@@ -57,12 +63,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000085"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125874733
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b2a2e6a84ec3e48d64ed115fbd0c5c1c",
+    "wof:geomhash":"d69dbd2edf5558ca917315df626b9424",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404442773,
     "wof:label":"Loversall Civil Parish",
-    "wof:lastmodified":1566633298,
+    "wof:lastmodified":1695877593,
     "wof:name":"Loversall",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

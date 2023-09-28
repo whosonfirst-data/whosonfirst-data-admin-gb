@@ -10,12 +10,18 @@
     "geom:latitude":52.237317,
     "geom:longitude":0.945383,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.236545,
     "lbl:longitude":0.944962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wetherden"
@@ -58,12 +64,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010562"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756419
     ],
     "wof:country":"GB",
-    "wof:geomhash":"89f71c0f610b772076b934df2d6a7c4c",
+    "wof:geomhash":"2a6d5f4bc5d3a092549cd1f1435fd2b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404431747,
     "wof:label":"Wetherden Civil Parish",
-    "wof:lastmodified":1566632475,
+    "wof:lastmodified":1695877220,
     "wof:name":"Wetherden",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

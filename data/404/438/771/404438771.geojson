@@ -10,12 +10,18 @@
     "geom:latitude":52.029207,
     "geom:longitude":0.036391,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.031416,
     "lbl:longitude":0.034215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Gerste"
@@ -405,12 +411,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004769"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125794603
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24258ad54b55b2e4e86a966c2615e9aa",
+    "wof:geomhash":"1d43059e2e4c100083049b3d8eba646a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -423,7 +432,7 @@
     ],
     "wof:id":404438771,
     "wof:label":"Barley Civil Parish",
-    "wof:lastmodified":1566632582,
+    "wof:lastmodified":1695877269,
     "wof:name":"Barley",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

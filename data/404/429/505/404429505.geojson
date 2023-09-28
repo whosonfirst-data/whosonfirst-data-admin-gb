@@ -10,12 +10,18 @@
     "geom:latitude":51.200743,
     "geom:longitude":-3.479228,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.198979,
     "lbl:longitude":-3.479875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0646\u0647\u06cc\u062f"
@@ -102,12 +108,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008846"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852501
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8aedb8e0b9cc72e0c10a447aa0474f55",
+    "wof:geomhash":"aae24097ed1b54dd4e3a3a1325dc92fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404429505,
     "wof:label":"Minehead Civil Parish",
-    "wof:lastmodified":1566633098,
+    "wof:lastmodified":1695877504,
     "wof:name":"Minehead",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

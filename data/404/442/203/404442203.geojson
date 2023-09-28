@@ -10,12 +10,18 @@
     "geom:latitude":53.053196,
     "geom:longitude":-0.844421,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.053597,
     "lbl:longitude":-0.846663,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Farndon"
@@ -60,12 +66,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007902"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126026679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d808b84912ef7e6334979b8cc53e0e0b",
+    "wof:geomhash":"1ce97894fbd469116579a08a8c5b8d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404442203,
     "wof:label":"Farndon Civil Parish",
-    "wof:lastmodified":1566633227,
+    "wof:lastmodified":1695877562,
     "wof:name":"Farndon",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.627121,
     "geom:longitude":-0.789186,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.627811,
     "lbl:longitude":-0.789184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leighfield"
@@ -55,12 +61,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000651"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755303
     ],
     "wof:country":"GB",
-    "wof:geomhash":"87e0eb558d1df07fc709f29aa604c498",
+    "wof:geomhash":"f175024716b547fc4c98b1210c1115ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404439265,
     "wof:label":"Leighfield Civil Parish",
-    "wof:lastmodified":1566631913,
+    "wof:lastmodified":1695876980,
     "wof:name":"Leighfield",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

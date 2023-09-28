@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002249,
-    "geom:area_square_m":17109006.626825,
+    "geom:area_square_m":17109006.626826,
     "geom:bbox":"-1.89991550505,52.0067335979,-1.82504347422,52.0725781984",
     "geom:latitude":52.036503,
     "geom:longitude":-1.860851,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.034246,
     "lbl:longitude":-1.860286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Broadway"
@@ -147,12 +153,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010370"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853031
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f93d6a8dbd29b4c18d346f4aa4c36eb3",
+    "wof:geomhash":"ee09ed85101d08702beb578b6f78058a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +174,7 @@
     ],
     "wof:id":404434357,
     "wof:label":"Broadway Civil Parish",
-    "wof:lastmodified":1566633586,
+    "wof:lastmodified":1695877725,
     "wof:name":"Broadway",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.68876,
     "geom:longitude":-1.959077,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.688633,
     "lbl:longitude":-1.959068,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Siddington"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004269"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803257
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4255de962f6aa7946d0d5fffd9b724f2",
+    "wof:geomhash":"f6d24e7575bd52cc86c8f1f0724de28f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446229,
     "wof:label":"Siddington Civil Parish",
-    "wof:lastmodified":1566631611,
+    "wof:lastmodified":1695876852,
     "wof:name":"Siddington",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

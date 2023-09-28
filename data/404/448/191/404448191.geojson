@@ -10,12 +10,18 @@
     "geom:latitude":50.859381,
     "geom:longitude":-1.324214,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.861418,
     "lbl:longitude":-1.322163,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hamble-Le-Rice"
@@ -40,12 +46,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004532"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756461
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e02c07c35f4c64d9f088681977aeca8c",
+    "wof:geomhash":"95af0ef24e1a340f4cac00a6a82dee10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404448191,
     "wof:label":"Hamble-Le-Rice Civil Parish",
-    "wof:lastmodified":1566631525,
+    "wof:lastmodified":1695876823,
     "wof:name":"Hamble-Le-Rice",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.227793,
     "geom:longitude":-2.603303,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.226361,
     "lbl:longitude":-2.605332,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hatfield and Newhampton"
@@ -43,12 +49,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000771"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753411
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c7417b2e5feaef5b08fd80879922f637",
+    "wof:geomhash":"27f4f6996b3ef52430ceedaea41c73d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404449289,
     "wof:label":"Hatfield and Newhampton Civil Parish",
-    "wof:lastmodified":1566631369,
+    "wof:lastmodified":1695878325,
     "wof:name":"Hatfield and Newhampton",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

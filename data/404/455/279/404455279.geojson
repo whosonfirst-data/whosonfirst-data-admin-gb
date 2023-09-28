@@ -10,12 +10,18 @@
     "geom:latitude":50.851096,
     "geom:longitude":-2.948961,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.848802,
     "lbl:longitude":-2.94897,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tatworth and Forton"
@@ -43,12 +49,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008760"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32e385faa454afe10ab7829e74a9cf82",
+    "wof:geomhash":"3c0289b4b36ba917d6e07b5f267f8480",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404455279,
     "wof:label":"Tatworth and Forton Civil Parish",
-    "wof:lastmodified":1566632299,
+    "wof:lastmodified":1695877141,
     "wof:name":"Tatworth and Forton",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

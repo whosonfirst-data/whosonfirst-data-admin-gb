@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002244,
-    "geom:area_square_m":16787328.774957,
+    "geom:area_square_m":16787328.774955,
     "geom:bbox":"-3.25102353028,52.754417919,-3.16926425111,52.7954364573",
     "geom:latitude":52.776592,
     "geom:longitude":-3.210482,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.775581,
     "lbl:longitude":-3.207177,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfechain Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000300"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243102709
     ],
     "wof:country":"GB",
-    "wof:geomhash":"93d2943973af4e03775f490bd2ce2f58",
+    "wof:geomhash":"f5e2962ea12b65fda7ac5d1022f0db90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404448097,
-    "wof:lastmodified":1566631499,
+    "wof:lastmodified":1695876814,
     "wof:name":"Llanfechain Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":3823352.702787,
+    "geom:area_square_m":3823352.702788,
     "geom:bbox":"-3.03813751339,51.5769026579,-2.99639340935,51.6003449967",
     "geom:latitude":51.588463,
     "geom:longitude":-3.017563,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.588656,
     "lbl:longitude":-3.017569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Allt-yr-yn Community"
@@ -40,12 +46,15 @@
         1360698735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000808"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711579
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9e82c942fb3923b57f8a6c579ef149b3",
+    "wof:geomhash":"0d5b8e15466fbcfcdc2603be6600e543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429419,
-    "wof:lastmodified":1566633156,
+    "wof:lastmodified":1695877529,
     "wof:name":"Allt-yr-yn Community",
     "wof:parent_id":1360698735,
     "wof:placetype":"localadmin",

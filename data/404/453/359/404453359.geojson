@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000872,
-    "geom:area_square_m":6650174.314957,
+    "geom:area_square_m":6650174.314956,
     "geom:bbox":"0.871968485248,51.8991039767,0.921213501052,51.9289632861",
     "geom:latitude":51.914352,
     "geom:longitude":0.898542,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.912537,
     "lbl:longitude":0.896538,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Myland"
@@ -52,12 +58,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004012"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759089
     ],
     "wof:country":"GB",
-    "wof:geomhash":"baa40ed8cf7da3b4e2895fa41321a977",
+    "wof:geomhash":"5b0e490735314169eebfada2bfa7344a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404453359,
     "wof:label":"Myland Civil Parish",
-    "wof:lastmodified":1566632805,
+    "wof:lastmodified":1695877376,
     "wof:name":"Myland",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

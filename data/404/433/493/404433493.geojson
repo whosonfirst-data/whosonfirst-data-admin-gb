@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002432,
-    "geom:area_square_m":17982292.623947,
+    "geom:area_square_m":17982292.623948,
     "geom:bbox":"-4.24921124796,53.2528883355,-4.16592480906,53.3120261331",
     "geom:latitude":53.283052,
     "geom:longitude":-4.205467,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.280203,
     "lbl:longitude":-4.209578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pentraeth Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000873"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977149
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9e63aa071d464c22553e443c44ad52ae",
+    "wof:geomhash":"5879c5a99d20d0924530dedd130faf95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433493,
-    "wof:lastmodified":1566633717,
+    "wof:lastmodified":1695877782,
     "wof:name":"Pentraeth Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

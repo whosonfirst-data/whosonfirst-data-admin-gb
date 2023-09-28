@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000846,
-    "geom:area_square_m":6161717.085352,
+    "geom:area_square_m":6161717.085351,
     "geom:bbox":"-1.36236045487,53.9001730991,-1.3134096711,53.9391681332",
     "geom:latitude":53.917003,
     "geom:longitude":-1.339682,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.911527,
     "lbl:longitude":-1.335975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thorp Arch"
@@ -66,12 +72,15 @@
         1360698749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000211"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126042151
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3e31af2d95eaab8731366d35bf110739",
+    "wof:geomhash":"1099efaa14007f843fa448551cd393ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404453249,
     "wof:label":"Thorp Arch Civil Parish",
-    "wof:lastmodified":1566632826,
+    "wof:lastmodified":1695877385,
     "wof:name":"Thorp Arch",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

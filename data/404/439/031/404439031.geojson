@@ -10,12 +10,18 @@
     "geom:latitude":54.445927,
     "geom:longitude":-1.255386,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.4445,
     "lbl:longitude":-1.261253,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sexhow"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007254"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327362565
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a4be9f2d3ef12dcf0c71f22824a122a3",
+    "wof:geomhash":"5fbf44e4c53ff5fffb4ca46d3d9ed363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404439031,
     "wof:label":"Sexhow Civil Parish",
-    "wof:lastmodified":1566631862,
+    "wof:lastmodified":1695876955,
     "wof:name":"Sexhow",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.404681,
     "geom:longitude":-2.01619,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.403573,
     "lbl:longitude":-2.020941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New Frankley in Birmingham"
@@ -43,12 +49,15 @@
         1360699077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000142"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753439
     ],
     "wof:country":"GB",
-    "wof:geomhash":"94b3151323e81f164ee5ab20a01ae6b4",
+    "wof:geomhash":"8755fbb01ec66a96614724be604abdf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404437931,
     "wof:label":"New Frankley in Birmingham Civil Parish",
-    "wof:lastmodified":1566632050,
+    "wof:lastmodified":1695877037,
     "wof:name":"New Frankley in Birmingham",
     "wof:parent_id":1360699077,
     "wof:placetype":"localadmin",

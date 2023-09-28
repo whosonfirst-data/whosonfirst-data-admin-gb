@@ -10,12 +10,18 @@
     "geom:latitude":52.126832,
     "geom:longitude":-0.094828,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.124986,
     "lbl:longitude":-0.089781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0648\u06cc\u062f\u0648\u0646"
@@ -111,12 +117,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001777"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125771783
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ea6271282241aaa6904a921ba0a10f85",
+    "wof:geomhash":"27c79e195bb3d552e461f7a614db9fb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +138,7 @@
     ],
     "wof:id":404440909,
     "wof:label":"Croydon Civil Parish",
-    "wof:lastmodified":1566631121,
+    "wof:lastmodified":1695878213,
     "wof:name":"Croydon",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.63058,
     "geom:longitude":0.902338,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.634496,
     "lbl:longitude":0.909815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shipdham"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006168"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854961
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e6ea81a750bc3b143b8e1491f17851f1",
+    "wof:geomhash":"444868776d1b6ab6e22558430a04b862",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404439029,
     "wof:label":"Shipdham Civil Parish",
-    "wof:lastmodified":1566631901,
+    "wof:lastmodified":1695876974,
     "wof:name":"Shipdham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

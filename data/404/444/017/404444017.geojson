@@ -10,12 +10,18 @@
     "geom:latitude":54.506451,
     "geom:longitude":-0.765885,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.504222,
     "lbl:longitude":-0.765884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mickleby"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007689"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031159
     ],
     "wof:country":"GB",
-    "wof:geomhash":"189c6cce006e125fb13bce34cb626e80",
+    "wof:geomhash":"790177afeb490543c6f30c68c161cb1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404444017,
     "wof:label":"Mickleby Civil Parish",
-    "wof:lastmodified":1566632953,
+    "wof:lastmodified":1695877435,
     "wof:name":"Mickleby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

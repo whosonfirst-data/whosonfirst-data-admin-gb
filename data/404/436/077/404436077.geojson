@@ -10,12 +10,18 @@
     "geom:latitude":50.691607,
     "geom:longitude":-2.328552,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.692562,
     "lbl:longitude":-2.32915,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crossways"
@@ -45,12 +51,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003531"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125904641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24f32829ade4de23051811b15bbbb37d",
+    "wof:geomhash":"2aba6951af6a628baba655376dad1ece",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404436077,
     "wof:label":"Crossways Civil Parish",
-    "wof:lastmodified":1566632335,
+    "wof:lastmodified":1695877158,
     "wof:name":"Crossways",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

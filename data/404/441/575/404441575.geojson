@@ -10,12 +10,18 @@
     "geom:latitude":53.496067,
     "geom:longitude":-1.019516,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.49642,
     "lbl:longitude":-1.019952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Auckley"
@@ -57,12 +63,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000060"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908203
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c88ed5ab4f726f0aa38a53b2ec771e22",
+    "wof:geomhash":"4b42078571010f8093a3fcffc288511c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404441575,
     "wof:label":"Auckley Civil Parish",
-    "wof:lastmodified":1566631761,
+    "wof:lastmodified":1695876909,
     "wof:name":"Auckley",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

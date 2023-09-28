@@ -10,12 +10,18 @@
     "geom:latitude":51.740963,
     "geom:longitude":-4.965454,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.741652,
     "lbl:longitude":-4.9626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rosemarket Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000951"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343290695
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2ad54faca5b5d80ab5c6476e11b370f6",
+    "wof:geomhash":"0463d891272418011b3889da5c5adc2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435651,
-    "wof:lastmodified":1566634009,
+    "wof:lastmodified":1695877902,
     "wof:name":"Rosemarket Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

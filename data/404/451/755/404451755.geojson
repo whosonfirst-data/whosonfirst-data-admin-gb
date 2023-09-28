@@ -10,12 +10,18 @@
     "geom:latitude":53.112419,
     "geom:longitude":-1.507069,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.112942,
     "lbl:longitude":-1.506643,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dethick, Lea and Holloway"
@@ -43,12 +49,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002671"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757219
     ],
     "wof:country":"GB",
-    "wof:geomhash":"263fbc7324aba1f87f94a437319ab477",
+    "wof:geomhash":"7c818afe40a0b525d297498f99dea7a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404451755,
     "wof:label":"Dethick, Lea and Holloway Civil Parish",
-    "wof:lastmodified":1566633420,
+    "wof:lastmodified":1695877649,
     "wof:name":"Dethick, Lea and Holloway",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

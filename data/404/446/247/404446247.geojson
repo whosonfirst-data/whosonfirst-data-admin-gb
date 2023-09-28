@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003021,
-    "geom:area_square_m":22888294.195941,
+    "geom:area_square_m":22888294.195942,
     "geom:bbox":"-0.264912501176,52.1838344797,-0.172659637242,52.2438538405",
     "geom:latitude":52.208747,
     "geom:longitude":-0.215873,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.206936,
     "lbl:longitude":-0.216566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0628\u062a\u0633\u0644\u064a"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012018"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126009159
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c894906e0f1b2613c2baeab20e999890",
+    "wof:geomhash":"1ae652ce01a925b79dcfc0cdac87965b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404446247,
     "wof:label":"Abbotsley Civil Parish",
-    "wof:lastmodified":1566631675,
+    "wof:lastmodified":1695876876,
     "wof:name":"Abbotsley",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

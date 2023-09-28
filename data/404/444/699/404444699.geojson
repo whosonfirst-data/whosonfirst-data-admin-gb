@@ -10,12 +10,18 @@
     "geom:latitude":52.082168,
     "geom:longitude":-1.215807,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.082135,
     "lbl:longitude":-1.215808,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marston St. Lawrence"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006840"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126049365
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7326f0034e9f23b8e7460f7c7a90be5c",
+    "wof:geomhash":"657ab41c38efd638e7d5fe72ad75d5df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404444699,
     "wof:label":"Marston St. Lawrence Civil Parish",
-    "wof:lastmodified":1566632957,
+    "wof:lastmodified":1695877437,
     "wof:name":"Marston St. Lawrence",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

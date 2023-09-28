@@ -10,12 +10,18 @@
     "geom:latitude":50.726959,
     "geom:longitude":-1.235267,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.728393,
     "lbl:longitude":-1.236868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wootton Bridge"
@@ -42,12 +48,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001317"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881873
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f59a6076c8d3fe6bc1465f0adda1c81",
+    "wof:geomhash":"30cede0fa2d4ab26c976f4acaf3a17bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404447009,
     "wof:label":"Wootton Bridge Civil Parish",
-    "wof:lastmodified":1566631269,
+    "wof:lastmodified":1695878280,
     "wof:name":"Wootton Bridge",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

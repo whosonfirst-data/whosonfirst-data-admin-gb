@@ -10,12 +10,18 @@
     "geom:latitude":53.120341,
     "geom:longitude":-1.563809,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.119702,
     "lbl:longitude":-1.56366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Matlock Bath"
@@ -69,12 +75,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002785"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125958169
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f77130e61a0d8b49542679dd056bc94",
+    "wof:geomhash":"4064078bbf3abdc808b8432b06cf3f72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404435985,
     "wof:label":"Matlock Bath Civil Parish",
-    "wof:lastmodified":1566634030,
+    "wof:lastmodified":1695877913,
     "wof:name":"Matlock Bath",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

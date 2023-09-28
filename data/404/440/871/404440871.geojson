@@ -10,12 +10,18 @@
     "geom:latitude":50.901149,
     "geom:longitude":-3.698325,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.899191,
     "lbl:longitude":-3.711906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thelbridge"
@@ -55,12 +61,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003053"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756535
     ],
     "wof:country":"GB",
-    "wof:geomhash":"37e807d992ed3668047a6730cd279181",
+    "wof:geomhash":"fff3ae64caed72b711a69912a6821101",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404440871,
     "wof:label":"Thelbridge Civil Parish",
-    "wof:lastmodified":1566631200,
+    "wof:lastmodified":1695878249,
     "wof:name":"Thelbridge",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

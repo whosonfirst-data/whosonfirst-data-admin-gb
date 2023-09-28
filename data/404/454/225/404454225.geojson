@@ -10,12 +10,18 @@
     "geom:latitude":52.144826,
     "geom:longitude":1.280569,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.14482,
     "lbl:longitude":1.280785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Debach"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009397"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293425201
     ],
     "wof:country":"GB",
-    "wof:geomhash":"75e488744571254c89f6a1ecadc8745e",
+    "wof:geomhash":"5f20053a4397cda00a8cca5cd8ed39d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454225,
     "wof:label":"Debach Civil Parish",
-    "wof:lastmodified":1566632717,
+    "wof:lastmodified":1695877335,
     "wof:name":"Debach",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

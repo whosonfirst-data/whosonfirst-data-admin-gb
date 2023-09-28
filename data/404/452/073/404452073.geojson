@@ -10,12 +10,18 @@
     "geom:latitude":52.175087,
     "geom:longitude":-0.531116,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.17433,
     "lbl:longitude":-0.533928,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Oakley"
@@ -99,12 +105,15 @@
         1360699073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011901"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242902427
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b486881df134e536a9e4d326f782376e",
+    "wof:geomhash":"98f4764f12fddde55155c21e2cba8f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404452073,
     "wof:label":"Oakley Civil Parish",
-    "wof:lastmodified":1566632231,
+    "wof:lastmodified":1695877112,
     "wof:name":"Oakley",
     "wof:parent_id":1360699073,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.062059,
     "geom:longitude":-1.254817,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.059632,
     "lbl:longitude":-1.25225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Annesley"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007784"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125964625
     ],
     "wof:country":"GB",
-    "wof:geomhash":"40f6237c1298310d98bb709f894f91c1",
+    "wof:geomhash":"46cb0165c4c15f9190b60b224fc85dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404433485,
     "wof:label":"Annesley Civil Parish",
-    "wof:lastmodified":1566633652,
+    "wof:lastmodified":1695877752,
     "wof:name":"Annesley",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

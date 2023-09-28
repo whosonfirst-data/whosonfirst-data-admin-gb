@@ -10,12 +10,18 @@
     "geom:latitude":52.947923,
     "geom:longitude":-2.028852,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.950854,
     "lbl:longitude":-2.025418,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Draycott in the Moors"
@@ -64,12 +70,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009037"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125916293
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dbe6df897bba2901d2e38bea9db9ec7b",
+    "wof:geomhash":"686b5b60449603ce1a82abae1a8439e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404435661,
     "wof:label":"Draycott in the Moors Civil Parish",
-    "wof:lastmodified":1566634019,
+    "wof:lastmodified":1695877907,
     "wof:name":"Draycott in the Moors",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

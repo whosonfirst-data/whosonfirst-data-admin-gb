@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014218,
-    "geom:area_square_m":108067323.450585,
+    "geom:area_square_m":108067323.450583,
     "geom:bbox":"-4.03766921487,51.9884089199,-3.8467576639,52.1423636499",
     "geom:latitude":52.0712,
     "geom:longitude":-3.933986,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.07618,
     "lbl:longitude":-3.932568,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cynwyl Gaeo Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000501"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711533
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bfaac3827e20b48df1490306122b54dc",
+    "wof:geomhash":"85a5d3f2538d0e6d668d4f70b5b25e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437839,
-    "wof:lastmodified":1566632143,
+    "wof:lastmodified":1695877075,
     "wof:name":"Cynwyl Gaeo Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

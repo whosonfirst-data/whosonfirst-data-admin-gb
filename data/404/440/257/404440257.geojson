@@ -10,12 +10,18 @@
     "geom:latitude":50.896077,
     "geom:longitude":0.448293,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.894924,
     "lbl:longitude":0.451169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Catsfield"
@@ -66,12 +72,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003803"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972119
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c53a4f661021d5c8b7962cdb17edcc5d",
+    "wof:geomhash":"f19db1fe2eee9e87e3e3d52d619a13e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404440257,
     "wof:label":"Catsfield Civil Parish",
-    "wof:lastmodified":1566631151,
+    "wof:lastmodified":1695878226,
     "wof:name":"Catsfield",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

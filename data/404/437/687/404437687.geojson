@@ -10,12 +10,18 @@
     "geom:latitude":50.833147,
     "geom:longitude":-3.03469,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.826997,
     "lbl:longitude":-3.034681,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Membury"
@@ -48,12 +54,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002972"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243398611
     ],
     "wof:country":"GB",
-    "wof:geomhash":"90dfd09d2b0eadad7fbe6b85a60f1df9",
+    "wof:geomhash":"fbd6bdbdb2a86e7c777be2199eea1044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404437687,
     "wof:label":"Membury Civil Parish",
-    "wof:lastmodified":1566632074,
+    "wof:lastmodified":1695877046,
     "wof:name":"Membury",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

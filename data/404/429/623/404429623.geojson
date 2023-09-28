@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002613,
-    "geom:area_square_m":20540665.122922,
+    "geom:area_square_m":20540665.122921,
     "geom:bbox":"-3.8926382841,50.4996427293,-3.78479467346,50.5425541689",
     "geom:latitude":50.518167,
     "geom:longitude":-3.843168,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.517813,
     "lbl:longitude":-3.855828,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Holne"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003155"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126009235
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6aedbf3f073d3a0be564e3a504911ce9",
+    "wof:geomhash":"404cd5c6dfc76c1f356e9233fe2c3d85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404429623,
     "wof:label":"Holne Civil Parish",
-    "wof:lastmodified":1566633160,
+    "wof:lastmodified":1695877531,
     "wof:name":"Holne",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

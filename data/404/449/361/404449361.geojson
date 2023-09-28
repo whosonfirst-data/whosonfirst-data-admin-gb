@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000846,
-    "geom:area_square_m":6379692.495735,
+    "geom:area_square_m":6379692.495736,
     "geom:bbox":"-1.05261530385,52.405028143,-1.00720156814,52.439220931",
     "geom:latitude":52.422077,
     "geom:longitude":-1.028532,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.422054,
     "lbl:longitude":-1.028884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sulby"
@@ -58,12 +64,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006694"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753525
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3effb6ec2a71077a89920680c3d1d3b9",
+    "wof:geomhash":"c90947eb25c7bda5f6e4a9bc69ac155d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404449361,
     "wof:label":"Sulby Civil Parish",
-    "wof:lastmodified":1566631400,
+    "wof:lastmodified":1695878338,
     "wof:name":"Sulby",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

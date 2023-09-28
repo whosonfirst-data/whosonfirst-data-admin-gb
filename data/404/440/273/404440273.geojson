@@ -10,12 +10,18 @@
     "geom:latitude":52.73829,
     "geom:longitude":0.058174,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.739709,
     "lbl:longitude":0.058788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sutton St. James"
@@ -43,12 +49,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005869"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756101
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e6cc948a1ea7679f952f6da4faadf213",
+    "wof:geomhash":"3becbfa2ec496fbfbdf1ed5a473cc073",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404440273,
     "wof:label":"Sutton St. James Civil Parish",
-    "wof:lastmodified":1566631142,
+    "wof:lastmodified":1695878222,
     "wof:name":"Sutton St. James",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

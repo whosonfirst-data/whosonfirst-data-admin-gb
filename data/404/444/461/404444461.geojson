@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005155,
-    "geom:area_square_m":40333888.500743,
+    "geom:area_square_m":40333888.500746,
     "geom:bbox":"-3.33540762756,50.7088740459,-3.23375918301,50.7841191899",
     "geom:latitude":50.74664,
     "geom:longitude":-3.283069,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.741369,
     "lbl:longitude":-3.278009,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ottery St. Mary"
@@ -42,12 +48,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002980"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126009121
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e18616a33e0e1cb19c00f1232e131b53",
+    "wof:geomhash":"97e20c1fa578f4ebbf62628d5378ddf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404444461,
     "wof:label":"Ottery St. Mary Civil Parish",
-    "wof:lastmodified":1566632964,
+    "wof:lastmodified":1695877441,
     "wof:name":"Ottery St. Mary",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

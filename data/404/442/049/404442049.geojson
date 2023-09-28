@@ -10,12 +10,18 @@
     "geom:latitude":51.675037,
     "geom:longitude":-1.341793,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.675928,
     "lbl:longitude":-1.339453,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marcham"
@@ -57,12 +63,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008232"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125891875
     ],
     "wof:country":"GB",
-    "wof:geomhash":"85ac62bfac255cd30a3ac8d7ffb49de2",
+    "wof:geomhash":"5d4caf5892aff4162d862b78e7492b88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404442049,
     "wof:label":"Marcham Civil Parish",
-    "wof:lastmodified":1566633220,
+    "wof:lastmodified":1695877558,
     "wof:name":"Marcham",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.663153,
     "geom:longitude":-1.384836,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.663658,
     "lbl:longitude":-1.385206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nailstone"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005501"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276578845
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2567e59ba1eff4b593d667c72a13d338",
+    "wof:geomhash":"17bb4c94fdf5d5a39d5556972c17c0c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447045,
     "wof:label":"Nailstone Civil Parish",
-    "wof:lastmodified":1566631304,
+    "wof:lastmodified":1695878297,
     "wof:name":"Nailstone",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.651394,
     "geom:longitude":-1.172038,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.648327,
     "lbl:longitude":-1.17116,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Tas\u00e9k"
@@ -448,12 +454,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001305"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759621
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d05a8c7fb06f8c615dad3d9ee5f3b62a",
+    "wof:geomhash":"aa97f1c4b8dffcb2ff6db2e77ec90501",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -466,7 +475,7 @@
     ],
     "wof:id":404445701,
     "wof:label":"Lake Civil Parish",
-    "wof:lastmodified":1566633309,
+    "wof:lastmodified":1695877598,
     "wof:name":"Lake",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.237677,
     "geom:longitude":-0.813576,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.238139,
     "lbl:longitude":-0.813586,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fledborough"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007808"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125783367
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bda82efddbdfb45dcbbcb7e6634bda00",
+    "wof:geomhash":"91d2edac469d7d800e7a6f62ef893a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440445,
     "wof:label":"Fledborough Civil Parish",
-    "wof:lastmodified":1566631205,
+    "wof:lastmodified":1695878252,
     "wof:name":"Fledborough",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

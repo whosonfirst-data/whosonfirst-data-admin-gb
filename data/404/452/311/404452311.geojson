@@ -10,12 +10,18 @@
     "geom:latitude":52.654025,
     "geom:longitude":-2.820164,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.655274,
     "lbl:longitude":-2.808766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longden"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011305"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259418233
     ],
     "wof:country":"GB",
-    "wof:geomhash":"75d1bb6c72d878b96f9b40c0552b15f7",
+    "wof:geomhash":"5306d66c7f497cb1a053b97b903db543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452311,
     "wof:label":"Longden Civil Parish",
-    "wof:lastmodified":1566632257,
+    "wof:lastmodified":1695877124,
     "wof:name":"Longden",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

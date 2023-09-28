@@ -10,12 +10,18 @@
     "geom:latitude":50.169377,
     "geom:longitude":-5.106296,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.171878,
     "lbl:longitude":-5.106638,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Penryn"
@@ -63,12 +69,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011503"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852419
     ],
     "wof:country":"GB",
-    "wof:geomhash":"025e6d004a98fb616921fc6532b15cd4",
+    "wof:geomhash":"7dc5be4b8b012ad3ce576911da37990a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404453519,
     "wof:label":"Penryn Civil Parish",
-    "wof:lastmodified":1566632794,
+    "wof:lastmodified":1695877370,
     "wof:name":"Penryn",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

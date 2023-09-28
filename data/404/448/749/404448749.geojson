@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001688,
-    "geom:area_square_m":12281775.773857,
+    "geom:area_square_m":12281775.773856,
     "geom:bbox":"-0.934083680063,53.9444787904,-0.859685509359,53.9853763113",
     "geom:latitude":53.966249,
     "geom:longitude":-0.902297,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.969994,
     "lbl:longitude":-0.896716,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Catton"
@@ -52,12 +58,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000373"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757373
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f454f7bac51cf627d15c166667dc6179",
+    "wof:geomhash":"0ebe3d2c9b0d516e0da3a5c20d26c1d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404448749,
     "wof:label":"Catton Civil Parish",
-    "wof:lastmodified":1566631515,
+    "wof:lastmodified":1695876818,
     "wof:name":"Catton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

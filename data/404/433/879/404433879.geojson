@@ -10,12 +10,18 @@
     "geom:latitude":54.488428,
     "geom:longitude":-1.976791,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.493586,
     "lbl:longitude":-1.977858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Scargill"
@@ -40,12 +46,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010684"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754939
     ],
     "wof:country":"GB",
-    "wof:geomhash":"644e872472f4b4280602dd6207a7e300",
+    "wof:geomhash":"9642f48a3c20826837be8f5e0979e446",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404433879,
     "wof:label":"Scargill Civil Parish",
-    "wof:lastmodified":1566633705,
+    "wof:lastmodified":1695877777,
     "wof:name":"Scargill",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

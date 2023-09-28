@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001696,
-    "geom:area_square_m":12795275.338258,
+    "geom:area_square_m":12795275.338257,
     "geom:bbox":"-0.682661016499,52.3644283348,-0.613776156888,52.4196826104",
     "geom:latitude":52.388407,
     "geom:longitude":-0.645656,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.383687,
     "lbl:longitude":-0.642284,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cranford"
@@ -60,12 +66,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006769"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343290693
     ],
     "wof:country":"GB",
-    "wof:geomhash":"82762569dcc2dde52ae2913442f8e8ad",
+    "wof:geomhash":"a982c4bd1a1337010465df11b1ba15e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404441861,
     "wof:label":"Cranford Civil Parish",
-    "wof:lastmodified":1566631744,
+    "wof:lastmodified":1695876902,
     "wof:name":"Cranford",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

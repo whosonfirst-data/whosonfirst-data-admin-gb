@@ -10,12 +10,18 @@
     "geom:latitude":52.57159,
     "geom:longitude":-2.289883,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.568717,
     "lbl:longitude":-2.298768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rudge"
@@ -46,12 +52,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011348"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758437
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bd7fb11dc78b55afe463796b5e6e9773",
+    "wof:geomhash":"39ff40a64ad2a0e157d132c3bc496caa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404452703,
     "wof:label":"Rudge Civil Parish",
-    "wof:lastmodified":1566632224,
+    "wof:lastmodified":1695877110,
     "wof:name":"Rudge",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

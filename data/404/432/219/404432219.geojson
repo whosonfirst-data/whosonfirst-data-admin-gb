@@ -10,12 +10,18 @@
     "geom:latitude":50.819152,
     "geom:longitude":-3.827861,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.817787,
     "lbl:longitude":-3.82465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zeal Monachorum"
@@ -63,12 +69,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003064"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879433
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b73b392b5bec058599f7d65a446d956f",
+    "wof:geomhash":"fb4b1a4a59f881e16845ceee035a83c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432219,
     "wof:label":"Zeal Monachorum Civil Parish",
-    "wof:lastmodified":1566633871,
+    "wof:lastmodified":1695877845,
     "wof:name":"Zeal Monachorum",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

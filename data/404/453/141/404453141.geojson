@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00591,
-    "geom:area_square_m":44892557.52421,
+    "geom:area_square_m":44892557.524211,
     "geom:bbox":"-4.2564540665,52.048436085,-4.14720029823,52.1435572551",
     "geom:latitude":52.098327,
     "geom:longitude":-4.208867,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.099948,
     "lbl:longitude":-4.208874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanwenog Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000390"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209850905
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a33614eeb404fb729a8e062c9aaefff1",
+    "wof:geomhash":"93412bdcbb8302c93e13746a6b1dd8a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453141,
-    "wof:lastmodified":1566632851,
+    "wof:lastmodified":1695877395,
     "wof:name":"Llanwenog Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

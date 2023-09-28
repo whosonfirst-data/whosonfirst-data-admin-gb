@@ -10,12 +10,18 @@
     "geom:latitude":50.832622,
     "geom:longitude":-2.326053,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.83208,
     "lbl:longitude":-2.31792,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0644\u062a\u0648\u0646"
@@ -99,12 +105,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003414"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276687825
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e68e719a8b908e1073b6c3d221ebb855",
+    "wof:geomhash":"7621848f591ef85da115a8987f8d1459",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404445611,
     "wof:label":"Hilton Civil Parish",
-    "wof:lastmodified":1566633334,
+    "wof:lastmodified":1695877609,
     "wof:name":"Hilton",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

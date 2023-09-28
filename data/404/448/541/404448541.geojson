@@ -10,12 +10,18 @@
     "geom:latitude":50.975325,
     "geom:longitude":-1.68667,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.975666,
     "lbl:longitude":-1.69139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Redlynch"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011803"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125870047
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d32812e498a2aec45c59a3d7ab0c699f",
+    "wof:geomhash":"47560f438e60e291639cc9baca3ec085",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448541,
     "wof:label":"Redlynch Civil Parish",
-    "wof:lastmodified":1566631567,
+    "wof:lastmodified":1695876843,
     "wof:name":"Redlynch",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

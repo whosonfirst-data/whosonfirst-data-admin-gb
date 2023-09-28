@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001243,
-    "geom:area_square_m":9566545.320059,
+    "geom:area_square_m":9566545.320061,
     "geom:bbox":"-3.35116105523,51.467377861,-3.30363836839,51.5094749112",
     "geom:latitude":51.489813,
     "geom:longitude":-3.327967,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.491715,
     "lbl:longitude":-3.330344,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peterston-Super-Ely Community"
@@ -40,12 +46,15 @@
         1360698899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000666"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310034909
     ],
     "wof:country":"GB",
-    "wof:geomhash":"085ffa3a6535422c8838ad199d2fe949",
+    "wof:geomhash":"255e063e6479f8fe409727a4dee63980",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435029,
-    "wof:lastmodified":1566634054,
+    "wof:lastmodified":1695877926,
     "wof:name":"Peterston-Super-Ely Community",
     "wof:parent_id":1360698899,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.250143,
     "geom:longitude":-0.947547,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.248262,
     "lbl:longitude":-0.943494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Duston"
@@ -59,9 +65,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04006793",
         "gn:id":7301965,
         "qs_pg:id":380469
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757419
     ],
@@ -69,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01e080fffde4c0e373bdffe24e41cdb0",
+    "wof:geomhash":"13e20de279c8301fd000cc128760065a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +90,7 @@
     ],
     "wof:id":404441963,
     "wof:label":"Duston Civil Parish",
-    "wof:lastmodified":1582311071,
+    "wof:lastmodified":1695877956,
     "wof:name":"Duston",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

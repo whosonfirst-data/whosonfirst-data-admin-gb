@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004271,
-    "geom:area_square_m":30046657.985661,
+    "geom:area_square_m":30046657.985659,
     "geom:bbox":"-1.96762661995,55.2927318846,-1.82355789727,55.3552245182",
     "geom:latitude":55.327493,
     "geom:longitude":-1.896486,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.330409,
     "lbl:longitude":-1.879615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cartington"
@@ -55,12 +61,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010758"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759835
     ],
     "wof:country":"GB",
-    "wof:geomhash":"785548429047e70c50f8006e321524a6",
+    "wof:geomhash":"67e55e64017bea9052cfc6603c380849",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404445907,
     "wof:label":"Cartington Civil Parish",
-    "wof:lastmodified":1566633307,
+    "wof:lastmodified":1695877597,
     "wof:name":"Cartington",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

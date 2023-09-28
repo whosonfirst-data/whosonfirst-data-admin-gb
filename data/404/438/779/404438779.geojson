@@ -10,12 +10,18 @@
     "geom:latitude":52.306013,
     "geom:longitude":1.514958,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.304398,
     "lbl:longitude":1.51443,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bramfield"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009375"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843799
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d4bd80c0ed1cf289b049e16f0cd1975a",
+    "wof:geomhash":"91cf8a8278a8bf7cf4a1d10da12dde09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404438779,
     "wof:label":"Bramfield Civil Parish",
-    "wof:lastmodified":1566632588,
+    "wof:lastmodified":1695877271,
     "wof:name":"Bramfield",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

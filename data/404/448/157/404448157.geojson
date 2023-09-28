@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003656,
-    "geom:area_square_m":27478606.788366,
+    "geom:area_square_m":27478606.788364,
     "geom:bbox":"-1.71866332741,52.5382396628,-1.60606122969,52.5983733369",
     "geom:latitude":52.566208,
     "geom:longitude":-1.660217,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.5638,
     "lbl:longitude":-1.656385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kingsbury"
@@ -87,12 +93,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009644"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853067
     ],
     "wof:country":"GB",
-    "wof:geomhash":"21bada6ce8d9627442b2f1ae5ccf1180",
+    "wof:geomhash":"89da66354a6d0bf9c3fd8bd92b93be91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404448157,
     "wof:label":"Kingsbury Civil Parish",
-    "wof:lastmodified":1566631464,
+    "wof:lastmodified":1695876798,
     "wof:name":"Kingsbury",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.047586,
     "geom:longitude":-3.229697,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.046839,
     "lbl:longitude":-3.230021,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Halse"
@@ -51,12 +57,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008796"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209550893
     ],
     "wof:country":"GB",
-    "wof:geomhash":"39701de8c77505676ef91dd77432aa13",
+    "wof:geomhash":"f87e585d0b2fe3829bcf0f2c3e2a1c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404454121,
     "wof:label":"Halse Civil Parish",
-    "wof:lastmodified":1566632691,
+    "wof:lastmodified":1695877321,
     "wof:name":"Halse",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

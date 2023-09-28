@@ -10,12 +10,18 @@
     "geom:latitude":52.072227,
     "geom:longitude":-2.851897,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.069382,
     "lbl:longitude":-2.846581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bridge Sollers"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000708"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310135041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b08f208b5f163c0e2afebeb5baeda8c3",
+    "wof:geomhash":"7db8f32dace83ff55d3ac7735b1de3b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404437361,
     "wof:label":"Bridge Sollers Civil Parish",
-    "wof:lastmodified":1566632102,
+    "wof:lastmodified":1695877060,
     "wof:name":"Bridge Sollers",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

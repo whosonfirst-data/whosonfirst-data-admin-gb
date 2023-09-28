@@ -10,12 +10,18 @@
     "geom:latitude":51.91555,
     "geom:longitude":-2.568143,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.910896,
     "lbl:longitude":-2.563697,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ross Rural"
@@ -40,12 +46,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000863"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758757
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3585b7a5902e04ef4386d75b371c33f8",
+    "wof:geomhash":"cdb0bfae5158ecec88026d2a13fe6210",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404444237,
     "wof:label":"Ross Rural Civil Parish",
-    "wof:lastmodified":1566632965,
+    "wof:lastmodified":1695877441,
     "wof:name":"Ross Rural",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

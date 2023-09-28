@@ -10,12 +10,18 @@
     "geom:latitude":53.27655,
     "geom:longitude":-2.765878,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.276176,
     "lbl:longitude":-2.767543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0644\u0633\u0628\u064a"
@@ -75,12 +81,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011112"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871957
     ],
     "wof:country":"GB",
-    "wof:geomhash":"44051b7a362662f9b798186439464e86",
+    "wof:geomhash":"9817e50848688860451c2f4387470241",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404451731,
     "wof:label":"Helsby Civil Parish",
-    "wof:lastmodified":1566633430,
+    "wof:lastmodified":1695877652,
     "wof:name":"Helsby",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

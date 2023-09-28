@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001443,
-    "geom:area_square_m":11015063.475707,
+    "geom:area_square_m":11015063.475708,
     "geom:bbox":"-1.51664766589,51.8570485286,-1.43615268427,51.8920771856",
     "geom:latitude":51.87621,
     "geom:longitude":-1.47656,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.874613,
     "lbl:longitude":-1.473223,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0627\u0631\u0644\u0628\u0648\u0631\u06cc"
@@ -90,12 +96,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008271"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852929
     ],
     "wof:country":"GB",
-    "wof:geomhash":"044d2526f0bc7197720e5d4da43cb30f",
+    "wof:geomhash":"5971b58866f5835294e47e5009ed8f68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404430933,
     "wof:label":"Charlbury Civil Parish",
-    "wof:lastmodified":1566632007,
+    "wof:lastmodified":1695877017,
     "wof:name":"Charlbury",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

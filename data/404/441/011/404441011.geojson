@@ -10,12 +10,18 @@
     "geom:latitude":50.838525,
     "geom:longitude":-2.544936,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.83691,
     "lbl:longitude":-2.544934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Batcombe"
@@ -54,12 +60,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003497"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125842461
     ],
     "wof:country":"GB",
-    "wof:geomhash":"468355ae3f7095bd707025bee56bc05f",
+    "wof:geomhash":"e59e6d607061c09d97b4429073cf6837",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404441011,
     "wof:label":"Batcombe Civil Parish",
-    "wof:lastmodified":1566631793,
+    "wof:lastmodified":1695876922,
     "wof:name":"Batcombe",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

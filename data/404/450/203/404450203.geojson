@@ -10,12 +10,18 @@
     "geom:latitude":50.732949,
     "geom:longitude":-2.820056,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.732658,
     "lbl:longitude":-2.819614,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chideock"
@@ -69,12 +75,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003525"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880457
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1565ab0748fce74699b683589bb12a6c",
+    "wof:geomhash":"ac8d72fffdc94c5954f954edd0ea0aed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404450203,
     "wof:label":"Chideock Civil Parish",
-    "wof:lastmodified":1566633774,
+    "wof:lastmodified":1695877807,
     "wof:name":"Chideock",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001559,
-    "geom:area_square_m":11833504.781136,
+    "geom:area_square_m":11833504.781135,
     "geom:bbox":"0.312465834498,52.1010925798,0.398343478868,52.1328912705",
     "geom:latitude":52.117221,
     "geom:longitude":0.357559,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.117623,
     "lbl:longitude":0.358213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Wickham"
@@ -60,12 +66,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001850"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293418679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"59f090766be2ce720b011cfd558694de",
+    "wof:geomhash":"37b79d2e90e65dac47342331d5d3b778",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404437765,
     "wof:label":"West Wickham Civil Parish",
-    "wof:lastmodified":1566632058,
+    "wof:lastmodified":1695877040,
     "wof:name":"West Wickham",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

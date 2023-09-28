@@ -10,12 +10,18 @@
     "geom:latitude":52.356675,
     "geom:longitude":1.565932,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.355587,
     "lbl:longitude":1.563545,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sotherton"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009526"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125990227
     ],
     "wof:country":"GB",
-    "wof:geomhash":"602fba01630a6a162d0c04b913cb2595",
+    "wof:geomhash":"9e58aa0031f99bc34ffb48b5c846fc8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404444913,
     "wof:label":"Sotherton Civil Parish",
-    "wof:lastmodified":1566632923,
+    "wof:lastmodified":1695877423,
     "wof:name":"Sotherton",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

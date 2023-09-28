@@ -10,12 +10,18 @@
     "geom:latitude":52.667014,
     "geom:longitude":-0.742014,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.664347,
     "lbl:longitude":-0.733946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Oakham"
@@ -117,12 +123,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000661"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854931
     ],
     "wof:country":"GB",
-    "wof:geomhash":"98d887bb9e06d19700cdebc1f1d24934",
+    "wof:geomhash":"03a49e02c3f13db9510869da5aa957e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +144,7 @@
     ],
     "wof:id":404438907,
     "wof:label":"Oakham Civil Parish",
-    "wof:lastmodified":1566632537,
+    "wof:lastmodified":1695877250,
     "wof:name":"Oakham",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

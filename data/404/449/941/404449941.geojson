@@ -10,12 +10,18 @@
     "geom:latitude":50.978729,
     "geom:longitude":-1.90784,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.97982,
     "lbl:longitude":-1.907843,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Mart\u00edn"
@@ -160,12 +166,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004577"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754403
     ],
     "wof:country":"GB",
-    "wof:geomhash":"576c6ed6cc190411906d6bbd9c3b02a3",
+    "wof:geomhash":"a7dac31f92f689791718e99475e57e37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +187,7 @@
     ],
     "wof:id":404449941,
     "wof:label":"Martin Civil Parish",
-    "wof:lastmodified":1566631390,
+    "wof:lastmodified":1695878334,
     "wof:name":"Martin",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

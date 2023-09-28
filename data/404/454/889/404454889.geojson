@@ -10,12 +10,18 @@
     "geom:latitude":52.530058,
     "geom:longitude":-3.06215,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.529147,
     "lbl:longitude":-3.056956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Churchstoke Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000263"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126028561
     ],
     "wof:country":"GB",
-    "wof:geomhash":"251d5e45b673bc7068ed068b755e146d",
+    "wof:geomhash":"de24a183879ac8125af2fbeea64aee2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454889,
-    "wof:lastmodified":1566632660,
+    "wof:lastmodified":1695877306,
     "wof:name":"Churchstoke Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

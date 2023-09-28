@@ -10,12 +10,18 @@
     "geom:latitude":52.032054,
     "geom:longitude":0.249339,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.026756,
     "lbl:longitude":0.242957,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Saffron Walden"
@@ -102,12 +108,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004159"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854759
     ],
     "wof:country":"GB",
-    "wof:geomhash":"06d246bdf1baed35d2941ae1d3c24b97",
+    "wof:geomhash":"f3c1df5fc18b9c0f4ff7713ec5a6450f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404446933,
     "wof:label":"Saffron Walden Civil Parish",
-    "wof:lastmodified":1566631665,
+    "wof:lastmodified":1695876873,
     "wof:name":"Saffron Walden",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

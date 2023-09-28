@@ -10,12 +10,18 @@
     "geom:latitude":53.143195,
     "geom:longitude":-2.683764,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.14422,
     "lbl:longitude":-2.684419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tiverton"
@@ -72,12 +78,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011180"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293127679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c01b916f98d7992dcea8041fdbfe143c",
+    "wof:geomhash":"9b1a5a214c8f3eb2af9515c992252a28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404440935,
     "wof:label":"Tiverton Civil Parish",
-    "wof:lastmodified":1566631183,
+    "wof:lastmodified":1695878242,
     "wof:name":"Tiverton",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

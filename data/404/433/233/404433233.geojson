@@ -10,12 +10,18 @@
     "geom:latitude":51.428103,
     "geom:longitude":-0.878886,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.428652,
     "lbl:longitude":-0.877034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winnersh"
@@ -60,12 +66,15 @@
         1360698967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001240"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125928983
     ],
     "wof:country":"GB",
-    "wof:geomhash":"57b42286d1c91adb9cc68e25d8e76335",
+    "wof:geomhash":"4985e189ccad3a835ba285e67739e1e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404433233,
     "wof:label":"Winnersh Civil Parish",
-    "wof:lastmodified":1566633674,
+    "wof:lastmodified":1695877763,
     "wof:name":"Winnersh",
     "wof:parent_id":1360698967,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012189,
-    "geom:area_square_m":92231719.031444,
+    "geom:area_square_m":92231719.031443,
     "geom:bbox":"-3.92402915261,52.2184380403,-3.70567846815,52.3181666903",
     "geom:latitude":52.270016,
     "geom:longitude":-3.816665,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.276726,
     "lbl:longitude":-3.824116,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ystrad Fflur Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000406"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711597
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f44c7a9820785bf41c7922da6f0bb0e",
+    "wof:geomhash":"263582f2279f224b482d0a13fa87adeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404447431,
-    "wof:lastmodified":1566631271,
+    "wof:lastmodified":1695878281,
     "wof:name":"Ystrad Fflur Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

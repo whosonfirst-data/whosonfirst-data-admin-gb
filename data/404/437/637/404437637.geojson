@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001496,
-    "geom:area_square_m":11065709.072952,
+    "geom:area_square_m":11065709.072951,
     "geom:bbox":"-4.33385151181,53.2380515034,-4.27117360698,53.2811539411",
     "geom:latitude":53.260049,
     "geom:longitude":-4.306057,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.261714,
     "lbl:longitude":-4.311753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangefni Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000024"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872207
     ],
     "wof:country":"GB",
-    "wof:geomhash":"41ebd2becf5ea027d16451d41d2691fb",
+    "wof:geomhash":"6f3e623ee30bf5e20f106e40ff33a7e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437637,
-    "wof:lastmodified":1566632138,
+    "wof:lastmodified":1695877073,
     "wof:name":"Llangefni Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

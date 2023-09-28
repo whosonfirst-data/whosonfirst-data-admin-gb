@@ -10,12 +10,18 @@
     "geom:latitude":53.194308,
     "geom:longitude":-2.836035,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.192922,
     "lbl:longitude":-2.84128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Littleton"
@@ -87,12 +93,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011132"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360113491
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3275f255497d0a517fd4ab7ebce20cb2",
+    "wof:geomhash":"abffa8cc76858b9ccfcb2360eb966856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404434113,
     "wof:label":"Littleton Civil Parish",
-    "wof:lastmodified":1566633632,
+    "wof:lastmodified":1695877744,
     "wof:name":"Littleton",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

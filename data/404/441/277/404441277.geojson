@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002611,
-    "geom:area_square_m":20161528.506092,
+    "geom:area_square_m":20161528.506091,
     "geom:bbox":"0.331446056371,51.3253871487,0.392548908436,51.39482613",
     "geom:latitude":51.363658,
     "geom:longitude":0.359153,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.361894,
     "lbl:longitude":0.361633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Meopham"
@@ -75,12 +81,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004938"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854621
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ac87581cd0e95ce6117b233032a51311",
+    "wof:geomhash":"afea5153e5716b05b37f2015b79460bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404441277,
     "wof:label":"Meopham Civil Parish",
-    "wof:lastmodified":1566631789,
+    "wof:lastmodified":1695876920,
     "wof:name":"Meopham",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

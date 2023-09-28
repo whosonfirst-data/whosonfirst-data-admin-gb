@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002127,
-    "geom:area_square_m":16220318.078494,
+    "geom:area_square_m":16220318.078493,
     "geom:bbox":"-2.07394625619,51.9020172449,-1.97691487824,51.9515430148",
     "geom:latitude":51.924067,
     "geom:longitude":-2.020858,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.922613,
     "lbl:longitude":-2.020132,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648\u062b\u0647\u0627\u0645"
@@ -96,12 +102,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004419"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992407
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f9fd5585a040da2720fb6c35f36d7bab",
+    "wof:geomhash":"1f1bb799f40708fc17398eaa96ab7c7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404453235,
     "wof:label":"Southam Civil Parish",
-    "wof:lastmodified":1566632780,
+    "wof:lastmodified":1695877365,
     "wof:name":"Southam",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.229098,
     "geom:longitude":-0.132159,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.227923,
     "lbl:longitude":-0.132522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nutfield"
@@ -48,12 +54,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009591"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869989
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4caef996ab4e778395fe82f1bed62d4d",
+    "wof:geomhash":"30830753afb67a84efc06894b17a4613",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404429881,
     "wof:label":"Nutfield Civil Parish",
-    "wof:lastmodified":1566633116,
+    "wof:lastmodified":1695877513,
     "wof:name":"Nutfield",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

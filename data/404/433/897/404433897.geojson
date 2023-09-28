@@ -10,12 +10,18 @@
     "geom:latitude":53.598532,
     "geom:longitude":-1.023444,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.596393,
     "lbl:longitude":-1.024135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stainforth"
@@ -52,12 +58,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000092"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754961
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1baf0b166bd9ad79f1461cd5850baea2",
+    "wof:geomhash":"0c7457ecf0ddec58afb3d470c1b5386a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404433897,
     "wof:label":"Stainforth Civil Parish",
-    "wof:lastmodified":1566633729,
+    "wof:lastmodified":1695877788,
     "wof:name":"Stainforth",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

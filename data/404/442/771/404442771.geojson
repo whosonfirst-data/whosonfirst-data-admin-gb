@@ -10,12 +10,18 @@
     "geom:latitude":52.579167,
     "geom:longitude":-1.543265,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.579915,
     "lbl:longitude":-1.544546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u062a\u0631\u0633\u062a\u0648\u0646"
@@ -93,12 +99,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009630"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853065
     ],
     "wof:country":"GB",
-    "wof:geomhash":"18f1ebd0a38f274305d956c2e196536e",
+    "wof:geomhash":"e8948e1785e00bb54e60bd7b91d1baca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404442771,
     "wof:label":"Atherstone Civil Parish",
-    "wof:lastmodified":1566633242,
+    "wof:lastmodified":1695877570,
     "wof:name":"Atherstone",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.920554,
     "geom:longitude":-2.327721,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.91475,
     "lbl:longitude":-2.330485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sawley"
@@ -60,12 +66,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005280"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033701
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32d82de8adf5c9b4cd1acd364ddea2cc",
+    "wof:geomhash":"3e31d40f76e00b2851910e5ce06f1a04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404432543,
     "wof:label":"Sawley Civil Parish",
-    "wof:lastmodified":1566633912,
+    "wof:lastmodified":1695877856,
     "wof:name":"Sawley",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

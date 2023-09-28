@@ -10,12 +10,18 @@
     "geom:latitude":54.468448,
     "geom:longitude":-1.959771,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.467364,
     "lbl:longitude":-1.959779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hoop"
@@ -184,12 +190,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010646"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753009
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8a195ade4077ba7544477e7fd812adc8",
+    "wof:geomhash":"df3fa368b7467d44b59e9a137a41877a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,7 +211,7 @@
     ],
     "wof:id":404437695,
     "wof:label":"Hope Civil Parish",
-    "wof:lastmodified":1566632089,
+    "wof:lastmodified":1695877054,
     "wof:name":"Hope",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

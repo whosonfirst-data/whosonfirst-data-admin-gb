@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003298,
-    "geom:area_square_m":24931270.860983,
+    "geom:area_square_m":24931270.860984,
     "geom:bbox":"-3.35404269652,52.2825398761,-3.22253485854,52.3300635189",
     "geom:latitude":52.310921,
     "geom:longitude":-3.290907,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.308029,
     "lbl:longitude":-3.28447,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanddewi Ystradenny Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000291"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242612887
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7fe0e8342369aec73253349c966897ae",
+    "wof:geomhash":"2e458c22ed370edc97c67b18fe711690",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404431023,
-    "wof:lastmodified":1566632445,
+    "wof:lastmodified":1695877207,
     "wof:name":"Llanddewi Ystradenny Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

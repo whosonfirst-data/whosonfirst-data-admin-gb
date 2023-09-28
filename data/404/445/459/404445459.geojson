@@ -10,12 +10,18 @@
     "geom:latitude":52.589383,
     "geom:longitude":1.425137,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.590754,
     "lbl:longitude":1.425714,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rockland St. Mary"
@@ -42,12 +48,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006586"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125791437
     ],
     "wof:country":"GB",
-    "wof:geomhash":"73df4e682e673e7091080e37727206ab",
+    "wof:geomhash":"5b317759e465bb59c2ec478a56c48911",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404445459,
     "wof:label":"Rockland St. Mary Civil Parish",
-    "wof:lastmodified":1566633400,
+    "wof:lastmodified":1695877639,
     "wof:name":"Rockland St. Mary",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

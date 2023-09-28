@@ -10,12 +10,18 @@
     "geom:latitude":54.633321,
     "geom:longitude":-1.85151,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.630395,
     "lbl:longitude":-1.843086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lynesack and Softley"
@@ -43,12 +49,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010661"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753189
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f8c8808d2dd6580ec16d776f637b6e9",
+    "wof:geomhash":"0a57ab29703a6d18928abc6a7a71509c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404449161,
     "wof:label":"Lynesack and Softley Civil Parish",
-    "wof:lastmodified":1566631355,
+    "wof:lastmodified":1695878319,
     "wof:name":"Lynesack and Softley",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

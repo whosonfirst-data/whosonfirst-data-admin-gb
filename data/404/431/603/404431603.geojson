@@ -10,12 +10,18 @@
     "geom:latitude":51.057071,
     "geom:longitude":-1.995833,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.057223,
     "lbl:longitude":-1.995833,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fovant"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011719"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126058601
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b58766e211c624a4538f1fdf31aee210",
+    "wof:geomhash":"6e1e8a56447e3b660a504f7f7115a783",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431603,
     "wof:label":"Fovant Civil Parish",
-    "wof:lastmodified":1566632464,
+    "wof:lastmodified":1695877215,
     "wof:name":"Fovant",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

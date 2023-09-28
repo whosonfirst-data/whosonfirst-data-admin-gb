@@ -10,12 +10,18 @@
     "geom:latitude":51.908771,
     "geom:longitude":-1.900341,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.909138,
     "lbl:longitude":-1.903511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hawling"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004405"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126053017
     ],
     "wof:country":"GB",
-    "wof:geomhash":"31af4f4756fef4cd0c4ca4dc42c885ef",
+    "wof:geomhash":"12878b5ea23337f601017ca1f7705a46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454749,
     "wof:label":"Hawling Civil Parish",
-    "wof:lastmodified":1566632687,
+    "wof:lastmodified":1695877320,
     "wof:name":"Hawling",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

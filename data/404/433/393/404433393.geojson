@@ -10,12 +10,18 @@
     "geom:latitude":52.731891,
     "geom:longitude":-0.563971,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.733274,
     "lbl:longitude":-0.564424,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clipsham"
@@ -63,12 +69,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000636"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125909191
     ],
     "wof:country":"GB",
-    "wof:geomhash":"34bc29750a79d683d3fc28b6124ec0f8",
+    "wof:geomhash":"cc27c4b389b4765c898c6ff33d45904c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404433393,
     "wof:label":"Clipsham Civil Parish",
-    "wof:lastmodified":1566633699,
+    "wof:lastmodified":1695877775,
     "wof:name":"Clipsham",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.301542,
     "geom:longitude":0.948433,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.300244,
     "lbl:longitude":0.960067,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Walsham-Le-Willows"
@@ -42,12 +48,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009268"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126011129
     ],
     "wof:country":"GB",
-    "wof:geomhash":"33b83ee00dfaf0ce4c0399f2aba8560e",
+    "wof:geomhash":"dcc5904bff130f16b6fbd00ca5f96b4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404442215,
     "wof:label":"Walsham-Le-Willows Civil Parish",
-    "wof:lastmodified":1566633268,
+    "wof:lastmodified":1695877581,
     "wof:name":"Walsham-Le-Willows",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010124,
-    "geom:area_square_m":75612644.306182,
+    "geom:area_square_m":75612644.306181,
     "geom:bbox":"0.0149330120306,52.735628436,0.225997572366,52.920341055",
     "geom:latitude":52.840921,
     "geom:longitude":0.143295,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.853839,
     "lbl:longitude":0.16082,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gedney"
@@ -40,12 +46,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005856"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753339
     ],
     "wof:country":"GB",
-    "wof:geomhash":"89f05e6251fefb1168bdb774b7ef87b1",
+    "wof:geomhash":"69813702e3b8295b3e27273b867dd359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404432839,
     "wof:label":"Gedney Civil Parish",
-    "wof:lastmodified":1566633957,
+    "wof:lastmodified":1695877876,
     "wof:name":"Gedney",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

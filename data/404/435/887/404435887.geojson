@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002284,
-    "geom:area_square_m":17560022.913406,
+    "geom:area_square_m":17560022.913405,
     "geom:bbox":"-3.35400006033,51.5352860006,-3.27123611833,51.5817520829",
     "geom:latitude":51.561368,
     "geom:longitude":-3.317298,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.561916,
     "lbl:longitude":-3.321441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llantwit Fardre Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000689"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125993093
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7d51cfe58c7cd8efd87bfea4f56c4438",
+    "wof:geomhash":"e8444fa542afeb4eb7f91356359ec707",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435887,
-    "wof:lastmodified":1566633998,
+    "wof:lastmodified":1695877896,
     "wof:name":"Llantwit Fardre Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

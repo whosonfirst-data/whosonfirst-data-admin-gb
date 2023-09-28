@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000493,
-    "geom:area_square_m":3813543.022217,
+    "geom:area_square_m":3813543.022218,
     "geom:bbox":"0.383877213656,51.2742826858,0.421078640856,51.3006591344",
     "geom:latitude":51.288955,
     "geom:longitude":0.402895,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.290403,
     "lbl:longitude":0.402897,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0633\u062a \u0645\u0627\u0644\u06cc\u0646\u0642"
@@ -87,12 +93,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005111"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125951821
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6549f908b87f0ab76990bb477e1b7a71",
+    "wof:geomhash":"3e44f2585fd82d7b317a8cb3f27e4855",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404443549,
     "wof:label":"West Malling Civil Parish",
-    "wof:lastmodified":1566633078,
+    "wof:lastmodified":1695877495,
     "wof:name":"West Malling",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

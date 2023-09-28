@@ -10,12 +10,18 @@
     "geom:latitude":52.498957,
     "geom:longitude":-1.280642,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.499399,
     "lbl:longitude":-1.280984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Claybrooke Magna"
@@ -54,12 +60,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005413"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260213043
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fc177c6151461a5283a50af674a108ce",
+    "wof:geomhash":"78cceb9c3f301a2b01b6ea20c2ad89b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404431923,
     "wof:label":"Claybrooke Magna Civil Parish",
-    "wof:lastmodified":1566632476,
+    "wof:lastmodified":1695877221,
     "wof:name":"Claybrooke Magna",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

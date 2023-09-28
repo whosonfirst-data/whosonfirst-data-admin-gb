@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00373,
-    "geom:area_square_m":28178846.928602,
+    "geom:area_square_m":28178846.928603,
     "geom:bbox":"-4.09247222686,52.3174245586,-3.95459890594,52.368945124",
     "geom:latitude":52.343025,
     "geom:longitude":-4.022575,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.349046,
     "lbl:longitude":-4.038691,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanilar Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000386"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125911543
     ],
     "wof:country":"GB",
-    "wof:geomhash":"570f3ff92069cec742bc1840cea4c018",
+    "wof:geomhash":"4a6e7dca86952d3e3b288f0c6230f815",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404447177,
-    "wof:lastmodified":1566631334,
+    "wof:lastmodified":1695878311,
     "wof:name":"Llanilar Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

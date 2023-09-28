@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002325,
-    "geom:area_square_m":17784876.863508,
+    "geom:area_square_m":17784876.863509,
     "geom:bbox":"-3.1438956488,51.7570378324,-3.04347800693,51.7961864202",
     "geom:latitude":51.776927,
     "geom:longitude":-3.093557,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.775821,
     "lbl:longitude":-3.094509,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blaenavon Community"
@@ -40,12 +46,15 @@
         1360698919
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000760"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852773
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4068ab3ab8c85ca1948b92474312ed04",
+    "wof:geomhash":"3377a9239c7fe052995564f7579f6834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443947,
-    "wof:lastmodified":1566633032,
+    "wof:lastmodified":1695877474,
     "wof:name":"Blaenavon Community",
     "wof:parent_id":1360698919,
     "wof:placetype":"localadmin",

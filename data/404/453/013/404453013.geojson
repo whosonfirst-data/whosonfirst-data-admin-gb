@@ -10,12 +10,18 @@
     "geom:latitude":52.122265,
     "geom:longitude":-3.060869,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.122821,
     "lbl:longitude":-3.059167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitney-On-Wye"
@@ -42,12 +48,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000909"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125804117
     ],
     "wof:country":"GB",
-    "wof:geomhash":"073b5a11af8d74e58ec160cf4dc8e7b5",
+    "wof:geomhash":"90b3b0b4d1a1cfe9336ee5fa3ca28fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404453013,
     "wof:label":"Whitney-On-Wye Civil Parish",
-    "wof:lastmodified":1566632770,
+    "wof:lastmodified":1695877360,
     "wof:name":"Whitney-On-Wye",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

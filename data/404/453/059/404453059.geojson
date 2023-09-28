@@ -10,12 +10,18 @@
     "geom:latitude":51.813424,
     "geom:longitude":-1.137862,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.812036,
     "lbl:longitude":-1.137419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Horton-Cum-Studley"
@@ -42,12 +48,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008055"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125915109
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d9d962fbf649dfa774f34d6a092d418e",
+    "wof:geomhash":"cc751c4bb25ed87962d80557200dc794",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404453059,
     "wof:label":"Horton-Cum-Studley Civil Parish",
-    "wof:lastmodified":1566632835,
+    "wof:lastmodified":1695877389,
     "wof:name":"Horton-Cum-Studley",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

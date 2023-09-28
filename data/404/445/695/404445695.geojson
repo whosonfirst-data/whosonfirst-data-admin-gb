@@ -10,12 +10,18 @@
     "geom:latitude":53.722494,
     "geom:longitude":-0.444976,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.723268,
     "lbl:longitude":-0.445434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0633\u0644"
@@ -90,12 +96,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000410"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882609
     ],
     "wof:country":"GB",
-    "wof:geomhash":"23f5e37c0c47133519478f92267c1dcc",
+    "wof:geomhash":"43fd6794e0bddd44f755873cb16c5113",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404445695,
     "wof:label":"Hessle Civil Parish",
-    "wof:lastmodified":1566633347,
+    "wof:lastmodified":1695877616,
     "wof:name":"Hessle",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

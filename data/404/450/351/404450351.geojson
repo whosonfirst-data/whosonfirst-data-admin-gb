@@ -10,12 +10,18 @@
     "geom:latitude":53.930746,
     "geom:longitude":-1.702375,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.926579,
     "lbl:longitude":-1.705049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Newall with Clifton"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007395"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755019
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7a5c5fefa900ccdb37ab9d99892725ad",
+    "wof:geomhash":"3114333e22dfce940f83d776bc5a38a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404450351,
     "wof:label":"Newall with Clifton Civil Parish",
-    "wof:lastmodified":1566633801,
+    "wof:lastmodified":1695877818,
     "wof:name":"Newall with Clifton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

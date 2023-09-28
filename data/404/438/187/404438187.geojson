@@ -10,12 +10,18 @@
     "geom:latitude":53.138142,
     "geom:longitude":-2.618241,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.137876,
     "lbl:longitude":-2.62067,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alpraham"
@@ -58,12 +64,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010893"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753863
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4339b78c9da04b55aeecea2331b53af8",
+    "wof:geomhash":"cf6253524b851953891ff2266f3814a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404438187,
     "wof:label":"Alpraham Civil Parish",
-    "wof:lastmodified":1566632576,
+    "wof:lastmodified":1695877267,
     "wof:name":"Alpraham",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

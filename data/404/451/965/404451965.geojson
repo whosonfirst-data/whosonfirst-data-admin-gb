@@ -10,12 +10,18 @@
     "geom:latitude":53.508403,
     "geom:longitude":-2.998379,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.5072,
     "lbl:longitude":-2.99727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062b\u0648\u0631\u0646\u062a\u0648\u0646"
@@ -106,12 +112,15 @@
         1360698771
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000036"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757563
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fb207fd3affc96c16f9fc59bd24cf9dc",
+    "wof:geomhash":"93ddb493a00319be241445236fafb896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,7 +133,7 @@
     ],
     "wof:id":404451965,
     "wof:label":"Thornton Civil Parish",
-    "wof:lastmodified":1566633423,
+    "wof:lastmodified":1695877649,
     "wof:name":"Thornton",
     "wof:parent_id":1360698771,
     "wof:placetype":"localadmin",

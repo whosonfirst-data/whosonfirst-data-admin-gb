@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000661,
-    "geom:area_square_m":4972676.354659,
+    "geom:area_square_m":4972676.35466,
     "geom:bbox":"-0.35435039896,52.4967732526,-0.294054851044,52.5189150788",
     "geom:latitude":52.508255,
     "geom:longitude":-0.327611,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.506235,
     "lbl:longitude":-0.332165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0628\u0631\u0646"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001722"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344186491
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4d06dd82ce0f0745db698537395f86af",
+    "wof:geomhash":"263d19fd8cac52f3ce02df034ad3dda7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404440489,
     "wof:label":"Morborne Civil Parish",
-    "wof:lastmodified":1566631205,
+    "wof:lastmodified":1695878252,
     "wof:name":"Morborne",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

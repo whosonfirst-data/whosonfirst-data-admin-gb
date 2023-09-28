@@ -10,12 +10,18 @@
     "geom:latitude":54.071731,
     "geom:longitude":-1.495615,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.070529,
     "lbl:longitude":-1.4988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burton Leonard"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007320"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1193165935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"19a75f47498010518898783d6a744eff",
+    "wof:geomhash":"3d7045728bc87440bb9ecb2ec2f3cf30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440307,
     "wof:label":"Burton Leonard Civil Parish",
-    "wof:lastmodified":1566631122,
+    "wof:lastmodified":1695878213,
     "wof:name":"Burton Leonard",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

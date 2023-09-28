@@ -10,12 +10,18 @@
     "geom:latitude":51.819468,
     "geom:longitude":-1.627802,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.819804,
     "lbl:longitude":-1.623071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fulbrook"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008290"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125784111
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1ff1fd99dd28b1e54c26b10f872d2e67",
+    "wof:geomhash":"de199dc069df1308005e08833569c22f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452843,
     "wof:label":"Fulbrook Civil Parish",
-    "wof:lastmodified":1566632189,
+    "wof:lastmodified":1695877095,
     "wof:name":"Fulbrook",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

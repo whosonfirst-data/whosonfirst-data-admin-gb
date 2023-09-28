@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001462,
-    "geom:area_square_m":11148533.052204,
+    "geom:area_square_m":11148533.052203,
     "geom:bbox":"0.26484396752,51.8915043207,0.321566701845,51.9521614672",
     "geom:latitude":51.919283,
     "geom:longitude":0.292123,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.912023,
     "lbl:longitude":0.287019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broxted"
@@ -60,12 +66,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004121"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125942015
     ],
     "wof:country":"GB",
-    "wof:geomhash":"309f95539893cea29bf1de9a622a6ac6",
+    "wof:geomhash":"3639dbe35db7402892b16256eb58d25e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404443831,
     "wof:label":"Broxted Civil Parish",
-    "wof:lastmodified":1566633066,
+    "wof:lastmodified":1695877490,
     "wof:name":"Broxted",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

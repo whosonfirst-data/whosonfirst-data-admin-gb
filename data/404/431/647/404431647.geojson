@@ -10,12 +10,18 @@
     "geom:latitude":53.904052,
     "geom:longitude":-1.225901,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.903679,
     "lbl:longitude":-1.224745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Catterton"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007728"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756279
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b93dec1ba1281a7ec7dcff6a98845eb1",
+    "wof:geomhash":"eb9c690c444a4e8339a5d516f93733ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404431647,
     "wof:label":"Catterton Civil Parish",
-    "wof:lastmodified":1566632502,
+    "wof:lastmodified":1695877233,
     "wof:name":"Catterton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

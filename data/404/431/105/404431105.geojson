@@ -10,12 +10,18 @@
     "geom:latitude":50.834994,
     "geom:longitude":0.336828,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.832387,
     "lbl:longitude":0.347604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Pevensey"
@@ -87,12 +93,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003859"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125805123
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a7d645ef25f3150184ef2647fe512037",
+    "wof:geomhash":"307dd3a67b0b42b55c1c1757c527da9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404431105,
     "wof:label":"Pevensey Civil Parish",
-    "wof:lastmodified":1566632437,
+    "wof:lastmodified":1695877203,
     "wof:name":"Pevensey",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

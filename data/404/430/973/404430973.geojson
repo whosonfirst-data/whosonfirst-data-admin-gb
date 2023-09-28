@@ -10,12 +10,18 @@
     "geom:latitude":53.115795,
     "geom:longitude":-4.201581,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.10965,
     "lbl:longitude":-4.180296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waunfawr Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000103"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125787109
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3da447ffdab367496af87117767de9a4",
+    "wof:geomhash":"b0b4c3ed54f07aab28d5e3fa35e19fd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430973,
-    "wof:lastmodified":1566632037,
+    "wof:lastmodified":1695877032,
     "wof:name":"Waunfawr Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

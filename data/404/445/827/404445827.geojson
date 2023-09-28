@@ -10,12 +10,18 @@
     "geom:latitude":53.274938,
     "geom:longitude":-3.164215,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.276839,
     "lbl:longitude":-3.163466,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bagillt Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000179"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126008035
     ],
     "wof:country":"GB",
-    "wof:geomhash":"33902bec3276e9406a71399638632c3e",
+    "wof:geomhash":"a9e84c36b21666f0c02e1dd03361f3ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404445827,
-    "wof:lastmodified":1566633319,
+    "wof:lastmodified":1695877602,
     "wof:name":"Bagillt Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

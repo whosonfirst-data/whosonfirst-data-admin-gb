@@ -10,12 +10,18 @@
     "geom:latitude":51.055131,
     "geom:longitude":-1.197917,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.066625,
     "lbl:longitude":-1.187862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u06cc\u0686 \u0628\u0648\u0631\u0646"
@@ -72,12 +78,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004688"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226271869
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3b8397eea22383d7c955ee5f96ce08cc",
+    "wof:geomhash":"f8ca0839c1f7aeae04a4cc0772741cdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404431383,
     "wof:label":"Tichborne Civil Parish",
-    "wof:lastmodified":1566632470,
+    "wof:lastmodified":1695877218,
     "wof:name":"Tichborne",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

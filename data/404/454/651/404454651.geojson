@@ -10,12 +10,18 @@
     "geom:latitude":51.008119,
     "geom:longitude":-1.428756,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.007791,
     "lbl:longitude":-1.432223,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ampfield"
@@ -57,12 +63,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004592"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125960045
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b9f90f6c0adc0afb49088ad5c6396d47",
+    "wof:geomhash":"4354705718bda29ffb60dcb60c2f3be4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454651,
     "wof:label":"Ampfield Civil Parish",
-    "wof:lastmodified":1566632671,
+    "wof:lastmodified":1695877312,
     "wof:name":"Ampfield",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

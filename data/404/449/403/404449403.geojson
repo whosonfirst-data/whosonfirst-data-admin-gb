@@ -10,12 +10,18 @@
     "geom:latitude":52.284948,
     "geom:longitude":-2.292395,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.28617,
     "lbl:longitude":-2.291964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shrawley"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010341"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033773
     ],
     "wof:country":"GB",
-    "wof:geomhash":"54181ca62c4815492a938b673fb818cd",
+    "wof:geomhash":"76a6ecc395328f3220ee232276ce39f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404449403,
     "wof:label":"Shrawley Civil Parish",
-    "wof:lastmodified":1566631443,
+    "wof:lastmodified":1695876789,
     "wof:name":"Shrawley",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

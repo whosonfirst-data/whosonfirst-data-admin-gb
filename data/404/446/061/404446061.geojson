@@ -10,12 +10,18 @@
     "geom:latitude":52.172791,
     "geom:longitude":-0.889283,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.174236,
     "lbl:longitude":-0.891144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Courteenhall"
@@ -57,12 +63,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006816"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126000941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e33eb66c0850d4dc21f6d3d8dac0f2d5",
+    "wof:geomhash":"075a31f6922af3d13700c448937b3c87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446061,
     "wof:label":"Courteenhall Civil Parish",
-    "wof:lastmodified":1566631688,
+    "wof:lastmodified":1695876880,
     "wof:name":"Courteenhall",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

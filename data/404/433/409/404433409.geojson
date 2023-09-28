@@ -10,12 +10,18 @@
     "geom:latitude":52.874965,
     "geom:longitude":-1.539115,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.874507,
     "lbl:longitude":-1.539476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Findern"
@@ -66,12 +72,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002903"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125917603
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0ddce243df2c02fbad083dcb144af0c6",
+    "wof:geomhash":"1e6e21652c054c7ac9e45eafa7e09aff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404433409,
     "wof:label":"Findern Civil Parish",
-    "wof:lastmodified":1566633669,
+    "wof:lastmodified":1695877760,
     "wof:name":"Findern",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.85143,
     "geom:longitude":-1.076541,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.8507,
     "lbl:longitude":-1.078213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Piddington"
@@ -48,12 +54,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008073"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125990017
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0c0b5795456897534896148ff1bb7d31",
+    "wof:geomhash":"cc1bc2ef3c759dfef0e4dbcc2bbc0c07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404443533,
     "wof:label":"Piddington Civil Parish",
-    "wof:lastmodified":1566632989,
+    "wof:lastmodified":1695877452,
     "wof:name":"Piddington",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

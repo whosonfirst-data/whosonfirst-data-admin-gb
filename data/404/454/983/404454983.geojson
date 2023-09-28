@@ -10,12 +10,18 @@
     "geom:latitude":52.793161,
     "geom:longitude":-0.490402,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.79052,
     "lbl:longitude":-0.490406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Swinstead"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005944"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125954959
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d7bc053afbcf0b23ff8b89d93651b67a",
+    "wof:geomhash":"5cc88c62595a77129d70f58f3fd6291f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454983,
     "wof:label":"Swinstead Civil Parish",
-    "wof:lastmodified":1566632682,
+    "wof:lastmodified":1695877317,
     "wof:name":"Swinstead",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

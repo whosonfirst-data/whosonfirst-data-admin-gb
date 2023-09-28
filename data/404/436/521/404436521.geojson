@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000767,
-    "geom:area_square_m":5595407.804331,
+    "geom:area_square_m":5595407.80433,
     "geom:bbox":"-3.01169654806,53.8067679645,-2.95197335056,53.8310146629",
     "geom:latitude":53.820396,
     "geom:longitude":-2.979776,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.820673,
     "lbl:longitude":-2.979769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0628\u063a"
@@ -84,12 +90,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005172"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873263
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b062186ad715f65b6090c42b3e5d1019",
+    "wof:geomhash":"b016f6eb76c35c027b28eab51a10761b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404436521,
     "wof:label":"Staining Civil Parish",
-    "wof:lastmodified":1566632363,
+    "wof:lastmodified":1695877170,
     "wof:name":"Staining",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

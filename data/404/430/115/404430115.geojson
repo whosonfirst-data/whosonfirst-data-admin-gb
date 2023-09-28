@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000673,
-    "geom:area_square_m":5125821.358865,
+    "geom:area_square_m":5125821.358866,
     "geom:bbox":"1.13705570136,51.9856923018,1.18251835756,52.0198471498",
     "geom:latitude":52.005452,
     "geom:longitude":1.160772,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.005971,
     "lbl:longitude":1.160766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Freston"
@@ -45,12 +51,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009088"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977223
     ],
     "wof:country":"GB",
-    "wof:geomhash":"efde3ead57246028158cc3e59466c11b",
+    "wof:geomhash":"ca4571f422d8e8a67fea83495ea9aadc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404430115,
     "wof:label":"Freston Civil Parish",
-    "wof:lastmodified":1566632035,
+    "wof:lastmodified":1695877030,
     "wof:name":"Freston",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

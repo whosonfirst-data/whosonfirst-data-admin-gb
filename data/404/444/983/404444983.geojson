@@ -10,12 +10,18 @@
     "geom:latitude":52.603539,
     "geom:longitude":0.72559,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.602175,
     "lbl:longitude":0.7251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Pickenham"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006173"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033825
     ],
     "wof:country":"GB",
-    "wof:geomhash":"50ec76b5ac6ba1283be54dcdb6e77516",
+    "wof:geomhash":"3fecac380e9adaa6a383a5bc7ea73887",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444983,
     "wof:label":"South Pickenham Civil Parish",
-    "wof:lastmodified":1566632911,
+    "wof:lastmodified":1695877419,
     "wof:name":"South Pickenham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.011957,
     "geom:longitude":-2.316152,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.009699,
     "lbl:longitude":-2.316733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Berrow"
@@ -52,12 +58,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010287"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758099
     ],
     "wof:country":"GB",
-    "wof:geomhash":"516a728d431e8a3735f57f1e1665fcdc",
+    "wof:geomhash":"6b044ee9400ac9d043127650c2cabc91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404442969,
     "wof:label":"Berrow Civil Parish",
-    "wof:lastmodified":1566633259,
+    "wof:lastmodified":1695877577,
     "wof:name":"Berrow",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

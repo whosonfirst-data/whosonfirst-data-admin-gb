@@ -10,12 +10,18 @@
     "geom:latitude":52.472075,
     "geom:longitude":1.522885,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.473867,
     "lbl:longitude":1.522888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Geldeston"
@@ -57,12 +63,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006548"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125928435
     ],
     "wof:country":"GB",
-    "wof:geomhash":"36b56682edf7805fc200f6da484742df",
+    "wof:geomhash":"7a7c43d065131ee430e6404e0d07cd52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404441033,
     "wof:label":"Geldeston Civil Parish",
-    "wof:lastmodified":1566631809,
+    "wof:lastmodified":1695876930,
     "wof:name":"Geldeston",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

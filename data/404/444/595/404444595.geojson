@@ -10,12 +10,18 @@
     "geom:latitude":53.202597,
     "geom:longitude":-3.099054,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.202208,
     "lbl:longitude":-3.099325,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Northop Hall Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000203"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125765049
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2517d869a9ce1bafa2ff5120c422a79a",
+    "wof:geomhash":"1d2c699e628de9284bb75b8dea2fb9e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444595,
-    "wof:lastmodified":1566632868,
+    "wof:lastmodified":1695877403,
     "wof:name":"Northop Hall Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

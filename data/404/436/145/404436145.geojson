@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002458,
-    "geom:area_square_m":18863039.983558,
+    "geom:area_square_m":18863039.983557,
     "geom:bbox":"-2.38457450957,51.6192205191,-2.28338645604,51.6717126909",
     "geom:latitude":51.644617,
     "geom:longitude":-2.333806,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.637823,
     "lbl:longitude":-2.341476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wotton-Under-Edge"
@@ -42,12 +48,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004387"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226377859
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c0041b89feba0ef1618a5cefc2eeecc0",
+    "wof:geomhash":"2b4c4880c16b9ca40a22783a7f9969fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404436145,
     "wof:label":"Wotton-Under-Edge Civil Parish",
-    "wof:lastmodified":1566632362,
+    "wof:lastmodified":1695877169,
     "wof:name":"Wotton-Under-Edge",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

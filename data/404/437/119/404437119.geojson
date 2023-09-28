@@ -10,12 +10,18 @@
     "geom:latitude":51.127547,
     "geom:longitude":-2.809448,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.127714,
     "lbl:longitude":-2.808972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashcott"
@@ -60,12 +66,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008602"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125799427
     ],
     "wof:country":"GB",
-    "wof:geomhash":"01af6660dc5326cc2f666ad7d5427a7e",
+    "wof:geomhash":"1e109eeab92b710daef74cafc09de1db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404437119,
     "wof:label":"Ashcott Civil Parish",
-    "wof:lastmodified":1566632100,
+    "wof:lastmodified":1695877059,
     "wof:name":"Ashcott",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

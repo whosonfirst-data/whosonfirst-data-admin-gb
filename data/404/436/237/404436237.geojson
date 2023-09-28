@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001954,
-    "geom:area_square_m":15216054.534799,
+    "geom:area_square_m":15216054.5348,
     "geom:bbox":"0.426201169011,50.9368735663,0.502249208622,50.9750913725",
     "geom:latitude":50.957033,
     "geom:longitude":0.464779,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.955161,
     "lbl:longitude":0.469301,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mountfield"
@@ -54,12 +60,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003814"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030663
     ],
     "wof:country":"GB",
-    "wof:geomhash":"03fd90141722de916de775d60aaf194a",
+    "wof:geomhash":"9e8926648cbcf825ae983a08e68750cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404436237,
     "wof:label":"Mountfield Civil Parish",
-    "wof:lastmodified":1566632411,
+    "wof:lastmodified":1695877192,
     "wof:name":"Mountfield",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

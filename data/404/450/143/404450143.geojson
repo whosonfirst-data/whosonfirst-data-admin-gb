@@ -10,12 +10,18 @@
     "geom:latitude":54.437177,
     "geom:longitude":-0.846699,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.439223,
     "lbl:longitude":-0.830433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glaisdale"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007675"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e4d87488aa78b12e6a670e76d4eaa13f",
+    "wof:geomhash":"2f7a2a47b84d5460a9fa9093d58894b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404450143,
     "wof:label":"Glaisdale Civil Parish",
-    "wof:lastmodified":1566633788,
+    "wof:lastmodified":1695877812,
     "wof:name":"Glaisdale",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

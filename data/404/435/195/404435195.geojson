@@ -10,12 +10,18 @@
     "geom:latitude":54.334954,
     "geom:longitude":-1.624857,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.335717,
     "lbl:longitude":-1.625223,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hackforth"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007187"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209444253
     ],
     "wof:country":"GB",
-    "wof:geomhash":"47a1dbc059d8d401c4519d135611604c",
+    "wof:geomhash":"67dde30792f4608e000631893bb49709",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404435195,
     "wof:label":"Hackforth Civil Parish",
-    "wof:lastmodified":1566633983,
+    "wof:lastmodified":1695877887,
     "wof:name":"Hackforth",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

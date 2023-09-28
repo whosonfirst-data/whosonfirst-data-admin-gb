@@ -10,12 +10,18 @@
     "geom:latitude":52.011783,
     "geom:longitude":-2.608134,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.01002,
     "lbl:longitude":-2.608566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fownhope"
@@ -57,12 +63,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000761"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125902839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f2b1bad828b330a8a8173e79f02428b7",
+    "wof:geomhash":"67b41d612f16c6dabae32d15f2a30548",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404432281,
     "wof:label":"Fownhope Civil Parish",
-    "wof:lastmodified":1566633894,
+    "wof:lastmodified":1695877847,
     "wof:name":"Fownhope",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

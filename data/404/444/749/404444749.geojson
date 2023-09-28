@@ -10,12 +10,18 @@
     "geom:latitude":51.198704,
     "geom:longitude":-0.112293,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.199144,
     "lbl:longitude":-0.112297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Outwood"
@@ -51,12 +57,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009601"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125949951
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8d0bb55acda1b182a319a6db1fd0e395",
+    "wof:geomhash":"5b19ef3c0b86fc8290014cef4f66adfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404444749,
     "wof:label":"Outwood Civil Parish",
-    "wof:lastmodified":1566632918,
+    "wof:lastmodified":1695877421,
     "wof:name":"Outwood",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

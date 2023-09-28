@@ -10,12 +10,18 @@
     "geom:latitude":53.292659,
     "geom:longitude":-2.105811,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.291017,
     "lbl:longitude":-2.103885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0644\u06cc\u0646\u0642\u062a\u0648\u0646"
@@ -87,12 +93,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010910"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226171357
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fcd1193e8dac1247977f14ae362e76a4",
+    "wof:geomhash":"8175f867d1864c10393b4f81fffbddca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404431519,
     "wof:label":"Bollington Civil Parish",
-    "wof:lastmodified":1566632472,
+    "wof:lastmodified":1695877219,
     "wof:name":"Bollington",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

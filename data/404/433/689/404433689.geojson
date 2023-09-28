@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000886,
-    "geom:area_square_m":6700284.374379,
+    "geom:area_square_m":6700284.374378,
     "geom:bbox":"1.61102778681,52.2456788263,1.66153915973,52.3085296055",
     "geom:latitude":52.278331,
     "geom:longitude":1.62951,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.270208,
     "lbl:longitude":1.622834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dunwich"
@@ -81,12 +87,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009399"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801033
     ],
     "wof:country":"GB",
-    "wof:geomhash":"362d3dfcef7cda258324f602cd2a68c5",
+    "wof:geomhash":"29dfcfd78ff920a8c2ec86492249d324",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404433689,
     "wof:label":"Dunwich Civil Parish",
-    "wof:lastmodified":1566633657,
+    "wof:lastmodified":1695877755,
     "wof:name":"Dunwich",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006061,
-    "geom:area_square_m":46248133.815634,
+    "geom:area_square_m":46248133.815629,
     "geom:bbox":"-5.41384973174,51.84660411,-5.18055029479,51.9342381805",
     "geom:latitude":51.895413,
     "geom:longitude":-5.255547,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.893689,
     "lbl:longitude":-5.256354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. David's and the Cathedral Close Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000466"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852989
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b9eacfa8c1f8d994ac5a9fb91a4af9d8",
+    "wof:geomhash":"5e44ef3b43e4311bd1eed32495b47d74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404447345,
-    "wof:lastmodified":1566631335,
+    "wof:lastmodified":1695878311,
     "wof:name":"St. David's and the Cathedral Close Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

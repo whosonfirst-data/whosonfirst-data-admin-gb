@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002347,
-    "geom:area_square_m":17365097.489214,
+    "geom:area_square_m":17365097.489213,
     "geom:bbox":"-4.26581975947,53.2189376467,-4.17658402705,53.2652564399",
     "geom:latitude":53.243276,
     "geom:longitude":-4.220693,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.23653,
     "lbl:longitude":-4.225088,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penmynydd Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000872"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711949
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7401910b34fa8043755a3232eed75ab9",
+    "wof:geomhash":"eead323de2c7c6a2c73d3ce37289f43e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435231,
-    "wof:lastmodified":1566634063,
+    "wof:lastmodified":1695877931,
     "wof:name":"Penmynydd Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

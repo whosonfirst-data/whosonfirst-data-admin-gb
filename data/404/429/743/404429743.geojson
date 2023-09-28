@@ -10,12 +10,18 @@
     "geom:latitude":50.879145,
     "geom:longitude":-3.077882,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.881315,
     "lbl:longitude":-3.074323,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yarcombe"
@@ -66,12 +72,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003001"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879395
     ],
     "wof:country":"GB",
-    "wof:geomhash":"68de26599c9f81ce95bde3b8b8fa947b",
+    "wof:geomhash":"99d87c70ea34a1c556186515bddb7ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404429743,
     "wof:label":"Yarcombe Civil Parish",
-    "wof:lastmodified":1566633181,
+    "wof:lastmodified":1695877539,
     "wof:name":"Yarcombe",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

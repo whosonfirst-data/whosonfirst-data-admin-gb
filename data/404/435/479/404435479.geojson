@@ -10,12 +10,18 @@
     "geom:latitude":54.447495,
     "geom:longitude":-3.454717,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.448099,
     "lbl:longitude":-3.455464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ponsonby"
@@ -57,12 +63,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012141"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125934305
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5c4ec23ac42de4b37f85b399aa6e2313",
+    "wof:geomhash":"f24233c929dad2812b0b694339516eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404435479,
     "wof:label":"Ponsonby Civil Parish",
-    "wof:lastmodified":1566634001,
+    "wof:lastmodified":1695877898,
     "wof:name":"Ponsonby",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

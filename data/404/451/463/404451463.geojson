@@ -10,12 +10,18 @@
     "geom:latitude":51.275014,
     "geom:longitude":0.149299,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.300747,
     "lbl:longitude":0.138944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Chevening House"
@@ -45,12 +51,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004984"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125963631
     ],
     "wof:country":"GB",
-    "wof:geomhash":"60cd0e49ff1fccb6fe89b4abcc5d4476",
+    "wof:geomhash":"e792a8fc8879feff020eb8f775a25d0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404451463,
     "wof:label":"Chevening Civil Parish",
-    "wof:lastmodified":1566633453,
+    "wof:lastmodified":1695877660,
     "wof:name":"Chevening",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

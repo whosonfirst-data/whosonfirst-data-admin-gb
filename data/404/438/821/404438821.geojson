@@ -10,12 +10,18 @@
     "geom:latitude":53.666586,
     "geom:longitude":-1.232462,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.668565,
     "lbl:longitude":-1.2328,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Stapleton"
@@ -88,12 +94,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007769"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754851
     ],
     "wof:country":"GB",
-    "wof:geomhash":"532dc329057616c75bc3517eeb8c44a6",
+    "wof:geomhash":"d2d45111a0122db8164cf0e45b769f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +115,7 @@
     ],
     "wof:id":404438821,
     "wof:label":"Stapleton Civil Parish",
-    "wof:lastmodified":1566632556,
+    "wof:lastmodified":1695877258,
     "wof:name":"Stapleton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

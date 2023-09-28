@@ -10,12 +10,18 @@
     "geom:latitude":51.070328,
     "geom:longitude":-1.735059,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.071334,
     "lbl:longitude":-1.735059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clarendon Park"
@@ -46,12 +52,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011680"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753239
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cf35280054c03bfbd29fabdd67b44bbb",
+    "wof:geomhash":"cebee2210ff61b91f38f11b8dda95e94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404429683,
     "wof:label":"Clarendon Park Civil Parish",
-    "wof:lastmodified":1566633165,
+    "wof:lastmodified":1695877533,
     "wof:name":"Clarendon Park",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

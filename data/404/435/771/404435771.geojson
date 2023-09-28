@@ -10,12 +10,18 @@
     "geom:latitude":53.612866,
     "geom:longitude":-1.476822,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.611703,
     "lbl:longitude":-1.473958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Notton"
@@ -57,12 +63,15 @@
         1360698945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000238"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343396419
     ],
     "wof:country":"GB",
-    "wof:geomhash":"841206e379eb00d7dd90401e8e13f85d",
+    "wof:geomhash":"cb7c734341afddf56cd3e52a3059ae2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404435771,
     "wof:label":"Notton Civil Parish",
-    "wof:lastmodified":1566634027,
+    "wof:lastmodified":1695877911,
     "wof:name":"Notton",
     "wof:parent_id":1360698945,
     "wof:placetype":"localadmin",

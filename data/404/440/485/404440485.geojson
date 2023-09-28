@@ -10,12 +10,18 @@
     "geom:latitude":52.243793,
     "geom:longitude":-1.797339,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.236873,
     "lbl:longitude":-1.790832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aston Cantlow"
@@ -54,12 +60,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009704"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125927031
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9489c0246e5f596af64b57b66e98de24",
+    "wof:geomhash":"e18f097d205bbb2c1cf61529f016748f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440485,
     "wof:label":"Aston Cantlow Civil Parish",
-    "wof:lastmodified":1566631140,
+    "wof:lastmodified":1695878221,
     "wof:name":"Aston Cantlow",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

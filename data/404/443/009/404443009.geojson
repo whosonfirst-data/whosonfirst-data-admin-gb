@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000761,
-    "geom:area_square_m":5773665.833141,
+    "geom:area_square_m":5773665.833142,
     "geom:bbox":"-1.42949871225,52.1328155341,-1.37704254111,52.157603249",
     "geom:latitude":52.145187,
     "geom:longitude":-1.402971,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.145702,
     "lbl:longitude":-1.402985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Avon Dassett"
@@ -54,12 +60,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009706"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125771803
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0afa949eb952b8b8a8daf8f58486155d",
+    "wof:geomhash":"cb13bf35fae2a27a694e1c2d47735f25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404443009,
     "wof:label":"Avon Dassett Civil Parish",
-    "wof:lastmodified":1566633016,
+    "wof:lastmodified":1695877466,
     "wof:name":"Avon Dassett",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

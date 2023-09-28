@@ -10,12 +10,18 @@
     "geom:latitude":52.146575,
     "geom:longitude":0.829483,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.147695,
     "lbl:longitude":0.83231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thorpe Morieux"
@@ -65,9 +71,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04009131",
         "gn:id":7299580,
         "qs_pg:id":380393
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754569
     ],
@@ -75,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d32abccca60b50c477bb3d8110f9c38b",
+    "wof:geomhash":"1415f512b3f77823fa232af767a4d839",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +96,7 @@
     ],
     "wof:id":404450041,
     "wof:label":"Thorpe Morieux Civil Parish",
-    "wof:lastmodified":1582311150,
+    "wof:lastmodified":1695877986,
     "wof:name":"Thorpe Morieux",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

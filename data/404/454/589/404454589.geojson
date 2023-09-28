@@ -10,12 +10,18 @@
     "geom:latitude":51.204641,
     "geom:longitude":-1.043787,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.205191,
     "lbl:longitude":-1.046178,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Herriard"
@@ -63,12 +69,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004455"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310240291
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7c7d6592a248db91336db05ec8ed534b",
+    "wof:geomhash":"221c3a969113cd07acdaa54765de29d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454589,
     "wof:label":"Herriard Civil Parish",
-    "wof:lastmodified":1566632692,
+    "wof:lastmodified":1695877322,
     "wof:name":"Herriard",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

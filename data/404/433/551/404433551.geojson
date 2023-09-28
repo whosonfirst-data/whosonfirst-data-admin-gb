@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000741,
-    "geom:area_square_m":5382486.788624,
+    "geom:area_square_m":5382486.788623,
     "geom:bbox":"-1.18932072703,53.9888753234,-1.13697436943,54.0169740919",
     "geom:latitude":54.003742,
     "geom:longitude":-1.162313,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.004265,
     "lbl:longitude":-1.162318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Overton"
@@ -85,12 +91,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007241"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754431
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72fedc7a9fb0acbed253bf16faac6fe1",
+    "wof:geomhash":"56d49002997fa3603a6720205ba0f552",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +112,7 @@
     ],
     "wof:id":404433551,
     "wof:label":"Overton Civil Parish",
-    "wof:lastmodified":1566633638,
+    "wof:lastmodified":1695877746,
     "wof:name":"Overton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

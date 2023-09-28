@@ -10,12 +10,18 @@
     "geom:latitude":52.569052,
     "geom:longitude":-1.404981,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.567183,
     "lbl:longitude":-1.406969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stoke Golding"
@@ -66,12 +72,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005509"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126037973
     ],
     "wof:country":"GB",
-    "wof:geomhash":"71bf1140c0b67f270a299dc28b31b3c3",
+    "wof:geomhash":"0e82e26b226970b6a0a6ef11b3cccd6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404438451,
     "wof:label":"Stoke Golding Civil Parish",
-    "wof:lastmodified":1566632618,
+    "wof:lastmodified":1695877285,
     "wof:name":"Stoke Golding",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

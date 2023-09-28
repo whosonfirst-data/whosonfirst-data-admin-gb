@@ -10,12 +10,18 @@
     "geom:latitude":52.614232,
     "geom:longitude":-2.852102,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.617122,
     "lbl:longitude":-2.851467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Church Pulverbatch"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011243"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293321863
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a967abcb05f0d68cd8bd23be8aa1f0d9",
+    "wof:geomhash":"06c3b1e7dd87e3ab144f8e02558e98b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430311,
     "wof:label":"Church Pulverbatch Civil Parish",
-    "wof:lastmodified":1566632035,
+    "wof:lastmodified":1695877031,
     "wof:name":"Church Pulverbatch",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

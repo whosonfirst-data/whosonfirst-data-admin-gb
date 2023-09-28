@@ -10,12 +10,18 @@
     "geom:latitude":53.275943,
     "geom:longitude":-0.99783,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.27722,
     "lbl:longitude":-1.01317,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elkesley"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007806"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259818931
     ],
     "wof:country":"GB",
-    "wof:geomhash":"30aad4e7d46798d09c68406953960375",
+    "wof:geomhash":"aaae0569318ad7a04ab0ca85bb064bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404437235,
     "wof:label":"Elkesley Civil Parish",
-    "wof:lastmodified":1566632082,
+    "wof:lastmodified":1695877050,
     "wof:name":"Elkesley",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

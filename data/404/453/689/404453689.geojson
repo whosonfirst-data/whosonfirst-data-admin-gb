@@ -10,12 +10,18 @@
     "geom:latitude":53.796245,
     "geom:longitude":-2.543389,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.795685,
     "lbl:longitude":-2.538051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Osbaldeston"
@@ -63,12 +69,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005271"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125836201
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c70835874a61f923c742a70df67595be",
+    "wof:geomhash":"ca9b4f3f88041248839602463bf48cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404453689,
     "wof:label":"Osbaldeston Civil Parish",
-    "wof:lastmodified":1566632771,
+    "wof:lastmodified":1695877361,
     "wof:name":"Osbaldeston",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

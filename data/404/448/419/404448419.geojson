@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004588,
-    "geom:area_square_m":35083924.074377,
+    "geom:area_square_m":35083924.074374,
     "geom:bbox":"-4.35689583051,51.7558157166,-4.23791155243,51.8388150415",
     "geom:latitude":51.798424,
     "geom:longitude":-4.299211,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.799418,
     "lbl:longitude":-4.299222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llandyfaelog Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000516"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711581
     ],
     "wof:country":"GB",
-    "wof:geomhash":"da94ed1c4de5dff3d5efe8c7130e93a9",
+    "wof:geomhash":"e0eea165a9845f5c498fcdef12ff7cda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404448419,
-    "wof:lastmodified":1566631536,
+    "wof:lastmodified":1695876829,
     "wof:name":"Llandyfaelog Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

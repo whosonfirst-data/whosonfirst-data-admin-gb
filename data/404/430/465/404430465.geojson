@@ -10,12 +10,18 @@
     "geom:latitude":50.789109,
     "geom:longitude":-0.678435,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.789892,
     "lbl:longitude":-0.676238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bognor Regis"
@@ -109,12 +115,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009855"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101750317
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e521681d1a7b07f0b5ddd459d7115e9c",
+    "wof:geomhash":"a49349e6b3edf6592142f24e65243d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +136,7 @@
     ],
     "wof:id":404430465,
     "wof:label":"Bognor Regis Civil Parish",
-    "wof:lastmodified":1566631976,
+    "wof:lastmodified":1695877006,
     "wof:name":"Bognor Regis",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

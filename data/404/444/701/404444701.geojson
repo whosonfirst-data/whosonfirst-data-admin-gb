@@ -10,12 +10,18 @@
     "geom:latitude":51.293035,
     "geom:longitude":0.737439,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.294033,
     "lbl:longitude":0.729423,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Milstead"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005062"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125788163
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8e6ccd7f8bc067f532ac9aa42f4bd341",
+    "wof:geomhash":"5da92426f22b90d088f054dd7cd82780",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404444701,
     "wof:label":"Milstead Civil Parish",
-    "wof:lastmodified":1566632865,
+    "wof:lastmodified":1695877402,
     "wof:name":"Milstead",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

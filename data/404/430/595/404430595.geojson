@@ -10,12 +10,18 @@
     "geom:latitude":52.08154,
     "geom:longitude":-0.90583,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.081922,
     "lbl:longitude":-0.897603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Potterspury"
@@ -63,12 +69,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006849"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125914855
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c38ab2c6b7070af389a6ff628388072e",
+    "wof:geomhash":"0269bb446895e990ff21cffa68437588",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430595,
     "wof:label":"Potterspury Civil Parish",
-    "wof:lastmodified":1566631940,
+    "wof:lastmodified":1695876992,
     "wof:name":"Potterspury",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

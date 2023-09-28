@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002949,
-    "geom:area_square_m":21833238.254539,
+    "geom:area_square_m":21833238.254538,
     "geom:bbox":"-0.350260056963,53.1787949684,-0.27593494053,53.257618948",
     "geom:latitude":53.218432,
     "geom:longitude":-0.309898,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.216304,
     "lbl:longitude":-0.319665,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Beordan \u012beg"
@@ -72,12 +78,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005958"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126044033
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1d94471707830813f58d95d85d96d6b9",
+    "wof:geomhash":"6b1569ec316230815f0b40d5b793db4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404448267,
     "wof:label":"Bardney Civil Parish",
-    "wof:lastmodified":1566631496,
+    "wof:lastmodified":1695876812,
     "wof:name":"Bardney",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

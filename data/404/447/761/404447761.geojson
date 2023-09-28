@@ -10,12 +10,18 @@
     "geom:latitude":54.406252,
     "geom:longitude":-1.908672,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.412018,
     "lbl:longitude":-1.912683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marrick"
@@ -60,12 +66,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007500"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880699
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ca4fe2321db3333e81f850fe56b3e14e",
+    "wof:geomhash":"d24eb7b36e8607bed638c8d39538757d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404447761,
     "wof:label":"Marrick Civil Parish",
-    "wof:lastmodified":1566631302,
+    "wof:lastmodified":1695878297,
     "wof:name":"Marrick",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

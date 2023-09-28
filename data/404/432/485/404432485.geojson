@@ -10,12 +10,18 @@
     "geom:latitude":51.608122,
     "geom:longitude":-2.312906,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.613519,
     "lbl:longitude":-2.293893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hillesley and Tresham"
@@ -52,12 +58,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004358"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757609
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c64d53273c89c290dbb8a843895f3e4d",
+    "wof:geomhash":"588e924833442d23ab96c74f54ee8af2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404432485,
     "wof:label":"Hillesley and Tresham Civil Parish",
-    "wof:lastmodified":1566633865,
+    "wof:lastmodified":1695877843,
     "wof:name":"Hillesley and Tresham",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.311429,
     "geom:longitude":0.190409,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.310291,
     "lbl:longitude":0.190846,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Otford"
@@ -75,12 +81,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005000"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031673
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a6d03f14768bbb6da57d151f9d375fa8",
+    "wof:geomhash":"f68efcaeabe3c29bab7d4b4e1b733693",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404445991,
     "wof:label":"Otford Civil Parish",
-    "wof:lastmodified":1566633311,
+    "wof:lastmodified":1695877599,
     "wof:name":"Otford",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.940874,
     "geom:longitude":0.730047,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.94451,
     "lbl:longitude":0.733222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "White Colne"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003936"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126055127
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0785e2f35ac74b5d47dd0cc1d0e4a90c",
+    "wof:geomhash":"71fd6688df8be62061170bd34f83dba7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404436891,
     "wof:label":"White Colne Civil Parish",
-    "wof:lastmodified":1566632406,
+    "wof:lastmodified":1695877190,
     "wof:name":"White Colne",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

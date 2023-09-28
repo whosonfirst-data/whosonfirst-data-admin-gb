@@ -10,12 +10,18 @@
     "geom:latitude":52.014499,
     "geom:longitude":0.985503,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.013592,
     "lbl:longitude":0.983434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Raydon"
@@ -63,12 +69,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009118"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243096147
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6956cd80fd3e8d19b24419dca4f05027",
+    "wof:geomhash":"897c5ed73859e95364119b4b2824567d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445139,
     "wof:label":"Raydon Civil Parish",
-    "wof:lastmodified":1566633375,
+    "wof:lastmodified":1695877628,
     "wof:name":"Raydon",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

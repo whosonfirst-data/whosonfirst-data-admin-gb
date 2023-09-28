@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002269,
-    "geom:area_square_m":17719091.624065,
+    "geom:area_square_m":17719091.624066,
     "geom:bbox":"-3.47039398148,50.8080698058,-3.3872354138,50.8601229431",
     "geom:latitude":50.832281,
     "geom:longitude":-3.431752,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.831331,
     "lbl:longitude":-3.432395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u0627\u062f\u0646\u06cc\u0646\u0686"
@@ -90,12 +96,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003007"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126008911
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1ade41c478a20b83e02f3147350bcdd0",
+    "wof:geomhash":"c504ece0f3e5a6c069454947ac603fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404433111,
     "wof:label":"Bradninch Civil Parish",
-    "wof:lastmodified":1566633680,
+    "wof:lastmodified":1695877766,
     "wof:name":"Bradninch",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

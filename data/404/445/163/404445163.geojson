@@ -10,12 +10,18 @@
     "geom:latitude":53.049257,
     "geom:longitude":-0.682121,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.049508,
     "lbl:longitude":-0.682117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fenton"
@@ -90,12 +96,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005903"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360113973
     ],
     "wof:country":"GB",
-    "wof:geomhash":"08c24476a78d93289f3ed176f0c0e673",
+    "wof:geomhash":"7a5b65a6d673de24aa83107c28b50d03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404445163,
     "wof:label":"Fenton Civil Parish",
-    "wof:lastmodified":1566633372,
+    "wof:lastmodified":1695877627,
     "wof:name":"Fenton",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

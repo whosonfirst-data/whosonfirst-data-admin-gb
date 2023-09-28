@@ -10,12 +10,18 @@
     "geom:latitude":53.279054,
     "geom:longitude":-0.935218,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.278358,
     "lbl:longitude":-0.935218,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gamston"
@@ -51,12 +57,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007809"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910365
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72552f9f6d74e9b49cb7d3991e6ba959",
+    "wof:geomhash":"52866558d19e2580af4fd880b414db06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404430401,
     "wof:label":"Gamston Civil Parish",
-    "wof:lastmodified":1566631962,
+    "wof:lastmodified":1695877001,
     "wof:name":"Gamston",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

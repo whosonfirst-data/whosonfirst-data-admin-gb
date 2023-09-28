@@ -10,12 +10,18 @@
     "geom:latitude":53.163459,
     "geom:longitude":-2.626658,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.164409,
     "lbl:longitude":-2.630235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rushton"
@@ -61,12 +67,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011161"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756803
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d925e94069dd759c55d315aef15d5abb",
+    "wof:geomhash":"3f24d44d98250c4aa87d731bde44ab13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404435093,
     "wof:label":"Rushton Civil Parish",
-    "wof:lastmodified":1566634073,
+    "wof:lastmodified":1695877937,
     "wof:name":"Rushton",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

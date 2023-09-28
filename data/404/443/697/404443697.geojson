@@ -10,12 +10,18 @@
     "geom:latitude":52.834208,
     "geom:longitude":-1.622944,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.832364,
     "lbl:longitude":-1.622954,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stretton"
@@ -73,9 +79,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04008900",
         "gn:id":7292450,
         "qs_pg:id":1040676
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125845713
     ],
@@ -83,7 +91,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6af7f0016afedd3fece459498fdf38b8",
+    "wof:geomhash":"1b41ad9b2f73a938dc193a74e1ea6338",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +104,7 @@
     ],
     "wof:id":404443697,
     "wof:label":"Stretton Civil Parish",
-    "wof:lastmodified":1582311122,
+    "wof:lastmodified":1695877976,
     "wof:name":"Stretton",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

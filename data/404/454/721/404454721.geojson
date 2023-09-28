@@ -10,12 +10,18 @@
     "geom:latitude":52.3393,
     "geom:longitude":-0.346085,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.338764,
     "lbl:longitude":-0.347909,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0628\u0644\u062f\u0648\u064a\u0643"
@@ -69,12 +75,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012039"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125927799
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e00a0ff1a7f0c115fd22bc0053bfcf90",
+    "wof:geomhash":"06240cfc5ed91a10e89c01f2b62a31bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404454721,
     "wof:label":"Spaldwick Civil Parish",
-    "wof:lastmodified":1566632738,
+    "wof:lastmodified":1695877345,
     "wof:name":"Spaldwick",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

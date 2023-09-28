@@ -10,12 +10,18 @@
     "geom:latitude":51.192033,
     "geom:longitude":0.900641,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.196982,
     "lbl:longitude":0.901223,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boughton Aluph"
@@ -60,12 +66,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004830"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226570137
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e7e6e7c7229493d4de9fbe1a3e53a5c8",
+    "wof:geomhash":"2938c4ec05ed827f0215a8ec9ff54052",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440491,
     "wof:label":"Boughton Aluph Civil Parish",
-    "wof:lastmodified":1566631164,
+    "wof:lastmodified":1695878232,
     "wof:name":"Boughton Aluph",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

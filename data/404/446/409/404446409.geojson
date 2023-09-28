@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006281,
-    "geom:area_square_m":46975921.546833,
+    "geom:area_square_m":46975921.546832,
     "geom:bbox":"-4.14857260996,52.741177171,-3.97884100174,52.8135531608",
     "geom:latitude":52.784289,
     "geom:longitude":-4.065388,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.779019,
     "lbl:longitude":-4.064104,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dyffryn Ardudwy Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000062"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879317
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0addf234f2cd9e05b680c2d68bd6f963",
+    "wof:geomhash":"f335db7a434a82bc12081f35327ff08e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404446409,
-    "wof:lastmodified":1566631632,
+    "wof:lastmodified":1695876861,
     "wof:name":"Dyffryn Ardudwy Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

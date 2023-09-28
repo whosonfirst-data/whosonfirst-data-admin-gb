@@ -10,12 +10,18 @@
     "geom:latitude":51.226279,
     "geom:longitude":-2.445758,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.226277,
     "lbl:longitude":-2.445355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leigh-On-Mendip"
@@ -40,12 +46,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008567"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2959234ebbc1ca0dd7e993e1d5129034",
+    "wof:geomhash":"067b796dc3590404ce754dc7e2c9891b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404441085,
     "wof:label":"Leigh-On-Mendip Civil Parish",
-    "wof:lastmodified":1566631740,
+    "wof:lastmodified":1695876901,
     "wof:name":"Leigh-On-Mendip",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

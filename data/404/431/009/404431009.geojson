@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000789,
-    "geom:area_square_m":5973797.933821,
+    "geom:area_square_m":5973797.933822,
     "geom:bbox":"0.160928729792,52.2069166743,0.218240354287,52.2495462584",
     "geom:latitude":52.222932,
     "geom:longitude":0.190158,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.218246,
     "lbl:longitude":0.182552,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0646 \u062f\u064a\u062a\u0648\u0646"
@@ -69,12 +75,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001782"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801089
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d10900296ea6fd0393a3505de510ace0",
+    "wof:geomhash":"dc6f2982db9876972292690dd81b0d14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404431009,
     "wof:label":"Fen Ditton Civil Parish",
-    "wof:lastmodified":1566632460,
+    "wof:lastmodified":1695877214,
     "wof:name":"Fen Ditton",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

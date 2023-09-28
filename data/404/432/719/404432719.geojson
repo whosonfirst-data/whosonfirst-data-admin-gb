@@ -10,12 +10,18 @@
     "geom:latitude":53.534638,
     "geom:longitude":-1.04151,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.532521,
     "lbl:longitude":-1.044869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Armthorpe"
@@ -63,12 +69,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000058"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126024143
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3e297e67c29ebd2f2443c4bb1d52a2ad",
+    "wof:geomhash":"1ac01ef0dfc0766dbe8b1c55177629e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432719,
     "wof:label":"Armthorpe Civil Parish",
-    "wof:lastmodified":1566633967,
+    "wof:lastmodified":1695877880,
     "wof:name":"Armthorpe",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

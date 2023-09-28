@@ -10,12 +10,18 @@
     "geom:latitude":53.295774,
     "geom:longitude":-0.80213,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.296521,
     "lbl:longitude":-0.801347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rampton"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007830"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125973949
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dd06a85fcd958e9afa42db08695ca44c",
+    "wof:geomhash":"e6ca72d68fc79f2f078d9be5d2c2769d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404449787,
     "wof:label":"Rampton Civil Parish",
-    "wof:lastmodified":1566631453,
+    "wof:lastmodified":1695876794,
     "wof:name":"Rampton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

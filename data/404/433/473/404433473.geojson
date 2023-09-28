@@ -10,12 +10,18 @@
     "geom:latitude":54.634372,
     "geom:longitude":-3.547064,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.637981,
     "lbl:longitude":-3.556876,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0648\u0631\u06a9\u06cc\u0646\u0642\u062a\u0648\u0646"
@@ -102,12 +108,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002439"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872353
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0fc5c6880bed539d9d0b328dd1611fe8",
+    "wof:geomhash":"ed67e6975d4287e400ef4f5fbd5b8160",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404433473,
     "wof:label":"Workington Civil Parish",
-    "wof:lastmodified":1566633714,
+    "wof:lastmodified":1695877781,
     "wof:name":"Workington",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

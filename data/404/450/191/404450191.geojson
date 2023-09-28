@@ -10,12 +10,18 @@
     "geom:latitude":50.755797,
     "geom:longitude":-3.16989,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.755525,
     "lbl:longitude":-3.17035,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Farway"
@@ -63,12 +69,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002963"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126052677
     ],
     "wof:country":"GB",
-    "wof:geomhash":"487dac78790aeb505930a8af756ca66f",
+    "wof:geomhash":"14b22cfee6965c77f9129a4c6a2d634d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404450191,
     "wof:label":"Farway Civil Parish",
-    "wof:lastmodified":1566633797,
+    "wof:lastmodified":1695877816,
     "wof:name":"Farway",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

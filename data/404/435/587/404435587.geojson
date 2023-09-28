@@ -10,12 +10,18 @@
     "geom:latitude":52.176022,
     "geom:longitude":-0.861764,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.179968,
     "lbl:longitude":-0.863403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Quinton"
@@ -42,12 +48,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006850"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1292932775
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db267362057fc278fab0fd2ed73dd0ff",
+    "wof:geomhash":"05eed028623a0548a068ef20005d8284",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404435587,
     "wof:label":"Quinton Civil Parish",
-    "wof:lastmodified":1566634033,
+    "wof:lastmodified":1695877914,
     "wof:name":"Quinton",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

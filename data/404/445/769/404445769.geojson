@@ -10,12 +10,18 @@
     "geom:latitude":54.137429,
     "geom:longitude":-2.605522,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.138022,
     "lbl:longitude":-2.607028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Melling-With-Wrayton"
@@ -40,12 +46,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005194"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759687
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0e85c3f3d0c3fdf7925ee800b507f654",
+    "wof:geomhash":"64113aadee512b0bf18287d92a0dd7b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404445769,
     "wof:label":"Melling-With-Wrayton Civil Parish",
-    "wof:lastmodified":1566633369,
+    "wof:lastmodified":1695877626,
     "wof:name":"Melling-With-Wrayton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

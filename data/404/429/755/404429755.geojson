@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005526,
-    "geom:area_square_m":42196803.167559,
+    "geom:area_square_m":42196803.167557,
     "geom:bbox":"-4.0318310888,51.8191072194,-3.89774072232,51.8977318697",
     "geom:latitude":51.860404,
     "geom:longitude":-3.960439,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.863803,
     "lbl:longitude":-3.953851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cyngor Bro Dyffryn Cennen Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000503"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711751
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a57b4c574c821eb2d7fd1e4b702854fa",
+    "wof:geomhash":"149ec77d367e47d4f12fca1bbbfe814c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429755,
-    "wof:lastmodified":1566633095,
+    "wof:lastmodified":1695877502,
     "wof:name":"Cyngor Bro Dyffryn Cennen Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

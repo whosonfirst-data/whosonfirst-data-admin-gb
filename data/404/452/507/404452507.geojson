@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001032,
-    "geom:area_square_m":8064092.342853,
+    "geom:area_square_m":8064092.342852,
     "geom:bbox":"-3.8103327073,50.8095202765,-3.75152224211,50.846021534",
     "geom:latitude":50.823829,
     "geom:longitude":-3.783811,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.823908,
     "lbl:longitude":-3.784265,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Down St. Mary"
@@ -42,12 +48,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003026"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125905083
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6dd399a3fc5810752fb8064199535f53",
+    "wof:geomhash":"fd38fb8cc04ad4447985e8a9b96416de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404452507,
     "wof:label":"Down St. Mary Civil Parish",
-    "wof:lastmodified":1566632224,
+    "wof:lastmodified":1695877109,
     "wof:name":"Down St. Mary",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.830818,
     "geom:longitude":-2.617342,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.832031,
     "lbl:longitude":-2.613846,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "English Bicknor"
@@ -66,12 +72,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004305"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126058789
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b5181dbe20f5ee21553d1cfa65e3cc15",
+    "wof:geomhash":"b594c8f718c12014172bef180ebb3404",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404435897,
     "wof:label":"English Bicknor Civil Parish",
-    "wof:lastmodified":1566634075,
+    "wof:lastmodified":1695877938,
     "wof:name":"English Bicknor",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

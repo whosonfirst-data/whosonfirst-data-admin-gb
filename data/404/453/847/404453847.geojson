@@ -10,12 +10,18 @@
     "geom:latitude":50.712936,
     "geom:longitude":-3.074823,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.712907,
     "lbl:longitude":-3.075117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seaton"
@@ -81,12 +87,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002986"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852583
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c18dc39f474c02013378eb7ccb02dc02",
+    "wof:geomhash":"aa9f30b6de4b01f7e31161b61004af41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404453847,
     "wof:label":"Seaton Civil Parish",
-    "wof:lastmodified":1566632826,
+    "wof:lastmodified":1695877385,
     "wof:name":"Seaton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

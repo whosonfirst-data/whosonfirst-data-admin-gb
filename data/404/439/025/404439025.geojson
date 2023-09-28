@@ -10,12 +10,18 @@
     "geom:latitude":53.96057,
     "geom:longitude":-2.002055,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.958562,
     "lbl:longitude":-2.0013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u06a9\u06cc\u067e\u062a\u0648\u0646"
@@ -96,12 +102,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012249"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872297
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72ce266c64d334952fec741c952468cf",
+    "wof:geomhash":"cceadbd0602f0b8633e7b4f7039bf192",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404439025,
     "wof:label":"Skipton Civil Parish",
-    "wof:lastmodified":1566631852,
+    "wof:lastmodified":1695876950,
     "wof:name":"Skipton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

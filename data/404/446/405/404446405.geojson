@@ -10,12 +10,18 @@
     "geom:latitude":51.196252,
     "geom:longitude":-1.912037,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.18821,
     "lbl:longitude":-1.923715,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shrewton"
@@ -63,12 +69,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011815"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852727
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f75b2342f29ec0459d3d5b6a72bc81bd",
+    "wof:geomhash":"94e1fdcce8188ffe3d135927aa05d4fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404446405,
     "wof:label":"Shrewton Civil Parish",
-    "wof:lastmodified":1566631688,
+    "wof:lastmodified":1695876880,
     "wof:name":"Shrewton",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.460391,
     "geom:longitude":1.684809,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.463187,
     "lbl:longitude":1.680607,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0631\u0644\u062a\u0648\u0646 \u06a9\u0648\u0644\u0648\u06cc\u0644"
@@ -63,12 +69,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009491"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209951881
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9c2b8bf4374ed1b6d0d2c8b711e990a2",
+    "wof:geomhash":"2d7d55437f7138087cad47e56a87adcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404429711,
     "wof:label":"Carlton Colville Civil Parish",
-    "wof:lastmodified":1566633190,
+    "wof:lastmodified":1695877545,
     "wof:name":"Carlton Colville",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

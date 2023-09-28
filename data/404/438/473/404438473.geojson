@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000873,
-    "geom:area_square_m":6588147.559746,
+    "geom:area_square_m":6588147.559745,
     "geom:bbox":"-1.1872116384,52.395575933,-1.14150682232,52.4314395547",
     "geom:latitude":52.410845,
     "geom:longitude":-1.167482,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.411236,
     "lbl:longitude":-1.169729,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Swinford"
@@ -75,12 +81,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005476"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126035349
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9ebeeff79af4eda594a29d9d282842d4",
+    "wof:geomhash":"162b17b16d8fcfc8944bd29098c999c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404438473,
     "wof:label":"Swinford Civil Parish",
-    "wof:lastmodified":1566632612,
+    "wof:lastmodified":1695877283,
     "wof:name":"Swinford",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

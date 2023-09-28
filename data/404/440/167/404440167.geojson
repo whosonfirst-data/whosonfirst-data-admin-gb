@@ -10,12 +10,18 @@
     "geom:latitude":51.324239,
     "geom:longitude":1.368081,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.323948,
     "lbl:longitude":1.36935,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cliffsend"
@@ -63,12 +69,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005088"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125783167
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b14c9a7b5b5d1f8b112a408340355e4c",
+    "wof:geomhash":"357c9ee2b07e9f9b09397bb9479ab934",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404440167,
     "wof:label":"Cliffsend Civil Parish",
-    "wof:lastmodified":1566631135,
+    "wof:lastmodified":1695878218,
     "wof:name":"Cliffsend",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

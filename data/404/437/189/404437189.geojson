@@ -10,12 +10,18 @@
     "geom:latitude":51.589812,
     "geom:longitude":-1.559302,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.587253,
     "lbl:longitude":-1.555391,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Uffington"
@@ -69,12 +75,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008246"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033151
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b2ea8129a4e3aaa98f43b3d0f0cb78fc",
+    "wof:geomhash":"724ee58abc19e81673f433f49ad13b89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404437189,
     "wof:label":"Uffington Civil Parish",
-    "wof:lastmodified":1566632093,
+    "wof:lastmodified":1695877055,
     "wof:name":"Uffington",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

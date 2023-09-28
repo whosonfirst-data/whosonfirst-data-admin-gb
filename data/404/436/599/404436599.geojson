@@ -10,12 +10,18 @@
     "geom:latitude":53.341103,
     "geom:longitude":-1.290943,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.341137,
     "lbl:longitude":-1.290236,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wallis"
@@ -528,12 +534,15 @@
         1360698851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000122"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125893361
     ],
     "wof:country":"GB",
-    "wof:geomhash":"55918761abfd12985a6c4b8c1a89660f",
+    "wof:geomhash":"1063e3d74db047bce10990f7e9b67f4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -546,7 +555,7 @@
     ],
     "wof:id":404436599,
     "wof:label":"Wales Civil Parish",
-    "wof:lastmodified":1566632379,
+    "wof:lastmodified":1695877178,
     "wof:name":"Wales",
     "wof:parent_id":1360698851,
     "wof:placetype":"localadmin",

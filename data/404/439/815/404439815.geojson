@@ -10,12 +10,18 @@
     "geom:latitude":51.155315,
     "geom:longitude":-0.821079,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.155361,
     "lbl:longitude":-0.822858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dockenfield"
@@ -51,12 +57,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009610"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126049385
     ],
     "wof:country":"GB",
-    "wof:geomhash":"98df97ef9267ff0c40107564857f458b",
+    "wof:geomhash":"3e72d3fa1b97fbfa6ab7a2d0cdbf3aaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404439815,
     "wof:label":"Dockenfield Civil Parish",
-    "wof:lastmodified":1566631901,
+    "wof:lastmodified":1695876974,
     "wof:name":"Dockenfield",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

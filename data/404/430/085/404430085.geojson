@@ -10,12 +10,18 @@
     "geom:latitude":51.852709,
     "geom:longitude":-0.380518,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.85056,
     "lbl:longitude":-0.380516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u0439\u0434"
@@ -85,12 +91,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011962"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753887
     ],
     "wof:country":"GB",
-    "wof:geomhash":"be3a4f5fedcde144f052fc18252a5166",
+    "wof:geomhash":"fcad00a7677bd88f77e01f65c7e50402",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +112,7 @@
     ],
     "wof:id":404430085,
     "wof:label":"Hyde Civil Parish",
-    "wof:lastmodified":1566631958,
+    "wof:lastmodified":1695876999,
     "wof:name":"Hyde",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

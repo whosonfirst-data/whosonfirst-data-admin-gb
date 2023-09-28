@@ -10,12 +10,18 @@
     "geom:latitude":52.245186,
     "geom:longitude":0.120105,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.247313,
     "lbl:longitude":0.122861,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Impington"
@@ -46,9 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04010465",
         "gn:id":7298853,
         "qs_pg:id":380359
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125883803
     ],
@@ -56,7 +64,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67a1bc1a57659a74f05c75caf00d846d",
+    "wof:geomhash":"66c5aaacbe9e41bda097c2e04bf6ffd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +77,7 @@
     ],
     "wof:id":404441083,
     "wof:label":"Impington Civil Parish",
-    "wof:lastmodified":1582311072,
+    "wof:lastmodified":1695877956,
     "wof:name":"Impington",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

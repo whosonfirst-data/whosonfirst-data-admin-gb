@@ -10,12 +10,18 @@
     "geom:latitude":53.705166,
     "geom:longitude":-1.133292,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.692558,
     "lbl:longitude":-1.133293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eggborough"
@@ -66,12 +72,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007736"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125905781
     ],
     "wof:country":"GB",
-    "wof:geomhash":"70ab1f9a963873a05d41db4554e76f9a",
+    "wof:geomhash":"3da577c3fb03d459563aa7831309e9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447083,
     "wof:label":"Eggborough Civil Parish",
-    "wof:lastmodified":1566631256,
+    "wof:lastmodified":1695878274,
     "wof:name":"Eggborough",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

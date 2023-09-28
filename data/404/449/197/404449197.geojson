@@ -10,12 +10,18 @@
     "geom:latitude":50.08067,
     "geom:longitude":-5.108669,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.076527,
     "lbl:longitude":-5.107048,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Anthony-In-Meneage"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011528"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125871495
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ee14da39e7f7f09556c62d18ef47771f",
+    "wof:geomhash":"c0daba08dd4074a3dd4b7597f06aee35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404449197,
     "wof:label":"St. Anthony-In-Meneage Civil Parish",
-    "wof:lastmodified":1566631410,
+    "wof:lastmodified":1695878342,
     "wof:name":"St. Anthony-In-Meneage",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000387,
-    "geom:area_square_m":2921395.331662,
+    "geom:area_square_m":2921395.331661,
     "geom:bbox":"-0.354041182944,52.413135636,-0.315356713588,52.438872019",
     "geom:latitude":52.426968,
     "geom:longitude":-0.334628,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.428035,
     "lbl:longitude":-0.334919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0644 \u063a\u064a\u062f\u062f\u064a\u0646\u063a"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001720"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125971435
     ],
     "wof:country":"GB",
-    "wof:geomhash":"05630468176a7fa725b855174b2b8a35",
+    "wof:geomhash":"67d7e04651c6ea00abe03bf9a86cf00c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404452055,
     "wof:label":"Little Gidding Civil Parish",
-    "wof:lastmodified":1566632199,
+    "wof:lastmodified":1695877099,
     "wof:name":"Little Gidding",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

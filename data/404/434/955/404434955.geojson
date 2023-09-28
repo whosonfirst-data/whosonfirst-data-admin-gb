@@ -10,12 +10,18 @@
     "geom:latitude":51.826772,
     "geom:longitude":-0.664582,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.824723,
     "lbl:longitude":-0.662887,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Marsworth"
@@ -72,12 +78,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001510"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125961825
     ],
     "wof:country":"GB",
-    "wof:geomhash":"186d7f4d9128a9882d0bce68bc2c9d33",
+    "wof:geomhash":"cca353a0559150ae2b21d804f86b3a63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404434955,
     "wof:label":"Marsworth Civil Parish",
-    "wof:lastmodified":1566633547,
+    "wof:lastmodified":1695877707,
     "wof:name":"Marsworth",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

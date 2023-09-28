@@ -10,12 +10,18 @@
     "geom:latitude":51.912883,
     "geom:longitude":-2.585915,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.915347,
     "lbl:longitude":-2.580796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ross-On-Wye"
@@ -42,12 +48,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000862"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209450383
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9c83d8396a8b7276159ca0d3d4113b34",
+    "wof:geomhash":"6fe5ebbfe0c76440e5fe4ae7b49d513b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404432417,
     "wof:label":"Ross-On-Wye Civil Parish",
-    "wof:lastmodified":1566633936,
+    "wof:lastmodified":1695877868,
     "wof:name":"Ross-On-Wye",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

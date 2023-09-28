@@ -10,12 +10,18 @@
     "geom:latitude":52.403064,
     "geom:longitude":-0.821917,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.405794,
     "lbl:longitude":-0.813186,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Orton"
@@ -72,12 +78,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006778"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974521
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4228aac75180bb999bb177b17fe07c82",
+    "wof:geomhash":"bccc734bbf5904bece7930f37eda1127",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404429781,
     "wof:label":"Orton Civil Parish",
-    "wof:lastmodified":1566633183,
+    "wof:lastmodified":1695877541,
     "wof:name":"Orton",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

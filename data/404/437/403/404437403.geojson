@@ -10,12 +10,18 @@
     "geom:latitude":52.581872,
     "geom:longitude":1.192764,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.579564,
     "lbl:longitude":1.190169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ketteringham"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006564"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125975707
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7045408251ee10b0874dabe888d77fd3",
+    "wof:geomhash":"dd2ed4908a1755f7f37beeddf2f372b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404437403,
     "wof:label":"Ketteringham Civil Parish",
-    "wof:lastmodified":1566632147,
+    "wof:lastmodified":1695877077,
     "wof:name":"Ketteringham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

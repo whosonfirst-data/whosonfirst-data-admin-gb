@@ -10,12 +10,18 @@
     "geom:latitude":52.195513,
     "geom:longitude":1.256056,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.207152,
     "lbl:longitude":1.254757,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cretingham"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009393"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126000981
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e644420cd8b979c63191931b684593f4",
+    "wof:geomhash":"286c6eb9e6412f35f18a469fff0e2e89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447281,
     "wof:label":"Cretingham Civil Parish",
-    "wof:lastmodified":1566631263,
+    "wof:lastmodified":1695878278,
     "wof:name":"Cretingham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

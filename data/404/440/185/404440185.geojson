@@ -10,12 +10,18 @@
     "geom:latitude":51.421042,
     "geom:longitude":-2.356731,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.420826,
     "lbl:longitude":-2.356734,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Swainswick"
@@ -52,12 +58,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000993"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756021
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bb180f90185979b720a94c0c31a13185",
+    "wof:geomhash":"6620138f39d7ad6a0e694091d1a3d5dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404440185,
     "wof:label":"Swainswick Civil Parish",
-    "wof:lastmodified":1566631235,
+    "wof:lastmodified":1695878265,
     "wof:name":"Swainswick",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

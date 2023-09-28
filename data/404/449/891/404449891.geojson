@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005985,
-    "geom:area_square_m":45729488.018661,
+    "geom:area_square_m":45729488.018672,
     "geom:bbox":"-5.07130978982,51.7911763073,-4.96848407323,51.8797996071",
     "geom:latitude":51.834734,
     "geom:longitude":-5.02012,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.835514,
     "lbl:longitude":-5.01914,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Camrose Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000936"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260322251
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d77f08569a473664690c2510f0d200e3",
+    "wof:geomhash":"7628ff6c21ae1d304a66ff0915edd6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449891,
-    "wof:lastmodified":1566631435,
+    "wof:lastmodified":1695876786,
     "wof:name":"Camrose Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.94662,
     "geom:longitude":-2.303103,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.946656,
     "lbl:longitude":-2.303112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hinton St. Mary"
@@ -42,12 +48,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003415"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126029963
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e7417807bb4ca00e20a565fb84c009cd",
+    "wof:geomhash":"018ffcb0aec1efe518d12949ec0b2296",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404442867,
     "wof:label":"Hinton St. Mary Civil Parish",
-    "wof:lastmodified":1566633231,
+    "wof:lastmodified":1695877565,
     "wof:name":"Hinton St. Mary",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

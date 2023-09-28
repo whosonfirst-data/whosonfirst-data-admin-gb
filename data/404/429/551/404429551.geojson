@@ -10,12 +10,18 @@
     "geom:latitude":54.204022,
     "geom:longitude":-1.265281,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.198893,
     "lbl:longitude":-1.267869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thirkleby High and Low with Osgodby"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007273"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360752997
     ],
     "wof:country":"GB",
-    "wof:geomhash":"64f70afd9ceafdfd27cc99a3887daba3",
+    "wof:geomhash":"b830aa947b5a8762425df057d9581e89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404429551,
     "wof:label":"Thirkleby High and Low with Osgodby Civil Parish",
-    "wof:lastmodified":1566633094,
+    "wof:lastmodified":1695877502,
     "wof:name":"Thirkleby High and Low with Osgodby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

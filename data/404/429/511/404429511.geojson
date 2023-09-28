@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003277,
-    "geom:area_square_m":25412760.131321,
+    "geom:area_square_m":25412760.131322,
     "geom:bbox":"1.07357873519,51.1249839737,1.15380391015,51.1968873668",
     "geom:latitude":51.159429,
     "geom:longitude":1.112812,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.158051,
     "lbl:longitude":1.112826,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644\u0647\u0627\u0645"
@@ -51,12 +57,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005017"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a4b2b6527e931da3352f041ac92aad39",
+    "wof:geomhash":"1a5c0e7877921f08454146dc4c1ada1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404429511,
     "wof:label":"Elham Civil Parish",
-    "wof:lastmodified":1566633137,
+    "wof:lastmodified":1695877522,
     "wof:name":"Elham",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

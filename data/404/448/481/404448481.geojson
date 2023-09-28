@@ -10,12 +10,18 @@
     "geom:latitude":51.020365,
     "geom:longitude":-0.451053,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.021954,
     "lbl:longitude":-0.450194,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Billingshurst"
@@ -63,12 +69,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009950"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854605
     ],
     "wof:country":"GB",
-    "wof:geomhash":"33690f799e0058fdc1a7c039d20e413e",
+    "wof:geomhash":"bafff7fa7bd4780e7e8acd8bd2a0900e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404448481,
     "wof:label":"Billingshurst Civil Parish",
-    "wof:lastmodified":1566631540,
+    "wof:lastmodified":1695876831,
     "wof:name":"Billingshurst",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.013356,
     "geom:longitude":-0.601561,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.013378,
     "lbl:longitude":-0.601568,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633\u0628\u0631\u0646 \u0643\u0631\u0648\u0644\u064a"
@@ -69,12 +75,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011961"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125899065
     ],
     "wof:country":"GB",
-    "wof:geomhash":"394a9ae77930015f1efb8f744c3d5cc8",
+    "wof:geomhash":"0c6215eaeb122e95bf19d323873c31c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404441557,
     "wof:label":"Husborne Crawley Civil Parish",
-    "wof:lastmodified":1566631723,
+    "wof:lastmodified":1695876894,
     "wof:name":"Husborne Crawley",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

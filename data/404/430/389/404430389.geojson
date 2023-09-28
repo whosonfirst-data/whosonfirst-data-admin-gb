@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
-    "geom:area_square_m":3741352.394712,
+    "geom:area_square_m":3741352.394713,
     "geom:bbox":"-1.50256745568,52.8232916041,-1.46117913142,52.8474926396",
     "geom:latitude":52.834912,
     "geom:longitude":-1.482635,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.833683,
     "lbl:longitude":-1.486085,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ingleby"
@@ -55,12 +61,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002910"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754311
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3ef56020b95f16fc3d9b9e657ebc609a",
+    "wof:geomhash":"e230094dbd91234e71d1fe143bd96814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404430389,
     "wof:label":"Ingleby Civil Parish",
-    "wof:lastmodified":1566632037,
+    "wof:lastmodified":1695877032,
     "wof:name":"Ingleby",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

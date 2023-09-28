@@ -10,12 +10,18 @@
     "geom:latitude":51.049059,
     "geom:longitude":-0.672089,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.053898,
     "lbl:longitude":-0.675393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lurgashall"
@@ -57,12 +63,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009915"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972371
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9df2df6e2fc11946d78b68a7820850a2",
+    "wof:geomhash":"1347f8e6ee467378f305379b4c840210",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439279,
     "wof:label":"Lurgashall Civil Parish",
-    "wof:lastmodified":1566631898,
+    "wof:lastmodified":1695876973,
     "wof:name":"Lurgashall",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

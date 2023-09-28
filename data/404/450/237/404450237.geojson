@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000958,
-    "geom:area_square_m":7120752.674813,
+    "geom:area_square_m":7120752.674814,
     "geom:bbox":"-2.97504550764,53.0284442634,-2.9136680529,53.0545097956",
     "geom:latitude":53.040672,
     "geom:longitude":-2.945332,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.041104,
     "lbl:longitude":-2.94534,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abenbury Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000889"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d449cfdc71038e60faf5bee749b00811",
+    "wof:geomhash":"1711137e5a729e5ff16394b58c41e302",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404450237,
-    "wof:lastmodified":1566633830,
+    "wof:lastmodified":1695877829,
     "wof:name":"Abenbury Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

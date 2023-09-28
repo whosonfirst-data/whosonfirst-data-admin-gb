@@ -10,12 +10,18 @@
     "geom:latitude":52.680973,
     "geom:longitude":-1.829438,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.681,
     "lbl:longitude":-1.829439,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Liccidfeld"
@@ -171,12 +177,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008932"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853655
     ],
     "wof:country":"GB",
-    "wof:geomhash":"06daf92f309c15ebf930481764658ece",
+    "wof:geomhash":"be060fa7962f1d91a763fc5f8ffb5641",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +198,7 @@
     ],
     "wof:id":404447815,
     "wof:label":"Lichfield Civil Parish",
-    "wof:lastmodified":1566631309,
+    "wof:lastmodified":1695878300,
     "wof:name":"Lichfield",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

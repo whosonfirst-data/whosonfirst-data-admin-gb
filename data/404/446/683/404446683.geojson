@@ -10,12 +10,18 @@
     "geom:latitude":51.447239,
     "geom:longitude":0.301345,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.445518,
     "lbl:longitude":0.298379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Swanscombe and Greenhithe"
@@ -55,12 +61,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004898"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754177
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d61e7ac6ca71e0f54af3efb5ec54a41",
+    "wof:geomhash":"f84ccffe6da5c846a7e4161151018e9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404446683,
     "wof:label":"Swanscombe and Greenhithe Civil Parish",
-    "wof:lastmodified":1566631680,
+    "wof:lastmodified":1695876878,
     "wof:name":"Swanscombe and Greenhithe",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

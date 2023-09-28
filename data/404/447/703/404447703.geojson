@@ -10,12 +10,18 @@
     "geom:latitude":50.878008,
     "geom:longitude":-1.343023,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.875966,
     "lbl:longitude":-1.343507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u043e\u0432\u043d\u043e \u043a\u0443\u0447\u0435"
@@ -70,12 +76,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004534"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755705
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6aded2f549987b8603d0f2253be0801e",
+    "wof:geomhash":"458fc299b2e826426801da435410b343",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +97,7 @@
     ],
     "wof:id":404447703,
     "wof:label":"Hound Civil Parish",
-    "wof:lastmodified":1566631298,
+    "wof:lastmodified":1695878295,
     "wof:name":"Hound",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

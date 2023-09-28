@@ -10,12 +10,18 @@
     "geom:latitude":51.082073,
     "geom:longitude":-3.313485,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.085331,
     "lbl:longitude":-3.316215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brompton Ralph"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008827"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226471185
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8305f173cb6977ea1b6e9b5c083f7b01",
+    "wof:geomhash":"e37607f8bdb693e3258e8287539ae8ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404434059,
     "wof:label":"Brompton Ralph Civil Parish",
-    "wof:lastmodified":1566633615,
+    "wof:lastmodified":1695877738,
     "wof:name":"Brompton Ralph",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003237,
-    "geom:area_square_m":24051197.112506,
+    "geom:area_square_m":24051197.112505,
     "geom:bbox":"-3.4814133744,53.0447796089,-3.3404488349,53.1000575966",
     "geom:latitude":53.071755,
     "geom:longitude":-3.405668,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.078681,
     "lbl:longitude":-3.383313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clocaenog Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000146"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242713371
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8b57c613f34f88489ba1c7b28eddf6fa",
+    "wof:geomhash":"4754dcfce9e3bd459b908323b0859a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441201,
-    "wof:lastmodified":1566631809,
+    "wof:lastmodified":1695876930,
     "wof:name":"Clocaenog Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

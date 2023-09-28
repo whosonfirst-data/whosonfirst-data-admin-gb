@@ -10,12 +10,18 @@
     "geom:latitude":51.762582,
     "geom:longitude":0.200198,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.763463,
     "lbl:longitude":0.20071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "High Laver"
@@ -72,12 +78,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012201"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126001435
     ],
     "wof:country":"GB",
-    "wof:geomhash":"effb5463d6c17280605c11dc56d028ea",
+    "wof:geomhash":"de0daa9ef8c757c3da9689871673e7c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404448929,
     "wof:label":"High Laver Civil Parish",
-    "wof:lastmodified":1566631561,
+    "wof:lastmodified":1695876841,
     "wof:name":"High Laver",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

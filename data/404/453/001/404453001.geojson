@@ -10,12 +10,18 @@
     "geom:latitude":51.429895,
     "geom:longitude":-3.225822,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.426023,
     "lbl:longitude":-3.223256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dinas Powys Community"
@@ -40,12 +46,15 @@
         1360698899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000653"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711825
     ],
     "wof:country":"GB",
-    "wof:geomhash":"edc0cb9f4ea762a9ccb524c5ec2d079e",
+    "wof:geomhash":"6cbdc4b78e347ba470f106fc547a623d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453001,
-    "wof:lastmodified":1566632789,
+    "wof:lastmodified":1695877368,
     "wof:name":"Dinas Powys Community",
     "wof:parent_id":1360698899,
     "wof:placetype":"localadmin",

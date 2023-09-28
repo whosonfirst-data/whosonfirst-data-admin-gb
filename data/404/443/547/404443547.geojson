@@ -10,12 +10,18 @@
     "geom:latitude":54.044837,
     "geom:longitude":-1.799132,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.051083,
     "lbl:longitude":-1.809261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thornthwaite with Padside"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007426"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758405
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b2d9cbe09755389881a17a880c8638a7",
+    "wof:geomhash":"b961307629379a7b6cdff37a776d7b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404443547,
     "wof:label":"Thornthwaite with Padside Civil Parish",
-    "wof:lastmodified":1566633080,
+    "wof:lastmodified":1695877496,
     "wof:name":"Thornthwaite with Padside",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.448072,
     "geom:longitude":-2.260482,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.449038,
     "lbl:longitude":-2.259829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Colerne"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011683"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125946965
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d61e84a08fe51030f7080f54b82e98fd",
+    "wof:geomhash":"131cb92480b30bd5f506e90599903700",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404431021,
     "wof:label":"Colerne Civil Parish",
-    "wof:lastmodified":1566632508,
+    "wof:lastmodified":1695877235,
     "wof:name":"Colerne",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

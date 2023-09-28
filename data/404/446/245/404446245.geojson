@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
-    "geom:area_square_m":3428328.697369,
+    "geom:area_square_m":3428328.697368,
     "geom:bbox":"-2.41918216886,52.1817569172,-2.3877781128,52.2072017041",
     "geom:latitude":52.192002,
     "geom:longitude":-2.402009,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.192054,
     "lbl:longitude":-2.400706,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Knightwick"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010315"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125792573
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ff05298e32e4b04ae92cff3d673a5f8e",
+    "wof:geomhash":"8fba3cfb8a556936ecb80fd50cd10298",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446245,
     "wof:label":"Knightwick Civil Parish",
-    "wof:lastmodified":1566631616,
+    "wof:lastmodified":1695876854,
     "wof:name":"Knightwick",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

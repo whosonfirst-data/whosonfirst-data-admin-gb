@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00067,
-    "geom:area_square_m":5082893.055337,
+    "geom:area_square_m":5082893.055336,
     "geom:bbox":"-0.00756737347149,52.1432841027,0.0391765004208,52.1745877457",
     "geom:latitude":52.156445,
     "geom:longitude":0.02332,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.154638,
     "lbl:longitude":0.026859,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0644\u062a\u0648\u0646"
@@ -63,12 +69,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001798"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293136015
     ],
     "wof:country":"GB",
-    "wof:geomhash":"036ad9b163abacaae871a3d76923e3a3",
+    "wof:geomhash":"49a4fb8770e60491df00dc1ad05800d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432871,
     "wof:label":"Harlton Civil Parish",
-    "wof:lastmodified":1566633941,
+    "wof:lastmodified":1695877870,
     "wof:name":"Harlton",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

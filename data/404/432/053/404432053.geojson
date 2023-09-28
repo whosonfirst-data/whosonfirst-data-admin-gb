@@ -10,12 +10,18 @@
     "geom:latitude":51.937402,
     "geom:longitude":-2.351921,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.937746,
     "lbl:longitude":-2.352326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upleadon"
@@ -66,12 +72,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004330"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125968773
     ],
     "wof:country":"GB",
-    "wof:geomhash":"669f510fc7e011f960d01b4bcbf48450",
+    "wof:geomhash":"ebb6bb9466b7ffe626f85c90b81a42f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404432053,
     "wof:label":"Upleadon Civil Parish",
-    "wof:lastmodified":1566633897,
+    "wof:lastmodified":1695877848,
     "wof:name":"Upleadon",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

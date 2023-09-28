@@ -10,12 +10,18 @@
     "geom:latitude":52.232149,
     "geom:longitude":-1.024317,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.232216,
     "lbl:longitude":-1.024305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upper Heyford"
@@ -60,12 +66,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006864"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972419
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e94559a820fd6152b4320718de2f17ab",
+    "wof:geomhash":"2f313508272861ee51c146669d40deeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404453629,
     "wof:label":"Upper Heyford Civil Parish",
-    "wof:lastmodified":1566632774,
+    "wof:lastmodified":1695877363,
     "wof:name":"Upper Heyford",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

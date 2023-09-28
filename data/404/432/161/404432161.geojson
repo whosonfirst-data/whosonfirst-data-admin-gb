@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001781,
-    "geom:area_square_m":12827552.578729,
+    "geom:area_square_m":12827552.578728,
     "geom:bbox":"-1.3373490887,54.3538624501,-1.23845419478,54.3924261234",
     "geom:latitude":54.370463,
     "geom:longitude":-1.282208,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.373307,
     "lbl:longitude":-1.273973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Osmotherley"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007237"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125851137
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dbc10cfac7deb167ef2da1e8a84a8cc2",
+    "wof:geomhash":"5bb1daa880d53c0f1cf2f29970f009c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404432161,
     "wof:label":"Osmotherley Civil Parish",
-    "wof:lastmodified":1566633855,
+    "wof:lastmodified":1695877838,
     "wof:name":"Osmotherley",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

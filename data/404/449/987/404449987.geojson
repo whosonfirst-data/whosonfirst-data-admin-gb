@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000933,
-    "geom:area_square_m":6891792.679656,
+    "geom:area_square_m":6891792.679657,
     "geom:bbox":"-2.68736192385,53.2819777454,-2.63717436465,53.31194213",
     "geom:latitude":53.296778,
     "geom:longitude":-2.660968,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.297814,
     "lbl:longitude":-2.661445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Aston"
@@ -73,12 +79,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011041"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754491
     ],
     "wof:country":"GB",
-    "wof:geomhash":"747f5b9d7bda19e8540c9ea675466197",
+    "wof:geomhash":"16a84e770b9c56709aedd7d628f64364",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +100,7 @@
     ],
     "wof:id":404449987,
     "wof:label":"Aston Civil Parish",
-    "wof:lastmodified":1566631448,
+    "wof:lastmodified":1695876791,
     "wof:name":"Aston",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

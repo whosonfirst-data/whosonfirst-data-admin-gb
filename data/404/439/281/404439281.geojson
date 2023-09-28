@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000462,
-    "geom:area_square_m":3547352.314682,
+    "geom:area_square_m":3547352.314683,
     "geom:bbox":"-3.9570413001,51.6445684262,-3.93025879981,51.6791840008",
     "geom:latitude":51.662168,
     "geom:longitude":-3.944553,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.66406,
     "lbl:longitude":-3.945466,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mynyddbach Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000972"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711729
     ],
     "wof:country":"GB",
-    "wof:geomhash":"53f3c76be708b9d76db10aa0aed76e10",
+    "wof:geomhash":"eed39b55d57e67e8326ea5c99162c768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404439281,
-    "wof:lastmodified":1566631856,
+    "wof:lastmodified":1695876952,
     "wof:name":"Mynyddbach Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

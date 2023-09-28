@@ -10,12 +10,18 @@
     "geom:latitude":52.403534,
     "geom:longitude":-2.30823,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.403526,
     "lbl:longitude":-2.308228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kidderminster Foreign"
@@ -40,12 +46,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010450"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759559
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d82ee229f0aa620ea4676c86deec349f",
+    "wof:geomhash":"d5cd68b7f2529b0a7add90205935dd17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404437363,
     "wof:label":"Kidderminster Foreign Civil Parish",
-    "wof:lastmodified":1566632062,
+    "wof:lastmodified":1695877042,
     "wof:name":"Kidderminster Foreign",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

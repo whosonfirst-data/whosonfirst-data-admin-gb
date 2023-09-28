@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009354,
-    "geom:area_square_m":70488302.272708,
+    "geom:area_square_m":70488302.272702,
     "geom:bbox":"-3.51743862655,52.390527413,-3.37816989235,52.5155525919",
     "geom:latitude":52.453497,
     "geom:longitude":-3.450541,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.454188,
     "lbl:longitude":-3.450536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llandinam Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000292"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293229389
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0dff71ccbf16108359b3d848a176f781",
+    "wof:geomhash":"46ed6b299032c57ab4d6943c80edb2f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429939,
-    "wof:lastmodified":1566633100,
+    "wof:lastmodified":1695877505,
     "wof:name":"Llandinam Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

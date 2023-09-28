@@ -10,12 +10,18 @@
     "geom:latitude":51.498599,
     "geom:longitude":-1.598003,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.492405,
     "lbl:longitude":-1.59305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baydon"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011629"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125781759
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f11ecf3656a0dfba3ddf6d02c9293c7e",
+    "wof:geomhash":"c6f0befbb41b829db144c635e557a56e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404433245,
     "wof:label":"Baydon Civil Parish",
-    "wof:lastmodified":1566633654,
+    "wof:lastmodified":1695877754,
     "wof:name":"Baydon",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

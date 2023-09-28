@@ -10,12 +10,18 @@
     "geom:latitude":53.06805,
     "geom:longitude":-1.804898,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.069301,
     "lbl:longitude":-1.802081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0418\u043b\u0430\u043c"
@@ -78,12 +84,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009047"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998279
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9e4efe214d6c78aafb07af8f78acff72",
+    "wof:geomhash":"46349c9f247ac5b4ffbf04a3263adedd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404437177,
     "wof:label":"Ilam Civil Parish",
-    "wof:lastmodified":1566632152,
+    "wof:lastmodified":1695877079,
     "wof:name":"Ilam",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

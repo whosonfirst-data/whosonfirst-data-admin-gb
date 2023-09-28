@@ -10,12 +10,18 @@
     "geom:latitude":53.908871,
     "geom:longitude":-2.400594,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.907907,
     "lbl:longitude":-2.401002,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Bradford"
@@ -42,12 +48,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005286"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060231
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9348a4f9db3a4285d9c12035aafc6092",
+    "wof:geomhash":"2fd6590d4fc2eb043597817e2ef28a12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404444809,
     "wof:label":"West Bradford Civil Parish",
-    "wof:lastmodified":1566632959,
+    "wof:lastmodified":1695877439,
     "wof:name":"West Bradford",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

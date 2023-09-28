@@ -10,12 +10,18 @@
     "geom:latitude":50.931556,
     "geom:longitude":-4.148805,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.9325,
     "lbl:longitude":-4.154167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Torrington"
@@ -63,12 +69,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003275"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360314219
     ],
     "wof:country":"GB",
-    "wof:geomhash":"835cac910c3889c232e7a2886eec7d28",
+    "wof:geomhash":"f1192dce5b8bee468cd828515a129d97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454863,
     "wof:label":"Little Torrington Civil Parish",
-    "wof:lastmodified":1566632733,
+    "wof:lastmodified":1695877343,
     "wof:name":"Little Torrington",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

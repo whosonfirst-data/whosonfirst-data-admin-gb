@@ -10,12 +10,18 @@
     "geom:latitude":54.000899,
     "geom:longitude":-0.244886,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.002289,
     "lbl:longitude":-0.245545,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ulrome"
@@ -45,12 +51,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000493"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913153
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ad5353bf96951b4969a52c9f3260edc4",
+    "wof:geomhash":"68d8dd7b2c50d870d4cac3a8c949a6eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404436557,
     "wof:label":"Ulrome Civil Parish",
-    "wof:lastmodified":1566632326,
+    "wof:lastmodified":1695877153,
     "wof:name":"Ulrome",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

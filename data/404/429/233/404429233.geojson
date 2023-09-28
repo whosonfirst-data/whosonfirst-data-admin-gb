@@ -10,12 +10,18 @@
     "geom:latitude":51.720248,
     "geom:longitude":-1.219973,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.720706,
     "lbl:longitude":-1.219026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Littlemore"
@@ -63,12 +69,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008097"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125987387
     ],
     "wof:country":"GB",
-    "wof:geomhash":"112dcc49da3681e85a7c6a240913a37c",
+    "wof:geomhash":"816743f39b7298a153d86ffeaa7f1184",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404429233,
     "wof:label":"Littlemore Civil Parish",
-    "wof:lastmodified":1566633127,
+    "wof:lastmodified":1695877517,
     "wof:name":"Littlemore",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

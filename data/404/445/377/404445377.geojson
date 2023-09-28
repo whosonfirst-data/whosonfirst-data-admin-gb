@@ -10,12 +10,18 @@
     "geom:latitude":51.620801,
     "geom:longitude":-3.912655,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.6179,
     "lbl:longitude":-3.914371,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Thomas Community"
@@ -47,9 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"W04000594",
         "gn:id":7299732,
         "qs_pg:id":1040943
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125780445
     ],
@@ -57,7 +65,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"978e5a825ea6a56b909397b3ca25d54a",
+    "wof:geomhash":"1e10237feb77be7715960666245a2215",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +77,7 @@
         }
     ],
     "wof:id":404445377,
-    "wof:lastmodified":1582311134,
+    "wof:lastmodified":1695877979,
     "wof:name":"St. Thomas Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

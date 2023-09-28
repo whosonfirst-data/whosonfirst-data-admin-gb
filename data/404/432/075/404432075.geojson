@@ -10,12 +10,18 @@
     "geom:latitude":51.87109,
     "geom:longitude":-0.777583,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.869125,
     "lbl:longitude":-0.787344,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u062a\u0648\u0646 \u0623\u0628\u062a\u0633"
@@ -69,12 +75,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001456"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125975797
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d09cc6e94eba4ede16ae7bc642588fa2",
+    "wof:geomhash":"0de3edbc02c46315b27c90c6e1ec84bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404432075,
     "wof:label":"Aston Abbotts Civil Parish",
-    "wof:lastmodified":1566633941,
+    "wof:lastmodified":1695877870,
     "wof:name":"Aston Abbotts",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

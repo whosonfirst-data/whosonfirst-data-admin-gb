@@ -10,12 +10,18 @@
     "geom:latitude":54.201055,
     "geom:longitude":-2.512879,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.200498,
     "lbl:longitude":-2.51747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leck"
@@ -60,12 +66,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005193"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125952977
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8da819384b88c68fed8d310ca0579d97",
+    "wof:geomhash":"a079b2efdf05e7b16a86b3e28740ed92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448789,
     "wof:label":"Leck Civil Parish",
-    "wof:lastmodified":1566631568,
+    "wof:lastmodified":1695876844,
     "wof:name":"Leck",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

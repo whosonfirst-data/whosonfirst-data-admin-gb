@@ -10,12 +10,18 @@
     "geom:latitude":51.665676,
     "geom:longitude":-3.02466,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.665521,
     "lbl:longitude":-3.024453,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pontnewydd Community"
@@ -40,12 +46,15 @@
         1360698919
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000771"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125773195
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1ee6c727579ab96f8fc2a8cd79acefb4",
+    "wof:geomhash":"4afa18521723948966752e8e8002fe5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404436055,
-    "wof:lastmodified":1566632353,
+    "wof:lastmodified":1695877165,
     "wof:name":"Pontnewydd Community",
     "wof:parent_id":1360698919,
     "wof:placetype":"localadmin",

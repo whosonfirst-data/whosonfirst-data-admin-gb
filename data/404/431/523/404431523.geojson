@@ -10,12 +10,18 @@
     "geom:latitude":53.763073,
     "geom:longitude":-2.592911,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.761245,
     "lbl:longitude":-2.592909,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Samlesbury"
@@ -69,12 +75,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005299"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881501
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3fb288cc7bf93fd4e8b05466f1c91a79",
+    "wof:geomhash":"1a63c2875f7c8f83d6d76bee3c5fe392",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404431523,
     "wof:label":"Samlesbury Civil Parish",
-    "wof:lastmodified":1566632533,
+    "wof:lastmodified":1695877247,
     "wof:name":"Samlesbury",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

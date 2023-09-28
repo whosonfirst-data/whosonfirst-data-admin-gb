@@ -10,12 +10,18 @@
     "geom:latitude":51.078959,
     "geom:longitude":-1.386262,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.078428,
     "lbl:longitude":-1.39062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sparsholt"
@@ -57,12 +63,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004686"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878651
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1812bb6cef253a0aa4e52fca8fc724c0",
+    "wof:geomhash":"bd43358ca0c2e715e6df4510134a9734",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404441591,
     "wof:label":"Sparsholt Civil Parish",
-    "wof:lastmodified":1566631785,
+    "wof:lastmodified":1695876919,
     "wof:name":"Sparsholt",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

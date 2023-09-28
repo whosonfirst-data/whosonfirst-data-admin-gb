@@ -10,12 +10,18 @@
     "geom:latitude":52.470801,
     "geom:longitude":1.07936,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.471225,
     "lbl:longitude":1.079168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "New Buckenham"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006151"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846177
     ],
     "wof:country":"GB",
-    "wof:geomhash":"84101d21d19e3c4f832bd33c04ad4106",
+    "wof:geomhash":"f9ae63e16f8123331ba15a951a16b5eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442173,
     "wof:label":"New Buckenham Civil Parish",
-    "wof:lastmodified":1566633237,
+    "wof:lastmodified":1695877568,
     "wof:name":"New Buckenham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

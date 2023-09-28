@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001135,
-    "geom:area_square_m":8662948.661428,
+    "geom:area_square_m":8662948.661429,
     "geom:bbox":"0.744478655298,51.8483344736,0.819528586539,51.8850940318",
     "geom:latitude":51.865312,
     "geom:longitude":0.783827,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.865598,
     "lbl:longitude":0.786953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Copford"
@@ -64,12 +70,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003983"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758275
     ],
     "wof:country":"GB",
-    "wof:geomhash":"21efeba429877deecd1916bf87c82bbe",
+    "wof:geomhash":"9c160f945a314180b25f61eaac1c4ed7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404443291,
     "wof:label":"Copford Civil Parish",
-    "wof:lastmodified":1566633069,
+    "wof:lastmodified":1695877491,
     "wof:name":"Copford",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

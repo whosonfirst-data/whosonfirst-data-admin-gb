@@ -10,12 +10,18 @@
     "geom:latitude":53.750109,
     "geom:longitude":-2.275006,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.750269,
     "lbl:longitude":-2.275007,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dunnockshaw"
@@ -49,12 +55,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005133"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757981
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db60eb585dd90a381ecab739798e1a61",
+    "wof:geomhash":"7781199f95c9c9c76360ecdeeb6647c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404435885,
     "wof:label":"Dunnockshaw Civil Parish",
-    "wof:lastmodified":1566634057,
+    "wof:lastmodified":1695877928,
     "wof:name":"Dunnockshaw",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000534,
-    "geom:area_square_m":3950960.890234,
+    "geom:area_square_m":3950960.890233,
     "geom:bbox":"-0.714105715978,53.2578316238,-0.677500722319,53.2824551297",
     "geom:latitude":53.272,
     "geom:longitude":-0.693844,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.271583,
     "lbl:longitude":-0.69384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hardwick"
@@ -88,12 +94,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005999"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755857
     ],
     "wof:country":"GB",
-    "wof:geomhash":"44a64e4e7fd78a2d272ced96a5b9304d",
+    "wof:geomhash":"1e25a05f59f477ec0da64ea5cbb42319",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +115,7 @@
     ],
     "wof:id":404439989,
     "wof:label":"Hardwick Civil Parish",
-    "wof:lastmodified":1566631925,
+    "wof:lastmodified":1695876986,
     "wof:name":"Hardwick",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002043,
-    "geom:area_square_m":14356936.627521,
+    "geom:area_square_m":14356936.627522,
     "geom:bbox":"-1.75923299146,55.3497661729,-1.65279511012,55.3906128564",
     "geom:latitude":55.367759,
     "geom:longitude":-1.700889,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.367958,
     "lbl:longitude":-1.688433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shilbottle"
@@ -57,12 +63,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010859"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125956033
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ed318bd76b61e000de0c521fb9e567b2",
+    "wof:geomhash":"1a11cefffb18105e8ed24b6c3b4fd9fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404445507,
     "wof:label":"Shilbottle Civil Parish",
-    "wof:lastmodified":1566633372,
+    "wof:lastmodified":1695877627,
     "wof:name":"Shilbottle",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

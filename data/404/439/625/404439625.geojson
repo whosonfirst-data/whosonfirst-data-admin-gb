@@ -10,12 +10,18 @@
     "geom:latitude":52.250091,
     "geom:longitude":-0.623386,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.248912,
     "lbl:longitude":-0.625779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u062f\u064a\u0646\u063a\u062a\u0648\u0646"
@@ -66,12 +72,15 @@
         1360699073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011905"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"28c7421a7b0f51b39c4d66e16b4bc37d",
+    "wof:geomhash":"9c43b607e672a24f4b5b9b9d5b1de114",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404439625,
     "wof:label":"Podington Civil Parish",
-    "wof:lastmodified":1566631898,
+    "wof:lastmodified":1695876973,
     "wof:name":"Podington",
     "wof:parent_id":1360699073,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.838791,
     "geom:longitude":-3.031703,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.832323,
     "lbl:longitude":-3.029775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abergavenny Community"
@@ -40,12 +46,15 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000775"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852897
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d5560883d8b8d3ec825ede0a70e21f53",
+    "wof:geomhash":"dacd3f1a1b92bb4dced64a20a28b9ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430819,
-    "wof:lastmodified":1566631956,
+    "wof:lastmodified":1695876999,
     "wof:name":"Abergavenny Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

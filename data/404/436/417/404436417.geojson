@@ -10,12 +10,18 @@
     "geom:latitude":52.291188,
     "geom:longitude":-0.74174,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.28829,
     "lbl:longitude":-0.738024,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wilby"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006893"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126004205
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8e77800c2f165434914dbef3a8955a68",
+    "wof:geomhash":"c21ca3ec7a762e49f4c593f2fa3f5e6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404436417,
     "wof:label":"Wilby Civil Parish",
-    "wof:lastmodified":1566632393,
+    "wof:lastmodified":1695877183,
     "wof:name":"Wilby",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

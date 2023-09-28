@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001403,
-    "geom:area_square_m":10350225.325612,
+    "geom:area_square_m":10350225.325611,
     "geom:bbox":"-2.85625580789,53.3466254613,-2.78485501814,53.3820338507",
     "geom:latitude":53.363829,
     "geom:longitude":-2.828223,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.363997,
     "lbl:longitude":-2.833636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Halewood"
@@ -73,12 +79,15 @@
         1360698941
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000017"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"588fde7721e4e842b67af1ddc0a5cbd3",
+    "wof:geomhash":"099000844e224194c54486034b123fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +100,7 @@
     ],
     "wof:id":404441051,
     "wof:label":"Halewood Civil Parish",
-    "wof:lastmodified":1566631813,
+    "wof:lastmodified":1695876932,
     "wof:name":"Halewood",
     "wof:parent_id":1360698941,
     "wof:placetype":"localadmin",

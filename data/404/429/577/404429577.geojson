@@ -10,12 +10,18 @@
     "geom:latitude":52.298433,
     "geom:longitude":1.360515,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.298236,
     "lbl:longitude":1.363901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laxfield"
@@ -60,12 +66,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009222"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126001677
     ],
     "wof:country":"GB",
-    "wof:geomhash":"680f0c25e56888494e2813dc8c60b3e2",
+    "wof:geomhash":"fe1f2a52bc2723fb4a1a3899703dfed2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404429577,
     "wof:label":"Laxfield Civil Parish",
-    "wof:lastmodified":1566633189,
+    "wof:lastmodified":1695877544,
     "wof:name":"Laxfield",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

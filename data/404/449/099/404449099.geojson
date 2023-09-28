@@ -10,12 +10,18 @@
     "geom:latitude":53.121841,
     "geom:longitude":-2.550165,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.122068,
     "lbl:longitude":-2.550567,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cholmondeston"
@@ -57,12 +63,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010925"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125790411
     ],
     "wof:country":"GB",
-    "wof:geomhash":"59f1b9728aa527a87a9b897e83c9f97d",
+    "wof:geomhash":"26285c40519eca52be8a58fadbca300d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404449099,
     "wof:label":"Cholmondeston Civil Parish",
-    "wof:lastmodified":1566631380,
+    "wof:lastmodified":1695878329,
     "wof:name":"Cholmondeston",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

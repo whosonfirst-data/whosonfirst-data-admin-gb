@@ -10,12 +10,18 @@
     "geom:latitude":52.290079,
     "geom:longitude":-0.00104,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.288844,
     "lbl:longitude":-0.001525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0648\u0633\u064a"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001843"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126011099
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9b7223fc510f9e64b90ff9ce4b5751de",
+    "wof:geomhash":"72f0563e4378026990425508ee637ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404439191,
     "wof:label":"Swavesey Civil Parish",
-    "wof:lastmodified":1566631886,
+    "wof:lastmodified":1695876967,
     "wof:name":"Swavesey",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

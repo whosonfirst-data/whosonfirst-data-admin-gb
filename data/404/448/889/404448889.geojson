@@ -10,12 +10,18 @@
     "geom:latitude":51.118426,
     "geom:longitude":-0.264276,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.119129,
     "lbl:longitude":-0.254477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rusper"
@@ -60,12 +66,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009964"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125920815
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0740f3b6080ca4fb6f069987a5c05482",
+    "wof:geomhash":"3f80ab323de8dd397aff1a8abdad52a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448889,
     "wof:label":"Rusper Civil Parish",
-    "wof:lastmodified":1566631479,
+    "wof:lastmodified":1695876805,
     "wof:name":"Rusper",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

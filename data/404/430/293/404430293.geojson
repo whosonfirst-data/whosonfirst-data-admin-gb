@@ -10,12 +10,18 @@
     "geom:latitude":53.705376,
     "geom:longitude":0.035274,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.704728,
     "lbl:longitude":0.030122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hollym"
@@ -48,12 +54,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000411"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125840203
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b06600b6ab888bb457e35e69d094274e",
+    "wof:geomhash":"8717a96cd67d4beba2c98b0f3b435ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404430293,
     "wof:label":"Hollym Civil Parish",
-    "wof:lastmodified":1566631971,
+    "wof:lastmodified":1695877004,
     "wof:name":"Hollym",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

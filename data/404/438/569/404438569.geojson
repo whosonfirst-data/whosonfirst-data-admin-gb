@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001505,
-    "geom:area_square_m":11267596.987582,
+    "geom:area_square_m":11267596.987581,
     "geom:bbox":"1.36365249549,52.7290470342,1.44203608105,52.7715793799",
     "geom:latitude":52.750349,
     "geom:longitude":1.40877,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.745902,
     "lbl:longitude":1.409363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tunstead"
@@ -46,12 +52,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006491"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754461
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ddd0fdcfb5abaab9c0c98a4dc47afa94",
+    "wof:geomhash":"8442c8fc0ec5d398dc3e6ced143fa1bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404438569,
     "wof:label":"Tunstead Civil Parish",
-    "wof:lastmodified":1566632537,
+    "wof:lastmodified":1695877249,
     "wof:name":"Tunstead",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

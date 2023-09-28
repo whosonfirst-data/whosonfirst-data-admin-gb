@@ -10,12 +10,18 @@
     "geom:latitude":52.377641,
     "geom:longitude":-1.678238,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.384481,
     "lbl:longitude":-1.668988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balsall"
@@ -40,12 +46,15 @@
         1360699057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000145"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759395
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bd7192efcf75ac2372f14423606df093",
+    "wof:geomhash":"4ee060054fde0dd5502ace059ce8affe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404453641,
     "wof:label":"Balsall Civil Parish",
-    "wof:lastmodified":1566632828,
+    "wof:lastmodified":1695877386,
     "wof:name":"Balsall",
     "wof:parent_id":1360699057,
     "wof:placetype":"localadmin",

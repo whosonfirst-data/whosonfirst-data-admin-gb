@@ -10,12 +10,18 @@
     "geom:latitude":51.612066,
     "geom:longitude":-2.441407,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.61396,
     "lbl:longitude":-2.440983,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cromhall"
@@ -49,12 +55,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001047"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753741
     ],
     "wof:country":"GB",
-    "wof:geomhash":"46bafaf1bc9d7158b717539466803297",
+    "wof:geomhash":"ae1f87ed3dc047f7ed8ff979b4323afb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404454529,
     "wof:label":"Cromhall Civil Parish",
-    "wof:lastmodified":1566632689,
+    "wof:lastmodified":1695877321,
     "wof:name":"Cromhall",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007031,
-    "geom:area_square_m":53637231.493236,
+    "geom:area_square_m":53637231.493239,
     "geom:bbox":"-4.2102672591,51.8583560399,-4.08915570346,51.9584423379",
     "geom:latitude":51.906158,
     "geom:longitude":-4.160796,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.911977,
     "lbl:longitude":-4.166737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanegwad Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000518"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226271829
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1ade385da874dc4ecba125d8c131f20b",
+    "wof:geomhash":"c65f024eaf8c02515737653e9d0c0d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454747,
-    "wof:lastmodified":1566632686,
+    "wof:lastmodified":1695877319,
     "wof:name":"Llanegwad Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

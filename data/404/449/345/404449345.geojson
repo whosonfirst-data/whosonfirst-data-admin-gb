@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003413,
-    "geom:area_square_m":26018418.137618,
+    "geom:area_square_m":26018418.137617,
     "geom:bbox":"-4.35115415374,51.9069855955,-4.26787362797,51.9742122466",
     "geom:latitude":51.938619,
     "geom:longitude":-4.308552,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.939279,
     "lbl:longitude":-4.309326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanpumsaint Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000538"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125935515
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e22b81ecd8aa4f5188bb943a02c14a72",
+    "wof:geomhash":"f77d399a94a106cd7b13fc282120b131",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449345,
-    "wof:lastmodified":1566631449,
+    "wof:lastmodified":1695876792,
     "wof:name":"Llanpumsaint Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

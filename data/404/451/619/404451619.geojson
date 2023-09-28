@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00109,
-    "geom:area_square_m":8431821.358046,
+    "geom:area_square_m":8431821.358045,
     "geom:bbox":"0.78827688163,51.2526792287,0.840350735003,51.2905117486",
     "geom:latitude":51.270924,
     "geom:longitude":0.818972,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.27186,
     "lbl:longitude":0.822911,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eastling"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005051"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903103
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0605d631fad8d49673e94cf68651caa2",
+    "wof:geomhash":"65f34379e32e812e1a2fdbbfe9470062",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404451619,
     "wof:label":"Eastling Civil Parish",
-    "wof:lastmodified":1566633441,
+    "wof:lastmodified":1695877655,
     "wof:name":"Eastling",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

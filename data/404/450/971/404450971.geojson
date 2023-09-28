@@ -10,12 +10,18 @@
     "geom:latitude":52.739177,
     "geom:longitude":-4.034271,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.733507,
     "lbl:longitude":-4.033514,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barmouth Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000047"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853669
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1bb9eaa28aa847e3d126e5e9b00c88d5",
+    "wof:geomhash":"b9b32883ccbbe6430e08cf22bfc23feb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404450971,
-    "wof:lastmodified":1566633789,
+    "wof:lastmodified":1695877813,
     "wof:name":"Barmouth Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

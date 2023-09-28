@@ -10,12 +10,18 @@
     "geom:latitude":53.489375,
     "geom:longitude":-0.856824,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.488969,
     "lbl:longitude":-0.856837,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Haxey"
@@ -66,12 +72,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000560"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125942461
     ],
     "wof:country":"GB",
-    "wof:geomhash":"904bee972e09ad6c9a3b81779548eefa",
+    "wof:geomhash":"4b4ee7b77a5f32a80d4ccc6c3ab140e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404445329,
     "wof:label":"Haxey Civil Parish",
-    "wof:lastmodified":1566633406,
+    "wof:lastmodified":1695877642,
     "wof:name":"Haxey",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

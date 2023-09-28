@@ -10,12 +10,18 @@
     "geom:latitude":51.257815,
     "geom:longitude":-0.481341,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.254146,
     "lbl:longitude":-0.482798,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Clandon"
@@ -57,12 +63,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009544"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125942551
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3f04302534ca458ed6df604d13d182a8",
+    "wof:geomhash":"c2c01e23608ccd07f02c91e4f0133c01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448323,
     "wof:label":"East Clandon Civil Parish",
-    "wof:lastmodified":1566631508,
+    "wof:lastmodified":1695876818,
     "wof:name":"East Clandon",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

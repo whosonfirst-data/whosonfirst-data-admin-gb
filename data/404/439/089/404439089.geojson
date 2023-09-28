@@ -10,12 +10,18 @@
     "geom:latitude":51.758176,
     "geom:longitude":-1.168354,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.760725,
     "lbl:longitude":-1.168363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Forest Hill with Shotover"
@@ -49,12 +55,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008129"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755195
     ],
     "wof:country":"GB",
-    "wof:geomhash":"751999f2911447169bdb42680f12e27b",
+    "wof:geomhash":"58c0f2a7c451d65d3502bdc8cea87624",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404439089,
     "wof:label":"Forest Hill with Shotover Civil Parish",
-    "wof:lastmodified":1566631896,
+    "wof:lastmodified":1695876972,
     "wof:name":"Forest Hill with Shotover",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

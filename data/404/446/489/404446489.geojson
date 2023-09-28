@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001725,
-    "geom:area_square_m":13202185.230543,
+    "geom:area_square_m":13202185.230542,
     "geom:bbox":"-0.984033756595,51.757038851,-0.894019132796,51.790128839",
     "geom:latitude":51.772749,
     "geom:longitude":-0.934608,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.773041,
     "lbl:longitude":-0.93393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Haddenham"
@@ -58,12 +64,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001490"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753877
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9a16508ea8d409de448f7b4d48f20c17",
+    "wof:geomhash":"847776e9d391a9445884456c80a4736f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404446489,
     "wof:label":"Haddenham Civil Parish",
-    "wof:lastmodified":1566631680,
+    "wof:lastmodified":1695876878,
     "wof:name":"Haddenham",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

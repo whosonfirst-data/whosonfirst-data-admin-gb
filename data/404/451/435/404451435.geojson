@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005814,
-    "geom:area_square_m":45405934.050295,
+    "geom:area_square_m":45405934.050294,
     "geom:bbox":"-1.74241081807,50.783510121,-1.63505155093,50.8671374108",
     "geom:latitude":50.831947,
     "geom:longitude":-1.691914,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.831583,
     "lbl:longitude":-1.692944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burley"
@@ -78,12 +84,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004561"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054259
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fe26250b852a29d4409881c42fbb5f6f",
+    "wof:geomhash":"c24e87db336a420c9189e11aaaa6491c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404451435,
     "wof:label":"Burley Civil Parish",
-    "wof:lastmodified":1566633517,
+    "wof:lastmodified":1695877691,
     "wof:name":"Burley",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

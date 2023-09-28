@@ -10,12 +10,18 @@
     "geom:latitude":53.969015,
     "geom:longitude":-0.282063,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.971149,
     "lbl:longitude":-0.284518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beeford"
@@ -60,12 +66,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000352"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126029965
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fdde654b907f13b0a9162b7308e715de",
+    "wof:geomhash":"997e93556a8bdda0d0753a49e267194c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404437575,
     "wof:label":"Beeford Civil Parish",
-    "wof:lastmodified":1566632094,
+    "wof:lastmodified":1695877056,
     "wof:name":"Beeford",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

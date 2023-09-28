@@ -10,12 +10,18 @@
     "geom:latitude":52.466663,
     "geom:longitude":-2.336276,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.479136,
     "lbl:longitude":-2.325044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alveley"
@@ -57,12 +63,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011205"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913949
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cefa6f7d870659b2c6dca144b5c0b09a",
+    "wof:geomhash":"f9fefe1233c77859f362d00905dd331b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453675,
     "wof:label":"Alveley Civil Parish",
-    "wof:lastmodified":1566632763,
+    "wof:lastmodified":1695877357,
     "wof:name":"Alveley",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

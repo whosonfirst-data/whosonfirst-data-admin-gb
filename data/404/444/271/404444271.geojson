@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000801,
-    "geom:area_square_m":6312804.70696,
+    "geom:area_square_m":6312804.706959,
     "geom:bbox":"-3.54042423997,50.375912335,-3.48234744388,50.405625173",
     "geom:latitude":50.390041,
     "geom:longitude":-3.51352,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.387701,
     "lbl:longitude":-3.513957,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u06cc\u06a9\u0633\u0647\u0627\u0645"
@@ -105,12 +111,15 @@
         1360699071
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001084"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852303
     ],
     "wof:country":"GB",
-    "wof:geomhash":"139bedbd36f3ad1e25ae36686b8bd47f",
+    "wof:geomhash":"4e58c2a24fe94be583f3f995430c6b2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404444271,
     "wof:label":"Brixham Civil Parish",
-    "wof:lastmodified":1566632952,
+    "wof:lastmodified":1695877435,
     "wof:name":"Brixham",
     "wof:parent_id":1360699071,
     "wof:placetype":"localadmin",

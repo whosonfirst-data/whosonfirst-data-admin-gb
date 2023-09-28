@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001142,
-    "geom:area_square_m":8655475.970703,
+    "geom:area_square_m":8655475.970704,
     "geom:bbox":"-0.405913261269,52.1902250512,-0.351054844365,52.2273411316",
     "geom:latitude":52.207075,
     "geom:longitude":-0.381257,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.205125,
     "lbl:longitude":-0.383957,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0645\u0648\u0631\u062a\u0647"
@@ -66,12 +72,15 @@
         1360699073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011885"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1193166427
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fd5a0d2534b30f3d3da594b10e7bd2cb",
+    "wof:geomhash":"96f8bea6ce07e119eeab5a84bce73ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404436687,
     "wof:label":"Colmworth Civil Parish",
-    "wof:lastmodified":1566632340,
+    "wof:lastmodified":1695877160,
     "wof:name":"Colmworth",
     "wof:parent_id":1360699073,
     "wof:placetype":"localadmin",

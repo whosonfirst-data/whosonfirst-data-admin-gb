@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001684,
-    "geom:area_square_m":11931761.838056,
+    "geom:area_square_m":11931761.838055,
     "geom:bbox":"-2.1908500949,55.0197946712,-2.10993028122,55.0630443761",
     "geom:latitude":55.040204,
     "geom:longitude":-2.148773,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.03842,
     "lbl:longitude":-2.148174,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Humshaugh"
@@ -60,12 +66,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010811"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844305
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dd06d568065c12b0a62b240a82ea7a09",
+    "wof:geomhash":"f16328e90c675e360b2368f596310b76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404443279,
     "wof:label":"Humshaugh Civil Parish",
-    "wof:lastmodified":1566633053,
+    "wof:lastmodified":1695877484,
     "wof:name":"Humshaugh",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

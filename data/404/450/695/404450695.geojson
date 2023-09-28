@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001388,
-    "geom:area_square_m":10449487.845134,
+    "geom:area_square_m":10449487.845133,
     "geom:bbox":"1.21952775044,52.4591200697,1.25662448956,52.514768382",
     "geom:latitude":52.484922,
     "geom:longitude":1.240364,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.480379,
     "lbl:longitude":1.23887,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Long Stratton"
@@ -72,12 +78,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006572"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854939
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2733c8bec40af053063a509dbab9d1bf",
+    "wof:geomhash":"5ee1ab3be37288c3a21b4c3e01a48358",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404450695,
     "wof:label":"Long Stratton Civil Parish",
-    "wof:lastmodified":1566633779,
+    "wof:lastmodified":1695877809,
     "wof:name":"Long Stratton",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

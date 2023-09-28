@@ -10,12 +10,18 @@
     "geom:latitude":54.150852,
     "geom:longitude":-1.327686,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.150291,
     "lbl:longitude":-1.327434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fawdington"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007176"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756505
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8b630007bc570975de8488d61da705eb",
+    "wof:geomhash":"3196762dc690a05fc75dd4f573830ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404440829,
     "wof:label":"Fawdington Civil Parish",
-    "wof:lastmodified":1566631139,
+    "wof:lastmodified":1695878221,
     "wof:name":"Fawdington",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004349,
-    "geom:area_square_m":33134818.349625,
+    "geom:area_square_m":33134818.349624,
     "geom:bbox":"-4.04847983033,51.9342739994,-3.93904153228,52.0050792591",
     "geom:latitude":51.968348,
     "geom:longitude":-3.993133,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.966169,
     "lbl:longitude":-3.993957,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Talley Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000557"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125839857
     ],
     "wof:country":"GB",
-    "wof:geomhash":"648397aca0ae0bf9ce4d92b25c3d7941",
+    "wof:geomhash":"e0441b56d77777277d9102f4f03751f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404436923,
-    "wof:lastmodified":1566632367,
+    "wof:lastmodified":1695877172,
     "wof:name":"Talley Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

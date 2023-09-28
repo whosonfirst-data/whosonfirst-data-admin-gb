@@ -10,12 +10,18 @@
     "geom:latitude":51.958879,
     "geom:longitude":-1.066475,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.959384,
     "lbl:longitude":-1.066739,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u062a\u0648\u062f"
@@ -66,12 +72,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001470"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125858157
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9cf82dad2abb56f55fde75a3a6e8f956",
+    "wof:geomhash":"616c8dc7419d7d0ea996564bd52df419",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404434829,
     "wof:label":"Chetwode Civil Parish",
-    "wof:lastmodified":1566633549,
+    "wof:lastmodified":1695877708,
     "wof:name":"Chetwode",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

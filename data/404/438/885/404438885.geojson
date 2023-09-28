@@ -10,12 +10,18 @@
     "geom:latitude":52.763522,
     "geom:longitude":1.087453,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.762133,
     "lbl:longitude":1.08408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Reepham"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006244"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854975
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3f4232314df1e88e9e85438a18d62e92",
+    "wof:geomhash":"abe96384d5f2ad7a26333285b8b91817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404438885,
     "wof:label":"Reepham Civil Parish",
-    "wof:lastmodified":1566632609,
+    "wof:lastmodified":1695877282,
     "wof:name":"Reepham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

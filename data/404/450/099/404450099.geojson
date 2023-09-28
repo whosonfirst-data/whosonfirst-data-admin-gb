@@ -10,12 +10,18 @@
     "geom:latitude":52.656374,
     "geom:longitude":-0.530082,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.656631,
     "lbl:longitude":-0.527919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tinwell"
@@ -69,12 +75,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000675"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126050627
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ae6f2c5928efdcace3abed109f46201b",
+    "wof:geomhash":"8a5262bc0da49f798fecff5b73b4ef00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404450099,
     "wof:label":"Tinwell Civil Parish",
-    "wof:lastmodified":1566633775,
+    "wof:lastmodified":1695877807,
     "wof:name":"Tinwell",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

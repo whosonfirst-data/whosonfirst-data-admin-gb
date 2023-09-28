@@ -10,12 +10,18 @@
     "geom:latitude":52.030792,
     "geom:longitude":-1.42004,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.031702,
     "lbl:longitude":-1.42049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tadmarton"
@@ -63,12 +69,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008087"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125870641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"386e9ada5c7b77686f5f2b3fe1c068b3",
+    "wof:geomhash":"f83cbf8fe571ab8b80a46e13a6bff0a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430079,
     "wof:label":"Tadmarton Civil Parish",
-    "wof:lastmodified":1566631950,
+    "wof:lastmodified":1695876996,
     "wof:name":"Tadmarton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

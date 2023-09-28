@@ -10,12 +10,18 @@
     "geom:latitude":51.045541,
     "geom:longitude":-3.007527,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.044407,
     "lbl:longitude":-3.00129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Durston"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008794"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360314249
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4bebd067cf6456f60f5ac298abc48546",
+    "wof:geomhash":"e223a85c920a0fd2b03fb542d2ccbd8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404438813,
     "wof:label":"Durston Civil Parish",
-    "wof:lastmodified":1566632612,
+    "wof:lastmodified":1695877283,
     "wof:name":"Durston",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

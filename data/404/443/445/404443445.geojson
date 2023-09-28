@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004997,
-    "geom:area_square_m":37794923.209527,
+    "geom:area_square_m":37794923.209528,
     "geom:bbox":"-4.05874342918,52.2477150544,-3.93637173257,52.3250605989",
     "geom:latitude":52.287545,
     "geom:longitude":-3.999897,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.288129,
     "lbl:longitude":-3.998955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lledrod Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000392"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259718893
     ],
     "wof:country":"GB",
-    "wof:geomhash":"189e75d8ba5a6a9488550fbfe2e97169",
+    "wof:geomhash":"014342c5388f13e54ee364cd3ef9ed8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443445,
-    "wof:lastmodified":1566633062,
+    "wof:lastmodified":1695877489,
     "wof:name":"Lledrod Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.04532,
     "geom:longitude":-1.119673,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.04424,
     "lbl:longitude":-1.120274,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bramdean and Hinton Ampner"
@@ -49,12 +55,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004655"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753085
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d46503988205b40efa7476e2968cbf85",
+    "wof:geomhash":"1d0aef6756d92f68a373d3a1978c18d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404437733,
     "wof:label":"Bramdean and Hinton Ampner Civil Parish",
-    "wof:lastmodified":1566632104,
+    "wof:lastmodified":1695877061,
     "wof:name":"Bramdean and Hinton Ampner",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

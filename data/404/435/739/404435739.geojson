@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005315,
-    "geom:area_square_m":39602251.231935,
+    "geom:area_square_m":39602251.231934,
     "geom:bbox":"-4.04361959745,52.9042051842,-3.82871426968,52.9656003176",
     "geom:latitude":52.941777,
     "geom:longitude":-3.948039,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.936412,
     "lbl:longitude":-3.955323,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maentwrog Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000090"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125927593
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d5f9898b9f1b53cc29447441238bdb6f",
+    "wof:geomhash":"784519462971b28403a55ee3e74a4ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435739,
-    "wof:lastmodified":1566633982,
+    "wof:lastmodified":1695877887,
     "wof:name":"Maentwrog Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

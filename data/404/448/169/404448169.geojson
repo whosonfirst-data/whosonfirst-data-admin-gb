@@ -10,12 +10,18 @@
     "geom:latitude":51.510801,
     "geom:longitude":-1.872802,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.509279,
     "lbl:longitude":-1.873226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broad Town"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011651"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972007
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e1a6077157d1fe8f5422f15c82eb7611",
+    "wof:geomhash":"ecd47d1f26dcd14b9307024875404986",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448169,
     "wof:label":"Broad Town Civil Parish",
-    "wof:lastmodified":1566631474,
+    "wof:lastmodified":1695876803,
     "wof:name":"Broad Town",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

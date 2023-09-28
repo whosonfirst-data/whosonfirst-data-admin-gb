@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008853,
-    "geom:area_square_m":67567709.441776,
+    "geom:area_square_m":67567709.44178,
     "geom:bbox":"-3.48482961346,51.8163393467,-3.30354145339,51.9565879804",
     "geom:latitude":51.888125,
     "geom:longitude":-3.396064,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.891327,
     "lbl:longitude":-3.397423,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfrynach Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000304"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992019
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1d242be2707976f86474ebc89061bcff",
+    "wof:geomhash":"df5bd642e0ef7ddb07966ae139f9f90e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404445373,
-    "wof:lastmodified":1566633408,
+    "wof:lastmodified":1695877643,
     "wof:name":"Llanfrynach Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

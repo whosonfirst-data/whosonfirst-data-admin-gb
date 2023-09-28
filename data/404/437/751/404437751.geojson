@@ -10,12 +10,18 @@
     "geom:latitude":51.08069,
     "geom:longitude":-4.051965,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.079142,
     "lbl:longitude":-4.049153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Bardanstapol"
@@ -117,12 +123,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003069"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852617
     ],
     "wof:country":"GB",
-    "wof:geomhash":"291042cb6f80c0c5903e555322516bbd",
+    "wof:geomhash":"b2d9566288316a65069d25145dd5f3d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +144,7 @@
     ],
     "wof:id":404437751,
     "wof:label":"Barnstaple Civil Parish",
-    "wof:lastmodified":1566632108,
+    "wof:lastmodified":1695877062,
     "wof:name":"Barnstaple",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

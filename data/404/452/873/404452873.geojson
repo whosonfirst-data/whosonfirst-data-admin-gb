@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001689,
-    "geom:area_square_m":12541738.291322,
+    "geom:area_square_m":12541738.291323,
     "geom:bbox":"-3.36902457421,53.0640417744,-3.30312821367,53.1162892506",
     "geom:latitude":53.090517,
     "geom:longitude":-3.335016,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.087943,
     "lbl:longitude":-3.329045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Efenechtyd Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000154"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260109473
     ],
     "wof:country":"GB",
-    "wof:geomhash":"603a1e5e5f995008a8cb2f2a1c6b602c",
+    "wof:geomhash":"9e83c6ee3fc143106c8f19352c0f106c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452873,
-    "wof:lastmodified":1566632184,
+    "wof:lastmodified":1695877093,
     "wof:name":"Efenechtyd Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009255,
-    "geom:area_square_m":72056821.748167,
+    "geom:area_square_m":72056821.748164,
     "geom:bbox":"-4.5518076416,50.9288157903,-4.41272087257,51.0229623567",
     "geom:latitude":50.976971,
     "geom:longitude":-4.480416,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.982872,
     "lbl:longitude":-4.474804,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hartland"
@@ -78,12 +84,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003265"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125952777
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0563ed57bece0aae4654caa9741aa3da",
+    "wof:geomhash":"c91d15b00bfac06fcb242d636425fca0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404451343,
     "wof:label":"Hartland Civil Parish",
-    "wof:lastmodified":1566633533,
+    "wof:lastmodified":1695877699,
     "wof:name":"Hartland",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

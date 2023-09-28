@@ -10,12 +10,18 @@
     "geom:latitude":51.979624,
     "geom:longitude":-1.1508,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.979882,
     "lbl:longitude":-1.150798,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cottisford"
@@ -55,12 +61,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008036"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753733
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6e8563f667fe44ba9d6ea5c23f977152",
+    "wof:geomhash":"f9cca63effb877f75f3920ae2f8147fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404429999,
     "wof:label":"Cottisford Civil Parish",
-    "wof:lastmodified":1566633103,
+    "wof:lastmodified":1695877507,
     "wof:name":"Cottisford",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

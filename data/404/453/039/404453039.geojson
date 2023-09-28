@@ -10,12 +10,18 @@
     "geom:latitude":51.438629,
     "geom:longitude":-1.105322,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.439205,
     "lbl:longitude":-1.104858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Englefield"
@@ -48,12 +54,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001168"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800993
     ],
     "wof:country":"GB",
-    "wof:geomhash":"462e3e78025b3e4763e3a6d330e225e5",
+    "wof:geomhash":"08f7a7ed96c056684edec257452415b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404453039,
     "wof:label":"Englefield Civil Parish",
-    "wof:lastmodified":1566632790,
+    "wof:lastmodified":1695877369,
     "wof:name":"Englefield",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

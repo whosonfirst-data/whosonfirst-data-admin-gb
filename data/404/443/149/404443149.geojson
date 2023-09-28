@@ -10,12 +10,18 @@
     "geom:latitude":51.731788,
     "geom:longitude":0.741391,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.726558,
     "lbl:longitude":0.768624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Heybridge"
@@ -48,12 +54,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004051"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126028161
     ],
     "wof:country":"GB",
-    "wof:geomhash":"804872649c49e3401c718e45f97d1ac6",
+    "wof:geomhash":"f6fef7cdc61a4c46496bd7db4a11ef48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404443149,
     "wof:label":"Heybridge Civil Parish",
-    "wof:lastmodified":1566633091,
+    "wof:lastmodified":1695877500,
     "wof:name":"Heybridge",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

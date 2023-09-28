@@ -10,12 +10,18 @@
     "geom:latitude":52.787545,
     "geom:longitude":-1.146727,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.788004,
     "lbl:longitude":-1.144463,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Prestwold"
@@ -51,12 +57,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005379"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031219
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2dea98048b15a99e57575ca553c3dd6d",
+    "wof:geomhash":"f4453912d786e87ab2abfcd0ef7da43e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404433901,
     "wof:label":"Prestwold Civil Parish",
-    "wof:lastmodified":1566633644,
+    "wof:lastmodified":1695877749,
     "wof:name":"Prestwold",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

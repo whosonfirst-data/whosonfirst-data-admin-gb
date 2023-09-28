@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001866,
-    "geom:area_square_m":14261825.191808,
+    "geom:area_square_m":14261825.191807,
     "geom:bbox":"0.979056512049,51.8006829257,1.06580654755,51.8382153611",
     "geom:latitude":51.818005,
     "geom:longitude":1.017462,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.817801,
     "lbl:longitude":1.016806,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Brightlingsea"
@@ -93,12 +99,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004092"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854725
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32f53dc5dc58d980060f2c1875177f3c",
+    "wof:geomhash":"f454b560607aa21197e62302f167d371",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404454523,
     "wof:label":"Brightlingsea Civil Parish",
-    "wof:lastmodified":1566632745,
+    "wof:lastmodified":1695877348,
     "wof:name":"Brightlingsea",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

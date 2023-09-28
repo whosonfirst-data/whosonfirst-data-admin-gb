@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001592,
-    "geom:area_square_m":12334035.244006,
+    "geom:area_square_m":12334035.244005,
     "geom:bbox":"-2.7526327067,51.1859182672,-2.67569893198,51.2230390628",
     "geom:latitude":51.20687,
     "geom:longitude":-2.717328,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.203876,
     "lbl:longitude":-2.714136,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wookey"
@@ -63,12 +69,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008601"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125971813
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f26f4c0febc726291ed1c640f8ff53c1",
+    "wof:geomhash":"ac860141c4ad4e48e1b451e31dee3b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447325,
     "wof:label":"Wookey Civil Parish",
-    "wof:lastmodified":1566631290,
+    "wof:lastmodified":1695878290,
     "wof:name":"Wookey",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

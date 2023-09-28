@@ -10,12 +10,18 @@
     "geom:latitude":52.023033,
     "geom:longitude":-0.740225,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.023712,
     "lbl:longitude":-0.739901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woughton on the Green"
@@ -44,12 +50,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012227"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757945
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b0f57597c514a0b7d40ce2155d2e88d4",
+    "wof:geomhash":"b332e276d3f15aeb19c1a730cb3f5303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +71,7 @@
     ],
     "wof:id":404442713,
     "wof:label":"Woughton on the Green Civil Parish",
-    "wof:lastmodified":1566633238,
+    "wof:lastmodified":1695877568,
     "wof:name":"Woughton on the Green",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

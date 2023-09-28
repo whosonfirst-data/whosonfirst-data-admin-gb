@@ -10,12 +10,18 @@
     "geom:latitude":52.287429,
     "geom:longitude":-1.464359,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.287114,
     "lbl:longitude":-1.461228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Offchurch"
@@ -57,12 +63,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009832"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125765073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c5e988dcf9bc37fc936cb15ec5dc3b94",
+    "wof:geomhash":"229dc5c73f0ff54dc1106fceca3b2ade",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404436791,
     "wof:label":"Offchurch Civil Parish",
-    "wof:lastmodified":1566632325,
+    "wof:lastmodified":1695877153,
     "wof:name":"Offchurch",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

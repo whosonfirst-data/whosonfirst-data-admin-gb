@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000701,
-    "geom:area_square_m":5331437.408057,
+    "geom:area_square_m":5331437.408056,
     "geom:bbox":"-1.00197844957,52.023216391,-0.947952359516,52.0459631852",
     "geom:latitude":52.036197,
     "geom:longitude":-0.977173,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.035417,
     "lbl:longitude":-0.979004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Akeley"
@@ -69,12 +75,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001454"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293030119
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f68d81c2b1b0a12a8ee4ea3df6e09efb",
+    "wof:geomhash":"be03aceb5454b7e4083a6141aabc06f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404438253,
     "wof:label":"Akeley Civil Parish",
-    "wof:lastmodified":1566632619,
+    "wof:lastmodified":1695877286,
     "wof:name":"Akeley",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

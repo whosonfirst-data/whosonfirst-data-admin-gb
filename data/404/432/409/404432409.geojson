@@ -10,12 +10,18 @@
     "geom:latitude":50.479965,
     "geom:longitude":-3.777393,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.480018,
     "lbl:longitude":-3.7777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u06a9\u0641\u0633\u062a\u0644\u06cc"
@@ -90,12 +96,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003199"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852625
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db0d359549d4ca86bf82b93205433aaa",
+    "wof:geomhash":"c54a691ba1aa505e5283c735717b7b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404432409,
     "wof:label":"Buckfastleigh Civil Parish",
-    "wof:lastmodified":1566633901,
+    "wof:lastmodified":1695877850,
     "wof:name":"Buckfastleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

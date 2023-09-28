@@ -10,12 +10,18 @@
     "geom:latitude":53.145641,
     "geom:longitude":-2.291225,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.144209,
     "lbl:longitude":-2.291225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Smallwood"
@@ -60,12 +66,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011004"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125786891
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9c9fdad634836a99917f6515ab80bc5d",
+    "wof:geomhash":"dca13a6a2f2e3558ccc21c9f2f82bd30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404454649,
     "wof:label":"Smallwood Civil Parish",
-    "wof:lastmodified":1566632710,
+    "wof:lastmodified":1695877332,
     "wof:name":"Smallwood",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

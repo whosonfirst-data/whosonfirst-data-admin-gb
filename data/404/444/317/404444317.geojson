@@ -10,12 +10,18 @@
     "geom:latitude":53.81427,
     "geom:longitude":-1.262025,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.812703,
     "lbl:longitude":-1.261616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barkston Ash"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007713"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125765007
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f10305a876f0abd3a1a14d1d5116e985",
+    "wof:geomhash":"a63ec15fabda057442d87e7c9593913b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404444317,
     "wof:label":"Barkston Ash Civil Parish",
-    "wof:lastmodified":1566632978,
+    "wof:lastmodified":1695877447,
     "wof:name":"Barkston Ash",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

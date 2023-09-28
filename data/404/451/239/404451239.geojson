@@ -10,12 +10,18 @@
     "geom:latitude":50.769403,
     "geom:longitude":-3.066906,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.767437,
     "lbl:longitude":-3.064099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u062a"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002988"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977671
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e9091220a1bc183198d6797927b89909",
+    "wof:geomhash":"c6b74e5efb7736fe967b4c8cd9958f12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404451239,
     "wof:label":"Shute Civil Parish",
-    "wof:lastmodified":1566633513,
+    "wof:lastmodified":1695877688,
     "wof:name":"Shute",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

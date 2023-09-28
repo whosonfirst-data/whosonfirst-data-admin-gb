@@ -10,12 +10,18 @@
     "geom:latitude":53.167003,
     "geom:longitude":-2.530613,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.163141,
     "lbl:longitude":-2.54135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Darnhall"
@@ -52,12 +58,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011084"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753039
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2ac04bfdb83cabdd2f2acdc7950b2938",
+    "wof:geomhash":"46d5616266cc2cdfe2febc98e9f18289",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404432677,
     "wof:label":"Darnhall Civil Parish",
-    "wof:lastmodified":1566633946,
+    "wof:lastmodified":1695877872,
     "wof:name":"Darnhall",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

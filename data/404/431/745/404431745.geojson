@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000652,
-    "geom:area_square_m":4881963.547217,
+    "geom:area_square_m":4881963.547218,
     "geom:bbox":"0.871253525396,52.7355079923,0.911403794504,52.769312868",
     "geom:latitude":52.754684,
     "geom:longitude":0.89254,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.755486,
     "lbl:longitude":0.892842,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brisley"
@@ -57,12 +63,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006098"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976287
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cccc1291fbd8ff883edad45f860ba2f2",
+    "wof:geomhash":"45ba652a94e1c10de9e05d5075aef88e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431745,
     "wof:label":"Brisley Civil Parish",
-    "wof:lastmodified":1566632533,
+    "wof:lastmodified":1695877247,
     "wof:name":"Brisley",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

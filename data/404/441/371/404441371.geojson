@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002914,
-    "geom:area_square_m":23043870.474265,
+    "geom:area_square_m":23043870.474264,
     "geom:bbox":"-5.14757733624,50.2221238294,-5.01510106897,50.2616686794",
     "geom:latitude":50.240484,
     "geom:longitude":-5.08134,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.242398,
     "lbl:longitude":-5.07683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kea"
@@ -183,12 +189,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011450"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209550903
     ],
     "wof:country":"GB",
-    "wof:geomhash":"596d3770bce2d4e858e1e76c311ff185",
+    "wof:geomhash":"38038902e7a6a94f22cfc7a56e74e585",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +210,7 @@
     ],
     "wof:id":404441371,
     "wof:label":"Kea Civil Parish",
-    "wof:lastmodified":1566631767,
+    "wof:lastmodified":1695876910,
     "wof:name":"Kea",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

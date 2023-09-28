@@ -10,12 +10,18 @@
     "geom:latitude":51.125162,
     "geom:longitude":0.904246,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.12568,
     "lbl:longitude":0.904246,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sevington"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004854"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031149
     ],
     "wof:country":"GB",
-    "wof:geomhash":"54edda1ffa138df0503ae965ce3f85e0",
+    "wof:geomhash":"75fd10ff0b588a14428630c67bf97584",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404436883,
     "wof:label":"Sevington Civil Parish",
-    "wof:lastmodified":1566632394,
+    "wof:lastmodified":1695877184,
     "wof:name":"Sevington",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

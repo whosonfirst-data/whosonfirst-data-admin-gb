@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000784,
-    "geom:area_square_m":5763970.939643,
+    "geom:area_square_m":5763970.939642,
     "geom:bbox":"-0.142665174078,53.5180323234,-0.103286344188,53.5491385826",
     "geom:latitude":53.5328,
     "geom:longitude":-0.12494,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.531771,
     "lbl:longitude":-0.124943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bradley"
@@ -57,12 +63,15 @@
         1360698837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000518"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913781
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1c9e6e6fd58e271e1636eafa02ddb057",
+    "wof:geomhash":"38aa65f91dba19b3843ea1fbb59eb9eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404445019,
     "wof:label":"Bradley Civil Parish",
-    "wof:lastmodified":1566633390,
+    "wof:lastmodified":1695877634,
     "wof:name":"Bradley",
     "wof:parent_id":1360698837,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.262526,
     "geom:longitude":-1.510547,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.261919,
     "lbl:longitude":-1.511158,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tangley"
@@ -57,12 +63,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004640"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125938879
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b6bd9bae9b714e46e3871caa54a789ef",
+    "wof:geomhash":"16d1083fecb6ce171489ac8d4e36ba42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404432945,
     "wof:label":"Tangley Civil Parish",
-    "wof:lastmodified":1566633970,
+    "wof:lastmodified":1695877882,
     "wof:name":"Tangley",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

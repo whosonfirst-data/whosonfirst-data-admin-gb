@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002462,
-    "geom:area_square_m":19298426.577057,
+    "geom:area_square_m":19298426.577056,
     "geom:bbox":"-1.29332987405,50.6475291084,-1.21265317437,50.6954173152",
     "geom:latitude":50.66976,
     "geom:longitude":-1.254179,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.669707,
     "lbl:longitude":-1.254168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arreton"
@@ -66,12 +72,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001294"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843953
     ],
     "wof:country":"GB",
-    "wof:geomhash":"818fe3c4601ac984862cad04c1856c7f",
+    "wof:geomhash":"274e1e59060fe85965f111b529e49d3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404453487,
     "wof:label":"Arreton Civil Parish",
-    "wof:lastmodified":1566632828,
+    "wof:lastmodified":1695877386,
     "wof:name":"Arreton",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

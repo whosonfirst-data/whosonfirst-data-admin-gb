@@ -10,12 +10,18 @@
     "geom:latitude":51.80309,
     "geom:longitude":-3.91114,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.793904,
     "lbl:longitude":-3.916137,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cwmamman Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000499"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711743
     ],
     "wof:country":"GB",
-    "wof:geomhash":"153cb0fec22ca3b42862b6c6f1e4cbbe",
+    "wof:geomhash":"08deb6b13391c6420571e7f9cd39d8f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435969,
-    "wof:lastmodified":1566634043,
+    "wof:lastmodified":1695877920,
     "wof:name":"Cwmamman Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

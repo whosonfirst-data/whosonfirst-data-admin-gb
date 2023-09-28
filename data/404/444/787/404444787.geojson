@@ -10,12 +10,18 @@
     "geom:latitude":51.706531,
     "geom:longitude":-2.440798,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.70438,
     "lbl:longitude":-2.436847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hamfallow"
@@ -52,12 +58,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004354"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759027
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a87601d918a9958366ff9774acb7298a",
+    "wof:geomhash":"6adb0393ac2a704c65ac439865b33110",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404444787,
     "wof:label":"Hamfallow Civil Parish",
-    "wof:lastmodified":1566632979,
+    "wof:lastmodified":1695877447,
     "wof:name":"Hamfallow",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

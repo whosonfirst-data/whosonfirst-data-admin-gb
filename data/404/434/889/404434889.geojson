@@ -10,12 +10,18 @@
     "geom:latitude":50.912214,
     "geom:longitude":-0.664908,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.914417,
     "lbl:longitude":-0.663614,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upwaltham"
@@ -54,12 +60,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009936"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125953507
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5f4b5a07cc2881292c7e868e579bf55e",
+    "wof:geomhash":"1389a072cbb20ba87308e49421cc0544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404434889,
     "wof:label":"Upwaltham Civil Parish",
-    "wof:lastmodified":1566633551,
+    "wof:lastmodified":1695877709,
     "wof:name":"Upwaltham",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

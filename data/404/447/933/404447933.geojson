@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001992,
-    "geom:area_square_m":15335889.520437,
+    "geom:area_square_m":15335889.520436,
     "geom:bbox":"-3.73944526114,51.4717331304,-3.6551308819,51.5103621113",
     "geom:latitude":51.490062,
     "geom:longitude":-3.694919,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.490789,
     "lbl:longitude":-3.69491,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Porthcawl Community"
@@ -40,12 +46,15 @@
         1360699051
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000645"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852765
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1445eac1c6f3b4a4d4a04b28e82937d0",
+    "wof:geomhash":"bfe62688b9900d3c4fe23d9eb9a5dcd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404447933,
-    "wof:lastmodified":1566631302,
+    "wof:lastmodified":1695878297,
     "wof:name":"Porthcawl Community",
     "wof:parent_id":1360699051,
     "wof:placetype":"localadmin",

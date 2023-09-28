@@ -10,12 +10,18 @@
     "geom:latitude":51.043472,
     "geom:longitude":-3.088122,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.04878,
     "lbl:longitude":-3.090108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cheddon Fitzpaine"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008785"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782777
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7412622f4dc4788ed10d35642b0939c8",
+    "wof:geomhash":"ed57c40b68b26cf2e278325ff2d857d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430623,
     "wof:label":"Cheddon Fitzpaine Civil Parish",
-    "wof:lastmodified":1566632013,
+    "wof:lastmodified":1695877020,
     "wof:name":"Cheddon Fitzpaine",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

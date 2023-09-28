@@ -10,12 +10,18 @@
     "geom:latitude":52.559331,
     "geom:longitude":-1.440661,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.559958,
     "lbl:longitude":-1.436929,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Higham on the Hill"
@@ -68,12 +74,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005498"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757247
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e34104fb4a1636c3bcb513b992a8a445",
+    "wof:geomhash":"0cab0cb80f0b1c7d343a5335143fca86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +95,7 @@
     ],
     "wof:id":404432261,
     "wof:label":"Higham on the Hill Civil Parish",
-    "wof:lastmodified":1566633896,
+    "wof:lastmodified":1695877848,
     "wof:name":"Higham on the Hill",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

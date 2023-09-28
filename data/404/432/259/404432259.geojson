@@ -10,12 +10,18 @@
     "geom:latitude":52.149325,
     "geom:longitude":-2.449811,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.147782,
     "lbl:longitude":-2.452964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Acton Beauchamp"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000684"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125804299
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a843a67773dc28c9e66685ccb0e84647",
+    "wof:geomhash":"ab828cfc491223de00812cca90417717",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404432259,
     "wof:label":"Acton Beauchamp Civil Parish",
-    "wof:lastmodified":1566633895,
+    "wof:lastmodified":1695877848,
     "wof:name":"Acton Beauchamp",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

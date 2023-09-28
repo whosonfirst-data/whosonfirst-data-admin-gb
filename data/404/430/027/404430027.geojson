@@ -10,12 +10,18 @@
     "geom:latitude":52.322308,
     "geom:longitude":-0.944649,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.322749,
     "lbl:longitude":-0.944636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Spratton"
@@ -63,12 +69,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006690"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125912611
     ],
     "wof:country":"GB",
-    "wof:geomhash":"048f8b4825b5f49bd9db7c11d9e48529",
+    "wof:geomhash":"59b0edc4b3b55b37384b3f3beba57335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430027,
     "wof:label":"Spratton Civil Parish",
-    "wof:lastmodified":1566632011,
+    "wof:lastmodified":1695877019,
     "wof:name":"Spratton",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

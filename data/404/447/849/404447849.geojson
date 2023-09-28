@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000942,
-    "geom:area_square_m":7275625.945047,
+    "geom:area_square_m":7275625.945048,
     "geom:bbox":"-1.16662423203,51.3224570953,-1.12470393614,51.3602677531",
     "geom:latitude":51.345204,
     "geom:longitude":-1.146723,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.344596,
     "lbl:longitude":-1.146321,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0627\u062f\u0644\u06cc"
@@ -81,12 +87,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004481"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125840895
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0bafb4bf0691a515c8e8e8fc21ffa4bd",
+    "wof:geomhash":"d853a1da470b357267ad20164bf7baed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404447849,
     "wof:label":"Tadley Civil Parish",
-    "wof:lastmodified":1566631310,
+    "wof:lastmodified":1695878300,
     "wof:name":"Tadley",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

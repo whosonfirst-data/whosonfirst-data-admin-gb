@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001125,
-    "geom:area_square_m":8300172.869324,
+    "geom:area_square_m":8300172.869323,
     "geom:bbox":"-0.729232512131,53.364301415,-0.644631134736,53.386888682",
     "geom:latitude":53.374385,
     "geom:longitude":-0.693214,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.372441,
     "lbl:longitude":-0.692399,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Upton"
@@ -87,12 +93,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006070"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125889789
     ],
     "wof:country":"GB",
-    "wof:geomhash":"185f334165fdc16d935275bf26080963",
+    "wof:geomhash":"45f2bd8c8e0466d1c88d1c7b73ca9a35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404433913,
     "wof:label":"Upton Civil Parish",
-    "wof:lastmodified":1566633687,
+    "wof:lastmodified":1695877770,
     "wof:name":"Upton",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

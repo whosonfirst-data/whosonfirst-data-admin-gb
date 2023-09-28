@@ -10,12 +10,18 @@
     "geom:latitude":53.87366,
     "geom:longitude":-1.156792,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.873792,
     "lbl:longitude":-1.158995,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Appleton Roebuck"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007711"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913593
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3c5b135c601cb2e1e1677dbf916a1960",
+    "wof:geomhash":"fa4e82ffe25062e3912e09de2d7030aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440305,
     "wof:label":"Appleton Roebuck Civil Parish",
-    "wof:lastmodified":1566631190,
+    "wof:lastmodified":1695878244,
     "wof:name":"Appleton Roebuck",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

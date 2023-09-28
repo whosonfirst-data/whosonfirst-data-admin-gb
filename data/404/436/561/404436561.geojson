@@ -10,12 +10,18 @@
     "geom:latitude":51.152233,
     "geom:longitude":-3.069509,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.150197,
     "lbl:longitude":-3.073709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cannington"
@@ -51,12 +57,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008614"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260109495
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d777dcd4ca3088667980425440b89326",
+    "wof:geomhash":"5a9b3f1dee8c6ad386f71310bd5f052f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404436561,
     "wof:label":"Cannington Civil Parish",
-    "wof:lastmodified":1566632325,
+    "wof:lastmodified":1695877153,
     "wof:name":"Cannington",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

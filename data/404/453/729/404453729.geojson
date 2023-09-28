@@ -10,12 +10,18 @@
     "geom:latitude":51.898352,
     "geom:longitude":-2.226136,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.898354,
     "lbl:longitude":-2.225932,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Twigworth"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004429"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126053641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ab7f7bfc0c8826f6244836003ab022d8",
+    "wof:geomhash":"f8d9948c75d846183459902d27a96922",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453729,
     "wof:label":"Twigworth Civil Parish",
-    "wof:lastmodified":1566632859,
+    "wof:lastmodified":1695877399,
     "wof:name":"Twigworth",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

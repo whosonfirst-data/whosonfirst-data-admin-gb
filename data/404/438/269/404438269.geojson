@@ -10,12 +10,18 @@
     "geom:latitude":51.215924,
     "geom:longitude":-0.928804,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.214639,
     "lbl:longitude":-0.9348,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Long Sutton"
@@ -60,12 +66,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004547"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242902837
     ],
     "wof:country":"GB",
-    "wof:geomhash":"81f9e28d0bdb2cf7ddaf87efb57b6b12",
+    "wof:geomhash":"b9f2c14fb61f5e0ac82157940a8b5f38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404438269,
     "wof:label":"Long Sutton Civil Parish",
-    "wof:lastmodified":1566632572,
+    "wof:lastmodified":1695877265,
     "wof:name":"Long Sutton",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

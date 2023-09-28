@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001717,
-    "geom:area_square_m":13230410.934341,
+    "geom:area_square_m":13230410.934342,
     "geom:bbox":"-0.770730924406,51.4191359581,-0.711996578145,51.4621718664",
     "geom:latitude":51.44036,
     "geom:longitude":-0.738683,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.442929,
     "lbl:longitude":-0.738676,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0631\u0641\u064a\u0644\u062f"
@@ -75,12 +81,15 @@
         1360699013
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001144"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344186043
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a1491b7779c10f4a871aa61cc368fc63",
+    "wof:geomhash":"859d4da592f3ba00be2ad9eb29a6116c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404441763,
     "wof:label":"Warfield Civil Parish",
-    "wof:lastmodified":1566631714,
+    "wof:lastmodified":1695876891,
     "wof:name":"Warfield",
     "wof:parent_id":1360699013,
     "wof:placetype":"localadmin",

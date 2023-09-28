@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001284,
-    "geom:area_square_m":9288190.261095,
+    "geom:area_square_m":9288190.261096,
     "geom:bbox":"-1.18632170185,54.1678104499,-1.12593722275,54.2032580689",
     "geom:latitude":54.182672,
     "geom:longitude":-1.157719,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.183123,
     "lbl:longitude":-1.154129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Newburgh"
@@ -85,12 +91,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007229"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759785
     ],
     "wof:country":"GB",
-    "wof:geomhash":"271deaae3cb8797aef5247f758f9b845",
+    "wof:geomhash":"0b84b565652048d9686aac8ae8f85c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +112,7 @@
     ],
     "wof:id":404445875,
     "wof:label":"Newburgh Civil Parish",
-    "wof:lastmodified":1566633333,
+    "wof:lastmodified":1695877608,
     "wof:name":"Newburgh",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

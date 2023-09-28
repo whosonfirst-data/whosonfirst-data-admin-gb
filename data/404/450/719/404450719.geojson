@@ -10,12 +10,18 @@
     "geom:latitude":51.064855,
     "geom:longitude":-2.563163,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.063539,
     "lbl:longitude":-2.563168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Barrow"
@@ -57,12 +63,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008736"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243483613
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b56d277a2f7771011366f288b6196ba9",
+    "wof:geomhash":"74183815ef479b7f374e982f5b15619b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404450719,
     "wof:label":"North Barrow Civil Parish",
-    "wof:lastmodified":1566633838,
+    "wof:lastmodified":1695877832,
     "wof:name":"North Barrow",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

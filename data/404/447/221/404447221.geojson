@@ -10,12 +10,18 @@
     "geom:latitude":52.256362,
     "geom:longitude":-0.002031,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.257026,
     "lbl:longitude":-0.002032,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0644\u0648\u0631\u062b"
@@ -69,12 +75,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001821"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125926187
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e0b78267453a8c00819138568a2d274c",
+    "wof:geomhash":"bc399d540221e64511d5ad28f6d563e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404447221,
     "wof:label":"Lolworth Civil Parish",
-    "wof:lastmodified":1566631257,
+    "wof:lastmodified":1695878275,
     "wof:name":"Lolworth",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

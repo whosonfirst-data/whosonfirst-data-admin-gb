@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002814,
-    "geom:area_square_m":21711765.054236,
+    "geom:area_square_m":21711765.054237,
     "geom:bbox":"-1.29598166004,51.3661679607,-1.20906731316,51.4232720149",
     "geom:latitude":51.393864,
     "geom:longitude":-1.249955,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.393573,
     "lbl:longitude":-1.245692,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0627\u0686\u0647\u0627\u0645"
@@ -99,12 +105,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001194"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852665
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2121cf0e8b5f4de0de772139f669e976",
+    "wof:geomhash":"11817900803d42e0b4b8f02c241a65c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404441283,
     "wof:label":"Thatcham Civil Parish",
-    "wof:lastmodified":1566631788,
+    "wof:lastmodified":1695876920,
     "wof:name":"Thatcham",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

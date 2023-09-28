@@ -10,12 +10,18 @@
     "geom:latitude":53.390379,
     "geom:longitude":-0.359206,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.388429,
     "lbl:longitude":-0.363164,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Middle Rasen"
@@ -66,12 +72,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006018"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869453
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d15eae0e8ec4ce65723252ea5719e6b0",
+    "wof:geomhash":"7c664cfdcc705b358a8fab94c008770f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404433789,
     "wof:label":"Middle Rasen Civil Parish",
-    "wof:lastmodified":1566633738,
+    "wof:lastmodified":1695877792,
     "wof:name":"Middle Rasen",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001043,
-    "geom:area_square_m":8024993.771959,
+    "geom:area_square_m":8024993.771958,
     "geom:bbox":"-1.33762644172,51.4810017429,-1.29211177923,51.5197842925",
     "geom:latitude":51.499914,
     "geom:longitude":-1.312339,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.49973,
     "lbl:longitude":-1.310499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062f\u0648\u0646"
@@ -66,12 +72,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001151"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977901
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b541c0ae081d85c60f194ee96e61fa4d",
+    "wof:geomhash":"3dd56ec85e65bfa3b39c1c5dc38e179a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404450985,
     "wof:label":"Beedon Civil Parish",
-    "wof:lastmodified":1566633789,
+    "wof:lastmodified":1695877813,
     "wof:name":"Beedon",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

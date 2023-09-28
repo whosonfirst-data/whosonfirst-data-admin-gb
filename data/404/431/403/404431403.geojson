@@ -10,12 +10,18 @@
     "geom:latitude":50.701225,
     "geom:longitude":-2.541804,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.699808,
     "lbl:longitude":-2.541411,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winterbourne Steepleton"
@@ -66,12 +72,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003624"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293724659
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8c983942eaf29d88c2c517bb32db5b72",
+    "wof:geomhash":"d7287b7734e0e49a4dc0b1c0e0510326",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404431403,
     "wof:label":"Winterbourne Steepleton Civil Parish",
-    "wof:lastmodified":1566632521,
+    "wof:lastmodified":1695877241,
     "wof:name":"Winterbourne Steepleton",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

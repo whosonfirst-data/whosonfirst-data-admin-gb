@@ -10,12 +10,18 @@
     "geom:latitude":52.08704,
     "geom:longitude":-1.768591,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.091527,
     "lbl:longitude":-1.76622,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mickleton"
@@ -54,12 +60,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004248"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326465811
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c4f8febdf4769d6349aeff826956ecdd",
+    "wof:geomhash":"ae60c7dd29d7e9a2e5c608534a691cb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404453923,
     "wof:label":"Mickleton Civil Parish",
-    "wof:lastmodified":1566632798,
+    "wof:lastmodified":1695877373,
     "wof:name":"Mickleton",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

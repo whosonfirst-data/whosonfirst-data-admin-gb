@@ -10,12 +10,18 @@
     "geom:latitude":51.862315,
     "geom:longitude":-2.627933,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.864267,
     "lbl:longitude":-2.629345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Goodrich"
@@ -84,12 +90,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000765"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125877531
     ],
     "wof:country":"GB",
-    "wof:geomhash":"60d64edb889a10936d759011406ef6e2",
+    "wof:geomhash":"29a9ecdf78fd595fe799c9b6ac7761c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404429619,
     "wof:label":"Goodrich Civil Parish",
-    "wof:lastmodified":1566633110,
+    "wof:lastmodified":1695877510,
     "wof:name":"Goodrich",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

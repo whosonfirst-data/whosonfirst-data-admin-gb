@@ -10,12 +10,18 @@
     "geom:latitude":50.991967,
     "geom:longitude":-2.743849,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.990461,
     "lbl:longitude":-2.74385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12a0\u1218\u12f5"
@@ -225,12 +231,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008660"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260014953
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1b44664be8855320ce1cd691552c7104",
+    "wof:geomhash":"307ea97f1c5ba927a8f3a23eb263d647",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -243,7 +252,7 @@
     ],
     "wof:id":404443495,
     "wof:label":"Ash Civil Parish",
-    "wof:lastmodified":1566633072,
+    "wof:lastmodified":1695877492,
     "wof:name":"Ash",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.135509,
     "geom:longitude":-0.788817,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.136184,
     "lbl:longitude":-0.788347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0643 \u063a\u0644\u062f\u064a\u0646\u063a\u062a\u0648\u0646"
@@ -72,12 +78,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001274"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125911635
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24d73e24cddfde03049188d2850edc5e",
+    "wof:geomhash":"2a6dfb0b5b805bfb7f6c30cd133d30d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404446087,
     "wof:label":"Stoke Goldington Civil Parish",
-    "wof:lastmodified":1566631667,
+    "wof:lastmodified":1695876873,
     "wof:name":"Stoke Goldington",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

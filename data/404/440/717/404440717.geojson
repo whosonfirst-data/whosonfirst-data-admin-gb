@@ -10,12 +10,18 @@
     "geom:latitude":51.170004,
     "geom:longitude":0.750871,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.168393,
     "lbl:longitude":0.748369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pluckley"
@@ -69,12 +75,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004851"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126058685
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bcc7672bb42f87d2a1d1d1ac1dea698c",
+    "wof:geomhash":"4a18926f0c828457b32939b6cc75e8d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404440717,
     "wof:label":"Pluckley Civil Parish",
-    "wof:lastmodified":1566631227,
+    "wof:lastmodified":1695878261,
     "wof:name":"Pluckley",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

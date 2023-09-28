@@ -10,12 +10,18 @@
     "geom:latitude":52.131769,
     "geom:longitude":-0.20431,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.131449,
     "lbl:longitude":-0.20432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0648\u062a\u0648\u0646"
@@ -84,12 +90,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011976"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854811
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b9ef4eff82471c56afe3e4872c2b391e",
+    "wof:geomhash":"fe7b1dee7e7d6e3a1a4a810a782dee69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404429731,
     "wof:label":"Potton Civil Parish",
-    "wof:lastmodified":1566633103,
+    "wof:lastmodified":1695877507,
     "wof:name":"Potton",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

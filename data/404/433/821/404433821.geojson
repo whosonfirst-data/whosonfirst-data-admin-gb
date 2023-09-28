@@ -10,12 +10,18 @@
     "geom:latitude":53.388937,
     "geom:longitude":-1.3735,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.389334,
     "lbl:longitude":-1.371589,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Catcliffe"
@@ -57,12 +63,15 @@
         1360698851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000104"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125876791
     ],
     "wof:country":"GB",
-    "wof:geomhash":"62b9213ee2a69dcb03ed1b8bf215549f",
+    "wof:geomhash":"3bcbb870b666fac7da78bfc4d3b2a5f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404433821,
     "wof:label":"Catcliffe Civil Parish",
-    "wof:lastmodified":1566633657,
+    "wof:lastmodified":1695877755,
     "wof:name":"Catcliffe",
     "wof:parent_id":1360698851,
     "wof:placetype":"localadmin",

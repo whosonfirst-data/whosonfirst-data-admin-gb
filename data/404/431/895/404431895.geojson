@@ -10,12 +10,18 @@
     "geom:latitude":53.167555,
     "geom:longitude":-2.714439,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.168853,
     "lbl:longitude":-2.716273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u062a\u0648\u0646 \u0647\u0648\u0641\u064a\u0644\u062f"
@@ -60,12 +66,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011073"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125867515
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b874511dd6db96d42cc31723303e2e3d",
+    "wof:geomhash":"dac93060f5467f2e3f9f54ec5d037457",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404431895,
     "wof:label":"Clotton Hoofield Civil Parish",
-    "wof:lastmodified":1566632457,
+    "wof:lastmodified":1695877213,
     "wof:name":"Clotton Hoofield",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002211,
-    "geom:area_square_m":17188441.668647,
+    "geom:area_square_m":17188441.668646,
     "geom:bbox":"0.947518938343,51.0268288866,1.02860397352,51.0706405839",
     "geom:latitude":51.051864,
     "geom:longitude":0.987009,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.054503,
     "lbl:longitude":0.987019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burmarsh"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005015"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125927519
     ],
     "wof:country":"GB",
-    "wof:geomhash":"edfa8f7531b6f15c27f79d787eef978e",
+    "wof:geomhash":"d5fcd78bf87a51b35cf6793d82e69afd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404453983,
     "wof:label":"Burmarsh Civil Parish",
-    "wof:lastmodified":1566632791,
+    "wof:lastmodified":1695877369,
     "wof:name":"Burmarsh",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

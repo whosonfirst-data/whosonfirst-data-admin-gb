@@ -10,12 +10,18 @@
     "geom:latitude":51.672522,
     "geom:longitude":-3.754248,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.674173,
     "lbl:longitude":-3.75424,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tonna Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000628"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125884419
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f822ce82d8214726c01b4cb8dc7ac017",
+    "wof:geomhash":"8068fda54ecbb4b802c110a0160f451b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442119,
-    "wof:lastmodified":1566633248,
+    "wof:lastmodified":1695877573,
     "wof:name":"Tonna Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

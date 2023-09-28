@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001021,
-    "geom:area_square_m":7874900.513742,
+    "geom:area_square_m":7874900.513741,
     "geom:bbox":"-1.31029357923,51.4104612858,-1.24961021952,51.4489915744",
     "geom:latitude":51.424392,
     "geom:longitude":-1.276173,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.425112,
     "lbl:longitude":-1.276629,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u062f \u0622\u0634"
@@ -72,12 +78,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001162"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125909119
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3c52c5a44b8e5ddbd3797cdc48b94fcb",
+    "wof:geomhash":"1a87ecf3e1890f2cea5ac8cc519d8c0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404446153,
     "wof:label":"Cold Ash Civil Parish",
-    "wof:lastmodified":1566631652,
+    "wof:lastmodified":1695876868,
     "wof:name":"Cold Ash",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

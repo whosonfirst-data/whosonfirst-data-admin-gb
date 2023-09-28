@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002645,
-    "geom:area_square_m":20262879.976988,
+    "geom:area_square_m":20262879.976989,
     "geom:bbox":"-3.52573275745,51.6867579329,-3.40551581362,51.7422400863",
     "geom:latitude":51.71453,
     "geom:longitude":-3.466615,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.713139,
     "lbl:longitude":-3.467529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aberdare Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000679"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852809
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2794473c27a960b08206df5d39be83a6",
+    "wof:geomhash":"cd7370fe01b521506cf00158c199abbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440493,
-    "wof:lastmodified":1566631206,
+    "wof:lastmodified":1695878253,
     "wof:name":"Aberdare Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

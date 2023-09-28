@@ -10,12 +10,18 @@
     "geom:latitude":52.09465,
     "geom:longitude":-3.07283,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.091668,
     "lbl:longitude":-3.076701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u043b\u0456\u0444\u0430\u0440\u0434"
@@ -105,12 +111,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000727"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125836907
     ],
     "wof:country":"GB",
-    "wof:geomhash":"654506d5c8509e9454e5c9fd56063f8b",
+    "wof:geomhash":"2e2b93d9651052dc1a3dbed6b1e47e8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404434487,
     "wof:label":"Clifford Civil Parish",
-    "wof:lastmodified":1566633608,
+    "wof:lastmodified":1695877735,
     "wof:name":"Clifford",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

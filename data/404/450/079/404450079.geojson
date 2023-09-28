@@ -10,12 +10,18 @@
     "geom:latitude":54.054792,
     "geom:longitude":-2.179187,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.050602,
     "lbl:longitude":-2.181057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirkby Malham"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007101"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125923781
     ],
     "wof:country":"GB",
-    "wof:geomhash":"71a06c6283a14ffac2fabe39cb4a305e",
+    "wof:geomhash":"0b10480bfc3bac1075c850a7779986ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404450079,
     "wof:label":"Kirkby Malham Civil Parish",
-    "wof:lastmodified":1566633759,
+    "wof:lastmodified":1695877801,
     "wof:name":"Kirkby Malham",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

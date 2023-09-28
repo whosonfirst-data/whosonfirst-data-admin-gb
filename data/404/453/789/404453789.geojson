@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00207,
-    "geom:area_square_m":15343099.31368,
+    "geom:area_square_m":15343099.313677,
     "geom:bbox":"-3.93092460032,53.1294023301,-3.8260374431,53.1958763062",
     "geom:latitude":53.165594,
     "geom:longitude":-3.883328,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.166262,
     "lbl:longitude":-3.8869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dolgarrog Community"
@@ -40,12 +46,15 @@
         1360698739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000115"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125860839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"54dc240187289db3de9e4bc03c278707",
+    "wof:geomhash":"c9b20531702dcb57fdff0f506cf61906",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453789,
-    "wof:lastmodified":1566632856,
+    "wof:lastmodified":1695877398,
     "wof:name":"Dolgarrog Community",
     "wof:parent_id":1360698739,
     "wof:placetype":"localadmin",

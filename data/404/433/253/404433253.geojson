@@ -10,12 +10,18 @@
     "geom:latitude":53.754809,
     "geom:longitude":-1.025135,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.751037,
     "lbl:longitude":-1.014226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0644\u0648"
@@ -105,12 +111,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007715"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125927125
     ],
     "wof:country":"GB",
-    "wof:geomhash":"21cef04c5daff8b28281bec0e421ee0d",
+    "wof:geomhash":"43f684ab44daf3ca536288bb6e40f7d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404433253,
     "wof:label":"Barlow Civil Parish",
-    "wof:lastmodified":1566633720,
+    "wof:lastmodified":1695877784,
     "wof:name":"Barlow",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

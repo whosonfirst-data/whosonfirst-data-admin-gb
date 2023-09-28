@@ -10,12 +10,18 @@
     "geom:latitude":52.995243,
     "geom:longitude":-1.264862,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.996192,
     "lbl:longitude":-1.264529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0645\u0628\u0631\u0644\u064a"
@@ -123,12 +129,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007860"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013237
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dbcec5a1e3de053a9c50411a2551b2b3",
+    "wof:geomhash":"e6a1f63e223ef1ed32e194dfdd8509da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +150,7 @@
     ],
     "wof:id":404430305,
     "wof:label":"Kimberley Civil Parish",
-    "wof:lastmodified":1566632006,
+    "wof:lastmodified":1695877017,
     "wof:name":"Kimberley",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

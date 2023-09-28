@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000384,
-    "geom:area_square_m":2956025.466754,
+    "geom:area_square_m":2956025.466753,
     "geom:bbox":"-1.07976769161,51.4406451771,-1.06260916318,51.4784907131",
     "geom:latitude":51.461235,
     "geom:longitude":-1.071219,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.459046,
     "lbl:longitude":-1.07191,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u0647\u0645"
@@ -64,12 +70,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001192"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759681
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b429af906476e0b16ec7b5d243025e5a",
+    "wof:geomhash":"6a474ded79473474d1ddd4cecd1ccad1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404453893,
     "wof:label":"Sulham Civil Parish",
-    "wof:lastmodified":1566632786,
+    "wof:lastmodified":1695877367,
     "wof:name":"Sulham",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

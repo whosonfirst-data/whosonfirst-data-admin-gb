@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004654,
-    "geom:area_square_m":35810778.351259,
+    "geom:area_square_m":35810778.351258,
     "geom:bbox":"0.515766475762,51.5006945132,0.704191976195,51.5476274697",
     "geom:latitude":51.519495,
     "geom:longitude":0.600356,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.519946,
     "lbl:longitude":0.592516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u0647 \u06a9\u0627\u0646\u0648\u06cc"
@@ -99,12 +105,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003950"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853535
     ],
     "wof:country":"GB",
-    "wof:geomhash":"168e9cd754502e7efe59b7e2f79eae34",
+    "wof:geomhash":"6c9f82e528ebe97a5f999440ba7ed8bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404450287,
     "wof:label":"Canvey Island Civil Parish",
-    "wof:lastmodified":1566633760,
+    "wof:lastmodified":1695877801,
     "wof:name":"Canvey Island",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

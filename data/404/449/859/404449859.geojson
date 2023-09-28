@@ -10,12 +10,18 @@
     "geom:latitude":51.386836,
     "geom:longitude":-2.574597,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.386859,
     "lbl:longitude":-2.574157,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Norton Malreward"
@@ -54,12 +60,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000981"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125791337
     ],
     "wof:country":"GB",
-    "wof:geomhash":"576e6277e66830f93e917d4c1dc29dce",
+    "wof:geomhash":"9a88cf3f54a762550f31f5bcc45b77a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404449859,
     "wof:label":"Norton Malreward Civil Parish",
-    "wof:lastmodified":1566631374,
+    "wof:lastmodified":1695878327,
     "wof:name":"Norton Malreward",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

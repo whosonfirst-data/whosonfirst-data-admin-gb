@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001438,
-    "geom:area_square_m":10640321.226232,
+    "geom:area_square_m":10640321.226231,
     "geom:bbox":"-2.77962384589,53.2344157421,-2.68932760277,53.2618405317",
     "geom:latitude":53.246015,
     "geom:longitude":-2.729617,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.249639,
     "lbl:longitude":-2.717639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manley"
@@ -69,12 +75,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011137"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126002749
     ],
     "wof:country":"GB",
-    "wof:geomhash":"845e6ce269de24bc17891ff991eb5306",
+    "wof:geomhash":"b6b1ce4b9b1fc55603327b6f42dbc98f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404438461,
     "wof:label":"Manley Civil Parish",
-    "wof:lastmodified":1566632624,
+    "wof:lastmodified":1695877288,
     "wof:name":"Manley",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

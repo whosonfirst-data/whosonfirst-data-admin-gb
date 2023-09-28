@@ -10,12 +10,18 @@
     "geom:latitude":52.164456,
     "geom:longitude":-2.461545,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.165759,
     "lbl:longitude":-2.450153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanford Bishop"
@@ -42,12 +48,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000872"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326457293
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5e135daa9db4b47fae2c2ec453e7797d",
+    "wof:geomhash":"620418fef5e62adde80d98cb753b44a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404437477,
     "wof:label":"Stanford Bishop Civil Parish",
-    "wof:lastmodified":1566632071,
+    "wof:lastmodified":1695877044,
     "wof:name":"Stanford Bishop",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

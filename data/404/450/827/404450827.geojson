@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001132,
-    "geom:area_square_m":8599547.030574,
+    "geom:area_square_m":8599547.030573,
     "geom:bbox":"-3.02170770763,52.0806563591,-2.95653316893,52.1166184018",
     "geom:latitude":52.096515,
     "geom:longitude":-2.989025,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.095336,
     "lbl:longitude":-2.991736,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bredwardine"
@@ -57,12 +63,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000706"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125959333
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5de1fe44e5994104309f1b555768936",
+    "wof:geomhash":"29b6e114bce8f7910067c434e5c98b88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404450827,
     "wof:label":"Bredwardine Civil Parish",
-    "wof:lastmodified":1566633756,
+    "wof:lastmodified":1695877800,
     "wof:name":"Bredwardine",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

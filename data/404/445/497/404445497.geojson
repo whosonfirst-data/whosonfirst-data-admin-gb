@@ -10,12 +10,18 @@
     "geom:latitude":50.793012,
     "geom:longitude":0.05212,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.79143,
     "lbl:longitude":0.052121,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Newhaven"
@@ -51,12 +57,15 @@
         404227469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003778"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101875391
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f2f7bd4b1996a54524207a32d58fdec9",
+    "wof:geomhash":"7306dd9538c7f91fa89d90522d86e03f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +77,7 @@
     ],
     "wof:id":404445497,
     "wof:label":"Newhaven Civil Parish",
-    "wof:lastmodified":1566633339,
+    "wof:lastmodified":1695877612,
     "wof:name":"Newhaven",
     "wof:parent_id":1360698549,
     "wof:placetype":"localadmin",

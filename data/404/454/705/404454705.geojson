@@ -10,12 +10,18 @@
     "geom:latitude":51.791123,
     "geom:longitude":0.976386,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.792306,
     "lbl:longitude":0.975832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Mersea"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003986"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125783831
     ],
     "wof:country":"GB",
-    "wof:geomhash":"22a4de3e271dfe535316c063cba234f4",
+    "wof:geomhash":"94067f5fcadc6d4e403f68ef245d038f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404454705,
     "wof:label":"East Mersea Civil Parish",
-    "wof:lastmodified":1566632694,
+    "wof:lastmodified":1695877323,
     "wof:name":"East Mersea",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

@@ -10,6 +10,12 @@
     "geom:latitude":52.560374,
     "geom:longitude":-3.295435,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.559781,
     "lbl:longitude":-3.294673,
     "lbl:max_zoom":18.0,
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000254"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360859401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f2f478f4a1d926cf7f82d6446421485c",
+    "wof:geomhash":"572ba472d25063bd8b27156ee4a0a82e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404434383,
-    "wof:lastmodified":1566633573,
+    "wof:lastmodified":1695878008,
     "wof:name":"Bettws Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

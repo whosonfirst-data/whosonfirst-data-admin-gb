@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":2198103.495022,
+    "geom:area_square_m":2198103.495023,
     "geom:bbox":"-2.12295428222,50.819100817,-2.09601348333,50.8359843077",
     "geom:latitude":50.827698,
     "geom:longitude":-2.111135,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.826532,
     "lbl:longitude":-2.112482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tarrant Crawford"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003445"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125865113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bb1919df9791608e26bdfdf0cbca109e",
+    "wof:geomhash":"9fecfe6dc0c2276554c9e083564fb6ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404455007,
     "wof:label":"Tarrant Crawford Civil Parish",
-    "wof:lastmodified":1566632281,
+    "wof:lastmodified":1695877133,
     "wof:name":"Tarrant Crawford",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

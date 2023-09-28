@@ -10,12 +10,18 @@
     "geom:latitude":51.541779,
     "geom:longitude":-1.68895,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.553563,
     "lbl:longitude":-1.705696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wanborough"
@@ -57,12 +63,15 @@
         1360699033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001098"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060417
     ],
     "wof:country":"GB",
-    "wof:geomhash":"74cdaa5ffb9f43c74f23cffe20fa376d",
+    "wof:geomhash":"d116e9554eff884df9ce50f24967858c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439569,
     "wof:label":"Wanborough Civil Parish",
-    "wof:lastmodified":1566631831,
+    "wof:lastmodified":1695876940,
     "wof:name":"Wanborough",
     "wof:parent_id":1360699033,
     "wof:placetype":"localadmin",

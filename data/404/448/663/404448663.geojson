@@ -10,12 +10,18 @@
     "geom:latitude":53.835902,
     "geom:longitude":-2.388117,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.835326,
     "lbl:longitude":-2.38811,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wiswell"
@@ -63,12 +69,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005289"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126051033
     ],
     "wof:country":"GB",
-    "wof:geomhash":"95fa397b02e4cddb2d106f27d3f9d2fd",
+    "wof:geomhash":"a03448941ffc6c05296e0a30f3e96fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404448663,
     "wof:label":"Wiswell Civil Parish",
-    "wof:lastmodified":1566631549,
+    "wof:lastmodified":1695876835,
     "wof:name":"Wiswell",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

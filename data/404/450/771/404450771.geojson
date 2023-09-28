@@ -10,12 +10,18 @@
     "geom:latitude":53.28556,
     "geom:longitude":-0.016746,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.284671,
     "lbl:longitude":-0.016743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maidenwell"
@@ -40,12 +46,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005687"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4677c609eab9050e0ed467cd3db34c08",
+    "wof:geomhash":"8863a16b7a618c467296344a828d1367",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404450771,
     "wof:label":"Maidenwell Civil Parish",
-    "wof:lastmodified":1566633787,
+    "wof:lastmodified":1695877812,
     "wof:name":"Maidenwell",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

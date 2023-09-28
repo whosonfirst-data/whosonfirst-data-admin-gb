@@ -10,12 +10,18 @@
     "geom:latitude":51.623499,
     "geom:longitude":-3.438801,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.623863,
     "lbl:longitude":-3.442438,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trealaw Community"
@@ -44,9 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"W04000707",
         "gn:id":7300742,
         "qs_pg:id":1154459
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711447
     ],
@@ -54,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"24921a842214bc614b6b8f056062fedf",
+    "wof:geomhash":"609cbfddc93e6d51800e019c9dad9ca7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404447205,
-    "wof:lastmodified":1582311053,
+    "wof:lastmodified":1695877948,
     "wof:name":"Trealaw Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001686,
-    "geom:area_square_m":13246053.237286,
+    "geom:area_square_m":13246053.237285,
     "geom:bbox":"-4.76355079418,50.5272572749,-4.70229778494,50.5777142693",
     "geom:latitude":50.551231,
     "geom:longitude":-4.730249,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.551674,
     "lbl:longitude":-4.728159,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Tudy"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011584"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125906685
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f1362dd2c23b6fbe01f952490aee113c",
+    "wof:geomhash":"fd9180940039378fb6b4f9108c3780c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404453911,
     "wof:label":"St. Tudy Civil Parish",
-    "wof:lastmodified":1566632844,
+    "wof:lastmodified":1695877393,
     "wof:name":"St. Tudy",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

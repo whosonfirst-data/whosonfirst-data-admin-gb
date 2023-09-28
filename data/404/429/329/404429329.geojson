@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":1759234.765672,
+    "geom:area_square_m":1759234.765671,
     "geom:bbox":"-2.12361966734,51.996424756,-2.10874800061,52.0153049331",
     "geom:latitude":52.005271,
     "geom:longitude":-2.115438,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.0048,
     "lbl:longitude":-2.115439,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Northway"
@@ -48,12 +54,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004436"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125864643
     ],
     "wof:country":"GB",
-    "wof:geomhash":"26b12c7b156154f05b95bee828d98eea",
+    "wof:geomhash":"b78d06c2d044c8669cdcf0a2e1def718",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404429329,
     "wof:label":"Northway Civil Parish",
-    "wof:lastmodified":1566633183,
+    "wof:lastmodified":1695877541,
     "wof:name":"Northway",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

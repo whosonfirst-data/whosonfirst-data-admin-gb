@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001564,
-    "geom:area_square_m":12227733.761484,
+    "geom:area_square_m":12227733.761483,
     "geom:bbox":"-2.05125788592,50.7427981072,-1.99915171542,50.7943935799",
     "geom:latitude":50.772463,
     "geom:longitude":-2.02683,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.772905,
     "lbl:longitude":-2.027225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Corfe Mullen"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003365"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125947073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5beffaa52aad178c1444e963415ca663",
+    "wof:geomhash":"77af2ffdc9fabdd330320786e56da1b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404453481,
     "wof:label":"Corfe Mullen Civil Parish",
-    "wof:lastmodified":1566632823,
+    "wof:lastmodified":1695877384,
     "wof:name":"Corfe Mullen",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

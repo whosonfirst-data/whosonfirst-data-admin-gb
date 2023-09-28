@@ -10,12 +10,18 @@
     "geom:latitude":52.553149,
     "geom:longitude":-1.172523,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.544096,
     "lbl:longitude":-1.17294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whetstone"
@@ -60,12 +66,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005363"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802289
     ],
     "wof:country":"GB",
-    "wof:geomhash":"da04e451f4376fcd14bb00818236ec9c",
+    "wof:geomhash":"ddc141ba0d53281f1c2036d374c7cba3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404437155,
     "wof:label":"Whetstone Civil Parish",
-    "wof:lastmodified":1566632112,
+    "wof:lastmodified":1695877064,
     "wof:name":"Whetstone",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

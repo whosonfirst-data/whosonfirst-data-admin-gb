@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001286,
-    "geom:area_square_m":9932770.058467,
+    "geom:area_square_m":9932770.058468,
     "geom:bbox":"-2.62654997485,51.3186464973,-2.55414704114,51.3487708162",
     "geom:latitude":51.334963,
     "geom:longitude":-2.591059,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.333017,
     "lbl:longitude":-2.591074,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stowey-Sutton"
@@ -46,12 +52,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000992"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757949
     ],
     "wof:country":"GB",
-    "wof:geomhash":"95962b4816996b4c46153fbb9450d97a",
+    "wof:geomhash":"d8e8e30a56cbdc2d8b18eb0d40689fe7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404452259,
     "wof:label":"Stowey-Sutton Civil Parish",
-    "wof:lastmodified":1566632192,
+    "wof:lastmodified":1695877097,
     "wof:name":"Stowey-Sutton",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

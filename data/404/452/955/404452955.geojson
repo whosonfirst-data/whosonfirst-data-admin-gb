@@ -10,12 +10,18 @@
     "geom:latitude":51.996363,
     "geom:longitude":-0.97547,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.997694,
     "lbl:longitude":-0.981364,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0646\u063a\u0647\u0627\u0645"
@@ -118,12 +124,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001465"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101875469
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e084b0f4eb16fa3823b2486de6bec301",
+    "wof:geomhash":"61993065254f8660474ec66d5470af17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +145,7 @@
     ],
     "wof:id":404452955,
     "wof:label":"Buckingham Civil Parish",
-    "wof:lastmodified":1566632176,
+    "wof:lastmodified":1695877090,
     "wof:name":"Buckingham",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

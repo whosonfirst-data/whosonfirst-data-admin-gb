@@ -10,12 +10,18 @@
     "geom:latitude":51.772793,
     "geom:longitude":-3.490255,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.771847,
     "lbl:longitude":-3.490235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hirwaun Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000685"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910749
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5890098c45232826a928435826db8a8",
+    "wof:geomhash":"14dd3af4ff3755272fe0637a82f57617",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404450987,
-    "wof:lastmodified":1566633838,
+    "wof:lastmodified":1695877832,
     "wof:name":"Hirwaun Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

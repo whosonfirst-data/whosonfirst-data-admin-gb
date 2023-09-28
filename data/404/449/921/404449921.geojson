@@ -10,12 +10,18 @@
     "geom:latitude":52.085035,
     "geom:longitude":-2.095993,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.082134,
     "lbl:longitude":-2.089641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Birlingham"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010363"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126041893
     ],
     "wof:country":"GB",
-    "wof:geomhash":"79398dec1e50d1eef25e1aa5c55fa889",
+    "wof:geomhash":"a20c02f710602a451467a8ac64708e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404449921,
     "wof:label":"Birlingham Civil Parish",
-    "wof:lastmodified":1566631453,
+    "wof:lastmodified":1695876794,
     "wof:name":"Birlingham",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

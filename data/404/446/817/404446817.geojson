@@ -10,12 +10,18 @@
     "geom:latitude":54.294572,
     "geom:longitude":-1.742115,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.29478,
     "lbl:longitude":-1.741803,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hutton Hang"
@@ -58,12 +64,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007495"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754353
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1ffe50180dc4cf63425b6239b2c13496",
+    "wof:geomhash":"d24141d779e6211f6221ee04dc1b53b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404446817,
     "wof:label":"Hutton Hang Civil Parish",
-    "wof:lastmodified":1566631619,
+    "wof:lastmodified":1695876856,
     "wof:name":"Hutton Hang",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

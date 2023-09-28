@@ -10,12 +10,18 @@
     "geom:latitude":53.858629,
     "geom:longitude":-2.171663,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.856711,
     "lbl:longitude":-2.174328,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0644\u0646"
@@ -87,12 +93,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005232"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310034385
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fb9c4fc01914b2c0553a41a3f4ab8626",
+    "wof:geomhash":"3fdde2a06590e3c43743f8c05f678d5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404454985,
     "wof:label":"Colne Civil Parish",
-    "wof:lastmodified":1566632689,
+    "wof:lastmodified":1695877321,
     "wof:name":"Colne",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

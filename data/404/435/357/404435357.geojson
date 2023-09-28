@@ -10,12 +10,18 @@
     "geom:latitude":54.237143,
     "geom:longitude":-2.655633,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.233603,
     "lbl:longitude":-2.657913,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lupton"
@@ -63,12 +69,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002629"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243583117
     ],
     "wof:country":"GB",
-    "wof:geomhash":"143a84227b571654055db0569b053d5d",
+    "wof:geomhash":"a64e61506e7d4ce1ac7d8c6d32b7b0cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404435357,
     "wof:label":"Lupton Civil Parish",
-    "wof:lastmodified":1566634036,
+    "wof:lastmodified":1695877915,
     "wof:name":"Lupton",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

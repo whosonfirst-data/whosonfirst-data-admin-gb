@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00124,
-    "geom:area_square_m":9402015.754862,
+    "geom:area_square_m":9402015.754861,
     "geom:bbox":"-2.50653673056,52.1674695505,-2.42191421461,52.1968980879",
     "geom:latitude":52.180868,
     "geom:longitude":-2.46414,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.178569,
     "lbl:longitude":-2.467025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Linton"
@@ -76,12 +82,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000803"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759789
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c6c3cab80de8734694c2bd1cecc45266",
+    "wof:geomhash":"be81362571f0cee196e0c8c0a85e3e45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +103,7 @@
     ],
     "wof:id":404429467,
     "wof:label":"Linton Civil Parish",
-    "wof:lastmodified":1566633167,
+    "wof:lastmodified":1695877533,
     "wof:name":"Linton",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.247038,
     "geom:longitude":-3.965493,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.245615,
     "lbl:longitude":-3.964608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfairfechan Community"
@@ -40,12 +46,15 @@
         1360698739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000123"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880509
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dca14400421c4f0c0b277db5e52948b2",
+    "wof:geomhash":"ce6e840ccbd1e3851521ccb1eaea2f66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443317,
-    "wof:lastmodified":1566633086,
+    "wof:lastmodified":1695877498,
     "wof:name":"Llanfairfechan Community",
     "wof:parent_id":1360698739,
     "wof:placetype":"localadmin",

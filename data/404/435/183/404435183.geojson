@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001577,
-    "geom:area_square_m":11430830.896412,
+    "geom:area_square_m":11430830.896411,
     "geom:bbox":"-0.831976711115,54.1038988773,-0.754003518045,54.1462392222",
     "geom:latitude":54.122061,
     "geom:longitude":-0.789469,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.119051,
     "lbl:longitude":-0.796553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norton-On-Derwent"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007611"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873303
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9de9bdd52e0a90c9b1ef05fbf2770297",
+    "wof:geomhash":"560fb3a69f1a96da48a0d0155b250e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404435183,
     "wof:label":"Norton-On-Derwent Civil Parish",
-    "wof:lastmodified":1566634081,
+    "wof:lastmodified":1695877941,
     "wof:name":"Norton-On-Derwent",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

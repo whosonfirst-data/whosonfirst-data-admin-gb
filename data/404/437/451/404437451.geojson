@@ -10,12 +10,18 @@
     "geom:latitude":52.704285,
     "geom:longitude":-1.499484,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.704652,
     "lbl:longitude":-1.499483,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Measham"
@@ -63,12 +69,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005557"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853613
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9d3b1d00617fe89ff577024d7cff6848",
+    "wof:geomhash":"6a859d635da79fc153c092d4b8b307b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404437451,
     "wof:label":"Measham Civil Parish",
-    "wof:lastmodified":1566632136,
+    "wof:lastmodified":1695877072,
     "wof:name":"Measham",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

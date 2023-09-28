@@ -10,12 +10,18 @@
     "geom:latitude":52.154558,
     "geom:longitude":-2.923569,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.154196,
     "lbl:longitude":-2.922297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sarnesfield"
@@ -52,12 +58,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000868"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755553
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8d15a473ee64d41891f7446c9845d3f0",
+    "wof:geomhash":"cba2160e363ceb77500128f39464ecd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404431203,
     "wof:label":"Sarnesfield Civil Parish",
-    "wof:lastmodified":1566632461,
+    "wof:lastmodified":1695877214,
     "wof:name":"Sarnesfield",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

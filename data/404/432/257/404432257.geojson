@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001289,
-    "geom:area_square_m":9869388.823266,
+    "geom:area_square_m":9869388.823265,
     "geom:bbox":"0.246538692372,51.7228295145,0.295084404853,51.7644427285",
     "geom:latitude":51.742454,
     "geom:longitude":0.268152,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.741274,
     "lbl:longitude":0.267685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fyfield"
@@ -57,12 +63,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004017"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126032027
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e7f1c3ffd07ccc9e0978fe597854ff61",
+    "wof:geomhash":"63307c464d6278ebc3e6c7d5837a093e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404432257,
     "wof:label":"Fyfield Civil Parish",
-    "wof:lastmodified":1566633894,
+    "wof:lastmodified":1695877847,
     "wof:name":"Fyfield",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

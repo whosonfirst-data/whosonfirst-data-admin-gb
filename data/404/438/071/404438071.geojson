@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000934,
-    "geom:area_square_m":7023163.881021,
+    "geom:area_square_m":7023163.88102,
     "geom:bbox":"-0.332728941083,52.5342987468,-0.286742255042,52.5719382231",
     "geom:latitude":52.550502,
     "geom:longitude":-0.310504,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.548869,
     "lbl:longitude":-0.310854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orton Waterville"
@@ -42,12 +48,15 @@
         1360698773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001116"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327065391
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ade1932258da6e0e81489be6c2ed660d",
+    "wof:geomhash":"d2ecbd52d2320ab4bda7e5cc12b8acf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404438071,
     "wof:label":"Orton Waterville Civil Parish",
-    "wof:lastmodified":1566632559,
+    "wof:lastmodified":1695877259,
     "wof:name":"Orton Waterville",
     "wof:parent_id":1360698773,
     "wof:placetype":"localadmin",

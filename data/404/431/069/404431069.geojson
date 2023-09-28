@@ -10,12 +10,18 @@
     "geom:latitude":52.399811,
     "geom:longitude":1.448373,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.402471,
     "lbl:longitude":1.446994,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Michael, South Elmham"
@@ -40,12 +46,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009521"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755345
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8a54372c5a093a0b8529e5c57bfcea9b",
+    "wof:geomhash":"0beed85fcc0fe07dbbdb8a7cc602a82a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404431069,
     "wof:label":"St. Michael, South Elmham Civil Parish",
-    "wof:lastmodified":1566632519,
+    "wof:lastmodified":1695877240,
     "wof:name":"St. Michael, South Elmham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

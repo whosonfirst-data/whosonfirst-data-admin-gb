@@ -10,12 +10,18 @@
     "geom:latitude":50.768389,
     "geom:longitude":-2.558958,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.765161,
     "lbl:longitude":-2.553756,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maiden Newton"
@@ -75,12 +81,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003561"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125875721
     ],
     "wof:country":"GB",
-    "wof:geomhash":"650c53230e58eb7dc3c4130b48765c13",
+    "wof:geomhash":"4b5aaf9907c27fbfe9dea1042c9f69ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404455413,
     "wof:label":"Maiden Newton Civil Parish",
-    "wof:lastmodified":1566632276,
+    "wof:lastmodified":1695877132,
     "wof:name":"Maiden Newton",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

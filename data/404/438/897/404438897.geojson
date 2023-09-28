@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002144,
-    "geom:area_square_m":16480252.854902,
+    "geom:area_square_m":16480252.854901,
     "geom:bbox":"-1.20600380386,51.5304633613,-1.1230377497,51.5973673217",
     "geom:latitude":51.572292,
     "geom:longitude":-1.159441,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.578994,
     "lbl:longitude":-1.159453,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cholsey"
@@ -69,12 +75,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008115"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125937765
     ],
     "wof:country":"GB",
-    "wof:geomhash":"98634b793c311a6d3d9fd8262a1c822f",
+    "wof:geomhash":"3f557579c372c7782cede06b14b56222",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404438897,
     "wof:label":"Cholsey Civil Parish",
-    "wof:lastmodified":1566632627,
+    "wof:lastmodified":1695877290,
     "wof:name":"Cholsey",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.679854,
     "geom:longitude":-0.478661,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.680496,
     "lbl:longitude":-0.475331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sarratt"
@@ -66,12 +72,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004814"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013327
     ],
     "wof:country":"GB",
-    "wof:geomhash":"11fab9d85ee54daf1b9bdea14a1fec91",
+    "wof:geomhash":"ca2a315c0750ea23c7beb33f39a589e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404450017,
     "wof:label":"Sarratt Civil Parish",
-    "wof:lastmodified":1566633817,
+    "wof:lastmodified":1695877824,
     "wof:name":"Sarratt",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.821202,
     "geom:longitude":-2.903758,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.823738,
     "lbl:longitude":-2.90343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Greenhalgh-With-Thistleton"
@@ -40,12 +46,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005165"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759047
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3532c84fc59f4273a1d82c5b9aac2c3b",
+    "wof:geomhash":"33041220430d11b609537b2dcc2fe60d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404436911,
     "wof:label":"Greenhalgh-With-Thistleton Civil Parish",
-    "wof:lastmodified":1566632415,
+    "wof:lastmodified":1695877194,
     "wof:name":"Greenhalgh-With-Thistleton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000979,
-    "geom:area_square_m":7149870.575492,
+    "geom:area_square_m":7149870.575493,
     "geom:bbox":"-1.39097664652,53.8022836022,-1.34300448662,53.8375125454",
     "geom:latitude":53.81872,
     "geom:longitude":-1.365021,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.818808,
     "lbl:longitude":-1.366653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Parlington"
@@ -40,12 +46,15 @@
         1360698749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000205"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754519
     ],
     "wof:country":"GB",
-    "wof:geomhash":"95d3c29475433f7189a890d1238a105a",
+    "wof:geomhash":"a3642ef41c2a41786d755cff5181d79b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404455013,
     "wof:label":"Parlington Civil Parish",
-    "wof:lastmodified":1566632277,
+    "wof:lastmodified":1695877132,
     "wof:name":"Parlington",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

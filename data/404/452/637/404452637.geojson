@@ -10,12 +10,18 @@
     "geom:latitude":50.83793,
     "geom:longitude":-0.651158,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.836018,
     "lbl:longitude":-0.653565,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eastergate"
@@ -54,12 +60,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009859"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"97295cc6857d3a31d4ca44a3663ec56c",
+    "wof:geomhash":"0a531e28935d05f763c02664d58c3a38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452637,
     "wof:label":"Eastergate Civil Parish",
-    "wof:lastmodified":1566632246,
+    "wof:lastmodified":1695877119,
     "wof:name":"Eastergate",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

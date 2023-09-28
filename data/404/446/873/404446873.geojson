@@ -10,12 +10,18 @@
     "geom:latitude":52.375522,
     "geom:longitude":1.296039,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.376143,
     "lbl:longitude":1.300235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Weybread"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009273"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125951805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7ad8f7a409f807c33fa3ce57263cb861",
+    "wof:geomhash":"87def3c24972b03ccb410be6adaa8e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404446873,
     "wof:label":"Weybread Civil Parish",
-    "wof:lastmodified":1566631617,
+    "wof:lastmodified":1695876855,
     "wof:name":"Weybread",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

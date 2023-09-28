@@ -10,12 +10,18 @@
     "geom:latitude":53.610845,
     "geom:longitude":-1.523409,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.611297,
     "lbl:longitude":-1.523995,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Woolley"
@@ -72,12 +78,15 @@
         1360698945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000252"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125899833
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9371db39c1fa74cca6098ebddfa1d418",
+    "wof:geomhash":"4b4a052f61f7cc27d5bee5b9acb09a70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404438939,
     "wof:label":"Woolley Civil Parish",
-    "wof:lastmodified":1566632543,
+    "wof:lastmodified":1695877252,
     "wof:name":"Woolley",
     "wof:parent_id":1360698945,
     "wof:placetype":"localadmin",

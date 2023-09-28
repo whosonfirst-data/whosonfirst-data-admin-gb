@@ -10,12 +10,18 @@
     "geom:latitude":52.20855,
     "geom:longitude":-1.782177,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.209582,
     "lbl:longitude":-1.78442,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Billesley"
@@ -45,12 +51,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009712"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125893411
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c63fa0b584eab42f3191d483ad2ac5fe",
+    "wof:geomhash":"a6b9198869fc78f88e35430cc4b25da1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404436757,
     "wof:label":"Billesley Civil Parish",
-    "wof:lastmodified":1566632386,
+    "wof:lastmodified":1695877181,
     "wof:name":"Billesley",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

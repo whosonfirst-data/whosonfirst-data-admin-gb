@@ -10,12 +10,18 @@
     "geom:latitude":51.616631,
     "geom:longitude":-3.967781,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.616215,
     "lbl:longitude":-3.967564,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uplands Community"
@@ -44,9 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"W04000597",
         "gn:id":7292835,
         "qs_pg:id":279934
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126053669
     ],
@@ -54,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c62752924d61b5cad264e7eaed61218d",
+    "wof:geomhash":"3d7c124bec55e36f5f308482fa8e60b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404431507,
-    "wof:lastmodified":1582311102,
+    "wof:lastmodified":1695877969,
     "wof:name":"Uplands Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

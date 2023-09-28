@@ -10,12 +10,18 @@
     "geom:latitude":52.119244,
     "geom:longitude":-2.008784,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.115201,
     "lbl:longitude":-2.017007,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fladbury"
@@ -63,12 +69,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010392"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910147
     ],
     "wof:country":"GB",
-    "wof:geomhash":"efbd62daa39dc48a17b9a3c015a2ea9b",
+    "wof:geomhash":"e21401d50af225617225952d1ff9161b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432265,
     "wof:label":"Fladbury Civil Parish",
-    "wof:lastmodified":1566633953,
+    "wof:lastmodified":1695877875,
     "wof:name":"Fladbury",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

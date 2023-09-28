@@ -10,12 +10,18 @@
     "geom:latitude":50.841763,
     "geom:longitude":-0.780377,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.840682,
     "lbl:longitude":-0.776976,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Chichester"
@@ -189,12 +195,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009888"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852329
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d3bdcbf8b4e9a3a9ca1305141bf85f12",
+    "wof:geomhash":"8365575f7401349aeef2080f36f4177c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,7 +216,7 @@
     ],
     "wof:id":404433377,
     "wof:label":"Chichester Civil Parish",
-    "wof:lastmodified":1566633678,
+    "wof:lastmodified":1695877765,
     "wof:name":"Chichester",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

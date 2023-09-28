@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002553,
-    "geom:area_square_m":19022919.027939,
+    "geom:area_square_m":19022919.027938,
     "geom:bbox":"-3.12351504916,52.9254461568,-3.01670145176,52.9716437246",
     "geom:latitude":52.94585,
     "geom:longitude":-3.063315,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.944581,
     "lbl:longitude":-3.068584,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chirk Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000222"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871913
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e55606373daa142814f90f9b950a8c90",
+    "wof:geomhash":"16a4ef921bef99d284cfa612268b995c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404439693,
-    "wof:lastmodified":1566631863,
+    "wof:lastmodified":1695876956,
     "wof:name":"Chirk Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

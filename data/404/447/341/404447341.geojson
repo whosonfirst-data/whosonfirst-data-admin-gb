@@ -10,12 +10,18 @@
     "geom:latitude":51.187515,
     "geom:longitude":-2.749805,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.187055,
     "lbl:longitude":-2.746494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Godney"
@@ -57,12 +63,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008562"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125915027
     ],
     "wof:country":"GB",
-    "wof:geomhash":"727a73229d6c860ed1623f1e66021026",
+    "wof:geomhash":"8c343e8cc51462110b331093f955d447",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447341,
     "wof:label":"Godney Civil Parish",
-    "wof:lastmodified":1566631279,
+    "wof:lastmodified":1695878285,
     "wof:name":"Godney",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

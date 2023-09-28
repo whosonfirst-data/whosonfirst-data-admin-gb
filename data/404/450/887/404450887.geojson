@@ -10,12 +10,18 @@
     "geom:latitude":51.503701,
     "geom:longitude":-2.085462,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.502899,
     "lbl:longitude":-2.084959,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sutton Benger"
@@ -63,12 +69,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011831"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125912869
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c3069493aeb0e10d01441507afaf83a8",
+    "wof:geomhash":"859e2ebdb6ff821ba2a61ef3529c88de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404450887,
     "wof:label":"Sutton Benger Civil Parish",
-    "wof:lastmodified":1566633761,
+    "wof:lastmodified":1695877802,
     "wof:name":"Sutton Benger",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.238028,
     "geom:longitude":-2.821553,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.238045,
     "lbl:longitude":-2.82054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bridge Trafford"
@@ -54,12 +60,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011051"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125901957
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72d93624b814b3e2831d8dcb6a9217df",
+    "wof:geomhash":"ae342230e2f10de2e567ba00ca46baf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404433335,
     "wof:label":"Bridge Trafford Civil Parish",
-    "wof:lastmodified":1566633695,
+    "wof:lastmodified":1695877773,
     "wof:name":"Bridge Trafford",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
-    "geom:area_square_m":3680348.597824,
+    "geom:area_square_m":3680348.597825,
     "geom:bbox":"-3.11251475089,53.525485783,-3.04064822497,53.5508355125",
     "geom:latitude":53.534978,
     "geom:longitude":-3.074546,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.533032,
     "lbl:longitude":-3.075098,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Altcar"
@@ -54,12 +60,15 @@
         1360698771
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000031"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126053857
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a880ac5c7a95812b351dec558c14a70d",
+    "wof:geomhash":"5eaa1de752005801995bd2ad8108d1ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430531,
     "wof:label":"Little Altcar Civil Parish",
-    "wof:lastmodified":1566632001,
+    "wof:lastmodified":1695877015,
     "wof:name":"Little Altcar",
     "wof:parent_id":1360698771,
     "wof:placetype":"localadmin",

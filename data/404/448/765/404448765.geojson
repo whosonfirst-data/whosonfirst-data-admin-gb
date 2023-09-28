@@ -10,12 +10,18 @@
     "geom:latitude":53.954948,
     "geom:longitude":-2.33635,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.957553,
     "lbl:longitude":-2.346989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bolton-By-Bowland"
@@ -42,12 +48,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005246"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260109475
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a7a272524b26485e93d15736ca785552",
+    "wof:geomhash":"bcd202b1fba4da9977e7d29f18a314a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404448765,
     "wof:label":"Bolton-By-Bowland Civil Parish",
-    "wof:lastmodified":1566631469,
+    "wof:lastmodified":1695876801,
     "wof:name":"Bolton-By-Bowland",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

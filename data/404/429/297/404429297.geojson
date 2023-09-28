@@ -10,12 +10,18 @@
     "geom:latitude":50.850947,
     "geom:longitude":-4.025689,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.847108,
     "lbl:longitude":-4.026363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Iddesleigh"
@@ -66,12 +72,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003326"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844325
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3cf85f35ad38ef1136d3b93eae6f3372",
+    "wof:geomhash":"b2ab7c8f8b6fde960dfb82eacaacbd83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404429297,
     "wof:label":"Iddesleigh Civil Parish",
-    "wof:lastmodified":1566633177,
+    "wof:lastmodified":1695877538,
     "wof:name":"Iddesleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

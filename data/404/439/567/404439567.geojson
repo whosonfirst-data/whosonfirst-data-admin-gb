@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001048,
-    "geom:area_square_m":7995497.674986,
+    "geom:area_square_m":7995497.674987,
     "geom:bbox":"0.369196223524,51.9016117386,0.413420572432,51.9392836993",
     "geom:latitude":51.922557,
     "geom:longitude":0.389286,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.926783,
     "lbl:longitude":0.385287,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lindsell"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004145"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209544383
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d9321ea791a82ea690515c1c1b18bcb5",
+    "wof:geomhash":"1174fbf7f299e0593ad6dc4f2b9cd335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439567,
     "wof:label":"Lindsell Civil Parish",
-    "wof:lastmodified":1566631832,
+    "wof:lastmodified":1695876941,
     "wof:name":"Lindsell",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

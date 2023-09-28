@@ -10,12 +10,18 @@
     "geom:latitude":54.651618,
     "geom:longitude":-1.648978,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.651528,
     "lbl:longitude":-1.651118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dene Valley"
@@ -49,12 +55,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010617"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755381
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c40d871e51ff47efc8dff055ef9dd3c1",
+    "wof:geomhash":"6fbbeed47d0ec7b6d9d32d6f04226923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404439359,
     "wof:label":"Dene Valley Civil Parish",
-    "wof:lastmodified":1566631884,
+    "wof:lastmodified":1695876966,
     "wof:name":"Dene Valley",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

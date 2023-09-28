@@ -10,12 +10,18 @@
     "geom:latitude":52.683054,
     "geom:longitude":-1.532629,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.682251,
     "lbl:longitude":-1.532095,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Appleby Magna"
@@ -63,12 +69,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005541"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343496599
     ],
     "wof:country":"GB",
-    "wof:geomhash":"df5ba820441a3b01f2e7343beab1a403",
+    "wof:geomhash":"9d71b7656d2e1e545253a79dcf709326",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404448935,
     "wof:label":"Appleby Magna Civil Parish",
-    "wof:lastmodified":1566631527,
+    "wof:lastmodified":1695876825,
     "wof:name":"Appleby Magna",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

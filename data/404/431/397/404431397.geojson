@@ -10,12 +10,18 @@
     "geom:latitude":52.438632,
     "geom:longitude":-2.775663,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.438008,
     "lbl:longitude":-2.7749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Culmington"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011260"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360113965
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c04c4764cae4781a56d182b1c30be918",
+    "wof:geomhash":"b07c0a7637e819f8a3c6dae2a6d7792f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404431397,
     "wof:label":"Culmington Civil Parish",
-    "wof:lastmodified":1566632442,
+    "wof:lastmodified":1695877205,
     "wof:name":"Culmington",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

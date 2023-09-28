@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002453,
-    "geom:area_square_m":19124485.961223,
+    "geom:area_square_m":19124485.961222,
     "geom:bbox":"-4.24769767004,50.89523293,-4.15535891463,50.9380158204",
     "geom:latitude":50.914648,
     "geom:longitude":-4.199673,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.915472,
     "lbl:longitude":-4.18956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Langtree"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003273"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276688319
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c3237d02429347a1d8adbf500d04d95a",
+    "wof:geomhash":"1d597755ac1ffabad3041d50a3dbd180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404436405,
     "wof:label":"Langtree Civil Parish",
-    "wof:lastmodified":1566632405,
+    "wof:lastmodified":1695877189,
     "wof:name":"Langtree",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

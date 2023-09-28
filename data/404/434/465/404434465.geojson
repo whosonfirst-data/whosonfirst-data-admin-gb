@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004025,
-    "geom:area_square_m":29725840.014754,
+    "geom:area_square_m":29725840.014756,
     "geom:bbox":"-4.44494507419,53.2949996499,-4.32275786743,53.3599358888",
     "geom:latitude":53.327241,
     "geom:longitude":-4.387399,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.335333,
     "lbl:longitude":-4.397451,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llannerch-y-Medd Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000028"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711693
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7011579f2a2ee5c817b5642d343d8327",
+    "wof:geomhash":"a2168a58310c29922c5c59235461bd6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404434465,
-    "wof:lastmodified":1566633571,
+    "wof:lastmodified":1695877718,
     "wof:name":"Llannerch-y-Medd Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

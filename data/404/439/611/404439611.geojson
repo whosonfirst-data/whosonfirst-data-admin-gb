@@ -10,12 +10,18 @@
     "geom:latitude":51.187635,
     "geom:longitude":-4.052872,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.187339,
     "lbl:longitude":-4.056285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Berrynarbor"
@@ -66,12 +72,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003070"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972203
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8630570d757ec8881cf46ff7b8e3926a",
+    "wof:geomhash":"50bb9faaf788f2ee5150adf3cb25c41d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404439611,
     "wof:label":"Berrynarbor Civil Parish",
-    "wof:lastmodified":1566631855,
+    "wof:lastmodified":1695876952,
     "wof:name":"Berrynarbor",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

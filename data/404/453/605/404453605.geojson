@@ -10,12 +10,18 @@
     "geom:latitude":51.933222,
     "geom:longitude":0.760516,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.934537,
     "lbl:longitude":0.752275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wakes Colne"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004007"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125966035
     ],
     "wof:country":"GB",
-    "wof:geomhash":"076408b52f856a5096d97d7233ad229b",
+    "wof:geomhash":"60727b149a924d46281b94b8c937be5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404453605,
     "wof:label":"Wakes Colne Civil Parish",
-    "wof:lastmodified":1566632778,
+    "wof:lastmodified":1695877364,
     "wof:name":"Wakes Colne",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

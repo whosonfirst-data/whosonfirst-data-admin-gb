@@ -10,12 +10,18 @@
     "geom:latitude":51.931413,
     "geom:longitude":-0.376367,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.93149,
     "lbl:longitude":-0.376769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lilley"
@@ -51,12 +57,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004785"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125967603
     ],
     "wof:country":"GB",
-    "wof:geomhash":"168e36bf2f3e991876f089949055b79c",
+    "wof:geomhash":"214b4e208c2b796d8e9b4a677ce3d09d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404434535,
     "wof:label":"Lilley Civil Parish",
-    "wof:lastmodified":1566633546,
+    "wof:lastmodified":1695877706,
     "wof:name":"Lilley",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

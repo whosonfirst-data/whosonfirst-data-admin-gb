@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005751,
-    "geom:area_square_m":43659378.685705,
+    "geom:area_square_m":43659378.685706,
     "geom:bbox":"-3.49796559062,52.0885296336,-3.3601022526,52.15282602",
     "geom:latitude":52.12105,
     "geom:longitude":-3.434428,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.116608,
     "lbl:longitude":-3.440004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Duhonw Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000269"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711573
     ],
     "wof:country":"GB",
-    "wof:geomhash":"49d1afdb8d37d8b18a10b3c5d381ebaf",
+    "wof:geomhash":"fc5cc4907ac481619d4ce1c91f432291",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429387,
-    "wof:lastmodified":1566633187,
+    "wof:lastmodified":1695877543,
     "wof:name":"Duhonw Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

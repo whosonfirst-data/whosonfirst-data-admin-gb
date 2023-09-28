@@ -10,12 +10,18 @@
     "geom:latitude":53.823028,
     "geom:longitude":-2.651995,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.826393,
     "lbl:longitude":-2.631151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whittingham"
@@ -66,12 +72,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005240"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126050953
     ],
     "wof:country":"GB",
-    "wof:geomhash":"154f9ff4984b0b4ca6e976939da7ed8c",
+    "wof:geomhash":"a7157cba0b623940242df27b2185e288",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404452653,
     "wof:label":"Whittingham Civil Parish",
-    "wof:lastmodified":1566632251,
+    "wof:lastmodified":1695877121,
     "wof:name":"Whittingham",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

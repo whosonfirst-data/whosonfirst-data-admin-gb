@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001695,
-    "geom:area_square_m":13186129.990152,
+    "geom:area_square_m":13186129.990151,
     "geom:bbox":"-2.95078649932,50.9847499845,-2.87976682619,51.0299414004",
     "geom:latitude":51.006062,
     "geom:longitude":-2.919527,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.006726,
     "lbl:longitude":-2.918984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fivehead"
@@ -63,12 +69,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008700"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903585
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1d4b1b9aa4b4fc5d0f556fb0be454f95",
+    "wof:geomhash":"215fcf1786577065932b1a3f06a62aae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404452977,
     "wof:label":"Fivehead Civil Parish",
-    "wof:lastmodified":1566632203,
+    "wof:lastmodified":1695877101,
     "wof:name":"Fivehead",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

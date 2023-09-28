@@ -10,12 +10,18 @@
     "geom:latitude":55.585789,
     "geom:longitude":-1.837933,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.584924,
     "lbl:longitude":-1.837123,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Belford"
@@ -63,12 +69,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010741"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125787783
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1a21872f9351acdeba39f4662d8fedb4",
+    "wof:geomhash":"d08755fa3f1fd93d00c2cb92f39829ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404429915,
     "wof:label":"Belford Civil Parish",
-    "wof:lastmodified":1566633133,
+    "wof:lastmodified":1695877520,
     "wof:name":"Belford",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

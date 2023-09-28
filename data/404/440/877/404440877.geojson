@@ -10,12 +10,18 @@
     "geom:latitude":52.684069,
     "geom:longitude":0.623441,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.686485,
     "lbl:longitude":0.620614,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Narford"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006149"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977163
     ],
     "wof:country":"GB",
-    "wof:geomhash":"77fe37e73993000037a02ae2b3c362b2",
+    "wof:geomhash":"2cc40127c246890c9d55ecd293ef48d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404440877,
     "wof:label":"Narford Civil Parish",
-    "wof:lastmodified":1566631195,
+    "wof:lastmodified":1695878247,
     "wof:name":"Narford",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

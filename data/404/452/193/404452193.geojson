@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002129,
-    "geom:area_square_m":16730380.56883,
+    "geom:area_square_m":16730380.568831,
     "geom:bbox":"-3.66553117364,50.5110851169,-3.57662616518,50.5645290906",
     "geom:latitude":50.533742,
     "geom:longitude":-3.623514,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.525,
     "lbl:longitude":-3.608051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u06cc\u0648\u062a\u0648\u0646 \u0622\u0628\u0648\u062a"
@@ -99,12 +105,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012122"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852597
     ],
     "wof:country":"GB",
-    "wof:geomhash":"abcc63e73667880ae626d6e06aa25bf6",
+    "wof:geomhash":"cfb8f3723c7b0cee0b142fdfd3f45952",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404452193,
     "wof:label":"Newton Abbot Civil Parish",
-    "wof:lastmodified":1566632174,
+    "wof:lastmodified":1695877089,
     "wof:name":"Newton Abbot",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

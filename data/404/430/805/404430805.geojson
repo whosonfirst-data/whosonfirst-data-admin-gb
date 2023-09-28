@@ -10,12 +10,18 @@
     "geom:latitude":51.454677,
     "geom:longitude":-2.117745,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.461667,
     "lbl:longitude":-2.128971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Cippanhamm"
@@ -120,12 +126,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011672"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852747
     ],
     "wof:country":"GB",
-    "wof:geomhash":"876733cbda7434c6a3dc933578987d52",
+    "wof:geomhash":"a46a9699dc5a46958fafef928e92a377",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +147,7 @@
     ],
     "wof:id":404430805,
     "wof:label":"Chippenham Civil Parish",
-    "wof:lastmodified":1566631976,
+    "wof:lastmodified":1695877006,
     "wof:name":"Chippenham",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

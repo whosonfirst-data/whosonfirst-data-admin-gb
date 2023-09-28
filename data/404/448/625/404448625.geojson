@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00117,
-    "geom:area_square_m":8903581.930491,
+    "geom:area_square_m":8903581.93049,
     "geom:bbox":"-0.257455963055,51.9850277461,-0.201261153224,52.0323852406",
     "geom:latitude":52.012554,
     "geom:longitude":-0.230865,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.016462,
     "lbl:longitude":-0.230445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0648\u062a\u0641\u0648\u0644\u062f"
@@ -78,12 +84,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011988"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125822765
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fdf8762caf67e23849daa6ce712c2875",
+    "wof:geomhash":"722b76dd9ef1eff37efe5b21f15ae971",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404448625,
     "wof:label":"Stotfold Civil Parish",
-    "wof:lastmodified":1566631538,
+    "wof:lastmodified":1695876830,
     "wof:name":"Stotfold",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

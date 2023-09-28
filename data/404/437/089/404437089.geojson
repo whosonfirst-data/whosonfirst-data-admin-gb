@@ -10,12 +10,18 @@
     "geom:latitude":51.05853,
     "geom:longitude":-2.124322,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.056773,
     "lbl:longitude":-2.128044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Tisbury"
@@ -51,12 +57,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011853"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125791653
     ],
     "wof:country":"GB",
-    "wof:geomhash":"803edd33a3270113a3ae8fb77131f861",
+    "wof:geomhash":"9613f3e34438e243151f400616e4808f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404437089,
     "wof:label":"West Tisbury Civil Parish",
-    "wof:lastmodified":1566632118,
+    "wof:lastmodified":1695877065,
     "wof:name":"West Tisbury",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

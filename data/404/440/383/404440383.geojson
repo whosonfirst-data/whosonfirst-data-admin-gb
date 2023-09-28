@@ -10,12 +10,18 @@
     "geom:latitude":52.509313,
     "geom:longitude":-1.227665,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.509361,
     "lbl:longitude":-1.227991,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leire"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005447"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125993889
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f3a8512e31fbc7f9d74418eaa34c6b28",
+    "wof:geomhash":"78541ef8364dddeb2c88b7c8721e0704",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440383,
     "wof:label":"Leire Civil Parish",
-    "wof:lastmodified":1566631166,
+    "wof:lastmodified":1695878234,
     "wof:name":"Leire",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

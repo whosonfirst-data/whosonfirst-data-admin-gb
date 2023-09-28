@@ -10,12 +10,18 @@
     "geom:latitude":53.296717,
     "geom:longitude":-2.512525,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.297246,
     "lbl:longitude":-2.512524,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u062a \u0628\u0648\u062f\u0648\u0631\u062b"
@@ -69,12 +75,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011104"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869255
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e08962e281779cb445b2441a319bfd8e",
+    "wof:geomhash":"02b9419b584ecf3d451dbe0f3ee6ede1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404430873,
     "wof:label":"Great Budworth Civil Parish",
-    "wof:lastmodified":1566631954,
+    "wof:lastmodified":1695876998,
     "wof:name":"Great Budworth",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

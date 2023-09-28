@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000953,
-    "geom:area_square_m":7217942.011165,
+    "geom:area_square_m":7217942.011164,
     "geom:bbox":"0.129870887941,52.2297324176,0.188365961103,52.2584193696",
     "geom:latitude":52.244364,
     "geom:longitude":0.158912,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.246218,
     "lbl:longitude":0.15936,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0644\u062a\u0648\u0646"
@@ -111,12 +117,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010466"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125911559
     ],
     "wof:country":"GB",
-    "wof:geomhash":"06379a3bcf5b9a4f59647e4708a016dd",
+    "wof:geomhash":"0fdc64dcee1cbf8583dc08951f2cadb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +138,7 @@
     ],
     "wof:id":404430373,
     "wof:label":"Milton Civil Parish",
-    "wof:lastmodified":1566632039,
+    "wof:lastmodified":1695877033,
     "wof:name":"Milton",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

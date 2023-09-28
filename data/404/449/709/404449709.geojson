@@ -10,12 +10,18 @@
     "geom:latitude":53.100402,
     "geom:longitude":-1.84364,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.09658,
     "lbl:longitude":-1.84108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wetton"
@@ -51,12 +57,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009063"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910957
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0785b43186fae638a0b487ded5759beb",
+    "wof:geomhash":"72e1c7673955311cac5dbc9f9f447166",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404449709,
     "wof:label":"Wetton Civil Parish",
-    "wof:lastmodified":1566631359,
+    "wof:lastmodified":1695878321,
     "wof:name":"Wetton",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

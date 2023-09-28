@@ -10,12 +10,18 @@
     "geom:latitude":52.237514,
     "geom:longitude":0.288311,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.232464,
     "lbl:longitude":0.288322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0641\u0641\u0647\u0645 \u0628\u0648\u0644\u0628\u0643"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001645"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879081
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0acebad5cde1448560715a4b6f5b792b",
+    "wof:geomhash":"164af7b8c60f7ae944a3ff2820f43e49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404449995,
     "wof:label":"Swaffham Bulbeck Civil Parish",
-    "wof:lastmodified":1566631401,
+    "wof:lastmodified":1695878339,
     "wof:name":"Swaffham Bulbeck",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

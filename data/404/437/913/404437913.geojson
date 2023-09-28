@@ -10,12 +10,18 @@
     "geom:latitude":50.639961,
     "geom:longitude":-4.216407,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.640164,
     "lbl:longitude":-4.218958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marystow"
@@ -57,12 +63,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003334"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209343713
     ],
     "wof:country":"GB",
-    "wof:geomhash":"22e06ed32e1e9f24cd2e70bfc0771ee3",
+    "wof:geomhash":"10267cd29c6075027067eb525b1822fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404437913,
     "wof:label":"Marystow Civil Parish",
-    "wof:lastmodified":1566632101,
+    "wof:lastmodified":1695877060,
     "wof:name":"Marystow",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

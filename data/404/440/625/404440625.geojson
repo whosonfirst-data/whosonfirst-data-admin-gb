@@ -10,12 +10,18 @@
     "geom:latitude":52.104511,
     "geom:longitude":-2.382193,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.102348,
     "lbl:longitude":-2.381467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mathon"
@@ -60,12 +66,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000828"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125973363
     ],
     "wof:country":"GB",
-    "wof:geomhash":"51584469c6890a2ca6bae767840985f3",
+    "wof:geomhash":"9f368e90cfdf44ea82d4f9ed602aa40a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440625,
     "wof:label":"Mathon Civil Parish",
-    "wof:lastmodified":1566631195,
+    "wof:lastmodified":1695878247,
     "wof:name":"Mathon",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

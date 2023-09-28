@@ -10,12 +10,18 @@
     "geom:latitude":51.752148,
     "geom:longitude":-2.037681,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.742129,
     "lbl:longitude":-2.053614,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Duntisbourne Rouse"
@@ -63,12 +69,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004224"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126048055
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e4fd95146e11020c737c0a0171aa67d7",
+    "wof:geomhash":"db5c82ffd34ec4a67493fa0a25cd776e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430697,
     "wof:label":"Duntisbourne Rouse Civil Parish",
-    "wof:lastmodified":1566632021,
+    "wof:lastmodified":1695877024,
     "wof:name":"Duntisbourne Rouse",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

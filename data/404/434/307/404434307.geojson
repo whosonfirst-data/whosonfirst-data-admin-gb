@@ -10,12 +10,18 @@
     "geom:latitude":51.106308,
     "geom:longitude":-3.866431,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.108898,
     "lbl:longitude":-3.870286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brayford"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003076"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225879927
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8749b2c282baa45da3a7bb6575a232a6",
+    "wof:geomhash":"e7666e7cf03a2b1e09fab2b4236b6dba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404434307,
     "wof:label":"Brayford Civil Parish",
-    "wof:lastmodified":1566633535,
+    "wof:lastmodified":1695877700,
     "wof:name":"Brayford",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

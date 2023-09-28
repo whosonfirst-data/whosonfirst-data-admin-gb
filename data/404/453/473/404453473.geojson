@@ -10,12 +10,18 @@
     "geom:latitude":52.071901,
     "geom:longitude":0.816101,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.073982,
     "lbl:longitude":0.814355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Waldingfield"
@@ -63,12 +69,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009109"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327461089
     ],
     "wof:country":"GB",
-    "wof:geomhash":"60fac494cdfccbe91dd4cca4c39af569",
+    "wof:geomhash":"5df9abf513816737d3952fd36c7dc735",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404453473,
     "wof:label":"Little Waldingfield Civil Parish",
-    "wof:lastmodified":1566632828,
+    "wof:lastmodified":1695877386,
     "wof:name":"Little Waldingfield",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.457216,
     "geom:longitude":-2.826422,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.457611,
     "lbl:longitude":-2.826052,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Walton-In-Gordano"
@@ -42,12 +48,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001028"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913305
     ],
     "wof:country":"GB",
-    "wof:geomhash":"22bf79ce2e45c8faf2507a87f17126aa",
+    "wof:geomhash":"e7d38a18bef646edce232ca422ce9727",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404444261,
     "wof:label":"Walton-In-Gordano Civil Parish",
-    "wof:lastmodified":1566632900,
+    "wof:lastmodified":1695877413,
     "wof:name":"Walton-In-Gordano",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

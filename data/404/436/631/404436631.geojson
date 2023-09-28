@@ -10,12 +10,18 @@
     "geom:latitude":55.220694,
     "geom:longitude":-1.577349,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.220408,
     "lbl:longitude":-1.573808,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ellington and Linton"
@@ -43,12 +49,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010778"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758767
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1a78a403fc2f159fb6fa25c2c4be12aa",
+    "wof:geomhash":"12e622ca437859ceb70d717e2ea111fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404436631,
     "wof:label":"Ellington and Linton Civil Parish",
-    "wof:lastmodified":1566632414,
+    "wof:lastmodified":1695877193,
     "wof:name":"Ellington and Linton",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

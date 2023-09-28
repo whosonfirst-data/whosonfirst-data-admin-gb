@@ -10,12 +10,18 @@
     "geom:latitude":50.369669,
     "geom:longitude":-4.655739,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.368711,
     "lbl:longitude":-4.65731,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Sampson"
@@ -40,12 +46,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011579"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758471
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ceb86b29394c7450b758d528682e408c",
+    "wof:geomhash":"cc4ba612b0b1d596507f00b1c95e0760",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404452751,
     "wof:label":"St. Sampson Civil Parish",
-    "wof:lastmodified":1566632221,
+    "wof:lastmodified":1695877108,
     "wof:name":"St. Sampson",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

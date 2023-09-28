@@ -10,12 +10,18 @@
     "geom:latitude":53.725383,
     "geom:longitude":-0.531874,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.717811,
     "lbl:longitude":-0.535744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Welton"
@@ -63,12 +69,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000498"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125870455
     ],
     "wof:country":"GB",
-    "wof:geomhash":"091df6b1c2ba2135981bc0de3973d626",
+    "wof:geomhash":"fdfd1c544f7c258e14108c55f2d8e0e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404433005,
     "wof:label":"Welton Civil Parish",
-    "wof:lastmodified":1566633725,
+    "wof:lastmodified":1695877786,
     "wof:name":"Welton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

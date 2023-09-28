@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000993,
-    "geom:area_square_m":7637205.057905,
+    "geom:area_square_m":7637205.057906,
     "geom:bbox":"-2.31370494795,51.5278518428,-2.26166899097,51.5546943308",
     "geom:latitude":51.541532,
     "geom:longitude":-2.287806,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.542055,
     "lbl:longitude":-2.287811,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pluimbal"
@@ -333,12 +339,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001042"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878575
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b140eb39a3adf810d60558bf7b84a3af",
+    "wof:geomhash":"8b86aab9d45b63c4d028bbb04de5bbf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -351,7 +360,7 @@
     ],
     "wof:id":404451535,
     "wof:label":"Badminton Civil Parish",
-    "wof:lastmodified":1566633432,
+    "wof:lastmodified":1695877652,
     "wof:name":"Badminton",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

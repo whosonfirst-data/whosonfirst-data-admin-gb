@@ -10,12 +10,18 @@
     "geom:latitude":54.186207,
     "geom:longitude":-1.190174,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.186902,
     "lbl:longitude":-1.193448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coxwold"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007157"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800439
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f7a764f6b432b8b952b0c32de5caac7b",
+    "wof:geomhash":"7b38db0e9456942373b24a2b6134adcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431067,
     "wof:label":"Coxwold Civil Parish",
-    "wof:lastmodified":1566632521,
+    "wof:lastmodified":1695877241,
     "wof:name":"Coxwold",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

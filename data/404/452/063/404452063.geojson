@@ -10,12 +10,18 @@
     "geom:latitude":52.941655,
     "geom:longitude":-1.534199,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.942356,
     "lbl:longitude":-1.534704,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mackworth"
@@ -51,12 +57,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002683"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125971567
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0087fd2d7fa9a71fdc33fb92eee30c62",
+    "wof:geomhash":"37c051b5d50198a5520fdc4e0621947d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404452063,
     "wof:label":"Mackworth Civil Parish",
-    "wof:lastmodified":1566632200,
+    "wof:lastmodified":1695877099,
     "wof:name":"Mackworth",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

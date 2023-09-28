@@ -10,12 +10,18 @@
     "geom:latitude":52.675019,
     "geom:longitude":0.389906,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.675903,
     "lbl:longitude":0.389905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Watlington"
@@ -55,12 +61,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006371"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756729
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2bf03b72eb04249fb5371e4d364b7fe0",
+    "wof:geomhash":"87eba2c36074c59a55eda8f0c805dc68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404451447,
     "wof:label":"Watlington Civil Parish",
-    "wof:lastmodified":1566633433,
+    "wof:lastmodified":1695877653,
     "wof:name":"Watlington",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

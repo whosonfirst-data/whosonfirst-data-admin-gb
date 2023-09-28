@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002677,
-    "geom:area_square_m":20614069.821911,
+    "geom:area_square_m":20614069.82191,
     "geom:bbox":"-3.5012944194,51.4606907777,-3.40892717533,51.5149716466",
     "geom:latitude":51.488647,
     "geom:longitude":-3.455227,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.490951,
     "lbl:longitude":-3.455926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penllyn Community"
@@ -40,12 +46,15 @@
         1360698899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000665"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343697037
     ],
     "wof:country":"GB",
-    "wof:geomhash":"90b6478fdfcc1c883de3940daebf2385",
+    "wof:geomhash":"2071a6f6273e18ec2c69317e13676863",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404447233,
-    "wof:lastmodified":1566631276,
+    "wof:lastmodified":1695878284,
     "wof:name":"Penllyn Community",
     "wof:parent_id":1360698899,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.294513,
     "geom:longitude":-0.9351,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.295142,
     "lbl:longitude":-0.938601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0406\u0442\u0430\u043d"
@@ -100,12 +106,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007805"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759583
     ],
     "wof:country":"GB",
-    "wof:geomhash":"813ea1a025d534e7f405e7afdfbdf3fa",
+    "wof:geomhash":"f7068d63606e2b21c1f800feb5e2c8d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +127,7 @@
     ],
     "wof:id":404453795,
     "wof:label":"Eaton Civil Parish",
-    "wof:lastmodified":1566632818,
+    "wof:lastmodified":1695877382,
     "wof:name":"Eaton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

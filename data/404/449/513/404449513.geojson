@@ -10,12 +10,18 @@
     "geom:latitude":51.370071,
     "geom:longitude":-2.861512,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.369748,
     "lbl:longitude":-2.855928,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puxton"
@@ -54,12 +60,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001026"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125876401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4d9dd7f8e67cb8a091f0170547e5233b",
+    "wof:geomhash":"c5c0f997cdb8f0c815a635cbda0728d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404449513,
     "wof:label":"Puxton Civil Parish",
-    "wof:lastmodified":1566631449,
+    "wof:lastmodified":1695876792,
     "wof:name":"Puxton",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

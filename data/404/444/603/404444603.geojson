@@ -10,12 +10,18 @@
     "geom:latitude":52.623552,
     "geom:longitude":0.456684,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.623868,
     "lbl:longitude":0.457059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stradsett"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006357"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310434129
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eed2bc0777fc6e4e12ce6d2e0bf21d85",
+    "wof:geomhash":"457a0bc63262f28980580a0cd68c87fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404444603,
     "wof:label":"Stradsett Civil Parish",
-    "wof:lastmodified":1566632905,
+    "wof:lastmodified":1695877416,
     "wof:name":"Stradsett",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

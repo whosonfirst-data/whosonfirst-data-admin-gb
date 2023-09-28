@@ -10,12 +10,18 @@
     "geom:latitude":50.925505,
     "geom:longitude":-3.04762,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.921083,
     "lbl:longitude":-3.042546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buckland St. Mary"
@@ -40,12 +46,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008672"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754745
     ],
     "wof:country":"GB",
-    "wof:geomhash":"436ae094638d75b3a85b8416b4c31c76",
+    "wof:geomhash":"a84a18c850a529e09649725f05a265cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404438747,
     "wof:label":"Buckland St. Mary Civil Parish",
-    "wof:lastmodified":1566632581,
+    "wof:lastmodified":1695877269,
     "wof:name":"Buckland St. Mary",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

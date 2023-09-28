@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001433,
-    "geom:area_square_m":11378026.792476,
+    "geom:area_square_m":11378026.792475,
     "geom:bbox":"-5.26999958939,50.0363108541,-5.17860937848,50.0750969646",
     "geom:latitude":50.052742,
     "geom:longitude":-5.231829,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.04818,
     "lbl:longitude":-5.236297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u064a"
@@ -69,12 +75,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011426"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209034001
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c5edf256ef9f863901bcdf239afde55e",
+    "wof:geomhash":"c5072368c0095e7123f3d86fd6cfa7c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404446505,
     "wof:label":"Cury Civil Parish",
-    "wof:lastmodified":1566631603,
+    "wof:lastmodified":1695876849,
     "wof:name":"Cury",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

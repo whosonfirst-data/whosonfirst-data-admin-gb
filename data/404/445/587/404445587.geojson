@@ -10,12 +10,18 @@
     "geom:latitude":52.80555,
     "geom:longitude":-1.814732,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.804474,
     "lbl:longitude":-1.816541,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hoar Cross"
@@ -60,12 +66,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008888"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125864021
     ],
     "wof:country":"GB",
-    "wof:geomhash":"29525542f2350a8bde4c86a6debaac56",
+    "wof:geomhash":"720513d15d0c1855810558ea0d073ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445587,
     "wof:label":"Hoar Cross Civil Parish",
-    "wof:lastmodified":1566633362,
+    "wof:lastmodified":1695877623,
     "wof:name":"Hoar Cross",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

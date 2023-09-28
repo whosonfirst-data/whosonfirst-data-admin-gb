@@ -10,12 +10,18 @@
     "geom:latitude":52.701768,
     "geom:longitude":-2.566019,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.698997,
     "lbl:longitude":-2.561167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wrockwardine"
@@ -54,12 +60,15 @@
         1360698911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000948"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126051125
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc8fd20de4270a4bbb8ef3d7552b358c",
+    "wof:geomhash":"7bffc1adfcb233f2aae31e075529963a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447405,
     "wof:label":"Wrockwardine Civil Parish",
-    "wof:lastmodified":1566631320,
+    "wof:lastmodified":1695878305,
     "wof:name":"Wrockwardine",
     "wof:parent_id":1360698911,
     "wof:placetype":"localadmin",

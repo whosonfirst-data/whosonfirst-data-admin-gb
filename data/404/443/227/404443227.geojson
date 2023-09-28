@@ -10,12 +10,18 @@
     "geom:latitude":51.685781,
     "geom:longitude":-1.132776,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.686083,
     "lbl:longitude":-1.136701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stadhampton"
@@ -66,12 +72,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008164"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126012513
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3cc855317a3a93e08a7898c2cdaf4e91",
+    "wof:geomhash":"d05800892b852fb16646f78052ce8c16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404443227,
     "wof:label":"Stadhampton Civil Parish",
-    "wof:lastmodified":1566632999,
+    "wof:lastmodified":1695877458,
     "wof:name":"Stadhampton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.009539,
     "geom:longitude":0.766252,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.00804,
     "lbl:longitude":0.765719,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Cornard"
@@ -63,12 +69,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009108"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125806951
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6775c4479f7cce72d01bea346c1451e1",
+    "wof:geomhash":"fdeef84093ba5b20257494f2ecafb78a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454251,
     "wof:label":"Little Cornard Civil Parish",
-    "wof:lastmodified":1566632677,
+    "wof:lastmodified":1695877315,
     "wof:name":"Little Cornard",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

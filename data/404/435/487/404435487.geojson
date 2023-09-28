@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001088,
-    "geom:area_square_m":8413163.970156,
+    "geom:area_square_m":8413163.970155,
     "geom:bbox":"-1.15220366461,51.2765182329,-1.11775308191,51.3211344765",
     "geom:latitude":51.30091,
     "geom:longitude":-1.135685,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.301002,
     "lbl:longitude":-1.135688,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Monk Sherborne"
@@ -54,12 +60,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004462"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880797
     ],
     "wof:country":"GB",
-    "wof:geomhash":"875d0f5453a5d00da07f900dc5585e8c",
+    "wof:geomhash":"453ab9a1f4132bccfc26db32f6503884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404435487,
     "wof:label":"Monk Sherborne Civil Parish",
-    "wof:lastmodified":1566634058,
+    "wof:lastmodified":1695877928,
     "wof:name":"Monk Sherborne",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.687706,
     "geom:longitude":-0.607936,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.687458,
     "lbl:longitude":-0.608248,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0634\u0645 \u0628\u0648\u064a\u0633"
@@ -73,9 +79,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04001570",
         "gn:id":7296734,
         "qs_pg:id":1040843
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259410305
     ],
@@ -83,7 +91,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43d9733ff53e55929f6f8857ef5b7da3",
+    "wof:geomhash":"9f5f23a8b374400a2a241d4bf705acc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +104,7 @@
     ],
     "wof:id":404441805,
     "wof:label":"Chesham Bois Civil Parish",
-    "wof:lastmodified":1582311072,
+    "wof:lastmodified":1695877956,
     "wof:name":"Chesham Bois",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

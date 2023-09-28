@@ -10,12 +10,18 @@
     "geom:latitude":51.682626,
     "geom:longitude":-2.288656,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.687378,
     "lbl:longitude":-2.287646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Owlpen"
@@ -63,12 +69,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004371"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846299
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7f22fca020337242720f1b185fa8a4ea",
+    "wof:geomhash":"822ecb4196e145366db9042811020f73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404448729,
     "wof:label":"Owlpen Civil Parish",
-    "wof:lastmodified":1566631572,
+    "wof:lastmodified":1695876846,
     "wof:name":"Owlpen",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

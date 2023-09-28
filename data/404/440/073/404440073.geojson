@@ -10,12 +10,18 @@
     "geom:latitude":52.374786,
     "geom:longitude":-0.088053,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.373795,
     "lbl:longitude":-0.092021,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f \u0647\u0648\u0631\u0633\u062a"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012033"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209844439
     ],
     "wof:country":"GB",
-    "wof:geomhash":"96df3ce4dc572ddc9f9da010a32581f0",
+    "wof:geomhash":"3f253bc26b618b4ef4be6b15b18e38d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404440073,
     "wof:label":"Old Hurst Civil Parish",
-    "wof:lastmodified":1566631195,
+    "wof:lastmodified":1695878247,
     "wof:name":"Old Hurst",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

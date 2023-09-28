@@ -10,12 +10,18 @@
     "geom:latitude":54.157271,
     "geom:longitude":-3.110497,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.162202,
     "lbl:longitude":-3.114745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Urswick"
@@ -58,12 +64,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002658"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757409
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4cc0437f05dba68a8bf8fd6a5ec7d44b",
+    "wof:geomhash":"853dc0ad7ba597caad9e93532d35cfb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404441951,
     "wof:label":"Urswick Civil Parish",
-    "wof:lastmodified":1566631783,
+    "wof:lastmodified":1695876918,
     "wof:name":"Urswick",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

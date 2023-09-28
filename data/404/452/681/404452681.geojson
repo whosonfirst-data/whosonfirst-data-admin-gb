@@ -10,12 +10,18 @@
     "geom:latitude":51.804023,
     "geom:longitude":-2.655262,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.802262,
     "lbl:longitude":-2.653745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Staunton Coleford"
@@ -40,12 +46,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004326"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758413
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e0af2f90cde63423737f28691847369d",
+    "wof:geomhash":"473bf07535a48b03a2c17155c25c70d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404452681,
     "wof:label":"Staunton Coleford Civil Parish",
-    "wof:lastmodified":1566632178,
+    "wof:lastmodified":1695877091,
     "wof:name":"Staunton Coleford",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

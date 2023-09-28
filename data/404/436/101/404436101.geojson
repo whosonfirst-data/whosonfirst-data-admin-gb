@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001094,
-    "geom:area_square_m":8226999.617667,
+    "geom:area_square_m":8226999.617668,
     "geom:bbox":"-1.08289622261,52.5403003687,-1.02908969218,52.5837570885",
     "geom:latitude":52.560229,
     "geom:longitude":-1.057117,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.568349,
     "lbl:longitude":-1.056725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wistow"
@@ -58,12 +64,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005488"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758241
     ],
     "wof:country":"GB",
-    "wof:geomhash":"704478ed9db2156ad124ed16e913ee26",
+    "wof:geomhash":"565b5825fbeff132dcecb282cc12f722",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404436101,
     "wof:label":"Wistow Civil Parish",
-    "wof:lastmodified":1566632386,
+    "wof:lastmodified":1695877181,
     "wof:name":"Wistow",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

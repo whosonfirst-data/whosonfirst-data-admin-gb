@@ -10,12 +10,18 @@
     "geom:latitude":51.654788,
     "geom:longitude":-0.280178,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.654413,
     "lbl:longitude":-0.277656,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elstree and Borehamwood"
@@ -58,12 +64,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004763"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753397
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e52c07a35d9e626b25fd4be92787387c",
+    "wof:geomhash":"262ecc6cd579049e63a602411bd15529",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404432875,
     "wof:label":"Elstree and Borehamwood Civil Parish",
-    "wof:lastmodified":1566633875,
+    "wof:lastmodified":1695877846,
     "wof:name":"Elstree and Borehamwood",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

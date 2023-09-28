@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001561,
-    "geom:area_square_m":12180476.18906,
+    "geom:area_square_m":12180476.189062,
     "geom:bbox":"-2.92496483118,50.8417206367,-2.85468807367,50.8860018293",
     "geom:latitude":50.862016,
     "geom:longitude":-2.888846,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.861301,
     "lbl:longitude":-2.882473,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winsham"
@@ -57,12 +63,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008771"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972465
     ],
     "wof:country":"GB",
-    "wof:geomhash":"94a52848c1fb054614452e359b0c1cb3",
+    "wof:geomhash":"0dbe3ccd1cf492f860b043611c69e41a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404429269,
     "wof:label":"Winsham Civil Parish",
-    "wof:lastmodified":1566633126,
+    "wof:lastmodified":1695877517,
     "wof:name":"Winsham",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

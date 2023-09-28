@@ -10,12 +10,18 @@
     "geom:latitude":52.905459,
     "geom:longitude":1.364036,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.906652,
     "lbl:longitude":1.363164,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sidestrand"
@@ -57,12 +63,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006469"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125766297
     ],
     "wof:country":"GB",
-    "wof:geomhash":"53cc77195d30eb3256e8a520a7c5f422",
+    "wof:geomhash":"2dedcc2a25b7fcfbd4722bb2794440c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404452039,
     "wof:label":"Sidestrand Civil Parish",
-    "wof:lastmodified":1566632203,
+    "wof:lastmodified":1695877101,
     "wof:name":"Sidestrand",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.00652,
     "geom:longitude":-2.649222,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.00602,
     "lbl:longitude":-2.645478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marbury Cum Quoisley"
@@ -40,12 +46,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010968"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756165
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2385a0bce06816539adc41d465179d55",
+    "wof:geomhash":"518829171bb6c372b06a3afb3e685edf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404440391,
     "wof:label":"Marbury Cum Quoisley Civil Parish",
-    "wof:lastmodified":1566631125,
+    "wof:lastmodified":1695878214,
     "wof:name":"Marbury Cum Quoisley",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

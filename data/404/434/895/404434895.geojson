@@ -10,12 +10,18 @@
     "geom:latitude":52.916355,
     "geom:longitude":1.206112,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.916316,
     "lbl:longitude":1.205736,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Beckham"
@@ -55,12 +61,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006408"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756475
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c9df2ed5513314fb1a225428fb571bab",
+    "wof:geomhash":"fa3d76093fae6924ea62b5a62df4dffc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404434895,
     "wof:label":"East Beckham Civil Parish",
-    "wof:lastmodified":1566633560,
+    "wof:lastmodified":1695877713,
     "wof:name":"East Beckham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

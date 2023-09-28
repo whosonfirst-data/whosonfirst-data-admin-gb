@@ -10,12 +10,18 @@
     "geom:latitude":54.71116,
     "geom:longitude":-3.224919,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.714077,
     "lbl:longitude":-3.228213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bewaldeth and Snittlegarth"
@@ -55,12 +61,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002385"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756511
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bdc9f4e43e247e59f1472d54864d6989",
+    "wof:geomhash":"efcfc4760197aff88533921942f552e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404431813,
     "wof:label":"Bewaldeth and Snittlegarth Civil Parish",
-    "wof:lastmodified":1566632506,
+    "wof:lastmodified":1695877234,
     "wof:name":"Bewaldeth and Snittlegarth",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

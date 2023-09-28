@@ -10,12 +10,18 @@
     "geom:latitude":51.783877,
     "geom:longitude":-1.389192,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.781438,
     "lbl:longitude":-1.384597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eynsham"
@@ -69,12 +75,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008284"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852921
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3bf64f0042961c8d70d1b417ee4ab118",
+    "wof:geomhash":"6cc948f316f64487fb8ab523ee15e0a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404443821,
     "wof:label":"Eynsham Civil Parish",
-    "wof:lastmodified":1566633006,
+    "wof:lastmodified":1695877462,
     "wof:name":"Eynsham",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

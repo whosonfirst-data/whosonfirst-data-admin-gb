@@ -10,12 +10,18 @@
     "geom:latitude":50.8058,
     "geom:longitude":0.135731,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.805809,
     "lbl:longitude":0.137967,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alfriston"
@@ -75,12 +81,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003829"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013667
     ],
     "wof:country":"GB",
-    "wof:geomhash":"af843277eec1c112462d8fe7705eadbe",
+    "wof:geomhash":"df5f30e5db93b1c6efaf96a180b49de0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404435305,
     "wof:label":"Alfriston Civil Parish",
-    "wof:lastmodified":1566634046,
+    "wof:lastmodified":1695877922,
     "wof:name":"Alfriston",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

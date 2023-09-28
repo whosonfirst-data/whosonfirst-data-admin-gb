@@ -10,12 +10,18 @@
     "geom:latitude":52.142568,
     "geom:longitude":-1.536967,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.14012,
     "lbl:longitude":-1.534752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Butlers Marston"
@@ -49,12 +55,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009718"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755749
     ],
     "wof:country":"GB",
-    "wof:geomhash":"93d1732bbbfdaeb3bc36a1c24d9cd7e6",
+    "wof:geomhash":"2dd3c3adffe61b22ce98f42d80186320",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404439859,
     "wof:label":"Butlers Marston Civil Parish",
-    "wof:lastmodified":1566631857,
+    "wof:lastmodified":1695876953,
     "wof:name":"Butlers Marston",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

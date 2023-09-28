@@ -10,12 +10,18 @@
     "geom:latitude":51.610369,
     "geom:longitude":-3.099103,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.601135,
     "lbl:longitude":-3.098741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Risca West Community"
@@ -40,12 +46,15 @@
         1360698925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000914"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711599
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fd19c8b04a3bdd655557f4ea10f2bbc8",
+    "wof:geomhash":"3f07780a994ca719d6de47ae6098d160",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438971,
-    "wof:lastmodified":1566632585,
+    "wof:lastmodified":1695877270,
     "wof:name":"Risca West Community",
     "wof:parent_id":1360698925,
     "wof:placetype":"localadmin",

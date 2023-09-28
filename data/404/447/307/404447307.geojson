@@ -10,12 +10,18 @@
     "geom:latitude":52.09003,
     "geom:longitude":-2.798012,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.08899,
     "lbl:longitude":-2.797601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Credenhill"
@@ -63,12 +69,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000734"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853013
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cdaf437ef149cbf31ffbb95814e381f5",
+    "wof:geomhash":"7fc553975a95555e153f99f0904990b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447307,
     "wof:label":"Credenhill Civil Parish",
-    "wof:lastmodified":1566631236,
+    "wof:lastmodified":1695878265,
     "wof:name":"Credenhill",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

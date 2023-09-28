@@ -10,12 +10,18 @@
     "geom:latitude":51.799109,
     "geom:longitude":-0.848418,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.802687,
     "lbl:longitude":-0.854901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stone with Bishopstone and Hartwell"
@@ -43,12 +49,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001535"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756529
     ],
     "wof:country":"GB",
-    "wof:geomhash":"83fed87ec2d55a3a99d2d5b37cd1224b",
+    "wof:geomhash":"ccff661ac677ad16d5f7133006f122d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404431827,
     "wof:label":"Stone with Bishopstone and Hartwell Civil Parish",
-    "wof:lastmodified":1566632444,
+    "wof:lastmodified":1695877206,
     "wof:name":"Stone with Bishopstone and Hartwell",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

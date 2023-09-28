@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001437,
-    "geom:area_square_m":10325592.479817,
+    "geom:area_square_m":10325592.479816,
     "geom:bbox":"-0.774492332712,54.4623028607,-0.694141470093,54.491805101",
     "geom:latitude":54.475882,
     "geom:longitude":-0.73034,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.476472,
     "lbl:longitude":-0.734374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hutton Mulgrave"
@@ -55,12 +61,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007685"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755397
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d8e74df8f4f43a9ca325beb148006c17",
+    "wof:geomhash":"1170b07c7debe0fcb1852e61c90ec069",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404450597,
     "wof:label":"Hutton Mulgrave Civil Parish",
-    "wof:lastmodified":1566633800,
+    "wof:lastmodified":1695877818,
     "wof:name":"Hutton Mulgrave",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

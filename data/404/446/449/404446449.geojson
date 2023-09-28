@@ -10,12 +10,18 @@
     "geom:latitude":54.104532,
     "geom:longitude":-1.129747,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.104259,
     "lbl:longitude":-1.129745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stillington"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007265"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125785341
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bea5e932df81f00c824eb073fbe7d9c0",
+    "wof:geomhash":"880402a5c4f239adcf07dc39a9b78b10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404446449,
     "wof:label":"Stillington Civil Parish",
-    "wof:lastmodified":1566631614,
+    "wof:lastmodified":1695876853,
     "wof:name":"Stillington",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

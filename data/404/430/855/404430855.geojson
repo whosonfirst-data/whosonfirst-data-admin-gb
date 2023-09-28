@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003364,
-    "geom:area_square_m":23883203.329319,
+    "geom:area_square_m":23883203.329321,
     "geom:bbox":"-2.17846551091,54.9437847107,-2.063112426,54.9888630075",
     "geom:latitude":54.96488,
     "geom:longitude":-2.125457,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.967868,
     "lbl:longitude":-2.136978,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u06a9\u0633\u0647\u0627\u0645"
@@ -105,12 +111,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010804"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872371
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d8382869b190d68d3addeb6fd17cf17a",
+    "wof:geomhash":"c8a6d5e35defde1d738c1821ab18e75f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404430855,
     "wof:label":"Hexham Civil Parish",
-    "wof:lastmodified":1566632030,
+    "wof:lastmodified":1695877028,
     "wof:name":"Hexham",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

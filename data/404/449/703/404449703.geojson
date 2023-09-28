@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003564,
-    "geom:area_square_m":27423964.393944,
+    "geom:area_square_m":27423964.393943,
     "geom:bbox":"-1.84693257951,51.4824046832,-1.76426625628,51.5531854787",
     "geom:latitude":51.518258,
     "geom:longitude":-1.802709,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.518224,
     "lbl:longitude":-1.795244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wroughton"
@@ -63,12 +69,15 @@
         1360699033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001099"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852689
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d9597926d078def54eb722b89432b9b",
+    "wof:geomhash":"26ee46046bbdc61e722326dc98941386",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404449703,
     "wof:label":"Wroughton Civil Parish",
-    "wof:lastmodified":1566631410,
+    "wof:lastmodified":1695878342,
     "wof:name":"Wroughton",
     "wof:parent_id":1360699033,
     "wof:placetype":"localadmin",

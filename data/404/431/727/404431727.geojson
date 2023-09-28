@@ -10,12 +10,18 @@
     "geom:latitude":51.93287,
     "geom:longitude":-1.3695,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.926716,
     "lbl:longitude":-1.378987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Westcot Barton"
@@ -42,12 +48,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008333"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125865229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1f0f00a56d00f2645400fcad60b5f38c",
+    "wof:geomhash":"ff878dddd6140c6a1b4f722d809a403d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404431727,
     "wof:label":"Westcot Barton Civil Parish",
-    "wof:lastmodified":1566632535,
+    "wof:lastmodified":1695877248,
     "wof:name":"Westcot Barton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

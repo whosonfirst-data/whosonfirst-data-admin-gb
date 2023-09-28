@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001021,
-    "geom:area_square_m":7991638.338552,
+    "geom:area_square_m":7991638.338553,
     "geom:bbox":"-3.83633270183,50.7277882177,-3.78006522859,50.7616762347",
     "geom:latitude":50.744664,
     "geom:longitude":-3.806223,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.745517,
     "lbl:longitude":-3.805805,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hittisleigh"
@@ -63,12 +69,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003030"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903031
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a11f6c5dd1147a82c30b053f2d1975b2",
+    "wof:geomhash":"cba9a277f9d39e652a40f18721800d46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404444073,
     "wof:label":"Hittisleigh Civil Parish",
-    "wof:lastmodified":1566632943,
+    "wof:lastmodified":1695877431,
     "wof:name":"Hittisleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

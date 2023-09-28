@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002577,
-    "geom:area_square_m":18775855.539884,
+    "geom:area_square_m":18775855.539883,
     "geom:bbox":"-1.02585192342,53.875188313,-0.919651490519,53.9222092863",
     "geom:latitude":53.898076,
     "geom:longitude":-0.982112,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.897602,
     "lbl:longitude":-0.982914,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wheldrake"
@@ -66,12 +72,15 @@
         1360698977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000622"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882149
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1eda444ad8e752f5d89c2d67f5b42170",
+    "wof:geomhash":"623de70624264bea7e1c62c33e4cd571",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404444783,
     "wof:label":"Wheldrake Civil Parish",
-    "wof:lastmodified":1566632921,
+    "wof:lastmodified":1695877422,
     "wof:name":"Wheldrake",
     "wof:parent_id":1360698977,
     "wof:placetype":"localadmin",

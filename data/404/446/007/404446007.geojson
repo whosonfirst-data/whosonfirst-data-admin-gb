@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002965,
-    "geom:area_square_m":21412247.455158,
+    "geom:area_square_m":21412247.455157,
     "geom:bbox":"-1.1389259022,54.2282264007,-1.06973696601,54.3099330316",
     "geom:latitude":54.268748,
     "geom:longitude":-1.105339,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.269333,
     "lbl:longitude":-1.107666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rievaulx"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007618"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998467
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0e27adc6533370ff6697bb3a37b78c95",
+    "wof:geomhash":"88d06ca010bf887baa10a46eecbf4d03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446007,
     "wof:label":"Rievaulx Civil Parish",
-    "wof:lastmodified":1566631629,
+    "wof:lastmodified":1695876859,
     "wof:name":"Rievaulx",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

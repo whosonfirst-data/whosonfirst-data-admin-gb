@@ -10,12 +10,18 @@
     "geom:latitude":51.304051,
     "geom:longitude":0.365763,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.304527,
     "lbl:longitude":0.366185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Addington"
@@ -72,12 +78,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005089"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343297417
     ],
     "wof:country":"GB",
-    "wof:geomhash":"da10b6644150f2d38b86b0c257838ce0",
+    "wof:geomhash":"408edacc2675bd3e8008150f0cd17d08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404455231,
     "wof:label":"Addington Civil Parish",
-    "wof:lastmodified":1566632305,
+    "wof:lastmodified":1695877144,
     "wof:name":"Addington",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

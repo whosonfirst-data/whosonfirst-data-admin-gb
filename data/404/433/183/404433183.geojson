@@ -10,12 +10,18 @@
     "geom:latitude":53.144404,
     "geom:longitude":0.200918,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.145133,
     "lbl:longitude":0.197493,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Irby in the Marsh"
@@ -56,12 +62,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005670"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753883
     ],
     "wof:country":"GB",
-    "wof:geomhash":"158ef4a677b6a433336a39e17dd827b4",
+    "wof:geomhash":"b89b7b59eea178abd85ce131343aa8fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +83,7 @@
     ],
     "wof:id":404433183,
     "wof:label":"Irby in the Marsh Civil Parish",
-    "wof:lastmodified":1566633734,
+    "wof:lastmodified":1695877790,
     "wof:name":"Irby in the Marsh",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

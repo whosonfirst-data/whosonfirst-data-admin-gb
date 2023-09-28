@@ -10,12 +10,18 @@
     "geom:latitude":52.378247,
     "geom:longitude":-1.808027,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.377686,
     "lbl:longitude":-1.808397,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cheswick Green"
@@ -57,12 +63,15 @@
         1360699057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012010"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125962239
     ],
     "wof:country":"GB",
-    "wof:geomhash":"578a32f7a9ae2274d15ed7191956ae6e",
+    "wof:geomhash":"813f126b634f721b2988a01c7fed1366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404450399,
     "wof:label":"Cheswick Green Civil Parish",
-    "wof:lastmodified":1566633753,
+    "wof:lastmodified":1695877798,
     "wof:name":"Cheswick Green",
     "wof:parent_id":1360699057,
     "wof:placetype":"localadmin",

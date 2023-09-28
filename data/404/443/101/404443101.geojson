@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002496,
-    "geom:area_square_m":18600616.466813,
+    "geom:area_square_m":18600616.466814,
     "geom:bbox":"-2.91884379177,52.8954482047,-2.7721362149,52.9778428751",
     "geom:latitude":52.939338,
     "geom:longitude":-2.845219,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.958182,
     "lbl:longitude":-2.876766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maelor South Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000234"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711763
     ],
     "wof:country":"GB",
-    "wof:geomhash":"373452d69559e689cde55e8b15f5f2c9",
+    "wof:geomhash":"80f9cb66d2e6b6c1e8e338f24bb9f0ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443101,
-    "wof:lastmodified":1566633048,
+    "wof:lastmodified":1695877482,
     "wof:name":"Maelor South Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

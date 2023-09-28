@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":5685650.720426,
+    "geom:area_square_m":5685650.720425,
     "geom:bbox":"-4.0940236964,52.3939975349,-4.06022065666,52.4304856026",
     "geom:latitude":52.410914,
     "geom:longitude":-4.077811,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.41974,
     "lbl:longitude":-4.076458,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aberystwyth Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000359"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853087
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f27f23f5062602d2470c803d8e1d11f",
+    "wof:geomhash":"e028b8868a6356c5616bb5e486bdd25b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430163,
-    "wof:lastmodified":1566632001,
+    "wof:lastmodified":1695877015,
     "wof:name":"Aberystwyth Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

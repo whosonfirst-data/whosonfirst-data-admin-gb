@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001873,
-    "geom:area_square_m":14670832.038533,
+    "geom:area_square_m":14670832.038532,
     "geom:bbox":"-2.27024149192,50.6620321687,-2.19451029653,50.7177701418",
     "geom:latitude":50.687948,
     "geom:longitude":-2.233423,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.690962,
     "lbl:longitude":-2.243432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wol"
@@ -300,12 +306,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003490"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852355
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6a13fc3e232701e2f9d03cf98a25c71d",
+    "wof:geomhash":"7e1268de2659afbcb25a845105a95cf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +327,7 @@
     ],
     "wof:id":404443617,
     "wof:label":"Wool Civil Parish",
-    "wof:lastmodified":1566633002,
+    "wof:lastmodified":1695877459,
     "wof:name":"Wool",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

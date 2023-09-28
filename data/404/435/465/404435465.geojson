@@ -10,12 +10,18 @@
     "geom:latitude":50.71134,
     "geom:longitude":-2.44454,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.710278,
     "lbl:longitude":-2.445055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Dorchester"
@@ -102,12 +108,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003533"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852345
     ],
     "wof:country":"GB",
-    "wof:geomhash":"242d472960ec188e37284ff8fcb09148",
+    "wof:geomhash":"70c3ce7b9687f351a52dffbed1ca541e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404435465,
     "wof:label":"Dorchester Civil Parish",
-    "wof:lastmodified":1566634020,
+    "wof:lastmodified":1695877907,
     "wof:name":"Dorchester",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

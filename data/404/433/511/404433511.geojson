@@ -10,12 +10,18 @@
     "geom:latitude":52.733132,
     "geom:longitude":-2.479276,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.734177,
     "lbl:longitude":-2.480653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Preston Upon the Weald Moors"
@@ -45,12 +51,15 @@
         1360698911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000940"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344085429
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cf30639f21569086e7d9a8191f639038",
+    "wof:geomhash":"bcb79869f0b4e2a20afddf26fe02a248",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404433511,
     "wof:label":"Preston Upon the Weald Moors Civil Parish",
-    "wof:lastmodified":1566633685,
+    "wof:lastmodified":1695877769,
     "wof:name":"Preston Upon the Weald Moors",
     "wof:parent_id":1360698911,
     "wof:placetype":"localadmin",

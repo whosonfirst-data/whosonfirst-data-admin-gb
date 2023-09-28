@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002035,
-    "geom:area_square_m":15623664.779256,
+    "geom:area_square_m":15623664.779255,
     "geom:bbox":"0.0480493617823,51.604413265,0.129185672767,51.6528098253",
     "geom:latitude":51.624904,
     "geom:longitude":0.088319,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.623518,
     "lbl:longitude":0.080996,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Chigwell"
@@ -81,12 +87,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004039"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126021207
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ca45ae861bbc47021e2f972dbfdf1407",
+    "wof:geomhash":"a9e4b6a13ad65d579596ab98779b80c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404455355,
     "wof:label":"Chigwell Civil Parish",
-    "wof:lastmodified":1566632273,
+    "wof:lastmodified":1695877131,
     "wof:name":"Chigwell",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":55.088985,
     "geom:longitude":-1.600296,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.087905,
     "lbl:longitude":-1.601049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0627\u0645\u0644\u06cc\u0646\u0642\u062a\u0648\u0646"
@@ -87,12 +93,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012006"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125938411
     ],
     "wof:country":"GB",
-    "wof:geomhash":"359bad94f0b1f0670c3734c4d2980d01",
+    "wof:geomhash":"8244a1755875770ebc06758b6f5fd680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404430049,
     "wof:label":"Cramlington Civil Parish",
-    "wof:lastmodified":1566631959,
+    "wof:lastmodified":1695876999,
     "wof:name":"Cramlington",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

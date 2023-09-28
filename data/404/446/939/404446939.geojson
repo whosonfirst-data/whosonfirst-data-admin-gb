@@ -10,12 +10,18 @@
     "geom:latitude":52.134166,
     "geom:longitude":-2.583434,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.135516,
     "lbl:longitude":-2.583711,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moreton Jeffries"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000834"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343291165
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ed04583c83ffa9c800139e894b4e0d2e",
+    "wof:geomhash":"01d1b2e313084f3eb7240b32bcfd13a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404446939,
     "wof:label":"Moreton Jeffries Civil Parish",
-    "wof:lastmodified":1566631604,
+    "wof:lastmodified":1695876850,
     "wof:name":"Moreton Jeffries",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

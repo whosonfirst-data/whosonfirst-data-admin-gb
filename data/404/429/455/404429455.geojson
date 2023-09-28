@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000965,
-    "geom:area_square_m":7296464.403641,
+    "geom:area_square_m":7296464.403642,
     "geom:bbox":"0.741386085874,52.3031761108,0.805179267418,52.3477712714",
     "geom:latitude":52.323855,
     "geom:longitude":0.777393,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.321647,
     "lbl:longitude":0.780509,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Troston"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009356"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125862755
     ],
     "wof:country":"GB",
-    "wof:geomhash":"564480d0128770b3909d3f6bad26fde7",
+    "wof:geomhash":"b07c605f16cada8de347dadf5eeccd5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429455,
     "wof:label":"Troston Civil Parish",
-    "wof:lastmodified":1566633123,
+    "wof:lastmodified":1695877516,
     "wof:name":"Troston",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000955,
-    "geom:area_square_m":7536762.79348,
+    "geom:area_square_m":7536762.793481,
     "geom:bbox":"-4.48690123439,50.3318130922,-4.43545318576,50.3739680966",
     "geom:latitude":50.352727,
     "geom:longitude":-4.460217,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.349375,
     "lbl:longitude":-4.462268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Logh"
@@ -93,12 +99,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011473"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033919
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e3b10a055f4d7f6acd37227f6329bdd1",
+    "wof:geomhash":"10630e43faa2bd37f068189a7df59b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404441063,
     "wof:label":"Looe Civil Parish",
-    "wof:lastmodified":1566631752,
+    "wof:lastmodified":1695876905,
     "wof:name":"Looe",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

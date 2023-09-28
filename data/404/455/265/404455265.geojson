@@ -10,12 +10,18 @@
     "geom:latitude":51.041086,
     "geom:longitude":-2.823466,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.049383,
     "lbl:longitude":-2.826228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huish Episcopi"
@@ -52,12 +58,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008709"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754909
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a1af90c16890ea162acd3fa9240ebfa2",
+    "wof:geomhash":"1e47df68b0fbf4e93da96f6916753848",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404455265,
     "wof:label":"Huish Episcopi Civil Parish",
-    "wof:lastmodified":1566632308,
+    "wof:lastmodified":1695877145,
     "wof:name":"Huish Episcopi",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

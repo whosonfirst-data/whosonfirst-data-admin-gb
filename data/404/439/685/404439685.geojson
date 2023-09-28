@@ -10,12 +10,18 @@
     "geom:latitude":52.515648,
     "geom:longitude":-0.859669,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.515818,
     "lbl:longitude":-0.856351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weston By Welland"
@@ -40,12 +46,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006787"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755637
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d23f0ef1343e2166feeb2e28736b69b4",
+    "wof:geomhash":"0370dc3ec301d53e321bc4b0c6f3eb33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404439685,
     "wof:label":"Weston By Welland Civil Parish",
-    "wof:lastmodified":1566631899,
+    "wof:lastmodified":1695876973,
     "wof:name":"Weston By Welland",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

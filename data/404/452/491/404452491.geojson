@@ -10,12 +10,18 @@
     "geom:latitude":52.353864,
     "geom:longitude":-2.32622,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.356065,
     "lbl:longitude":-2.326221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ribbesford"
@@ -54,12 +60,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010451"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125969091
     ],
     "wof:country":"GB",
-    "wof:geomhash":"86d354d6073e540d00047f598f6f9f14",
+    "wof:geomhash":"e21e7fbf7d77a2e6aff157d89b366976",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452491,
     "wof:label":"Ribbesford Civil Parish",
-    "wof:lastmodified":1566632203,
+    "wof:lastmodified":1695877101,
     "wof:name":"Ribbesford",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

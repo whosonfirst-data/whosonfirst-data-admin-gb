@@ -10,12 +10,18 @@
     "geom:latitude":52.346273,
     "geom:longitude":-0.522806,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.345738,
     "lbl:longitude":-0.51785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0648\u0646\u062f\u0632"
@@ -84,12 +90,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006745"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854883
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fcc274b8eb8fdf3bc5f87239d0a8fc13",
+    "wof:geomhash":"e6ace6a0f80cb9d17c5b5a30e5cb6077",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404448409,
     "wof:label":"Raunds Civil Parish",
-    "wof:lastmodified":1566631496,
+    "wof:lastmodified":1695876813,
     "wof:name":"Raunds",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

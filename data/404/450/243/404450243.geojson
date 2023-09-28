@@ -10,12 +10,18 @@
     "geom:latitude":52.626168,
     "geom:longitude":-2.208244,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.628325,
     "lbl:longitude":-2.207633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Codsall"
@@ -66,12 +72,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008960"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125783213
     ],
     "wof:country":"GB",
-    "wof:geomhash":"63a5f3a954c61791d25e76db00345846",
+    "wof:geomhash":"674ee56d5951c7a322ccb49584786096",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404450243,
     "wof:label":"Codsall Civil Parish",
-    "wof:lastmodified":1566633766,
+    "wof:lastmodified":1695877804,
     "wof:name":"Codsall",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

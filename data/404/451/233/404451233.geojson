@@ -10,12 +10,18 @@
     "geom:latitude":53.616053,
     "geom:longitude":-2.658127,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.618497,
     "lbl:longitude":-2.658133,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coppull"
@@ -66,12 +72,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005147"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126000119
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cd8b9462c114a203bf1e341b870486a7",
+    "wof:geomhash":"905e5697bb5081de37783a2e89f07dad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404451233,
     "wof:label":"Coppull Civil Parish",
-    "wof:lastmodified":1566633463,
+    "wof:lastmodified":1695877664,
     "wof:name":"Coppull",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

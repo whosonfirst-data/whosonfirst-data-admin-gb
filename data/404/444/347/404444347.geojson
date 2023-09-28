@@ -10,12 +10,18 @@
     "geom:latitude":51.249682,
     "geom:longitude":0.77745,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.251009,
     "lbl:longitude":0.775975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Otterden"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004969"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1277112091
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5e303efb4b07199f2ac21237c32104c",
+    "wof:geomhash":"a34a0154750c7b3ab30828838e188f66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404444347,
     "wof:label":"Otterden Civil Parish",
-    "wof:lastmodified":1566632921,
+    "wof:lastmodified":1695877422,
     "wof:name":"Otterden",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

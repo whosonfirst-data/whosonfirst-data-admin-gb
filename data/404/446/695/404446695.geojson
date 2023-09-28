@@ -10,12 +10,18 @@
     "geom:latitude":51.36468,
     "geom:longitude":-2.899143,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.363762,
     "lbl:longitude":-2.899143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Georges"
@@ -42,12 +48,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001037"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126050265
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5850cfc1334cd52b6a1d914e25af1e4c",
+    "wof:geomhash":"01ad5d51a71ffb42cc86e1a9942c542e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404446695,
     "wof:label":"St. Georges Civil Parish",
-    "wof:lastmodified":1566631637,
+    "wof:lastmodified":1695876863,
     "wof:name":"St. Georges",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

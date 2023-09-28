@@ -10,12 +10,18 @@
     "geom:latitude":54.555096,
     "geom:longitude":-2.066296,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.557072,
     "lbl:longitude":-2.064397,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cotherstone"
@@ -57,12 +63,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010613"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125964229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a59079bbbb1c00dd5dc48f809fc78eb8",
+    "wof:geomhash":"abe6436b2447f1db05637a30b53f3dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404433857,
     "wof:label":"Cotherstone Civil Parish",
-    "wof:lastmodified":1566633664,
+    "wof:lastmodified":1695877758,
     "wof:name":"Cotherstone",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.361683,
     "geom:longitude":0.202106,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.360527,
     "lbl:longitude":0.211344,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eynsford"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004990"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125982741
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6b1702f0b816beaca280dcf66ca4e6c5",
+    "wof:geomhash":"d16bf34b299de42dbcb3cc3b36750e63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404433697,
     "wof:label":"Eynsford Civil Parish",
-    "wof:lastmodified":1566633719,
+    "wof:lastmodified":1695877783,
     "wof:name":"Eynsford",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

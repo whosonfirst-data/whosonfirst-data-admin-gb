@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001279,
-    "geom:area_square_m":9705318.55411,
+    "geom:area_square_m":9705318.554109,
     "geom:bbox":"0.172499324765,52.1212218436,0.232305129501,52.1604153527",
     "geom:latitude":52.139964,
     "geom:longitude":0.204484,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.139673,
     "lbl:longitude":0.204032,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0647\u0645"
@@ -72,12 +78,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001758"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126034333
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c2692a8a38e219a3dfd80d35387553b",
+    "wof:geomhash":"bb87ed0fc06ba517395497bcad7adc0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404451843,
     "wof:label":"Babraham Civil Parish",
-    "wof:lastmodified":1566633448,
+    "wof:lastmodified":1695877658,
     "wof:name":"Babraham",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

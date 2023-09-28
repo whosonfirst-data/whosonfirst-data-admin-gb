@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001536,
-    "geom:area_square_m":11774571.079075,
+    "geom:area_square_m":11774571.079074,
     "geom:bbox":"-2.40681279167,51.6803203506,-2.31589023417,51.7203321538",
     "geom:latitude":51.699734,
     "geom:longitude":-2.359493,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.705699,
     "lbl:longitude":-2.363973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Nok"
@@ -118,12 +124,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004343"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754479
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dd5dfe3acfa1c5e1d9e514b3496b6033",
+    "wof:geomhash":"5dd8a4748c4e04f4c271bfd601ac46ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +145,7 @@
     ],
     "wof:id":404430483,
     "wof:label":"Cam Civil Parish",
-    "wof:lastmodified":1566631955,
+    "wof:lastmodified":1695876998,
     "wof:name":"Cam",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.320329,
     "geom:longitude":-1.213296,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.318816,
     "lbl:longitude":-1.216581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thorpe Salvin"
@@ -57,12 +63,15 @@
         1360698851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000116"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882077
     ],
     "wof:country":"GB",
-    "wof:geomhash":"82bdabf8626316fb2488462f32be817f",
+    "wof:geomhash":"66f3bf8e70337679117ed8cd5e600995",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404443103,
     "wof:label":"Thorpe Salvin Civil Parish",
-    "wof:lastmodified":1566632988,
+    "wof:lastmodified":1695877451,
     "wof:name":"Thorpe Salvin",
     "wof:parent_id":1360698851,
     "wof:placetype":"localadmin",

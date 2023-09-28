@@ -10,12 +10,18 @@
     "geom:latitude":53.19923,
     "geom:longitude":-0.804364,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.199607,
     "lbl:longitude":-0.80626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grassthorpe"
@@ -49,12 +55,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007907"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756551
     ],
     "wof:country":"GB",
-    "wof:geomhash":"224d19a5d9a25ea3edf78e49003599f8",
+    "wof:geomhash":"853bd10b57848fc7141ebc70a0bfada5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404440887,
     "wof:label":"Grassthorpe Civil Parish",
-    "wof:lastmodified":1566631143,
+    "wof:lastmodified":1695878223,
     "wof:name":"Grassthorpe",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.611191,
     "geom:longitude":-0.181884,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.607539,
     "lbl:longitude":-0.177953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Oog"
@@ -507,12 +513,15 @@
         1360698773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001108"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225879931
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cc4320809de1365f0c96118c7fd0a29a",
+    "wof:geomhash":"5bd6c601ee6fff4288d6b7d3409a50b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -525,7 +534,7 @@
     ],
     "wof:id":404434943,
     "wof:label":"Eye Civil Parish",
-    "wof:lastmodified":1566633635,
+    "wof:lastmodified":1695877745,
     "wof:name":"Eye",
     "wof:parent_id":1360698773,
     "wof:placetype":"localadmin",

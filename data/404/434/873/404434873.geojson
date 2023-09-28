@@ -10,12 +10,18 @@
     "geom:latitude":54.887816,
     "geom:longitude":-3.20279,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.883531,
     "lbl:longitude":-3.204733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kirkbride"
@@ -51,12 +57,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002418"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125887201
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c7bfe6aee8582e5dc406e8caeed88e46",
+    "wof:geomhash":"44b91410c2fcebead7aea2622367ba30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404434873,
     "wof:label":"Kirkbride Civil Parish",
-    "wof:lastmodified":1566633552,
+    "wof:lastmodified":1695877710,
     "wof:name":"Kirkbride",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

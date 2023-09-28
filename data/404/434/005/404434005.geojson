@@ -10,12 +10,18 @@
     "geom:latitude":54.036268,
     "geom:longitude":-0.811609,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.037278,
     "lbl:longitude":-0.808824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Acklam"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007542"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125848519
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2958b364a5a416ea8403c4289d423aa1",
+    "wof:geomhash":"ead2ff05542a138b1cf30ad2b4bd9592",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404434005,
     "wof:label":"Acklam Civil Parish",
-    "wof:lastmodified":1566633620,
+    "wof:lastmodified":1695877740,
     "wof:name":"Acklam",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

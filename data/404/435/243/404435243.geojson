@@ -10,12 +10,18 @@
     "geom:latitude":50.769454,
     "geom:longitude":-2.40571,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.768585,
     "lbl:longitude":-2.40571,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Piddlehinton"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003579"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125912381
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4ef2e1ea63ebc5abe5e773ceb60826a8",
+    "wof:geomhash":"68b7e16d0572bc3e64ab91243d0c6992",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404435243,
     "wof:label":"Piddlehinton Civil Parish",
-    "wof:lastmodified":1566634002,
+    "wof:lastmodified":1695877898,
     "wof:name":"Piddlehinton",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

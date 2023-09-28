@@ -10,12 +10,18 @@
     "geom:latitude":54.708822,
     "geom:longitude":-1.278338,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.709484,
     "lbl:longitude":-1.277753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0425\u0430\u0440\u0442"
@@ -96,12 +102,15 @@
         1360698981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000258"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126029891
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cb22b52dd0f6a99d9b1cdad740a6dadc",
+    "wof:geomhash":"2b74822426619f0b57f6c46a1b714e30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404438943,
     "wof:label":"Hart Civil Parish",
-    "wof:lastmodified":1566632639,
+    "wof:lastmodified":1695877296,
     "wof:name":"Hart",
     "wof:parent_id":1360698981,
     "wof:placetype":"localadmin",

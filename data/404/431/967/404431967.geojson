@@ -10,12 +10,18 @@
     "geom:latitude":53.177188,
     "geom:longitude":0.188203,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.175889,
     "lbl:longitude":0.187774,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Candlesby with Gunby"
@@ -49,12 +55,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005613"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756763
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6fb42b90334c9def7d45cdf2775d5bb3",
+    "wof:geomhash":"8b69d7a355e3f90a2e0beb167be14a70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404431967,
     "wof:label":"Candlesby with Gunby Civil Parish",
-    "wof:lastmodified":1566632490,
+    "wof:lastmodified":1695877227,
     "wof:name":"Candlesby with Gunby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014593,
-    "geom:area_square_m":109729487.973638,
+    "geom:area_square_m":109729487.973642,
     "geom:bbox":"-3.92940318523,52.4788361714,-3.68760034591,52.6120384451",
     "geom:latitude":52.548511,
     "geom:longitude":-3.792194,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.543413,
     "lbl:longitude":-3.790395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cadfarch Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000258"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711437
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f76e2eccdf51fc03e1daecb5efb5ad7d",
+    "wof:geomhash":"5b421f7d0f46b1e4eac64011891dd9e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404431483,
-    "wof:lastmodified":1566632450,
+    "wof:lastmodified":1695877209,
     "wof:name":"Cadfarch Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

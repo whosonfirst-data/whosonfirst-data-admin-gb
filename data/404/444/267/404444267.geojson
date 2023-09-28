@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001017,
-    "geom:area_square_m":7837590.467732,
+    "geom:area_square_m":7837590.467733,
     "geom:bbox":"-3.20294445911,51.4130512715,-3.15973899431,51.4484698483",
     "geom:latitude":51.43248,
     "geom:longitude":-3.182931,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.43314,
     "lbl:longitude":-3.182523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penarth Community"
@@ -40,12 +46,15 @@
         1360698899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000920"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711855
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cd7bdf0abd617162ee524311d57e8d9d",
+    "wof:geomhash":"3258367ecd6d6a7003d68d11382aeed1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444267,
-    "wof:lastmodified":1566632904,
+    "wof:lastmodified":1695877415,
     "wof:name":"Penarth Community",
     "wof:parent_id":1360698899,
     "wof:placetype":"localadmin",

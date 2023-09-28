@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001697,
-    "geom:area_square_m":13356920.207677,
+    "geom:area_square_m":13356920.207676,
     "geom:bbox":"-4.75921254009,50.4493055044,-4.67298920936,50.4860983044",
     "geom:latitude":50.466596,
     "geom:longitude":-4.717357,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.465765,
     "lbl:longitude":-4.723876,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u062f\u0645\u06cc\u0646"
@@ -120,12 +126,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011404"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852373
     ],
     "wof:country":"GB",
-    "wof:geomhash":"899b8a4e43d2429d823d94da7d6a42a9",
+    "wof:geomhash":"1dbc8f85341081e0b7ba4d5ba3f3033c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +147,7 @@
     ],
     "wof:id":404441461,
     "wof:label":"Bodmin Civil Parish",
-    "wof:lastmodified":1566631810,
+    "wof:lastmodified":1695876930,
     "wof:name":"Bodmin",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

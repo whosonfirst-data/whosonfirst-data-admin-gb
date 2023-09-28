@@ -10,12 +10,18 @@
     "geom:latitude":52.577656,
     "geom:longitude":1.354778,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.575998,
     "lbl:longitude":1.362956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Framingham Earl"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006546"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125790693
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5473fca8c50dc2f62443993af3568c69",
+    "wof:geomhash":"c8e2c1cad896fe26bf0ee03e51e0bd48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404431723,
     "wof:label":"Framingham Earl Civil Parish",
-    "wof:lastmodified":1566632480,
+    "wof:lastmodified":1695877222,
     "wof:name":"Framingham Earl",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

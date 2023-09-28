@@ -10,12 +10,18 @@
     "geom:latitude":52.66097,
     "geom:longitude":-2.699244,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.658109,
     "lbl:longitude":-2.704053,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Berrington"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011219"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972193
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d8fb4e2f51acc40c7741cd61449b7ca6",
+    "wof:geomhash":"5749c19b5dad6ee1ea31b2e338f12218",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452231,
     "wof:label":"Berrington Civil Parish",
-    "wof:lastmodified":1566632243,
+    "wof:lastmodified":1695877117,
     "wof:name":"Berrington",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

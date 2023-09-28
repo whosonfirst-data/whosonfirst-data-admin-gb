@@ -10,12 +10,18 @@
     "geom:latitude":51.288612,
     "geom:longitude":-1.719139,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.289027,
     "lbl:longitude":-1.721504,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Everleigh"
@@ -42,12 +48,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011713"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125860879
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b2b2acb4e02bae9b51690758274df32b",
+    "wof:geomhash":"a4e9b47b670b9c9992fbe7c6465cdd20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404450993,
     "wof:label":"Everleigh Civil Parish",
-    "wof:lastmodified":1566633800,
+    "wof:lastmodified":1695877818,
     "wof:name":"Everleigh",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

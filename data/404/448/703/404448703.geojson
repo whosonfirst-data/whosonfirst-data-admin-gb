@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00147,
-    "geom:area_square_m":11498506.425167,
+    "geom:area_square_m":11498506.425166,
     "geom:bbox":"-0.818944225331,50.7219602088,-0.748747037686,50.7662216216",
     "geom:latitude":50.744901,
     "geom:longitude":-0.78178,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.744115,
     "lbl:longitude":-0.781785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0644\u0633\u06cc"
@@ -93,12 +99,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009925"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852327
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a7397468559cf7470c5ff099dcf564e7",
+    "wof:geomhash":"70a7ae433834c3c5b2837c121bf8c792",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404448703,
     "wof:label":"Selsey Civil Parish",
-    "wof:lastmodified":1566631530,
+    "wof:lastmodified":1695876827,
     "wof:name":"Selsey",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

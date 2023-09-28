@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002946,
-    "geom:area_square_m":23123922.91297,
+    "geom:area_square_m":23123922.912969,
     "geom:bbox":"-3.52794822676,50.5550645621,-3.42293915208,50.6177040611",
     "geom:latitude":50.590129,
     "geom:longitude":-3.478011,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.589833,
     "lbl:longitude":-3.478005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0627\u0648\u0644\u06cc\u0634"
@@ -96,12 +102,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003204"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125891889
     ],
     "wof:country":"GB",
-    "wof:geomhash":"56acfe6b7dda85c9bab7421823ca47df",
+    "wof:geomhash":"4d99db864c69c02e8052bd5dc34813a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404436419,
     "wof:label":"Dawlish Civil Parish",
-    "wof:lastmodified":1566632388,
+    "wof:lastmodified":1695877182,
     "wof:name":"Dawlish",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

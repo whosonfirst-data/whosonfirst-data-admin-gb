@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006718,
-    "geom:area_square_m":50865675.406485,
+    "geom:area_square_m":50865675.406481,
     "geom:bbox":"-3.18567046785,52.2012102686,-3.02590486959,52.2906110147",
     "geom:latitude":52.241928,
     "geom:longitude":-3.108034,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.249688,
     "lbl:longitude":-3.093547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Old Radnor Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000336"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125973633
     ],
     "wof:country":"GB",
-    "wof:geomhash":"54f19cd851046c98821ab2894c6f5a9b",
+    "wof:geomhash":"c5961dadace4aabff3fd97520a163e00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404455369,
-    "wof:lastmodified":1566632294,
+    "wof:lastmodified":1695877138,
     "wof:name":"Old Radnor Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

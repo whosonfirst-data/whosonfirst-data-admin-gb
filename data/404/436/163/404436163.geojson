@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005371,
-    "geom:area_square_m":42035627.272053,
+    "geom:area_square_m":42035627.272049,
     "geom:bbox":"-3.95919204841,50.6887553398,-3.85352782216,50.7831969955",
     "geom:latitude":50.732982,
     "geom:longitude":-3.899233,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.735896,
     "lbl:longitude":-3.895623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Tawton"
@@ -63,12 +69,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003349"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1210045857
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8d544c4dc45c13a2e1001db05d4872f7",
+    "wof:geomhash":"16b5eeabe717c524802229b497f2b27f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404436163,
     "wof:label":"South Tawton Civil Parish",
-    "wof:lastmodified":1566632383,
+    "wof:lastmodified":1695877180,
     "wof:name":"South Tawton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

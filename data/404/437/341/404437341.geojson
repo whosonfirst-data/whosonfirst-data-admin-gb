@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001385,
-    "geom:area_square_m":10491150.205797,
+    "geom:area_square_m":10491150.205796,
     "geom:bbox":"-0.696079083342,52.1949647997,-0.637334472719,52.2382387224",
     "geom:latitude":52.220263,
     "geom:longitude":-0.669404,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.220505,
     "lbl:longitude":-0.669408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bozeat"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006877"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125956839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3f7404002c4cd20e2baac78f3066ed76",
+    "wof:geomhash":"e85d7c63ea3381da65d9c7eb9e6c1b8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404437341,
     "wof:label":"Bozeat Civil Parish",
-    "wof:lastmodified":1566632092,
+    "wof:lastmodified":1695877055,
     "wof:name":"Bozeat",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

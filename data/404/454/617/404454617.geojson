@@ -10,12 +10,18 @@
     "geom:latitude":52.830668,
     "geom:longitude":1.505813,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.831611,
     "lbl:longitude":1.504675,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0423\u043e\u043b\u043a\u0430\u0442"
@@ -81,12 +87,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006505"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125938893
     ],
     "wof:country":"GB",
-    "wof:geomhash":"42ffc066d76824fb8a28eac49c82731b",
+    "wof:geomhash":"e0d4d6b19a3ccad7395cb5491693457a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404454617,
     "wof:label":"Walcott Civil Parish",
-    "wof:lastmodified":1566632660,
+    "wof:lastmodified":1695877306,
     "wof:name":"Walcott",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

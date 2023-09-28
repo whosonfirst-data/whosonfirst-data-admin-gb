@@ -10,12 +10,18 @@
     "geom:latitude":52.981392,
     "geom:longitude":-0.83249,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.981074,
     "lbl:longitude":-0.83249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Flawborough"
@@ -40,12 +46,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007975"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754677
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a531259d88a845783743a815c78f803d",
+    "wof:geomhash":"9ff9128cc537b47e37b845a79332683c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404430607,
     "wof:label":"Flawborough Civil Parish",
-    "wof:lastmodified":1566632031,
+    "wof:lastmodified":1695877029,
     "wof:name":"Flawborough",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

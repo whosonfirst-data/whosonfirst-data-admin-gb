@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002774,
-    "geom:area_square_m":20777915.126183,
+    "geom:area_square_m":20777915.126182,
     "geom:bbox":"-2.40371409705,52.6949108885,-2.30862211919,52.7407710601",
     "geom:latitude":52.713234,
     "geom:longitude":-2.355912,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.713104,
     "lbl:longitude":-2.355922,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sheriffhales"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011355"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126036567
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6263f76d43fac88fc034cc1bc8fb14c8",
+    "wof:geomhash":"e91c56416a34c7e46a173266df5806bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404431249,
     "wof:label":"Sheriffhales Civil Parish",
-    "wof:lastmodified":1566632504,
+    "wof:lastmodified":1695877233,
     "wof:name":"Sheriffhales",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

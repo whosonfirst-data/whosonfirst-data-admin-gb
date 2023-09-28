@@ -10,12 +10,18 @@
     "geom:latitude":50.88468,
     "geom:longitude":-3.69357,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.885196,
     "lbl:longitude":-3.693576,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Washford Pyne"
@@ -52,12 +58,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003060"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755775
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3702cea0c87077b950724128251854d7",
+    "wof:geomhash":"7e11f629598650e5323ba9e30e16ae68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404431341,
     "wof:label":"Washford Pyne Civil Parish",
-    "wof:lastmodified":1566632470,
+    "wof:lastmodified":1695877218,
     "wof:name":"Washford Pyne",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

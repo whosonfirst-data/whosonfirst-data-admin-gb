@@ -10,12 +10,18 @@
     "geom:latitude":51.083038,
     "geom:longitude":0.770345,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.085284,
     "lbl:longitude":0.773223,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woodchurch"
@@ -45,12 +51,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004864"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125837863
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fc1badf009fb3a00f74a03998c69664d",
+    "wof:geomhash":"61c0d56ff883c5c62f7f9719a21059de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404436003,
     "wof:label":"Woodchurch Civil Parish",
-    "wof:lastmodified":1566632402,
+    "wof:lastmodified":1695877187,
     "wof:name":"Woodchurch",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000538,
-    "geom:area_square_m":4083591.806506,
+    "geom:area_square_m":4083591.806505,
     "geom:bbox":"0.63338265322,52.1289533211,0.662226535367,52.1614622883",
     "geom:latitude":52.145738,
     "geom:longitude":0.648421,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.145588,
     "lbl:longitude":0.648206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Somerton"
@@ -79,12 +85,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009123"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756849
     ],
     "wof:country":"GB",
-    "wof:geomhash":"691d1e02f70cbcded41c0a57146319a4",
+    "wof:geomhash":"415af8162f6db1d4bd23b98d8361783e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +106,7 @@
     ],
     "wof:id":404451525,
     "wof:label":"Somerton Civil Parish",
-    "wof:lastmodified":1566633526,
+    "wof:lastmodified":1695877695,
     "wof:name":"Somerton",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

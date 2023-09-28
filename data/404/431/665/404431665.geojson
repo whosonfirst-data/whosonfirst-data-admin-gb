@@ -10,12 +10,18 @@
     "geom:latitude":54.147465,
     "geom:longitude":-1.014611,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.146142,
     "lbl:longitude":-1.011973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Scackleton"
@@ -49,12 +55,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007624"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756313
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e787ca1650d3a47a00171d5c9f9b5421",
+    "wof:geomhash":"d566ebdbc6dd52e2f81a1a92e26a5c77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404431665,
     "wof:label":"Scackleton Civil Parish",
-    "wof:lastmodified":1566632517,
+    "wof:lastmodified":1695877239,
     "wof:name":"Scackleton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

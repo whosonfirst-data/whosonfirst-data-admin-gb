@@ -10,12 +10,18 @@
     "geom:latitude":54.228992,
     "geom:longitude":-1.003606,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.229787,
     "lbl:longitude":-1.007325,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Harome"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007583"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125783415
     ],
     "wof:country":"GB",
-    "wof:geomhash":"15a466cccde01ecf2a5b7281ae15727c",
+    "wof:geomhash":"edce3d048c50114146554d77e0d8cb25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404435945,
     "wof:label":"Harome Civil Parish",
-    "wof:lastmodified":1566634082,
+    "wof:lastmodified":1695877942,
     "wof:name":"Harome",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

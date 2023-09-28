@@ -10,12 +10,18 @@
     "geom:latitude":54.243737,
     "geom:longitude":-0.562839,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.264508,
     "lbl:longitude":-0.575635,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brompton"
@@ -67,12 +73,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007660"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757809
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fddc4d8438383ecfa0527df822332930",
+    "wof:geomhash":"e94e4d7650f8e469cbf4693c36dec361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +94,7 @@
     ],
     "wof:id":404435699,
     "wof:label":"Brompton Civil Parish",
-    "wof:lastmodified":1566634064,
+    "wof:lastmodified":1695877932,
     "wof:name":"Brompton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

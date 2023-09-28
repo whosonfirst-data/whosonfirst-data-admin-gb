@@ -10,12 +10,18 @@
     "geom:latitude":52.027257,
     "geom:longitude":-1.184018,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.026677,
     "lbl:longitude":-1.184015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hinton-In-The-Hedges"
@@ -42,12 +48,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006834"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992375
     ],
     "wof:country":"GB",
-    "wof:geomhash":"657f1ad24843d51d9b86b656564aae4a",
+    "wof:geomhash":"f830d77e67f94231701aa6ae0b227064",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404443645,
     "wof:label":"Hinton-In-The-Hedges Civil Parish",
-    "wof:lastmodified":1566633004,
+    "wof:lastmodified":1695877461,
     "wof:name":"Hinton-In-The-Hedges",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

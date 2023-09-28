@@ -10,12 +10,18 @@
     "geom:latitude":54.062197,
     "geom:longitude":-0.918353,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.063654,
     "lbl:longitude":-0.922356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barton-Le-Willows"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007550"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2c4c794b405115b9b69bc5dad3a6d241",
+    "wof:geomhash":"ed06513a35fea7dbc14295a6c5630bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404444287,
     "wof:label":"Barton-Le-Willows Civil Parish",
-    "wof:lastmodified":1566632879,
+    "wof:lastmodified":1695877408,
     "wof:name":"Barton-Le-Willows",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

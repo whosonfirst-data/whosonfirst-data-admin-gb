@@ -10,12 +10,18 @@
     "geom:latitude":51.667869,
     "geom:longitude":-1.476982,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.666001,
     "lbl:longitude":-1.478486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pusey"
@@ -60,12 +66,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008235"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243291163
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ba75074bb84059555259c45bed5c595d",
+    "wof:geomhash":"03d3708a7acbd95ffe36a6f38da2f060",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430317,
     "wof:label":"Pusey Civil Parish",
-    "wof:lastmodified":1566632040,
+    "wof:lastmodified":1695877033,
     "wof:name":"Pusey",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

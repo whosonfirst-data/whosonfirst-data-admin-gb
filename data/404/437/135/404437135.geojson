@@ -10,12 +10,18 @@
     "geom:latitude":52.564302,
     "geom:longitude":-0.94188,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.564609,
     "lbl:longitude":-0.942257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shangton"
@@ -61,12 +67,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005466"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759273
     ],
     "wof:country":"GB",
-    "wof:geomhash":"de2a350e0b05f60b903ea292ffe6ab82",
+    "wof:geomhash":"7e6a9ba3515b40f91bceb3ec73cca573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404437135,
     "wof:label":"Shangton Civil Parish",
-    "wof:lastmodified":1566632049,
+    "wof:lastmodified":1695877036,
     "wof:name":"Shangton",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

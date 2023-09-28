@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003598,
-    "geom:area_square_m":26623341.522257,
+    "geom:area_square_m":26623341.522258,
     "geom:bbox":"-3.17740955461,53.212950785,-3.06114600121,53.2776000001",
     "geom:latitude":53.243655,
     "geom:longitude":-3.121672,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.245594,
     "lbl:longitude":-3.117734,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Flint Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000186"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872047
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8395aef1bc3456d9f4009f3042ecc9d0",
+    "wof:geomhash":"509168cbd1845a3ea0669a016ae3cb62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442043,
-    "wof:lastmodified":1566633274,
+    "wof:lastmodified":1695877583,
     "wof:name":"Flint Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

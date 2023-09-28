@@ -10,12 +10,18 @@
     "geom:latitude":52.036858,
     "geom:longitude":-0.599139,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.035985,
     "lbl:longitude":-0.59941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u063a\u0628\u0631\u0648"
@@ -69,12 +75,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011933"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869915
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4c334dfa433f4d91b7f9b0430855aed8",
+    "wof:geomhash":"fee5f671f16a4c63690b32c994ecea7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404439661,
     "wof:label":"Brogborough Civil Parish",
-    "wof:lastmodified":1566631867,
+    "wof:lastmodified":1695876958,
     "wof:name":"Brogborough",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

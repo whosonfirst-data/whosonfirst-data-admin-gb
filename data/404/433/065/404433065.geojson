@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010297,
-    "geom:area_square_m":77219530.167807,
+    "geom:area_square_m":77219530.167803,
     "geom:bbox":"-4.02915693732,52.6165304365,-3.8398415622,52.7097825614",
     "geom:latitude":52.663808,
     "geom:longitude":-3.940438,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.664141,
     "lbl:longitude":-3.941882,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfihangel-y-Pennant Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000078"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976183
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bd99b8ab49d242195496da77e73a8cb6",
+    "wof:geomhash":"cd54dfa21f0a16106d5f3d433005b3f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433065,
-    "wof:lastmodified":1566633662,
+    "wof:lastmodified":1695877757,
     "wof:name":"Llanfihangel-y-Pennant Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

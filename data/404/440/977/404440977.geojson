@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00086,
-    "geom:area_square_m":6710105.711933,
+    "geom:area_square_m":6710105.711932,
     "geom:bbox":"0.115035321501,50.8378793378,0.17751238453,50.863697459",
     "geom:latitude":50.849561,
     "geom:longitude":0.145187,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.848979,
     "lbl:longitude":0.144731,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Selmeston"
@@ -63,12 +69,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003862"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1193172455
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fb32bb5047d6bd33e4af89b038bef983",
+    "wof:geomhash":"bc0c7998fed2c016f7822cbd35ecb81c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404440977,
     "wof:label":"Selmeston Civil Parish",
-    "wof:lastmodified":1566631164,
+    "wof:lastmodified":1695878233,
     "wof:name":"Selmeston",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

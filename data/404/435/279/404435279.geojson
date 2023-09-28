@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002481,
-    "geom:area_square_m":19578601.073486,
+    "geom:area_square_m":19578601.073484,
     "geom:bbox":"-4.58338349365,50.3236561052,-4.46382702517,50.3646880453",
     "geom:latitude":50.342511,
     "geom:longitude":-4.531171,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.340358,
     "lbl:longitude":-4.547034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0628\u0631\u064a\u0648"
@@ -93,12 +99,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011463"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998359
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b6da3f2f816b8db4dcb1f2a8afca8b89",
+    "wof:geomhash":"e51f7786acf76d7a562d9ae1db2a71fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404435279,
     "wof:label":"Polperro Civil Parish",
-    "wof:lastmodified":1566634050,
+    "wof:lastmodified":1695877924,
     "wof:name":"Polperro",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.923509,
     "geom:longitude":-0.773518,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.924629,
     "lbl:longitude":-0.772952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0648\u0643\u0644\u064a"
@@ -75,12 +81,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001532"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852791
     ],
     "wof:country":"GB",
-    "wof:geomhash":"183aa831cee6609f3f4db3fc2c8589c2",
+    "wof:geomhash":"c661b3c82783bdd77b859e0d494bcebb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404435881,
     "wof:label":"Stewkley Civil Parish",
-    "wof:lastmodified":1566634003,
+    "wof:lastmodified":1695877899,
     "wof:name":"Stewkley",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

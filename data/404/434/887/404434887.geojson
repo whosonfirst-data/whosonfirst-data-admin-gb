@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005744,
-    "geom:area_square_m":43492051.464168,
+    "geom:area_square_m":43492051.464164,
     "geom:bbox":"-4.25519334499,52.2150590309,-4.06480994714,52.2738667756",
     "geom:latitude":52.244621,
     "geom:longitude":-4.16615,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.242743,
     "lbl:longitude":-4.199305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dyffryn Arth Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000366"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711905
     ],
     "wof:country":"GB",
-    "wof:geomhash":"767ba679c74daf28b5d7b44ed0b24e2e",
+    "wof:geomhash":"47b19cb06f357fe64f92968c11b78247",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404434887,
-    "wof:lastmodified":1566633551,
+    "wof:lastmodified":1695877709,
     "wof:name":"Dyffryn Arth Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

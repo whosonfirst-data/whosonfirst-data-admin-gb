@@ -10,12 +10,18 @@
     "geom:latitude":52.505661,
     "geom:longitude":-1.31508,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.505198,
     "lbl:longitude":-1.315079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wigston Parva"
@@ -54,12 +60,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005364"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243483195
     ],
     "wof:country":"GB",
-    "wof:geomhash":"31b27157b80b999d8f7b79cc99ddb6ba",
+    "wof:geomhash":"c10eacda12be910637c2d4c1a0c84d17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404433015,
     "wof:label":"Wigston Parva Civil Parish",
-    "wof:lastmodified":1566633651,
+    "wof:lastmodified":1695877752,
     "wof:name":"Wigston Parva",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

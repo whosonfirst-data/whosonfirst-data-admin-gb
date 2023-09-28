@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000578,
-    "geom:area_square_m":4386840.344967,
+    "geom:area_square_m":4386840.344966,
     "geom:bbox":"-1.73547734049,52.1414785091,-1.6558517936,52.1655909118",
     "geom:latitude":52.156242,
     "geom:longitude":-1.699722,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.156478,
     "lbl:longitude":-1.705717,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Atherstone on Stour"
@@ -60,12 +66,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009705"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869425
     ],
     "wof:country":"GB",
-    "wof:geomhash":"53ce18936c8cfb2cd4a00450513fba9b",
+    "wof:geomhash":"ee659a5602efdbbb2bb86016326a2034",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430943,
     "wof:label":"Atherstone on Stour Civil Parish",
-    "wof:lastmodified":1566632044,
+    "wof:lastmodified":1695877035,
     "wof:name":"Atherstone on Stour",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

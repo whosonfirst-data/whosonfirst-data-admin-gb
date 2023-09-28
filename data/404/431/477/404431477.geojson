@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":2522976.200124,
+    "geom:area_square_m":2522976.200125,
     "geom:bbox":"-4.3715898208,52.1989230989,-4.34148598612,52.2195941455",
     "geom:latitude":52.208396,
     "geom:longitude":-4.356589,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.206934,
     "lbl:longitude":-4.35682,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New Quay Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000395"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125805019
     ],
     "wof:country":"GB",
-    "wof:geomhash":"485d396fdcdbb921ffe409464f578fe7",
+    "wof:geomhash":"4bca74510b85a84159c24628b54e1bd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404431477,
-    "wof:lastmodified":1566632450,
+    "wof:lastmodified":1695877209,
     "wof:name":"New Quay Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

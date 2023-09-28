@@ -10,12 +10,18 @@
     "geom:latitude":52.818625,
     "geom:longitude":1.38359,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.821728,
     "lbl:longitude":1.379938,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0631\u062b \u0648\u0627\u0644\u0634\u0627\u0645"
@@ -96,12 +102,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006454"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126022471
     ],
     "wof:country":"GB",
-    "wof:geomhash":"88f69f3c6da21c1f7d9b46b8ebe5734f",
+    "wof:geomhash":"e17aba542ce2912b954c7ab397819076",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404442211,
     "wof:label":"North Walsham Civil Parish",
-    "wof:lastmodified":1566633209,
+    "wof:lastmodified":1695877554,
     "wof:name":"North Walsham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

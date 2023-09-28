@@ -10,12 +10,18 @@
     "geom:latitude":50.488225,
     "geom:longitude":-4.010377,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.48572,
     "lbl:longitude":-4.017699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sheepstor"
@@ -66,12 +72,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003347"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803175
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7061886192cf0dc149eefcabc2a1670f",
+    "wof:geomhash":"7265a2b1c2d606e575daf4e755f39683",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404442523,
     "wof:label":"Sheepstor Civil Parish",
-    "wof:lastmodified":1566633302,
+    "wof:lastmodified":1695877595,
     "wof:name":"Sheepstor",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

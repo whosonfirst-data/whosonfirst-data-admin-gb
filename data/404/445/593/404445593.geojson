@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003772,
-    "geom:area_square_m":28848141.82682,
+    "geom:area_square_m":28848141.826819,
     "geom:bbox":"-3.44586871985,51.7550914406,-3.35557223525,51.835055829",
     "geom:latitude":51.795125,
     "geom:longitude":-3.404014,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.791565,
     "lbl:longitude":-3.404686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vaynor Community"
@@ -40,12 +46,15 @@
         1360698803
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000881"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913241
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d0c126037f1747c74846e9fb63cf3530",
+    "wof:geomhash":"235cc4c2a3ced4f9c8163109011d2042",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404445593,
-    "wof:lastmodified":1566633307,
+    "wof:lastmodified":1695877597,
     "wof:name":"Vaynor Community",
     "wof:parent_id":1360698803,
     "wof:placetype":"localadmin",

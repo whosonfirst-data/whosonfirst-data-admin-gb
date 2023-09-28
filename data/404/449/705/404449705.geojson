@@ -10,12 +10,18 @@
     "geom:latitude":51.811369,
     "geom:longitude":0.31422,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.807958,
     "lbl:longitude":0.316373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aythorpe Roding"
@@ -60,12 +66,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004117"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126047063
     ],
     "wof:country":"GB",
-    "wof:geomhash":"43c2cced33927484a7ec90369adb28e7",
+    "wof:geomhash":"caac1184cec3cbac88ec9ace9a296139",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404449705,
     "wof:label":"Aythorpe Roding Civil Parish",
-    "wof:lastmodified":1566631401,
+    "wof:lastmodified":1695878339,
     "wof:name":"Aythorpe Roding",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

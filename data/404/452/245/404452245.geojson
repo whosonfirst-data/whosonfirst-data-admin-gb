@@ -10,12 +10,18 @@
     "geom:latitude":51.614609,
     "geom:longitude":-1.15594,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.611436,
     "lbl:longitude":-1.162359,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brightwell-Cum-Sotwell"
@@ -42,12 +48,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008110"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125988331
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f62191ff0593d82184972ef932768d31",
+    "wof:geomhash":"dc57b8c244ed208cdf52ef4f2cc0e7b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404452245,
     "wof:label":"Brightwell-Cum-Sotwell Civil Parish",
-    "wof:lastmodified":1566632182,
+    "wof:lastmodified":1695877092,
     "wof:name":"Brightwell-Cum-Sotwell",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

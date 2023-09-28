@@ -10,12 +10,18 @@
     "geom:latitude":51.950314,
     "geom:longitude":0.343118,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.951021,
     "lbl:longitude":0.343115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Thaxted"
@@ -99,12 +105,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004164"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854705
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ec1f0037e4be2c4576226e4e1ceb16da",
+    "wof:geomhash":"7050c7f806eaa08f51f953da938667fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404440657,
     "wof:label":"Thaxted Civil Parish",
-    "wof:lastmodified":1566631163,
+    "wof:lastmodified":1695878232,
     "wof:name":"Thaxted",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

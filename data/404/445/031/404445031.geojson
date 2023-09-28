@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00046,
-    "geom:area_square_m":3453737.109365,
+    "geom:area_square_m":3453737.109364,
     "geom:bbox":"1.10342391295,52.5989839795,1.13552658185,52.6252186114",
     "geom:latitude":52.610054,
     "geom:longitude":1.122619,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.607589,
     "lbl:longitude":1.122864,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wramplingham"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006620"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125774881
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5e206fc62fb539fd8975e51a42a3865",
+    "wof:geomhash":"0619d6edbccd165f418b2990bb21c969",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445031,
     "wof:label":"Wramplingham Civil Parish",
-    "wof:lastmodified":1566633340,
+    "wof:lastmodified":1695877612,
     "wof:name":"Wramplingham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.194959,
     "geom:longitude":-0.058912,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.190691,
     "lbl:longitude":-0.062168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0646"
@@ -63,12 +69,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001765"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310332543
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f9037ca959a07ed54ffb5541b0999c4c",
+    "wof:geomhash":"39189ff29c9f1f92e0088811b5a7af8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404441399,
     "wof:label":"Bourn Civil Parish",
-    "wof:lastmodified":1566631725,
+    "wof:lastmodified":1695876895,
     "wof:name":"Bourn",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

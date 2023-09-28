@@ -10,12 +10,18 @@
     "geom:latitude":54.011661,
     "geom:longitude":-0.758574,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.013161,
     "lbl:longitude":-0.759361,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirby Underdale"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000425"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844521
     ],
     "wof:country":"GB",
-    "wof:geomhash":"201f1ddd40954df5078f5aa24fa05daa",
+    "wof:geomhash":"9eddd96a2109d7586d3a8d6c4d0adbd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429973,
     "wof:label":"Kirby Underdale Civil Parish",
-    "wof:lastmodified":1566633184,
+    "wof:lastmodified":1695877542,
     "wof:name":"Kirby Underdale",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

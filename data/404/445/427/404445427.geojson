@@ -10,12 +10,18 @@
     "geom:latitude":54.526469,
     "geom:longitude":-1.618816,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.524004,
     "lbl:longitude":-1.622805,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Low Coniscliffe and Merrybent"
@@ -43,12 +49,15 @@
         1360698889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000302"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759375
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5b9551ecc02089c4a64800c4b3f7efa",
+    "wof:geomhash":"628a0c67ad425933a3ff92259b9a63b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404445427,
     "wof:label":"Low Coniscliffe and Merrybent Civil Parish",
-    "wof:lastmodified":1566633388,
+    "wof:lastmodified":1695877633,
     "wof:name":"Low Coniscliffe and Merrybent",
     "wof:parent_id":1360698889,
     "wof:placetype":"localadmin",

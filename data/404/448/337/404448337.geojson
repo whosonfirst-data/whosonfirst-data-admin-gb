@@ -10,12 +10,18 @@
     "geom:latitude":51.705701,
     "geom:longitude":-0.137106,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.707108,
     "lbl:longitude":-0.139801,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Northaw and Cuffley"
@@ -52,12 +58,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004820"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756691
     ],
     "wof:country":"GB",
-    "wof:geomhash":"77026d2db4827d60cb20ed2c60ccdf8e",
+    "wof:geomhash":"615675cad7233e1026e3f8d01216fbb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404448337,
     "wof:label":"Northaw and Cuffley Civil Parish",
-    "wof:lastmodified":1566631468,
+    "wof:lastmodified":1695876800,
     "wof:name":"Northaw and Cuffley",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

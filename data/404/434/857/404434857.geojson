@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001537,
-    "geom:area_square_m":11339566.654647,
+    "geom:area_square_m":11339566.654648,
     "geom:bbox":"-0.0293165513277,53.345924412,0.0290985797818,53.3883736953",
     "geom:latitude":53.366325,
     "geom:longitude":-0.001652,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.367025,
     "lbl:longitude":-0.001104,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Louth"
@@ -78,12 +84,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005681"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874119
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d5465350dec4bc2f8b2ba1c3f49ce891",
+    "wof:geomhash":"c0245bb3756c70320911555def488c1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404434857,
     "wof:label":"Louth Civil Parish",
-    "wof:lastmodified":1566633562,
+    "wof:lastmodified":1695877714,
     "wof:name":"Louth",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

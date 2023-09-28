@@ -10,12 +10,18 @@
     "geom:latitude":53.429965,
     "geom:longitude":0.028796,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.432856,
     "lbl:longitude":0.039432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Covenham St. Mary"
@@ -40,12 +46,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005622"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755725
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f1dfae64a050ee1e2998b34425df51a2",
+    "wof:geomhash":"db1e269335a55722c8e62b09ed826214",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404439827,
     "wof:label":"Covenham St. Mary Civil Parish",
-    "wof:lastmodified":1566631842,
+    "wof:lastmodified":1695876946,
     "wof:name":"Covenham St. Mary",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001353,
-    "geom:area_square_m":10046194.165558,
+    "geom:area_square_m":10046194.165557,
     "geom:bbox":"-0.419391797317,53.0677791445,-0.297229767843,53.0896953114",
     "geom:latitude":53.079683,
     "geom:longitude":-0.360208,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.082115,
     "lbl:longitude":-0.364403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Digby"
@@ -57,12 +63,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005797"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125888971
     ],
     "wof:country":"GB",
-    "wof:geomhash":"889af77e9b003301ea704480c334d1f2",
+    "wof:geomhash":"a68fd09732ab91ef8c92228365ec65df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404433877,
     "wof:label":"Digby Civil Parish",
-    "wof:lastmodified":1566633706,
+    "wof:lastmodified":1695877777,
     "wof:name":"Digby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

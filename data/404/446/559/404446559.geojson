@@ -10,12 +10,18 @@
     "geom:latitude":52.560202,
     "geom:longitude":-3.150788,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.563997,
     "lbl:longitude":-3.150789,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Montgomery Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000332"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013289
     ],
     "wof:country":"GB",
-    "wof:geomhash":"720b92411e2d3d96a9a5aec0e9100bde",
+    "wof:geomhash":"16b47521e8f5d95c592984e79e6d3e74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404446559,
-    "wof:lastmodified":1566631603,
+    "wof:lastmodified":1695876849,
     "wof:name":"Montgomery Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

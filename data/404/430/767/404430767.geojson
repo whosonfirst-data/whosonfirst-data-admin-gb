@@ -10,12 +10,18 @@
     "geom:latitude":54.378646,
     "geom:longitude":-1.748023,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.384213,
     "lbl:longitude":-1.735709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hipswell"
@@ -61,12 +67,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007491"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754929
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e9202827181e202718f128041a8993a3",
+    "wof:geomhash":"16c042f45088c319e2035d6aba37f5e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404430767,
     "wof:label":"Hipswell Civil Parish",
-    "wof:lastmodified":1566631996,
+    "wof:lastmodified":1695877014,
     "wof:name":"Hipswell",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

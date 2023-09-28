@@ -10,12 +10,18 @@
     "geom:latitude":52.806058,
     "geom:longitude":-1.084176,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.806579,
     "lbl:longitude":-1.08508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wymeswold"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005398"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882233
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1a2e1f9d375c66e99ed1ff92d08aeb50",
+    "wof:geomhash":"48e30897db70c5d33b5ee68f60971ec8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448445,
     "wof:label":"Wymeswold Civil Parish",
-    "wof:lastmodified":1566631547,
+    "wof:lastmodified":1695876834,
     "wof:name":"Wymeswold",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

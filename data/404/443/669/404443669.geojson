@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":2350657.437264,
+    "geom:area_square_m":2350657.437265,
     "geom:bbox":"-3.84199285253,51.5908863426,-3.8100083566,51.612962104",
     "geom:latitude":51.601486,
     "geom:longitude":-3.824028,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.600976,
     "lbl:longitude":-3.823786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sandfields West Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000625"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711569
     ],
     "wof:country":"GB",
-    "wof:geomhash":"567e6d7e5a43352d3fefa683d14b7148",
+    "wof:geomhash":"a6f5328f72e84b0dce68d5972f32529f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443669,
-    "wof:lastmodified":1566633015,
+    "wof:lastmodified":1695877466,
     "wof:name":"Sandfields West Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

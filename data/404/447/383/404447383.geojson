@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001274,
-    "geom:area_square_m":9931203.397701,
+    "geom:area_square_m":9931203.3977,
     "geom:bbox":"-2.05096735316,50.8929988019,-1.98859427124,50.9393660218",
     "geom:latitude":50.916952,
     "geom:longitude":-2.017219,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.911851,
     "lbl:longitude":-2.019353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gussage St. Michael"
@@ -42,12 +48,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003370"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126001095
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cf2ad1075f0ec94473d67626be80f85a",
+    "wof:geomhash":"573885add2dfc48ce319dc674801a866",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404447383,
     "wof:label":"Gussage St. Michael Civil Parish",
-    "wof:lastmodified":1566631279,
+    "wof:lastmodified":1695878286,
     "wof:name":"Gussage St. Michael",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

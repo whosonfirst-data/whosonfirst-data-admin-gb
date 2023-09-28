@@ -10,12 +10,18 @@
     "geom:latitude":51.710259,
     "geom:longitude":-1.780385,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.71731,
     "lbl:longitude":-1.773678,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0641\u0627\u06cc\u0631\u0641\u0648\u0631\u062f"
@@ -99,12 +105,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004230"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4eac61ee6fb79445aba5a80ba890e85d",
+    "wof:geomhash":"9e61162cc1a1c258d55d58e3a1ebddc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404454391,
     "wof:label":"Fairford Civil Parish",
-    "wof:lastmodified":1566632646,
+    "wof:lastmodified":1695877299,
     "wof:name":"Fairford",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

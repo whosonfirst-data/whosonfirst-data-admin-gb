@@ -10,12 +10,18 @@
     "geom:latitude":54.006465,
     "geom:longitude":-0.867532,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.007608,
     "lbl:longitude":-0.866992,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skirpenbeck"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000474"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1277103617
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5c5f6ca5b09eb98cc4cb2ab87ff7dcc4",
+    "wof:geomhash":"3ee264581057a44fe7a4a15c2779f27b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452983,
     "wof:label":"Skirpenbeck Civil Parish",
-    "wof:lastmodified":1566632203,
+    "wof:lastmodified":1695877101,
     "wof:name":"Skirpenbeck",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

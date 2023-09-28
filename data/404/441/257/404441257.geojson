@@ -10,12 +10,18 @@
     "geom:latitude":53.726632,
     "geom:longitude":-0.567471,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.718305,
     "lbl:longitude":-0.57167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elloughton-Cum-Brough"
@@ -40,12 +46,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000387"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756853
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b863eb15b696774a70333baf96385348",
+    "wof:geomhash":"4db60ddc9d4b3915e1fae0bd39110f98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404441257,
     "wof:label":"Elloughton-Cum-Brough Civil Parish",
-    "wof:lastmodified":1566631743,
+    "wof:lastmodified":1695876902,
     "wof:name":"Elloughton-Cum-Brough",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

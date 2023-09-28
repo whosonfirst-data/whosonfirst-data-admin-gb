@@ -10,12 +10,18 @@
     "geom:latitude":54.428147,
     "geom:longitude":-1.626863,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.422938,
     "lbl:longitude":-1.646327,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moulton"
@@ -78,12 +84,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007507"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226072413
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1bd88072774f4fe46d7fc18d227fbfc3",
+    "wof:geomhash":"174b73288e77567a70c6ab9c3a3ceea5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404445583,
     "wof:label":"Moulton Civil Parish",
-    "wof:lastmodified":1566633414,
+    "wof:lastmodified":1695877646,
     "wof:name":"Moulton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

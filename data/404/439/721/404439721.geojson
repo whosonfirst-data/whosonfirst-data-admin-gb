@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001079,
-    "geom:area_square_m":8216101.002113,
+    "geom:area_square_m":8216101.002112,
     "geom:bbox":"-0.41482002114,51.9873542856,-0.365399986455,52.028001706",
     "geom:latitude":52.007328,
     "geom:longitude":-0.389448,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.008454,
     "lbl:longitude":-0.387019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gravenhurst"
@@ -60,12 +66,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011951"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125841719
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f8eac66a8670f5e78d63e1e6f57a8e26",
+    "wof:geomhash":"5d7f4b0c2576dac15e4977a518ffcb0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404439721,
     "wof:label":"Gravenhurst Civil Parish",
-    "wof:lastmodified":1566631923,
+    "wof:lastmodified":1695876985,
     "wof:name":"Gravenhurst",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

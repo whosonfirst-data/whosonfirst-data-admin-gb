@@ -10,12 +10,18 @@
     "geom:latitude":53.798496,
     "geom:longitude":-0.149083,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.79792,
     "lbl:longitude":-0.146013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Humbleton"
@@ -57,12 +63,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000419"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243200975
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f61fcc857ddf54999f3c34cad9962bdb",
+    "wof:geomhash":"73f6b4390441cf31e346b772694f3d52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404432143,
     "wof:label":"Humbleton Civil Parish",
-    "wof:lastmodified":1566633914,
+    "wof:lastmodified":1695877856,
     "wof:name":"Humbleton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

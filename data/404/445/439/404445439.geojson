@@ -10,12 +10,18 @@
     "geom:latitude":52.210831,
     "geom:longitude":-4.182657,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.204183,
     "lbl:longitude":-4.188079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ciliau Aeron Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000365"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310536693
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8c46e3d68fa32f58709313c5395b9c37",
+    "wof:geomhash":"5a31e0a3f58fb74f3f2fb86a4ab55ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404445439,
-    "wof:lastmodified":1566633336,
+    "wof:lastmodified":1695877610,
     "wof:name":"Ciliau Aeron Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

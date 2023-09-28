@@ -10,12 +10,18 @@
     "geom:latitude":53.304835,
     "geom:longitude":-1.477835,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.30564,
     "lbl:longitude":-1.474297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0631\u0648\u0646\u0641\u06cc\u0644\u062f"
@@ -84,12 +90,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002867"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125947719
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4f37af2531179e8688af271bddc0de88",
+    "wof:geomhash":"abeb18ea1b47c1833a1e880f4ce7513f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404432025,
     "wof:label":"Dronfield Civil Parish",
-    "wof:lastmodified":1566633872,
+    "wof:lastmodified":1695877845,
     "wof:name":"Dronfield",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

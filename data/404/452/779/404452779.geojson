@@ -10,12 +10,18 @@
     "geom:latitude":53.285114,
     "geom:longitude":-3.071633,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.286052,
     "lbl:longitude":-3.072471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0633\u062a\u0648\u0646"
@@ -87,12 +93,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011145"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871965
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dfbb989b3c5440a3c522c864ecc92a7d",
+    "wof:geomhash":"dd2dae5418d553bb481df261d3f94129",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404452779,
     "wof:label":"Neston Civil Parish",
-    "wof:lastmodified":1566632215,
+    "wof:lastmodified":1695877105,
     "wof:name":"Neston",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001825,
-    "geom:area_square_m":14157105.004347,
+    "geom:area_square_m":14157105.004348,
     "geom:bbox":"0.543500679166,51.1205005638,0.642165417112,51.1589546525",
     "geom:latitude":51.139042,
     "geom:longitude":0.59373,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.139372,
     "lbl:longitude":0.592974,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Frittenden"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005121"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879673
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d2cca9e958f6610111ded43069dcb59a",
+    "wof:geomhash":"a6472857e26381d3c0dea647d0dfa3ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404445805,
     "wof:label":"Frittenden Civil Parish",
-    "wof:lastmodified":1566633348,
+    "wof:lastmodified":1695877617,
     "wof:name":"Frittenden",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

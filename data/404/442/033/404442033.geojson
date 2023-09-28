@@ -10,12 +10,18 @@
     "geom:latitude":51.149863,
     "geom:longitude":-3.966793,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.150797,
     "lbl:longitude":-3.966205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Arlington"
@@ -168,12 +174,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003066"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125890597
     ],
     "wof:country":"GB",
-    "wof:geomhash":"52720ea408e0a69d4537411daa264efd",
+    "wof:geomhash":"d9a16cab7e88c46f0fc0d8cf2e8b0e64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +195,7 @@
     ],
     "wof:id":404442033,
     "wof:label":"Arlington Civil Parish",
-    "wof:lastmodified":1566633286,
+    "wof:lastmodified":1695877588,
     "wof:name":"Arlington",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

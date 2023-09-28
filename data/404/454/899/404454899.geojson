@@ -10,12 +10,18 @@
     "geom:latitude":51.952105,
     "geom:longitude":-1.184532,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.952085,
     "lbl:longitude":-1.184535,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stoke Lyne"
@@ -63,12 +69,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008084"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125942553
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc8f948a831f50c6fe0d3f34e3a60246",
+    "wof:geomhash":"85e6fe9cbe3a5e93bafc24e7f56175c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454899,
     "wof:label":"Stoke Lyne Civil Parish",
-    "wof:lastmodified":1566632731,
+    "wof:lastmodified":1695877342,
     "wof:name":"Stoke Lyne",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

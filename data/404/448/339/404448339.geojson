@@ -10,12 +10,18 @@
     "geom:latitude":54.03308,
     "geom:longitude":-1.537364,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.033494,
     "lbl:longitude":-1.535653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nidd"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007397"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125989473
     ],
     "wof:country":"GB",
-    "wof:geomhash":"58cdc9223a76550d18e65996f4c19427",
+    "wof:geomhash":"8729f95377dfb81b5b046ff12b676049",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448339,
     "wof:label":"Nidd Civil Parish",
-    "wof:lastmodified":1566631470,
+    "wof:lastmodified":1695876801,
     "wof:name":"Nidd",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.44941,
     "geom:longitude":-4.825252,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.447588,
     "lbl:longitude":-4.82482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u062b\u064a\u0644"
@@ -69,12 +75,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011610"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125891595
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9de615afcc4fc6203e38bfb71e72eb18",
+    "wof:geomhash":"da93fdba7e3c02c739724322c48be571",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404449735,
     "wof:label":"Withiel Civil Parish",
-    "wof:lastmodified":1566631409,
+    "wof:lastmodified":1695878342,
     "wof:name":"Withiel",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

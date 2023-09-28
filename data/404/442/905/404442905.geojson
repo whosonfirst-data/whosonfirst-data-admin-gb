@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000431,
-    "geom:area_square_m":3296851.899001,
+    "geom:area_square_m":3296851.899002,
     "geom:bbox":"-3.3700209537,51.7513865676,-3.32909081438,51.7682671453",
     "geom:latitude":51.76048,
     "geom:longitude":-3.348732,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.760034,
     "lbl:longitude":-3.350382,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dowlais Community"
@@ -40,12 +46,15 @@
         1360698803
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000715"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125874191
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1e81277ef4f535ca254b5450d38e143a",
+    "wof:geomhash":"e69464953a495b15fd555a90ec3bec67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442905,
-    "wof:lastmodified":1566633261,
+    "wof:lastmodified":1695877578,
     "wof:name":"Dowlais Community",
     "wof:parent_id":1360698803,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.099337,
     "geom:longitude":-1.658823,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.100478,
     "lbl:longitude":-1.659469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winterslow"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011867"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782619
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fc0106738732f5890abbbb653c33480d",
+    "wof:geomhash":"a9bb83c474d6bc8e45decccb002a1f11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404442037,
     "wof:label":"Winterslow Civil Parish",
-    "wof:lastmodified":1566633232,
+    "wof:lastmodified":1695877565,
     "wof:name":"Winterslow",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

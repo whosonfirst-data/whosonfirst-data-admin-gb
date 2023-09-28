@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002309,
-    "geom:area_square_m":17113031.312566,
+    "geom:area_square_m":17113031.312565,
     "geom:bbox":"-1.61185926201,53.1425119242,-1.53962884718,53.1962539923",
     "geom:latitude":53.170136,
     "geom:longitude":-1.572853,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.171484,
     "lbl:longitude":-1.569921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0627\u0631\u0644\u06cc \u062f\u06cc\u0644"
@@ -81,12 +87,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002744"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125990877
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d5826dc917018cfdade5d88c09180c3b",
+    "wof:geomhash":"b0695bedb9d87c474eeb504a4bf86d97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404430989,
     "wof:label":"Darley Dale Civil Parish",
-    "wof:lastmodified":1566632039,
+    "wof:lastmodified":1695877033,
     "wof:name":"Darley Dale",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

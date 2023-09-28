@@ -10,12 +10,18 @@
     "geom:latitude":51.307261,
     "geom:longitude":-2.31677,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.308684,
     "lbl:longitude":-2.313002,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norton St. Philip"
@@ -42,12 +48,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008575"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126011451
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7008b92c28d670658542f6969f222862",
+    "wof:geomhash":"aa4aade1e6f53d8da73efc05119071b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404439113,
     "wof:label":"Norton St. Philip Civil Parish",
-    "wof:lastmodified":1566631929,
+    "wof:lastmodified":1695876987,
     "wof:name":"Norton St. Philip",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

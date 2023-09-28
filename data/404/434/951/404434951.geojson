@@ -10,12 +10,18 @@
     "geom:latitude":54.029825,
     "geom:longitude":-1.39571,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.030885,
     "lbl:longitude":-1.395403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coneythorpe and Clareton"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007326"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756581
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e3572c8f70180a7f494e101e78be6842",
+    "wof:geomhash":"fdd45ff6b956c558bb96374ff0b09713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404434951,
     "wof:label":"Coneythorpe and Clareton Civil Parish",
-    "wof:lastmodified":1566633593,
+    "wof:lastmodified":1695877728,
     "wof:name":"Coneythorpe and Clareton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

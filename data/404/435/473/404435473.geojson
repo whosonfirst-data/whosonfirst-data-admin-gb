@@ -10,12 +10,18 @@
     "geom:latitude":51.307048,
     "geom:longitude":0.581238,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.316679,
     "lbl:longitude":0.590176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Detling"
@@ -63,12 +69,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004951"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125893639
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db5ee0dd551439f45405120ca5ea90ec",
+    "wof:geomhash":"2d7e65b38eb0367dc4ccc6e0e8070a78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404435473,
     "wof:label":"Detling Civil Parish",
-    "wof:lastmodified":1566634059,
+    "wof:lastmodified":1695877929,
     "wof:name":"Detling",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

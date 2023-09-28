@@ -10,12 +10,18 @@
     "geom:latitude":52.030476,
     "geom:longitude":-0.66169,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.032353,
     "lbl:longitude":-0.659304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0648\u0646\u062f\u0646"
@@ -75,12 +81,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012193"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126032115
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4aba7efffd1968208b69458c693d17d5",
+    "wof:geomhash":"882187329c1c70534d8871bab55c0700",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404439439,
     "wof:label":"Wavendon Civil Parish",
-    "wof:lastmodified":1566631858,
+    "wof:lastmodified":1695876953,
     "wof:name":"Wavendon",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

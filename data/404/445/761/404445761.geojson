@@ -10,12 +10,18 @@
     "geom:latitude":52.359247,
     "geom:longitude":-2.60666,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.359373,
     "lbl:longitude":-2.607869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hope Bagot"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011285"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293912533
     ],
     "wof:country":"GB",
-    "wof:geomhash":"52e7df26195eb4c7913c06823e5afe58",
+    "wof:geomhash":"dc58bb089788c56838ca75820dc0c97e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404445761,
     "wof:label":"Hope Bagot Civil Parish",
-    "wof:lastmodified":1566633377,
+    "wof:lastmodified":1695877629,
     "wof:name":"Hope Bagot",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

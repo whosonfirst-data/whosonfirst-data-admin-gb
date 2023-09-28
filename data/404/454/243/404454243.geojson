@@ -10,12 +10,18 @@
     "geom:latitude":53.2521,
     "geom:longitude":-0.181387,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.250578,
     "lbl:longitude":-0.180743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baumber"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005597"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344085849
     ],
     "wof:country":"GB",
-    "wof:geomhash":"85e4e9396e2d0f48892181140cf36436",
+    "wof:geomhash":"eaea79a7f5170f4aa4dbe5bfb98c9294",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454243,
     "wof:label":"Baumber Civil Parish",
-    "wof:lastmodified":1566632666,
+    "wof:lastmodified":1695877309,
     "wof:name":"Baumber",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

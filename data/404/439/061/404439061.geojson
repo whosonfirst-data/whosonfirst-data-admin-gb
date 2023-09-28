@@ -10,12 +10,18 @@
     "geom:latitude":51.375739,
     "geom:longitude":-1.787537,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.376571,
     "lbl:longitude":-1.787538,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huish"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011739"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242612895
     ],
     "wof:country":"GB",
-    "wof:geomhash":"50e5c8ea839a7550b9f07fd0cc998838",
+    "wof:geomhash":"887af07dd1bce245f800b27bf84708dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439061,
     "wof:label":"Huish Civil Parish",
-    "wof:lastmodified":1566631912,
+    "wof:lastmodified":1695876980,
     "wof:name":"Huish",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

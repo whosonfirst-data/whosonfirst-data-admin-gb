@@ -10,12 +10,18 @@
     "geom:latitude":50.776042,
     "geom:longitude":-3.946963,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.774916,
     "lbl:longitude":-3.947788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sampford Courtenay"
@@ -69,12 +75,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003345"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060399
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bf006904830db7a0dc7baa1c8762d6ce",
+    "wof:geomhash":"a67333cdaa7cdc45dd37e487a9d5fcab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404444031,
     "wof:label":"Sampford Courtenay Civil Parish",
-    "wof:lastmodified":1566632902,
+    "wof:lastmodified":1695877414,
     "wof:name":"Sampford Courtenay",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

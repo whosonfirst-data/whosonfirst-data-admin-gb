@@ -10,12 +10,18 @@
     "geom:latitude":51.358036,
     "geom:longitude":1.363765,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.360691,
     "lbl:longitude":1.372966,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manston"
@@ -60,12 +66,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005083"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125919123
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d6794c1fcf9ff228bcf66f14d3468f1c",
+    "wof:geomhash":"8ccc2f445d82507fc5731b67f6c19da6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404449421,
     "wof:label":"Manston Civil Parish",
-    "wof:lastmodified":1566631416,
+    "wof:lastmodified":1695876778,
     "wof:name":"Manston",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

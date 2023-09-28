@@ -10,12 +10,18 @@
     "geom:latitude":53.06748,
     "geom:longitude":-2.551817,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.066054,
     "lbl:longitude":-2.552753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Acan t\u016bn"
@@ -117,12 +123,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010889"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125853805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c1cc375218dfe72afa7030945d45730d",
+    "wof:geomhash":"a68842470ab62c92c8ef7969c9825e49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +144,7 @@
     ],
     "wof:id":404450065,
     "wof:label":"Acton Civil Parish",
-    "wof:lastmodified":1566633768,
+    "wof:lastmodified":1695877804,
     "wof:name":"Acton",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

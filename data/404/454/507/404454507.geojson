@@ -10,12 +10,18 @@
     "geom:latitude":53.018308,
     "geom:longitude":-2.978212,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.01866,
     "lbl:longitude":-2.974877,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marchwiel Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000899"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343690605
     ],
     "wof:country":"GB",
-    "wof:geomhash":"211668a93592ab9d950108f490c7b930",
+    "wof:geomhash":"cc07072d5a9c06187f0584b86dde74d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454507,
-    "wof:lastmodified":1566632702,
+    "wof:lastmodified":1695877328,
     "wof:name":"Marchwiel Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

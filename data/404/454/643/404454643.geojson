@@ -10,12 +10,18 @@
     "geom:latitude":53.743786,
     "geom:longitude":-1.251138,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.744105,
     "lbl:longitude":-1.252836,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burton Salmon"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007724"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125904397
     ],
     "wof:country":"GB",
-    "wof:geomhash":"539fd025ce7f40cc03472be5c38bbbc4",
+    "wof:geomhash":"e6258ae5e8e85b532022e00418ffece9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454643,
     "wof:label":"Burton Salmon Civil Parish",
-    "wof:lastmodified":1566632657,
+    "wof:lastmodified":1695877305,
     "wof:name":"Burton Salmon",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

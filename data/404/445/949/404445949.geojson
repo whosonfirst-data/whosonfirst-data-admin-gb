@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0012,
-    "geom:area_square_m":8966973.942785,
+    "geom:area_square_m":8966973.942786,
     "geom:bbox":"-1.27436419505,52.8040449623,-1.21621084998,52.840291135",
     "geom:latitude":52.823167,
     "geom:longitude":-1.246203,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.822066,
     "lbl:longitude":-1.246639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sutton Bonington"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008005"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125883169
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5b86c247b6bf9ac78f146778a95fe9c6",
+    "wof:geomhash":"d904b1e8ba80adb7f310eede057b0415",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404445949,
     "wof:label":"Sutton Bonington Civil Parish",
-    "wof:lastmodified":1566633358,
+    "wof:lastmodified":1695877622,
     "wof:name":"Sutton Bonington",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

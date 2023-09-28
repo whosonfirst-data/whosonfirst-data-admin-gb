@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002731,
-    "geom:area_square_m":21176957.016887,
+    "geom:area_square_m":21176957.016886,
     "geom:bbox":"0.567729905806,51.1412188177,0.678441682648,51.1975902506",
     "geom:latitude":51.170075,
     "geom:longitude":0.625485,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.166308,
     "lbl:longitude":0.616319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Headcorn"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004957"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853503
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f50531ea9c14089e0eab8d16a948e858",
+    "wof:geomhash":"f2a5c962e58db9f253c9b2042cad70e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404442623,
     "wof:label":"Headcorn Civil Parish",
-    "wof:lastmodified":1566633271,
+    "wof:lastmodified":1695877582,
     "wof:name":"Headcorn",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

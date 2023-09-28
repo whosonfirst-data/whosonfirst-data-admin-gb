@@ -10,12 +10,18 @@
     "geom:latitude":52.590252,
     "geom:longitude":-1.264207,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.589986,
     "lbl:longitude":-1.262059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thurlaston"
@@ -54,12 +60,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005362"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125901207
     ],
     "wof:country":"GB",
-    "wof:geomhash":"87833f879b7693de9fee0c4bd78cba55",
+    "wof:geomhash":"a1b91dd7efad530e60f3ffc0091b3b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404444695,
     "wof:label":"Thurlaston Civil Parish",
-    "wof:lastmodified":1566632909,
+    "wof:lastmodified":1695877418,
     "wof:name":"Thurlaston",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

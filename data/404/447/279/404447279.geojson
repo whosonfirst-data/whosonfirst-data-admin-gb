@@ -10,12 +10,18 @@
     "geom:latitude":51.577308,
     "geom:longitude":-2.518804,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.58039,
     "lbl:longitude":-2.520722,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alveston"
@@ -54,12 +60,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001040"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101875431
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dc6dfef67677c390faf31f2e975d520f",
+    "wof:geomhash":"893084fa77e1b90913756bed905bd992",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447279,
     "wof:label":"Alveston Civil Parish",
-    "wof:lastmodified":1566631306,
+    "wof:lastmodified":1695878298,
     "wof:name":"Alveston",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.474832,
     "geom:longitude":-4.301327,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.476642,
     "lbl:longitude":-4.305264,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Mellion"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011568"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125970437
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b5d427806dc7658ba5c1176d90188a78",
+    "wof:geomhash":"93078b47035526ae81c35f82a12a2218",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404431219,
     "wof:label":"St. Mellion Civil Parish",
-    "wof:lastmodified":1566632451,
+    "wof:lastmodified":1695877210,
     "wof:name":"St. Mellion",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

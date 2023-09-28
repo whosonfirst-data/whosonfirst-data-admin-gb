@@ -10,12 +10,18 @@
     "geom:latitude":51.150307,
     "geom:longitude":-3.419913,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.150255,
     "lbl:longitude":-3.417603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Withycombe"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008866"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126052681
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b0e6596a7d3f9cd9b87c8c0e1306acab",
+    "wof:geomhash":"62a527f1050d5f518ed25f44e17a489d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404443311,
     "wof:label":"Withycombe Civil Parish",
-    "wof:lastmodified":1566633080,
+    "wof:lastmodified":1695877495,
     "wof:name":"Withycombe",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

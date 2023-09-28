@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00523,
-    "geom:area_square_m":38856714.398286,
+    "geom:area_square_m":38856714.398279,
     "geom:bbox":"-4.22684881795,53.0307163984,-4.07525806764,53.1117480649",
     "geom:latitude":53.067029,
     "geom:longitude":-4.144197,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.057651,
     "lbl:longitude":-4.132741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Betws Garmon Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000050"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125884451
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3afb29c2ab2319635b467094f1a62741",
+    "wof:geomhash":"350c7c04aa3d201f297ae27c200d4f2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433123,
-    "wof:lastmodified":1566633731,
+    "wof:lastmodified":1695877789,
     "wof:name":"Betws Garmon Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

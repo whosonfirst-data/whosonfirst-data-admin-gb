@@ -10,12 +10,18 @@
     "geom:latitude":50.920466,
     "geom:longitude":0.478198,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.916544,
     "lbl:longitude":0.478195,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0639\u0631\u0643\u0629"
@@ -222,12 +228,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003796"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853471
     ],
     "wof:country":"GB",
-    "wof:geomhash":"43ad919910d35011f2dac1f7c5c56ea4",
+    "wof:geomhash":"e1d4193bba9e670899719c60b1ceeb59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -240,7 +249,7 @@
     ],
     "wof:id":404443631,
     "wof:label":"Battle Civil Parish",
-    "wof:lastmodified":1566633076,
+    "wof:lastmodified":1695877494,
     "wof:name":"Battle",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004869,
-    "geom:area_square_m":37428502.788512,
+    "geom:area_square_m":37428502.788515,
     "geom:bbox":"-3.76011539001,51.5271181047,-3.65014935296,51.6004785094",
     "geom:latitude":51.561618,
     "geom:longitude":-3.706007,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.562666,
     "lbl:longitude":-3.70705,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Margam Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000616"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125921805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"087aa4ba717bdc53aec54fed2d77bba2",
+    "wof:geomhash":"14d4ed94d5a9794c63fa5db3bb2fec60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437007,
-    "wof:lastmodified":1566632082,
+    "wof:lastmodified":1695877050,
     "wof:name":"Margam Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

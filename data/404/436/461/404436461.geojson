@@ -10,12 +10,18 @@
     "geom:latitude":51.15133,
     "geom:longitude":-3.004447,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.153933,
     "lbl:longitude":-3.00422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chilton Trinity"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008620"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125831453
     ],
     "wof:country":"GB",
-    "wof:geomhash":"604fdd37114234adb14eeb9d4c00bdf3",
+    "wof:geomhash":"ccc8cee0926aeef5e661e8e22effd4b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404436461,
     "wof:label":"Chilton Trinity Civil Parish",
-    "wof:lastmodified":1566632410,
+    "wof:lastmodified":1695877191,
     "wof:name":"Chilton Trinity",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

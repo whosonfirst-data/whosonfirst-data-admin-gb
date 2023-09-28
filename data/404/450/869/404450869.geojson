@@ -10,12 +10,18 @@
     "geom:latitude":53.084016,
     "geom:longitude":-0.996627,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.084687,
     "lbl:longitude":-0.994438,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Halam"
@@ -48,12 +54,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007909"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126048677
     ],
     "wof:country":"GB",
-    "wof:geomhash":"99736a5eb21cae9941746e52a02d6993",
+    "wof:geomhash":"f4f33046990080489ee39a6ba6152423",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404450869,
     "wof:label":"Halam Civil Parish",
-    "wof:lastmodified":1566633775,
+    "wof:lastmodified":1695877808,
     "wof:name":"Halam",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

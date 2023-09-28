@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001476,
-    "geom:area_square_m":11098356.592019,
+    "geom:area_square_m":11098356.592018,
     "geom:bbox":"0.947874774652,52.5118422851,1.01214619863,52.5547365871",
     "geom:latitude":52.533997,
     "geom:longitude":0.974369,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.529847,
     "lbl:longitude":0.968546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Ellingham"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006120"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242606781
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b3c60a8accbb02c7780f65f69b1819e9",
+    "wof:geomhash":"7d1bce4f8526856297f05ca09ef08a33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447443,
     "wof:label":"Great Ellingham Civil Parish",
-    "wof:lastmodified":1566631307,
+    "wof:lastmodified":1695878299,
     "wof:name":"Great Ellingham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

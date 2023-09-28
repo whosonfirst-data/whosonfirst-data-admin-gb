@@ -10,12 +10,18 @@
     "geom:latitude":51.078269,
     "geom:longitude":-1.127271,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.080325,
     "lbl:longitude":-1.126654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bishops Sutton"
@@ -57,12 +63,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004652"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992453
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c9b65805d830335e5450266861b42b0e",
+    "wof:geomhash":"dc5c342ea03ce7a05df6691a2c8fcac6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404437945,
     "wof:label":"Bishops Sutton Civil Parish",
-    "wof:lastmodified":1566632155,
+    "wof:lastmodified":1695877081,
     "wof:name":"Bishops Sutton",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

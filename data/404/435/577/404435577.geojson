@@ -10,12 +10,18 @@
     "geom:latitude":51.653726,
     "geom:longitude":-4.802363,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.652777,
     "lbl:longitude":-4.797884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manorbier Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000445"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125970241
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a75f3033128a0779610f2e1dedd0170a",
+    "wof:geomhash":"2fa59eb183953efc4774c6a1a428b2eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435577,
-    "wof:lastmodified":1566634085,
+    "wof:lastmodified":1695877943,
     "wof:name":"Manorbier Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

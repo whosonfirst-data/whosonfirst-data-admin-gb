@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000362,
-    "geom:area_square_m":2828798.98605,
+    "geom:area_square_m":2828798.986051,
     "geom:bbox":"-4.36598623274,50.8030475716,-4.33930580904,50.8233821641",
     "geom:latitude":50.814151,
     "geom:longitude":-4.353343,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.81458,
     "lbl:longitude":-4.353087,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0644\u0633\u0648\u0648\u0631\u062a\u06cc"
@@ -84,12 +90,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003268"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852619
     ],
     "wof:country":"GB",
-    "wof:geomhash":"57345d7ede7cfb3f43ee533c6767fba9",
+    "wof:geomhash":"a90f936cde37894686b751ecfdfd091e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404432621,
     "wof:label":"Holsworthy Civil Parish",
-    "wof:lastmodified":1566633867,
+    "wof:lastmodified":1695877844,
     "wof:name":"Holsworthy",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.700947,
     "geom:longitude":1.142897,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.701247,
     "lbl:longitude":1.141794,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Morton on the Hill"
@@ -62,12 +68,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006238"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756093
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f8f4d43fc9149dadcc97ada02593d531",
+    "wof:geomhash":"accaa8244900ebc266b15e60de906169",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +89,7 @@
     ],
     "wof:id":404451031,
     "wof:label":"Morton on the Hill Civil Parish",
-    "wof:lastmodified":1566633454,
+    "wof:lastmodified":1695877660,
     "wof:name":"Morton on the Hill",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

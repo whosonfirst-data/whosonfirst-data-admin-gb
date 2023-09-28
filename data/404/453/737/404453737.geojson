@@ -10,12 +10,18 @@
     "geom:latitude":53.217324,
     "geom:longitude":-2.883184,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.217475,
     "lbl:longitude":-2.883654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upton-By-Chester"
@@ -40,12 +46,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011182"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759511
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bd37f768ca68e6520785a2b80fdc4366",
+    "wof:geomhash":"b1df4955c5d7aabeb7067a58074f90ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404453737,
     "wof:label":"Upton-By-Chester Civil Parish",
-    "wof:lastmodified":1566632755,
+    "wof:lastmodified":1695877353,
     "wof:name":"Upton-By-Chester",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

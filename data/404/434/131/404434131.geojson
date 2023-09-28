@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001239,
-    "geom:area_square_m":9654303.918247,
+    "geom:area_square_m":9654303.918246,
     "geom:bbox":"-2.67154080424,50.9267292691,-2.59801980246,50.9565416893",
     "geom:latitude":50.943666,
     "geom:longitude":-2.636672,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.941965,
     "lbl:longitude":-2.640294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Yeovil"
@@ -117,12 +123,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008773"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852529
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9791d582c9f73601337092d3dd9b6c7d",
+    "wof:geomhash":"9dd6e205460fd53bb07add97128534e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +144,7 @@
     ],
     "wof:id":404434131,
     "wof:label":"Yeovil Civil Parish",
-    "wof:lastmodified":1566633587,
+    "wof:lastmodified":1695877725,
     "wof:name":"Yeovil",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

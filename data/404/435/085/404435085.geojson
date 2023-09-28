@@ -10,12 +10,18 @@
     "geom:latitude":53.224749,
     "geom:longitude":-1.34451,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.224134,
     "lbl:longitude":-1.34452,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sutton Cum Duckmanton"
@@ -40,12 +46,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002879"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756797
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b8385341b255f7f1611db761daef30a1",
+    "wof:geomhash":"aa25a97f25c8eb0a117ade6c7a1e8699",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404435085,
     "wof:label":"Sutton Cum Duckmanton Civil Parish",
-    "wof:lastmodified":1566634003,
+    "wof:lastmodified":1695877898,
     "wof:name":"Sutton Cum Duckmanton",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

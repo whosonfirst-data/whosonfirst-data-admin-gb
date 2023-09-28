@@ -10,12 +10,18 @@
     "geom:latitude":54.097298,
     "geom:longitude":-0.624948,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.093311,
     "lbl:longitude":-0.624009,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirby Grindalythe"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007594"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754103
     ],
     "wof:country":"GB",
-    "wof:geomhash":"28b85c33b117e225931d79c483260b26",
+    "wof:geomhash":"dbb131d363f8a9322eacaf70b06988a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404446627,
     "wof:label":"Kirby Grindalythe Civil Parish",
-    "wof:lastmodified":1566631622,
+    "wof:lastmodified":1695876857,
     "wof:name":"Kirby Grindalythe",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

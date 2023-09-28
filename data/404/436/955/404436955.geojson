@@ -10,12 +10,18 @@
     "geom:latitude":52.184442,
     "geom:longitude":0.797778,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.184354,
     "lbl:longitude":0.797385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bradfield St. Clare"
@@ -42,12 +48,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009292"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126047837
     ],
     "wof:country":"GB",
-    "wof:geomhash":"170b918416d32b08a31c067ed4151d43",
+    "wof:geomhash":"850899782d00811215124ef770d31855",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404436955,
     "wof:label":"Bradfield St. Clare Civil Parish",
-    "wof:lastmodified":1566632330,
+    "wof:lastmodified":1695877155,
     "wof:name":"Bradfield St. Clare",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

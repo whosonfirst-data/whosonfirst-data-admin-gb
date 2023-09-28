@@ -10,12 +10,18 @@
     "geom:latitude":52.180747,
     "geom:longitude":0.378074,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.169911,
     "lbl:longitude":0.402201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0631\u0648 \u063a\u0631\u064a\u0646"
@@ -60,12 +66,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001623"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125989713
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24167905645b1dec8f3a5e08239c4857",
+    "wof:geomhash":"011d263a87a7d369e86e7383234bed14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404450339,
     "wof:label":"Burrough Green Civil Parish",
-    "wof:lastmodified":1566633752,
+    "wof:lastmodified":1695877798,
     "wof:name":"Burrough Green",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

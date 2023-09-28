@@ -10,12 +10,18 @@
     "geom:latitude":52.952666,
     "geom:longitude":-0.023675,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.946567,
     "lbl:longitude":-0.007449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wyberton"
@@ -63,12 +69,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005587"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226675353
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b11b642d0fd908b21baa26681caffe41",
+    "wof:geomhash":"faa0c145a0d510b7d782fd7f0acce3f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404449993,
     "wof:label":"Wyberton Civil Parish",
-    "wof:lastmodified":1566631407,
+    "wof:lastmodified":1695878341,
     "wof:name":"Wyberton",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

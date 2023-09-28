@@ -10,12 +10,18 @@
     "geom:latitude":51.958856,
     "geom:longitude":-1.30397,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.958938,
     "lbl:longitude":-1.308601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Aston"
@@ -57,12 +63,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008070"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974497
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e93dca0e784178015fda5e43d93d033f",
+    "wof:geomhash":"597ff548aa3fe78793dca1a87b75ee36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454115,
     "wof:label":"North Aston Civil Parish",
-    "wof:lastmodified":1566632735,
+    "wof:lastmodified":1695877343,
     "wof:name":"North Aston",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

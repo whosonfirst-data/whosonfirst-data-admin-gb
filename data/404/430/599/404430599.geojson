@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001613,
-    "geom:area_square_m":12585716.913926,
+    "geom:area_square_m":12585716.913927,
     "geom:bbox":"-0.124311805539,50.8457569394,-0.0406743927022,50.8916519429",
     "geom:latitude":50.872832,
     "geom:longitude":-0.074626,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.870593,
     "lbl:longitude":-0.068288,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Falmer"
@@ -75,12 +81,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003771"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125902815
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9abaf6466626547b095bba5df0a612d2",
+    "wof:geomhash":"3094bbe830aad55e35cecc8c400bee59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404430599,
     "wof:label":"Falmer Civil Parish",
-    "wof:lastmodified":1566631997,
+    "wof:lastmodified":1695877014,
     "wof:name":"Falmer",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

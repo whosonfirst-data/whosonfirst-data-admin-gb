@@ -10,12 +10,18 @@
     "geom:latitude":51.887881,
     "geom:longitude":-2.206841,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.88987,
     "lbl:longitude":-2.204717,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Innsworth"
@@ -54,12 +60,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004408"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844293
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b3dcc2f258c337d9298ed8a352f8e562",
+    "wof:geomhash":"c1634e7d97036d63295c1f51a0382748",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430185,
     "wof:label":"Innsworth Civil Parish",
-    "wof:lastmodified":1566632048,
+    "wof:lastmodified":1695877036,
     "wof:name":"Innsworth",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

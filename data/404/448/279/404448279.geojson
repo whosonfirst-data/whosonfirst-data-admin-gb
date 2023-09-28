@@ -10,12 +10,18 @@
     "geom:latitude":51.555494,
     "geom:longitude":-3.045174,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.555207,
     "lbl:longitude":-3.043169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coedkernew Community"
@@ -40,12 +46,15 @@
         1360698735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000814"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974177
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cd9a81df9db3a548ec6c47c9ecf8db75",
+    "wof:geomhash":"b67b3fa73118bf487b1887e41c44bdd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404448279,
-    "wof:lastmodified":1566631539,
+    "wof:lastmodified":1695876830,
     "wof:name":"Coedkernew Community",
     "wof:parent_id":1360698735,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.727886,
     "geom:longitude":-1.585705,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.730755,
     "lbl:longitude":-1.58508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Milford-On-Sea"
@@ -42,12 +48,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004578"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852481
     ],
     "wof:country":"GB",
-    "wof:geomhash":"854ed6d3cdb73ea01fefea8f2ea38e2d",
+    "wof:geomhash":"5894c1985322f619f961ee94a8a6116d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404451173,
     "wof:label":"Milford-On-Sea Civil Parish",
-    "wof:lastmodified":1566633467,
+    "wof:lastmodified":1695877665,
     "wof:name":"Milford-On-Sea",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

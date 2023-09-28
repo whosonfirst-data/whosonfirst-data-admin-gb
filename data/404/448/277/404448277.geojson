@@ -10,12 +10,18 @@
     "geom:latitude":51.214215,
     "geom:longitude":1.13236,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.214168,
     "lbl:longitude":1.134833,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kingston"
@@ -199,12 +205,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004879"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756607
     ],
     "wof:country":"GB",
-    "wof:geomhash":"112b5abb811450f2af1d82c6b0519964",
+    "wof:geomhash":"220e17dec9d18cffa6567173834c4a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -217,7 +226,7 @@
     ],
     "wof:id":404448277,
     "wof:label":"Kingston Civil Parish",
-    "wof:lastmodified":1566631538,
+    "wof:lastmodified":1695876830,
     "wof:name":"Kingston",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

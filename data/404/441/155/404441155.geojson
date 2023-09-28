@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003453,
-    "geom:area_square_m":24367831.165193,
+    "geom:area_square_m":24367831.165192,
     "geom:bbox":"-2.04463736398,55.1760047109,-1.90710781048,55.2205917794",
     "geom:latitude":55.196517,
     "geom:longitude":-1.960441,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.197983,
     "lbl:longitude":-1.938585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rothley"
@@ -75,12 +81,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010857"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126050065
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2556696c4af1e164f46b4a2e915bd831",
+    "wof:geomhash":"1a0711c5a8b48ccc256bea8a7d267b6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404441155,
     "wof:label":"Rothley Civil Parish",
-    "wof:lastmodified":1566631782,
+    "wof:lastmodified":1695876918,
     "wof:name":"Rothley",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

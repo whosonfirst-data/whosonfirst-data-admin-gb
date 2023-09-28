@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002553,
-    "geom:area_square_m":19692069.395339,
+    "geom:area_square_m":19692069.39534,
     "geom:bbox":"-3.3185085405,51.3847699637,-3.23093602837,51.4313767253",
     "geom:latitude":51.40777,
     "geom:longitude":-3.274632,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.408562,
     "lbl:longitude":-3.274636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barry Community"
@@ -40,12 +46,15 @@
         1360698899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000650"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243583119
     ],
     "wof:country":"GB",
-    "wof:geomhash":"554174bf5cf752f3f7fecaec710162e4",
+    "wof:geomhash":"6adf1a244df536ffea76c15329ce2a66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433843,
-    "wof:lastmodified":1566633661,
+    "wof:lastmodified":1695877757,
     "wof:name":"Barry Community",
     "wof:parent_id":1360698899,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.226538,
     "geom:longitude":-0.261559,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.225785,
     "lbl:longitude":-0.261552,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Neots"
@@ -42,12 +48,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012037"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031581
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5a8c32608a4b34aa881c7b0a0ac77a8b",
+    "wof:geomhash":"840ac28fb53f9db8f2ca4c81460a3cfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404449225,
     "wof:label":"St. Neots Civil Parish",
-    "wof:lastmodified":1566631426,
+    "wof:lastmodified":1695876782,
     "wof:name":"St. Neots",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

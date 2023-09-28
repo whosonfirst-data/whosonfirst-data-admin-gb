@@ -10,12 +10,18 @@
     "geom:latitude":52.061406,
     "geom:longitude":-1.340413,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.063693,
     "lbl:longitude":-1.340402,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u0628\u0648\u0631\u064a"
@@ -127,12 +133,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008095"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101875471
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bbb4f0c9c2fc8987e0b11cc04e2190c3",
+    "wof:geomhash":"6e59aec79d1c2780b597e8020eb65ed8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +154,7 @@
     ],
     "wof:id":404436741,
     "wof:label":"Banbury Civil Parish",
-    "wof:lastmodified":1566632374,
+    "wof:lastmodified":1695877176,
     "wof:name":"Banbury",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

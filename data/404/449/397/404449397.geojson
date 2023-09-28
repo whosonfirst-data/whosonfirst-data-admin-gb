@@ -10,12 +10,18 @@
     "geom:latitude":50.650351,
     "geom:longitude":-1.282623,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.649754,
     "lbl:longitude":-1.282903,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rookley"
@@ -69,12 +75,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001309"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125877439
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4f41ea171000f5e05ba353ba95327b97",
+    "wof:geomhash":"dc4805fa59a0e6f1ab8d00a0cf542e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404449397,
     "wof:label":"Rookley Civil Parish",
-    "wof:lastmodified":1566631361,
+    "wof:lastmodified":1695878322,
     "wof:name":"Rookley",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006484,
-    "geom:area_square_m":49440355.158725,
+    "geom:area_square_m":49440355.158726,
     "geom:bbox":"-4.96187488517,51.902983707,-4.79291824957,51.9600556691",
     "geom:latitude":51.929491,
     "geom:longitude":-4.880223,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.931575,
     "lbl:longitude":-4.870174,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Puncheston Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000950"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309833413
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eac8dd2d5c707db92c03de4fca0e94bf",
+    "wof:geomhash":"28592e57ef7429969c2da8688427d04b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429595,
-    "wof:lastmodified":1566633099,
+    "wof:lastmodified":1695877504,
     "wof:name":"Puncheston Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

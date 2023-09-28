@@ -10,12 +10,18 @@
     "geom:latitude":53.652342,
     "geom:longitude":-2.556727,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.653416,
     "lbl:longitude":-2.560725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Anglezarke"
@@ -57,12 +63,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005141"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126020091
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fac8ea5009d45a2311eabfd1b54b37bc",
+    "wof:geomhash":"29142bfdaf9fd34b175a67862f6b3d8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404435659,
     "wof:label":"Anglezarke Civil Parish",
-    "wof:lastmodified":1566634018,
+    "wof:lastmodified":1695877906,
     "wof:name":"Anglezarke",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.29983,
     "geom:longitude":1.402025,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.297473,
     "lbl:longitude":1.399759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ubbeston"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009469"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125954095
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3e067847261637ce2e95f61c96641149",
+    "wof:geomhash":"c9cd4a2c373cc023367a16e2681106d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452109,
     "wof:label":"Ubbeston Civil Parish",
-    "wof:lastmodified":1566632221,
+    "wof:lastmodified":1695877108,
     "wof:name":"Ubbeston",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.060615,
     "geom:longitude":-0.818961,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.061188,
     "lbl:longitude":-0.8169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u0644\u0648\u0631\u062a\u0648\u0646 \u0648 \u0642\u0631\u06cc\u0646\u0644\u06cc\u0633"
@@ -67,12 +73,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012197"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758367
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6d9af30a7b6b3d53074877f0286f1276",
+    "wof:geomhash":"636e2d0a681150aedcc506a87b4d4dde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +94,7 @@
     ],
     "wof:id":404436227,
     "wof:label":"Wolverton and Greenleys Civil Parish",
-    "wof:lastmodified":1566632332,
+    "wof:lastmodified":1695877156,
     "wof:name":"Wolverton and Greenleys",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

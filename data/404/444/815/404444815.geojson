@@ -10,12 +10,18 @@
     "geom:latitude":51.307216,
     "geom:longitude":-1.934422,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.31358,
     "lbl:longitude":-1.931473,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Urchfont"
@@ -60,12 +66,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011846"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125927643
     ],
     "wof:country":"GB",
-    "wof:geomhash":"deed5fecf85e3140560590fb4acc84c1",
+    "wof:geomhash":"fdcd12dd906bbcad599c3236dfcd4eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444815,
     "wof:label":"Urchfont Civil Parish",
-    "wof:lastmodified":1566632948,
+    "wof:lastmodified":1695877433,
     "wof:name":"Urchfont",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

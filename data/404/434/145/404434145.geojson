@@ -10,12 +10,18 @@
     "geom:latitude":53.025078,
     "geom:longitude":-3.444891,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.023117,
     "lbl:longitude":-3.441947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Betws Gwerfil Goch Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000141"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711545
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fb20818fae04b909c79150e92ddc90f7",
+    "wof:geomhash":"fa430920977f2620b7baf7f651c891c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404434145,
-    "wof:lastmodified":1566633573,
+    "wof:lastmodified":1695877720,
     "wof:name":"Betws Gwerfil Goch Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

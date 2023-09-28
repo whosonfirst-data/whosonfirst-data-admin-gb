@@ -10,12 +10,18 @@
     "geom:latitude":51.991006,
     "geom:longitude":1.215399,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.991172,
     "lbl:longitude":1.214946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chelmondiston"
@@ -63,12 +69,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009081"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031615
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4343c0b2a2a463566af2a3d130420680",
+    "wof:geomhash":"f1b8ce7b5738a856f670ae4deda0cf24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404449251,
     "wof:label":"Chelmondiston Civil Parish",
-    "wof:lastmodified":1566631383,
+    "wof:lastmodified":1695878330,
     "wof:name":"Chelmondiston",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

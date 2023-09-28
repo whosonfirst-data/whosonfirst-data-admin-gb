@@ -10,12 +10,18 @@
     "geom:latitude":52.641079,
     "geom:longitude":-0.750458,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.639236,
     "lbl:longitude":-0.750849,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0440\u0443\u043a"
@@ -87,12 +93,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000633"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326759297
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a4e50442e868f05cfb9815f9c6008aff",
+    "wof:geomhash":"d476253a1b0112a6c3fb084afb9ad7c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404441491,
     "wof:label":"Brooke Civil Parish",
-    "wof:lastmodified":1566631756,
+    "wof:lastmodified":1695876907,
     "wof:name":"Brooke",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

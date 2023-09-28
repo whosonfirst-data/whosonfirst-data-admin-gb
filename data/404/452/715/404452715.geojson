@@ -10,12 +10,18 @@
     "geom:latitude":52.17301,
     "geom:longitude":0.945357,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.175328,
     "lbl:longitude":0.945771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Finborough"
@@ -60,12 +66,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010556"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125891559
     ],
     "wof:country":"GB",
-    "wof:geomhash":"613b1af58b8c87984118983aa75ac0cb",
+    "wof:geomhash":"d5881effa1b5ca730072a78d066fc279",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404452715,
     "wof:label":"Great Finborough Civil Parish",
-    "wof:lastmodified":1566632210,
+    "wof:lastmodified":1695877104,
     "wof:name":"Great Finborough",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

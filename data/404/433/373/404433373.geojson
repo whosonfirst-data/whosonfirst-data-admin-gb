@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001624,
-    "geom:area_square_m":11623102.142935,
+    "geom:area_square_m":11623102.142936,
     "geom:bbox":"-1.96407084402,54.6164925055,-1.8805992377,54.6496281959",
     "geom:latitude":54.628992,
     "geom:longitude":-1.922647,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.631585,
     "lbl:longitude":-1.910947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0631\u0627\u0636\u064a \u0627\u0644\u062e\u0634\u0628\u064a\u0629"
@@ -93,12 +99,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010721"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125943309
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bf97f66e5074bb7d81485250dd0543e6",
+    "wof:geomhash":"041ec333ce0e7d91ba1bed469ebe4f96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404433373,
     "wof:label":"Woodland Civil Parish",
-    "wof:lastmodified":1566633735,
+    "wof:lastmodified":1695877790,
     "wof:name":"Woodland",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

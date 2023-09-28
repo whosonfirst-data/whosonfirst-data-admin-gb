@@ -10,12 +10,18 @@
     "geom:latitude":52.348356,
     "geom:longitude":-1.136883,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.3456,
     "lbl:longitude":-1.136297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Crick"
@@ -54,12 +60,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006653"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853043
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3b9c8c09e6e0ceb474428c555cdc5f59",
+    "wof:geomhash":"da824595f9498118c85875ab93a3298d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429539,
     "wof:label":"Crick Civil Parish",
-    "wof:lastmodified":1566633142,
+    "wof:lastmodified":1695877524,
     "wof:name":"Crick",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

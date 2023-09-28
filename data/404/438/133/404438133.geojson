@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002355,
-    "geom:area_square_m":18124167.295514,
+    "geom:area_square_m":18124167.295515,
     "geom:bbox":"-3.76967290753,51.4971421664,-3.65366171353,51.5366159556",
     "geom:latitude":51.517316,
     "geom:longitude":-3.721016,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.515716,
     "lbl:longitude":-3.721016,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cornelly Community"
@@ -40,12 +46,15 @@
         1360699051
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000648"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711643
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8a7b8ae01f51fed862756c18e220f596",
+    "wof:geomhash":"38d4ed683645121960e3f8cc76ee0614",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438133,
-    "wof:lastmodified":1566632545,
+    "wof:lastmodified":1695877253,
     "wof:name":"Cornelly Community",
     "wof:parent_id":1360699051,
     "wof:placetype":"localadmin",

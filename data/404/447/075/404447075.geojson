@@ -10,12 +10,18 @@
     "geom:latitude":54.506137,
     "geom:longitude":-1.385449,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.507528,
     "lbl:longitude":-1.389667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aislaby"
@@ -55,12 +61,15 @@
         1360699087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000268"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754767
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9aa9efcd348993fd6ece88079c0d7655",
+    "wof:geomhash":"6f3be82e36969ad2f823847652fcd373",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404447075,
     "wof:label":"Aislaby Civil Parish",
-    "wof:lastmodified":1566631310,
+    "wof:lastmodified":1695878300,
     "wof:name":"Aislaby",
     "wof:parent_id":1360699087,
     "wof:placetype":"localadmin",

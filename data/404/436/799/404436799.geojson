@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002403,
-    "geom:area_square_m":18098403.099798,
+    "geom:area_square_m":18098403.099797,
     "geom:bbox":"-4.07405985781,52.4464406034,-3.99407087329,52.5027688063",
     "geom:latitude":52.473489,
     "geom:longitude":-4.028368,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.474003,
     "lbl:longitude":-4.014445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Geneu'r Glyn Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000368"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711697
     ],
     "wof:country":"GB",
-    "wof:geomhash":"74deb73c636e431d9608dff1d2691265",
+    "wof:geomhash":"9714a82f4c176f8f3aedbb69c2989e00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404436799,
-    "wof:lastmodified":1566632318,
+    "wof:lastmodified":1695877150,
     "wof:name":"Geneu'r Glyn Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000988,
-    "geom:area_square_m":7574695.383592,
+    "geom:area_square_m":7574695.383593,
     "geom:bbox":"-4.72685644001,51.629753339,-4.67441676091,51.6976552978",
     "geom:latitude":51.663792,
     "geom:longitude":-4.702293,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.67345,
     "lbl:longitude":-4.708155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tenby Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000478"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852995
     ],
     "wof:country":"GB",
-    "wof:geomhash":"13cf7e01b03b599971cb9c78b3d0af1e",
+    "wof:geomhash":"f3d482f0ceae1b85f31df79f2017127e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435111,
-    "wof:lastmodified":1566634026,
+    "wof:lastmodified":1695877910,
     "wof:name":"Tenby Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

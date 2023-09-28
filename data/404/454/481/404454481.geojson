@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001849,
-    "geom:area_square_m":13812045.136741,
+    "geom:area_square_m":13812045.13674,
     "geom:bbox":"-1.39779793117,52.8216854981,-1.31845344199,52.8690511595",
     "geom:latitude":52.84116,
     "geom:longitude":-1.355243,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.83842,
     "lbl:longitude":-1.352527,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Castle Donington"
@@ -78,12 +84,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005547"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125828111
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a2199aca3f4c23881a5d96bb0093a7b2",
+    "wof:geomhash":"8ea1ebc0b9d4eb6181f41afa10b1c8e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404454481,
     "wof:label":"Castle Donington Civil Parish",
-    "wof:lastmodified":1566632711,
+    "wof:lastmodified":1695877333,
     "wof:name":"Castle Donington",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

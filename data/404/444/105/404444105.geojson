@@ -10,12 +10,18 @@
     "geom:latitude":52.240451,
     "geom:longitude":-0.158156,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.240697,
     "lbl:longitude":-0.158598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yelling"
@@ -42,12 +48,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001755"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126036715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4d5561353ec23b2f88a18e0c4fd455ec",
+    "wof:geomhash":"30c4920306e437196b365f9936df28e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404444105,
     "wof:label":"Yelling Civil Parish",
-    "wof:lastmodified":1566632868,
+    "wof:lastmodified":1695877403,
     "wof:name":"Yelling",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

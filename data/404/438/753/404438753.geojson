@@ -10,12 +10,18 @@
     "geom:latitude":52.120294,
     "geom:longitude":-1.06933,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.120072,
     "lbl:longitude":-1.070541,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Slapton"
@@ -57,12 +63,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006856"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326765883
     ],
     "wof:country":"GB",
-    "wof:geomhash":"faaf8068a18f0ee1581237c2c42d3f83",
+    "wof:geomhash":"ad7a695c374d50f9d31f4ab02539213c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404438753,
     "wof:label":"Slapton Civil Parish",
-    "wof:lastmodified":1566632543,
+    "wof:lastmodified":1695877252,
     "wof:name":"Slapton",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

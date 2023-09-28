@@ -10,12 +10,18 @@
     "geom:latitude":54.647615,
     "geom:longitude":-1.577144,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.647246,
     "lbl:longitude":-1.586326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Windlestone"
@@ -40,12 +46,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010714"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755329
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d906b3549026655745ec37cf75bb3e66",
+    "wof:geomhash":"856bf6c2df66d2a6a1f4c62e15c5f44b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404439305,
     "wof:label":"Windlestone Civil Parish",
-    "wof:lastmodified":1566631894,
+    "wof:lastmodified":1695876971,
     "wof:name":"Windlestone",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

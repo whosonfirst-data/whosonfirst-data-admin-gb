@@ -10,12 +10,18 @@
     "geom:latitude":52.054861,
     "geom:longitude":0.222708,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.054333,
     "lbl:longitude":0.223156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Chesterford"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004148"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125989911
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e3a4cbc5c1f9f5526a85753933b274ce",
+    "wof:geomhash":"471e9a5fbb22a2c1b40d425921272b83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445575,
     "wof:label":"Little Chesterford Civil Parish",
-    "wof:lastmodified":1566633353,
+    "wof:lastmodified":1695877619,
     "wof:name":"Little Chesterford",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.701018,
     "geom:longitude":-2.291711,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.700777,
     "lbl:longitude":-2.28972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moreton"
@@ -65,9 +71,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04003480",
         "gn:id":7293407,
         "qs_pg:id":1040717
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758655
     ],
@@ -75,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7923b4d40ea9b815c124323fb836e2bd",
+    "wof:geomhash":"be96e874dea7a0ccb843aa5d867bedaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +96,7 @@
     ],
     "wof:id":404444051,
     "wof:label":"Moreton Civil Parish",
-    "wof:lastmodified":1582311119,
+    "wof:lastmodified":1695877975,
     "wof:name":"Moreton",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

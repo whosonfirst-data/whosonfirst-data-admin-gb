@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001762,
-    "geom:area_square_m":13046624.905211,
+    "geom:area_square_m":13046624.905212,
     "geom:bbox":"-1.61274130123,53.191556361,-1.51559358265,53.2230960792",
     "geom:latitude":53.206366,
     "geom:longitude":-1.572484,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.207974,
     "lbl:longitude":-1.573219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beeley"
@@ -60,12 +66,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002723"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125787739
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7545e6577251ff4ea15a9a5fede439db",
+    "wof:geomhash":"9c832a2539c038fd81bc366fcb37020b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404443239,
     "wof:label":"Beeley Civil Parish",
-    "wof:lastmodified":1566633070,
+    "wof:lastmodified":1695877491,
     "wof:name":"Beeley",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

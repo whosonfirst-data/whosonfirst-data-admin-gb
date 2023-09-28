@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000779,
-    "geom:area_square_m":5857869.867284,
+    "geom:area_square_m":5857869.867285,
     "geom:bbox":"-1.750928134,52.5188461307,-1.70503363983,52.5545607511",
     "geom:latitude":52.535694,
     "geom:longitude":-1.726109,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.535283,
     "lbl:longitude":-1.724543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0631\u062f\u0648\u0648\u0631\u062a"
@@ -66,12 +72,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009638"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800567
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db8b4f1ed379fa41aef2378c75859afe",
+    "wof:geomhash":"1b78e32dae45526643c23610f28532f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404452103,
     "wof:label":"Curdworth Civil Parish",
-    "wof:lastmodified":1566632165,
+    "wof:lastmodified":1695877084,
     "wof:name":"Curdworth",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

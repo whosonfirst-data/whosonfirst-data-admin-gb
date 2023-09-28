@@ -10,12 +10,18 @@
     "geom:latitude":51.896287,
     "geom:longitude":0.472811,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.896272,
     "lbl:longitude":0.472515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Saling"
@@ -60,12 +66,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003904"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125901789
     ],
     "wof:country":"GB",
-    "wof:geomhash":"defb7914b8c86396bb565b0a2a18b46c",
+    "wof:geomhash":"a5d64249f493d51cdf1c54d07c142843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404455021,
     "wof:label":"Great Saling Civil Parish",
-    "wof:lastmodified":1566632305,
+    "wof:lastmodified":1695877144,
     "wof:name":"Great Saling",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

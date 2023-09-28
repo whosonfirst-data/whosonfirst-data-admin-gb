@@ -10,12 +10,18 @@
     "geom:latitude":53.952889,
     "geom:longitude":-2.162567,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.950457,
     "lbl:longitude":-2.164992,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Martons Both"
@@ -49,12 +55,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007110"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755701
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d129a61b5cc89be1de38a9ca28d7912f",
+    "wof:geomhash":"f2b0baeaa1f54a1917593d9ad627afa0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404431287,
     "wof:label":"Martons Both Civil Parish",
-    "wof:lastmodified":1566632448,
+    "wof:lastmodified":1695877208,
     "wof:name":"Martons Both",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

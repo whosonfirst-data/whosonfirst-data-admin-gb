@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004631,
-    "geom:area_square_m":34770656.709096,
+    "geom:area_square_m":34770656.709099,
     "geom:bbox":"-3.1828987098,52.577246673,-3.05983358071,52.6599074283",
     "geom:latitude":52.616682,
     "geom:longitude":-3.122426,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.617133,
     "lbl:longitude":-3.118238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Forden with Leighton and Trelystan Community"
@@ -40,9 +46,12 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000273"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"f5fd34f5057e8bb0fbd6561d5609ff0a",
+    "wof:geomhash":"ecb9f34b0166fd572aff778eb69888d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404430285,
-    "wof:lastmodified":1566632016,
+    "wof:lastmodified":1695877021,
     "wof:name":"Forden with Leighton and Trelystan Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

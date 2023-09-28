@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001341,
-    "geom:area_square_m":10314099.939273,
+    "geom:area_square_m":10314099.939274,
     "geom:bbox":"-3.595447675,51.5298268667,-3.52869508675,51.5658442906",
     "geom:latitude":51.545129,
     "geom:longitude":-3.558469,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.547131,
     "lbl:longitude":-3.552395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Bride's Minor Community"
@@ -40,12 +46,15 @@
         1360699051
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000646"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9da880c21c9df96a428a4990fa74e9a6",
+    "wof:geomhash":"eb6e347109535b3627e96040a0533807",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404432247,
-    "wof:lastmodified":1566633941,
+    "wof:lastmodified":1695877870,
     "wof:name":"St. Bride's Minor Community",
     "wof:parent_id":1360699051,
     "wof:placetype":"localadmin",

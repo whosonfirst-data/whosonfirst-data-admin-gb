@@ -10,12 +10,18 @@
     "geom:latitude":50.866504,
     "geom:longitude":-3.009087,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.867216,
     "lbl:longitude":-3.002483,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wambrook"
@@ -57,12 +63,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008762"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343290733
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e59a22a274f309b703c3417e64d8b14e",
+    "wof:geomhash":"afb6476494f56aec2226cb46dc49431c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431283,
     "wof:label":"Wambrook Civil Parish",
-    "wof:lastmodified":1566632496,
+    "wof:lastmodified":1695877230,
     "wof:name":"Wambrook",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

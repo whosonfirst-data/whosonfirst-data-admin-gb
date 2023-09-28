@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000817,
-    "geom:area_square_m":6194596.991377,
+    "geom:area_square_m":6194596.991376,
     "geom:bbox":"0.725010939813,52.1819774763,0.77478414753,52.2186096594",
     "geom:latitude":52.198248,
     "geom:longitude":0.747743,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.200446,
     "lbl:longitude":0.745289,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Whelnetham"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009315"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126001365
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1a5956864a89232e41883bd01de21f21",
+    "wof:geomhash":"9fa6b295b37691330d4d65014c420fe0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431891,
     "wof:label":"Great Whelnetham Civil Parish",
-    "wof:lastmodified":1566632514,
+    "wof:lastmodified":1695877238,
     "wof:name":"Great Whelnetham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

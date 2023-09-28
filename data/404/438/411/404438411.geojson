@@ -10,12 +10,18 @@
     "geom:latitude":50.815039,
     "geom:longitude":-2.283179,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.810873,
     "lbl:longitude":-2.277879,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Milton Abbas"
@@ -72,12 +78,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003429"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125987665
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5bf67ed4a2d3e85f204769d09decf58f",
+    "wof:geomhash":"9607c5d0478870b2822e9702708dcea9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404438411,
     "wof:label":"Milton Abbas Civil Parish",
-    "wof:lastmodified":1566632608,
+    "wof:lastmodified":1695877281,
     "wof:name":"Milton Abbas",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

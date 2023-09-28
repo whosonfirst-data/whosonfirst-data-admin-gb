@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001864,
-    "geom:area_square_m":14469429.263542,
+    "geom:area_square_m":14469429.263541,
     "geom:bbox":"1.25799492098,51.101612223,1.34407316931,51.150826409",
     "geom:latitude":51.125138,
     "geom:longitude":1.29391,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.126351,
     "lbl:longitude":1.293921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dover"
@@ -222,12 +228,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004932"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854657
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8641c7fe398e84b580ae4902dd4be6d0",
+    "wof:geomhash":"cbd6611bde062a8d9f885c5960c805f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -240,7 +249,7 @@
     ],
     "wof:id":404452329,
     "wof:label":"Dover Civil Parish",
-    "wof:lastmodified":1566632258,
+    "wof:lastmodified":1695877124,
     "wof:name":"Dover",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

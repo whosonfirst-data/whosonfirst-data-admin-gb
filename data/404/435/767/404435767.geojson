@@ -10,12 +10,18 @@
     "geom:latitude":52.644393,
     "geom:longitude":-1.628866,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.645238,
     "lbl:longitude":-1.626624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shuttington"
@@ -60,12 +66,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009657"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125912553
     ],
     "wof:country":"GB",
-    "wof:geomhash":"29107e309c04f0d01d1f5640c6383aba",
+    "wof:geomhash":"21c33fa4dcae93b8488b0b4fe019e069",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404435767,
     "wof:label":"Shuttington Civil Parish",
-    "wof:lastmodified":1566634037,
+    "wof:lastmodified":1695877917,
     "wof:name":"Shuttington",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

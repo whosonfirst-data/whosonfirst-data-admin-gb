@@ -10,12 +10,18 @@
     "geom:latitude":51.876472,
     "geom:longitude":-0.283912,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.878765,
     "lbl:longitude":-0.279206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Paul's Walden"
@@ -45,12 +51,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004795"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125820113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7b5da954ef39d8cb7fd5fc2ff06e0e79",
+    "wof:geomhash":"99feed8975a962542d56460817ce5e76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404454993,
     "wof:label":"St. Paul's Walden Civil Parish",
-    "wof:lastmodified":1566632700,
+    "wof:lastmodified":1695877327,
     "wof:name":"St. Paul's Walden",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

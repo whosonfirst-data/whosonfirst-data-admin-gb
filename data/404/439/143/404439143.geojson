@@ -10,12 +10,18 @@
     "geom:latitude":52.885832,
     "geom:longitude":-1.562024,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.886324,
     "lbl:longitude":-1.561692,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burnaston"
@@ -66,12 +72,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002891"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125857131
     ],
     "wof:country":"GB",
-    "wof:geomhash":"549d882cdc7d5a7a8c5d069d1a203d53",
+    "wof:geomhash":"1d51e64fc6a3926e12d937b57454e16c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404439143,
     "wof:label":"Burnaston Civil Parish",
-    "wof:lastmodified":1566631876,
+    "wof:lastmodified":1695876962,
     "wof:name":"Burnaston",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

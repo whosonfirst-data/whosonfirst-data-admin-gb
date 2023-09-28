@@ -10,12 +10,18 @@
     "geom:latitude":53.480221,
     "geom:longitude":-0.52389,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.479756,
     "lbl:longitude":-0.523894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Redbourne"
@@ -61,9 +67,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04000574",
         "gn:id":7290738,
         "qs_pg:id":1154349
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125914659
     ],
@@ -71,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7af97d5ca162cb15ea410c664096107e",
+    "wof:geomhash":"a61386b44eb51f1a95e17aaf3a96b33e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +92,7 @@
     ],
     "wof:id":404447899,
     "wof:label":"Redbourne Civil Parish",
-    "wof:lastmodified":1582311054,
+    "wof:lastmodified":1695877949,
     "wof:name":"Redbourne",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

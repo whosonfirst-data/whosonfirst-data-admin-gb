@@ -10,12 +10,18 @@
     "geom:latitude":52.309206,
     "geom:longitude":-0.169529,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.305508,
     "lbl:longitude":-0.165296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Godmundesceaster"
@@ -97,12 +103,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001701"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101875495
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f005161d4aa4d5fab3525a7a7d228276",
+    "wof:geomhash":"d916be8a011abbf2a2c9f0d2efaa4e58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +124,7 @@
     ],
     "wof:id":404434547,
     "wof:label":"Godmanchester Civil Parish",
-    "wof:lastmodified":1566633627,
+    "wof:lastmodified":1695877742,
     "wof:name":"Godmanchester",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

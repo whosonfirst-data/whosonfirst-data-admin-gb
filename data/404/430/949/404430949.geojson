@@ -10,12 +10,18 @@
     "geom:latitude":52.009141,
     "geom:longitude":-0.530005,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.007947,
     "lbl:longitude":-0.530005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0628\u0628\u064a\u0646\u063a\u0644\u064a"
@@ -69,12 +75,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011986"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125789145
     ],
     "wof:country":"GB",
-    "wof:geomhash":"225ffe8a3aaf7298c91e3f5c1f1ec2a4",
+    "wof:geomhash":"2e566063ef0fb96d2349220316b0c46a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404430949,
     "wof:label":"Steppingley Civil Parish",
-    "wof:lastmodified":1566631987,
+    "wof:lastmodified":1695877011,
     "wof:name":"Steppingley",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

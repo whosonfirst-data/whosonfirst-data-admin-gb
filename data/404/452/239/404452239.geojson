@@ -10,12 +10,18 @@
     "geom:latitude":54.029447,
     "geom:longitude":-0.414037,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.043571,
     "lbl:longitude":-0.418439,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nafferton"
@@ -63,12 +69,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000440"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125942097
     ],
     "wof:country":"GB",
-    "wof:geomhash":"61b67aae2fad6a0794cb8f22b0ea69ba",
+    "wof:geomhash":"c1ee66cf83fef900147cfb41d59d8b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404452239,
     "wof:label":"Nafferton Civil Parish",
-    "wof:lastmodified":1566632249,
+    "wof:lastmodified":1695877120,
     "wof:name":"Nafferton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

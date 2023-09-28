@@ -10,12 +10,18 @@
     "geom:latitude":52.698438,
     "geom:longitude":-1.08567,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.697831,
     "lbl:longitude":-1.087943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0633\u062a\u0648\u0646"
@@ -72,12 +78,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005390"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125918707
     ],
     "wof:country":"GB",
-    "wof:geomhash":"44d5f137574f58b9df71dcf50293cf3a",
+    "wof:geomhash":"2beda7f0157118418cdf6b67269a9af9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404440611,
     "wof:label":"Syston Civil Parish",
-    "wof:lastmodified":1566631150,
+    "wof:lastmodified":1695878226,
     "wof:name":"Syston",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

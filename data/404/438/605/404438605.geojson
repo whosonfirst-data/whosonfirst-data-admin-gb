@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002059,
-    "geom:area_square_m":14991520.850406,
+    "geom:area_square_m":14991520.850405,
     "geom:bbox":"-0.518792946936,53.9068305292,-0.384109804411,53.9398679303",
     "geom:latitude":53.922871,
     "geom:longitude":-0.454127,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.922873,
     "lbl:longitude":-0.458712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Beswick"
@@ -51,12 +57,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000355"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125988285
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c4537b938daad32c2aa892d9692df49a",
+    "wof:geomhash":"72667c8835a8f6c2eccf7f7f0f37a3ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404438605,
     "wof:label":"Beswick Civil Parish",
-    "wof:lastmodified":1566632564,
+    "wof:lastmodified":1695877262,
     "wof:name":"Beswick",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

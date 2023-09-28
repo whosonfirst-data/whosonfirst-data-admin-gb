@@ -10,12 +10,18 @@
     "geom:latitude":53.770597,
     "geom:longitude":-1.418949,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.780545,
     "lbl:longitude":-1.418502,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Swillington"
@@ -60,12 +66,15 @@
         1360698749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000209"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868735
     ],
     "wof:country":"GB",
-    "wof:geomhash":"54a2ca7a368dbe83000cdd14df219297",
+    "wof:geomhash":"cb2509714844c82b63654d3c93dbdf1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445505,
     "wof:label":"Swillington Civil Parish",
-    "wof:lastmodified":1566633311,
+    "wof:lastmodified":1695877599,
     "wof:name":"Swillington",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

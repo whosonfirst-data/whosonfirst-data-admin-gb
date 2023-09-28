@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000825,
-    "geom:area_square_m":6260371.830093,
+    "geom:area_square_m":6260371.830094,
     "geom:bbox":"-1.59844406181,52.1125459803,-1.53194797776,52.1484491452",
     "geom:latitude":52.128496,
     "geom:longitude":-1.570064,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.126933,
     "lbl:longitude":-1.572824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pillerton Priors"
@@ -42,12 +48,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009767"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059873
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d87034613903b29d63d99850eb750f38",
+    "wof:geomhash":"2b76f89a88a15c6bd3d2604dd12f9976",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404442395,
     "wof:label":"Pillerton Priors Civil Parish",
-    "wof:lastmodified":1566633251,
+    "wof:lastmodified":1695877574,
     "wof:name":"Pillerton Priors",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

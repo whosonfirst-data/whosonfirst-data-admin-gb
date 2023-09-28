@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000593,
-    "geom:area_square_m":4586766.652959,
+    "geom:area_square_m":4586766.652958,
     "geom:bbox":"-2.29892758932,51.2740850408,-2.24844567212,51.2962013991",
     "geom:latitude":51.284185,
     "geom:longitude":-2.272637,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.286599,
     "lbl:longitude":-2.272255,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rode"
@@ -81,12 +87,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008580"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126056941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"19a575ad6becf170d400d032350b7795",
+    "wof:geomhash":"8b442756d89184f66383b54022c82048",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404440333,
     "wof:label":"Rode Civil Parish",
-    "wof:lastmodified":1566631190,
+    "wof:lastmodified":1695878244,
     "wof:name":"Rode",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003531,
-    "geom:area_square_m":26157243.909697,
+    "geom:area_square_m":26157243.909698,
     "geom:bbox":"-4.46037573559,53.154979087,-4.34525310436,53.2214448971",
     "geom:latitude":53.192318,
     "geom:longitude":-4.408708,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.197619,
     "lbl:longitude":-4.412602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bodorgan Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000006"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125966079
     ],
     "wof:country":"GB",
-    "wof:geomhash":"11dc618507a627a4e5bfc279fe9e798d",
+    "wof:geomhash":"24592bebba86e58f76dae1228c7c0541",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437601,
-    "wof:lastmodified":1566632140,
+    "wof:lastmodified":1695877074,
     "wof:name":"Bodorgan Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

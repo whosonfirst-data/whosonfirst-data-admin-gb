@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002521,
-    "geom:area_square_m":18907395.637019,
+    "geom:area_square_m":18907395.63702,
     "geom:bbox":"-1.49402160537,52.6310810112,-1.40192322224,52.6839585364",
     "geom:latitude":52.656375,
     "geom:longitude":-1.444186,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.650331,
     "lbl:longitude":-1.451161,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shackerstone"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005506"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125805277
     ],
     "wof:country":"GB",
-    "wof:geomhash":"96ceadfc1044effb6ac2be15730d58f7",
+    "wof:geomhash":"1558b05aee063aa2761cadc2fc854522",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447525,
     "wof:label":"Shackerstone Civil Parish",
-    "wof:lastmodified":1566631338,
+    "wof:lastmodified":1695878313,
     "wof:name":"Shackerstone",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

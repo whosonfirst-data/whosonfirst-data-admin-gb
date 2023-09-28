@@ -10,12 +10,18 @@
     "geom:latitude":51.1712,
     "geom:longitude":-1.126619,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.16922,
     "lbl:longitude":-1.128691,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Preston Candover"
@@ -63,12 +69,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004473"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977233
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24a8e43a70a754c346df3fd5cc4ebf6e",
+    "wof:geomhash":"232386bbbbd5538f7fca4e33e737ac08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404449165,
     "wof:label":"Preston Candover Civil Parish",
-    "wof:lastmodified":1566631403,
+    "wof:lastmodified":1695878339,
     "wof:name":"Preston Candover",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

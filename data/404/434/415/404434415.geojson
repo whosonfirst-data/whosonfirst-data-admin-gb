@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001315,
-    "geom:area_square_m":10027026.318167,
+    "geom:area_square_m":10027026.318166,
     "geom:bbox":"-2.81588397644,51.9185474892,-2.7527047258,51.9506379565",
     "geom:latitude":51.934892,
     "geom:longitude":-2.785077,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.935682,
     "lbl:longitude":-2.78448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Orcop"
@@ -58,12 +64,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000846"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755743
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3b1214d314f55464ee32111c4a8aa6bc",
+    "wof:geomhash":"52b1d2532ce544edb63462aa0e687427",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404434415,
     "wof:label":"Orcop Civil Parish",
-    "wof:lastmodified":1566633557,
+    "wof:lastmodified":1695877712,
     "wof:name":"Orcop",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

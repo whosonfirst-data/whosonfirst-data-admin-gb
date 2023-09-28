@@ -10,12 +10,18 @@
     "geom:latitude":52.099807,
     "geom:longitude":-2.879626,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.099482,
     "lbl:longitude":-2.88444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mansell Gamage"
@@ -52,12 +58,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000824"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759487
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3de4d3d17e3641182462ec8b3baeda4c",
+    "wof:geomhash":"1deed969d9f90813d9e1020374eaf91b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404453715,
     "wof:label":"Mansell Gamage Civil Parish",
-    "wof:lastmodified":1566632799,
+    "wof:lastmodified":1695877373,
     "wof:name":"Mansell Gamage",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

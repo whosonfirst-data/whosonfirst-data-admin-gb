@@ -10,12 +10,18 @@
     "geom:latitude":52.218654,
     "geom:longitude":-2.523247,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.218934,
     "lbl:longitude":-2.525569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Edwyn Ralph"
@@ -40,12 +46,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000752"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753931
     ],
     "wof:country":"GB",
-    "wof:geomhash":"01c1613464946f143b1214b70db31b50",
+    "wof:geomhash":"36e750c6e07eafbfaa81110e291420f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404454633,
     "wof:label":"Edwyn Ralph Civil Parish",
-    "wof:lastmodified":1566632669,
+    "wof:lastmodified":1695877311,
     "wof:name":"Edwyn Ralph",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

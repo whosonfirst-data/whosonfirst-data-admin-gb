@@ -10,12 +10,18 @@
     "geom:latitude":53.314806,
     "geom:longitude":-1.00032,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.314985,
     "lbl:longitude":-1.000325,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Babworth"
@@ -57,12 +63,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007788"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126053773
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d56028d182ebf41829621089a93148be",
+    "wof:geomhash":"d1f0398ae556a95809791a149a79cba8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446351,
     "wof:label":"Babworth Civil Parish",
-    "wof:lastmodified":1566631660,
+    "wof:lastmodified":1695876870,
     "wof:name":"Babworth",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

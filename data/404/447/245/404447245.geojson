@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001549,
-    "geom:area_square_m":11161483.202373,
+    "geom:area_square_m":11161483.202372,
     "geom:bbox":"-0.961493698169,54.3335632436,-0.857508463465,54.4064998447",
     "geom:latitude":54.363859,
     "geom:longitude":-0.922619,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.354829,
     "lbl:longitude":-0.919085,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rosedale West Side"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007621"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754995
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7650ff01766ec9356eb4fcb1f86e8156",
+    "wof:geomhash":"9623e96f2dbb208806a29ecd3d3e46a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404447245,
     "wof:label":"Rosedale West Side Civil Parish",
-    "wof:lastmodified":1566631256,
+    "wof:lastmodified":1695878274,
     "wof:name":"Rosedale West Side",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

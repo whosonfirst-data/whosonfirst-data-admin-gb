@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000367,
-    "geom:area_square_m":2791337.578522,
+    "geom:area_square_m":2791337.578523,
     "geom:bbox":"-0.704842932087,52.0408016674,-0.65840869412,52.0605965271",
     "geom:latitude":52.048508,
     "geom:longitude":-0.683905,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.047158,
     "lbl:longitude":-0.684255,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Broughton"
@@ -87,12 +93,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012179"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293516785
     ],
     "wof:country":"GB",
-    "wof:geomhash":"496a76195db58247e8a7fe10ba668899",
+    "wof:geomhash":"25d6d31ccf396d9eac8fc4bdca3f3fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404433647,
     "wof:label":"Broughton Civil Parish",
-    "wof:lastmodified":1566633709,
+    "wof:lastmodified":1695877779,
     "wof:name":"Broughton",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

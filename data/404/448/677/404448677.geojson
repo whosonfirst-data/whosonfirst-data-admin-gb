@@ -10,12 +10,18 @@
     "geom:latitude":53.569185,
     "geom:longitude":-0.695027,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.566616,
     "lbl:longitude":-0.694771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashby Parkland"
@@ -46,12 +52,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000591"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757261
     ],
     "wof:country":"GB",
-    "wof:geomhash":"14570d8aeda2edddb924e0c6abbe83aa",
+    "wof:geomhash":"6cce9bac2c65251d4d0fb721a4a0b4be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404448677,
     "wof:label":"Ashby Parkland Civil Parish",
-    "wof:lastmodified":1566631547,
+    "wof:lastmodified":1695876835,
     "wof:name":"Ashby Parkland",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

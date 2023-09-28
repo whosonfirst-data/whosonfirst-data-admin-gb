@@ -10,12 +10,18 @@
     "geom:latitude":52.085518,
     "geom:longitude":-1.88788,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.086053,
     "lbl:longitude":-1.886586,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Badsey"
@@ -60,12 +66,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010359"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125963019
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9eb5d74ed98ac3f656828317ee85f578",
+    "wof:geomhash":"d8be6c549d2d4d406ed557a6a8aec3c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444041,
     "wof:label":"Badsey Civil Parish",
-    "wof:lastmodified":1566632878,
+    "wof:lastmodified":1695877408,
     "wof:name":"Badsey",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

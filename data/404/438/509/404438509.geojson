@@ -10,12 +10,18 @@
     "geom:latitude":52.145556,
     "geom:longitude":1.473421,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.144098,
     "lbl:longitude":1.472792,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tunstall"
@@ -72,12 +78,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009468"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125841607
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4c93fe4331d11c09751359711ea245ba",
+    "wof:geomhash":"fb66f5231b99f57fab954aaf8dabf219",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404438509,
     "wof:label":"Tunstall Civil Parish",
-    "wof:lastmodified":1566632598,
+    "wof:lastmodified":1695877276,
     "wof:name":"Tunstall",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

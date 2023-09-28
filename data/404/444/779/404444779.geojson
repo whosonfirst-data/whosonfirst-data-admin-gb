@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000516,
-    "geom:area_square_m":3907323.027925,
+    "geom:area_square_m":3907323.027926,
     "geom:bbox":"0.645553814464,52.2395093441,0.685250309262,52.2587550502",
     "geom:latitude":52.250216,
     "geom:longitude":0.663161,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.248964,
     "lbl:longitude":0.662777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Westley"
@@ -60,12 +66,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009357"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974297
     ],
     "wof:country":"GB",
-    "wof:geomhash":"40cffb8bb65c85da098f0a9912d79da9",
+    "wof:geomhash":"873cbf52baf7d0a599116c5381203563",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444779,
     "wof:label":"Westley Civil Parish",
-    "wof:lastmodified":1566632923,
+    "wof:lastmodified":1695877423,
     "wof:name":"Westley",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

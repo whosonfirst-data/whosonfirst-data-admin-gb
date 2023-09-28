@@ -10,12 +10,18 @@
     "geom:latitude":51.723384,
     "geom:longitude":-0.532049,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.723695,
     "lbl:longitude":-0.532051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bovingdon"
@@ -66,12 +72,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004698"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854789
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8942befac14442ecd62e199fa72d5bf3",
+    "wof:geomhash":"628875fba16754bc717ad09bf9a260af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404450167,
     "wof:label":"Bovingdon Civil Parish",
-    "wof:lastmodified":1566633754,
+    "wof:lastmodified":1695877798,
     "wof:name":"Bovingdon",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

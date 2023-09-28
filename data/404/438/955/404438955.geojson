@@ -10,12 +10,18 @@
     "geom:latitude":51.102981,
     "geom:longitude":0.998943,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.105203,
     "lbl:longitude":0.995503,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sellindge"
@@ -69,12 +75,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005034"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125784797
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7d91fd2b7fc0c25c234991f4d76b10bc",
+    "wof:geomhash":"1de49b9d0cde19c78552b94b2bca275f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404438955,
     "wof:label":"Sellindge Civil Parish",
-    "wof:lastmodified":1566632548,
+    "wof:lastmodified":1695877255,
     "wof:name":"Sellindge",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

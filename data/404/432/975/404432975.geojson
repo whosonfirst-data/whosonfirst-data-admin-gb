@@ -10,12 +10,18 @@
     "geom:latitude":51.180044,
     "geom:longitude":-1.035654,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.178975,
     "lbl:longitude":-1.035086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lasham"
@@ -63,12 +69,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004512"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125975871
     ],
     "wof:country":"GB",
-    "wof:geomhash":"edf86165edc74864682df1e07e4c89f1",
+    "wof:geomhash":"0b92a4c57662260315f16543c5951964",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432975,
     "wof:label":"Lasham Civil Parish",
-    "wof:lastmodified":1566633976,
+    "wof:lastmodified":1695877884,
     "wof:name":"Lasham",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

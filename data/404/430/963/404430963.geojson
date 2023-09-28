@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008686,
-    "geom:area_square_m":62961230.113112,
+    "geom:area_square_m":62961230.113111,
     "geom:bbox":"-3.17489732166,54.0442552518,-3.02544039377,54.1573598605",
     "geom:latitude":54.109523,
     "geom:longitude":-3.091648,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.134679,
     "lbl:longitude":-3.0928,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aldingham"
@@ -60,12 +66,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002584"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125902791
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bca1feb14bcdc53a928144d057f9cda4",
+    "wof:geomhash":"1353466b156ccf3057aaa03cad544e92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430963,
     "wof:label":"Aldingham Civil Parish",
-    "wof:lastmodified":1566631943,
+    "wof:lastmodified":1695876993,
     "wof:name":"Aldingham",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

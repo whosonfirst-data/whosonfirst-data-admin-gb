@@ -10,12 +10,18 @@
     "geom:latitude":52.216827,
     "geom:longitude":1.12565,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.21714,
     "lbl:longitude":1.12795,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mickfield"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009229"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259712465
     ],
     "wof:country":"GB",
-    "wof:geomhash":"66e397554ea266b3f616989806abc9ae",
+    "wof:geomhash":"c866a7889979bfd8af9ce0771183f9a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447129,
     "wof:label":"Mickfield Civil Parish",
-    "wof:lastmodified":1566631281,
+    "wof:lastmodified":1695878286,
     "wof:name":"Mickfield",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

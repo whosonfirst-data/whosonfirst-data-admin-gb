@@ -10,12 +10,18 @@
     "geom:latitude":51.963818,
     "geom:longitude":-0.424158,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.958711,
     "lbl:longitude":-0.418894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barton-Le-Clay"
@@ -42,12 +48,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011929"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125776855
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ccef2466c17a51089948307a9952bae7",
+    "wof:geomhash":"21c82b2b00b2ab4d32b90d308683a832",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404442591,
     "wof:label":"Barton-Le-Clay Civil Parish",
-    "wof:lastmodified":1566633262,
+    "wof:lastmodified":1695877579,
     "wof:name":"Barton-Le-Clay",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

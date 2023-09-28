@@ -10,12 +10,18 @@
     "geom:latitude":52.78459,
     "geom:longitude":1.379925,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.784287,
     "lbl:longitude":1.378606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Westwick"
@@ -52,12 +58,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006497"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758571
     ],
     "wof:country":"GB",
-    "wof:geomhash":"09ac998585cfb3184f12f0d112402039",
+    "wof:geomhash":"c0aa03709c48521bda1c94a07412fa1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404443859,
     "wof:label":"Westwick Civil Parish",
-    "wof:lastmodified":1566633010,
+    "wof:lastmodified":1695877464,
     "wof:name":"Westwick",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

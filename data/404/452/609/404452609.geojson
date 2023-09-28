@@ -10,12 +10,18 @@
     "geom:latitude":51.701796,
     "geom:longitude":-0.711021,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.704964,
     "lbl:longitude":-0.716814,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u062a \u0645\u064a\u0633\u0646\u062f\u0646"
@@ -72,12 +78,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001573"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031003
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a30d8ab9219ee765af9c2c2ff149de97",
+    "wof:geomhash":"cc4069d80b9fcbfc8a6fc2b658b8f1cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404452609,
     "wof:label":"Great Missenden Civil Parish",
-    "wof:lastmodified":1566632254,
+    "wof:lastmodified":1695877122,
     "wof:name":"Great Missenden",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

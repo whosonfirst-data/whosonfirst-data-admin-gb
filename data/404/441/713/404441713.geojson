@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001783,
-    "geom:area_square_m":13402302.456936,
+    "geom:area_square_m":13402302.456935,
     "geom:bbox":"-2.48082985698,52.5421627406,-2.40644835314,52.5838162215",
     "geom:latitude":52.564507,
     "geom:longitude":-2.437727,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.565841,
     "lbl:longitude":-2.434629,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Astley Abbotts"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011209"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360219989
     ],
     "wof:country":"GB",
-    "wof:geomhash":"99099e98eef867883bc5f3a97326bb37",
+    "wof:geomhash":"bc67c820401f089f19955d74d6d86faa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404441713,
     "wof:label":"Astley Abbotts Civil Parish",
-    "wof:lastmodified":1566631758,
+    "wof:lastmodified":1695876908,
     "wof:name":"Astley Abbotts",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

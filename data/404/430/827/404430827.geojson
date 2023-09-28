@@ -10,12 +10,18 @@
     "geom:latitude":52.679911,
     "geom:longitude":-2.473168,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.678754,
     "lbl:longitude":-2.475857,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lawley and Overdale"
@@ -43,12 +49,15 @@
         1360698911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000934"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754985
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fcc03c7596ab9a398e79054baf4070af",
+    "wof:geomhash":"97a4436c75d989f5ba183440f480a806",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404430827,
     "wof:label":"Lawley and Overdale Civil Parish",
-    "wof:lastmodified":1566631947,
+    "wof:lastmodified":1695876995,
     "wof:name":"Lawley and Overdale",
     "wof:parent_id":1360698911,
     "wof:placetype":"localadmin",

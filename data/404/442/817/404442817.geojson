@@ -10,12 +10,18 @@
     "geom:latitude":51.203363,
     "geom:longitude":1.288182,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.213592,
     "lbl:longitude":1.294731,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tilmanstone"
@@ -60,12 +66,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004926"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209343709
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a615f719e63307ab7ff16d0fb28f21c6",
+    "wof:geomhash":"c6cf6bb761758de35dce6caec4eef0b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404442817,
     "wof:label":"Tilmanstone Civil Parish",
-    "wof:lastmodified":1566633217,
+    "wof:lastmodified":1695877557,
     "wof:name":"Tilmanstone",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

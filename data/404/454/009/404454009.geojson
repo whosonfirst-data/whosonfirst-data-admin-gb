@@ -10,12 +10,18 @@
     "geom:latitude":51.022258,
     "geom:longitude":-1.192087,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.024096,
     "lbl:longitude":-1.191715,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beauworth"
@@ -57,12 +63,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004650"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908335
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d1324d1457ac574e07fea31085686dc6",
+    "wof:geomhash":"40cdb7fc60c61123fa0388e706a8571b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454009,
     "wof:label":"Beauworth Civil Parish",
-    "wof:lastmodified":1566632673,
+    "wof:lastmodified":1695877313,
     "wof:name":"Beauworth",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

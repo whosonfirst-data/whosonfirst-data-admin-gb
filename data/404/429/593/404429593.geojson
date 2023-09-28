@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002473,
-    "geom:area_square_m":18940900.733957,
+    "geom:area_square_m":18940900.733956,
     "geom:bbox":"-3.59373444421,51.7052583671,-3.51553635918,51.7606187117",
     "geom:latitude":51.732831,
     "geom:longitude":-3.555256,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.731485,
     "lbl:longitude":-3.555844,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rhigos Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000701"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802993
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ea467031e2b142cc09c3927b2dd30b86",
+    "wof:geomhash":"83d48e052f8e177006295f8ff8443e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429593,
-    "wof:lastmodified":1566633095,
+    "wof:lastmodified":1695877502,
     "wof:name":"Rhigos Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

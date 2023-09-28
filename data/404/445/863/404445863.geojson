@@ -10,12 +10,18 @@
     "geom:latitude":51.006155,
     "geom:longitude":0.130426,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.004852,
     "lbl:longitude":0.133233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buxted"
@@ -61,12 +67,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003832"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759769
     ],
     "wof:country":"GB",
-    "wof:geomhash":"730814922306bf79b1e8e70e715bcc1e",
+    "wof:geomhash":"fff26e108617e7897353a61f4dbeeb78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404445863,
     "wof:label":"Buxted Civil Parish",
-    "wof:lastmodified":1566633403,
+    "wof:lastmodified":1695877641,
     "wof:name":"Buxted",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

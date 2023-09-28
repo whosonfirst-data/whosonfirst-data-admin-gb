@@ -10,12 +10,18 @@
     "geom:latitude":53.285807,
     "geom:longitude":-2.304868,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.28063,
     "lbl:longitude":-2.299292,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u062a\u0627\u0644"
@@ -69,12 +75,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010969"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327269301
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0cabc84b2b2f7de279560b9eed5a3b87",
+    "wof:geomhash":"b795f9b8759a990c2daa035b42d1c1b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404443659,
     "wof:label":"Marthall Civil Parish",
-    "wof:lastmodified":1566633021,
+    "wof:lastmodified":1695877469,
     "wof:name":"Marthall",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

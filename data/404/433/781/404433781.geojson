@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004081,
-    "geom:area_square_m":30223420.563327,
+    "geom:area_square_m":30223420.563328,
     "geom:bbox":"-4.50870388065,53.1761740283,-4.39540579906,53.2450701944",
     "geom:latitude":53.211307,
     "geom:longitude":-4.457502,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.206085,
     "lbl:longitude":-4.462197,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aberffraw Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000001"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125985715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"67dd9175d79d471e8e4199f472d4d272",
+    "wof:geomhash":"65eb5818566929cd837e892cde2ea2bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433781,
-    "wof:lastmodified":1566633732,
+    "wof:lastmodified":1695877789,
     "wof:name":"Aberffraw Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

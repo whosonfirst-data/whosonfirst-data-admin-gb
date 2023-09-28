@@ -10,12 +10,18 @@
     "geom:latitude":54.54114,
     "geom:longitude":-1.646863,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.537066,
     "lbl:longitude":-1.644752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "High Coniscliffe"
@@ -63,12 +69,15 @@
         1360698889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000297"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125939593
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e472a7b481a14b40689b2dc13d6e19c4",
+    "wof:geomhash":"18f94b226fc7482ad2fff0a933dad9b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442661,
     "wof:label":"High Coniscliffe Civil Parish",
-    "wof:lastmodified":1566633231,
+    "wof:lastmodified":1695877564,
     "wof:name":"High Coniscliffe",
     "wof:parent_id":1360698889,
     "wof:placetype":"localadmin",

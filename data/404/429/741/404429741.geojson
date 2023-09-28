@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001073,
-    "geom:area_square_m":8531676.004772,
+    "geom:area_square_m":8531676.004773,
     "geom:bbox":"-5.2315196062,49.9553379619,-5.18330500772,50.0005174817",
     "geom:latitude":49.976991,
     "geom:longitude":-5.208539,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":49.974991,
     "lbl:longitude":-5.208906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0646\u062f\u0648\u062f\u0646\u0643"
@@ -72,12 +78,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011454"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125987217
     ],
     "wof:country":"GB",
-    "wof:geomhash":"07aef48daf92764d34e080bdc72087e9",
+    "wof:geomhash":"271ebf7e98238b0bf5fd325078e4917c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404429741,
     "wof:label":"Landewednack Civil Parish",
-    "wof:lastmodified":1566633139,
+    "wof:lastmodified":1695877523,
     "wof:name":"Landewednack",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.982488,
     "geom:longitude":-0.87768,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.983489,
     "lbl:longitude":-0.877683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hawksworth"
@@ -51,12 +57,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007980"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327461101
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6e55766d6c9d61051869ba9673be0ef7",
+    "wof:geomhash":"b1e6c0f292437e63e9501347e286d087",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404441989,
     "wof:label":"Hawksworth Civil Parish",
-    "wof:lastmodified":1566631822,
+    "wof:lastmodified":1695876937,
     "wof:name":"Hawksworth",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

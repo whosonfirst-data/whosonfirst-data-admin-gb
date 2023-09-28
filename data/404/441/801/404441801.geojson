@@ -10,12 +10,18 @@
     "geom:latitude":51.902954,
     "geom:longitude":-2.196914,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.903435,
     "lbl:longitude":-2.203219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Down Hatherley"
@@ -54,12 +60,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004398"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125979809
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d5aaeb2ced13e070d152b96b4ada5266",
+    "wof:geomhash":"9bf0eef3343e9e3cc2771829977456bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404441801,
     "wof:label":"Down Hatherley Civil Parish",
-    "wof:lastmodified":1566631811,
+    "wof:lastmodified":1695876931,
     "wof:name":"Down Hatherley",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

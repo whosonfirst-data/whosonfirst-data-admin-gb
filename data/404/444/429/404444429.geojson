@@ -10,12 +10,18 @@
     "geom:latitude":52.062721,
     "geom:longitude":1.055459,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.061958,
     "lbl:longitude":1.054328,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burstall"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009078"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929937
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a30b943a533b3d261de062f3d4a267e1",
+    "wof:geomhash":"ab782d3d72304ee3ae3c2c88408fff7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404444429,
     "wof:label":"Burstall Civil Parish",
-    "wof:lastmodified":1566632950,
+    "wof:lastmodified":1695877434,
     "wof:name":"Burstall",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

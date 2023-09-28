@@ -10,12 +10,18 @@
     "geom:latitude":51.691806,
     "geom:longitude":-4.009367,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.691761,
     "lbl:longitude":-4.012745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pontlliw and Tircoed Community"
@@ -40,9 +46,12 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000976"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"44eb3f51a190704b786e8da54011ce77",
+    "wof:geomhash":"a617a97946358e61add8204f27a0bbce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404438691,
-    "wof:lastmodified":1566632622,
+    "wof:lastmodified":1695877287,
     "wof:name":"Pontlliw and Tircoed Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

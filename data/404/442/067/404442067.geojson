@@ -10,12 +10,18 @@
     "geom:latitude":54.465404,
     "geom:longitude":-1.582643,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.46765,
     "lbl:longitude":-1.583318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Croft-On-Tees"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007471"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031721
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a4a120a875ae06b096fdc7f1d08ec6b3",
+    "wof:geomhash":"bec005ac164cea0d0b3fbf4257eb7ffa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404442067,
     "wof:label":"Croft-On-Tees Civil Parish",
-    "wof:lastmodified":1566633290,
+    "wof:lastmodified":1695877589,
     "wof:name":"Croft-On-Tees",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

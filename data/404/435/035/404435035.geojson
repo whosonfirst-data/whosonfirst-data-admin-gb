@@ -10,12 +10,18 @@
     "geom:latitude":51.030602,
     "geom:longitude":-4.169099,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.029406,
     "lbl:longitude":-4.162348,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Westleigh"
@@ -42,12 +48,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003126"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125979093
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cbf7188f5ff458e3dc0b646d91c0c293",
+    "wof:geomhash":"97fa3302d940b400347bf43a29749ee8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404435035,
     "wof:label":"Westleigh Civil Parish",
-    "wof:lastmodified":1566634066,
+    "wof:lastmodified":1695877933,
     "wof:name":"Westleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

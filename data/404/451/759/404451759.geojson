@@ -10,12 +10,18 @@
     "geom:latitude":54.659159,
     "geom:longitude":-1.683154,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.659605,
     "lbl:longitude":-1.681021,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0634\u0627\u067e \u0627\u0648\u06a9\u0644\u0646\u062f"
@@ -87,12 +93,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010595"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873361
     ],
     "wof:country":"GB",
-    "wof:geomhash":"55b35cbe9fde688fbe3bc01914395ef6",
+    "wof:geomhash":"e8772c79ab2bfd7e271c6c1c5ef52864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404451759,
     "wof:label":"Bishop Auckland Civil Parish",
-    "wof:lastmodified":1566633493,
+    "wof:lastmodified":1695877678,
     "wof:name":"Bishop Auckland",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

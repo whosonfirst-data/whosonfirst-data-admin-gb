@@ -10,12 +10,18 @@
     "geom:latitude":51.947586,
     "geom:longitude":-3.38562,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.948583,
     "lbl:longitude":-3.396254,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brecon Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000255"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853123
     ],
     "wof:country":"GB",
-    "wof:geomhash":"037bb8a83177ee6e19036d337b446044",
+    "wof:geomhash":"b74424fb82bd71269779b37f626968d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438871,
-    "wof:lastmodified":1566632609,
+    "wof:lastmodified":1695877282,
     "wof:name":"Brecon Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

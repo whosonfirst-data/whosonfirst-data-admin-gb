@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000614,
-    "geom:area_square_m":4666471.323398,
+    "geom:area_square_m":4666471.323397,
     "geom:bbox":"-1.42389500919,52.0871004442,-1.38401500826,52.1159769007",
     "geom:latitude":52.099305,
     "geom:longitude":-1.405261,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.098023,
     "lbl:longitude":-1.405561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0631\u0644\u06cc"
@@ -79,12 +85,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008053"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755841
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7d92c9120456f9a7fb3bfe366fe9a850",
+    "wof:geomhash":"3117170c7cd47e061f334ea4590064a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +106,7 @@
     ],
     "wof:id":404434473,
     "wof:label":"Horley Civil Parish",
-    "wof:lastmodified":1566633609,
+    "wof:lastmodified":1695877735,
     "wof:name":"Horley",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

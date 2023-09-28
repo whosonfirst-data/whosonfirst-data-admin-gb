@@ -10,12 +10,18 @@
     "geom:latitude":55.326141,
     "geom:longitude":-1.987527,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.323887,
     "lbl:longitude":-1.993589,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Snitter"
@@ -60,12 +66,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010864"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327169533
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5b0b4a5a1f50ddf9a975c0142e47c267",
+    "wof:geomhash":"63d77034c9e5adeddd174fa18887b9ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404439077,
     "wof:label":"Snitter Civil Parish",
-    "wof:lastmodified":1566631848,
+    "wof:lastmodified":1695876948,
     "wof:name":"Snitter",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

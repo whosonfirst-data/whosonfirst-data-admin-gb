@@ -10,12 +10,18 @@
     "geom:latitude":51.882713,
     "geom:longitude":-1.003536,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.884584,
     "lbl:longitude":-1.006412,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0646\u062f\u0646 \u064a\u0648\u0646\u062f\u0631\u0648\u0648\u062f"
@@ -69,12 +75,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001489"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125978351
     ],
     "wof:country":"GB",
-    "wof:geomhash":"13b2111935245c8df182606fc54422e2",
+    "wof:geomhash":"fecc839dd584002fe9b8fed6a5f72622",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404437439,
     "wof:label":"Grendon Underwood Civil Parish",
-    "wof:lastmodified":1566632080,
+    "wof:lastmodified":1695877049,
     "wof:name":"Grendon Underwood",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

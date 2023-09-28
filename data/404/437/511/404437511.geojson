@@ -10,12 +10,18 @@
     "geom:latitude":53.97293,
     "geom:longitude":-1.682087,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.973405,
     "lbl:longitude":-1.67858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Norwood"
@@ -82,12 +88,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007403"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759709
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7407c5959c352a34b7615e45ea8c756b",
+    "wof:geomhash":"6bee4a235d49ddfed6869d902f18f7a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +109,7 @@
     ],
     "wof:id":404437511,
     "wof:label":"Norwood Civil Parish",
-    "wof:lastmodified":1566632099,
+    "wof:lastmodified":1695877059,
     "wof:name":"Norwood",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007658,
-    "geom:area_square_m":57839091.009154,
+    "geom:area_square_m":57839091.009152,
     "geom:bbox":"-3.49037339381,52.2964908781,-3.33083825736,52.4111039136",
     "geom:latitude":52.352687,
     "geom:longitude":-3.403392,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.347452,
     "lbl:longitude":-3.411222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abbey Cwmhir Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000247"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878439
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6956d0e05b6b9720d7802d7da113355a",
+    "wof:geomhash":"db5b2d25f67f729a2ef61ef1f1bab9a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453701,
-    "wof:lastmodified":1566632752,
+    "wof:lastmodified":1695877351,
     "wof:name":"Abbey Cwmhir Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

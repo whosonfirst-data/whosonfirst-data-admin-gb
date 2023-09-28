@@ -10,12 +10,18 @@
     "geom:latitude":52.473275,
     "geom:longitude":1.210357,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.475064,
     "lbl:longitude":1.21179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wacton"
@@ -54,12 +60,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006614"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326865405
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fd9cd0e8dab788b49aded75743a01ef4",
+    "wof:geomhash":"0e4f07428989dc1ba6c36efeb97725b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404446529,
     "wof:label":"Wacton Civil Parish",
-    "wof:lastmodified":1566631647,
+    "wof:lastmodified":1695876866,
     "wof:name":"Wacton",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

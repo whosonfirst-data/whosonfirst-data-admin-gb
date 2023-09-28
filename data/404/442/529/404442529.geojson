@@ -10,12 +10,18 @@
     "geom:latitude":52.530894,
     "geom:longitude":0.929193,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.526073,
     "lbl:longitude":0.933313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rocklands"
@@ -58,12 +64,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006162"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757851
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cf645ae7b48feda14d3038dd78a1a0ec",
+    "wof:geomhash":"006bbdbd83d326c0570a6f84ca156a77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404442529,
     "wof:label":"Rocklands Civil Parish",
-    "wof:lastmodified":1566633244,
+    "wof:lastmodified":1695877571,
     "wof:name":"Rocklands",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

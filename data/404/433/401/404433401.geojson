@@ -10,12 +10,18 @@
     "geom:latitude":53.286101,
     "geom:longitude":0.23295,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.286334,
     "lbl:longitude":0.232951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Markby"
@@ -52,12 +58,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005692"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754213
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a77a88c111d60c748c30244d5914c648",
+    "wof:geomhash":"866595176aca712a883be0e4b6dc229c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404433401,
     "wof:label":"Markby Civil Parish",
-    "wof:lastmodified":1566633663,
+    "wof:lastmodified":1695877757,
     "wof:name":"Markby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

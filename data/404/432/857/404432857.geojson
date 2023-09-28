@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00413,
-    "geom:area_square_m":31014326.876731,
+    "geom:area_square_m":31014326.876728,
     "geom:bbox":"-4.08112140818,52.5789513698,-3.94561149886,52.6371596694",
     "geom:latitude":52.608428,
     "geom:longitude":-4.015905,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.60476,
     "lbl:longitude":-4.014875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bryn-Crug Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000054"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125856823
     ],
     "wof:country":"GB",
-    "wof:geomhash":"424bc77ab199ad62201f69be5d04b333",
+    "wof:geomhash":"f793f531b417c3ff73c89ec585667743",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404432857,
-    "wof:lastmodified":1566633895,
+    "wof:lastmodified":1695877848,
     "wof:name":"Bryn-Crug Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

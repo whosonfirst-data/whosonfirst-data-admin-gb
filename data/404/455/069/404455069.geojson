@@ -10,12 +10,18 @@
     "geom:latitude":52.115124,
     "geom:longitude":-3.024405,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.112873,
     "lbl:longitude":-3.02487,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Willersley and Winforton"
@@ -43,12 +49,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000911"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754605
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f59eac52f3518d1a37ba2db3d62aafcc",
+    "wof:geomhash":"da05b1e6bcf36812350a0db8b619c970",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404455069,
     "wof:label":"Willersley and Winforton Civil Parish",
-    "wof:lastmodified":1566632310,
+    "wof:lastmodified":1695877146,
     "wof:name":"Willersley and Winforton",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

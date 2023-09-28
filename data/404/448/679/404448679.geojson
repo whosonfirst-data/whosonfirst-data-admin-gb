@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004506,
-    "geom:area_square_m":33552386.613466,
+    "geom:area_square_m":33552386.613465,
     "geom:bbox":"-4.10103323476,52.9273444762,-3.98615096995,53.0136132329",
     "geom:latitude":52.969936,
     "geom:longitude":-4.044424,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.965227,
     "lbl:longitude":-4.050089,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfrothen Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000079"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992013
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c7b91c614654b6133e5392bdb83da74a",
+    "wof:geomhash":"0f6c8071b64aa860e25e152fbc7dda15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404448679,
-    "wof:lastmodified":1566631546,
+    "wof:lastmodified":1695876834,
     "wof:name":"Llanfrothen Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

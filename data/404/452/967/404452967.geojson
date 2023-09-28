@@ -10,12 +10,18 @@
     "geom:latitude":52.285511,
     "geom:longitude":-2.786629,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.286517,
     "lbl:longitude":-2.787457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Croft and Yarpole"
@@ -43,12 +49,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000735"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758703
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a3acb69c130b5247558279096cb372b7",
+    "wof:geomhash":"7238bdad3217c374e19b9c8c8e0ceb8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404452967,
     "wof:label":"Croft and Yarpole Civil Parish",
-    "wof:lastmodified":1566632223,
+    "wof:lastmodified":1695877109,
     "wof:name":"Croft and Yarpole",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

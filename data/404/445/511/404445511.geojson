@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000695,
-    "geom:area_square_m":5392806.588671,
+    "geom:area_square_m":5392806.58867,
     "geom:bbox":"1.11832098513,51.1222038417,1.16515482291,51.162410936",
     "geom:latitude":51.13923,
     "geom:longitude":1.143216,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.138733,
     "lbl:longitude":1.143572,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Acrise"
@@ -67,12 +73,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005012"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759425
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c7ae66e58eac70d1c20311b80e70017d",
+    "wof:geomhash":"e7cf5d4f74bc639fd51d0cfad877781c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +94,7 @@
     ],
     "wof:id":404445511,
     "wof:label":"Acrise Civil Parish",
-    "wof:lastmodified":1566633359,
+    "wof:lastmodified":1695877622,
     "wof:name":"Acrise",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

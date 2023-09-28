@@ -10,12 +10,18 @@
     "geom:latitude":52.486728,
     "geom:longitude":-1.282604,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.48461,
     "lbl:longitude":-1.284802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Claybrooke Parva"
@@ -51,12 +57,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005414"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"97982d7725c0f20670780ec2b7f0142e",
+    "wof:geomhash":"55944b5d6ada221fd3051f22ef126a13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404442629,
     "wof:label":"Claybrooke Parva Civil Parish",
-    "wof:lastmodified":1566633220,
+    "wof:lastmodified":1695877559,
     "wof:name":"Claybrooke Parva",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

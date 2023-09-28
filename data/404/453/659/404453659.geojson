@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009311,
-    "geom:area_square_m":69323482.376522,
+    "geom:area_square_m":69323482.376523,
     "geom:bbox":"-3.45820879555,52.9429348739,-3.21381079151,53.0113219995",
     "geom:latitude":52.977667,
     "geom:longitude":-3.326048,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.975717,
     "lbl:longitude":-3.314021,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Corwen Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000147"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125804495
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0ff82f0e9ea5376323f00f697c437089",
+    "wof:geomhash":"c559a3e97c401676c2809c547d2f4240",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453659,
-    "wof:lastmodified":1566632787,
+    "wof:lastmodified":1695877367,
     "wof:name":"Corwen Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

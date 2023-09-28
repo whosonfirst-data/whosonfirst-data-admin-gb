@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001586,
-    "geom:area_square_m":11520345.124285,
+    "geom:area_square_m":11520345.124286,
     "geom:bbox":"-1.74605450497,54.0028070487,-1.65820081767,54.0369937037",
     "geom:latitude":54.020276,
     "geom:longitude":-1.700658,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.019411,
     "lbl:longitude":-1.700654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Menwith with Darley"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007389"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753701
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b4cd433b6179b00f8986daefc20d6578",
+    "wof:geomhash":"4e7f8c063265b7da67947770f67f6e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404429981,
     "wof:label":"Menwith with Darley Civil Parish",
-    "wof:lastmodified":1566633192,
+    "wof:lastmodified":1695877546,
     "wof:name":"Menwith with Darley",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

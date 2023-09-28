@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002181,
-    "geom:area_square_m":16911743.739685,
+    "geom:area_square_m":16911743.739686,
     "geom:bbox":"-4.2336897961,51.1476749155,-4.15217260261,51.2009809899",
     "geom:latitude":51.172285,
     "geom:longitude":-4.190017,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.170292,
     "lbl:longitude":-4.194013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mortehoe"
@@ -69,12 +75,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003108"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880817
     ],
     "wof:country":"GB",
-    "wof:geomhash":"15e55b9fc0f88364cc726543dd29ee82",
+    "wof:geomhash":"6630ca404f257e3087f855b281044cea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404431117,
     "wof:label":"Mortehoe Civil Parish",
-    "wof:lastmodified":1566632482,
+    "wof:lastmodified":1695877223,
     "wof:name":"Mortehoe",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

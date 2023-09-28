@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002681,
-    "geom:area_square_m":20536181.862588,
+    "geom:area_square_m":20536181.862587,
     "geom:bbox":"-3.86447610055,51.6971149009,-3.77035581451,51.7595887579",
     "geom:latitude":51.72311,
     "geom:longitude":-3.812908,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.721542,
     "lbl:longitude":-3.812205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cilybebyll Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000606"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209750809
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32e8ef7a6441fb1a7262f3fa8e6a9292",
+    "wof:geomhash":"85ed36635a0a91e06eb55f83724420cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435719,
-    "wof:lastmodified":1566634079,
+    "wof:lastmodified":1695877940,
     "wof:name":"Cilybebyll Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

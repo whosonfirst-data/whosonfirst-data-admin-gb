@@ -10,12 +10,18 @@
     "geom:latitude":53.781978,
     "geom:longitude":-2.74215,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.781477,
     "lbl:longitude":-2.741954,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ingol and Tanterton"
@@ -43,12 +49,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012217"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755391
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6576eba527f7ca67c87d1926786beb08",
+    "wof:geomhash":"392e63da3a088f71dcfd85d9a95248b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404434183,
     "wof:label":"Ingol and Tanterton Civil Parish",
-    "wof:lastmodified":1566633629,
+    "wof:lastmodified":1695877743,
     "wof:name":"Ingol and Tanterton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

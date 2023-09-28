@@ -10,12 +10,18 @@
     "geom:latitude":51.622724,
     "geom:longitude":-4.017618,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.622733,
     "lbl:longitude":-4.013004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Killay Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000573"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125973105
     ],
     "wof:country":"GB",
-    "wof:geomhash":"92a990b6d42d2d9503ce25dd535859f7",
+    "wof:geomhash":"3d57fc4cbef42b14f57d7ad26ea5594c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404447745,
-    "wof:lastmodified":1566631342,
+    "wof:lastmodified":1695878315,
     "wof:name":"Killay Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00085,
-    "geom:area_square_m":6303358.349058,
+    "geom:area_square_m":6303358.349057,
     "geom:bbox":"-3.13246714181,53.1526760645,-3.08485264901,53.1848140824",
     "geom:latitude":53.167503,
     "geom:longitude":-3.110794,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.167701,
     "lbl:longitude":-3.114385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Argoed Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000199"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711823
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8871083c3d01aa373334a89c30fd541b",
+    "wof:geomhash":"6886cc50fe4c2bd6cb06eb4ad15640fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437075,
-    "wof:lastmodified":1566632125,
+    "wof:lastmodified":1695877068,
     "wof:name":"Argoed Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

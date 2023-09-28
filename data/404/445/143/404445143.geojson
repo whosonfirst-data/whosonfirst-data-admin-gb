@@ -10,12 +10,18 @@
     "geom:latitude":54.129155,
     "geom:longitude":-2.717577,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.127825,
     "lbl:longitude":-2.718163,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Over Kellet"
@@ -66,12 +72,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005197"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800435
     ],
     "wof:country":"GB",
-    "wof:geomhash":"686678c9e15392ab77bf2693cb71e7dc",
+    "wof:geomhash":"c15d8472cea10dbf1b1d8857914ec116",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404445143,
     "wof:label":"Over Kellet Civil Parish",
-    "wof:lastmodified":1566633356,
+    "wof:lastmodified":1695877620,
     "wof:name":"Over Kellet",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

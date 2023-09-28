@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00151,
-    "geom:area_square_m":11147525.642851,
+    "geom:area_square_m":11147525.64285,
     "geom:bbox":"-2.83248082998,53.3089918971,-2.76769602049,53.3487220125",
     "geom:latitude":53.328747,
     "geom:longitude":-2.797928,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.32751,
     "lbl:longitude":-2.797929,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hale"
@@ -93,12 +99,15 @@
         1360698991
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000314"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326665397
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cb36d6f34eb65ab5e9d533807d69e44c",
+    "wof:geomhash":"103f0d0ea66c25cb027287a372bc54f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404447987,
     "wof:label":"Hale Civil Parish",
-    "wof:lastmodified":1566631334,
+    "wof:lastmodified":1695878311,
     "wof:name":"Hale",
     "wof:parent_id":1360698991,
     "wof:placetype":"localadmin",

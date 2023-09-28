@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
-    "geom:area_square_m":312813.705173,
+    "geom:area_square_m":312813.705172,
     "geom:bbox":"-0.545702711872,54.376678915,-0.532132267957,54.3843524623",
     "geom:latitude":54.380559,
     "geom:longitude":-0.539169,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.38216,
     "lbl:longitude":-0.537935,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fylingdales (Det)"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007674"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756609
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a23800de8061d1db45ba40b6cb372d7c",
+    "wof:geomhash":"b3626776a9c58d93cb69c6269bcdaaea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404440939,
     "wof:label":"Fylingdales (Det) Civil Parish",
-    "wof:lastmodified":1566631129,
+    "wof:lastmodified":1695878216,
     "wof:name":"Fylingdales (Det)",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

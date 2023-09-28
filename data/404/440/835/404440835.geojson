@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001074,
-    "geom:area_square_m":8139225.404666,
+    "geom:area_square_m":8139225.404667,
     "geom:bbox":"-1.12374543995,52.204859173,-1.06193808696,52.2393888305",
     "geom:latitude":52.221615,
     "geom:longitude":-1.09326,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.221876,
     "lbl:longitude":-1.093712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Weedon Bec"
@@ -69,12 +75,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010521"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853051
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c923d50c4ebd740098f50e8e2c8bfec4",
+    "wof:geomhash":"20a9c51103e656df28aadb855872f2cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404440835,
     "wof:label":"Weedon Bec Civil Parish",
-    "wof:lastmodified":1566631156,
+    "wof:lastmodified":1695878229,
     "wof:name":"Weedon Bec",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.161417,
     "geom:longitude":-3.501024,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.160993,
     "lbl:longitude":-3.497426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Timberscombe"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008859"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913021
     ],
     "wof:country":"GB",
-    "wof:geomhash":"71aac29e2c52cc2edad76a0469885121",
+    "wof:geomhash":"6aa64036554c27584e19821b67418f95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404432117,
     "wof:label":"Timberscombe Civil Parish",
-    "wof:lastmodified":1566633920,
+    "wof:lastmodified":1695877859,
     "wof:name":"Timberscombe",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.332851,
     "geom:longitude":-3.329355,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.329379,
     "lbl:longitude":-3.334246,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanasa Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000195"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013713
     ],
     "wof:country":"GB",
-    "wof:geomhash":"97f8c7f8910bc77b03203915e1ff9373",
+    "wof:geomhash":"70e5a2253f2a9ea2054805d3f08dad2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441017,
-    "wof:lastmodified":1566631798,
+    "wof:lastmodified":1695876925,
     "wof:name":"Llanasa Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

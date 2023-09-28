@@ -10,12 +10,18 @@
     "geom:latitude":51.66875,
     "geom:longitude":-3.210995,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.668989,
     "lbl:longitude":-3.211365,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cefn Fforest Community"
@@ -44,9 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"W04000905",
         "gn:id":7299816,
         "qs_pg:id":1040948
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711735
     ],
@@ -54,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de89b96552bf2444f263d2ce36ea3f9e",
+    "wof:geomhash":"f049de95884ac0313043d1381e3ecbfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404445477,
-    "wof:lastmodified":1582311133,
+    "wof:lastmodified":1695877978,
     "wof:name":"Cefn Fforest Community",
     "wof:parent_id":1360698925,
     "wof:placetype":"localadmin",

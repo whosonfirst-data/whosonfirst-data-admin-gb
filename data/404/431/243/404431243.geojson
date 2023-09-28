@@ -10,12 +10,18 @@
     "geom:latitude":52.540506,
     "geom:longitude":-2.449203,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.541106,
     "lbl:longitude":-2.44794,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tasley"
@@ -40,12 +46,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011373"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755629
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6eeace91ba1315af43226737c3f5b9c6",
+    "wof:geomhash":"f20a546462318a0f6664345beea8a9fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404431243,
     "wof:label":"Tasley Civil Parish",
-    "wof:lastmodified":1566632453,
+    "wof:lastmodified":1695877211,
     "wof:name":"Tasley",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

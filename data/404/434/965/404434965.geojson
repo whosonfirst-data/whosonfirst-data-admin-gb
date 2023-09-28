@@ -10,12 +10,18 @@
     "geom:latitude":51.174667,
     "geom:longitude":-1.340794,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.174013,
     "lbl:longitude":-1.343503,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bullington"
@@ -54,12 +60,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004602"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310234115
     ],
     "wof:country":"GB",
-    "wof:geomhash":"23737b885975a9ecfe09fc5de3864485",
+    "wof:geomhash":"36abaa4ba67397e3ec3e308979b913e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404434965,
     "wof:label":"Bullington Civil Parish",
-    "wof:lastmodified":1566633539,
+    "wof:lastmodified":1695877702,
     "wof:name":"Bullington",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

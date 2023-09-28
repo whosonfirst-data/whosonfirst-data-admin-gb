@@ -10,12 +10,18 @@
     "geom:latitude":51.823427,
     "geom:longitude":0.505609,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.829216,
     "lbl:longitude":0.506151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Great and Little Leighs"
@@ -43,12 +49,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003958"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758351
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a8e97fa7907873c44600a8419b6d544e",
+    "wof:geomhash":"0423a0939be8572698139fc68eb03f75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404443427,
     "wof:label":"Great and Little Leighs Civil Parish",
-    "wof:lastmodified":1566633060,
+    "wof:lastmodified":1695877488,
     "wof:name":"Great and Little Leighs",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

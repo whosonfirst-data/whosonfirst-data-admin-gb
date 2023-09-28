@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001129,
-    "geom:area_square_m":8549830.297636,
+    "geom:area_square_m":8549830.297637,
     "geom:bbox":"0.876387712532,52.2235024848,0.955716136525,52.2568710172",
     "geom:latitude":52.240922,
     "geom:longitude":0.914872,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.237008,
     "lbl:longitude":0.91217,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elmswell"
@@ -60,12 +66,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009195"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125822777
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dee79ab772046b1f439cd480be5ea8c3",
+    "wof:geomhash":"4fe48c0ad884e217f8a7dccb510881a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404453539,
     "wof:label":"Elmswell Civil Parish",
-    "wof:lastmodified":1566632806,
+    "wof:lastmodified":1695877376,
     "wof:name":"Elmswell",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

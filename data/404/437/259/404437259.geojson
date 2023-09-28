@@ -10,12 +10,18 @@
     "geom:latitude":50.969936,
     "geom:longitude":0.097667,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.971798,
     "lbl:longitude":0.092428,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u06a9\u0641\u06cc\u0644\u062f"
@@ -93,12 +99,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003863"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854583
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9d170b6678d56503300dbc57cd94758c",
+    "wof:geomhash":"1a68e981c014a04856bf23ab87d19e5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404437259,
     "wof:label":"Uckfield Civil Parish",
-    "wof:lastmodified":1566632080,
+    "wof:lastmodified":1695877049,
     "wof:name":"Uckfield",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

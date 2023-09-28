@@ -10,12 +10,18 @@
     "geom:latitude":53.745765,
     "geom:longitude":-0.869555,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.745882,
     "lbl:longitude":-0.869115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u062f\u0646"
@@ -87,12 +93,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000417"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125954015
     ],
     "wof:country":"GB",
-    "wof:geomhash":"06570b2c904f39532e3d7823ba762ef1",
+    "wof:geomhash":"0c8e0fac8d5641f094eab9dc463a337e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404447809,
     "wof:label":"Howden Civil Parish",
-    "wof:lastmodified":1566631319,
+    "wof:lastmodified":1695878304,
     "wof:name":"Howden",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

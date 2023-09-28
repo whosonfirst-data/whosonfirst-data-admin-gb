@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001121,
-    "geom:area_square_m":8692056.305968,
+    "geom:area_square_m":8692056.305969,
     "geom:bbox":"1.05175463417,51.1573138989,1.10898315991,51.204938288",
     "geom:latitude":51.181888,
     "geom:longitude":1.069963,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.183246,
     "lbl:longitude":1.068009,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stelling Minnis"
@@ -75,12 +81,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005037"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125789159
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5af718bc88ac7118d9a23d70af7002d4",
+    "wof:geomhash":"25d4af0c67c56c36d3be2cf120fe4e55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404436347,
     "wof:label":"Stelling Minnis Civil Parish",
-    "wof:lastmodified":1566632370,
+    "wof:lastmodified":1695877174,
     "wof:name":"Stelling Minnis",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

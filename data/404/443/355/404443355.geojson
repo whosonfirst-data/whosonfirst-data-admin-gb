@@ -10,12 +10,18 @@
     "geom:latitude":54.319007,
     "geom:longitude":-0.869759,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.320327,
     "lbl:longitude":-0.868051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lastingham"
@@ -63,12 +69,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007598"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801939
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3c46ad2d3e154785c93cb4388d8b403d",
+    "wof:geomhash":"4f676117d4b70be562a37c20e0513261",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404443355,
     "wof:label":"Lastingham Civil Parish",
-    "wof:lastmodified":1566632996,
+    "wof:lastmodified":1695877455,
     "wof:name":"Lastingham",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000686,
-    "geom:area_square_m":5228440.344224,
+    "geom:area_square_m":5228440.344225,
     "geom:bbox":"-0.220792037763,51.9276833262,-0.176174197392,51.9581333704",
     "geom:latitude":51.94033,
     "geom:longitude":-0.196915,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.94182,
     "lbl:longitude":-0.195391,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Graveley"
@@ -54,12 +60,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012200"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125975107
     ],
     "wof:country":"GB",
-    "wof:geomhash":"89d8f648f99f74f172dfdb8295b67d5d",
+    "wof:geomhash":"a8f9f2ca72537f207a63e95c92b018ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404436013,
     "wof:label":"Graveley Civil Parish",
-    "wof:lastmodified":1566632337,
+    "wof:lastmodified":1695877159,
     "wof:name":"Graveley",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

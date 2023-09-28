@@ -10,12 +10,18 @@
     "geom:latitude":53.622588,
     "geom:longitude":-1.183307,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.621796,
     "lbl:longitude":-1.182378,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062a\u0648\u0646"
@@ -117,12 +123,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000088"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125845313
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1e397ee89e68e1ef909f2ec684961168",
+    "wof:geomhash":"46799b5cc4d25c4bb4b176521ca6e47a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +144,7 @@
     ],
     "wof:id":404443801,
     "wof:label":"Norton Civil Parish",
-    "wof:lastmodified":1566633074,
+    "wof:lastmodified":1695877493,
     "wof:name":"Norton",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000633,
-    "geom:area_square_m":4808259.402896,
+    "geom:area_square_m":4808259.402897,
     "geom:bbox":"-2.96319370581,52.0638338045,-2.91512618749,52.0942334522",
     "geom:latitude":52.078683,
     "geom:longitude":-2.941392,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.078057,
     "lbl:longitude":-2.941757,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moccas"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000831"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126002049
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5a7c9b8562872452cf6ca03520869bdd",
+    "wof:geomhash":"b3f9cd92de1cf17ea12c92f900d61e90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404445145,
     "wof:label":"Moccas Civil Parish",
-    "wof:lastmodified":1566633351,
+    "wof:lastmodified":1695877618,
     "wof:name":"Moccas",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

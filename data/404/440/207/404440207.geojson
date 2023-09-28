@@ -10,12 +10,18 @@
     "geom:latitude":54.960319,
     "geom:longitude":-2.86621,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.959883,
     "lbl:longitude":-2.862709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Scaleby"
@@ -63,12 +69,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002472"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125954821
     ],
     "wof:country":"GB",
-    "wof:geomhash":"859d8f27419ac33effec04c1108df3d0",
+    "wof:geomhash":"a1cd33d296e64af2e7f3b98b34679a66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404440207,
     "wof:label":"Scaleby Civil Parish",
-    "wof:lastmodified":1566631209,
+    "wof:lastmodified":1695878254,
     "wof:name":"Scaleby",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

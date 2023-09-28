@@ -10,12 +10,18 @@
     "geom:latitude":51.1529,
     "geom:longitude":0.09155,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.152306,
     "lbl:longitude":0.090892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cowden"
@@ -63,12 +69,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004986"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125959077
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8a12c43e17a8658240b0ce95dd6bcdc3",
+    "wof:geomhash":"fed5a71c559ee04dec3aa3b826a72c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447003,
     "wof:label":"Cowden Civil Parish",
-    "wof:lastmodified":1566631317,
+    "wof:lastmodified":1695878303,
     "wof:name":"Cowden",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

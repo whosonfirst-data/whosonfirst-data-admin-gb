@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000564,
-    "geom:area_square_m":4286243.671226,
+    "geom:area_square_m":4286243.671227,
     "geom:bbox":"-1.38567601754,52.0802044976,-1.34221290356,52.1013341833",
     "geom:latitude":52.090623,
     "geom:longitude":-1.364147,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.091876,
     "lbl:longitude":-1.361969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u0646\u0648\u0644"
@@ -63,12 +69,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008049"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"81292f3de46e206077c4ee3ba777affe",
+    "wof:geomhash":"ef613a6c8f0bdc1cfc213630f3e495aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404446883,
     "wof:label":"Hanwell Civil Parish",
-    "wof:lastmodified":1566631670,
+    "wof:lastmodified":1695876875,
     "wof:name":"Hanwell",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

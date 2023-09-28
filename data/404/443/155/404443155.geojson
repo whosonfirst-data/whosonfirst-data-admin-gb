@@ -10,12 +10,18 @@
     "geom:latitude":52.304769,
     "geom:longitude":-0.129486,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.304332,
     "lbl:longitude":-0.129851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0645\u064a\u0646\u063a\u0641\u0631\u062f \u0627\u0628\u062a\u0633"
@@ -69,12 +75,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012026"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125996587
     ],
     "wof:country":"GB",
-    "wof:geomhash":"babe3205f3004a526350481b39500786",
+    "wof:geomhash":"96fb7e2273b5431ee7e07df65b025550",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404443155,
     "wof:label":"Hemingford Abbots Civil Parish",
-    "wof:lastmodified":1566633045,
+    "wof:lastmodified":1695877480,
     "wof:name":"Hemingford Abbots",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

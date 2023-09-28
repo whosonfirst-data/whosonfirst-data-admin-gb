@@ -10,12 +10,18 @@
     "geom:latitude":52.246052,
     "geom:longitude":-2.021662,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.246244,
     "lbl:longitude":-2.02522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stock and Bradley"
@@ -43,12 +49,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010433"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756633
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9b6a41b1f94e1c18fec31ba63870b80d",
+    "wof:geomhash":"6013cc892acfd9c1448e2bf2f23e1f80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404448293,
     "wof:label":"Stock and Bradley Civil Parish",
-    "wof:lastmodified":1566631497,
+    "wof:lastmodified":1695876813,
     "wof:name":"Stock and Bradley",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.449481,
     "geom:longitude":-2.786425,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.453804,
     "lbl:longitude":-2.786759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eccleston"
@@ -67,12 +73,15 @@
         1360698793
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000024"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758397
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4b3f8a6fcde87a70cdbb9b769c2d8a97",
+    "wof:geomhash":"3640f3ba3a392647afead6e6fd168baa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +94,7 @@
     ],
     "wof:id":404452663,
     "wof:label":"Eccleston Civil Parish",
-    "wof:lastmodified":1566632244,
+    "wof:lastmodified":1695877118,
     "wof:name":"Eccleston",
     "wof:parent_id":1360698793,
     "wof:placetype":"localadmin",

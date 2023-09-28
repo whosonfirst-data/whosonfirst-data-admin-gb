@@ -10,12 +10,18 @@
     "geom:latitude":50.643743,
     "geom:longitude":-2.380032,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.645904,
     "lbl:longitude":-2.383389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Osmington"
@@ -66,12 +72,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003576"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059837
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b770bd142b94d85fb7bce27afec0bb93",
+    "wof:geomhash":"1eed34f724cbf2c12d643fa38b798e81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404452745,
     "wof:label":"Osmington Civil Parish",
-    "wof:lastmodified":1566632265,
+    "wof:lastmodified":1695877127,
     "wof:name":"Osmington",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

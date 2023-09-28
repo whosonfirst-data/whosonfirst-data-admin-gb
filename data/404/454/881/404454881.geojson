@@ -10,12 +10,18 @@
     "geom:latitude":50.703429,
     "geom:longitude":-3.435903,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.703834,
     "lbl:longitude":-3.438366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clyst St. Mary"
@@ -42,12 +48,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002953"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125912027
     ],
     "wof:country":"GB",
-    "wof:geomhash":"675ea75ce3360a18558e7fef32a31997",
+    "wof:geomhash":"49cae0cfd026e11923cf06dd52312949",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404454881,
     "wof:label":"Clyst St. Mary Civil Parish",
-    "wof:lastmodified":1566632667,
+    "wof:lastmodified":1695877310,
     "wof:name":"Clyst St. Mary",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

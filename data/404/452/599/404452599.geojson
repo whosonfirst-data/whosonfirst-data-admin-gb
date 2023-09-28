@@ -10,12 +10,18 @@
     "geom:latitude":51.945778,
     "geom:longitude":-0.006428,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.945553,
     "lbl:longitude":-0.004552,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0646\u062a\u06cc\u0646\u0642\u0641\u0648\u0631\u062f"
@@ -84,12 +90,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004726"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854779
     ],
     "wof:country":"GB",
-    "wof:geomhash":"26691d62cb832c521d5ffec6ac51fea7",
+    "wof:geomhash":"c639fcc302fca95d11fba38ff50bae83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404452599,
     "wof:label":"Buntingford Civil Parish",
-    "wof:lastmodified":1566632220,
+    "wof:lastmodified":1695877108,
     "wof:name":"Buntingford",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.246988,
     "geom:longitude":-0.844527,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.246628,
     "lbl:longitude":-0.846849,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Darlton"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007801"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125951803
     ],
     "wof:country":"GB",
-    "wof:geomhash":"001e502d3d0188fc98d13f6b06005328",
+    "wof:geomhash":"157b2d7f04e802dd15585fd5eb2a915f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404439169,
     "wof:label":"Darlton Civil Parish",
-    "wof:lastmodified":1566631842,
+    "wof:lastmodified":1695876945,
     "wof:name":"Darlton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

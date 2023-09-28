@@ -10,12 +10,18 @@
     "geom:latitude":51.212734,
     "geom:longitude":-0.682267,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.214577,
     "lbl:longitude":-0.685041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Puttenham"
@@ -45,12 +51,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009550"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126008215
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1a4a4478930abc94899c854d2f2ced94",
+    "wof:geomhash":"d51f4c0dd87fa009df4edd498357f849",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404453805,
     "wof:label":"Puttenham Civil Parish",
-    "wof:lastmodified":1566632790,
+    "wof:lastmodified":1695877369,
     "wof:name":"Puttenham",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

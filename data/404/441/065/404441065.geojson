@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001052,
-    "geom:area_square_m":8062174.987262,
+    "geom:area_square_m":8062174.987264,
     "geom:bbox":"-5.20440766299,51.6797761848,-5.14944986566,51.7225995208",
     "geom:latitude":51.702096,
     "geom:longitude":-5.17704,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.700225,
     "lbl:longitude":-5.176622,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dale Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000423"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711475
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c8e442213c5d05e67f723dd1591062ed",
+    "wof:geomhash":"43e3c2eb8f2a28a1afa218592cd72eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441065,
-    "wof:lastmodified":1566631743,
+    "wof:lastmodified":1695876902,
     "wof:name":"Dale Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

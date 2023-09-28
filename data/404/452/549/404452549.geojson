@@ -10,12 +10,18 @@
     "geom:latitude":52.696196,
     "geom:longitude":-2.454623,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.693698,
     "lbl:longitude":-2.456326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u06a9\u0646\u0642\u06cc\u062a\u0632"
@@ -75,12 +81,15 @@
         1360698911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000939"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125816703
     ],
     "wof:country":"GB",
-    "wof:geomhash":"590e99765ea835075a15bf2fe71fa55a",
+    "wof:geomhash":"808a3eb9e87f12496055a92db83389ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404452549,
     "wof:label":"Oakengates Civil Parish",
-    "wof:lastmodified":1566632255,
+    "wof:lastmodified":1695877122,
     "wof:name":"Oakengates",
     "wof:parent_id":1360698911,
     "wof:placetype":"localadmin",

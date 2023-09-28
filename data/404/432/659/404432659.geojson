@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001205,
-    "geom:area_square_m":9096946.778026,
+    "geom:area_square_m":9096946.778025,
     "geom:bbox":"-2.48835190427,52.343286233,-2.41170513614,52.3684821724",
     "geom:latitude":52.357365,
     "geom:longitude":-2.445956,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.35733,
     "lbl:longitude":-2.442851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bayton"
@@ -54,12 +60,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010286"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125969371
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6898fb720ab9dfd172301a919c8443d0",
+    "wof:geomhash":"ef4684ec1871ee343308e4456a823215",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404432659,
     "wof:label":"Bayton Civil Parish",
-    "wof:lastmodified":1566633904,
+    "wof:lastmodified":1695877852,
     "wof:name":"Bayton",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

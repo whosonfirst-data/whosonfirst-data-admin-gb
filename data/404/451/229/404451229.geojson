@@ -10,12 +10,18 @@
     "geom:latitude":53.006054,
     "geom:longitude":-0.932493,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.006338,
     "lbl:longitude":-0.931032,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kneeton"
@@ -51,12 +57,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007986"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243290739
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7fe5c5831e613e178bd02762033de396",
+    "wof:geomhash":"66215f6478c6ff560a02ade76b781cd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404451229,
     "wof:label":"Kneeton Civil Parish",
-    "wof:lastmodified":1566633433,
+    "wof:lastmodified":1695877653,
     "wof:name":"Kneeton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.774869,
     "geom:longitude":-0.529024,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.77536,
     "lbl:longitude":-0.530646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nettleden with Potten End"
@@ -43,12 +49,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004707"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753477
     ],
     "wof:country":"GB",
-    "wof:geomhash":"25c648cc4606eb1a02ebfe0ae3ccfa99",
+    "wof:geomhash":"a372cd62a2eed11938b80fe5676ed33b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404454369,
     "wof:label":"Nettleden with Potten End Civil Parish",
-    "wof:lastmodified":1566632700,
+    "wof:lastmodified":1695877327,
     "wof:name":"Nettleden with Potten End",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.185072,
     "geom:longitude":-2.437364,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.185005,
     "lbl:longitude":-2.442373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u06cc\u062f\u0644\u0648\u06cc\u0686"
@@ -87,12 +93,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010972"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871977
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3a508fa5138c4e9e26fbea785f3e9b12",
+    "wof:geomhash":"ce8dc554553ca6eb214e78870fe57353",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404453393,
     "wof:label":"Middlewich Civil Parish",
-    "wof:lastmodified":1566632815,
+    "wof:lastmodified":1695877380,
     "wof:name":"Middlewich",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

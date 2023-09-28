@@ -10,12 +10,18 @@
     "geom:latitude":52.918192,
     "geom:longitude":1.122609,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.918879,
     "lbl:longitude":1.121748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "High Kelling"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006427"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126048823
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c08e6c7b3a394faf6cd417cf98e50d66",
+    "wof:geomhash":"95bdf54d58abd6b006b64c5cf27da971",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404440117,
     "wof:label":"High Kelling Civil Parish",
-    "wof:lastmodified":1566631178,
+    "wof:lastmodified":1695878239,
     "wof:name":"High Kelling",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

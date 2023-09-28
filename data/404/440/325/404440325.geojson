@@ -10,12 +10,18 @@
     "geom:latitude":50.657167,
     "geom:longitude":-2.374719,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.655422,
     "lbl:longitude":-2.366726,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Poxwell"
@@ -54,12 +60,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003584"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125799701
     ],
     "wof:country":"GB",
-    "wof:geomhash":"af9059381223affd1f0a2564e2f9dd0b",
+    "wof:geomhash":"52ebcc8781941e240dbe72637049d0bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440325,
     "wof:label":"Poxwell Civil Parish",
-    "wof:lastmodified":1566631177,
+    "wof:lastmodified":1695878239,
     "wof:name":"Poxwell",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

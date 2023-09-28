@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006491,
-    "geom:area_square_m":49255946.499476,
+    "geom:area_square_m":49255946.499475,
     "geom:bbox":"-4.4232049915,52.1093079258,-4.25337105392,52.1985834123",
     "geom:latitude":52.146055,
     "geom:longitude":-4.343444,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.145335,
     "lbl:longitude":-4.363187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llandysiliogogo Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000375"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711851
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9168c0379a3830d4ba4eb17863f20dbc",
+    "wof:geomhash":"0e78a3d6bfcb0e1835e7c0637f2166c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404455165,
-    "wof:lastmodified":1566632293,
+    "wof:lastmodified":1695877138,
     "wof:name":"Llandysiliogogo Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

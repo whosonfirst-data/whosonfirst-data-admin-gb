@@ -10,12 +10,18 @@
     "geom:latitude":50.844456,
     "geom:longitude":-0.010949,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.841761,
     "lbl:longitude":-0.017061,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Iford"
@@ -51,12 +57,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003775"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125916285
     ],
     "wof:country":"GB",
-    "wof:geomhash":"74840f8dd8d91117800844e9bb9d056c",
+    "wof:geomhash":"52e062c0782be8d70803f8df4679b510",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404430691,
     "wof:label":"Iford Civil Parish",
-    "wof:lastmodified":1566632027,
+    "wof:lastmodified":1695877026,
     "wof:name":"Iford",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

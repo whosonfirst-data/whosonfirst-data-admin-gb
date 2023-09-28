@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001427,
-    "geom:area_square_m":10898901.023902,
+    "geom:area_square_m":10898901.023903,
     "geom:bbox":"-1.96501600889,51.8486381403,-1.89841327289,51.8844389572",
     "geom:latitude":51.867969,
     "geom:longitude":-1.932196,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.870078,
     "lbl:longitude":-1.934888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shipton"
@@ -66,12 +72,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004267"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343590041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f7a0fc5bd34a458913688fa0e5084c57",
+    "wof:geomhash":"f54dc500a14d3a420f24b5f57dc0da9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404450027,
     "wof:label":"Shipton Civil Parish",
-    "wof:lastmodified":1566633810,
+    "wof:lastmodified":1695877822,
     "wof:name":"Shipton",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

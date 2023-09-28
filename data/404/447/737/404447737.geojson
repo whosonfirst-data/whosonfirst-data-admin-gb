@@ -10,12 +10,18 @@
     "geom:latitude":52.134206,
     "geom:longitude":-1.171557,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.132265,
     "lbl:longitude":-1.172282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moreton Pinkney"
@@ -63,12 +69,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006843"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126056931
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3a80b8ed55a6f05f6bfb124fcff01558",
+    "wof:geomhash":"6d2ea9d9f2069bed7ff6de91088f55ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447737,
     "wof:label":"Moreton Pinkney Civil Parish",
-    "wof:lastmodified":1566631242,
+    "wof:lastmodified":1695878268,
     "wof:name":"Moreton Pinkney",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

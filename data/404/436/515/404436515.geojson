@@ -10,12 +10,18 @@
     "geom:latitude":53.198908,
     "geom:longitude":-2.998424,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.196916,
     "lbl:longitude":-2.995431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Queensferry Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000205"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711551
     ],
     "wof:country":"GB",
-    "wof:geomhash":"27c70ad1d29e91b3253db89a4245381b",
+    "wof:geomhash":"14f7b5d44049b7cb6cdf8fd20a66880e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404436515,
-    "wof:lastmodified":1566632428,
+    "wof:lastmodified":1695877199,
     "wof:name":"Queensferry Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

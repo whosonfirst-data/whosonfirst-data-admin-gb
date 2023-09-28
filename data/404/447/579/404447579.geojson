@@ -10,12 +10,18 @@
     "geom:latitude":54.218598,
     "geom:longitude":-2.5382,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.212074,
     "lbl:longitude":-2.560212,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Casterton"
@@ -51,12 +57,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002594"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125839427
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3262a440eca5da082fbdd65433a5b7e2",
+    "wof:geomhash":"0b4bd7b206e22668e43d53d6c7cc66b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404447579,
     "wof:label":"Casterton Civil Parish",
-    "wof:lastmodified":1566631341,
+    "wof:lastmodified":1695878314,
     "wof:name":"Casterton",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

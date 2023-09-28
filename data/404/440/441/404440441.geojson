@@ -10,12 +10,18 @@
     "geom:latitude":54.339633,
     "geom:longitude":-3.11408,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.337354,
     "lbl:longitude":-3.117387,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Torver"
@@ -57,12 +63,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002654"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"75d119ee3d8c73bbd3b80b189e779b3c",
+    "wof:geomhash":"94fd4cdc34b63b4a6e7b618a8d0782b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440441,
     "wof:label":"Torver Civil Parish",
-    "wof:lastmodified":1566631147,
+    "wof:lastmodified":1695878225,
     "wof:name":"Torver",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

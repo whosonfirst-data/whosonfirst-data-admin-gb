@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000832,
-    "geom:area_square_m":6364187.370576,
+    "geom:area_square_m":6364187.370577,
     "geom:bbox":"-1.25390194454,51.7721934977,-1.20013556181,51.796963513",
     "geom:latitude":51.785267,
     "geom:longitude":-1.22467,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.785134,
     "lbl:longitude":-1.224152,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elsfield"
@@ -55,12 +61,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008126"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756173
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db28d3c2e700d52e54378360a2122632",
+    "wof:geomhash":"d2fd0c37cff9ce38ec3dd8ddf844be45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404447995,
     "wof:label":"Elsfield Civil Parish",
-    "wof:lastmodified":1566631292,
+    "wof:lastmodified":1695878292,
     "wof:name":"Elsfield",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

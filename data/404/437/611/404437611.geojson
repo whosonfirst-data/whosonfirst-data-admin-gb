@@ -10,12 +10,18 @@
     "geom:latitude":51.846599,
     "geom:longitude":0.297773,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.843425,
     "lbl:longitude":0.294786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Canfield"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004130"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242806651
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0d23a84183012138a87da0493c1c24e2",
+    "wof:geomhash":"804683cecf8a9c9e5375296b0b67ec4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404437611,
     "wof:label":"Great Canfield Civil Parish",
-    "wof:lastmodified":1566632077,
+    "wof:lastmodified":1695877047,
     "wof:name":"Great Canfield",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

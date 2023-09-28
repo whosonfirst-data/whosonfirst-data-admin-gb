@@ -10,12 +10,18 @@
     "geom:latitude":53.082143,
     "geom:longitude":-1.769215,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.082651,
     "lbl:longitude":-1.769702,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Newton Grange"
@@ -42,12 +48,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002791"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125828785
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9286fc1036fe296e751152e6bdf171a8",
+    "wof:geomhash":"d82a577257b6dc3b0acf4168dc3cfa6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404445097,
     "wof:label":"Newton Grange Civil Parish",
-    "wof:lastmodified":1566633345,
+    "wof:lastmodified":1695877615,
     "wof:name":"Newton Grange",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

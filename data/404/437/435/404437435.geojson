@@ -10,12 +10,18 @@
     "geom:latitude":51.559762,
     "geom:longitude":0.531304,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.546822,
     "lbl:longitude":0.525566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bowers Gifford and North Benfleet"
@@ -43,12 +49,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012052"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759637
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72924006b20565ad4ae2028acdd47475",
+    "wof:geomhash":"bb8a6ee5f1a362840da8baa7315e5020",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404437435,
     "wof:label":"Bowers Gifford and North Benfleet Civil Parish",
-    "wof:lastmodified":1566632145,
+    "wof:lastmodified":1695877076,
     "wof:name":"Bowers Gifford and North Benfleet",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

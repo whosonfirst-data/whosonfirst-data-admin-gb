@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000593,
-    "geom:area_square_m":4412885.185856,
+    "geom:area_square_m":4412885.185855,
     "geom:bbox":"-1.74949100431,53.0006824391,-1.70571428851,53.0245804054",
     "geom:latitude":53.01236,
     "geom:longitude":-1.726448,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.013939,
     "lbl:longitude":-1.729768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0448\u0431\u043e\u0440\u043d"
@@ -78,12 +84,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002717"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872091
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e314c8f9bb90b99806ad3751926f12be",
+    "wof:geomhash":"424d470769f404c5f199e2ecb51b2306",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404433569,
     "wof:label":"Ashbourne Civil Parish",
-    "wof:lastmodified":1566633639,
+    "wof:lastmodified":1695877747,
     "wof:name":"Ashbourne",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

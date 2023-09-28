@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002413,
-    "geom:area_square_m":17914666.231079,
+    "geom:area_square_m":17914666.231081,
     "geom:bbox":"-3.85461498145,53.0652653767,-3.78692340143,53.1231814581",
     "geom:latitude":53.092971,
     "geom:longitude":-3.819106,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.088307,
     "lbl:longitude":-3.81975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Betws-y-Coed Community"
@@ -40,12 +46,15 @@
         1360698739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000106"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126044239
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2864077b05125b97d582420c35296a42",
+    "wof:geomhash":"aeca2fde2b686f48620f7cc86cdb0a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443741,
-    "wof:lastmodified":1566633037,
+    "wof:lastmodified":1695877476,
     "wof:name":"Betws-y-Coed Community",
     "wof:parent_id":1360698739,
     "wof:placetype":"localadmin",

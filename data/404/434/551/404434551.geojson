@@ -10,12 +10,18 @@
     "geom:latitude":54.538412,
     "geom:longitude":-1.838662,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.538042,
     "lbl:longitude":-1.838662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whorlton"
@@ -54,12 +60,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010713"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913699
     ],
     "wof:country":"GB",
-    "wof:geomhash":"020a0b9184ffd9b21f14672756f47221",
+    "wof:geomhash":"a8c8230e1784f2ab0be9816677ebcef2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404434551,
     "wof:label":"Whorlton Civil Parish",
-    "wof:lastmodified":1566633535,
+    "wof:lastmodified":1695877700,
     "wof:name":"Whorlton",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

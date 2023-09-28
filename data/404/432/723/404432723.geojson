@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001817,
-    "geom:area_square_m":14257685.188599,
+    "geom:area_square_m":14257685.1886,
     "geom:bbox":"-4.72957696089,50.5897247044,-4.6416567603,50.64648863",
     "geom:latitude":50.617498,
     "geom:longitude":-4.691269,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.619917,
     "lbl:longitude":-4.691267,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Gafolford"
@@ -102,12 +108,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011414"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126007895
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ed1abf867104f6bac11c5532b35e3555",
+    "wof:geomhash":"baf9c67c47158d50c4b94f7f96aec14b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404432723,
     "wof:label":"Camelford Civil Parish",
-    "wof:lastmodified":1566633916,
+    "wof:lastmodified":1695877858,
     "wof:name":"Camelford",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

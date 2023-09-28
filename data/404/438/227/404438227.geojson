@@ -10,12 +10,18 @@
     "geom:latitude":51.377131,
     "geom:longitude":-2.427318,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.377337,
     "lbl:longitude":-2.427678,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Newton St. Loe"
@@ -42,12 +48,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000979"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226674825
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9a8e203b5a024d8c00773d6960ad497c",
+    "wof:geomhash":"7f0bcef39dc6bce982cf1befdd7cd566",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404438227,
     "wof:label":"Newton St. Loe Civil Parish",
-    "wof:lastmodified":1566632550,
+    "wof:lastmodified":1695877255,
     "wof:name":"Newton St. Loe",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

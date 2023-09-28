@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001215,
-    "geom:area_square_m":9228140.976709,
+    "geom:area_square_m":9228140.976708,
     "geom:bbox":"0.540759399574,52.0690278342,0.605496466403,52.1045209177",
     "geom:latitude":52.085438,
     "geom:longitude":0.571011,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.085705,
     "lbl:longitude":0.562433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clare"
@@ -84,12 +90,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009298"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854861
     ],
     "wof:country":"GB",
-    "wof:geomhash":"68f9e5539dd766ed2d125ae807a57537",
+    "wof:geomhash":"0b5a836835aa4ef91bafdaec3f375e33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404440855,
     "wof:label":"Clare Civil Parish",
-    "wof:lastmodified":1566631217,
+    "wof:lastmodified":1695878257,
     "wof:name":"Clare",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

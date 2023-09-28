@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002267,
-    "geom:area_square_m":17363184.604188,
+    "geom:area_square_m":17363184.604187,
     "geom:bbox":"-2.95490839233,51.7078039013,-2.86127425336,51.7493428595",
     "geom:latitude":51.729525,
     "geom:longitude":-2.904942,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.731006,
     "lbl:longitude":-2.905648,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gwehelog Fawr Community"
@@ -40,12 +46,15 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000783"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711919
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e44c53a037071239c2c71bbfac6026ce",
+    "wof:geomhash":"a47c17a06272291f9336d984532b56a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454265,
-    "wof:lastmodified":1566632725,
+    "wof:lastmodified":1695877339,
     "wof:name":"Gwehelog Fawr Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

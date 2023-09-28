@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005849,
-    "geom:area_square_m":44561329.458012,
+    "geom:area_square_m":44561329.458011,
     "geom:bbox":"-4.71449912151,51.9185702707,-4.56001292694,52.0104189145",
     "geom:latitude":51.96246,
     "geom:longitude":-4.643836,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.950314,
     "lbl:longitude":-4.637443,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crymych Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000421"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126015995
     ],
     "wof:country":"GB",
-    "wof:geomhash":"225298e8cf1de0bd8ea94c8a690b5990",
+    "wof:geomhash":"335ed851afe4318967266381c1ddc6f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444587,
-    "wof:lastmodified":1566632923,
+    "wof:lastmodified":1695877423,
     "wof:name":"Crymych Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002465,
-    "geom:area_square_m":18407975.725573,
+    "geom:area_square_m":18407975.725572,
     "geom:bbox":"-4.13138524796,52.8259577086,-3.98188215544,52.8806211597",
     "geom:latitude":52.856309,
     "geom:longitude":-4.062134,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.861828,
     "lbl:longitude":-4.057058,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfair Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000077"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882501
     ],
     "wof:country":"GB",
-    "wof:geomhash":"128603f4918ac654088864bb4dbeaa2b",
+    "wof:geomhash":"807ba0177e7cca21fc23dd650aefb56e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449805,
-    "wof:lastmodified":1566631387,
+    "wof:lastmodified":1695878333,
     "wof:name":"Llanfair Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

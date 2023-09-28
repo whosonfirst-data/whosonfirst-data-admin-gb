@@ -10,12 +10,18 @@
     "geom:latitude":51.366582,
     "geom:longitude":-1.321012,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.366953,
     "lbl:longitude":-1.31875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Newtown"
@@ -115,12 +121,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004465"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754117
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a369d17f63bb5fb78544e353cd8e4379",
+    "wof:geomhash":"a25feb1e7a8d92e12e6f821e4d32e7cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +142,7 @@
     ],
     "wof:id":404446639,
     "wof:label":"Newtown Civil Parish",
-    "wof:lastmodified":1566631689,
+    "wof:lastmodified":1695876880,
     "wof:name":"Newtown",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

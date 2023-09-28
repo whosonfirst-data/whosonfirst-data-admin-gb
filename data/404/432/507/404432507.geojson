@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001293,
-    "geom:area_square_m":9426624.760855,
+    "geom:area_square_m":9426624.760854,
     "geom:bbox":"-1.23352493966,53.8497517086,-1.16838169853,53.8866668209",
     "geom:latitude":53.868215,
     "geom:longitude":-1.201028,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.870003,
     "lbl:longitude":-1.201523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bolton Percy"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007720"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125987847
     ],
     "wof:country":"GB",
-    "wof:geomhash":"08d2f2230f49ff3460b59b2c4e9b5899",
+    "wof:geomhash":"cb4b380d8569ddcaca25f2cb480b72c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404432507,
     "wof:label":"Bolton Percy Civil Parish",
-    "wof:lastmodified":1566633927,
+    "wof:lastmodified":1695877864,
     "wof:name":"Bolton Percy",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

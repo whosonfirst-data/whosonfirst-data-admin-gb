@@ -10,12 +10,18 @@
     "geom:latitude":51.016843,
     "geom:longitude":0.753839,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.013836,
     "lbl:longitude":0.753178,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stone-Cum-Ebony"
@@ -40,12 +46,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004859"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754495
     ],
     "wof:country":"GB",
-    "wof:geomhash":"76d705c1654a54768da201ab45527f51",
+    "wof:geomhash":"831de6259dc0db56b28a5d43d6a6e7d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404438585,
     "wof:label":"Stone-Cum-Ebony Civil Parish",
-    "wof:lastmodified":1566632629,
+    "wof:lastmodified":1695877291,
     "wof:name":"Stone-Cum-Ebony",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

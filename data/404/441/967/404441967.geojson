@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000992,
-    "geom:area_square_m":7566961.819516,
+    "geom:area_square_m":7566961.819515,
     "geom:bbox":"-1.64555005563,51.9049958299,-1.59126289878,51.9376310571",
     "geom:latitude":51.923124,
     "geom:longitude":-1.62002,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.921122,
     "lbl:longitude":-1.624143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kingham"
@@ -57,12 +63,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008303"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125840253
     ],
     "wof:country":"GB",
-    "wof:geomhash":"163b4be400df4ec3a22c23435e078657",
+    "wof:geomhash":"46d363fb9a9d9fe2369fa2a91094fa4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404441967,
     "wof:label":"Kingham Civil Parish",
-    "wof:lastmodified":1566631780,
+    "wof:lastmodified":1695876916,
     "wof:name":"Kingham",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

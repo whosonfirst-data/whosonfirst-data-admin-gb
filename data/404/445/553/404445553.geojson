@@ -10,12 +10,18 @@
     "geom:latitude":50.367811,
     "geom:longitude":-3.71659,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.369953,
     "lbl:longitude":-3.722084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Halwell and Moreleigh"
@@ -52,12 +58,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003151"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759459
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2215007b7dc405c2ec1eba38ddd67214",
+    "wof:geomhash":"766a8e93bee1a16b4b2c17a67190c14b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404445553,
     "wof:label":"Halwell and Moreleigh Civil Parish",
-    "wof:lastmodified":1566633377,
+    "wof:lastmodified":1695877628,
     "wof:name":"Halwell and Moreleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.6018,
     "geom:longitude":-2.724192,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.601996,
     "lbl:longitude":-2.723702,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Frodesley"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011273"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054573
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dfc48824f37f5a2be5bae73704b624d1",
+    "wof:geomhash":"c83ba67891d5ca710173fe1f3a8dc6d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404431683,
     "wof:label":"Frodesley Civil Parish",
-    "wof:lastmodified":1566632508,
+    "wof:lastmodified":1695877235,
     "wof:name":"Frodesley",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

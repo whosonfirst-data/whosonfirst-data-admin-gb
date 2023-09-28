@@ -10,12 +10,18 @@
     "geom:latitude":52.395035,
     "geom:longitude":-1.340052,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.39659,
     "lbl:longitude":-1.34042,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "King's Newnham"
@@ -57,12 +63,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009678"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125909457
     ],
     "wof:country":"GB",
-    "wof:geomhash":"20133216369cd9eed1e2c1096f394915",
+    "wof:geomhash":"120837f9e3cefa3666f07d4a0e401746",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404441787,
     "wof:label":"King's Newnham Civil Parish",
-    "wof:lastmodified":1566631824,
+    "wof:lastmodified":1695876937,
     "wof:name":"King's Newnham",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

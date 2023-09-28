@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003038,
-    "geom:area_square_m":22291191.987843,
+    "geom:area_square_m":22291191.987842,
     "geom:bbox":"-0.610027074347,53.5836131089,-0.517158685157,53.6383739954",
     "geom:latitude":53.607572,
     "geom:longitude":-0.561169,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.609025,
     "lbl:longitude":-0.555639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Appleby"
@@ -93,12 +99,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000537"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874151
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f46783a5e6d4493d9d8052a57dd27817",
+    "wof:geomhash":"d642dc9b754033092693680ef6ae0720",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404452591,
     "wof:label":"Appleby Civil Parish",
-    "wof:lastmodified":1566632228,
+    "wof:lastmodified":1695877111,
     "wof:name":"Appleby",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

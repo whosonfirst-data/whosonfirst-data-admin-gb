@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011512,
-    "geom:area_square_m":85610554.304262,
+    "geom:area_square_m":85610554.304259,
     "geom:bbox":"-4.16167533745,52.9667379168,-3.97688165917,53.0897008055",
     "geom:latitude":53.028306,
     "geom:longitude":-4.062589,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.039251,
     "lbl:longitude":-4.040912,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beddgelert Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000048"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125926863
     ],
     "wof:country":"GB",
-    "wof:geomhash":"319dba40ad07939a0191786bf886dbb1",
+    "wof:geomhash":"8591e46459624f61a9fa62dbac2d04e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454013,
-    "wof:lastmodified":1566632663,
+    "wof:lastmodified":1695877307,
     "wof:name":"Beddgelert Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

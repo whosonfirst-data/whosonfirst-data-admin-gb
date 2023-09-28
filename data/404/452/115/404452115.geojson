@@ -10,12 +10,18 @@
     "geom:latitude":51.945308,
     "geom:longitude":-2.513139,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.946347,
     "lbl:longitude":-2.516757,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upton Bishop"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000893"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209134721
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8dfbba3ae841a8f7b1b9cec3c6401c1a",
+    "wof:geomhash":"4e71bb21e0395e1b5a9cfd7ba4ae30ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452115,
     "wof:label":"Upton Bishop Civil Parish",
-    "wof:lastmodified":1566632256,
+    "wof:lastmodified":1695877123,
     "wof:name":"Upton Bishop",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

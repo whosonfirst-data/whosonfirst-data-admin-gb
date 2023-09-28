@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008416,
-    "geom:area_square_m":63390671.475292,
+    "geom:area_square_m":63390671.475291,
     "geom:bbox":"-0.185935705288,52.4371334381,-0.00931642587106,52.516808153",
     "geom:latitude":52.472484,
     "geom:longitude":-0.104597,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.470061,
     "lbl:longitude":-0.088655,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ramsey"
@@ -111,12 +117,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012035"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326759729
     ],
     "wof:country":"GB",
-    "wof:geomhash":"18a0901ae8d449f9185df93f4415f04b",
+    "wof:geomhash":"1d890cbc4c2efc54d91f26c1cd76f2e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +138,7 @@
     ],
     "wof:id":404443131,
     "wof:label":"Ramsey Civil Parish",
-    "wof:lastmodified":1566633040,
+    "wof:lastmodified":1695877478,
     "wof:name":"Ramsey",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

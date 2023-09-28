@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001108,
-    "geom:area_square_m":8626517.394153,
+    "geom:area_square_m":8626517.394154,
     "geom:bbox":"-3.27178617091,50.9653412588,-3.20384396851,50.9913365541",
     "geom:latitude":50.978535,
     "geom:longitude":-3.236881,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.978721,
     "lbl:longitude":-3.236885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Wellington"
@@ -447,12 +453,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008819"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852489
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b53c8bfca4db5e4dbfcc96b942d645d7",
+    "wof:geomhash":"b85838ac7a141fc1763294061ceee1b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -465,7 +474,7 @@
     ],
     "wof:id":404439523,
     "wof:label":"Wellington Civil Parish",
-    "wof:lastmodified":1566631930,
+    "wof:lastmodified":1695876988,
     "wof:name":"Wellington",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

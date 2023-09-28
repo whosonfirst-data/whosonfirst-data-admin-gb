@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000723,
-    "geom:area_square_m":5340323.53549,
+    "geom:area_square_m":5340323.535489,
     "geom:bbox":"-0.908862205764,53.3001948859,-0.860516363731,53.32173796",
     "geom:latitude":53.310702,
     "geom:longitude":-0.884627,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.310562,
     "lbl:longitude":-0.884628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grove"
@@ -93,12 +99,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007811"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276579255
     ],
     "wof:country":"GB",
-    "wof:geomhash":"86e4e05bbd88685861a083fefae2aa0b",
+    "wof:geomhash":"46c4766d3511b5460585584538445886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404454245,
     "wof:label":"Grove Civil Parish",
-    "wof:lastmodified":1566632661,
+    "wof:lastmodified":1695877307,
     "wof:name":"Grove",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

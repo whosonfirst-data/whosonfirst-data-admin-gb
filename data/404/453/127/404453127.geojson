@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003863,
-    "geom:area_square_m":29447984.086264,
+    "geom:area_square_m":29447984.086263,
     "geom:bbox":"-5.1397609302,51.9102092841,-5.01034847371,51.9706389099",
     "geom:latitude":51.939641,
     "geom:longitude":-5.078643,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.946333,
     "lbl:longitude":-5.093748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mathry Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000948"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125978311
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f899951eb9dfd49bb7b3b7d0828f2ab0",
+    "wof:geomhash":"8a2584da97468ccba79e7ecbc538e75a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453127,
-    "wof:lastmodified":1566632798,
+    "wof:lastmodified":1695877372,
     "wof:name":"Mathry Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

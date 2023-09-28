@@ -10,12 +10,18 @@
     "geom:latitude":52.846479,
     "geom:longitude":1.027702,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.845141,
     "lbl:longitude":1.021761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Melton Constable"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006449"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843967
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4b5a450eb049975eca8264ec956b2536",
+    "wof:geomhash":"5532c44eb7b5159c5025d74083861677",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404440707,
     "wof:label":"Melton Constable Civil Parish",
-    "wof:lastmodified":1566631137,
+    "wof:lastmodified":1695878220,
     "wof:name":"Melton Constable",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

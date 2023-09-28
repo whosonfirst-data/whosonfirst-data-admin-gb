@@ -10,12 +10,18 @@
     "geom:latitude":51.24581,
     "geom:longitude":1.113559,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.247028,
     "lbl:longitude":1.113203,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Brug"
@@ -447,12 +453,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004870"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309832985
     ],
     "wof:country":"GB",
-    "wof:geomhash":"69a1bda7ef1ea344e2e87fbb09e68ac1",
+    "wof:geomhash":"9e7725f8cc1b4918c1ca0282d3fcbfc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -465,7 +474,7 @@
     ],
     "wof:id":404450101,
     "wof:label":"Bridge Civil Parish",
-    "wof:lastmodified":1566633804,
+    "wof:lastmodified":1695877819,
     "wof:name":"Bridge",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

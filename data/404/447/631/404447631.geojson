@@ -10,12 +10,18 @@
     "geom:latitude":50.923619,
     "geom:longitude":-2.11854,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.923941,
     "lbl:longitude":-2.114438,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tarrant Gunville"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003446"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243008469
     ],
     "wof:country":"GB",
-    "wof:geomhash":"879422ac791cd838073cf5c91b97df0d",
+    "wof:geomhash":"8a14bbda767edef686967a34d06c4fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447631,
     "wof:label":"Tarrant Gunville Civil Parish",
-    "wof:lastmodified":1566631330,
+    "wof:lastmodified":1695878309,
     "wof:name":"Tarrant Gunville",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

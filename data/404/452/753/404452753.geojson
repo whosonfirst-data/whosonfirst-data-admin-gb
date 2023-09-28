@@ -10,12 +10,18 @@
     "geom:latitude":52.302174,
     "geom:longitude":-2.753584,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.296115,
     "lbl:longitude":-2.738918,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Orleton"
@@ -57,12 +63,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000847"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309739379
     ],
     "wof:country":"GB",
-    "wof:geomhash":"180104a9e53a1d05a0d043facb81cb74",
+    "wof:geomhash":"1192ea484b97263aa421264904a14175",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404452753,
     "wof:label":"Orleton Civil Parish",
-    "wof:lastmodified":1566632171,
+    "wof:lastmodified":1695877087,
     "wof:name":"Orleton",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

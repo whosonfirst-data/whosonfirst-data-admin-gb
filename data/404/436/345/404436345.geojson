@@ -10,12 +10,18 @@
     "geom:latitude":54.036491,
     "geom:longitude":-1.02746,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.035412,
     "lbl:longitude":-1.02821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strensall with Towthorpe"
@@ -43,12 +49,15 @@
         1360698977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010463"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758475
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32acf803199be84d109aeaf2d70ebd17",
+    "wof:geomhash":"388e0f5106adf87d9027c8a00b3587eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404436345,
     "wof:label":"Strensall with Towthorpe Civil Parish",
-    "wof:lastmodified":1566632418,
+    "wof:lastmodified":1695877195,
     "wof:name":"Strensall with Towthorpe",
     "wof:parent_id":1360698977,
     "wof:placetype":"localadmin",

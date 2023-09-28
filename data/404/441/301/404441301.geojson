@@ -10,12 +10,18 @@
     "geom:latitude":51.908475,
     "geom:longitude":-1.653613,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.909453,
     "lbl:longitude":-1.656191,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bledington"
@@ -60,12 +66,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004195"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125993689
     ],
     "wof:country":"GB",
-    "wof:geomhash":"225caaa17e7ed379378e4ef6cf0976d0",
+    "wof:geomhash":"8d432583a5e4715ee3639bcf744396ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404441301,
     "wof:label":"Bledington Civil Parish",
-    "wof:lastmodified":1566631723,
+    "wof:lastmodified":1695876894,
     "wof:name":"Bledington",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

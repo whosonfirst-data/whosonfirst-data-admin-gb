@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008089,
-    "geom:area_square_m":60959113.136552,
+    "geom:area_square_m":60959113.136554,
     "geom:bbox":"0.0119706836012,52.3856976098,0.166411040454,52.4908338369",
     "geom:latitude":52.448791,
     "geom:longitude":0.075838,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.451884,
     "lbl:longitude":0.062969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0627\u062a\u0631\u06cc\u0633"
@@ -93,12 +99,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001656"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854891
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d7d63a337ea09b10c26c5fa4f1d8b4b8",
+    "wof:geomhash":"e775169b897ee930f4c88a123a93e869",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404435289,
     "wof:label":"Chatteris Civil Parish",
-    "wof:lastmodified":1566633998,
+    "wof:lastmodified":1695877896,
     "wof:name":"Chatteris",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

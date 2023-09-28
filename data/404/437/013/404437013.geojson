@@ -10,12 +10,18 @@
     "geom:latitude":52.190286,
     "geom:longitude":-0.921023,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.189617,
     "lbl:longitude":-0.921025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Milton Malsor"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006842"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243201457
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fc9401aec4bccf57670c172f5f1473b3",
+    "wof:geomhash":"f2045a6693d55e03583b06380df1b392",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404437013,
     "wof:label":"Milton Malsor Civil Parish",
-    "wof:lastmodified":1566632072,
+    "wof:lastmodified":1695877045,
     "wof:name":"Milton Malsor",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

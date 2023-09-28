@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001741,
-    "geom:area_square_m":13320294.040957,
+    "geom:area_square_m":13320294.040958,
     "geom:bbox":"-4.19980674126,51.7545683074,-4.13625373548,51.8018152231",
     "geom:latitude":51.778168,
     "geom:longitude":-4.166363,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.777251,
     "lbl:longitude":-4.165883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pontyberem Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000553"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125764907
     ],
     "wof:country":"GB",
-    "wof:geomhash":"190cb47de4755c3b8e707e5652dcc2e8",
+    "wof:geomhash":"4731f212900b3266fc1124367b89d6a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429523,
-    "wof:lastmodified":1566633191,
+    "wof:lastmodified":1695877545,
     "wof:name":"Pontyberem Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

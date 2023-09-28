@@ -10,12 +10,18 @@
     "geom:latitude":53.78016,
     "geom:longitude":-0.473367,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.77862,
     "lbl:longitude":-0.473372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skidby"
@@ -60,12 +66,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000471"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125805295
     ],
     "wof:country":"GB",
-    "wof:geomhash":"68e3c0a31ef177d8bb320223ad6a5df7",
+    "wof:geomhash":"d6c667c320e0e8216a72c574806ca339",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404454401,
     "wof:label":"Skidby Civil Parish",
-    "wof:lastmodified":1566632669,
+    "wof:lastmodified":1695877311,
     "wof:name":"Skidby",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

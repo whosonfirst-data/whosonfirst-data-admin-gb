@@ -10,12 +10,18 @@
     "geom:latitude":52.164379,
     "geom:longitude":-2.512184,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.165074,
     "lbl:longitude":-2.509381,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Avenbury"
@@ -52,12 +58,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000690"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756767
     ],
     "wof:country":"GB",
-    "wof:geomhash":"267af2517cb17bf6b493be8c26fc2bd6",
+    "wof:geomhash":"280ead2e63038a11d4c18d97f247cb55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404451471,
     "wof:label":"Avenbury Civil Parish",
-    "wof:lastmodified":1566633435,
+    "wof:lastmodified":1695877653,
     "wof:name":"Avenbury",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.60131,
     "geom:longitude":-1.732801,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.598919,
     "lbl:longitude":-1.729655,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Drayton Bassett"
@@ -54,12 +60,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008921"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125876103
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ac64b026c9ca830e27195dfec2992d1f",
+    "wof:geomhash":"5967ddcaa869d5292ac6c0ab839083a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404445887,
     "wof:label":"Drayton Bassett Civil Parish",
-    "wof:lastmodified":1566633326,
+    "wof:lastmodified":1695877605,
     "wof:name":"Drayton Bassett",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

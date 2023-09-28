@@ -10,12 +10,18 @@
     "geom:latitude":52.553697,
     "geom:longitude":-0.367265,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.553372,
     "lbl:longitude":-0.370105,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062a\u0631 \u0646\u064a\u0648\u062a\u0648\u0646"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001749"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125997089
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cd2aa7e7db8c9e75210750cbafdd5474",
+    "wof:geomhash":"264fdc2ca4124f2ff5b5f8ee248bbb82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447605,
     "wof:label":"Water Newton Civil Parish",
-    "wof:lastmodified":1566631266,
+    "wof:lastmodified":1695878279,
     "wof:name":"Water Newton",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

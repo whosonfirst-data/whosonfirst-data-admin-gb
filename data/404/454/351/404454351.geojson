@@ -10,12 +10,18 @@
     "geom:latitude":51.86118,
     "geom:longitude":-4.738837,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.864177,
     "lbl:longitude":-4.735023,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llandissilio West Community"
@@ -40,9 +46,12 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000440"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"2c2b2ab62eda4ae73b94eb7f8d63ff41",
+    "wof:geomhash":"9771a17a51528b2c1383acfef7a90716",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404454351,
-    "wof:lastmodified":1566632701,
+    "wof:lastmodified":1695877327,
     "wof:name":"Llandissilio West Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

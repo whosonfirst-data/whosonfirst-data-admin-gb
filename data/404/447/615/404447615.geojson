@@ -10,12 +10,18 @@
     "geom:latitude":50.242358,
     "geom:longitude":-5.291996,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.241577,
     "lbl:longitude":-5.292001,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u064a\u0644\u063a\u0646"
@@ -72,12 +78,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011448"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868377
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b09dcbb0917ec5144a9187cfd95c291a",
+    "wof:geomhash":"99aac6e3b77545310437234484c4c24f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404447615,
     "wof:label":"Illogan Civil Parish",
-    "wof:lastmodified":1566631313,
+    "wof:lastmodified":1695878301,
     "wof:name":"Illogan",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

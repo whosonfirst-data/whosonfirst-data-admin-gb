@@ -10,12 +10,18 @@
     "geom:latitude":50.853017,
     "geom:longitude":-4.076991,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.856161,
     "lbl:longitude":-4.071124,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Meeth"
@@ -57,12 +63,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003337"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125922047
     ],
     "wof:country":"GB",
-    "wof:geomhash":"018284201826b7f98e9e14c9125ee6d5",
+    "wof:geomhash":"292a8327fda228662c0d6a82493df25b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404441129,
     "wof:label":"Meeth Civil Parish",
-    "wof:lastmodified":1566631760,
+    "wof:lastmodified":1695876908,
     "wof:name":"Meeth",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

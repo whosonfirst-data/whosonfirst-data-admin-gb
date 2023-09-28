@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00085,
-    "geom:area_square_m":6469249.713021,
+    "geom:area_square_m":6469249.713022,
     "geom:bbox":"0.73690303931,52.0162992853,0.786905156856,52.0418260876",
     "geom:latitude":52.029335,
     "geom:longitude":0.761963,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.030617,
     "lbl:longitude":0.761959,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Cornard"
@@ -60,12 +66,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009090"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125886213
     ],
     "wof:country":"GB",
-    "wof:geomhash":"73cce0449dd6566e455b0729e2fd23b1",
+    "wof:geomhash":"d68f743c63c540de07c907c148d25bdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448153,
     "wof:label":"Great Cornard Civil Parish",
-    "wof:lastmodified":1566631522,
+    "wof:lastmodified":1695876822,
     "wof:name":"Great Cornard",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

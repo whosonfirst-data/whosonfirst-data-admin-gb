@@ -10,12 +10,18 @@
     "geom:latitude":50.411852,
     "geom:longitude":-5.01279,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.414798,
     "lbl:longitude":-5.007769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Colan"
@@ -54,12 +60,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011420"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903671
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c536b3f6547223b58f0eef21bb05cf1",
+    "wof:geomhash":"192f13633b73c7f1e44ecf2fbdf7b947",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448827,
     "wof:label":"Colan Civil Parish",
-    "wof:lastmodified":1566631475,
+    "wof:lastmodified":1695876804,
     "wof:name":"Colan",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

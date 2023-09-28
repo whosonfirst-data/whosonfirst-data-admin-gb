@@ -10,12 +10,18 @@
     "geom:latitude":53.500263,
     "geom:longitude":-1.220138,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.502506,
     "lbl:longitude":-1.22055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cadeby"
@@ -55,12 +61,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000069"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758565
     ],
     "wof:country":"GB",
-    "wof:geomhash":"054142ce0e7472b4b643e7d2c0ff0916",
+    "wof:geomhash":"d06a3cd21b5575d914ec89d82bfe53e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404436413,
     "wof:label":"Cadeby Civil Parish",
-    "wof:lastmodified":1566632335,
+    "wof:lastmodified":1695877158,
     "wof:name":"Cadeby",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.954911,
     "geom:longitude":-0.727359,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.955591,
     "lbl:longitude":-0.726772,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Allington"
@@ -63,12 +69,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005873"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910301
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7453e4a01bf0377bd65f8fb591d17a47",
+    "wof:geomhash":"2db23bbb7f93144684d47a081e150490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404455331,
     "wof:label":"Allington Civil Parish",
-    "wof:lastmodified":1566632269,
+    "wof:lastmodified":1695877129,
     "wof:name":"Allington",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.536009,
     "geom:longitude":-2.462764,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.537415,
     "lbl:longitude":-2.463256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ormside"
@@ -52,12 +58,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002563"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757895
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1145c1eb802ad16da24ab75a743ae6ed",
+    "wof:geomhash":"7c7cb3dd16d311aa01976c0782eeb7ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404452213,
     "wof:label":"Ormside Civil Parish",
-    "wof:lastmodified":1566632242,
+    "wof:lastmodified":1695877117,
     "wof:name":"Ormside",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

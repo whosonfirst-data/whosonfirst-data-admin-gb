@@ -10,12 +10,18 @@
     "geom:latitude":52.035098,
     "geom:longitude":1.115321,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.039119,
     "lbl:longitude":1.105076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pinewood"
@@ -70,12 +76,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009139"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753907
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8d3c41919235c629eae8016df4fffa2c",
+    "wof:geomhash":"1b8abb67400a066fd2051cbe3e6160c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +97,7 @@
     ],
     "wof:id":404449603,
     "wof:label":"Pinewood Civil Parish",
-    "wof:lastmodified":1566631383,
+    "wof:lastmodified":1695878331,
     "wof:name":"Pinewood",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001985,
-    "geom:area_square_m":14914521.172111,
+    "geom:area_square_m":14914521.17211,
     "geom:bbox":"0.947053436215,52.5511655742,1.0184263044,52.5951026865",
     "geom:latitude":52.574735,
     "geom:longitude":0.983414,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.57271,
     "lbl:longitude":0.983409,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hingham"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006560"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854979
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c8e2e4117fca975ab8655f88611908f6",
+    "wof:geomhash":"48b5c9c7981fce2bce56792f082ba5e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404434437,
     "wof:label":"Hingham Civil Parish",
-    "wof:lastmodified":1566633562,
+    "wof:lastmodified":1695877714,
     "wof:name":"Hingham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

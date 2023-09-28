@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00256,
-    "geom:area_square_m":19043813.278526,
+    "geom:area_square_m":19043813.278525,
     "geom:bbox":"-3.1487979115,52.9872687187,-3.05592530197,53.0437089086",
     "geom:latitude":53.010596,
     "geom:longitude":-3.108933,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.014306,
     "lbl:longitude":-3.115962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penycae Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000239"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711815
     ],
     "wof:country":"GB",
-    "wof:geomhash":"38a244dc52cfc92207f4465d82993d7d",
+    "wof:geomhash":"c10cfc40f2fabb82f0a0e3951d83649f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454045,
-    "wof:lastmodified":1566632708,
+    "wof:lastmodified":1695877330,
     "wof:name":"Penycae Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

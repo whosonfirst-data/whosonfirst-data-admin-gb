@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000767,
-    "geom:area_square_m":6105877.998543,
+    "geom:area_square_m":6105877.998545,
     "geom:bbox":"-6.36636529979,49.9264829641,-6.30700360688,49.980105041",
     "geom:latitude":49.95342,
     "geom:longitude":-6.333939,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":49.951395,
     "lbl:longitude":-6.331716,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Tresco"
@@ -60,12 +66,15 @@
         1360698909
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011616"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033145
     ],
     "wof:country":"GB",
-    "wof:geomhash":"57ad5ddf78f265390bb376545d2c65ad",
+    "wof:geomhash":"003f1821393c77811e1248d13b124c44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404452025,
     "wof:label":"Tresco Civil Parish",
-    "wof:lastmodified":1566632187,
+    "wof:lastmodified":1695877094,
     "wof:name":"Tresco",
     "wof:parent_id":1360698909,
     "wof:placetype":"localadmin",

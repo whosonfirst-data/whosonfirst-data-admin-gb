@@ -10,12 +10,18 @@
     "geom:latitude":50.892615,
     "geom:longitude":-2.654316,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.893909,
     "lbl:longitude":-2.653516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Closworth"
@@ -58,12 +64,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008683"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757353
     ],
     "wof:country":"GB",
-    "wof:geomhash":"850b1bf4482848269756e6fb0803bc81",
+    "wof:geomhash":"85286ffd7b50e289cba456335348f3aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404451831,
     "wof:label":"Closworth Civil Parish",
-    "wof:lastmodified":1566633510,
+    "wof:lastmodified":1695877687,
     "wof:name":"Closworth",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

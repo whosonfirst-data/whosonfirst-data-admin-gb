@@ -10,12 +10,18 @@
     "geom:latitude":51.973244,
     "geom:longitude":0.984411,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.97385,
     "lbl:longitude":0.984771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stratford St. Mary"
@@ -69,12 +75,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009127"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125767915
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d07b08ca7e7395a4e08aee6f0d747601",
+    "wof:geomhash":"6ec67ffe26e15b042cdcd2910e84b485",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404434441,
     "wof:label":"Stratford St. Mary Civil Parish",
-    "wof:lastmodified":1566633555,
+    "wof:lastmodified":1695877711,
     "wof:name":"Stratford St. Mary",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

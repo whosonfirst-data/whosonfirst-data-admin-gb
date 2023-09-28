@@ -10,12 +10,18 @@
     "geom:latitude":51.279939,
     "geom:longitude":-2.188752,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.279357,
     "lbl:longitude":-2.180556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heywood"
@@ -75,12 +81,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011733"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293036281
     ],
     "wof:country":"GB",
-    "wof:geomhash":"570bb0f635d533c7b4b15c9a18e42098",
+    "wof:geomhash":"8e38db5926a825ffc3553fefd89542f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404433659,
     "wof:label":"Heywood Civil Parish",
-    "wof:lastmodified":1566633672,
+    "wof:lastmodified":1695877762,
     "wof:name":"Heywood",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

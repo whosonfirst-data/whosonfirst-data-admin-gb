@@ -10,12 +10,18 @@
     "geom:latitude":52.526096,
     "geom:longitude":1.386743,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.524038,
     "lbl:longitude":1.386497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirstead"
@@ -52,12 +58,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006568"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757963
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2a356916ebbfb4a75c8aa81738963f6b",
+    "wof:geomhash":"369ab78ec198480978d7abb61b4ebca8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404442743,
     "wof:label":"Kirstead Civil Parish",
-    "wof:lastmodified":1566633292,
+    "wof:lastmodified":1695877590,
     "wof:name":"Kirstead",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

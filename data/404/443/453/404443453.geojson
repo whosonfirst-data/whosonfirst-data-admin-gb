@@ -10,12 +10,18 @@
     "geom:latitude":51.996757,
     "geom:longitude":-2.30846,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.996752,
     "lbl:longitude":-2.308773,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pendock (Det)"
@@ -40,12 +46,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010330"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758361
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0c90e4230ec83ea2f15bf195ca45e00f",
+    "wof:geomhash":"dd40f3bf620d705d64b7e2b991c12f60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404443453,
     "wof:label":"Pendock (Det) Civil Parish",
-    "wof:lastmodified":1566633022,
+    "wof:lastmodified":1695877469,
     "wof:name":"Pendock (Det)",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

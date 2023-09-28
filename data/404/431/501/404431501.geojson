@@ -10,12 +10,18 @@
     "geom:latitude":53.158184,
     "geom:longitude":-2.671684,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.158999,
     "lbl:longitude":-2.668735,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0628\u0631\u0644\u064a"
@@ -69,12 +75,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011173"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126034995
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a79a13845a365671deeeefccd290313e",
+    "wof:geomhash":"7fbbc2467b6a4e112e22ffb3c2687d01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404431501,
     "wof:label":"Tarporley Civil Parish",
-    "wof:lastmodified":1566632485,
+    "wof:lastmodified":1695877225,
     "wof:name":"Tarporley",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

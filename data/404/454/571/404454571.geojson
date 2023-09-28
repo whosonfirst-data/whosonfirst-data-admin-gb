@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004149,
-    "geom:area_square_m":29614775.285409,
+    "geom:area_square_m":29614775.285408,
     "geom:bbox":"-3.02616769806,54.7059937053,-2.92094871116,54.7855901344",
     "geom:latitude":54.745979,
     "geom:longitude":-2.965853,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.749403,
     "lbl:longitude":-2.962289,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Castle Sowerby"
@@ -55,12 +61,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002521"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753825
     ],
     "wof:country":"GB",
-    "wof:geomhash":"98c6f6f0920b6819c357d5120fc6bf03",
+    "wof:geomhash":"31df1dcc1d815201ff1006a664df3300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404454571,
     "wof:label":"Castle Sowerby Civil Parish",
-    "wof:lastmodified":1566632734,
+    "wof:lastmodified":1695877343,
     "wof:name":"Castle Sowerby",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

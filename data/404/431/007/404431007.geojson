@@ -10,12 +10,18 @@
     "geom:latitude":53.874185,
     "geom:longitude":-2.388521,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.872832,
     "lbl:longitude":-2.385253,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u064a\u0630\u0631\u0648"
@@ -105,12 +111,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005253"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873269
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9d7f86bfd6a055041e620cac3630bee4",
+    "wof:geomhash":"42409f2471fc160fba7d6298534667c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404431007,
     "wof:label":"Clitheroe Civil Parish",
-    "wof:lastmodified":1566632459,
+    "wof:lastmodified":1695877213,
     "wof:name":"Clitheroe",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.237767,
     "geom:longitude":-2.551376,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.237444,
     "lbl:longitude":-2.552021,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thornbury"
@@ -66,12 +72,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000884"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276149991
     ],
     "wof:country":"GB",
-    "wof:geomhash":"04342654a23e3ae74ef46829226be408",
+    "wof:geomhash":"8c55817c5bc1a6cb417c188195cb8e00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404444627,
     "wof:label":"Thornbury Civil Parish",
-    "wof:lastmodified":1566632893,
+    "wof:lastmodified":1695877411,
     "wof:name":"Thornbury",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

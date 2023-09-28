@@ -10,12 +10,18 @@
     "geom:latitude":52.976421,
     "geom:longitude":-1.253731,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.975821,
     "lbl:longitude":-1.252256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strelley"
@@ -42,12 +48,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007863"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013893
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4c44493e92e724e870d8a3e976ec4cb7",
+    "wof:geomhash":"cfa843d9c521504c2eae7b4736b3237a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404446595,
     "wof:label":"Strelley Civil Parish",
-    "wof:lastmodified":1566631604,
+    "wof:lastmodified":1695876850,
     "wof:name":"Strelley",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

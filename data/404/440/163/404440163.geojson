@@ -10,12 +10,18 @@
     "geom:latitude":52.296951,
     "geom:longitude":1.434891,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.300381,
     "lbl:longitude":1.442096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heveningham"
@@ -60,12 +66,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009416"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879933
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0112a6320058007897c072553a7174ab",
+    "wof:geomhash":"30f45b3cc6b542e69ca5778d83e3abd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440163,
     "wof:label":"Heveningham Civil Parish",
-    "wof:lastmodified":1566631186,
+    "wof:lastmodified":1695878243,
     "wof:name":"Heveningham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

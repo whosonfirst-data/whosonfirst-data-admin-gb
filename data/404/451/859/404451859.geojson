@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001259,
-    "geom:area_square_m":9594482.477144,
+    "geom:area_square_m":9594482.477145,
     "geom:bbox":"-1.57798040194,51.9239110063,-1.5051784435,51.9526567867",
     "geom:latitude":51.937731,
     "geom:longitude":-1.542336,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.939011,
     "lbl:longitude":-1.537999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u06cc\u067e\u06cc\u0646\u0642 \u0646\u0648\u0631\u062a\u0648\u0646"
@@ -114,12 +120,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008274"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852933
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6b1f59b25ec4f2d850ec9cbe902e8f5f",
+    "wof:geomhash":"d8ee324301d15345510caf444b66a3e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +141,7 @@
     ],
     "wof:id":404451859,
     "wof:label":"Chipping Norton Civil Parish",
-    "wof:lastmodified":1566633449,
+    "wof:lastmodified":1695877659,
     "wof:name":"Chipping Norton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

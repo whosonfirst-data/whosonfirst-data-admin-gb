@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002189,
-    "geom:area_square_m":15235448.216742,
+    "geom:area_square_m":15235448.216741,
     "geom:bbox":"-2.08701800325,55.7173674331,-2.00708982695,55.7722648791",
     "geom:latitude":55.74226,
     "geom:longitude":-2.040935,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.741506,
     "lbl:longitude":-2.037617,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ord"
@@ -64,12 +70,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010845"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756725
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6cc26589a0ff90f372a5afb272e477b7",
+    "wof:geomhash":"3c0c8383386c89d767cfa20f3557ed8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404451443,
     "wof:label":"Ord Civil Parish",
-    "wof:lastmodified":1566633498,
+    "wof:lastmodified":1695877681,
     "wof:name":"Ord",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

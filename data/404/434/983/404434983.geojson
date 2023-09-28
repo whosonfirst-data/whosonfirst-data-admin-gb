@@ -10,12 +10,18 @@
     "geom:latitude":51.997364,
     "geom:longitude":-1.201627,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.000425,
     "lbl:longitude":-1.201205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Croughton"
@@ -51,12 +57,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006817"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243102719
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b3f184a440355877ade32c547c08fe97",
+    "wof:geomhash":"14e036269dd0a77e6f9b153f8bb6aed4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404434983,
     "wof:label":"Croughton Civil Parish",
-    "wof:lastmodified":1566633572,
+    "wof:lastmodified":1695877720,
     "wof:name":"Croughton",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

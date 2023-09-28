@@ -10,12 +10,18 @@
     "geom:latitude":53.644312,
     "geom:longitude":-1.02904,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.646594,
     "lbl:longitude":-1.018371,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sykehouse"
@@ -54,12 +60,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000094"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782153
     ],
     "wof:country":"GB",
-    "wof:geomhash":"88b271ad6f06276cede06fd6edf13803",
+    "wof:geomhash":"f162c5e2368552d1e73c3f5788af1e91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404450529,
     "wof:label":"Sykehouse Civil Parish",
-    "wof:lastmodified":1566633789,
+    "wof:lastmodified":1695877813,
     "wof:name":"Sykehouse",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

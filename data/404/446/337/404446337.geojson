@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00131,
-    "geom:area_square_m":9878594.961853,
+    "geom:area_square_m":9878594.961854,
     "geom:bbox":"-2.56827224276,52.4034691433,-2.49733583021,52.4365138177",
     "geom:latitude":52.421313,
     "geom:longitude":-2.531967,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.421596,
     "lbl:longitude":-2.534367,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Farlow"
@@ -60,12 +66,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011271"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209850941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"766067de3fd2177ce5a005095a19f865",
+    "wof:geomhash":"d1cb8d8fc4786226ed5c243a02951831",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404446337,
     "wof:label":"Farlow Civil Parish",
-    "wof:lastmodified":1566631604,
+    "wof:lastmodified":1695876849,
     "wof:name":"Farlow",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

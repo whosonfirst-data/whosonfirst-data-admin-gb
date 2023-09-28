@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004939,
-    "geom:area_square_m":34589048.653138,
+    "geom:area_square_m":34589048.653137,
     "geom:bbox":"-2.15543159386,55.460163061,-1.99661687641,55.5397067236",
     "geom:latitude":55.498844,
     "geom:longitude":-2.084272,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.495594,
     "lbl:longitude":-2.096273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Earle"
@@ -78,12 +84,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010771"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259409839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9c79d55d0a21f53f20a9870942e625b6",
+    "wof:geomhash":"b2494a2eb90f721738dbe8adf045d0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404442253,
     "wof:label":"Earle Civil Parish",
-    "wof:lastmodified":1566633283,
+    "wof:lastmodified":1695877587,
     "wof:name":"Earle",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

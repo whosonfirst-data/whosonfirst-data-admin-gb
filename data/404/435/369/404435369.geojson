@@ -10,12 +10,18 @@
     "geom:latitude":50.923996,
     "geom:longitude":-0.503792,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.92277,
     "lbl:longitude":-0.500546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Parham"
@@ -69,12 +75,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009961"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125805097
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3732897723b647b8a4e4b272cc31d827",
+    "wof:geomhash":"45b9b94ac47965cfa1c629d17cab4b56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404435369,
     "wof:label":"Parham Civil Parish",
-    "wof:lastmodified":1566634041,
+    "wof:lastmodified":1695877919,
     "wof:name":"Parham",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

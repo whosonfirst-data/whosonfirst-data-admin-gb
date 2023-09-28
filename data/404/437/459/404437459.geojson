@@ -10,12 +10,18 @@
     "geom:latitude":52.214615,
     "geom:longitude":-0.866139,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.214132,
     "lbl:longitude":-0.862423,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hardingstone"
@@ -63,12 +69,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006795"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125839423
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8fcef2d24d3a0181f0290e9621a2ea9a",
+    "wof:geomhash":"128812aa1d8ae4eb9d1eb957a44be1d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404437459,
     "wof:label":"Hardingstone Civil Parish",
-    "wof:lastmodified":1566632143,
+    "wof:lastmodified":1695877075,
     "wof:name":"Hardingstone",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

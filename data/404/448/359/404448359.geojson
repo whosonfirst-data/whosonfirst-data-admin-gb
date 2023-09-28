@@ -10,12 +10,18 @@
     "geom:latitude":52.052192,
     "geom:longitude":0.084343,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.050525,
     "lbl:longitude":0.086752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heydon"
@@ -60,12 +66,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001803"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126002563
     ],
     "wof:country":"GB",
-    "wof:geomhash":"33f1e1a6105bca0f4650388bc0f773a1",
+    "wof:geomhash":"e3c4c41e49acafbea94f64ed3fe2d515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448359,
     "wof:label":"Heydon Civil Parish",
-    "wof:lastmodified":1566631523,
+    "wof:lastmodified":1695876822,
     "wof:name":"Heydon",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

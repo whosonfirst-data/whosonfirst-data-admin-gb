@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001535,
-    "geom:area_square_m":11960229.198586,
+    "geom:area_square_m":11960229.198587,
     "geom:bbox":"-0.447795370873,50.9212654134,-0.397999362038,51.0032317212",
     "geom:latitude":50.952571,
     "geom:longitude":-0.422841,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.949508,
     "lbl:longitude":-0.423206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thakeham"
@@ -60,12 +66,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009970"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903079
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3f71f7ed061928d168bfc693ec1b7d70",
+    "wof:geomhash":"f1ddadde23bf4472a04cdb4ec56f05ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445785,
     "wof:label":"Thakeham Civil Parish",
-    "wof:lastmodified":1566633354,
+    "wof:lastmodified":1695877619,
     "wof:name":"Thakeham",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

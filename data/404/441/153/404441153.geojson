@@ -10,12 +10,18 @@
     "geom:latitude":51.715777,
     "geom:longitude":-4.706906,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.717254,
     "lbl:longitude":-4.704657,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saundersfoot Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000471"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852997
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4fd3141798f1a03a720283e8430cd3d3",
+    "wof:geomhash":"f786eca3e5183e427ee5228d40ebf7d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441153,
-    "wof:lastmodified":1566631773,
+    "wof:lastmodified":1695876913,
     "wof:name":"Saundersfoot Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

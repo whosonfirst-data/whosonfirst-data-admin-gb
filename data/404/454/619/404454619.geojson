@@ -10,12 +10,18 @@
     "geom:latitude":51.348717,
     "geom:longitude":-2.358738,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.348627,
     "lbl:longitude":-2.358733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Southstoke"
@@ -52,12 +58,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000990"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753915
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4733153fd7110f6a9d8523c80a088e5d",
+    "wof:geomhash":"dfec1ea72dbfb32e97508f960344a053",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404454619,
     "wof:label":"Southstoke Civil Parish",
-    "wof:lastmodified":1566632662,
+    "wof:lastmodified":1695877307,
     "wof:name":"Southstoke",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

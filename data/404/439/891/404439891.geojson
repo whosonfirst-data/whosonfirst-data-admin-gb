@@ -10,12 +10,18 @@
     "geom:latitude":51.060525,
     "geom:longitude":-0.135934,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.060831,
     "lbl:longitude":-0.142873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balcombe"
@@ -63,12 +69,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009981"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854613
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a6cb41538597429d5ebaaeaa46598f17",
+    "wof:geomhash":"5f15fadb9f1a7e9dc098801f736267c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439891,
     "wof:label":"Balcombe Civil Parish",
-    "wof:lastmodified":1566631912,
+    "wof:lastmodified":1695876980,
     "wof:name":"Balcombe",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

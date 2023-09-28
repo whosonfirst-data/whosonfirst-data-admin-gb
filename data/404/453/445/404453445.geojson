@@ -10,12 +10,18 @@
     "geom:latitude":52.822052,
     "geom:longitude":1.255394,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.821179,
     "lbl:longitude":1.25793,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ingworth"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006437"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125840331
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fe18dbba363fb30678037bf5578967ea",
+    "wof:geomhash":"bbc0642eb8093e6355754be63fe1555b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404453445,
     "wof:label":"Ingworth Civil Parish",
-    "wof:lastmodified":1566632830,
+    "wof:lastmodified":1695877387,
     "wof:name":"Ingworth",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

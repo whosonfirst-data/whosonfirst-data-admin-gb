@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001979,
-    "geom:area_square_m":14830658.576099,
+    "geom:area_square_m":14830658.576097,
     "geom:bbox":"0.047037030838,52.6839618763,0.166336457065,52.7246678819",
     "geom:latitude":52.705397,
     "geom:longitude":0.118212,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.70714,
     "lbl:longitude":0.117306,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Newton"
@@ -222,12 +228,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001662"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031537
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bf1a04550dfcf7275be77608382b9605",
+    "wof:geomhash":"bae0450dc29f24162aaa9152eb315aa0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -240,7 +249,7 @@
     ],
     "wof:id":404453003,
     "wof:label":"Newton Civil Parish",
-    "wof:lastmodified":1566632831,
+    "wof:lastmodified":1695877387,
     "wof:name":"Newton",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

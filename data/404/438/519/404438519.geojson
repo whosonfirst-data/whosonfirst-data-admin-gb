@@ -10,12 +10,18 @@
     "geom:latitude":52.686083,
     "geom:longitude":1.026616,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.686213,
     "lbl:longitude":1.026613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Tuddenham"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006156"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259712471
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4e3dfb20360fe31dfdf2c0db554ef153",
+    "wof:geomhash":"3a8e02b94fb26e97364833adf1234e13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404438519,
     "wof:label":"North Tuddenham Civil Parish",
-    "wof:lastmodified":1566632579,
+    "wof:lastmodified":1695877268,
     "wof:name":"North Tuddenham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

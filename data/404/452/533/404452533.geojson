@@ -10,12 +10,18 @@
     "geom:latitude":53.007544,
     "geom:longitude":-2.493848,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.009903,
     "lbl:longitude":-2.496054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0646\u0643\u0644\u0648"
@@ -69,12 +75,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010945"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125916211
     ],
     "wof:country":"GB",
-    "wof:geomhash":"74bb458898f125537ab35c93179dc933",
+    "wof:geomhash":"fecb6ee6e4bda99053a8c9c5792ed381",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404452533,
     "wof:label":"Hankelow Civil Parish",
-    "wof:lastmodified":1566632166,
+    "wof:lastmodified":1695877085,
     "wof:name":"Hankelow",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

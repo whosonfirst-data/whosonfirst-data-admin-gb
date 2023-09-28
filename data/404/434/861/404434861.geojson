@@ -10,12 +10,18 @@
     "geom:latitude":52.13134,
     "geom:longitude":-4.005886,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.133215,
     "lbl:longitude":-4.006776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfair Clydogau Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000377"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259818955
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ff17cbfd38bcdecca190eb6b77e95477",
+    "wof:geomhash":"70ff232c68fb8e68bb79a0e2162a7448",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404434861,
-    "wof:lastmodified":1566633561,
+    "wof:lastmodified":1695877714,
     "wof:name":"Llanfair Clydogau Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

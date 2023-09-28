@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000931,
-    "geom:area_square_m":7262486.686617,
+    "geom:area_square_m":7262486.686616,
     "geom:bbox":"-1.93901752874,50.8785510519,-1.86456258369,50.9172721467",
     "geom:latitude":50.900825,
     "geom:longitude":-1.905075,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.901005,
     "lbl:longitude":-1.901401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Edmondsham"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003367"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125888293
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f456c91fd9ef9da7a12a492bcab67c98",
+    "wof:geomhash":"8b92e4eb34bac9c1fbbab18a36257736",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439085,
     "wof:label":"Edmondsham Civil Parish",
-    "wof:lastmodified":1566631854,
+    "wof:lastmodified":1695876951,
     "wof:name":"Edmondsham",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

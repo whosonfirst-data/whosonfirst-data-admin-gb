@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003408,
-    "geom:area_square_m":26089606.534605,
+    "geom:area_square_m":26089606.534607,
     "geom:bbox":"-3.71468157235,51.7147272959,-3.58383258997,51.7717174813",
     "geom:latitude":51.746081,
     "geom:longitude":-3.651285,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.748236,
     "lbl:longitude":-3.661147,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glynneath Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000614"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360113467
     ],
     "wof:country":"GB",
-    "wof:geomhash":"49c52d95025108b0cfce68697b333c16",
+    "wof:geomhash":"c13bbf74917797f5464d3fcc49a79fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429201,
-    "wof:lastmodified":1566633174,
+    "wof:lastmodified":1695877536,
     "wof:name":"Glynneath Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.414337,
     "geom:longitude":-1.243096,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.415422,
     "lbl:longitude":-1.243491,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Churchover"
@@ -57,12 +63,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009668"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125810931
     ],
     "wof:country":"GB",
-    "wof:geomhash":"58c9c344a53a47c5824059f55f6544a7",
+    "wof:geomhash":"abac6be497c262700382cf10a7ab903c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404444891,
     "wof:label":"Churchover Civil Parish",
-    "wof:lastmodified":1566632960,
+    "wof:lastmodified":1695877439,
     "wof:name":"Churchover",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

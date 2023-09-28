@@ -10,12 +10,18 @@
     "geom:latitude":54.080101,
     "geom:longitude":-1.387504,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.082506,
     "lbl:longitude":-1.388199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0628\u0631\u06cc\u062c"
@@ -88,9 +94,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04007317",
         "gn:id":7300751,
         "qs_pg:id":380436
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872309
     ],
@@ -98,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a23a0845c8a95266893976c8dcacd2e",
+    "wof:geomhash":"a7d2b4cc128f9c1bf0d2b76cfe0fd82f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +119,7 @@
     ],
     "wof:id":404451039,
     "wof:label":"Boroughbridge Civil Parish",
-    "wof:lastmodified":1582311138,
+    "wof:lastmodified":1695877981,
     "wof:name":"Boroughbridge",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

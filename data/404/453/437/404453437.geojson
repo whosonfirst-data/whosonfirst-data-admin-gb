@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002391,
-    "geom:area_square_m":18302882.270434,
+    "geom:area_square_m":18302882.270433,
     "geom:bbox":"-0.775124921921,51.7183512557,-0.689244473323,51.7807224635",
     "geom:latitude":51.750984,
     "geom:longitude":-0.73605,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.750875,
     "lbl:longitude":-0.740262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0646\u062f\u0627\u0648\u0631"
@@ -84,12 +90,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001547"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"120ccc17def355a7b1e7ffc23b43601a",
+    "wof:geomhash":"fbf914d7f9c9d3ddf59f87c7664ed6b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404453437,
     "wof:label":"Wendover Civil Parish",
-    "wof:lastmodified":1566632778,
+    "wof:lastmodified":1695877364,
     "wof:name":"Wendover",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

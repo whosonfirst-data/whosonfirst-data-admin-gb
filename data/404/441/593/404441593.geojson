@@ -10,12 +10,18 @@
     "geom:latitude":52.680515,
     "geom:longitude":-1.124027,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.677338,
     "lbl:longitude":-1.125487,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Birstall"
@@ -66,12 +72,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005370"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125772723
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1f20b9204c4535a010d580edbd3d9424",
+    "wof:geomhash":"eb04611d967004947bb5f8ace2034436",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404441593,
     "wof:label":"Birstall Civil Parish",
-    "wof:lastmodified":1566631715,
+    "wof:lastmodified":1695876891,
     "wof:name":"Birstall",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

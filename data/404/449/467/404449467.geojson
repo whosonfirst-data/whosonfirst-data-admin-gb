@@ -10,12 +10,18 @@
     "geom:latitude":53.016707,
     "geom:longitude":-1.63351,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.015708,
     "lbl:longitude":-1.636747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hulland"
@@ -60,12 +66,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002771"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209650649
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0562ed541c88f0421ac499854ffca85b",
+    "wof:geomhash":"9d70ee20d8226d2120a4c700298b9fb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404449467,
     "wof:label":"Hulland Civil Parish",
-    "wof:lastmodified":1566631429,
+    "wof:lastmodified":1695876783,
     "wof:name":"Hulland",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.188657,
     "geom:longitude":-0.543407,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.1909,
     "lbl:longitude":-0.546493,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0641\u0647\u0627\u0645"
@@ -69,12 +75,15 @@
         1360699073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011903"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126032123
     ],
     "wof:country":"GB",
-    "wof:geomhash":"869a56b8ded278d882935e5d45a7eb6e",
+    "wof:geomhash":"0b6b4e452d3064f10d18309c148de3cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404445723,
     "wof:label":"Pavenham Civil Parish",
-    "wof:lastmodified":1566633358,
+    "wof:lastmodified":1695877622,
     "wof:name":"Pavenham",
     "wof:parent_id":1360699073,
     "wof:placetype":"localadmin",

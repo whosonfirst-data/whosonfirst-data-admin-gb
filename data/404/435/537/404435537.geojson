@@ -10,12 +10,18 @@
     "geom:latitude":53.597802,
     "geom:longitude":-2.528226,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.599943,
     "lbl:longitude":-2.525076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0631\u0648\u06cc\u0686"
@@ -93,12 +99,15 @@
         1360699099
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000002"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872199
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9809d27e21075c475a0acc66f29dd46e",
+    "wof:geomhash":"83c9a5e0d1efac0a8d16d4f14a0a566a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404435537,
     "wof:label":"Horwich Civil Parish",
-    "wof:lastmodified":1566634034,
+    "wof:lastmodified":1695877915,
     "wof:name":"Horwich",
     "wof:parent_id":1360699099,
     "wof:placetype":"localadmin",

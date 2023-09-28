@@ -10,12 +10,18 @@
     "geom:latitude":52.570362,
     "geom:longitude":-0.801449,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.569978,
     "lbl:longitude":-0.801062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Horninghold"
@@ -63,12 +69,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005434"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1292933125
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e9cf6c8be72fb68406b80092d0ef57c6",
+    "wof:geomhash":"74fc83b78d45effe05dd2a8d9b2f209c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445319,
     "wof:label":"Horninghold Civil Parish",
-    "wof:lastmodified":1566633412,
+    "wof:lastmodified":1695877645,
     "wof:name":"Horninghold",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.911348,
     "geom:longitude":0.386503,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.911896,
     "lbl:longitude":0.383975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashburnham"
@@ -57,12 +63,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003795"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343488335
     ],
     "wof:country":"GB",
-    "wof:geomhash":"90e0be0c133d3ba6ecaae5df0a5341b3",
+    "wof:geomhash":"a9e90ca0d39bb1a72da8163315e234a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448193,
     "wof:label":"Ashburnham Civil Parish",
-    "wof:lastmodified":1566631472,
+    "wof:lastmodified":1695876802,
     "wof:name":"Ashburnham",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

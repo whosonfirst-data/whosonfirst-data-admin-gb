@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003248,
-    "geom:area_square_m":25543753.440726,
+    "geom:area_square_m":25543753.440725,
     "geom:bbox":"-4.95887124474,50.473029762,-4.88657991485,50.5458925303",
     "geom:latitude":50.50433,
     "geom:longitude":-4.920892,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.504526,
     "lbl:longitude":-4.920199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Issey"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011554"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878689
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b3987d84bd87e23e6c00ce08cd2a6b3c",
+    "wof:geomhash":"b8a29cdc5668b6d2ed438b7ca64c3df7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404432113,
     "wof:label":"St. Issey Civil Parish",
-    "wof:lastmodified":1566633973,
+    "wof:lastmodified":1695877883,
     "wof:name":"St. Issey",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

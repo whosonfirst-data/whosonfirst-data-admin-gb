@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000719,
-    "geom:area_square_m":5544050.032063,
+    "geom:area_square_m":5544050.032062,
     "geom:bbox":"-2.48327209904,51.3877056803,-2.438238543,51.4184894086",
     "geom:latitude":51.403235,
     "geom:longitude":-2.460503,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.402123,
     "lbl:longitude":-2.460504,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saltford"
@@ -57,12 +63,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000988"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852639
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b1eae8f17d5ac8b321222aaa5468c5c2",
+    "wof:geomhash":"4c3221c383ad5bb452da64804641ee13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404445129,
     "wof:label":"Saltford Civil Parish",
-    "wof:lastmodified":1566633352,
+    "wof:lastmodified":1695877618,
     "wof:name":"Saltford",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

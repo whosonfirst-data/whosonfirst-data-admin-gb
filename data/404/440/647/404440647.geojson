@@ -10,12 +10,18 @@
     "geom:latitude":51.275199,
     "geom:longitude":-1.645054,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.275413,
     "lbl:longitude":-1.645069,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Collingbourne Ducis"
@@ -60,12 +66,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011684"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974217
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dcbc64c878de7080d09e4e78598f3644",
+    "wof:geomhash":"fe2665f3e48a812972ace9bb2fc88322",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440647,
     "wof:label":"Collingbourne Ducis Civil Parish",
-    "wof:lastmodified":1566631198,
+    "wof:lastmodified":1695878248,
     "wof:name":"Collingbourne Ducis",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.320673,
     "geom:longitude":-0.030464,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.314963,
     "lbl:longitude":-0.041454,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tathwell"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005736"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209951907
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7a18261ec9f5f74ebe14b316dd5cc4d0",
+    "wof:geomhash":"9365011d2c12cda48bd3c759a2f57738",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404438843,
     "wof:label":"Tathwell Civil Parish",
-    "wof:lastmodified":1566632561,
+    "wof:lastmodified":1695877260,
     "wof:name":"Tathwell",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

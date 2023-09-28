@@ -10,12 +10,18 @@
     "geom:latitude":52.54742,
     "geom:longitude":-1.201465,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.546818,
     "lbl:longitude":-1.199205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0633\u0628\u064a"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005344"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125914941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"59cd6c6c2782d278804db86f96f6607c",
+    "wof:geomhash":"02424188e7fb7f611429c6748a483739",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404432873,
     "wof:label":"Cosby Civil Parish",
-    "wof:lastmodified":1566633869,
+    "wof:lastmodified":1695877844,
     "wof:name":"Cosby",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.68078,
     "geom:longitude":-0.227973,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.672638,
     "lbl:longitude":-0.224225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Mimms"
@@ -72,12 +78,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004766"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998303
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8f799056e96326e013dc894f34a76635",
+    "wof:geomhash":"4229551a071b6010ee555f1448bb892f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404441855,
     "wof:label":"South Mimms Civil Parish",
-    "wof:lastmodified":1566631812,
+    "wof:lastmodified":1695876932,
     "wof:name":"South Mimms",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

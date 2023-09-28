@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000671,
-    "geom:area_square_m":4814630.447904,
+    "geom:area_square_m":4814630.447903,
     "geom:bbox":"-2.34188785521,54.5023502088,-2.27074193286,54.5178594667",
     "geom:latitude":54.50968,
     "geom:longitude":-2.303893,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.510005,
     "lbl:longitude":-2.300337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brough Sowerby"
@@ -57,12 +63,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002520"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125989385
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6451c5ff8978d903da8494c71ab05ac0",
+    "wof:geomhash":"9c23aacac96c06a63eb600f21b2f027d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440275,
     "wof:label":"Brough Sowerby Civil Parish",
-    "wof:lastmodified":1566631151,
+    "wof:lastmodified":1695878226,
     "wof:name":"Brough Sowerby",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

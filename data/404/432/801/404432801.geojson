@@ -10,12 +10,18 @@
     "geom:latitude":51.742666,
     "geom:longitude":-0.865089,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.742186,
     "lbl:longitude":-0.86064,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Longwick-Cum-Ilmer"
@@ -40,12 +46,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001609"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753283
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6ea8d4e45ec6abdf0f09f12be0c1a5bb",
+    "wof:geomhash":"6271d07751b61e236b8d596836ecd9eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404432801,
     "wof:label":"Longwick-Cum-Ilmer Civil Parish",
-    "wof:lastmodified":1566633958,
+    "wof:lastmodified":1695877877,
     "wof:name":"Longwick-Cum-Ilmer",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

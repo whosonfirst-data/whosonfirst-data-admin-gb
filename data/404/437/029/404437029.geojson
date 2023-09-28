@@ -10,12 +10,18 @@
     "geom:latitude":51.938438,
     "geom:longitude":-2.914986,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.938347,
     "lbl:longitude":-2.915419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rowlstone"
@@ -42,12 +48,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000864"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226177767
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a8747d6c4a927b5395012d52a1992ab3",
+    "wof:geomhash":"18c2e0969ea52f56e91426530d32e60d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404437029,
     "wof:label":"Rowlstone Civil Parish",
-    "wof:lastmodified":1566632124,
+    "wof:lastmodified":1695877068,
     "wof:name":"Rowlstone",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

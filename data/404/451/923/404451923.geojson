@@ -10,12 +10,18 @@
     "geom:latitude":51.003012,
     "geom:longitude":-3.175547,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.002341,
     "lbl:longitude":-3.175134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bradford-On-Tone"
@@ -44,9 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04008783",
         "gn:id":7294155,
         "qs_pg:id":1063658
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757489
     ],
@@ -54,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5acb7c14d21199a2c505ee786e4d8a6f",
+    "wof:geomhash":"5580a93c26681bf1644f1b47e6d894b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +75,7 @@
     ],
     "wof:id":404451923,
     "wof:label":"Bradford-On-Tone Civil Parish",
-    "wof:lastmodified":1582311138,
+    "wof:lastmodified":1695877981,
     "wof:name":"Bradford-On-Tone",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

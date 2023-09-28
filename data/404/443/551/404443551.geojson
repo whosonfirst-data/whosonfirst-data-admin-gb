@@ -10,12 +10,18 @@
     "geom:latitude":51.518293,
     "geom:longitude":-2.203738,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.516356,
     "lbl:longitude":-2.203729,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grittleton"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011728"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125793083
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3882a4d53f2d48fbb667066f22c6d045",
+    "wof:geomhash":"62ad162dbc9aca9251cd8e85d65612d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404443551,
     "wof:label":"Grittleton Civil Parish",
-    "wof:lastmodified":1566632986,
+    "wof:lastmodified":1695877451,
     "wof:name":"Grittleton",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.810784,
     "geom:longitude":-2.774396,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.812482,
     "lbl:longitude":-2.778461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woodplumpton"
@@ -66,12 +72,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005241"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242606785
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c34294f9c0a0523378a1b21757d0e869",
+    "wof:geomhash":"40cc5734eaca4bf8a34ef186d96ff002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404449601,
     "wof:label":"Woodplumpton Civil Parish",
-    "wof:lastmodified":1566631438,
+    "wof:lastmodified":1695876787,
     "wof:name":"Woodplumpton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000628,
-    "geom:area_square_m":4813444.132253,
+    "geom:area_square_m":4813444.132252,
     "geom:bbox":"-3.19332458703,51.660100654,-3.16448231851,51.6955883215",
     "geom:latitude":51.676934,
     "geom:longitude":-3.17716,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.676007,
     "lbl:longitude":-3.176886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penmaen Community"
@@ -40,12 +46,15 @@
         1360698925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000910"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711869
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5671d503f6c26e538434bc934ce35085",
+    "wof:geomhash":"d98b9dc28cb26596ed2bfb7e79cf20cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437181,
-    "wof:lastmodified":1566632098,
+    "wof:lastmodified":1695877059,
     "wof:name":"Penmaen Community",
     "wof:parent_id":1360698925,
     "wof:placetype":"localadmin",

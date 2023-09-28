@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004,
-    "geom:area_square_m":28259292.547024,
+    "geom:area_square_m":28259292.547025,
     "geom:bbox":"-1.99420561728,55.1277206682,-1.87235426391,55.1812564099",
     "geom:latitude":55.159263,
     "geom:longitude":-1.93206,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.156958,
     "lbl:longitude":-1.914944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wallington Demesne"
@@ -40,12 +46,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010875"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759153
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ea7a838671580607c918f9d4b19366ee",
+    "wof:geomhash":"325715afe072876cb415627c2b96e182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404437009,
     "wof:label":"Wallington Demesne Civil Parish",
-    "wof:lastmodified":1566632084,
+    "wof:lastmodified":1695877051,
     "wof:name":"Wallington Demesne",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00052,
-    "geom:area_square_m":3926026.439523,
+    "geom:area_square_m":3926026.439522,
     "geom:bbox":"-2.81412299228,52.3369080952,-2.75491361712,52.3559682373",
     "geom:latitude":52.345239,
     "geom:longitude":-2.78459,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.346637,
     "lbl:longitude":-2.777636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pipe Aston"
@@ -49,12 +55,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000854"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756193
     ],
     "wof:country":"GB",
-    "wof:geomhash":"001526df9a8c196604f4beab38066aa9",
+    "wof:geomhash":"afeea3dab6fcb44b505c5edd39bd7ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404440413,
     "wof:label":"Pipe Aston Civil Parish",
-    "wof:lastmodified":1566631143,
+    "wof:lastmodified":1695878223,
     "wof:name":"Pipe Aston",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

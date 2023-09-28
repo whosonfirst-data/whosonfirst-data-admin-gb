@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002331,
-    "geom:area_square_m":17269443.120493,
+    "geom:area_square_m":17269443.120494,
     "geom:bbox":"-3.08629418864,53.1668077354,-2.98660882938,53.2098351767",
     "geom:latitude":53.187946,
     "geom:longitude":-3.037326,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.185764,
     "lbl:longitude":-3.040715,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hawarden Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000190"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126012057
     ],
     "wof:country":"GB",
-    "wof:geomhash":"10121eb773dff3203196213613c98c5c",
+    "wof:geomhash":"a0d20fd8f5b1789830b2caf807d12712",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437607,
-    "wof:lastmodified":1566632145,
+    "wof:lastmodified":1695877077,
     "wof:name":"Hawarden Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

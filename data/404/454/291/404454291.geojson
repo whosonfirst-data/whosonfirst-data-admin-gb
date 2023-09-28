@@ -10,12 +10,18 @@
     "geom:latitude":51.791002,
     "geom:longitude":-1.771655,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.794759,
     "lbl:longitude":-1.768486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aldsworth"
@@ -63,12 +69,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004180"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125804309
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f9c5b219536ccde1cbe1d07fa83fc8c",
+    "wof:geomhash":"2c7469f2e6313311b72d4a34ab304531",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454291,
     "wof:label":"Aldsworth Civil Parish",
-    "wof:lastmodified":1566632725,
+    "wof:lastmodified":1695877339,
     "wof:name":"Aldsworth",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

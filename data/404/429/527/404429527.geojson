@@ -10,12 +10,18 @@
     "geom:latitude":52.219343,
     "geom:longitude":-0.796107,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.221984,
     "lbl:longitude":-0.794395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brafield on the Green"
@@ -46,12 +52,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006808"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"086676c329954276622db94100f88b8c",
+    "wof:geomhash":"2704c598a9e7c5a480c3ff142ac3abc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404429527,
     "wof:label":"Brafield on the Green Civil Parish",
-    "wof:lastmodified":1566633135,
+    "wof:lastmodified":1695877521,
     "wof:name":"Brafield on the Green",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

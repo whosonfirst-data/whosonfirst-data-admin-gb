@@ -10,12 +10,18 @@
     "geom:latitude":50.793374,
     "geom:longitude":-3.275628,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.79283,
     "lbl:longitude":-3.275629,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Feniton"
@@ -66,12 +72,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002964"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908539
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4f1c3992c6a9a8d3861e67a08629cc4e",
+    "wof:geomhash":"6ecd6e633f640f0a829ea5ebdd613098",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404433041,
     "wof:label":"Feniton Civil Parish",
-    "wof:lastmodified":1566633653,
+    "wof:lastmodified":1695877753,
     "wof:name":"Feniton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

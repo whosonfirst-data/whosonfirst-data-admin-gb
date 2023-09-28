@@ -10,12 +10,18 @@
     "geom:latitude":51.654131,
     "geom:longitude":0.868459,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.660686,
     "lbl:longitude":0.837016,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Southminster"
@@ -84,12 +90,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004062"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853525
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bb29cf10b9d770a3fec8461dbc20a7da",
+    "wof:geomhash":"5a50a2be6b61fe8fdd6f9c82652b21d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404454079,
     "wof:label":"Southminster Civil Parish",
-    "wof:lastmodified":1566632658,
+    "wof:lastmodified":1695877305,
     "wof:name":"Southminster",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

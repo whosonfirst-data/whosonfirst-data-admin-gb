@@ -10,12 +10,18 @@
     "geom:latitude":53.303808,
     "geom:longitude":-2.232725,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.304457,
     "lbl:longitude":-2.235195,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644\u062f\u0631\u0644\u064a \u0625\u062f\u062c"
@@ -75,12 +81,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010892"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126038009
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f9f6306597e476d4189d6e067472bcd7",
+    "wof:geomhash":"b7a6d6a59c18215542e6229a72ee2d71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404453343,
     "wof:label":"Alderley Edge Civil Parish",
-    "wof:lastmodified":1566632860,
+    "wof:lastmodified":1695877399,
     "wof:name":"Alderley Edge",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

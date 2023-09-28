@@ -10,12 +10,18 @@
     "geom:latitude":51.678018,
     "geom:longitude":-1.807832,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.673445,
     "lbl:longitude":-1.807572,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marston Maisey"
@@ -42,12 +48,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011771"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125845999
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c1c6c220f192d3eacdb53bf0ff8fa0ed",
+    "wof:geomhash":"1036d42103fc67aa89b3a7b3739d0a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404431061,
     "wof:label":"Marston Maisey Civil Parish",
-    "wof:lastmodified":1566632514,
+    "wof:lastmodified":1695877237,
     "wof:name":"Marston Maisey",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.605988,
     "geom:longitude":-1.316393,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.605515,
     "lbl:longitude":-1.316749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chale"
@@ -69,12 +75,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001299"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126032397
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2456cecb2678fa7781b45fad390d3d46",
+    "wof:geomhash":"9169fcf63b20e5851144f5881628cb84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404445913,
     "wof:label":"Chale Civil Parish",
-    "wof:lastmodified":1566633362,
+    "wof:lastmodified":1695877623,
     "wof:name":"Chale",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

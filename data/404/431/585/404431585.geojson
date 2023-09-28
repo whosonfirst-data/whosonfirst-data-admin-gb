@@ -10,12 +10,18 @@
     "geom:latitude":52.767583,
     "geom:longitude":-1.532511,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.767431,
     "lbl:longitude":-1.530904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Woodville"
@@ -85,9 +91,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04002934",
         "gn:id":7291146,
         "qs_pg:id":380186
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030813
     ],
@@ -95,7 +103,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f71276b4e252fbc8a80bbeb713ac2831",
+    "wof:geomhash":"96561455eb4236c56d7442aff936a69a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +116,7 @@
     ],
     "wof:id":404431585,
     "wof:label":"Woodville Civil Parish",
-    "wof:lastmodified":1582311103,
+    "wof:lastmodified":1695877969,
     "wof:name":"Woodville",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

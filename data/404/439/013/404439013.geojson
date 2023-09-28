@@ -10,12 +10,18 @@
     "geom:latitude":52.728481,
     "geom:longitude":0.907032,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.729839,
     "lbl:longitude":0.894451,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beetley"
@@ -69,12 +75,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006090"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125973805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1fc003a801283c82a4050a74c2b6286c",
+    "wof:geomhash":"61748d784d87172a014339786e6f21ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404439013,
     "wof:label":"Beetley Civil Parish",
-    "wof:lastmodified":1566631851,
+    "wof:lastmodified":1695876950,
     "wof:name":"Beetley",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

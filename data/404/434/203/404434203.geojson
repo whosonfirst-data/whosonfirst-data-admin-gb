@@ -10,12 +10,18 @@
     "geom:latitude":52.031827,
     "geom:longitude":0.19067,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.03125,
     "lbl:longitude":0.194159,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Littlebury"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004153"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802077
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9cc05a9fe88ad425741e8af11bd8a0dc",
+    "wof:geomhash":"3d3aae0120790d5ea53bd6a726f57ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404434203,
     "wof:label":"Littlebury Civil Parish",
-    "wof:lastmodified":1566633565,
+    "wof:lastmodified":1695877715,
     "wof:name":"Littlebury",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

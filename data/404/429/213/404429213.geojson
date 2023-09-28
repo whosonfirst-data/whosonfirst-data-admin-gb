@@ -10,12 +10,18 @@
     "geom:latitude":51.280405,
     "geom:longitude":-1.850947,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.288681,
     "lbl:longitude":-1.844173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rushall"
@@ -48,12 +54,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011806"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243582715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c18ea295becd507178c19fe92eaf8a5d",
+    "wof:geomhash":"8be4288dd420dac3c0a21f72817967b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404429213,
     "wof:label":"Rushall Civil Parish",
-    "wof:lastmodified":1566633166,
+    "wof:lastmodified":1695877533,
     "wof:name":"Rushall",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

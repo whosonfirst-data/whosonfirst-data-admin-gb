@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001396,
-    "geom:area_square_m":10648616.474343,
+    "geom:area_square_m":10648616.474344,
     "geom:bbox":"-0.988368836247,51.8959786634,-0.916855761069,51.9476575486",
     "geom:latitude":51.920814,
     "geom:longitude":-0.957025,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.920921,
     "lbl:longitude":-0.962416,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0644 \u0643\u0644\u064a\u062f\u0646"
@@ -63,12 +69,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001512"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125894335
     ],
     "wof:country":"GB",
-    "wof:geomhash":"672b77faa59f9daf187b48d81d960996",
+    "wof:geomhash":"ed27d343324e13c0c4926b3dcbf78b44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404450931,
     "wof:label":"Middle Claydon Civil Parish",
-    "wof:lastmodified":1566633744,
+    "wof:lastmodified":1695877795,
     "wof:name":"Middle Claydon",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

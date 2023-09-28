@@ -10,12 +10,18 @@
     "geom:latitude":52.608976,
     "geom:longitude":-1.269425,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.609947,
     "lbl:longitude":-1.269426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leicester Forest West"
@@ -52,12 +58,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005355"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757697
     ],
     "wof:country":"GB",
-    "wof:geomhash":"79afe60b73d87dbc4294cf16c500d111",
+    "wof:geomhash":"0f9f45f9ab74467729e18f5961b50b98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404435641,
     "wof:label":"Leicester Forest West Civil Parish",
-    "wof:lastmodified":1566634059,
+    "wof:lastmodified":1695877929,
     "wof:name":"Leicester Forest West",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

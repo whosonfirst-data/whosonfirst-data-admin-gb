@@ -10,12 +10,18 @@
     "geom:latitude":51.670576,
     "geom:longitude":-1.703377,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.665252,
     "lbl:longitude":-1.706347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Inglesham"
@@ -55,12 +61,15 @@
         1360699033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001093"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753403
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fbb93af66732465cc3dc6fa41f27d5ae",
+    "wof:geomhash":"a9bafabbe3fa2b1fac5d72073c4d7e79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404454323,
     "wof:label":"Inglesham Civil Parish",
-    "wof:lastmodified":1566632685,
+    "wof:lastmodified":1695877318,
     "wof:name":"Inglesham",
     "wof:parent_id":1360699033,
     "wof:placetype":"localadmin",

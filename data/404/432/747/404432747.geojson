@@ -10,12 +10,18 @@
     "geom:latitude":52.389527,
     "geom:longitude":-0.95262,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.3896,
     "lbl:longitude":-0.952229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Haselbech"
@@ -63,12 +69,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006667"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125896925
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d82dbc26df089c50efada140ca90bffc",
+    "wof:geomhash":"4207c5bd49330bad30f4ab80bda733f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432747,
     "wof:label":"Haselbech Civil Parish",
-    "wof:lastmodified":1566633912,
+    "wof:lastmodified":1695877856,
     "wof:name":"Haselbech",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

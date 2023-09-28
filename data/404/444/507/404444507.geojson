@@ -10,12 +10,18 @@
     "geom:latitude":52.804709,
     "geom:longitude":-1.191887,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.806432,
     "lbl:longitude":-1.191404,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stanford on Soar"
@@ -57,12 +63,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008003"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878801
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4df83905aae34bede59810177fb933e7",
+    "wof:geomhash":"3c45b02ffc89533a6054d4606f5f6560",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404444507,
     "wof:label":"Stanford on Soar Civil Parish",
-    "wof:lastmodified":1566632934,
+    "wof:lastmodified":1695877428,
     "wof:name":"Stanford on Soar",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.299251,
     "geom:longitude":-2.9166,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.314304,
     "lbl:longitude":-2.925317,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cartmel Fell"
@@ -54,12 +60,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002593"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126034059
     ],
     "wof:country":"GB",
-    "wof:geomhash":"440d09fe8ce8ca281154180e3fbf379c",
+    "wof:geomhash":"3858d1fcfc82f9cf5c2f6ad2db793826",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440537,
     "wof:label":"Cartmel Fell Civil Parish",
-    "wof:lastmodified":1566631178,
+    "wof:lastmodified":1695878240,
     "wof:name":"Cartmel Fell",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

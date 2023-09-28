@@ -10,12 +10,18 @@
     "geom:latitude":53.190631,
     "geom:longitude":-2.694649,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.189292,
     "lbl:longitude":-2.696496,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Willington"
@@ -67,12 +73,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011190"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754185
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7a3976faabb76c7b203e979b663b050e",
+    "wof:geomhash":"04bd51ac91a5d2303c2f47b50fd7358d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +94,7 @@
     ],
     "wof:id":404430283,
     "wof:label":"Willington Civil Parish",
-    "wof:lastmodified":1566632008,
+    "wof:lastmodified":1695877018,
     "wof:name":"Willington",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

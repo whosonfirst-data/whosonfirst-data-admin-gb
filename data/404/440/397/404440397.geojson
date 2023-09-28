@@ -10,12 +10,18 @@
     "geom:latitude":50.162663,
     "geom:longitude":-5.628286,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.161813,
     "lbl:longitude":-5.625919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0648\u0647"
@@ -72,12 +78,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011490"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125970559
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e8391a6fdcdbc7a53aebc357d6867c6e",
+    "wof:geomhash":"ea0ec6d086fc9f2447d49498fcea5d2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404440397,
     "wof:label":"Morvah Civil Parish",
-    "wof:lastmodified":1566631135,
+    "wof:lastmodified":1695878218,
     "wof:name":"Morvah",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

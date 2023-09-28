@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001496,
-    "geom:area_square_m":11476651.842112,
+    "geom:area_square_m":11476651.842111,
     "geom:bbox":"-1.9630805979,51.6307619151,-1.89512554468,51.6703668391",
     "geom:latitude":51.64959,
     "geom:longitude":-1.932195,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.649496,
     "lbl:longitude":-1.937319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashton Keynes"
@@ -63,12 +69,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011625"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125799953
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bbdc2540724c1e009eb002a21b7a4ae6",
+    "wof:geomhash":"e898bc4a82be4a751344f5718f40c42a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430433,
     "wof:label":"Ashton Keynes Civil Parish",
-    "wof:lastmodified":1566632026,
+    "wof:lastmodified":1695877026,
     "wof:name":"Ashton Keynes",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

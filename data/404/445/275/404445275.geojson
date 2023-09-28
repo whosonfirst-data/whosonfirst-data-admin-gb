@@ -10,12 +10,18 @@
     "geom:latitude":51.127365,
     "geom:longitude":-3.360095,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.137593,
     "lbl:longitude":-3.362761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nettlecombe"
@@ -51,12 +57,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008849"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126042383
     ],
     "wof:country":"GB",
-    "wof:geomhash":"44c14cd9b755e19b4f274520e0381d8e",
+    "wof:geomhash":"0443bb4f35dfb558aea2360a847463d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404445275,
     "wof:label":"Nettlecombe Civil Parish",
-    "wof:lastmodified":1566633334,
+    "wof:lastmodified":1695877609,
     "wof:name":"Nettlecombe",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

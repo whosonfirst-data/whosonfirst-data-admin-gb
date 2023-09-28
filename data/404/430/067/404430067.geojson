@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":2440992.083142,
+    "geom:area_square_m":2440992.083141,
     "geom:bbox":"-1.5182290831,54.5241325513,-1.49469995381,54.5539417154",
     "geom:latitude":54.539103,
     "geom:longitude":-1.503483,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.539792,
     "lbl:longitude":-1.504286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Burdon"
@@ -61,12 +67,15 @@
         1360698889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000294"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753849
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8360e1e26e499237a64656d01e6bb01e",
+    "wof:geomhash":"dafe894d2aa1cad6703b834d9ea81d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404430067,
     "wof:label":"Great Burdon Civil Parish",
-    "wof:lastmodified":1566632032,
+    "wof:lastmodified":1695877029,
     "wof:name":"Great Burdon",
     "wof:parent_id":1360698889,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.747836,
     "geom:longitude":-1.672363,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.741022,
     "lbl:longitude":-1.667182,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Filkins and Broughton Poggs"
@@ -49,12 +55,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008287"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755239
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ebbd2782fae1db81b814745ffe4068e3",
+    "wof:geomhash":"9cd4a55a49712914b1b066f190417dbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404434081,
     "wof:label":"Filkins and Broughton Poggs Civil Parish",
-    "wof:lastmodified":1566633605,
+    "wof:lastmodified":1695877733,
     "wof:name":"Filkins and Broughton Poggs",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

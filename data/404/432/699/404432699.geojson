@@ -10,12 +10,18 @@
     "geom:latitude":50.627768,
     "geom:longitude":-1.260117,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.628712,
     "lbl:longitude":-1.256659,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Godshill"
@@ -66,12 +72,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001303"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125940909
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b46364d6bf9e9c1b911f845cd3b5cfea",
+    "wof:geomhash":"3c476606bb50f65c78e63d71c0bd982c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404432699,
     "wof:label":"Godshill Civil Parish",
-    "wof:lastmodified":1566633949,
+    "wof:lastmodified":1695877873,
     "wof:name":"Godshill",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

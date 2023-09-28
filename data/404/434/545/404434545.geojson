@@ -10,12 +10,18 @@
     "geom:latitude":52.022568,
     "geom:longitude":-2.303021,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.02121,
     "lbl:longitude":-2.303544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Birtsmorton"
@@ -58,9 +64,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04010288",
         "gn:id":7291712,
         "qs_pg:id":1047719
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125861757
     ],
@@ -68,7 +76,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf80e21b32285bb0716cfd23e6e7ad9d",
+    "wof:geomhash":"98f0985c30f7da2373d7d7e7e11b5623",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +89,7 @@
     ],
     "wof:id":404434545,
     "wof:label":"Birtsmorton Civil Parish",
-    "wof:lastmodified":1582311143,
+    "wof:lastmodified":1695877984,
     "wof:name":"Birtsmorton",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

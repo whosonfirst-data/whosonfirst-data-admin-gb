@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000698,
-    "geom:area_square_m":5394131.689973,
+    "geom:area_square_m":5394131.689972,
     "geom:bbox":"-1.03208411195,51.2956979601,-0.983832559327,51.3324902821",
     "geom:latitude":51.316106,
     "geom:longitude":-1.000718,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.318372,
     "lbl:longitude":-0.996347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hartley Wespall"
@@ -54,12 +60,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004454"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054301
     ],
     "wof:country":"GB",
-    "wof:geomhash":"348542c8383d7fe43d86964f8fcd2772",
+    "wof:geomhash":"e297d40bc416b844139cae97f5cebecf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448299,
     "wof:label":"Hartley Wespall Civil Parish",
-    "wof:lastmodified":1566631559,
+    "wof:lastmodified":1695876840,
     "wof:name":"Hartley Wespall",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

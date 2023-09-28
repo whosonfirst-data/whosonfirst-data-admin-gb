@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001396,
-    "geom:area_square_m":10677700.3196,
+    "geom:area_square_m":10677700.319599,
     "geom:bbox":"-0.0071103369619,51.7643256625,0.0458639539834,51.8096654387",
     "geom:latitude":51.789423,
     "geom:longitude":0.020259,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.788855,
     "lbl:longitude":0.017644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanstead Abbots"
@@ -42,12 +48,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004748"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125789409
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b2d9e93b80884e76492843bee8938d08",
+    "wof:geomhash":"469513b6554ca53d38c45ea4f5289feb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404448079,
     "wof:label":"Stanstead Abbots Civil Parish",
-    "wof:lastmodified":1566631478,
+    "wof:lastmodified":1695876805,
     "wof:name":"Stanstead Abbots",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

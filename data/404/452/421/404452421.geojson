@@ -10,12 +10,18 @@
     "geom:latitude":52.774545,
     "geom:longitude":-1.482477,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.774184,
     "lbl:longitude":-1.482111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Smisby"
@@ -63,12 +69,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002923"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125964771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3005218a3a5b99304e656765747e8b3a",
+    "wof:geomhash":"a5b1e7a82de15eb3a0b141e346030742",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404452421,
     "wof:label":"Smisby Civil Parish",
-    "wof:lastmodified":1566632230,
+    "wof:lastmodified":1695877112,
     "wof:name":"Smisby",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

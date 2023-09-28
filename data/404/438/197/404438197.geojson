@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001148,
-    "geom:area_square_m":8760800.070875,
+    "geom:area_square_m":8760800.070876,
     "geom:bbox":"-4.33230094554,51.8799951857,-4.27914417204,51.9141134337",
     "geom:latitude":51.897769,
     "geom:longitude":-4.305969,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.897294,
     "lbl:longitude":-4.30647,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bronwydd Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000493"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711669
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a23ada3b55394e8a164bf8db21124d4b",
+    "wof:geomhash":"efdcc934d43d8936db5803c34a5371a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438197,
-    "wof:lastmodified":1566632596,
+    "wof:lastmodified":1695877275,
     "wof:name":"Bronwydd Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

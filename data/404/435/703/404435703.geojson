@@ -10,12 +10,18 @@
     "geom:latitude":51.39776,
     "geom:longitude":-1.611959,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.397512,
     "lbl:longitude":-1.602094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Bedwyn"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011756"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125909815
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9adefa2cc3c598fd84d49c06a1932cfc",
+    "wof:geomhash":"4bacfd6b6018fcf95bada117a78f9c71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404435703,
     "wof:label":"Little Bedwyn Civil Parish",
-    "wof:lastmodified":1566634043,
+    "wof:lastmodified":1695877920,
     "wof:name":"Little Bedwyn",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

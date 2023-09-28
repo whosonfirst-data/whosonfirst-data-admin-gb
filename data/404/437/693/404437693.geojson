@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003136,
-    "geom:area_square_m":23949505.097887,
+    "geom:area_square_m":23949505.097886,
     "geom:bbox":"0.418028651667,51.82881678,0.519289271597,51.8798554176",
     "geom:latitude":51.856109,
     "geom:longitude":0.462019,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.856991,
     "lbl:longitude":0.452855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Felsted"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004129"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125875865
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8bfa9fa34b2b89ef1b205906e3e556a3",
+    "wof:geomhash":"f10caa3c6a052ed356739b3837eaf71b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404437693,
     "wof:label":"Felsted Civil Parish",
-    "wof:lastmodified":1566632084,
+    "wof:lastmodified":1695877051,
     "wof:name":"Felsted",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

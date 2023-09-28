@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002038,
-    "geom:area_square_m":14845869.810095,
+    "geom:area_square_m":14845869.810096,
     "geom:bbox":"-0.949494380178,53.8902130702,-0.866140668871,53.9355221796",
     "geom:latitude":53.912452,
     "geom:longitude":-0.906426,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.915951,
     "lbl:longitude":-0.907064,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sutton Upon Derwent"
@@ -42,12 +48,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000483"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125905385
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ec9511f48c1815d5af7343d8b5c11176",
+    "wof:geomhash":"813a667838f197714452989cc562076d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404445649,
     "wof:label":"Sutton Upon Derwent Civil Parish",
-    "wof:lastmodified":1566633381,
+    "wof:lastmodified":1695877630,
     "wof:name":"Sutton Upon Derwent",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

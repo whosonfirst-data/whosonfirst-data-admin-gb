@@ -10,12 +10,18 @@
     "geom:latitude":52.554376,
     "geom:longitude":-0.283908,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.55216,
     "lbl:longitude":-0.278186,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orton Longueville"
@@ -42,12 +48,15 @@
         1360698773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001115"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126032499
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1b4f9c700a3d80fcfab37c3cfc519aac",
+    "wof:geomhash":"1efd1ac9b666f094638706f6f6191118",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404433841,
     "wof:label":"Orton Longueville Civil Parish",
-    "wof:lastmodified":1566633703,
+    "wof:lastmodified":1695877776,
     "wof:name":"Orton Longueville",
     "wof:parent_id":1360698773,
     "wof:placetype":"localadmin",

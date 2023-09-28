@@ -10,12 +10,18 @@
     "geom:latitude":53.138686,
     "geom:longitude":-1.516102,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.138281,
     "lbl:longitude":-1.516107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tansley"
@@ -57,12 +63,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002813"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126048475
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cfde444d266ffb9709270c4dfc03558d",
+    "wof:geomhash":"2f48f868aa1110691c4054601dc29968",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404444645,
     "wof:label":"Tansley Civil Parish",
-    "wof:lastmodified":1566632887,
+    "wof:lastmodified":1695877409,
     "wof:name":"Tansley",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.291696,
     "geom:longitude":-2.854936,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.288468,
     "lbl:longitude":-2.845751,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Crosthwaite and Lyth"
@@ -55,12 +61,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002599"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755773
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7d9a32195fa536b7d4038309f31bfafe",
+    "wof:geomhash":"fbc7839bd6c380867fbb5056bf2fef29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404450841,
     "wof:label":"Crosthwaite and Lyth Civil Parish",
-    "wof:lastmodified":1566633806,
+    "wof:lastmodified":1695877820,
     "wof:name":"Crosthwaite and Lyth",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

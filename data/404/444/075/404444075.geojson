@@ -10,12 +10,18 @@
     "geom:latitude":52.491651,
     "geom:longitude":-1.222227,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.490123,
     "lbl:longitude":-1.227135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashby Parva"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005402"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125883147
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ceaaf523f909f173cb63d494f0c23a17",
+    "wof:geomhash":"56d792d9561e55b4d7384e11810f79f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404444075,
     "wof:label":"Ashby Parva Civil Parish",
-    "wof:lastmodified":1566632949,
+    "wof:lastmodified":1695877433,
     "wof:name":"Ashby Parva",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

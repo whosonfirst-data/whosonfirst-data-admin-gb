@@ -10,12 +10,18 @@
     "geom:latitude":51.291212,
     "geom:longitude":-1.056127,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.290726,
     "lbl:longitude":-1.057177,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chineham"
@@ -59,9 +65,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04004445",
         "gn:id":7293632,
         "qs_pg:id":380241
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757145
     ],
@@ -69,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"40acdf6a81df9609091403f9b306d283",
+    "wof:geomhash":"f71253fae70e3e8966ee0d6cb475aa2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +90,7 @@
     ],
     "wof:id":404432203,
     "wof:label":"Chineham Civil Parish",
-    "wof:lastmodified":1582311156,
+    "wof:lastmodified":1695877989,
     "wof:name":"Chineham",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

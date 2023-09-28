@@ -10,12 +10,18 @@
     "geom:latitude":50.666364,
     "geom:longitude":-2.138405,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.664825,
     "lbl:longitude":-2.137067,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Holme"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003472"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030083
     ],
     "wof:country":"GB",
-    "wof:geomhash":"500da4e4feab9ffb8b3c1ed692934456",
+    "wof:geomhash":"487bed11380f31215d9c066618510470",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448243,
     "wof:label":"East Holme Civil Parish",
-    "wof:lastmodified":1566631485,
+    "wof:lastmodified":1695876808,
     "wof:name":"East Holme",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

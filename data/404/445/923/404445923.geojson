@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003428,
-    "geom:area_square_m":26398764.323831,
+    "geom:area_square_m":26398764.32383,
     "geom:bbox":"-0.752761884865,51.4560844094,-0.652564712144,51.5111283507",
     "geom:latitude":51.481667,
     "geom:longitude":-0.703193,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.488543,
     "lbl:longitude":-0.699139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Bray"
@@ -96,12 +102,15 @@
         1360698943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001213"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059501
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5566348e96147892f1fabfe5bab0617",
+    "wof:geomhash":"c6ece54f9598fbe978bf743fd81abbe2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404445923,
     "wof:label":"Bray Civil Parish",
-    "wof:lastmodified":1566633355,
+    "wof:lastmodified":1695877620,
     "wof:name":"Bray",
     "wof:parent_id":1360698943,
     "wof:placetype":"localadmin",

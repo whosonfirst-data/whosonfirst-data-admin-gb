@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
-    "geom:area_square_m":3789759.865653,
+    "geom:area_square_m":3789759.865654,
     "geom:bbox":"0.62677029617,52.2807125603,0.669206672406,52.3059307836",
     "geom:latitude":52.291628,
     "geom:longitude":0.649815,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.293818,
     "lbl:longitude":0.653676,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Flempton"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009307"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125883669
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0957eaf532577fef220fe5f11f0d1bfa",
+    "wof:geomhash":"705fdadfa7ff81b71366f634fb2e8fc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448467,
     "wof:label":"Flempton Civil Parish",
-    "wof:lastmodified":1566631548,
+    "wof:lastmodified":1695876835,
     "wof:name":"Flempton",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

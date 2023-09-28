@@ -10,12 +10,18 @@
     "geom:latitude":53.24532,
     "geom:longitude":-2.475957,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.244573,
     "lbl:longitude":-2.477412,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rudheath"
@@ -54,12 +60,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011160"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125788657
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d48102db78821e2ff0355e503b69fc2e",
+    "wof:geomhash":"e707c8394b2e74817c5d6c774a95d25e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448685,
     "wof:label":"Rudheath Civil Parish",
-    "wof:lastmodified":1566631540,
+    "wof:lastmodified":1695876832,
     "wof:name":"Rudheath",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

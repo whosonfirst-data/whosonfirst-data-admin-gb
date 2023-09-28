@@ -10,12 +10,18 @@
     "geom:latitude":52.592412,
     "geom:longitude":-0.767215,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.591021,
     "lbl:longitude":-0.766085,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wardley"
@@ -49,12 +55,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000678"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759813
     ],
     "wof:country":"GB",
-    "wof:geomhash":"38f21c78bab6da119f1af955c425c9c3",
+    "wof:geomhash":"8f8c0fe2788784a54ca650cb6bf28909",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404454025,
     "wof:label":"Wardley Civil Parish",
-    "wof:lastmodified":1566632665,
+    "wof:lastmodified":1695877308,
     "wof:name":"Wardley",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

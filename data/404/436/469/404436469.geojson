@@ -10,12 +10,18 @@
     "geom:latitude":52.89807,
     "geom:longitude":-1.868183,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.897553,
     "lbl:longitude":-1.867461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u062a\u0648\u06a9\u0633\u062a\u0631"
@@ -93,12 +99,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008903"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871897
     ],
     "wof:country":"GB",
-    "wof:geomhash":"af8b6e63815d6a84681901ba58bdace4",
+    "wof:geomhash":"00895d056263ed9663d2f061125e87aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404436469,
     "wof:label":"Uttoxeter Civil Parish",
-    "wof:lastmodified":1566632403,
+    "wof:lastmodified":1695877188,
     "wof:name":"Uttoxeter",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

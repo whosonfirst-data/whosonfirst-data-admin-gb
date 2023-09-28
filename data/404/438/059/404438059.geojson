@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003848,
-    "geom:area_square_m":28388735.424628,
+    "geom:area_square_m":28388735.424627,
     "geom:bbox":"-1.88540936617,53.344222963,-1.75940212219,53.3932975531",
     "geom:latitude":53.370129,
     "geom:longitude":-1.826359,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.367025,
     "lbl:longitude":-1.827569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Edale"
@@ -66,12 +72,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002848"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125937941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fba51df41debd35314a32b0ee35745c5",
+    "wof:geomhash":"4ecdd9d120d769cce0460b6c21f7903c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404438059,
     "wof:label":"Edale Civil Parish",
-    "wof:lastmodified":1566632619,
+    "wof:lastmodified":1695877285,
     "wof:name":"Edale",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

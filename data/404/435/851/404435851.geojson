@@ -10,12 +10,18 @@
     "geom:latitude":52.520403,
     "geom:longitude":-0.62605,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.52082,
     "lbl:longitude":-0.623175,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deene"
@@ -57,12 +63,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006719"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879227
     ],
     "wof:country":"GB",
-    "wof:geomhash":"93723af42fe1bf770abe89bdc9efddbb",
+    "wof:geomhash":"1c4e90f16548aacd4c32cfcc6bc6d95a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404435851,
     "wof:label":"Deene Civil Parish",
-    "wof:lastmodified":1566634013,
+    "wof:lastmodified":1695877904,
     "wof:name":"Deene",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

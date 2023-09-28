@@ -10,12 +10,18 @@
     "geom:latitude":53.827812,
     "geom:longitude":-1.750672,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.828137,
     "lbl:longitude":-1.750418,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wrose"
@@ -56,9 +62,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04000169",
         "gn:id":7301704,
         "qs_pg:id":1154470
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758305
     ],
@@ -66,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3ba95d66a3a15f0f9931044a43ed9a8a",
+    "wof:geomhash":"8895b02a9a1648608b0273b01b555628",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +87,7 @@
     ],
     "wof:id":404452577,
     "wof:label":"Wrose Civil Parish",
-    "wof:lastmodified":1582311092,
+    "wof:lastmodified":1695877965,
     "wof:name":"Wrose",
     "wof:parent_id":1360698963,
     "wof:placetype":"localadmin",

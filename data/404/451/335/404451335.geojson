@@ -10,12 +10,18 @@
     "geom:latitude":55.596739,
     "geom:longitude":-2.118012,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.599705,
     "lbl:longitude":-2.112239,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Milfield"
@@ -63,12 +69,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010832"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209850923
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aa2e4e4d2f3ddc8cb6c072c27771d06d",
+    "wof:geomhash":"ed22e40d6ee09a38dd7a5bc22f144eb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404451335,
     "wof:label":"Milfield Civil Parish",
-    "wof:lastmodified":1566633485,
+    "wof:lastmodified":1695877674,
     "wof:name":"Milfield",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008329,
-    "geom:area_square_m":60730814.6654,
+    "geom:area_square_m":60730814.665401,
     "geom:bbox":"-2.04613194325,53.8288228959,-1.81775376853,53.9065425468",
     "geom:latitude":53.864698,
     "geom:longitude":-1.93368,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.864679,
     "lbl:longitude":-1.924189,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u06cc\u0644\u06cc"
@@ -108,12 +114,15 @@
         1360698963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000165"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872255
     ],
     "wof:country":"GB",
-    "wof:geomhash":"347c6945a26d1a4afba3b4c232737eb0",
+    "wof:geomhash":"123981744be50cf851abc4c381b654f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +135,7 @@
     ],
     "wof:id":404443145,
     "wof:label":"Keighley Civil Parish",
-    "wof:lastmodified":1566633027,
+    "wof:lastmodified":1695877471,
     "wof:name":"Keighley",
     "wof:parent_id":1360698963,
     "wof:placetype":"localadmin",

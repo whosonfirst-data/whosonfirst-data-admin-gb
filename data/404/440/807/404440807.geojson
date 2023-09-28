@@ -10,12 +10,18 @@
     "geom:latitude":54.647154,
     "geom:longitude":-3.485677,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.648006,
     "lbl:longitude":-3.488334,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Clifton"
@@ -66,12 +72,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002408"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326658901
     ],
     "wof:country":"GB",
-    "wof:geomhash":"21a8c1b999e68e274c488c93fb1f5e70",
+    "wof:geomhash":"e7f00520030a63a7d78774f544d9187b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404440807,
     "wof:label":"Great Clifton Civil Parish",
-    "wof:lastmodified":1566631207,
+    "wof:lastmodified":1695878253,
     "wof:name":"Great Clifton",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.537076,
     "geom:longitude":-1.910238,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.537264,
     "lbl:longitude":-1.913752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wootton Bassett"
@@ -42,12 +48,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011870"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852705
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eaee2d4a91e126c828dea9b6a3bc8f5f",
+    "wof:geomhash":"71a0e501bffab0c32b2247867735ee45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404434217,
     "wof:label":"Wootton Bassett Civil Parish",
-    "wof:lastmodified":1566633554,
+    "wof:lastmodified":1695877710,
     "wof:name":"Wootton Bassett",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

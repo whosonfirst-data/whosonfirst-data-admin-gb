@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
-    "geom:area_square_m":2199524.209929,
+    "geom:area_square_m":2199524.209928,
     "geom:bbox":"-2.83313371903,52.0665657775,-2.80475007316,52.0853707652",
     "geom:latitude":52.07667,
     "geom:longitude":-2.819643,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.077726,
     "lbl:longitude":-2.821788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Kenchester"
@@ -60,12 +66,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000781"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125888445
     ],
     "wof:country":"GB",
-    "wof:geomhash":"113eb7548fd70773a76cb6d11942d9a7",
+    "wof:geomhash":"c451a3732bbe7b73c1f21e78cc2a96ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404449261,
     "wof:label":"Kenchester Civil Parish",
-    "wof:lastmodified":1566631376,
+    "wof:lastmodified":1695878327,
     "wof:name":"Kenchester",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

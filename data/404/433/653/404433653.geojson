@@ -10,12 +10,18 @@
     "geom:latitude":52.435295,
     "geom:longitude":-0.209609,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.434447,
     "lbl:longitude":-0.210204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wood Walton"
@@ -42,12 +48,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012045"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998561
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f842d5937a589881d87d6010f670f0b0",
+    "wof:geomhash":"2c7254b353f340195a58e154fc447927",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404433653,
     "wof:label":"Wood Walton Civil Parish",
-    "wof:lastmodified":1566633724,
+    "wof:lastmodified":1695877786,
     "wof:name":"Wood Walton",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

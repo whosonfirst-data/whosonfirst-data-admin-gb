@@ -10,12 +10,18 @@
     "geom:latitude":52.215131,
     "geom:longitude":-0.172232,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.215387,
     "lbl:longitude":-0.172687,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Croxton"
@@ -60,12 +66,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001776"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125970917
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ba7f2a7713133470c095f9bdeac74d5f",
+    "wof:geomhash":"038b22aa5e33f74faea9ac546dee28bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404450087,
     "wof:label":"Croxton Civil Parish",
-    "wof:lastmodified":1566633808,
+    "wof:lastmodified":1695877821,
     "wof:name":"Croxton",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

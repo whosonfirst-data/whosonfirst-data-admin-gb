@@ -10,12 +10,18 @@
     "geom:latitude":52.045956,
     "geom:longitude":0.834522,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.045838,
     "lbl:longitude":0.834091,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Edwardstone"
@@ -78,12 +84,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009086"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125839705
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7eee272897db2a30cac609c10aa847eb",
+    "wof:geomhash":"3b4e813b3d47c0d0933d171d5e7ec0fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404437777,
     "wof:label":"Edwardstone Civil Parish",
-    "wof:lastmodified":1566632100,
+    "wof:lastmodified":1695877059,
     "wof:name":"Edwardstone",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.622586,
     "geom:longitude":-1.018561,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.620413,
     "lbl:longitude":-1.023561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fishlake"
@@ -54,12 +60,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000078"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910127
     ],
     "wof:country":"GB",
-    "wof:geomhash":"59d59bb693cc853508514a969af9bf39",
+    "wof:geomhash":"ea08d6e8a8e592eedc39e2ab6ac068f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404446611,
     "wof:label":"Fishlake Civil Parish",
-    "wof:lastmodified":1566631624,
+    "wof:lastmodified":1695876857,
     "wof:name":"Fishlake",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.530965,
     "geom:longitude":-0.821996,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.527575,
     "lbl:longitude":-0.817576,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Medbourne"
@@ -54,12 +60,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005454"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126017605
     ],
     "wof:country":"GB",
-    "wof:geomhash":"160ba9a1aa4532222da6feaf8121924e",
+    "wof:geomhash":"09408c057b1a3c08b2efdbdaa49e85ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454089,
     "wof:label":"Medbourne Civil Parish",
-    "wof:lastmodified":1566632707,
+    "wof:lastmodified":1695877330,
     "wof:name":"Medbourne",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

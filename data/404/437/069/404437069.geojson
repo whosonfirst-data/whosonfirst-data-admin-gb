@@ -10,12 +10,18 @@
     "geom:latitude":52.037442,
     "geom:longitude":-4.772221,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.034031,
     "lbl:longitude":-4.783851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nevern Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000454"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802477
     ],
     "wof:country":"GB",
-    "wof:geomhash":"42662f0f12ab5bb34c04400acfd8ca34",
+    "wof:geomhash":"51704a08e91bdb5c23d51fc5356c7ab9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437069,
-    "wof:lastmodified":1566632144,
+    "wof:lastmodified":1695877076,
     "wof:name":"Nevern Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

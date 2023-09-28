@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007713,
-    "geom:area_square_m":58845960.056507,
+    "geom:area_square_m":58845960.056508,
     "geom:bbox":"-3.53496786706,51.8458036498,-3.40250312456,51.9553023822",
     "geom:latitude":51.900764,
     "geom:longitude":-3.467704,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.896256,
     "lbl:longitude":-3.472237,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glyn Tarell Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000278"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711495
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1616a4e9ef9072cf017970e63197da8c",
+    "wof:geomhash":"b813e84c41ce9fd4d39cc47bc8f4bf32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440105,
-    "wof:lastmodified":1566631128,
+    "wof:lastmodified":1695878215,
     "wof:name":"Glyn Tarell Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

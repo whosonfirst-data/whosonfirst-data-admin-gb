@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003797,
-    "geom:area_square_m":27038730.449317,
+    "geom:area_square_m":27038730.449314,
     "geom:bbox":"-3.21973025387,54.8006490865,-3.09575448793,54.8816757779",
     "geom:latitude":54.84247,
     "geom:longitude":-3.166544,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.851518,
     "lbl:longitude":-3.176833,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Woodside"
@@ -88,12 +94,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002438"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755849
     ],
     "wof:country":"GB",
-    "wof:geomhash":"946de6db4e084452fe9bad693bab76e9",
+    "wof:geomhash":"a8d2b03628dac726e66a70104977723d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +115,7 @@
     ],
     "wof:id":404439985,
     "wof:label":"Woodside Civil Parish",
-    "wof:lastmodified":1566631878,
+    "wof:lastmodified":1695876963,
     "wof:name":"Woodside",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

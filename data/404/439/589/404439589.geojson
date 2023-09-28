@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003931,
-    "geom:area_square_m":29760910.941035,
+    "geom:area_square_m":29760910.941037,
     "geom:bbox":"-3.47284595553,52.1968266838,-3.37131049614,52.2807691658",
     "geom:latitude":52.245245,
     "geom:longitude":-3.420583,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.244303,
     "lbl:longitude":-3.421349,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanyre Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000324"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711879
     ],
     "wof:country":"GB",
-    "wof:geomhash":"783da460c6d243e2aaa3a0801e08fbec",
+    "wof:geomhash":"c4a53fea9fce319b27be7b64e65654be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404439589,
-    "wof:lastmodified":1566631881,
+    "wof:lastmodified":1695876965,
     "wof:name":"Llanyre Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

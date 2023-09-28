@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00166,
-    "geom:area_square_m":12949634.785316,
+    "geom:area_square_m":12949634.785315,
     "geom:bbox":"-2.71542869694,50.8566919605,-2.62393372057,50.8882994975",
     "geom:latitude":50.871432,
     "geom:longitude":-2.666869,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.874911,
     "lbl:longitude":-2.659258,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Halstock"
@@ -66,12 +72,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003543"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125867903
     ],
     "wof:country":"GB",
-    "wof:geomhash":"71404142a2a195abb8328bc1e50469c6",
+    "wof:geomhash":"f70d92b6cc83bab6dd1f08ea92e2022f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404441783,
     "wof:label":"Halstock Civil Parish",
-    "wof:lastmodified":1566631770,
+    "wof:lastmodified":1695876912,
     "wof:name":"Halstock",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

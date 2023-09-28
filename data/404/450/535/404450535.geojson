@@ -10,12 +10,18 @@
     "geom:latitude":51.694673,
     "geom:longitude":-1.895649,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.694496,
     "lbl:longitude":-1.895225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0631\u06cc\u0641\u06cc\u0644\u062f"
@@ -88,12 +94,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004222"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755301
     ],
     "wof:country":"GB",
-    "wof:geomhash":"335360474d76688a55b7a79e117474f3",
+    "wof:geomhash":"52fb1ba1ee4191c2775d9be733f26a43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +115,7 @@
     ],
     "wof:id":404450535,
     "wof:label":"Driffield Civil Parish",
-    "wof:lastmodified":1566633755,
+    "wof:lastmodified":1695877799,
     "wof:name":"Driffield",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

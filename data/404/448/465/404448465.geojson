@@ -10,12 +10,18 @@
     "geom:latitude":53.500021,
     "geom:longitude":-0.180458,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.501237,
     "lbl:longitude":-0.177832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beelsby"
@@ -54,12 +60,15 @@
         1360698837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000517"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125914709
     ],
     "wof:country":"GB",
-    "wof:geomhash":"10dc4c5acdb237955461afa9806e270e",
+    "wof:geomhash":"79e33bcf93679bd1ea6ffc3d23e3d415",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448465,
     "wof:label":"Beelsby Civil Parish",
-    "wof:lastmodified":1566631502,
+    "wof:lastmodified":1695876815,
     "wof:name":"Beelsby",
     "wof:parent_id":1360698837,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.009615,
     "geom:longitude":-0.727972,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.005655,
     "lbl:longitude":-0.732022,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Westborough and Dry Doddington"
@@ -49,12 +55,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005952"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753737
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b8b20ae8672ab5661bc57d5bd6e7a70a",
+    "wof:geomhash":"f162e577ae1cb44df5fbcf3734d2329b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404449507,
     "wof:label":"Westborough and Dry Doddington Civil Parish",
-    "wof:lastmodified":1566631409,
+    "wof:lastmodified":1695878342,
     "wof:name":"Westborough and Dry Doddington",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.274628,
     "geom:longitude":-1.24095,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.277484,
     "lbl:longitude":-1.243601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boltby"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007142"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126025169
     ],
     "wof:country":"GB",
-    "wof:geomhash":"81e896f450a8ffecd6999100c28be7d4",
+    "wof:geomhash":"5c4c1ac11df05fcbae8eaed96fa5a894",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452447,
     "wof:label":"Boltby Civil Parish",
-    "wof:lastmodified":1566632177,
+    "wof:lastmodified":1695877090,
     "wof:name":"Boltby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

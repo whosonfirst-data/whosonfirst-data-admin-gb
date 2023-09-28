@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00366,
-    "geom:area_square_m":27402246.364146,
+    "geom:area_square_m":27402246.364144,
     "geom:bbox":"-3.16130834473,52.6990312603,-2.99060710727,52.7602645449",
     "geom:latitude":52.735984,
     "geom:longitude":-3.087315,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.733218,
     "lbl:longitude":-3.08862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llandrinio Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000294"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242612889
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d243992a7382f50c5c4951fddc460a79",
+    "wof:geomhash":"3423f68b26e3c1a5c14a7bcaaa9c09d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442669,
-    "wof:lastmodified":1566633226,
+    "wof:lastmodified":1695877561,
     "wof:name":"Llandrinio Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

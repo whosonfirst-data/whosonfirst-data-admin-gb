@@ -10,12 +10,18 @@
     "geom:latitude":54.476813,
     "geom:longitude":-1.191474,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.475748,
     "lbl:longitude":-1.187657,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stokesley"
@@ -72,12 +78,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007266"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873305
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f9f5a528a3f9af5268c3aa5409bee6c0",
+    "wof:geomhash":"cee1ad462ac40909de105a597e33a186",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404452763,
     "wof:label":"Stokesley Civil Parish",
-    "wof:lastmodified":1566632164,
+    "wof:lastmodified":1695877084,
     "wof:name":"Stokesley",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

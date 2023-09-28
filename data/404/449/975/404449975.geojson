@@ -10,12 +10,18 @@
     "geom:latitude":52.480086,
     "geom:longitude":-2.448452,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.478852,
     "lbl:longitude":-2.44823,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deuxhill"
@@ -52,12 +58,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011261"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754471
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3829c343a91d22c07f384a9a685db337",
+    "wof:geomhash":"01282ef0e08a761e801924302da94116",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404449975,
     "wof:label":"Deuxhill Civil Parish",
-    "wof:lastmodified":1566631458,
+    "wof:lastmodified":1695876796,
     "wof:name":"Deuxhill",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

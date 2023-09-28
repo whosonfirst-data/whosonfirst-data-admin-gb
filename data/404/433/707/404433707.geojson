@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002289,
-    "geom:area_square_m":17840108.774721,
+    "geom:area_square_m":17840108.77472,
     "geom:bbox":"-1.95507554353,50.9042111515,-1.88040718518,50.9614985516",
     "geom:latitude":50.931821,
     "geom:longitude":-1.918434,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.929923,
     "lbl:longitude":-1.917864,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Cranborne"
@@ -75,12 +81,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003366"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030235
     ],
     "wof:country":"GB",
-    "wof:geomhash":"264632e940a6602bc1a81084e77c0974",
+    "wof:geomhash":"adb1ae5ad5535c386ed1d8cec33d9e90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404433707,
     "wof:label":"Cranborne Civil Parish",
-    "wof:lastmodified":1566633649,
+    "wof:lastmodified":1695877751,
     "wof:name":"Cranborne",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

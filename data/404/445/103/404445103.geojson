@@ -10,12 +10,18 @@
     "geom:latitude":51.763022,
     "geom:longitude":0.235791,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.763356,
     "lbl:longitude":0.235512,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Laver"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012202"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054311
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a811757191e343c261a340835fbb2738",
+    "wof:geomhash":"2a49e6dc88f08b86ae77d02e691042a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445103,
     "wof:label":"Little Laver Civil Parish",
-    "wof:lastmodified":1566633308,
+    "wof:lastmodified":1695877597,
     "wof:name":"Little Laver",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

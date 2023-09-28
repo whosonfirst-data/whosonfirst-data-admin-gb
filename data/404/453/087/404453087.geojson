@@ -10,12 +10,18 @@
     "geom:latitude":53.752382,
     "geom:longitude":-1.218188,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.751985,
     "lbl:longitude":-1.218199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hillam"
@@ -61,9 +67,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04007746",
         "gn:id":7292112,
         "qs_pg:id":1154380
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125865721
     ],
@@ -71,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e00a014a45a7d3c1112f787e8d35ea90",
+    "wof:geomhash":"edb004d52e39497b3204a2924eea701a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +92,7 @@
     ],
     "wof:id":404453087,
     "wof:label":"Hillam Civil Parish",
-    "wof:lastmodified":1582311113,
+    "wof:lastmodified":1695877973,
     "wof:name":"Hillam",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

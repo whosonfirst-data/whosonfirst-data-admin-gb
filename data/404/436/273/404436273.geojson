@@ -10,12 +10,18 @@
     "geom:latitude":52.059703,
     "geom:longitude":-1.138505,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.056632,
     "lbl:longitude":-1.142063,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Radstone"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006851"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209444261
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2885ae1f1f1598047c39fb144b92ed48",
+    "wof:geomhash":"168c8125246e4fb68f57f1f386acdefe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404436273,
     "wof:label":"Radstone Civil Parish",
-    "wof:lastmodified":1566632333,
+    "wof:lastmodified":1695877157,
     "wof:name":"Radstone",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

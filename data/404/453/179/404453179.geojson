@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001096,
-    "geom:area_square_m":8411691.518292,
+    "geom:area_square_m":8411691.518294,
     "geom:bbox":"-4.11324013054,51.6091704565,-4.04686433022,51.6451624471",
     "geom:latitude":51.625213,
     "geom:longitude":-4.074924,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.626034,
     "lbl:longitude":-4.074912,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Three Crosses Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000977"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974199
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7ec01b80d2a8925528473d2a78ab6448",
+    "wof:geomhash":"156698e57041ce856f26a2eda2f090e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453179,
-    "wof:lastmodified":1566632853,
+    "wof:lastmodified":1695877396,
     "wof:name":"Three Crosses Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

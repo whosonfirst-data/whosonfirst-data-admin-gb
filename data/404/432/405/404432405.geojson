@@ -10,12 +10,18 @@
     "geom:latitude":51.376339,
     "geom:longitude":-2.243063,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.376331,
     "lbl:longitude":-2.242603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Wraxall"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011818"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976309
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8d41c8cd10cdcfdc5ff9dae8331a0329",
+    "wof:geomhash":"c702168cfe22309385508752eda0bbe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404432405,
     "wof:label":"South Wraxall Civil Parish",
-    "wof:lastmodified":1566633951,
+    "wof:lastmodified":1695877874,
     "wof:name":"South Wraxall",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

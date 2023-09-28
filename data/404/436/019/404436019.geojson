@@ -10,12 +10,18 @@
     "geom:latitude":52.724479,
     "geom:longitude":1.166277,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.725436,
     "lbl:longitude":1.166654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Swannington"
@@ -54,12 +60,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006253"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125789947
     ],
     "wof:country":"GB",
-    "wof:geomhash":"631850f2691d485715ceea37583a66ed",
+    "wof:geomhash":"22d6e4cf0770b479445426427637294e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404436019,
     "wof:label":"Swannington Civil Parish",
-    "wof:lastmodified":1566632401,
+    "wof:lastmodified":1695877187,
     "wof:name":"Swannington",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

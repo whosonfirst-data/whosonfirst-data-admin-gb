@@ -10,12 +10,18 @@
     "geom:latitude":53.220915,
     "geom:longitude":-4.292554,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.222436,
     "lbl:longitude":-4.288707,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfihangel Ysgeifiog Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000023"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711567
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3bea9964df7c1abffb90426b8e7991a3",
+    "wof:geomhash":"10b10f65ebcf2e701db0e08c3b29e643",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404447393,
-    "wof:lastmodified":1566631299,
+    "wof:lastmodified":1695878295,
     "wof:name":"Llanfihangel Ysgeifiog Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

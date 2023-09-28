@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003163,
-    "geom:area_square_m":24642974.526687,
+    "geom:area_square_m":24642974.526681,
     "geom:bbox":"-4.30509817919,50.9113410826,-4.22450430374,50.9855373552",
     "geom:latitude":50.945094,
     "geom:longitude":-4.260788,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.942985,
     "lbl:longitude":-4.260802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buckland Brewer"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003253"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125799473
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3ba9371cafb6f01d2c3eecffb0472415",
+    "wof:geomhash":"6493f36e886ae07ba0304de73a846736",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404450813,
     "wof:label":"Buckland Brewer Civil Parish",
-    "wof:lastmodified":1566633818,
+    "wof:lastmodified":1695877825,
     "wof:name":"Buckland Brewer",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

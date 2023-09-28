@@ -10,12 +10,18 @@
     "geom:latitude":53.25319,
     "geom:longitude":-0.890529,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.250952,
     "lbl:longitude":-0.891248,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Markham"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007804"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125948133
     ],
     "wof:country":"GB",
-    "wof:geomhash":"df38d14733f4d649e3550d18007288d5",
+    "wof:geomhash":"a167d5f3475f8e090a33e72e37c655b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404434641,
     "wof:label":"East Markham Civil Parish",
-    "wof:lastmodified":1566633609,
+    "wof:lastmodified":1695877735,
     "wof:name":"East Markham",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

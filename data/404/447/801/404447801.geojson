@@ -10,12 +10,18 @@
     "geom:latitude":50.755341,
     "geom:longitude":-1.606017,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.75294,
     "lbl:longitude":-1.60879,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hordle"
@@ -69,12 +75,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004571"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226776483
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ba0469c61983f167779affa5b1b8ecf2",
+    "wof:geomhash":"966103f77309791f9507b398f485a3ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404447801,
     "wof:label":"Hordle Civil Parish",
-    "wof:lastmodified":1566631326,
+    "wof:lastmodified":1695878307,
     "wof:name":"Hordle",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

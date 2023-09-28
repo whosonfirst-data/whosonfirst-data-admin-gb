@@ -10,12 +10,18 @@
     "geom:latitude":54.387226,
     "geom:longitude":-1.609894,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.385484,
     "lbl:longitude":-1.609902,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bolton-On-Swale"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007455"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125839341
     ],
     "wof:country":"GB",
-    "wof:geomhash":"333a7a4d76921266703e60aaada7cec6",
+    "wof:geomhash":"4d4554782caccd2b0a9dee0b7c181ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404454209,
     "wof:label":"Bolton-On-Swale Civil Parish",
-    "wof:lastmodified":1566632721,
+    "wof:lastmodified":1695877337,
     "wof:name":"Bolton-On-Swale",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001393,
-    "geom:area_square_m":10184325.404002,
+    "geom:area_square_m":10184325.404003,
     "geom:bbox":"-1.1328412227,53.7324506613,-1.05847253647,53.7586537794",
     "geom:latitude":53.745814,
     "geom:longitude":-1.091485,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.745924,
     "lbl:longitude":-1.090783,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0631\u0642"
@@ -213,12 +219,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007723"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125963433
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c521e9bc7795c5e05de0cbfd9afb47d",
+    "wof:geomhash":"3103ecddfa17fab513d906dd7c2b9d64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +240,7 @@
     ],
     "wof:id":404448737,
     "wof:label":"Burn Civil Parish",
-    "wof:lastmodified":1566631467,
+    "wof:lastmodified":1695876800,
     "wof:name":"Burn",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

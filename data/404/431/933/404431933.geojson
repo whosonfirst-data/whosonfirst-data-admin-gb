@@ -10,12 +10,18 @@
     "geom:latitude":52.083065,
     "geom:longitude":-0.44113,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.083928,
     "lbl:longitude":-0.441823,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wilshamstead"
@@ -42,12 +48,15 @@
         1360699073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011920"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125914359
     ],
     "wof:country":"GB",
-    "wof:geomhash":"99e4a0a54420053698e84c8981f29511",
+    "wof:geomhash":"c0961d5b7841f074206dc8d6199a112e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404431933,
     "wof:label":"Wilshamstead Civil Parish",
-    "wof:lastmodified":1566632495,
+    "wof:lastmodified":1695877230,
     "wof:name":"Wilshamstead",
     "wof:parent_id":1360699073,
     "wof:placetype":"localadmin",

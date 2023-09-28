@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001966,
-    "geom:area_square_m":14608662.486982,
+    "geom:area_square_m":14608662.486981,
     "geom:bbox":"-0.661983080572,53.0456338474,-0.521537007697,53.0805997831",
     "geom:latitude":53.059908,
     "geom:longitude":-0.592203,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.059522,
     "lbl:longitude":-0.592257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leadenham"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005810"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327163041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c2b364aa2d23b7a272b9f71ba79fb321",
+    "wof:geomhash":"6a7b2ee27a1e3875eaaa44c03a9fa6b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451929,
     "wof:label":"Leadenham Civil Parish",
-    "wof:lastmodified":1566633521,
+    "wof:lastmodified":1695877693,
     "wof:name":"Leadenham",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

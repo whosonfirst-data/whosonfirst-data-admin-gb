@@ -10,12 +10,18 @@
     "geom:latitude":52.191549,
     "geom:longitude":-2.306471,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.189911,
     "lbl:longitude":-2.304261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cotheridge"
@@ -54,12 +60,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010296"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360320663
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d00b32508837700e0b40cb2ed41aec2e",
+    "wof:geomhash":"58e52c8d06ed578de937b850b0f8aa43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430419,
     "wof:label":"Cotheridge Civil Parish",
-    "wof:lastmodified":1566632007,
+    "wof:lastmodified":1695877017,
     "wof:name":"Cotheridge",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

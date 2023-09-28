@@ -10,12 +10,18 @@
     "geom:latitude":50.673386,
     "geom:longitude":-4.05175,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.674028,
     "lbl:longitude":-4.051745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lands Common To the Parishes of Bridestowe and Sourton"
@@ -44,12 +50,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003359"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754719
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a1314b14902b8072db228b963b077496",
+    "wof:geomhash":"51e211434a49b108f3c7c421229218df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":404455135,
-    "wof:lastmodified":1566632268,
+    "wof:lastmodified":1695877129,
     "wof:name":"Lands Common To the Parishes of Bridestowe and Sourton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

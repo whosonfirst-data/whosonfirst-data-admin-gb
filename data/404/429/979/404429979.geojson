@@ -10,12 +10,18 @@
     "geom:latitude":53.052921,
     "geom:longitude":-2.490965,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.051518,
     "lbl:longitude":-2.487164,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stapeley"
@@ -60,12 +66,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011010"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125884405
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4ca23f1858151808bbbc876ca5266a4f",
+    "wof:geomhash":"214d94562ee10a5e7bb6afd3b9f9c8e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404429979,
     "wof:label":"Stapeley Civil Parish",
-    "wof:lastmodified":1566633131,
+    "wof:lastmodified":1695877519,
     "wof:name":"Stapeley",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

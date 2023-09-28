@@ -10,12 +10,18 @@
     "geom:latitude":53.234158,
     "geom:longitude":0.127862,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.233995,
     "lbl:longitude":0.128297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ulceby with Fordington"
@@ -49,12 +55,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005750"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759281
     ],
     "wof:country":"GB",
-    "wof:geomhash":"22489bf44fc545ccc6a35fa396e6de74",
+    "wof:geomhash":"d311e84f161f89f90516bfad702be5bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404445269,
     "wof:label":"Ulceby with Fordington Civil Parish",
-    "wof:lastmodified":1566633345,
+    "wof:lastmodified":1695877615,
     "wof:name":"Ulceby with Fordington",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

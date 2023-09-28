@@ -10,12 +10,18 @@
     "geom:latitude":54.100706,
     "geom:longitude":-0.927379,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.098878,
     "lbl:longitude":-0.928986,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bulmer"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007557"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879447
     ],
     "wof:country":"GB",
-    "wof:geomhash":"028369f42026dad2bbc292c94e401e2c",
+    "wof:geomhash":"46d41057a28f93db3ed5d5b203d2fd2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404432925,
     "wof:label":"Bulmer Civil Parish",
-    "wof:lastmodified":1566633918,
+    "wof:lastmodified":1695877859,
     "wof:name":"Bulmer",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

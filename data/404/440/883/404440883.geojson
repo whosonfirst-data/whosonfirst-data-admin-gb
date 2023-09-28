@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001684,
-    "geom:area_square_m":12907819.222807,
+    "geom:area_square_m":12907819.222806,
     "geom:bbox":"-3.17467106932,51.6684346332,-3.07219381064,51.7139358988",
     "geom:latitude":51.687916,
     "geom:longitude":-3.138238,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.689053,
     "lbl:longitude":-3.151817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crumlin Community"
@@ -40,12 +46,15 @@
         1360698925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000906"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243000075
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fcd3f43b8b5cad532e355655b507b351",
+    "wof:geomhash":"ae7dee08407c32661c422d0dfe6cbd9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440883,
-    "wof:lastmodified":1566631196,
+    "wof:lastmodified":1695878248,
     "wof:name":"Crumlin Community",
     "wof:parent_id":1360698925,
     "wof:placetype":"localadmin",

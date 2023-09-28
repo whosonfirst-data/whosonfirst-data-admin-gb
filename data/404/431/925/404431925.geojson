@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000852,
-    "geom:area_square_m":6683238.317972,
+    "geom:area_square_m":6683238.317973,
     "geom:bbox":"-3.49886875858,50.6098877919,-3.44190324717,50.6356206233",
     "geom:latitude":50.621859,
     "geom:longitude":-3.470384,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.620484,
     "lbl:longitude":-3.469953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Starcross"
@@ -72,12 +78,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003230"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126008669
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f7f99f207f890204b7632b748f46c0cb",
+    "wof:geomhash":"aaa57ec6043e5577cf7b228c1158d586",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404431925,
     "wof:label":"Starcross Civil Parish",
-    "wof:lastmodified":1566632481,
+    "wof:lastmodified":1695877223,
     "wof:name":"Starcross",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

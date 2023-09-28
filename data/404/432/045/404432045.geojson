@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002067,
-    "geom:area_square_m":15855728.108488,
+    "geom:area_square_m":15855728.108487,
     "geom:bbox":"0.699066899757,51.6324836699,0.767684825471,51.6872382541",
     "geom:latitude":51.659851,
     "geom:longitude":0.729595,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.656591,
     "lbl:longitude":0.729081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Latchingdon"
@@ -64,12 +70,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004053"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756895
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a440631748ee7c0e5fb6122e8d369e8b",
+    "wof:geomhash":"0a357978c3737402b6a8e27650c64613",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404432045,
     "wof:label":"Latchingdon Civil Parish",
-    "wof:lastmodified":1566633934,
+    "wof:lastmodified":1695877867,
     "wof:name":"Latchingdon",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

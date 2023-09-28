@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00476,
-    "geom:area_square_m":37147258.518878,
+    "geom:area_square_m":37147258.518876,
     "geom:bbox":"-3.99783439079,50.8255028392,-3.88388305375,50.8992609154",
     "geom:latitude":50.865126,
     "geom:longitude":-3.944188,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.869003,
     "lbl:longitude":-3.945055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Winkleigh"
@@ -63,12 +69,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003300"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125928965
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f2d4e6d090409e0b496b96c49fbfd775",
+    "wof:geomhash":"ace311651b826ee50299462c9c720b57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404446179,
     "wof:label":"Winkleigh Civil Parish",
-    "wof:lastmodified":1566631706,
+    "wof:lastmodified":1695876887,
     "wof:name":"Winkleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

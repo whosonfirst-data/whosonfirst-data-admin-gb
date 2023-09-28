@@ -10,12 +10,18 @@
     "geom:latitude":51.601691,
     "geom:longitude":0.399097,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.601171,
     "lbl:longitude":0.399097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Burstead"
@@ -57,12 +63,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003872"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126057615
     ],
     "wof:country":"GB",
-    "wof:geomhash":"375d234ec65d259d7a6e6f0bc1075d5a",
+    "wof:geomhash":"2bd2ea4dd6340d8e6b602c225cad7849",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404452163,
     "wof:label":"Little Burstead Civil Parish",
-    "wof:lastmodified":1566632223,
+    "wof:lastmodified":1695877109,
     "wof:name":"Little Burstead",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

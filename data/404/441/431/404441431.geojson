@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002839,
-    "geom:area_square_m":22020572.016907,
+    "geom:area_square_m":22020572.016905,
     "geom:bbox":"-2.40912752024,51.1304425342,-2.31619975806,51.1820419215",
     "geom:latitude":51.157848,
     "geom:longitude":-2.363195,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.157724,
     "lbl:longitude":-2.354841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Witham Friary"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008600"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125938949
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8c8e927fadcefc7c64a78ede2356b68f",
+    "wof:geomhash":"5cfa85fab47a5d2020ee3fd9ad27c219",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404441431,
     "wof:label":"Witham Friary Civil Parish",
-    "wof:lastmodified":1566631750,
+    "wof:lastmodified":1695876905,
     "wof:name":"Witham Friary",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

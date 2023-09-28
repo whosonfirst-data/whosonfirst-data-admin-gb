@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002457,
-    "geom:area_square_m":18552368.55393,
+    "geom:area_square_m":18552368.553929,
     "geom:bbox":"-0.942474938098,52.3388382281,-0.832898465478,52.3949628567",
     "geom:latitude":52.366586,
     "geom:longitude":-0.885612,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.357175,
     "lbl:longitude":-0.902952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lamport"
@@ -45,12 +51,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006674"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125830363
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b99178ed5dc0a4f008a92e1668fbbb3f",
+    "wof:geomhash":"082ed52eaec5fda0fd9e0f8c05c1fb08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404447487,
     "wof:label":"Lamport Civil Parish",
-    "wof:lastmodified":1566631313,
+    "wof:lastmodified":1695878301,
     "wof:name":"Lamport",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

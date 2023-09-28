@@ -10,12 +10,18 @@
     "geom:latitude":52.012459,
     "geom:longitude":-0.658968,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.012475,
     "lbl:longitude":-0.658967,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0648\u0628\u0648\u0631\u0646 \u0633\u0646\u062f\u0632"
@@ -75,12 +81,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012196"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"256a2bef8a694416f273c72cd1df9281",
+    "wof:geomhash":"90dc450918b02726566ddc5869ffce42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404432191,
     "wof:label":"Woburn Sands Civil Parish",
-    "wof:lastmodified":1566633923,
+    "wof:lastmodified":1695877861,
     "wof:name":"Woburn Sands",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

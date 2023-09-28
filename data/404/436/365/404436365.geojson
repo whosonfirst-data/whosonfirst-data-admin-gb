@@ -10,12 +10,18 @@
     "geom:latitude":52.059322,
     "geom:longitude":-0.995658,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.058377,
     "lbl:longitude":-0.992238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lillingstone Dayrell with Luffield Abbey"
@@ -43,12 +49,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001502"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758505
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8fe06b2d189e1ceab0f019e957fb33bb",
+    "wof:geomhash":"feed47b033e156e4e022f35aee55a276",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404436365,
     "wof:label":"Lillingstone Dayrell with Luffield Abbey Civil Parish",
-    "wof:lastmodified":1566632321,
+    "wof:lastmodified":1695877151,
     "wof:name":"Lillingstone Dayrell with Luffield Abbey",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

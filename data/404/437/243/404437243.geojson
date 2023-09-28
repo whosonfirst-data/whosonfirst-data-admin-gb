@@ -10,12 +10,18 @@
     "geom:latitude":54.567724,
     "geom:longitude":-1.636637,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.567552,
     "lbl:longitude":-1.637105,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u0644\u0648\u0648\u0631\u062b"
@@ -87,12 +93,15 @@
         1360698889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000311"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126050801
     ],
     "wof:country":"GB",
-    "wof:geomhash":"09b31b8df47eb17475423818f202ca10",
+    "wof:geomhash":"d285a4e55f9f3869eb85014b1e813582",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404437243,
     "wof:label":"Walworth Civil Parish",
-    "wof:lastmodified":1566632075,
+    "wof:lastmodified":1695877046,
     "wof:name":"Walworth",
     "wof:parent_id":1360698889,
     "wof:placetype":"localadmin",

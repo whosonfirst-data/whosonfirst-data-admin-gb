@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001944,
-    "geom:area_square_m":14222992.504605,
+    "geom:area_square_m":14222992.504604,
     "geom:bbox":"-2.87093841728,53.7090149176,-2.72846299388,53.7378344797",
     "geom:latitude":53.722737,
     "geom:longitude":-2.785559,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.719354,
     "lbl:longitude":-2.767745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longton"
@@ -66,12 +72,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005296"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125816469
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ddfd7d7d2979ada22824edde82fe36e5",
+    "wof:geomhash":"50babced52b0f94bdb5ab4197f7b0ac2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404440039,
     "wof:label":"Longton Civil Parish",
-    "wof:lastmodified":1566631164,
+    "wof:lastmodified":1695878232,
     "wof:name":"Longton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

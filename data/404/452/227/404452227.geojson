@@ -10,12 +10,18 @@
     "geom:latitude":51.215712,
     "geom:longitude":-0.593979,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.213574,
     "lbl:longitude":-0.595749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u0631\u062a\u06cc\u0646\u0642\u062a\u0648\u0646"
@@ -57,12 +63,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009541"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209943937
     ],
     "wof:country":"GB",
-    "wof:geomhash":"669a9bf3f00d3d520bbec8ce4aeedc3c",
+    "wof:geomhash":"b1bc056f5fa5661ec0cb6a5602200d4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404452227,
     "wof:label":"Artington Civil Parish",
-    "wof:lastmodified":1566632178,
+    "wof:lastmodified":1695877090,
     "wof:name":"Artington",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

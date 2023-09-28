@@ -10,12 +10,18 @@
     "geom:latitude":50.873998,
     "geom:longitude":-1.087692,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.874191,
     "lbl:longitude":-1.086795,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Southwick and Widley"
@@ -43,12 +49,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004684"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755853
     ],
     "wof:country":"GB",
-    "wof:geomhash":"31bcd0b160621092a214232199eb0201",
+    "wof:geomhash":"2f8acb39a70b56a04f53e3ae17b78a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404447799,
     "wof:label":"Southwick and Widley Civil Parish",
-    "wof:lastmodified":1566631238,
+    "wof:lastmodified":1695878267,
     "wof:name":"Southwick and Widley",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

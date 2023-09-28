@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009438,
-    "geom:area_square_m":71777917.373414,
+    "geom:area_square_m":71777917.373413,
     "geom:bbox":"-3.5518261871,51.9938303963,-3.40816592599,52.0960790991",
     "geom:latitude":52.044496,
     "geom:longitude":-3.474535,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.04585,
     "lbl:longitude":-3.473167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Merthyr Cynog Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000330"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326565155
     ],
     "wof:country":"GB",
-    "wof:geomhash":"287dabf2f5b3664223b7b3dc2613d32a",
+    "wof:geomhash":"b500256d6e9fc8a2c1ee050f4d04b34d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449989,
-    "wof:lastmodified":1566631451,
+    "wof:lastmodified":1695876793,
     "wof:name":"Merthyr Cynog Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

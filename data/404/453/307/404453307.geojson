@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00177,
-    "geom:area_square_m":13625492.734946,
+    "geom:area_square_m":13625492.734947,
     "geom:bbox":"-1.16864086656,51.4713846116,-1.10279647119,51.5134887014",
     "geom:latitude":51.49234,
     "geom:longitude":-1.135835,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.492799,
     "lbl:longitude":-1.136457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Basildon"
@@ -151,12 +157,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001149"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759037
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0b3b3ff2c3ee806d461dbd6392934d64",
+    "wof:geomhash":"1324265c7060a80d5a08c74632811b7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +178,7 @@
     ],
     "wof:id":404453307,
     "wof:label":"Basildon Civil Parish",
-    "wof:lastmodified":1566632748,
+    "wof:lastmodified":1695877349,
     "wof:name":"Basildon",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

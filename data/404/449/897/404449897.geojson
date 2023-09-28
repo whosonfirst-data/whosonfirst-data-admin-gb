@@ -10,12 +10,18 @@
     "geom:latitude":52.222734,
     "geom:longitude":-1.758697,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.221284,
     "lbl:longitude":-1.763429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wilmcote"
@@ -60,12 +66,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009814"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"31d1995639ca96d9c7e1b1f6cd42c3e5",
+    "wof:geomhash":"352dc51e1e5f85038a5512f0ea0c5291",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404449897,
     "wof:label":"Wilmcote Civil Parish",
-    "wof:lastmodified":1566631444,
+    "wof:lastmodified":1695876790,
     "wof:name":"Wilmcote",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

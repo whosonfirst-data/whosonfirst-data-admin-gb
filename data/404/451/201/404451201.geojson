@@ -10,12 +10,18 @@
     "geom:latitude":52.482677,
     "geom:longitude":-1.254475,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.482775,
     "lbl:longitude":-1.252758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ullesthorpe"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005483"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125984111
     ],
     "wof:country":"GB",
-    "wof:geomhash":"da30cf86dbaa7376cd77bbfcb73fd738",
+    "wof:geomhash":"92dcf0ba8d09b7efc3db94592aa0d3c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404451201,
     "wof:label":"Ullesthorpe Civil Parish",
-    "wof:lastmodified":1566633514,
+    "wof:lastmodified":1695877689,
     "wof:name":"Ullesthorpe",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

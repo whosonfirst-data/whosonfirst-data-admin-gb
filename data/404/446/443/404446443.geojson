@@ -10,12 +10,18 @@
     "geom:latitude":51.810423,
     "geom:longitude":-2.147978,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.812624,
     "lbl:longitude":-2.151456,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cranham"
@@ -52,12 +58,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004346"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753799
     ],
     "wof:country":"GB",
-    "wof:geomhash":"23ae26392b63189bfa1f62a2d57de5db",
+    "wof:geomhash":"455a0e1c95739e0ebe04aa6d9ca1d3fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404446443,
     "wof:label":"Cranham Civil Parish",
-    "wof:lastmodified":1566631671,
+    "wof:lastmodified":1695876875,
     "wof:name":"Cranham",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

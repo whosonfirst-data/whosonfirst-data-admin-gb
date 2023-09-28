@@ -10,12 +10,18 @@
     "geom:latitude":52.008019,
     "geom:longitude":0.638163,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.004927,
     "lbl:longitude":0.635108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gestingthorpe"
@@ -60,12 +66,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003899"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125831253
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9952af4a2653f329fb8faec74fcc4c3d",
+    "wof:geomhash":"cdf5e9cbd45e3c382ebd4a3a04c4b5ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404447563,
     "wof:label":"Gestingthorpe Civil Parish",
-    "wof:lastmodified":1566631296,
+    "wof:lastmodified":1695878294,
     "wof:name":"Gestingthorpe",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

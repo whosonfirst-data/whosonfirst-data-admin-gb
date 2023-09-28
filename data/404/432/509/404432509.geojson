@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":1513712.891725,
+    "geom:area_square_m":1513712.891726,
     "geom:bbox":"-2.97899635615,51.5859535609,-2.96070305067,51.6049920371",
     "geom:latitude":51.595204,
     "geom:longitude":-2.968526,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.594317,
     "lbl:longitude":-2.967626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beechwood Community"
@@ -40,12 +46,15 @@
         1360698735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000810"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711875
     ],
     "wof:country":"GB",
-    "wof:geomhash":"477ccb98d9a010821dd5a13a179c2951",
+    "wof:geomhash":"f1bf6e640283409e3a2c275650f66a77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404432509,
-    "wof:lastmodified":1566633930,
+    "wof:lastmodified":1695877865,
     "wof:name":"Beechwood Community",
     "wof:parent_id":1360698735,
     "wof:placetype":"localadmin",

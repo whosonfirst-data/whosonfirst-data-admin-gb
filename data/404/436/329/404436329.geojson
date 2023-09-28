@@ -10,12 +10,18 @@
     "geom:latitude":51.329127,
     "geom:longitude":-1.861306,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.327617,
     "lbl:longitude":-1.861,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beechingstoke"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011630"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259909159
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d6f15123c8ea8a092acbb681aba0b35e",
+    "wof:geomhash":"b2e397e821e2366da28e05c4cd41f5ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404436329,
     "wof:label":"Beechingstoke Civil Parish",
-    "wof:lastmodified":1566632417,
+    "wof:lastmodified":1695877194,
     "wof:name":"Beechingstoke",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

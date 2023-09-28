@@ -10,12 +10,18 @@
     "geom:latitude":51.945368,
     "geom:longitude":-1.482828,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.944861,
     "lbl:longitude":-1.480619,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heythrop"
@@ -60,12 +66,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008297"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125986557
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f5eaa2e8ee74f27ac677bfcba97c3964",
+    "wof:geomhash":"ac968d58de479a937fc0439dfab10aa0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404431721,
     "wof:label":"Heythrop Civil Parish",
-    "wof:lastmodified":1566632527,
+    "wof:lastmodified":1695877244,
     "wof:name":"Heythrop",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

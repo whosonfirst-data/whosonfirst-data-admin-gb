@@ -10,12 +10,18 @@
     "geom:latitude":51.160804,
     "geom:longitude":-1.169724,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.156246,
     "lbl:longitude":-1.166838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Candovers"
@@ -40,12 +46,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004444"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758283
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c24c52299503f1642ca7514dcee33c9c",
+    "wof:geomhash":"54bb545c912778c0fcb9ebc05dbe2066",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404436151,
     "wof:label":"Candovers Civil Parish",
-    "wof:lastmodified":1566632330,
+    "wof:lastmodified":1695877155,
     "wof:name":"Candovers",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.023643,
     "geom:longitude":-0.9338,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.027994,
     "lbl:longitude":-0.940747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Steep"
@@ -54,12 +60,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004522"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125993659
     ],
     "wof:country":"GB",
-    "wof:geomhash":"468dc6939861bf4019bfc96eac135c6e",
+    "wof:geomhash":"581e04ce7f90ab1a349ac8b358f33ced",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452919,
     "wof:label":"Steep Civil Parish",
-    "wof:lastmodified":1566632262,
+    "wof:lastmodified":1695877126,
     "wof:name":"Steep",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.807955,
     "geom:longitude":-2.165846,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.808195,
     "lbl:longitude":-2.159559,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Briercliffe"
@@ -52,12 +58,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005131"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754547
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9054b20138ffec47e0b68347f1c8bd43",
+    "wof:geomhash":"a1e8feda99049fc8ebced2124ad9f3e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404430523,
     "wof:label":"Briercliffe Civil Parish",
-    "wof:lastmodified":1566632044,
+    "wof:lastmodified":1695877035,
     "wof:name":"Briercliffe",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

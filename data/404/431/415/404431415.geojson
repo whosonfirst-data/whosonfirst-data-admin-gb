@@ -10,12 +10,18 @@
     "geom:latitude":51.652939,
     "geom:longitude":0.642921,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.652462,
     "lbl:longitude":0.640674,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stow Maries"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004064"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803461
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eebdba907ddf70173cd5fb548418c439",
+    "wof:geomhash":"14655803089ea1e5551e56af4e80a4cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404431415,
     "wof:label":"Stow Maries Civil Parish",
-    "wof:lastmodified":1566632454,
+    "wof:lastmodified":1695877211,
     "wof:name":"Stow Maries",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

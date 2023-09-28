@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003696,
-    "geom:area_square_m":27652654.436351,
+    "geom:area_square_m":27652654.43635,
     "geom:bbox":"-0.0580112722093,52.6691411436,0.0977455050637,52.8195921295",
     "geom:latitude":52.761648,
     "geom:longitude":0.025784,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.789047,
     "lbl:longitude":0.046397,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u0637\u0648\u0644"
@@ -84,12 +90,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005855"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259512591
     ],
     "wof:country":"GB",
-    "wof:geomhash":"43216981205cb7ec3bde016082c35bb7",
+    "wof:geomhash":"fad8f976ae4f4317bc0d117b3542ef86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404440851,
     "wof:label":"Fleet Civil Parish",
-    "wof:lastmodified":1566631158,
+    "wof:lastmodified":1695878230,
     "wof:name":"Fleet",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

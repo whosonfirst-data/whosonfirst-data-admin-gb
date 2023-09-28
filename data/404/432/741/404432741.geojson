@@ -10,12 +10,18 @@
     "geom:latitude":54.755769,
     "geom:longitude":-2.589602,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.755811,
     "lbl:longitude":-2.590997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glassonby"
@@ -66,12 +72,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002532"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125889385
     ],
     "wof:country":"GB",
-    "wof:geomhash":"61c486fe0707780e801066db15fb49b2",
+    "wof:geomhash":"0b62d2511e6639e5a1971a16ed62d59f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404432741,
     "wof:label":"Glassonby Civil Parish",
-    "wof:lastmodified":1566633920,
+    "wof:lastmodified":1695877860,
     "wof:name":"Glassonby",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

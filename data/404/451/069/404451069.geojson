@@ -10,12 +10,18 @@
     "geom:latitude":53.987744,
     "geom:longitude":-2.647919,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.985885,
     "lbl:longitude":-2.667331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Over Wyresdale"
@@ -54,12 +60,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005199"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929413
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a92c3cd5a910ab6e113fb329e9bdc950",
+    "wof:geomhash":"cd9d9e65312fd913241c992d67fec226",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451069,
     "wof:label":"Over Wyresdale Civil Parish",
-    "wof:lastmodified":1566633516,
+    "wof:lastmodified":1695877690,
     "wof:name":"Over Wyresdale",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

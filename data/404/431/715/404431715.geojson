@@ -10,12 +10,18 @@
     "geom:latitude":51.246881,
     "geom:longitude":-0.008133,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.236629,
     "lbl:longitude":-0.004115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u06a9\u0633\u062a\u062f"
@@ -84,12 +90,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009592"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125874455
     ],
     "wof:country":"GB",
-    "wof:geomhash":"39356302ef350f19b18e2fb0240f4769",
+    "wof:geomhash":"ff011f7be353e0440970a4fd1e21e1c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404431715,
     "wof:label":"Oxted Civil Parish",
-    "wof:lastmodified":1566632476,
+    "wof:lastmodified":1695877221,
     "wof:name":"Oxted",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

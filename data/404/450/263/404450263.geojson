@@ -10,12 +10,18 @@
     "geom:latitude":53.681135,
     "geom:longitude":-0.752885,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.684591,
     "lbl:longitude":-0.75383,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Twin Rivers"
@@ -52,12 +58,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000492"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754905
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d211e2e5a37f093bd435d2e7797a38e1",
+    "wof:geomhash":"3fe4f2cddc761df73c4dd2804d515be5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404450263,
     "wof:label":"Twin Rivers Civil Parish",
-    "wof:lastmodified":1566633832,
+    "wof:lastmodified":1695877830,
     "wof:name":"Twin Rivers",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.143076,
     "geom:longitude":-0.35412,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.14074,
     "lbl:longitude":-0.35225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ockley"
@@ -63,12 +69,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009575"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125876535
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3b29abebd7e576ebae12d3e0b50d21a8",
+    "wof:geomhash":"2a9303e0f097c9ac978bd22c7d3dd158",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445013,
     "wof:label":"Ockley Civil Parish",
-    "wof:lastmodified":1566633327,
+    "wof:lastmodified":1695877605,
     "wof:name":"Ockley",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

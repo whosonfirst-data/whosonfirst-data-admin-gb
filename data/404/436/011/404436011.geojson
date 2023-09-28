@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003053,
-    "geom:area_square_m":22899825.155433,
+    "geom:area_square_m":22899825.155434,
     "geom:bbox":"-4.13189832299,52.6042429662,-4.03118906217,52.6864651629",
     "geom:latitude":52.64916,
     "geom:longitude":-4.086555,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.660395,
     "lbl:longitude":-4.083135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangelynin Community"
@@ -40,9 +46,12 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000080"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"519acba5805f97896dba145c5acd2512",
+    "wof:geomhash":"198a1b814dc9c2d912bbc9cd59737a30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404436011,
-    "wof:lastmodified":1566632396,
+    "wof:lastmodified":1695877184,
     "wof:name":"Llangelynin Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

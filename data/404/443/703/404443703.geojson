@@ -10,12 +10,18 @@
     "geom:latitude":52.840172,
     "geom:longitude":-2.456286,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.840184,
     "lbl:longitude":-2.458811,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hinstock"
@@ -66,12 +72,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011283"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276802817
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1f04ef98314e473371391c4eee054d8c",
+    "wof:geomhash":"96dc2842d4328763396c166c91f1b2b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404443703,
     "wof:label":"Hinstock Civil Parish",
-    "wof:lastmodified":1566633045,
+    "wof:lastmodified":1695877480,
     "wof:name":"Hinstock",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

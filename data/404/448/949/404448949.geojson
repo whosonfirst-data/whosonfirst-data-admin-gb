@@ -10,12 +10,18 @@
     "geom:latitude":51.72078,
     "geom:longitude":-1.046598,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.714513,
     "lbl:longitude":-1.039453,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Haseley"
@@ -60,12 +66,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008133"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977497
     ],
     "wof:country":"GB",
-    "wof:geomhash":"55d5126f2b26aea1740d1b78a8237149",
+    "wof:geomhash":"9d1cec803e304bcbc7920f08ec326b50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448949,
     "wof:label":"Great Haseley Civil Parish",
-    "wof:lastmodified":1566631518,
+    "wof:lastmodified":1695876820,
     "wof:name":"Great Haseley",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

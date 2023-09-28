@@ -10,12 +10,18 @@
     "geom:latitude":52.734974,
     "geom:longitude":1.272831,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.737676,
     "lbl:longitude":1.27707,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stratton Strawless"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006251"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125784551
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72f674f6f1210d4e0acfa316579a2cc5",
+    "wof:geomhash":"1e11c403cb23357c50f7d40118a5216a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447079,
     "wof:label":"Stratton Strawless Civil Parish",
-    "wof:lastmodified":1566631253,
+    "wof:lastmodified":1695878272,
     "wof:name":"Stratton Strawless",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

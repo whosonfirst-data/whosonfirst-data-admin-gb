@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001412,
-    "geom:area_square_m":10158452.541824,
+    "geom:area_square_m":10158452.541823,
     "geom:bbox":"-1.80566165097,54.3995928814,-1.7119465721,54.4285539226",
     "geom:latitude":54.411806,
     "geom:longitude":-1.763605,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.411249,
     "lbl:longitude":-1.768197,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Richmond"
@@ -180,12 +186,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007520"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873301
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dc5c775e6e549dfc0ffce8cbf5b33976",
+    "wof:geomhash":"a7ec80bb9efe8d140120c41540b6c0f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,7 +207,7 @@
     ],
     "wof:id":404435427,
     "wof:label":"Richmond Civil Parish",
-    "wof:lastmodified":1566634058,
+    "wof:lastmodified":1695877928,
     "wof:name":"Richmond",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000448,
-    "geom:area_square_m":3469014.800537,
+    "geom:area_square_m":3469014.800536,
     "geom:bbox":"1.37802836037,51.1887552813,1.40613962456,51.2194584664",
     "geom:latitude":51.202884,
     "geom:longitude":1.396403,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.203016,
     "lbl:longitude":1.396615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u0644\u0645\u0631"
@@ -69,12 +75,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004934"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803909
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dfda0053c9df9ebd5c22cee19f453356",
+    "wof:geomhash":"48f197105463710bdd365e148737aaf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404429921,
     "wof:label":"Walmer Civil Parish",
-    "wof:lastmodified":1566633188,
+    "wof:lastmodified":1695877544,
     "wof:name":"Walmer",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

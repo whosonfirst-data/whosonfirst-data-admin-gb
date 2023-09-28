@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001169,
-    "geom:area_square_m":8388289.200441,
+    "geom:area_square_m":8388289.200442,
     "geom:bbox":"-2.70098146389,54.4838345574,-2.6548632486,54.5435633469",
     "geom:latitude":54.519962,
     "geom:longitude":-2.676588,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.528508,
     "lbl:longitude":-2.678137,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shap"
@@ -66,12 +72,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002568"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903039
     ],
     "wof:country":"GB",
-    "wof:geomhash":"42eb15dbc4e48cfe6ea0631566fac36f",
+    "wof:geomhash":"0bbf8529f0b2b8401b90c4b2fd111530",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404448053,
     "wof:label":"Shap Civil Parish",
-    "wof:lastmodified":1566631491,
+    "wof:lastmodified":1695876810,
     "wof:name":"Shap",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

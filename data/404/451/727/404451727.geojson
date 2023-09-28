@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005191,
-    "geom:area_square_m":39190586.812204,
+    "geom:area_square_m":39190586.812203,
     "geom:bbox":"0.374789543233,52.3364132298,0.569790667707,52.4192769295",
     "geom:latitude":52.368083,
     "geom:longitude":0.458098,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.374753,
     "lbl:longitude":0.425598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mildenhall"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009153"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854869
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bcd716b9fde0c84337ebf8311f23729d",
+    "wof:geomhash":"d05085cc36258626609d60e0f4494c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404451727,
     "wof:label":"Mildenhall Civil Parish",
-    "wof:lastmodified":1566633532,
+    "wof:lastmodified":1695877698,
     "wof:name":"Mildenhall",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

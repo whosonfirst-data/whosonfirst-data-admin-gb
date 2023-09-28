@@ -10,12 +10,18 @@
     "geom:latitude":50.951796,
     "geom:longitude":-2.588201,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.952308,
     "lbl:longitude":-2.589583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Over Compton"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003577"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259712455
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cfc6672369f424729b2a2ebe10874222",
+    "wof:geomhash":"391954ead56a38ca9b85b48cb389f418",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404441213,
     "wof:label":"Over Compton Civil Parish",
-    "wof:lastmodified":1566631801,
+    "wof:lastmodified":1695876926,
     "wof:name":"Over Compton",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

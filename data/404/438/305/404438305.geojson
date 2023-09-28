@@ -10,12 +10,18 @@
     "geom:latitude":53.024012,
     "geom:longitude":-1.06925,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.023025,
     "lbl:longitude":-1.058699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woodborough"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007875"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125830703
     ],
     "wof:country":"GB",
-    "wof:geomhash":"534e649360402ea10d1f0dd5c36fdcc0",
+    "wof:geomhash":"da50a2b20f32cd0c3e0ee638640a5acd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404438305,
     "wof:label":"Woodborough Civil Parish",
-    "wof:lastmodified":1566632600,
+    "wof:lastmodified":1695877277,
     "wof:name":"Woodborough",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

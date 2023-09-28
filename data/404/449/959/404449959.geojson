@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001781,
-    "geom:area_square_m":14044415.956396,
+    "geom:area_square_m":14044415.956397,
     "geom:bbox":"-5.15046072267,50.3655087523,-5.06645499182,50.4055141277",
     "geom:latitude":50.385706,
     "geom:longitude":-5.108575,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.382111,
     "lbl:longitude":-5.109207,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0631\u062a"
@@ -69,12 +75,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011424"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125859081
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fbad7794124efc77b1d44c1be2e7d3e6",
+    "wof:geomhash":"1d8e334cc934c8d093a5233fbc4f4663",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404449959,
     "wof:label":"Cubert Civil Parish",
-    "wof:lastmodified":1566631403,
+    "wof:lastmodified":1695878340,
     "wof:name":"Cubert",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

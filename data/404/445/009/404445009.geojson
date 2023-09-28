@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005555,
-    "geom:area_square_m":39955665.876015,
+    "geom:area_square_m":39955665.876014,
     "geom:bbox":"-1.06466299789,54.3959492698,-0.948094246802,54.4613763687",
     "geom:latitude":54.431542,
     "geom:longitude":-0.999189,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.427091,
     "lbl:longitude":-0.981698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Westerdale"
@@ -63,12 +69,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007705"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125837833
     ],
     "wof:country":"GB",
-    "wof:geomhash":"abdb04a9f2eb39b17285fbbdd2b11330",
+    "wof:geomhash":"ef9d6d15d2a7e5e8d8b46856009f52e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445009,
     "wof:label":"Westerdale Civil Parish",
-    "wof:lastmodified":1566633340,
+    "wof:lastmodified":1695877612,
     "wof:name":"Westerdale",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

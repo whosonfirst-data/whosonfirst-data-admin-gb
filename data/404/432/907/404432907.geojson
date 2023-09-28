@@ -10,12 +10,18 @@
     "geom:latitude":52.428611,
     "geom:longitude":-2.121621,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.433681,
     "lbl:longitude":-2.10405,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hagley"
@@ -63,12 +69,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010271"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126043257
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eb67e9d22f362cb5f7398a4a5d78e53a",
+    "wof:geomhash":"8e4323397f62cdc94294c2c9f1a5041f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432907,
     "wof:label":"Hagley Civil Parish",
-    "wof:lastmodified":1566633851,
+    "wof:lastmodified":1695877837,
     "wof:name":"Hagley",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

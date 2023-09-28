@@ -10,12 +10,18 @@
     "geom:latitude":51.384079,
     "geom:longitude":-2.455049,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.384154,
     "lbl:longitude":-2.45342,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Corston"
@@ -54,12 +60,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000964"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013797
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5af2df7194b6893e4a893a0ab1619629",
+    "wof:geomhash":"c4605e40b944296fd5fdfb4a105cacb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404444001,
     "wof:label":"Corston Civil Parish",
-    "wof:lastmodified":1566632909,
+    "wof:lastmodified":1695877417,
     "wof:name":"Corston",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005996,
-    "geom:area_square_m":44960252.349152,
+    "geom:area_square_m":44960252.349156,
     "geom:bbox":"-3.90226921534,52.5995384517,-3.75573332045,52.7218378893",
     "geom:latitude":52.667767,
     "geom:longitude":-3.836296,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.656323,
     "lbl:longitude":-3.860738,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Corris Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000058"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846633
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1971c4444b730caef8a31750010e851e",
+    "wof:geomhash":"f0ffda3ea70ad53dfd6148adc5c31fb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404448521,
-    "wof:lastmodified":1566631507,
+    "wof:lastmodified":1695876817,
     "wof:name":"Corris Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001088,
-    "geom:area_square_m":7969706.037695,
+    "geom:area_square_m":7969706.037694,
     "geom:bbox":"-0.683566972278,53.6561761435,-0.611282611699,53.6942058878",
     "geom:latitude":53.67487,
     "geom:longitude":-0.635675,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.679987,
     "lbl:longitude":-0.632121,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Halton"
@@ -63,12 +69,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000583"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260219479
     ],
     "wof:country":"GB",
-    "wof:geomhash":"28af2e6fdfe75e8eec21a6d1cb2c7875",
+    "wof:geomhash":"65271b1bc9438e648d395d8813056b43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404444801,
     "wof:label":"West Halton Civil Parish",
-    "wof:lastmodified":1566632965,
+    "wof:lastmodified":1695877441,
     "wof:name":"West Halton",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

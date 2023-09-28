@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001265,
-    "geom:area_square_m":9580214.220527,
+    "geom:area_square_m":9580214.220526,
     "geom:bbox":"-2.12664175363,52.2133834875,-2.04734035741,52.249891523",
     "geom:latitude":52.231818,
     "geom:longitude":-2.083932,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.232854,
     "lbl:longitude":-2.084529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Himbleton"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010402"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125991759
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b74400925dc093ada5f8ffc1d72d5c24",
+    "wof:geomhash":"53ca87d18c7a58aeb2c501edb8d59544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448029,
     "wof:label":"Himbleton Civil Parish",
-    "wof:lastmodified":1566631542,
+    "wof:lastmodified":1695876832,
     "wof:name":"Himbleton",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

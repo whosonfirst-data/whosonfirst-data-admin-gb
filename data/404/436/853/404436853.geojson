@@ -10,12 +10,18 @@
     "geom:latitude":51.659675,
     "geom:longitude":-4.041723,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.659405,
     "lbl:longitude":-4.044781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llwchwr Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000970"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711713
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3eeca1a8dc928a9c3c02685f043d75a8",
+    "wof:geomhash":"8bd9215cc81201cec8a617d770050ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404436853,
-    "wof:lastmodified":1566632407,
+    "wof:lastmodified":1695877190,
     "wof:name":"Llwchwr Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

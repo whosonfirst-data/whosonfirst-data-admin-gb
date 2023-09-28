@@ -10,12 +10,18 @@
     "geom:latitude":50.738594,
     "geom:longitude":-2.65994,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.740203,
     "lbl:longitude":-2.659511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Askerswell"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003495"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126015979
     ],
     "wof:country":"GB",
-    "wof:geomhash":"83c638c3451aa0c3e1ca999ae49d5517",
+    "wof:geomhash":"b36d3a1263aa016e362dd3a80ef7b964",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404450839,
     "wof:label":"Askerswell Civil Parish",
-    "wof:lastmodified":1566633830,
+    "wof:lastmodified":1695877829,
     "wof:name":"Askerswell",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.335952,
     "geom:longitude":-2.170097,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.338982,
     "lbl:longitude":-2.165993,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rushock"
@@ -60,12 +66,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010453"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125951739
     ],
     "wof:country":"GB",
-    "wof:geomhash":"568a792baa71e82bbcd77f10290054ba",
+    "wof:geomhash":"2c153def005a3f74625a2ae4081035af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445721,
     "wof:label":"Rushock Civil Parish",
-    "wof:lastmodified":1566633407,
+    "wof:lastmodified":1695877643,
     "wof:name":"Rushock",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

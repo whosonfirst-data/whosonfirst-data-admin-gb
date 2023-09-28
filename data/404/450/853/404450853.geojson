@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007488,
-    "geom:area_square_m":53061233.643543,
+    "geom:area_square_m":53061233.643546,
     "geom:bbox":"-2.50398839943,54.9650162007,-2.34508002744,55.0919748166",
     "geom:latitude":55.032834,
     "geom:longitude":-2.419871,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.989491,
     "lbl:longitude":-2.385956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Henshaw"
@@ -46,12 +52,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010800"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755793
     ],
     "wof:country":"GB",
-    "wof:geomhash":"69fe7d7388eddb88000c9aeeb4771fc0",
+    "wof:geomhash":"0bd79c33bf55139361753d48f4ee542f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404450853,
     "wof:label":"Henshaw Civil Parish",
-    "wof:lastmodified":1566633826,
+    "wof:lastmodified":1695877827,
     "wof:name":"Henshaw",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

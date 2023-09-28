@@ -10,12 +10,18 @@
     "geom:latitude":51.836745,
     "geom:longitude":-1.212458,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.835836,
     "lbl:longitude":-1.212847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oddington"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008072"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881851
     ],
     "wof:country":"GB",
-    "wof:geomhash":"606f796f0758c0c2ec9f87a2fd5292ad",
+    "wof:geomhash":"2d852d75591485ecd4c445b48c2e1ec8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404437667,
     "wof:label":"Oddington Civil Parish",
-    "wof:lastmodified":1566632084,
+    "wof:lastmodified":1695877051,
     "wof:name":"Oddington",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

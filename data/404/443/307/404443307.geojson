@@ -10,12 +10,18 @@
     "geom:latitude":52.579752,
     "geom:longitude":-0.920306,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.578829,
     "lbl:longitude":-0.920685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Noseley"
@@ -52,12 +58,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005459"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758287
     ],
     "wof:country":"GB",
-    "wof:geomhash":"06ec13f1a2cb8c17da33116f557ba059",
+    "wof:geomhash":"e192e108392f4ec3900b05b859da5f62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404443307,
     "wof:label":"Noseley Civil Parish",
-    "wof:lastmodified":1566632985,
+    "wof:lastmodified":1695877450,
     "wof:name":"Noseley",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

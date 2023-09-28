@@ -10,12 +10,18 @@
     "geom:latitude":54.588871,
     "geom:longitude":-3.522295,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.588341,
     "lbl:longitude":-3.52475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Distington"
@@ -63,12 +69,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002484"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873411
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4d1b828e8bb6cf060a95c27191c651f2",
+    "wof:geomhash":"4276e4efe5cd1cde64b4c222f370ca3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404455241,
     "wof:label":"Distington Civil Parish",
-    "wof:lastmodified":1566632299,
+    "wof:lastmodified":1695877141,
     "wof:name":"Distington",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

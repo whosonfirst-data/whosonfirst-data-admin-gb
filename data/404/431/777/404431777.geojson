@@ -10,12 +10,18 @@
     "geom:latitude":53.791004,
     "geom:longitude":-0.832493,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.791977,
     "lbl:longitude":-0.832475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Spaldington"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000479"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226171361
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c7ced4fca1bd38626f7c867fdec4221c",
+    "wof:geomhash":"542991b9a8c2c695e1fa5eec8726b0ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404431777,
     "wof:label":"Spaldington Civil Parish",
-    "wof:lastmodified":1566632481,
+    "wof:lastmodified":1695877223,
     "wof:name":"Spaldington",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

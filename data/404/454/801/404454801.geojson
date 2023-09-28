@@ -10,12 +10,18 @@
     "geom:latitude":53.841913,
     "geom:longitude":-0.512758,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.841445,
     "lbl:longitude":-0.512753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bishop Burton"
@@ -70,9 +76,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04000358",
         "gn:id":7293450,
         "qs_pg:id":1040718
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125961941
     ],
@@ -80,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d5201d10b030bcc3c6b1dd48018b1c1",
+    "wof:geomhash":"8ef6f773750fee8b58355ac2052088df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +101,7 @@
     ],
     "wof:id":404454801,
     "wof:label":"Bishop Burton Civil Parish",
-    "wof:lastmodified":1582311110,
+    "wof:lastmodified":1695877972,
     "wof:name":"Bishop Burton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

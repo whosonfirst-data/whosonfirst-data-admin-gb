@@ -10,12 +10,18 @@
     "geom:latitude":50.658854,
     "geom:longitude":-2.21862,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.658031,
     "lbl:longitude":-2.224198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coombe Keynes"
@@ -54,12 +60,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003470"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125985391
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3d742bbfd9a5ec8fe443d94b44c0db1f",
+    "wof:geomhash":"0106ff1062a73ea79ab43065af5b0d68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404435059,
     "wof:label":"Coombe Keynes Civil Parish",
-    "wof:lastmodified":1566634067,
+    "wof:lastmodified":1695877933,
     "wof:name":"Coombe Keynes",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

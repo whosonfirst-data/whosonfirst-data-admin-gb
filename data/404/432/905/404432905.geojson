@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003665,
-    "geom:area_square_m":27546181.882308,
+    "geom:area_square_m":27546181.882307,
     "geom:bbox":"0.191608111872,52.5300264089,0.275809709578,52.6096625192",
     "geom:latitude":52.570849,
     "geom:longitude":0.232492,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.582764,
     "lbl:longitude":0.232507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upwell"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006366"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800083
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9b75922e3a36635cb63fd280bcd66102",
+    "wof:geomhash":"87595f4ab5fa0cd608a36bd816c73549",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404432905,
     "wof:label":"Upwell Civil Parish",
-    "wof:lastmodified":1566633930,
+    "wof:lastmodified":1695877865,
     "wof:name":"Upwell",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001145,
-    "geom:area_square_m":8366195.519474,
+    "geom:area_square_m":8366195.519473,
     "geom:bbox":"-2.79914297806,53.7512782995,-2.74932848308,53.7884858983",
     "geom:latitude":53.771057,
     "geom:longitude":-2.775773,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.769368,
     "lbl:longitude":-2.778739,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lea"
@@ -40,12 +46,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005239"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755365
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c1418a3db15d4d3191acdcb12a79561a",
+    "wof:geomhash":"930c823b6a5f0b482a17a9745dd2b4c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404439343,
     "wof:label":"Lea Civil Parish",
-    "wof:lastmodified":1566631932,
+    "wof:lastmodified":1695876989,
     "wof:name":"Lea",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.334013,
     "geom:longitude":-2.423039,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.335011,
     "lbl:longitude":-2.418926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dunkerton"
@@ -57,12 +63,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000965"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125845473
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c9d2a8f23ed3ecf1d0f0668a5a187de8",
+    "wof:geomhash":"63eed4bbf48b40726935d0e54ada6c09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448403,
     "wof:label":"Dunkerton Civil Parish",
-    "wof:lastmodified":1566631558,
+    "wof:lastmodified":1695876839,
     "wof:name":"Dunkerton",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

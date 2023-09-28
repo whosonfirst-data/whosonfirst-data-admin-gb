@@ -10,12 +10,18 @@
     "geom:latitude":54.343961,
     "geom:longitude":-1.350938,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.343382,
     "lbl:longitude":-1.345801,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirby Sigston"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007208"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310233655
     ],
     "wof:country":"GB",
-    "wof:geomhash":"99e827d3250fb73b1ba3529161bfcbdd",
+    "wof:geomhash":"4c1e489fb76c0892a401edac16ade85c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404434673,
     "wof:label":"Kirby Sigston Civil Parish",
-    "wof:lastmodified":1566633556,
+    "wof:lastmodified":1695877712,
     "wof:name":"Kirby Sigston",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.854541,
     "geom:longitude":-2.689164,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.852751,
     "lbl:longitude":-2.689836,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cumrew"
@@ -57,12 +63,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002455"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125859223
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b6abb79fac65b54127543f73b5a8e600",
+    "wof:geomhash":"cc70839fbe2850bfe17d0f690221cbbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404451569,
     "wof:label":"Cumrew Civil Parish",
-    "wof:lastmodified":1566633419,
+    "wof:lastmodified":1695877648,
     "wof:name":"Cumrew",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

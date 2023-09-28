@@ -10,12 +10,18 @@
     "geom:latitude":53.888782,
     "geom:longitude":-2.279778,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.888031,
     "lbl:longitude":-2.280108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Twiston"
@@ -63,12 +69,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005284"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125862847
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5e436bfa7017c7963c3e8d4c83ea7636",
+    "wof:geomhash":"e023143110548c46e764833059f1581f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404438075,
     "wof:label":"Twiston Civil Parish",
-    "wof:lastmodified":1566632608,
+    "wof:lastmodified":1695877281,
     "wof:name":"Twiston",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

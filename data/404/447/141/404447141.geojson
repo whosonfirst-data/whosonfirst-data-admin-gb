@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002768,
-    "geom:area_square_m":21566177.688422,
+    "geom:area_square_m":21566177.688421,
     "geom:bbox":"-3.99797308919,50.9176376908,-3.90447691805,50.962192936",
     "geom:latitude":50.938798,
     "geom:longitude":-3.950999,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.938553,
     "lbl:longitude":-3.950992,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burrington"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003078"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209544395
     ],
     "wof:country":"GB",
-    "wof:geomhash":"221aae51b2d0d7c874bca65a7f9ca610",
+    "wof:geomhash":"13fe172af05c444c39e0ea4cd3731727",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404447141,
     "wof:label":"Burrington Civil Parish",
-    "wof:lastmodified":1566631338,
+    "wof:lastmodified":1695878313,
     "wof:name":"Burrington",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

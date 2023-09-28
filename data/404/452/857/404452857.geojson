@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001116,
-    "geom:area_square_m":8233532.630364,
+    "geom:area_square_m":8233532.630365,
     "geom:bbox":"-1.07605861868,53.3612014778,-1.0307818634,53.4040432806",
     "geom:latitude":53.381743,
     "geom:longitude":-1.055393,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.384023,
     "lbl:longitude":-1.053166,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Blyth"
@@ -75,12 +81,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007792"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310134591
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9fc9f2dcfd2ae006cd882b4e080336e7",
+    "wof:geomhash":"fe6c5d90832cc30c2f1ba9e882fca8db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404452857,
     "wof:label":"Blyth Civil Parish",
-    "wof:lastmodified":1566632193,
+    "wof:lastmodified":1695877097,
     "wof:name":"Blyth",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.220635,
     "geom:longitude":-1.640718,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.218786,
     "lbl:longitude":-1.641285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hampton Lucy"
@@ -54,12 +60,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009739"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801535
     ],
     "wof:country":"GB",
-    "wof:geomhash":"38ae308dc9fdc8f4505617bfa25b6884",
+    "wof:geomhash":"69936b947e112f84c1bae8ff04499b78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448045,
     "wof:label":"Hampton Lucy Civil Parish",
-    "wof:lastmodified":1566631537,
+    "wof:lastmodified":1695876830,
     "wof:name":"Hampton Lucy",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

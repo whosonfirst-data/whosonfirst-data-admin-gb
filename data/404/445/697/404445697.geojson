@@ -10,12 +10,18 @@
     "geom:latitude":52.643112,
     "geom:longitude":1.704962,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.64148,
     "lbl:longitude":1.704626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Caister"
@@ -61,12 +67,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006281"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759613
     ],
     "wof:country":"GB",
-    "wof:geomhash":"36ed68b20f88a4c5eb620311a1632092",
+    "wof:geomhash":"147c9e1bebedfcbd7e1ec16d5da5055c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404445697,
     "wof:label":"West Caister Civil Parish",
-    "wof:lastmodified":1566633393,
+    "wof:lastmodified":1695877636,
     "wof:name":"West Caister",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

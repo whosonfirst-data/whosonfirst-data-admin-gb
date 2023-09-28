@@ -10,12 +10,18 @@
     "geom:latitude":51.12745,
     "geom:longitude":-3.972168,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.126932,
     "lbl:longitude":-3.974155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loxhore"
@@ -57,12 +63,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003101"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310141073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5734db09788730492f6ac8b4529fc947",
+    "wof:geomhash":"987fec66dc0f683dc2dccab2acc9bb6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404449079,
     "wof:label":"Loxhore Civil Parish",
-    "wof:lastmodified":1566631367,
+    "wof:lastmodified":1695878324,
     "wof:name":"Loxhore",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

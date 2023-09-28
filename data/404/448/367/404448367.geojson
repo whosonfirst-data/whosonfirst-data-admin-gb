@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000719,
-    "geom:area_square_m":5236191.081365,
+    "geom:area_square_m":5236191.081364,
     "geom:bbox":"-1.48998198418,53.88993499,-1.43033964496,53.9140507849",
     "geom:latitude":53.900694,
     "geom:longitude":-1.457217,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.899016,
     "lbl:longitude":-1.456774,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Keswick"
@@ -66,12 +72,15 @@
         1360698749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000197"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054509
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8284dee4739148b2b8237cd2ec8bf35e",
+    "wof:geomhash":"a4b2417ac1e0c8a98b2025ed05e70b29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404448367,
     "wof:label":"East Keswick Civil Parish",
-    "wof:lastmodified":1566631531,
+    "wof:lastmodified":1695876827,
     "wof:name":"East Keswick",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

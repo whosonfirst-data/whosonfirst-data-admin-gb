@@ -10,12 +10,18 @@
     "geom:latitude":51.94111,
     "geom:longitude":-0.882541,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.94256,
     "lbl:longitude":-0.885025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u0646\u0633\u0644\u0648"
@@ -99,12 +105,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001555"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852799
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ef3d04b4dd77bd8e79d114652ecac0d1",
+    "wof:geomhash":"315f490f09e9edbcbf8a45dc0b1efbbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404434537,
     "wof:label":"Winslow Civil Parish",
-    "wof:lastmodified":1566633585,
+    "wof:lastmodified":1695877725,
     "wof:name":"Winslow",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

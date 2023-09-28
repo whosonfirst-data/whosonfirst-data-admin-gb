@@ -10,12 +10,18 @@
     "geom:latitude":54.021818,
     "geom:longitude":-2.09152,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.027179,
     "lbl:longitude":-2.102155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Flasby with Winterburn"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007082"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753831
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc806890679459788e926e9a7600db1d",
+    "wof:geomhash":"830b11fdd9101da19aa7212b599560b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404430055,
     "wof:label":"Flasby with Winterburn Civil Parish",
-    "wof:lastmodified":1566631970,
+    "wof:lastmodified":1695877003,
     "wof:name":"Flasby with Winterburn",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

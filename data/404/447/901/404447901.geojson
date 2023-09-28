@@ -10,12 +10,18 @@
     "geom:latitude":50.82372,
     "geom:longitude":-3.588348,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.824548,
     "lbl:longitude":-3.588818,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stockleigh Pomeroy"
@@ -54,12 +60,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003050"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242713383
     ],
     "wof:country":"GB",
-    "wof:geomhash":"93302d2f7bfbb363974481b35b190c11",
+    "wof:geomhash":"a3bafbcf6bae8b9068b40d023f958356",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447901,
     "wof:label":"Stockleigh Pomeroy Civil Parish",
-    "wof:lastmodified":1566631242,
+    "wof:lastmodified":1695878268,
     "wof:name":"Stockleigh Pomeroy",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

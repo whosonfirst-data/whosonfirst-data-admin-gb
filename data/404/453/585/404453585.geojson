@@ -10,12 +10,18 @@
     "geom:latitude":52.593767,
     "geom:longitude":-1.410725,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.59221,
     "lbl:longitude":-1.400869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sutton Cheney"
@@ -66,12 +72,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005510"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125883771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b050cb7afdc4cbd984ab4d5e19baa431",
+    "wof:geomhash":"4172634f99810106e9a64473c7715620",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404453585,
     "wof:label":"Sutton Cheney Civil Parish",
-    "wof:lastmodified":1566632847,
+    "wof:lastmodified":1695877394,
     "wof:name":"Sutton Cheney",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

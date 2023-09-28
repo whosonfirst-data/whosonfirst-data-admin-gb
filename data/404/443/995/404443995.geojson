@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001571,
-    "geom:area_square_m":12220023.487275,
+    "geom:area_square_m":12220023.487276,
     "geom:bbox":"0.778957350728,50.9864347565,0.853373830265,51.0493072476",
     "geom:latitude":51.017112,
     "geom:longitude":0.818191,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.019174,
     "lbl:longitude":0.821845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Snargate"
@@ -69,12 +75,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005035"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878579
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7379204850ab0d217979b0920032e318",
+    "wof:geomhash":"5dabf44685ede9d537088e887c0b92db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404443995,
     "wof:label":"Snargate Civil Parish",
-    "wof:lastmodified":1566633038,
+    "wof:lastmodified":1695877477,
     "wof:name":"Snargate",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00226,
-    "geom:area_square_m":17139443.762301,
+    "geom:area_square_m":17139443.7623,
     "geom:bbox":"-3.43337237311,52.1390349239,-3.33322024458,52.1793448486",
     "geom:latitude":52.16302,
     "geom:longitude":-3.378529,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.164987,
     "lbl:longitude":-3.378532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanelwedd Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000297"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125894211
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b42a5a580189d51c7e521a3bde66ac59",
+    "wof:geomhash":"4f516606083a595aadc03e713b51294a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449139,
-    "wof:lastmodified":1566631412,
+    "wof:lastmodified":1695876776,
     "wof:name":"Llanelwedd Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

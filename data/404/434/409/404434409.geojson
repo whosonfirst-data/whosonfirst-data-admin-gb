@@ -10,12 +10,18 @@
     "geom:latitude":55.328186,
     "geom:longitude":-1.588084,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.325389,
     "lbl:longitude":-1.587621,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Amble By the Sea"
@@ -43,12 +49,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010734"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755733
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b33f742220a38cccb9d9e356692282be",
+    "wof:geomhash":"a20a1b74eafb1c8104fc01e906f72bea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404434409,
     "wof:label":"Amble By the Sea Civil Parish",
-    "wof:lastmodified":1566633567,
+    "wof:lastmodified":1695877716,
     "wof:name":"Amble By the Sea",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.301612,
     "geom:longitude":-2.693445,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.300138,
     "lbl:longitude":-2.690998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brimfield"
@@ -76,12 +82,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000711"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754007
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5740c890fcd5470c27b0e2e7e14e311",
+    "wof:geomhash":"49d032eb67ae2e2165864f2cf70eca4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +103,7 @@
     ],
     "wof:id":404449669,
     "wof:label":"Brimfield Civil Parish",
-    "wof:lastmodified":1566631379,
+    "wof:lastmodified":1695878329,
     "wof:name":"Brimfield",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

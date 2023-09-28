@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003827,
-    "geom:area_square_m":29196908.890195,
+    "geom:area_square_m":29196908.890197,
     "geom:bbox":"-4.588749276,51.8645203049,-4.5035613246,51.9495756446",
     "geom:latitude":51.90488,
     "geom:longitude":-4.545906,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.907601,
     "lbl:longitude":-4.549421,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanwinio Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000542"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343697045
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f3cc06948a3a2f0b581688951ea368b9",
+    "wof:geomhash":"da89979fa9e312169279c3e3d3251e3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404432493,
-    "wof:lastmodified":1566633947,
+    "wof:lastmodified":1695877873,
     "wof:name":"Llanwinio Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

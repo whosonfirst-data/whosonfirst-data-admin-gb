@@ -10,12 +10,18 @@
     "geom:latitude":50.99565,
     "geom:longitude":-3.272472,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.997159,
     "lbl:longitude":-3.271962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Langford Budville"
@@ -57,12 +63,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008799"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126007629
     ],
     "wof:country":"GB",
-    "wof:geomhash":"580171568675ce60025af9ce16d93d5d",
+    "wof:geomhash":"205c72b0b4537e7806bc89d010fed27a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404444905,
     "wof:label":"Langford Budville Civil Parish",
-    "wof:lastmodified":1566632937,
+    "wof:lastmodified":1695877429,
     "wof:name":"Langford Budville",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

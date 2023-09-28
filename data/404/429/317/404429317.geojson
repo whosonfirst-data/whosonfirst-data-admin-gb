@@ -10,12 +10,18 @@
     "geom:latitude":51.506194,
     "geom:longitude":-1.0004,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.513182,
     "lbl:longitude":-1.010226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kidmore End"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008141"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125872669
     ],
     "wof:country":"GB",
-    "wof:geomhash":"05fb3f8834350fc59c3bf6ef645e7a0d",
+    "wof:geomhash":"f8fa09b93877fb55dccac9cc08e5f474",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429317,
     "wof:label":"Kidmore End Civil Parish",
-    "wof:lastmodified":1566633188,
+    "wof:lastmodified":1695877544,
     "wof:name":"Kidmore End",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

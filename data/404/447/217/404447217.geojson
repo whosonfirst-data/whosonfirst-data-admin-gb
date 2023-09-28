@@ -10,12 +10,18 @@
     "geom:latitude":51.132913,
     "geom:longitude":-2.034516,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.132871,
     "lbl:longitude":-2.035086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u043a\u0442\u044a\u043d"
@@ -105,12 +111,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011828"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209644079
     ],
     "wof:country":"GB",
-    "wof:geomhash":"494b39248bdf2d2494bf12309b9328e8",
+    "wof:geomhash":"18c60aa95ebc64be0b7b7afd8e64b2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404447217,
     "wof:label":"Stockton Civil Parish",
-    "wof:lastmodified":1566631259,
+    "wof:lastmodified":1695878276,
     "wof:name":"Stockton",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

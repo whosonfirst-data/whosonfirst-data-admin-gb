@@ -10,12 +10,18 @@
     "geom:latitude":53.765563,
     "geom:longitude":-2.252378,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.764261,
     "lbl:longitude":-2.251909,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Habergham Eaves"
@@ -52,12 +58,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005134"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754927
     ],
     "wof:country":"GB",
-    "wof:geomhash":"05ba27d3475b02c7c6f2f1fafc11aa15",
+    "wof:geomhash":"e8ade29a7288a14d37f972d4255ee560",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404430765,
     "wof:label":"Habergham Eaves Civil Parish",
-    "wof:lastmodified":1566631941,
+    "wof:lastmodified":1695876992,
     "wof:name":"Habergham Eaves",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

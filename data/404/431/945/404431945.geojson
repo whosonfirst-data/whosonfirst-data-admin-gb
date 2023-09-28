@@ -10,12 +10,18 @@
     "geom:latitude":51.989137,
     "geom:longitude":-2.006076,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.988596,
     "lbl:longitude":-2.006546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alderton"
@@ -60,12 +66,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004388"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126047341
     ],
     "wof:country":"GB",
-    "wof:geomhash":"358c226d8d445a50536e6483bf47672f",
+    "wof:geomhash":"ce2facb0842d88f255224fcdde6c0cf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404431945,
     "wof:label":"Alderton Civil Parish",
-    "wof:lastmodified":1566632529,
+    "wof:lastmodified":1695877245,
     "wof:name":"Alderton",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

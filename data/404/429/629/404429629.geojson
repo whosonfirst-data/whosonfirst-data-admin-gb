@@ -10,12 +10,18 @@
     "geom:latitude":52.050577,
     "geom:longitude":0.312871,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.050447,
     "lbl:longitude":0.312206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashdon"
@@ -69,12 +75,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004116"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125854557
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7a9cae8c1ec50b9a45aa705acb0f85af",
+    "wof:geomhash":"2252ddf34a64ea251486552a721635df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404429629,
     "wof:label":"Ashdon Civil Parish",
-    "wof:lastmodified":1566633117,
+    "wof:lastmodified":1695877513,
     "wof:name":"Ashdon",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

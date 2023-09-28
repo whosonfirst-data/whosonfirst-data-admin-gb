@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":3216970.651468,
+    "geom:area_square_m":3216970.651467,
     "geom:bbox":"-4.94837883172,51.7569321487,-4.89522791798,51.7735655527",
     "geom:latitude":51.765457,
     "geom:longitude":-4.919662,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.767316,
     "lbl:longitude":-4.921477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hook Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000942"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225973179
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a8074b71e85dbc9cc699c39acee3f68c",
+    "wof:geomhash":"25263bbe31da3e26bcc7b4f4ccbb57c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430367,
-    "wof:lastmodified":1566632002,
+    "wof:lastmodified":1695877015,
     "wof:name":"Hook Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

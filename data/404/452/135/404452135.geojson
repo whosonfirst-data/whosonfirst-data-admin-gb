@@ -10,12 +10,18 @@
     "geom:latitude":54.335759,
     "geom:longitude":-1.302897,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.33385,
     "lbl:longitude":-1.302431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Over Silton"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007240"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126002407
     ],
     "wof:country":"GB",
-    "wof:geomhash":"169332760fcb949c534d7d139f999e8f",
+    "wof:geomhash":"0f0593047d792ac192d43347a3b62df7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404452135,
     "wof:label":"Over Silton Civil Parish",
-    "wof:lastmodified":1566632163,
+    "wof:lastmodified":1695877084,
     "wof:name":"Over Silton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

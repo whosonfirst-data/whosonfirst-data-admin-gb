@@ -10,12 +10,18 @@
     "geom:latitude":51.952981,
     "geom:longitude":-2.295133,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.953632,
     "lbl:longitude":-2.295585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Corse"
@@ -42,12 +48,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004302"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343993323
     ],
     "wof:country":"GB",
-    "wof:geomhash":"11750eb06f4ef41293051725f0dc7379",
+    "wof:geomhash":"224e18c898e751cc4424e8506de2965a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404432137,
     "wof:label":"Corse Civil Parish",
-    "wof:lastmodified":1566633932,
+    "wof:lastmodified":1695877866,
     "wof:name":"Corse",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

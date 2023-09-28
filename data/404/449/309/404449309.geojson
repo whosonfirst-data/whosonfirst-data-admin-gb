@@ -10,12 +10,18 @@
     "geom:latitude":51.696285,
     "geom:longitude":0.115313,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.695301,
     "lbl:longitude":0.112328,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Epping"
@@ -93,12 +99,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004015"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854747
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d60913419823cd548cbc285fbcf61607",
+    "wof:geomhash":"4eb24177e2d62cf8fff7dce2c94bd9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404449309,
     "wof:label":"Epping Civil Parish",
-    "wof:lastmodified":1566631351,
+    "wof:lastmodified":1695878317,
     "wof:name":"Epping",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

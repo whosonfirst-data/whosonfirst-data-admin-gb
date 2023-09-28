@@ -10,12 +10,18 @@
     "geom:latitude":50.946894,
     "geom:longitude":-0.635054,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.948051,
     "lbl:longitude":-0.637426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Duncton"
@@ -54,12 +60,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009893"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125839717
     ],
     "wof:country":"GB",
-    "wof:geomhash":"368daf2cb2b265ffb20005ad78adb836",
+    "wof:geomhash":"20460ede654eed8abfc5a107c51cb1b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440019,
     "wof:label":"Duncton Civil Parish",
-    "wof:lastmodified":1566631205,
+    "wof:lastmodified":1695878252,
     "wof:name":"Duncton",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

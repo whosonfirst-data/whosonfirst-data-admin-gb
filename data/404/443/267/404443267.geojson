@@ -10,12 +10,18 @@
     "geom:latitude":53.316905,
     "geom:longitude":-1.910707,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.309468,
     "lbl:longitude":-1.919674,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chapel-En-Le-Frith"
@@ -42,12 +48,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002843"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"784fc33c61b775dcc3be4da45bbc5507",
+    "wof:geomhash":"a7956a5db965acc9fef6e6ba3c5f5ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404443267,
     "wof:label":"Chapel-En-Le-Frith Civil Parish",
-    "wof:lastmodified":1566633018,
+    "wof:lastmodified":1695877467,
     "wof:name":"Chapel-En-Le-Frith",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

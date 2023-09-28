@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001509,
-    "geom:area_square_m":11882007.069157,
+    "geom:area_square_m":11882007.069158,
     "geom:bbox":"-4.31383952246,50.4322079111,-4.23788039811,50.4698697832",
     "geom:latitude":50.453909,
     "geom:longitude":-4.278503,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.449342,
     "lbl:longitude":-4.287999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u062a\u0648\u0646"
@@ -63,12 +69,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011510"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310135077
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8f31bc5b37a9eb13ca9e5284aaf9c408",
+    "wof:geomhash":"488d0b50d38d1adcb1445bd7432105bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454605,
     "wof:label":"Pillaton Civil Parish",
-    "wof:lastmodified":1566632670,
+    "wof:lastmodified":1695877312,
     "wof:name":"Pillaton",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

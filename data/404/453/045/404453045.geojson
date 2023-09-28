@@ -10,12 +10,18 @@
     "geom:latitude":54.164632,
     "geom:longitude":-2.14716,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.16599,
     "lbl:longitude":-2.143611,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Litton"
@@ -66,12 +72,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007105"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880493
     ],
     "wof:country":"GB",
-    "wof:geomhash":"55a6fbed3ca7ad74f65cf71adbd22f81",
+    "wof:geomhash":"90d6f104b851fe88d014754528819a98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404453045,
     "wof:label":"Litton Civil Parish",
-    "wof:lastmodified":1566632820,
+    "wof:lastmodified":1695877382,
     "wof:name":"Litton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001395,
-    "geom:area_square_m":10573349.931944,
+    "geom:area_square_m":10573349.931945,
     "geom:bbox":"-2.7282700236,52.171916593,-2.66768795154,52.21830905",
     "geom:latitude":52.197619,
     "geom:longitude":-2.696343,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.196926,
     "lbl:longitude":-2.698392,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ford and Stoke Prior"
@@ -43,12 +49,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000760"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753997
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8e96634dcf0caa82d654df7fe734a0bc",
+    "wof:geomhash":"e28fcda9b398c4ece9d360b90b6c6691",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404433255,
     "wof:label":"Ford and Stoke Prior Civil Parish",
-    "wof:lastmodified":1566633727,
+    "wof:lastmodified":1695877787,
     "wof:name":"Ford and Stoke Prior",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

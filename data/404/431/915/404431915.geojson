@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014391,
-    "geom:area_square_m":107627798.299606,
+    "geom:area_square_m":107627798.299613,
     "geom:bbox":"-3.88654750891,52.7019465826,-3.68805413489,52.84847285",
     "geom:latitude":52.782673,
     "geom:longitude":-3.798011,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.781896,
     "lbl:longitude":-3.79951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brithdir and Llanfachreth Community"
@@ -40,9 +46,12 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000053"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"38957fc7c8062da070427bc1ac5aaac2",
+    "wof:geomhash":"6e7b3d2c7239e41f1910a0dc315c4646",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404431915,
-    "wof:lastmodified":1566632473,
+    "wof:lastmodified":1695877219,
     "wof:name":"Brithdir and Llanfachreth Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

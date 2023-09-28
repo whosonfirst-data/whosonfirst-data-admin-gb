@@ -10,12 +10,18 @@
     "geom:latitude":52.327619,
     "geom:longitude":0.979191,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.327752,
     "lbl:longitude":0.974773,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rickinghall Inferior"
@@ -52,12 +58,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009243"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757753
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d4566ddacce221537c771cf2d9810d9",
+    "wof:geomhash":"44a920e384b2c4e76a1d033610cb70c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404435667,
     "wof:label":"Rickinghall Inferior Civil Parish",
-    "wof:lastmodified":1566634012,
+    "wof:lastmodified":1695877903,
     "wof:name":"Rickinghall Inferior",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

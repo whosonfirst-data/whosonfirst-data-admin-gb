@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001457,
-    "geom:area_square_m":10981995.348589,
+    "geom:area_square_m":10981995.348588,
     "geom:bbox":"-1.25783895958,52.4356782044,-1.18128841543,52.4828883134",
     "geom:latitude":52.455835,
     "geom:longitude":-1.212392,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.453175,
     "lbl:longitude":-1.212961,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0627\u062a\u0631\u0648\u0648\u0631\u062b"
@@ -93,12 +99,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005452"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853103
     ],
     "wof:country":"GB",
-    "wof:geomhash":"28c8e82f1f3d3e2499c020f51d779d9e",
+    "wof:geomhash":"975a179b686c3d7ced316eaa678485f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404436119,
     "wof:label":"Lutterworth Civil Parish",
-    "wof:lastmodified":1566632372,
+    "wof:lastmodified":1695877174,
     "wof:name":"Lutterworth",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

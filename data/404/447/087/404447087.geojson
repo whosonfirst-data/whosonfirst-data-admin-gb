@@ -10,12 +10,18 @@
     "geom:latitude":51.522087,
     "geom:longitude":-1.439519,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.515742,
     "lbl:longitude":-1.439105,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fawley"
@@ -54,12 +60,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001170"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125884099
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9b1562e74f980fdd1e37a3331cd32d3b",
+    "wof:geomhash":"cd6e6a160d7fd515a579a4d0588b02ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447087,
     "wof:label":"Fawley Civil Parish",
-    "wof:lastmodified":1566631305,
+    "wof:lastmodified":1695878298,
     "wof:name":"Fawley",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

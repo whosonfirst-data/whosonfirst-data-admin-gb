@@ -10,12 +10,18 @@
     "geom:latitude":51.079271,
     "geom:longitude":-2.816321,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.080597,
     "lbl:longitude":-2.818691,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "High Ham"
@@ -57,12 +63,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008704"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125835811
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8f44665c079614508a3c589125109125",
+    "wof:geomhash":"01df09fe74d2557abd4d06238abe130d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439249,
     "wof:label":"High Ham Civil Parish",
-    "wof:lastmodified":1566631903,
+    "wof:lastmodified":1695876975,
     "wof:name":"High Ham",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

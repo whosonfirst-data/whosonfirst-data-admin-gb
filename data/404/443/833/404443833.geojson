@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001094,
-    "geom:area_square_m":7981859.468227,
+    "geom:area_square_m":7981859.468226,
     "geom:bbox":"-2.53522063511,53.8125464727,-2.48565050444,53.862962431",
     "geom:latitude":53.834867,
     "geom:longitude":-2.518777,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.82747,
     "lbl:longitude":-2.519147,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dutton"
@@ -76,12 +82,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005256"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758557
     ],
     "wof:country":"GB",
-    "wof:geomhash":"511454cac8c85f10c8247adfc1b8465a",
+    "wof:geomhash":"75bacc6ec1870de9a8fa1ae78361540c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +103,7 @@
     ],
     "wof:id":404443833,
     "wof:label":"Dutton Civil Parish",
-    "wof:lastmodified":1566633022,
+    "wof:lastmodified":1695877470,
     "wof:name":"Dutton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

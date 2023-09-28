@@ -10,12 +10,18 @@
     "geom:latitude":53.808882,
     "geom:longitude":-2.363988,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.80938,
     "lbl:longitude":-2.363577,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0623"
@@ -63,12 +69,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005275"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276794159
     ],
     "wof:country":"GB",
-    "wof:geomhash":"13685f15213228162e8c3df7145264f9",
+    "wof:geomhash":"e7007fbbd48a0e1be3eb0142fe97da2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404440057,
     "wof:label":"Read Civil Parish",
-    "wof:lastmodified":1566631212,
+    "wof:lastmodified":1695878255,
     "wof:name":"Read",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

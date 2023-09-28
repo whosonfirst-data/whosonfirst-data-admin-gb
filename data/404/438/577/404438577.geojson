@@ -10,12 +10,18 @@
     "geom:latitude":50.749699,
     "geom:longitude":-1.328286,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.748258,
     "lbl:longitude":-1.329799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gurnard"
@@ -48,12 +54,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001304"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125907699
     ],
     "wof:country":"GB",
-    "wof:geomhash":"82b546c6b3ce10fbf2373190162b8398",
+    "wof:geomhash":"9ae3b9a824bd4653b4843ac265d93d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404438577,
     "wof:label":"Gurnard Civil Parish",
-    "wof:lastmodified":1566632637,
+    "wof:lastmodified":1695877295,
     "wof:name":"Gurnard",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

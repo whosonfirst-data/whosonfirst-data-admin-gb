@@ -10,12 +10,18 @@
     "geom:latitude":51.678624,
     "geom:longitude":0.774416,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.670468,
     "lbl:longitude":0.786706,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mayland"
@@ -45,12 +51,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004057"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882647
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c4c9672f02cf334767c4fecab08cbc79",
+    "wof:geomhash":"7def9f1797d3b061cbad94410a0e6da0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404452405,
     "wof:label":"Mayland Civil Parish",
-    "wof:lastmodified":1566632245,
+    "wof:lastmodified":1695877118,
     "wof:name":"Mayland",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

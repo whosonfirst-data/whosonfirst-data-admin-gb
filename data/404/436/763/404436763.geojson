@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001944,
-    "geom:area_square_m":15125750.621539,
+    "geom:area_square_m":15125750.621538,
     "geom:bbox":"-2.03814512893,50.9711248293,-1.96819675987,51.0437622103",
     "geom:latitude":51.013044,
     "geom:longitude":-2.01033,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.020613,
     "lbl:longitude":-2.010849,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ebbesborne Wake"
@@ -42,12 +48,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011708"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125855025
     ],
     "wof:country":"GB",
-    "wof:geomhash":"da353b8bf131d9d4b87d162d60696a0c",
+    "wof:geomhash":"a69c993fdccc717e2d81f67fbecbec0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404436763,
     "wof:label":"Ebbesborne Wake Civil Parish",
-    "wof:lastmodified":1566632317,
+    "wof:lastmodified":1695877149,
     "wof:name":"Ebbesborne Wake",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

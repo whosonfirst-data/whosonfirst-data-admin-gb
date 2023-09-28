@@ -10,12 +10,18 @@
     "geom:latitude":54.520825,
     "geom:longitude":-1.357123,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.521901,
     "lbl:longitude":-1.357123,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Egglescliffe"
@@ -66,12 +72,15 @@
         1360699087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012067"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125964589
     ],
     "wof:country":"GB",
-    "wof:geomhash":"25c5156914317e127ba95bb21d559eec",
+    "wof:geomhash":"b6ea6cb298a7c90df2bd4cc4be286b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404444427,
     "wof:label":"Egglescliffe Civil Parish",
-    "wof:lastmodified":1566632952,
+    "wof:lastmodified":1695877435,
     "wof:name":"Egglescliffe",
     "wof:parent_id":1360699087,
     "wof:placetype":"localadmin",

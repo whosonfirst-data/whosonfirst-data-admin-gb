@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002365,
-    "geom:area_square_m":17231241.079573,
+    "geom:area_square_m":17231241.079574,
     "geom:bbox":"-0.778212975998,53.8719095239,-0.688154334034,53.9275956838",
     "geom:latitude":53.902365,
     "geom:longitude":-0.737671,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.905136,
     "lbl:longitude":-0.74074,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hayton"
@@ -63,12 +69,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000408"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126036337
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2cd06102597176178ed7306cfac8d1dc",
+    "wof:geomhash":"919453af4d761f75c51f1836f6062838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404444207,
     "wof:label":"Hayton Civil Parish",
-    "wof:lastmodified":1566632959,
+    "wof:lastmodified":1695877438,
     "wof:name":"Hayton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":55.425055,
     "geom:longitude":-1.898728,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.424475,
     "lbl:longitude":-1.898327,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glanton"
@@ -66,12 +72,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010786"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880979
     ],
     "wof:country":"GB",
-    "wof:geomhash":"86669787b123e6cbebafeea6c2f702e6",
+    "wof:geomhash":"caa299d3f796609a87b5af0de703dc05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404451365,
     "wof:label":"Glanton Civil Parish",
-    "wof:lastmodified":1566633422,
+    "wof:lastmodified":1695877649,
     "wof:name":"Glanton",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

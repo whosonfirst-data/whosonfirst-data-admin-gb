@@ -10,12 +10,18 @@
     "geom:latitude":51.623612,
     "geom:longitude":-1.576574,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.625159,
     "lbl:longitude":-1.578216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fernham"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008210"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125906115
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cb27d3f6e0f3f8a5ff84407f1c90f24a",
+    "wof:geomhash":"55a472b419b200d2d1f39854e51a11d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404455121,
     "wof:label":"Fernham Civil Parish",
-    "wof:lastmodified":1566632290,
+    "wof:lastmodified":1695877137,
     "wof:name":"Fernham",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

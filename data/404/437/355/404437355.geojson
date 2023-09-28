@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000702,
-    "geom:area_square_m":5483888.264699,
+    "geom:area_square_m":5483888.2647,
     "geom:bbox":"-0.0132053340803,50.7820991958,0.0313184941837,50.8114532535",
     "geom:latitude":50.795356,
     "geom:longitude":0.009878,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.794126,
     "lbl:longitude":0.009879,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u06cc\u0633\u0647\u06cc\u0648\u0646"
@@ -81,12 +87,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003780"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854585
     ],
     "wof:country":"GB",
-    "wof:geomhash":"df037ab6dd2e6f407f4d56a98eb0d8b0",
+    "wof:geomhash":"3e865ddb00f4240152a99d5350db0856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404437355,
     "wof:label":"Peacehaven Civil Parish",
-    "wof:lastmodified":1566632062,
+    "wof:lastmodified":1695877041,
     "wof:name":"Peacehaven",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

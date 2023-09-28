@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001583,
-    "geom:area_square_m":12479373.875832,
+    "geom:area_square_m":12479373.875831,
     "geom:bbox":"-4.91804822439,50.3660634108,-4.84858863941,50.4084033224",
     "geom:latitude":50.388692,
     "geom:longitude":-4.883475,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.387698,
     "lbl:longitude":-4.884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Dennis"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011540"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852413
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a1770717c3887768f7d6474c94fddd65",
+    "wof:geomhash":"d65981ffcf4fe332e5bee1b71898372a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404429401,
     "wof:label":"St. Dennis Civil Parish",
-    "wof:lastmodified":1566633118,
+    "wof:lastmodified":1695877514,
     "wof:name":"St. Dennis",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

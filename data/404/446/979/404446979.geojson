@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001701,
-    "geom:area_square_m":12999060.765271,
+    "geom:area_square_m":12999060.76527,
     "geom:bbox":"-0.0355980291823,51.7986799891,0.056313636187,51.8448805979",
     "geom:latitude":51.822889,
     "geom:longitude":0.015963,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.81931,
     "lbl:longitude":0.020489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wareside"
@@ -57,12 +63,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004757"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125916073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ae51a70aa830bc35cf3619e4fd023c05",
+    "wof:geomhash":"ba0e56e3d0f0c6d86d20e68261a6e27b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446979,
     "wof:label":"Wareside Civil Parish",
-    "wof:lastmodified":1566631640,
+    "wof:lastmodified":1695876864,
     "wof:name":"Wareside",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

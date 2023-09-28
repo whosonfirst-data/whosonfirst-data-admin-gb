@@ -10,12 +10,18 @@
     "geom:latitude":50.875522,
     "geom:longitude":-0.785942,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.872536,
     "lbl:longitude":-0.790279,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lavant"
@@ -42,12 +48,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009910"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844669
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fde0695fb527c84686ac3884d27ebbbd",
+    "wof:geomhash":"bb87a053243dcf93ddc44df252ae06d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404451501,
     "wof:label":"Lavant Civil Parish",
-    "wof:lastmodified":1566633481,
+    "wof:lastmodified":1695877672,
     "wof:name":"Lavant",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

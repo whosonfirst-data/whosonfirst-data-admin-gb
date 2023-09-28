@@ -10,12 +10,18 @@
     "geom:latitude":51.803879,
     "geom:longitude":-3.233227,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.803725,
     "lbl:longitude":-3.233225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rassau Community"
@@ -40,12 +46,15 @@
         1360699009
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000932"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126050043
     ],
     "wof:country":"GB",
-    "wof:geomhash":"753078f5a60813dd56b3071f759380a6",
+    "wof:geomhash":"4d339decba47f4e65bc2b50cd75000c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404432069,
-    "wof:lastmodified":1566633959,
+    "wof:lastmodified":1695877877,
     "wof:name":"Rassau Community",
     "wof:parent_id":1360699009,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00345,
-    "geom:area_square_m":25445433.951636,
+    "geom:area_square_m":25445433.951633,
     "geom:bbox":"-4.61317437068,53.3558515393,-4.48608951315,53.4248056648",
     "geom:latitude":53.386643,
     "geom:longitude":-4.528172,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.384777,
     "lbl:longitude":-4.527005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cylch-y-Garn Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000009"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711835
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32c0b7809b1771e0a4da9fd751f44861",
+    "wof:geomhash":"bb59f6ff2dc1c15b39020126244d47d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404448909,
-    "wof:lastmodified":1566631459,
+    "wof:lastmodified":1695876796,
     "wof:name":"Cylch-y-Garn Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

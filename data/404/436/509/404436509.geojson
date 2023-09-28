@@ -10,12 +10,18 @@
     "geom:latitude":54.099105,
     "geom:longitude":-1.545444,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.10084,
     "lbl:longitude":-1.546733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Markenfield Hall"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007383"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758647
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3b364fb2c3c8734ae9a5b1834969d034",
+    "wof:geomhash":"fc943d6d147b7115da3626bfd5b3cf37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404436509,
     "wof:label":"Markenfield Hall Civil Parish",
-    "wof:lastmodified":1566632385,
+    "wof:lastmodified":1695877181,
     "wof:name":"Markenfield Hall",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

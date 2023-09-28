@@ -10,12 +10,18 @@
     "geom:latitude":50.837504,
     "geom:longitude":-2.682405,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.844559,
     "lbl:longitude":-2.683056,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Corscombe"
@@ -69,12 +75,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003530"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125804167
     ],
     "wof:country":"GB",
-    "wof:geomhash":"73cb2144253589216a6d8c30f674e56d",
+    "wof:geomhash":"8a65c20ca607aa5f24a2aeb60b2dca67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404453351,
     "wof:label":"Corscombe Civil Parish",
-    "wof:lastmodified":1566632813,
+    "wof:lastmodified":1695877379,
     "wof:name":"Corscombe",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.879204,
     "geom:longitude":-2.294177,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.874357,
     "lbl:longitude":-2.287645,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eccleshall"
@@ -78,12 +84,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008993"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871887
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f8e19ad51e59c902f684e743256aa88e",
+    "wof:geomhash":"edf71e4ea6029658957cf431cdbeb959",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404449283,
     "wof:label":"Eccleshall Civil Parish",
-    "wof:lastmodified":1566631415,
+    "wof:lastmodified":1695876777,
     "wof:name":"Eccleshall",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002937,
-    "geom:area_square_m":22632476.302763,
+    "geom:area_square_m":22632476.302764,
     "geom:bbox":"0.667766763521,51.4277477899,0.73898163299,51.4835219727",
     "geom:latitude":51.453889,
     "geom:longitude":0.704275,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.4527,
     "lbl:longitude":0.708515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Isle of Grain"
@@ -63,12 +69,15 @@
         1360699105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001137"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125851703
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24ebee179b86cf9fe4de3553d3addb93",
+    "wof:geomhash":"457189a57ec89225eaed8ebfa2c32fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404446051,
     "wof:label":"Isle of Grain Civil Parish",
-    "wof:lastmodified":1566631696,
+    "wof:lastmodified":1695876883,
     "wof:name":"Isle of Grain",
     "wof:parent_id":1360699105,
     "wof:placetype":"localadmin",
