@@ -338,12 +338,18 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25536,
         "fips:code":"UKP3",
+        "gbr-ons:gss_code":"1244",
         "gn:id":2634723,
         "gp:id":12602190,
         "hasc:id":"GB.WR",
+        "iso:code":"GB-WAR",
         "iso:id":"GB-WAR",
         "unlc:id":"GB-WAR"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698603
     ],
@@ -368,7 +374,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495385,
+    "wof:lastmodified":1695886280,
     "wof:name":"Warwickshire",
     "wof:parent_id":1360698603,
     "wof:placetype":"county",

@@ -268,12 +268,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "fips:code":"UKT7",
+        "gbr-ons:gss_code":"11QC",
         "gn:id":2657306,
         "gp:id":12696184,
         "hasc:id":"GB.AG",
+        "iso:code":"GB-ANS",
         "iso:id":"GB-ANS",
         "unlc:id":"GB-ANS"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698689,
         404446035
@@ -299,7 +305,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495383,
+    "wof:lastmodified":1695886273,
     "wof:name":"Angus",
     "wof:parent_id":1360698689,
     "wof:placetype":"county",

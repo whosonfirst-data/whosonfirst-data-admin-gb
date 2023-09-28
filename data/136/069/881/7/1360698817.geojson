@@ -414,13 +414,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28400,
         "fips:code":"UKH2",
+        "gbr-ons:gss_code":"1230",
         "gn:id":2644974,
         "gp:id":12602160,
         "hasc:id":"GB.LA",
+        "iso:code":"GB-LAN",
         "iso:id":"GB-LAN",
         "unlc:id":"GB-LAN",
         "wd:id":"Q23077"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698567
     ],
@@ -445,7 +451,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495388,
+    "wof:lastmodified":1695886405,
     "wof:name":"Lancashire",
     "wof:parent_id":1360698567,
     "wof:placetype":"county",

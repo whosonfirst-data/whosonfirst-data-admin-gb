@@ -309,13 +309,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25489,
         "fips:code":"UKY8",
+        "gbr-ons:gss_code":"13NN",
         "gn:id":2639944,
         "gp:id":12602227,
         "hasc:id":"GB.PO",
+        "iso:code":"GB-POW",
         "iso:id":"GB-POW",
         "unlc:id":"GB-POW",
         "wd:id":"Q156150"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698625
     ],
@@ -340,7 +346,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495386,
+    "wof:lastmodified":1695886283,
     "wof:name":"Powys",
     "wof:parent_id":1360698625,
     "wof:placetype":"county",

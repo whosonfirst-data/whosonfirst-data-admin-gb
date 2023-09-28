@@ -420,13 +420,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25409,
         "fips:code":"UKE2",
+        "gbr-ons:gss_code":"1221",
         "gn:id":2650328,
         "gp:id":12602167,
         "hasc:id":"GB.ES",
+        "iso:code":"GB-ESX",
         "iso:id":"GB-ESX",
         "unlc:id":"GB-ESX",
         "wd:id":"Q23293"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698549
     ],
@@ -451,7 +457,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495388,
+    "wof:lastmodified":1695886406,
     "wof:name":"East Sussex",
     "wof:parent_id":1360698549,
     "wof:placetype":"county",

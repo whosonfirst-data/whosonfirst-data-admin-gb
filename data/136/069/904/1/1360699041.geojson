@@ -410,13 +410,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25503,
         "fips:code":"UKN5",
+        "gbr-ons:gss_code":"1242",
         "gn:id":2636561,
         "gp:id":12602142,
         "hasc:id":"GB.SF",
+        "iso:code":"GB-SFK",
         "iso:id":"GB-SFK",
         "unlc:id":"GB-SFK",
         "wd:id":"Q23111"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698595
     ],
@@ -441,7 +447,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495386,
+    "wof:lastmodified":1695886284,
     "wof:name":"Suffolk",
     "wof:parent_id":1360698595,
     "wof:placetype":"county",

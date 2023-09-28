@@ -145,12 +145,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "fips:code":"UKU8",
+        "gbr-ons:gss_code":"11QP",
         "gn:id":3333229,
         "gp:id":12696195,
         "hasc:id":"GB.EB",
+        "iso:code":"GB-EDH",
         "iso:id":"GB-EDH",
         "unlc:id":"GB-EDH"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698673,
         404437279
@@ -176,7 +182,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495389,
+    "wof:lastmodified":1695886620,
     "wof:name":"City of Edinburgh",
     "wof:parent_id":1360698673,
     "wof:placetype":"county",

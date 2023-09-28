@@ -444,13 +444,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25465,
         "fips:code":"UKI9",
+        "gbr-ons:gss_code":"1233",
         "gn:id":2641455,
         "gp:id":12602141,
         "hasc:id":"GB.NF",
+        "iso:code":"GB-NFK",
         "iso:id":"GB-NFK",
         "unlc:id":"GB-NFK",
         "wd:id":"Q23109"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698575
     ],
@@ -475,7 +481,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495385,
+    "wof:lastmodified":1695886282,
     "wof:name":"Norfolk",
     "wof:parent_id":1360698575,
     "wof:placetype":"county",

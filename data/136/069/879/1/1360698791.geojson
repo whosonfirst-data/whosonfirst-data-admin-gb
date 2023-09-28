@@ -192,10 +192,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "fips:code":"UKV5",
+        "gbr-ons:gss_code":"11QW",
         "hasc:id":"GB.ML",
+        "iso:code":"GB-MLN",
         "iso:id":"GB-MLN",
         "unlc:id":"GB-MLN"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698677,
         404436513
@@ -221,7 +227,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495383,
+    "wof:lastmodified":1695886274,
     "wof:name":"Midlothian",
     "wof:parent_id":1360698677,
     "wof:placetype":"county",
