@@ -10,12 +10,18 @@
     "geom:latitude":50.730792,
     "geom:longitude":-3.420173,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.733167,
     "lbl:longitude":-3.428819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clyst Honiton"
@@ -57,12 +63,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002949"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800231
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e7dd65e429e44a80f47c9f72c970a2c0",
+    "wof:geomhash":"7abeb7649e84986ae2ef59d9af529e0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404435455,
     "wof:label":"Clyst Honiton Civil Parish",
-    "wof:lastmodified":1566634012,
+    "wof:lastmodified":1695877903,
     "wof:name":"Clyst Honiton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

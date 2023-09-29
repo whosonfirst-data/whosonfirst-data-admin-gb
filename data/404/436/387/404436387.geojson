@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000986,
-    "geom:area_square_m":7686135.962087,
+    "geom:area_square_m":7686135.962086,
     "geom:bbox":"-3.6242186645,50.903781406,-3.5784339266,50.9415308497",
     "geom:latitude":50.922678,
     "geom:longitude":-3.597363,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.924928,
     "lbl:longitude":-3.595803,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Templeton"
@@ -84,12 +90,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003052"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309739399
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cc9117da7de791126254fa9fbf3c820a",
+    "wof:geomhash":"8a8f5b35cacbf16b270476d7c83f2c47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404436387,
     "wof:label":"Templeton Civil Parish",
-    "wof:lastmodified":1566632420,
+    "wof:lastmodified":1695877195,
     "wof:name":"Templeton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

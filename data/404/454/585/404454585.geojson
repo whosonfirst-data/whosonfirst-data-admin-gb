@@ -10,12 +10,18 @@
     "geom:latitude":51.667345,
     "geom:longitude":-2.942003,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.667193,
     "lbl:longitude":-2.937241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangybi Community"
@@ -40,9 +46,12 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000790"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"229bfcbb094823c475278749274f0317",
+    "wof:geomhash":"425ea2dd5dc0a979b0e951046f5c02a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404454585,
-    "wof:lastmodified":1566632736,
+    "wof:lastmodified":1695877344,
     "wof:name":"Llangybi Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.326283,
     "geom:longitude":-0.368649,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.326397,
     "lbl:longitude":-0.368363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0648 \u0644\u0646\u063a\u0627"
@@ -64,12 +70,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012040"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758019
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e8d68b15a7211e558c2af369a5482c8d",
+    "wof:geomhash":"118b5a31b927ace2e4b4c3153d483c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404435917,
     "wof:label":"Stow Longa Civil Parish",
-    "wof:lastmodified":1566634085,
+    "wof:lastmodified":1695877944,
     "wof:name":"Stow Longa",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

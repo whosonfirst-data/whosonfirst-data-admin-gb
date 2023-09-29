@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002533,
-    "geom:area_square_m":19267239.227157,
+    "geom:area_square_m":19267239.227156,
     "geom:bbox":"-3.31223399736,51.9977068129,-3.20454582159,52.0648386078",
     "geom:latitude":52.028496,
     "geom:longitude":-3.262094,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.017816,
     "lbl:longitude":-3.253973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bronllys Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000256"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125927491
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1035354abd3e9da62e2d27a131d5c265",
+    "wof:geomhash":"c09a49ae373313052ae61698e0305e35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430883,
-    "wof:lastmodified":1566632010,
+    "wof:lastmodified":1695877019,
     "wof:name":"Bronllys Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

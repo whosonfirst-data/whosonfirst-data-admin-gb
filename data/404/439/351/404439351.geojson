@@ -10,12 +10,18 @@
     "geom:latitude":53.351636,
     "geom:longitude":-2.11081,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.351825,
     "lbl:longitude":-2.110075,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poynton-With-Worth"
@@ -40,12 +46,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010995"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755371
     ],
     "wof:country":"GB",
-    "wof:geomhash":"918071ba78c361c9cf757b595dd82940",
+    "wof:geomhash":"50d4f60432bae20ba2e03154c9189d50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404439351,
     "wof:label":"Poynton-With-Worth Civil Parish",
-    "wof:lastmodified":1566631889,
+    "wof:lastmodified":1695876968,
     "wof:name":"Poynton-With-Worth",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

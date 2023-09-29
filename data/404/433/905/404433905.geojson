@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003433,
-    "geom:area_square_m":25483504.642047,
+    "geom:area_square_m":25483504.642046,
     "geom:bbox":"-3.00983366014,53.0766073297,-2.88096703303,53.1342966251",
     "geom:latitude":53.108784,
     "geom:longitude":-2.945448,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.104862,
     "lbl:longitude":-2.933762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rossett Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000242"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125983041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"494b117c037f9d105849d57fdc8d1cda",
+    "wof:geomhash":"a010fc1b429cc8c943e85e4d08a79fae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433905,
-    "wof:lastmodified":1566633700,
+    "wof:lastmodified":1695877775,
     "wof:name":"Rossett Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

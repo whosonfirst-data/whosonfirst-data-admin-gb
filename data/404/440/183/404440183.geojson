@@ -10,12 +10,18 @@
     "geom:latitude":52.909644,
     "geom:longitude":0.492698,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.908105,
     "lbl:longitude":0.492688,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heacham"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006319"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125892163
     ],
     "wof:country":"GB",
-    "wof:geomhash":"696e043115654fb0c8cd0296bc1dc74a",
+    "wof:geomhash":"511319533d76c6e8bd0203ae0ac055cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404440183,
     "wof:label":"Heacham Civil Parish",
-    "wof:lastmodified":1566631226,
+    "wof:lastmodified":1695878260,
     "wof:name":"Heacham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001245,
-    "geom:area_square_m":9414570.474159,
+    "geom:area_square_m":9414570.474158,
     "geom:bbox":"0.588006740365,52.2852659569,0.648216696133,52.3185890451",
     "geom:latitude":52.299273,
     "geom:longitude":0.617897,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.297461,
     "lbl:longitude":0.614883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Lackford"
@@ -60,12 +66,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009333"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125894119
     ],
     "wof:country":"GB",
-    "wof:geomhash":"56792b5cce0fd397e17fcda86e0fd74b",
+    "wof:geomhash":"21e2892f5c5ce6620f5f6d6454ede747",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444327,
     "wof:label":"Lackford Civil Parish",
-    "wof:lastmodified":1566632971,
+    "wof:lastmodified":1695877444,
     "wof:name":"Lackford",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.228144,
     "geom:longitude":-0.271317,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.227176,
     "lbl:longitude":-0.262587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0686\u200c\u0648\u0631\u062b"
@@ -69,12 +75,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009565"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125884441
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5c5491f1cefc194565ef61a9472afe43",
+    "wof:geomhash":"bfe8c04a2fb0ab7790106d4a78e41f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404445079,
     "wof:label":"Betchworth Civil Parish",
-    "wof:lastmodified":1566633323,
+    "wof:lastmodified":1695877604,
     "wof:name":"Betchworth",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

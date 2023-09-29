@@ -10,12 +10,18 @@
     "geom:latitude":51.492,
     "geom:longitude":-2.481235,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.493829,
     "lbl:longitude":-2.479667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mangotsfield Rural"
@@ -40,12 +46,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001060"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758147
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6b71a0f2c1e3bcc19c6bca341b2bb1bb",
+    "wof:geomhash":"4610dcea0fb7a20744798acd5bd9d07c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404443051,
     "wof:label":"Mangotsfield Rural Civil Parish",
-    "wof:lastmodified":1566633075,
+    "wof:lastmodified":1695877493,
     "wof:name":"Mangotsfield Rural",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

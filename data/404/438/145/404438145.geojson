@@ -10,12 +10,18 @@
     "geom:latitude":53.444175,
     "geom:longitude":-1.211818,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.444186,
     "lbl:longitude":-1.206383,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Braithwell"
@@ -57,12 +63,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000066"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125856299
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a0ec66e18d3902ddd5e03a785f997031",
+    "wof:geomhash":"81ab190ebc98942b1e5d057a1f3225c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404438145,
     "wof:label":"Braithwell Civil Parish",
-    "wof:lastmodified":1566632578,
+    "wof:lastmodified":1695877267,
     "wof:name":"Braithwell",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005475,
-    "geom:area_square_m":41833443.421238,
+    "geom:area_square_m":41833443.421239,
     "geom:bbox":"-2.91573015208,51.7921251516,-2.79236286177,51.8825627004",
     "geom:latitude":51.833438,
     "geom:longitude":-2.868513,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.825491,
     "lbl:longitude":-2.868524,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llantilio Crossenny Community"
@@ -40,12 +46,15 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000793"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711517
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4271d189fb0ef2379089d35241c19f08",
+    "wof:geomhash":"1f1bdb3fbdc6dd561cabf01fd8683fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441161,
-    "wof:lastmodified":1566631720,
+    "wof:lastmodified":1695876893,
     "wof:name":"Llantilio Crossenny Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

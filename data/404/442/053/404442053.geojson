@@ -10,12 +10,18 @@
     "geom:latitude":51.317555,
     "geom:longitude":-1.442307,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.31564,
     "lbl:longitude":-1.444282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Faccombe"
@@ -54,12 +60,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004608"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977117
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f2de8bb9a1fbfe92e475e917d744291f",
+    "wof:geomhash":"04f9a1ceab5eb64f9eba8e600dfe8d94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404442053,
     "wof:label":"Faccombe Civil Parish",
-    "wof:lastmodified":1566633225,
+    "wof:lastmodified":1695877561,
     "wof:name":"Faccombe",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.715072,
     "geom:longitude":-1.354728,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.713727,
     "lbl:longitude":-1.350956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hutton Henry"
@@ -54,12 +60,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010650"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125975693
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7f205f6b4e8c0bfada78e975d91c3968",
+    "wof:geomhash":"064b90560781f9584cead7cc3e06945a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452871,
     "wof:label":"Hutton Henry Civil Parish",
-    "wof:lastmodified":1566632237,
+    "wof:lastmodified":1695877115,
     "wof:name":"Hutton Henry",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

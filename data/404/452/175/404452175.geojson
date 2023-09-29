@@ -10,12 +10,18 @@
     "geom:latitude":54.63124,
     "geom:longitude":-1.604051,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.632118,
     "lbl:longitude":-1.607337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0631\u064a\u062c"
@@ -66,12 +72,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010665"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125973387
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db95c2b8fc915345aaea76f1bdaf1af3",
+    "wof:geomhash":"63c80c7b7fd44c989db3769b12d646c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404452175,
     "wof:label":"Middridge Civil Parish",
-    "wof:lastmodified":1566632212,
+    "wof:lastmodified":1695877104,
     "wof:name":"Middridge",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

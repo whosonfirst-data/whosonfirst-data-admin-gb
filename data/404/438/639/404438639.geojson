@@ -10,12 +10,18 @@
     "geom:latitude":52.077991,
     "geom:longitude":-2.063449,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.080474,
     "lbl:longitude":-2.061806,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Comberton"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010395"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126036317
     ],
     "wof:country":"GB",
-    "wof:geomhash":"98443e451b348e32ec3a26bec269cbb1",
+    "wof:geomhash":"06a077aca80fd4692e78c2386185e1ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404438639,
     "wof:label":"Great Comberton Civil Parish",
-    "wof:lastmodified":1566632620,
+    "wof:lastmodified":1695877286,
     "wof:name":"Great Comberton",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

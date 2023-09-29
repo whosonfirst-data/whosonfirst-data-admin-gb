@@ -10,12 +10,18 @@
     "geom:latitude":54.170839,
     "geom:longitude":-1.430594,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.168113,
     "lbl:longitude":-1.431033,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rainton with Newby"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007407"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753159
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e65165f2b1199441ef1b5fff20f35c08",
+    "wof:geomhash":"1eb96c0ee961fd31fff471052f0ee24d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404429641,
     "wof:label":"Rainton with Newby Civil Parish",
-    "wof:lastmodified":1566633164,
+    "wof:lastmodified":1695877532,
     "wof:name":"Rainton with Newby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

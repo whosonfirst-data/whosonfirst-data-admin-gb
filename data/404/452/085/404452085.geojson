@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002082,
-    "geom:area_square_m":16161975.619488,
+    "geom:area_square_m":16161975.619489,
     "geom:bbox":"-2.50177349243,51.0841742585,-2.41499424973,51.1341510513",
     "geom:latitude":51.10975,
     "geom:longitude":-2.450025,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.11021,
     "lbl:longitude":-2.449379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u0648\u062a\u0648\u0646"
@@ -78,12 +84,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008670"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852545
     ],
     "wof:country":"GB",
-    "wof:geomhash":"135dbaccd6b3d2a86ecb7c9a4fb86cdc",
+    "wof:geomhash":"ed2665218fdfd5d6fd5a0f953af27ab4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404452085,
     "wof:label":"Bruton Civil Parish",
-    "wof:lastmodified":1566632189,
+    "wof:lastmodified":1695877095,
     "wof:name":"Bruton",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

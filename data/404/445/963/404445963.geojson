@@ -10,12 +10,18 @@
     "geom:latitude":52.894126,
     "geom:longitude":1.045932,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.894069,
     "lbl:longitude":1.046241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thornage"
@@ -55,12 +61,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006485"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753001
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2a2d08c3de0e8ca1937d36ba6cc5f650",
+    "wof:geomhash":"596981925f5d1f8758c95bf57fe5e385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404445963,
     "wof:label":"Thornage Civil Parish",
-    "wof:lastmodified":1566633314,
+    "wof:lastmodified":1695877600,
     "wof:name":"Thornage",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

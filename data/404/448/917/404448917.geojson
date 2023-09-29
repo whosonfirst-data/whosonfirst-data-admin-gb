@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000656,
-    "geom:area_square_m":4983023.498434,
+    "geom:area_square_m":4983023.498433,
     "geom:bbox":"1.13959387237,52.1082695706,1.17797117763,52.1368699981",
     "geom:latitude":52.121702,
     "geom:longitude":1.159316,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.120882,
     "lbl:longitude":1.158959,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Henley"
@@ -73,12 +79,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009214"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757639
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cc9eb46c80184259a091c268cc6659c4",
+    "wof:geomhash":"5fa7b0483fdefbfc635535150db56bec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +100,7 @@
     ],
     "wof:id":404448917,
     "wof:label":"Henley Civil Parish",
-    "wof:lastmodified":1566631568,
+    "wof:lastmodified":1695876844,
     "wof:name":"Henley",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

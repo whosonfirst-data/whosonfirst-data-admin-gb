@@ -10,12 +10,18 @@
     "geom:latitude":52.298742,
     "geom:longitude":0.137777,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.298247,
     "lbl:longitude":0.136878,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u062a\u0648\u0646\u0647\u0645"
@@ -69,12 +75,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001775"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854923
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1568d3ce2f42b8189bfd9feb577e8c09",
+    "wof:geomhash":"97193514593fc95fde67e9a7e8156b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404433055,
     "wof:label":"Cottenham Civil Parish",
-    "wof:lastmodified":1566633670,
+    "wof:lastmodified":1695877761,
     "wof:name":"Cottenham",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

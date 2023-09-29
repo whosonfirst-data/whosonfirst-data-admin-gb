@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000933,
-    "geom:area_square_m":7426189.550386,
+    "geom:area_square_m":7426189.550384,
     "geom:bbox":"-6.32851979923,49.9027870077,-6.27547205701,49.937748943",
     "geom:latitude":49.920826,
     "geom:longitude":-6.298904,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":49.923418,
     "lbl:longitude":-6.297114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Saint Marys"
@@ -84,12 +90,15 @@
         1360698909
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011615"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060067
     ],
     "wof:country":"GB",
-    "wof:geomhash":"423f9692bfc7f820526b7367d415c003",
+    "wof:geomhash":"453478c9382787003ce40eff6aabb92b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404453575,
     "wof:label":"St. Mary's Civil Parish",
-    "wof:lastmodified":1566632796,
+    "wof:lastmodified":1695877371,
     "wof:name":"St. Mary's",
     "wof:parent_id":1360698909,
     "wof:placetype":"localadmin",

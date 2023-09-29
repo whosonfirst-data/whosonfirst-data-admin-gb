@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000349,
-    "geom:area_square_m":2672036.789009,
+    "geom:area_square_m":2672036.78901,
     "geom:bbox":"-2.91050978181,51.6887210253,-2.88181255054,51.715132536",
     "geom:latitude":51.703043,
     "geom:longitude":-2.89769,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.704394,
     "lbl:longitude":-2.901057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Usk Community"
@@ -40,12 +46,15 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000807"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852899
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4e419ab798ae701197162c7174cae508",
+    "wof:geomhash":"e0bc906217540b4978e7887ade92d883",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404445559,
-    "wof:lastmodified":1566633312,
+    "wof:lastmodified":1695877599,
     "wof:name":"Usk Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

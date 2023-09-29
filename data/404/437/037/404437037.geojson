@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003328,
-    "geom:area_square_m":25431460.999047,
+    "geom:area_square_m":25431460.999045,
     "geom:bbox":"-5.13269748947,51.8015841229,-5.04411478783,51.8687852194",
     "geom:latitude":51.836129,
     "geom:longitude":-5.085966,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.835885,
     "lbl:longitude":-5.093354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nolton and Roch Community"
@@ -40,9 +46,12 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000949"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"9c2de37adc607bf8afe51e8ff873d542",
+    "wof:geomhash":"32ac76dd7e8e2e79e7556433106aa482",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404437037,
-    "wof:lastmodified":1566632088,
+    "wof:lastmodified":1695877053,
     "wof:name":"Nolton and Roch Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

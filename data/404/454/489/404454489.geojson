@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002694,
-    "geom:area_square_m":19736485.494545,
+    "geom:area_square_m":19736485.494544,
     "geom:bbox":"-0.914274306633,53.6375748739,-0.840824042522,53.6938583372",
     "geom:latitude":53.666467,
     "geom:longitude":-0.876303,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.665584,
     "lbl:longitude":-0.877,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Goole Fields"
@@ -46,12 +52,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000402"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753673
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3e19722fd5d9466ca968d72e23d192b5",
+    "wof:geomhash":"aff9a6e8782ed23f8443ff858a4e38dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404454489,
     "wof:label":"Goole Fields Civil Parish",
-    "wof:lastmodified":1566632718,
+    "wof:lastmodified":1695877336,
     "wof:name":"Goole Fields",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

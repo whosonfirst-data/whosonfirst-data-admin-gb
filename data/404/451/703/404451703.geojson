@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001828,
-    "geom:area_square_m":13250926.003251,
+    "geom:area_square_m":13250926.00325,
     "geom:bbox":"-0.146946505453,54.1024918372,-0.0747277967797,54.1413521406",
     "geom:latitude":54.118673,
     "geom:longitude":-0.11627,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.117889,
     "lbl:longitude":-0.116947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Flamborough"
@@ -69,12 +75,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000393"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874175
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e3f8037f15aa22b7e07a10c058c8100c",
+    "wof:geomhash":"029f6b851ba8044867a5a9b62a055182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404451703,
     "wof:label":"Flamborough Civil Parish",
-    "wof:lastmodified":1566633487,
+    "wof:lastmodified":1695877675,
     "wof:name":"Flamborough",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

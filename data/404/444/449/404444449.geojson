@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003202,
-    "geom:area_square_m":23536963.604708,
+    "geom:area_square_m":23536963.604707,
     "geom:bbox":"-0.739568482744,53.5124934434,-0.607326409663,53.54791033",
     "geom:latitude":53.528751,
     "geom:longitude":-0.673648,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.528318,
     "lbl:longitude":-0.672406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Messingham"
@@ -66,12 +72,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000570"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874155
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c3160bd1894819c330a74d11866f5573",
+    "wof:geomhash":"b90d693c433861246270d421ea801a13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404444449,
     "wof:label":"Messingham Civil Parish",
-    "wof:lastmodified":1566632878,
+    "wof:lastmodified":1695877408,
     "wof:name":"Messingham",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

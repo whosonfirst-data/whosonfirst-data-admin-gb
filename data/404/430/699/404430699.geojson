@@ -10,12 +10,18 @@
     "geom:latitude":54.079057,
     "geom:longitude":-2.862766,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.091937,
     "lbl:longitude":-2.867497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0631\u06a9\u0645"
@@ -111,12 +117,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012009"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125770537
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ca34c7c4c0a75a9c762b0f0ce937d325",
+    "wof:geomhash":"3b63a9a9d594c7a231857f3fe5b725a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +138,7 @@
     ],
     "wof:id":404430699,
     "wof:label":"Morecambe Civil Parish",
-    "wof:lastmodified":1566632021,
+    "wof:lastmodified":1695877024,
     "wof:name":"Morecambe",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

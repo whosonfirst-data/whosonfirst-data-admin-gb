@@ -10,12 +10,18 @@
     "geom:latitude":52.162867,
     "geom:longitude":-1.726009,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.164169,
     "lbl:longitude":-1.733054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clifford Chambers and Milcote"
@@ -49,12 +55,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009811"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759717
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ab3dc9d5a7fa4eeafbf94aa832c91d80",
+    "wof:geomhash":"ac388a3675f6e8f193d6695ed99dd096",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404437521,
     "wof:label":"Clifford Chambers and Milcote Civil Parish",
-    "wof:lastmodified":1566632093,
+    "wof:lastmodified":1695877056,
     "wof:name":"Clifford Chambers and Milcote",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016872,
-    "geom:area_square_m":127231660.798762,
+    "geom:area_square_m":127231660.798765,
     "geom:bbox":"-3.77165478992,52.3578926278,-3.51063466031,52.4806326903",
     "geom:latitude":52.421399,
     "geom:longitude":-3.644811,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.418653,
     "lbl:longitude":-3.653704,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangurig Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000311"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126001757
     ],
     "wof:country":"GB",
-    "wof:geomhash":"928ca69aaa99b57142b201a9a95177ff",
+    "wof:geomhash":"e41aa0416d332e9fec6cf73d30a43cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452927,
-    "wof:lastmodified":1566632258,
+    "wof:lastmodified":1695877124,
     "wof:name":"Llangurig Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

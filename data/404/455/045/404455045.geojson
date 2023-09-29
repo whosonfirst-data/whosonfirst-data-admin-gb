@@ -10,12 +10,18 @@
     "geom:latitude":50.965303,
     "geom:longitude":-0.219827,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.966179,
     "lbl:longitude":-0.22201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Twineham"
@@ -54,12 +60,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009998"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903125
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4780950f4fa224f081bc9779702bdfe7",
+    "wof:geomhash":"b66a58f6befb26f836947c0c73b754e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404455045,
     "wof:label":"Twineham Civil Parish",
-    "wof:lastmodified":1566632298,
+    "wof:lastmodified":1695877140,
     "wof:name":"Twineham",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

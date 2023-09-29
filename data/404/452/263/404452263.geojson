@@ -10,12 +10,18 @@
     "geom:latitude":52.971437,
     "geom:longitude":-0.349349,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.969642,
     "lbl:longitude":-0.343433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burton Pedwardine"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005791"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276688257
     ],
     "wof:country":"GB",
-    "wof:geomhash":"253dfc47af68042f5b5e0fe3e2fe1cd2",
+    "wof:geomhash":"78f690e5ca1a54b4f62399ae278068cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452263,
     "wof:label":"Burton Pedwardine Civil Parish",
-    "wof:lastmodified":1566632253,
+    "wof:lastmodified":1695877122,
     "wof:name":"Burton Pedwardine",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

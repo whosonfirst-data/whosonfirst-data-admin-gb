@@ -10,12 +10,18 @@
     "geom:latitude":53.261409,
     "geom:longitude":-1.140906,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.259567,
     "lbl:longitude":-1.140932,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Welbeck"
@@ -51,12 +57,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007848"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125909835
     ],
     "wof:country":"GB",
-    "wof:geomhash":"405e7c10814560a9b5ec7c5d643fa80e",
+    "wof:geomhash":"7e864464cc53fae665c222e521588318",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404431097,
     "wof:label":"Welbeck Civil Parish",
-    "wof:lastmodified":1566632465,
+    "wof:lastmodified":1695877216,
     "wof:name":"Welbeck",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

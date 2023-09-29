@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000911,
-    "geom:area_square_m":6493340.209975,
+    "geom:area_square_m":6493340.209976,
     "geom:bbox":"-1.56466341983,54.774775912,-1.50903715352,54.8060641747",
     "geom:latitude":54.789871,
     "geom:longitude":-1.532881,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.790162,
     "lbl:longitude":-1.530569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0645\u0648\u0646\u062a"
@@ -141,12 +147,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010594"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293029727
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dcd4d52b52c09728d1d877f18bb2bbce",
+    "wof:geomhash":"7de8f3829cce51ca24a42fc3e38f6d13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,7 +168,7 @@
     ],
     "wof:id":404432791,
     "wof:label":"Belmont Civil Parish",
-    "wof:lastmodified":1566633857,
+    "wof:lastmodified":1695877839,
     "wof:name":"Belmont",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

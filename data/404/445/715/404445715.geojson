@@ -10,12 +10,18 @@
     "geom:latitude":52.419361,
     "geom:longitude":-1.197766,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.421105,
     "lbl:longitude":-1.193969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shawell"
@@ -52,12 +58,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005467"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759633
     ],
     "wof:country":"GB",
-    "wof:geomhash":"16179cd756e10e2c0bf96c5b4095b7ef",
+    "wof:geomhash":"e67d32325be2a0dcfd76e479f3b3f3dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404445715,
     "wof:label":"Shawell Civil Parish",
-    "wof:lastmodified":1566633356,
+    "wof:lastmodified":1695877621,
     "wof:name":"Shawell",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

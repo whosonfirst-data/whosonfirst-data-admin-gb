@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001383,
-    "geom:area_square_m":10435908.123009,
+    "geom:area_square_m":10435908.123008,
     "geom:bbox":"-1.74033285563,52.3832824118,-1.67773885387,52.4203568034",
     "geom:latitude":52.404599,
     "geom:longitude":-1.708131,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.407013,
     "lbl:longitude":-1.708726,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barston"
@@ -57,12 +63,15 @@
         1360699057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000146"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343496565
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d3b2787072353d0ed52a92b4d9d94b72",
+    "wof:geomhash":"0e8b10e8d6ae65695c0cce70ed65bd58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404442159,
     "wof:label":"Barston Civil Parish",
-    "wof:lastmodified":1566633198,
+    "wof:lastmodified":1695877549,
     "wof:name":"Barston",
     "wof:parent_id":1360699057,
     "wof:placetype":"localadmin",

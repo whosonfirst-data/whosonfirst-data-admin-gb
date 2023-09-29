@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000666,
-    "geom:area_square_m":4872118.588848,
+    "geom:area_square_m":4872118.588847,
     "geom:bbox":"-1.17508771587,53.7173424977,-1.1276336819,53.7464308563",
     "geom:latitude":53.733385,
     "geom:longitude":-1.152591,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.735147,
     "lbl:longitude":-1.156893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Haddlesey"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007780"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"40c3501f4bcb15ff77bb53f85c1cc92b",
+    "wof:geomhash":"c6cb6d007d857aa1a90b6e549cd2272b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404438995,
     "wof:label":"West Haddlesey Civil Parish",
-    "wof:lastmodified":1566632591,
+    "wof:lastmodified":1695877273,
     "wof:name":"West Haddlesey",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

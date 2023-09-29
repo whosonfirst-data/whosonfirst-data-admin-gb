@@ -10,12 +10,18 @@
     "geom:latitude":50.715693,
     "geom:longitude":-3.03155,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.715107,
     "lbl:longitude":-3.031546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Axanm\u016b\u00f0a"
@@ -69,12 +75,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002938"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976107
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dcd00c2dc6b19e3e2c8fd63d8fb032d4",
+    "wof:geomhash":"ead8911626e42fbc863763517bb633bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404435937,
     "wof:label":"Axmouth Civil Parish",
-    "wof:lastmodified":1566633987,
+    "wof:lastmodified":1695877890,
     "wof:name":"Axmouth",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

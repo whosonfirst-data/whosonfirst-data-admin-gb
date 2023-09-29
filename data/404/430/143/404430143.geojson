@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003734,
-    "geom:area_square_m":28066579.695268,
+    "geom:area_square_m":28066579.695269,
     "geom:bbox":"0.141234640621,52.5195835866,0.230604708604,52.6014819685",
     "geom:latitude":52.559367,
     "geom:longitude":0.183779,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.560324,
     "lbl:longitude":0.180767,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Christchurch"
@@ -306,12 +312,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001665"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126052265
     ],
     "wof:country":"GB",
-    "wof:geomhash":"438d620bde56bd39531a1b3560ca91b5",
+    "wof:geomhash":"086057ae54e50c98138302037680f785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -324,7 +333,7 @@
     ],
     "wof:id":404430143,
     "wof:label":"Christchurch Civil Parish",
-    "wof:lastmodified":1566631985,
+    "wof:lastmodified":1695877010,
     "wof:name":"Christchurch",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006232,
-    "geom:area_square_m":48689539.614258,
+    "geom:area_square_m":48689539.614259,
     "geom:bbox":"-1.68878279711,50.7837925336,-1.52269317067,50.861250622",
     "geom:latitude":50.816585,
     "geom:longitude":-1.608242,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.82665,
     "lbl:longitude":-1.613904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u0627\u06a9\u0646\u200c\u0647\u0631\u0633\u062a"
@@ -72,12 +78,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004560"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852461
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0e4b2b9fe821149ba4d70d325fd70612",
+    "wof:geomhash":"939a1c56b5fbabaf1bc937a51d892bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404430127,
     "wof:label":"Brockenhurst Civil Parish",
-    "wof:lastmodified":1566631983,
+    "wof:lastmodified":1695877009,
     "wof:name":"Brockenhurst",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

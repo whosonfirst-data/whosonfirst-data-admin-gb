@@ -10,12 +10,18 @@
     "geom:latitude":52.334985,
     "geom:longitude":1.213568,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.343894,
     "lbl:longitude":1.205008,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hoxne"
@@ -72,12 +78,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010557"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880055
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e21c154aa67795fa724d301fbfc0bd7f",
+    "wof:geomhash":"f81f0142a10e3243836e4022e246f225",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404448779,
     "wof:label":"Hoxne Civil Parish",
-    "wof:lastmodified":1566631520,
+    "wof:lastmodified":1695876821,
     "wof:name":"Hoxne",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

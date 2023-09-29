@@ -10,12 +10,18 @@
     "geom:latitude":51.332456,
     "geom:longitude":-2.275378,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.332722,
     "lbl:longitude":-2.275376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Westwood"
@@ -115,9 +121,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04011855",
         "gn:id":7299371,
         "qs_pg:id":904188
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125775547
     ],
@@ -125,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"abaf28bd7fdf33bfabecf31cd23518af",
+    "wof:geomhash":"a49f8186ceef39f7da4e67259ba53165",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +146,7 @@
     ],
     "wof:id":404450083,
     "wof:label":"Westwood Civil Parish",
-    "wof:lastmodified":1582311150,
+    "wof:lastmodified":1695877987,
     "wof:name":"Westwood",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

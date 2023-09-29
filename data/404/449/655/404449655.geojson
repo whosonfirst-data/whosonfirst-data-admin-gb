@@ -10,12 +10,18 @@
     "geom:latitude":51.206134,
     "geom:longitude":-0.5687,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.209121,
     "lbl:longitude":-0.566593,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shalford"
@@ -54,12 +60,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009556"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910025
     ],
     "wof:country":"GB",
-    "wof:geomhash":"757b01a808f5c20d383d9baf0e23c22f",
+    "wof:geomhash":"604fcd88c1198b200d8d5c7a7703e7a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404449655,
     "wof:label":"Shalford Civil Parish",
-    "wof:lastmodified":1566631429,
+    "wof:lastmodified":1695876783,
     "wof:name":"Shalford",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001182,
-    "geom:area_square_m":9197041.095163,
+    "geom:area_square_m":9197041.095162,
     "geom:bbox":"-0.954956555367,50.9899482291,-0.899641647536,51.0207080804",
     "geom:latitude":51.004326,
     "geom:longitude":-0.929886,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.005186,
     "lbl:longitude":-0.929363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u06cc\u062a\u0631\u0633\u0641\u06cc\u0644\u062f"
@@ -96,12 +102,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004517"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852463
     ],
     "wof:country":"GB",
-    "wof:geomhash":"854b820c40abc0b19492eaf75cdda32d",
+    "wof:geomhash":"f1f8be8f174b11e81c39a284ed4f840a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404446731,
     "wof:label":"Petersfield Civil Parish",
-    "wof:lastmodified":1566631609,
+    "wof:lastmodified":1695876851,
     "wof:name":"Petersfield",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

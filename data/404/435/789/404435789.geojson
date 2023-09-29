@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000831,
-    "geom:area_square_m":6557406.478665,
+    "geom:area_square_m":6557406.478664,
     "geom:bbox":"-4.81406110205,50.3308345313,-4.7497411717,50.3552856183",
     "geom:latitude":50.341393,
     "geom:longitude":-4.781697,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.341811,
     "lbl:longitude":-4.783892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Austell"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011529"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852369
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a2674713b8d7d8cb5a02c9d48c389005",
+    "wof:geomhash":"bc01a126ff71d9c3b430aaf46e0dc18d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404435789,
     "wof:label":"St. Austell Civil Parish",
-    "wof:lastmodified":1566634084,
+    "wof:lastmodified":1695877943,
     "wof:name":"St. Austell",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

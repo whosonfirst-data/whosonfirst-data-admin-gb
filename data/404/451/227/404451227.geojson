@@ -10,12 +10,18 @@
     "geom:latitude":52.863065,
     "geom:longitude":1.290416,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.864913,
     "lbl:longitude":1.283463,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hanworth"
@@ -57,12 +63,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006421"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125787727
     ],
     "wof:country":"GB",
-    "wof:geomhash":"782dd55e3f603fd5c6462b38cb80ae8c",
+    "wof:geomhash":"950d1630ddf84284f4905745e5d6245a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404451227,
     "wof:label":"Hanworth Civil Parish",
-    "wof:lastmodified":1566633434,
+    "wof:lastmodified":1695877653,
     "wof:name":"Hanworth",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

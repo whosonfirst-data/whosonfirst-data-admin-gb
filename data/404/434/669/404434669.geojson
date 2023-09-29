@@ -10,12 +10,18 @@
     "geom:latitude":51.849813,
     "geom:longitude":-1.592896,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.851272,
     "lbl:longitude":-1.593351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shipton-Under-Wychwood"
@@ -42,12 +48,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008322"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852927
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0d5269a94149f1bc9593e51cc8a8e2ff",
+    "wof:geomhash":"9b195dd3508c93aeccf5f41826af603d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404434669,
     "wof:label":"Shipton-Under-Wychwood Civil Parish",
-    "wof:lastmodified":1566633564,
+    "wof:lastmodified":1695877715,
     "wof:name":"Shipton-Under-Wychwood",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

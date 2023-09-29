@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001136,
-    "geom:area_square_m":8482254.689482,
+    "geom:area_square_m":8482254.689481,
     "geom:bbox":"0.789693323333,52.8300256419,0.842183495481,52.8660575997",
     "geom:latitude":52.846558,
     "geom:longitude":0.816035,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.844263,
     "lbl:longitude":0.81865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sculthorpe"
@@ -45,12 +51,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006466"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998495
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d9e2057b7340fb29b16161b5d4ab04d5",
+    "wof:geomhash":"4cb361c6bf74dbbfa1b54f282258f6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404431575,
     "wof:label":"Sculthorpe Civil Parish",
-    "wof:lastmodified":1566632474,
+    "wof:lastmodified":1695877220,
     "wof:name":"Sculthorpe",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.777722,
     "geom:longitude":-1.788775,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.773072,
     "lbl:longitude":-1.794698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yoxall"
@@ -60,12 +66,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008907"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853649
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dfee391d0cab0f2647b795efcebd8522",
+    "wof:geomhash":"6bf27ccdb9047ff8073b8e85be7f8bba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404437681,
     "wof:label":"Yoxall Civil Parish",
-    "wof:lastmodified":1566632064,
+    "wof:lastmodified":1695877042,
     "wof:name":"Yoxall",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

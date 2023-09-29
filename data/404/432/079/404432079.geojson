@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001274,
-    "geom:area_square_m":9624784.867927,
+    "geom:area_square_m":9624784.867928,
     "geom:bbox":"-0.0506291769632,52.328169972,0.0225269942338,52.3641852702",
     "geom:latitude":52.348386,
     "geom:longitude":-0.00842,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.349386,
     "lbl:longitude":-0.005936,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0648\u0646\u062a\u064a\u0634\u0645"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001677"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126012649
     ],
     "wof:country":"GB",
-    "wof:geomhash":"37dbe7790eb46a415b37f795889b3574",
+    "wof:geomhash":"20855f6de2616fdade33e52b628cdd2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404432079,
     "wof:label":"Bluntisham Civil Parish",
-    "wof:lastmodified":1566633866,
+    "wof:lastmodified":1695877843,
     "wof:name":"Bluntisham",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.474166,
     "geom:longitude":0.593223,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.469259,
     "lbl:longitude":0.593626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Mary Hoo"
@@ -42,12 +48,15 @@
         1360699105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001138"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126046517
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e5af72e08f52c3f35d869922fa3f00e9",
+    "wof:geomhash":"e65eaca4aa093a77f8834131f4644482",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404445847,
     "wof:label":"St. Mary Hoo Civil Parish",
-    "wof:lastmodified":1566633387,
+    "wof:lastmodified":1695877633,
     "wof:name":"St. Mary Hoo",
     "wof:parent_id":1360699105,
     "wof:placetype":"localadmin",

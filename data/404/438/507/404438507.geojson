@@ -10,12 +10,18 @@
     "geom:latitude":53.029689,
     "geom:longitude":-1.33998,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.033478,
     "lbl:longitude":-1.344392,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aldercar and Langley Mill"
@@ -52,12 +58,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002663"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754347
     ],
     "wof:country":"GB",
-    "wof:geomhash":"09d02ef8f77fbbd045166c3a7803f57a",
+    "wof:geomhash":"e731f895b05cbadbddc9f2afdb485169",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404438507,
     "wof:label":"Aldercar and Langley Mill Civil Parish",
-    "wof:lastmodified":1566632596,
+    "wof:lastmodified":1695877275,
     "wof:name":"Aldercar and Langley Mill",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

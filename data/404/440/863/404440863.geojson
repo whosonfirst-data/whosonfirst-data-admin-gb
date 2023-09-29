@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":3820557.251345,
+    "geom:area_square_m":3820557.251344,
     "geom:bbox":"-3.99216216912,51.6420779742,-3.95085231037,51.6650433372",
     "geom:latitude":51.652969,
     "geom:longitude":-3.967341,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.651767,
     "lbl:longitude":-3.965608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penderry Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000973"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711789
     ],
     "wof:country":"GB",
-    "wof:geomhash":"df0893a2d1d4ef83db076647094f7055",
+    "wof:geomhash":"10638d030c9b1f2cf26bbcd56d04854e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440863,
-    "wof:lastmodified":1566631220,
+    "wof:lastmodified":1695878258,
     "wof:name":"Penderry Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

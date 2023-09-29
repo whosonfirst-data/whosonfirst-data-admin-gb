@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003277,
-    "geom:area_square_m":24373615.230556,
+    "geom:area_square_m":24373615.230555,
     "geom:bbox":"-3.33662118878,52.9948121986,-3.21172289628,53.0476670997",
     "geom:latitude":53.019404,
     "geom:longitude":-3.267163,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.019132,
     "lbl:longitude":-3.262003,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bryneglwys Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000144"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125799935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4dcea75a1065d91ba608a6a89996b17d",
+    "wof:geomhash":"f58b6e027a3c23694eedf9e8c9b1bfa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435451,
-    "wof:lastmodified":1566634065,
+    "wof:lastmodified":1695877932,
     "wof:name":"Bryneglwys Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

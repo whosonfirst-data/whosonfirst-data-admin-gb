@@ -10,12 +10,18 @@
     "geom:latitude":51.400048,
     "geom:longitude":-2.87918,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.400334,
     "lbl:longitude":-2.87971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kingston Seymour"
@@ -63,12 +69,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001019"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cc7304af7caa990ad9ed008da5ac2f29",
+    "wof:geomhash":"7021b69f7a7f3ea0c0e3f20c278d4814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430719,
     "wof:label":"Kingston Seymour Civil Parish",
-    "wof:lastmodified":1566632037,
+    "wof:lastmodified":1695877032,
     "wof:name":"Kingston Seymour",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00104,
-    "geom:area_square_m":8030326.032765,
+    "geom:area_square_m":8030326.032766,
     "geom:bbox":"-2.66737392839,51.329827061,-2.61581203137,51.3713803576",
     "geom:latitude":51.349002,
     "geom:longitude":-2.639737,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.351322,
     "lbl:longitude":-2.637598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chew Stoke"
@@ -66,12 +72,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000958"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125937831
     ],
     "wof:country":"GB",
-    "wof:geomhash":"daf9e735f49771d04d39d729698962ef",
+    "wof:geomhash":"c49ecf4712f58b2d5ecbbe9402aac92e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404431343,
     "wof:label":"Chew Stoke Civil Parish",
-    "wof:lastmodified":1566632535,
+    "wof:lastmodified":1695877248,
     "wof:name":"Chew Stoke",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

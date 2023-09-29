@@ -10,12 +10,18 @@
     "geom:latitude":53.486625,
     "geom:longitude":-0.735526,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.489007,
     "lbl:longitude":-0.742469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Ferry"
@@ -57,12 +63,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005981"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293030179
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8b74124c24658ec19536386dbf8dd1dd",
+    "wof:geomhash":"e801af5e51c707c6aa853706c1d2ac02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404433775,
     "wof:label":"East Ferry Civil Parish",
-    "wof:lastmodified":1566633731,
+    "wof:lastmodified":1695877789,
     "wof:name":"East Ferry",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

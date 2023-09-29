@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003106,
-    "geom:area_square_m":23709604.350858,
+    "geom:area_square_m":23709604.350857,
     "geom:bbox":"-0.036436700848,51.84814829,0.0612532113963,51.9007734548",
     "geom:latitude":51.874189,
     "geom:longitude":0.016087,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.871396,
     "lbl:longitude":0.020047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Standon"
@@ -57,12 +63,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004747"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125876705
     ],
     "wof:country":"GB",
-    "wof:geomhash":"33ffef4ca6fb46cf941144c1e08bbad3",
+    "wof:geomhash":"e1e4ec9f333853f830d8f5f4d0bd8442",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404444735,
     "wof:label":"Standon Civil Parish",
-    "wof:lastmodified":1566632934,
+    "wof:lastmodified":1695877428,
     "wof:name":"Standon",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.848038,
     "geom:longitude":-0.176677,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.849003,
     "lbl:longitude":-0.175896,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Wolmer green"
@@ -66,12 +72,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004823"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126047107
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ed04360d7c6980c904ad997d44e739b6",
+    "wof:geomhash":"f97d09a3035e47e09da273c326e19fee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404449887,
     "wof:label":"Woolmer Green Civil Parish",
-    "wof:lastmodified":1566631368,
+    "wof:lastmodified":1695878324,
     "wof:name":"Woolmer Green",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

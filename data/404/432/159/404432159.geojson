@@ -10,12 +10,18 @@
     "geom:latitude":51.668851,
     "geom:longitude":-3.370133,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.667946,
     "lbl:longitude":-3.369116,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penrhiwceiber Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000694"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125952139
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d70118dcafadc7f1e2d76accfe027318",
+    "wof:geomhash":"c63e4a71ba783188224e910e2f46e906",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404432159,
-    "wof:lastmodified":1566633855,
+    "wof:lastmodified":1695877838,
     "wof:name":"Penrhiwceiber Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

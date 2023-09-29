@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002618,
-    "geom:area_square_m":20002979.773064,
+    "geom:area_square_m":20002979.773063,
     "geom:bbox":"-4.99019737915,51.8131720432,-4.90343171589,51.8639184582",
     "geom:latitude":51.840193,
     "geom:longitude":-4.951053,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.837396,
     "lbl:longitude":-4.951874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rudbaxton Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000952"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242706705
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f9882f29957292bacf97e8032c35373e",
+    "wof:geomhash":"ccfbffd4316becffc806369b9ef250b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430063,
-    "wof:lastmodified":1566631972,
+    "wof:lastmodified":1695877005,
     "wof:name":"Rudbaxton Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

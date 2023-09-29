@@ -10,12 +10,18 @@
     "geom:latitude":55.487917,
     "geom:longitude":-2.019072,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.488929,
     "lbl:longitude":-2.014283,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ilderton"
@@ -48,12 +54,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010812"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344085843
     ],
     "wof:country":"GB",
-    "wof:geomhash":"abe84abc6f838138de3102668dccc508",
+    "wof:geomhash":"ffccf9a4866ddd9de67a405595c6fdf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404434127,
     "wof:label":"Ilderton Civil Parish",
-    "wof:lastmodified":1566633577,
+    "wof:lastmodified":1695877721,
     "wof:name":"Ilderton",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

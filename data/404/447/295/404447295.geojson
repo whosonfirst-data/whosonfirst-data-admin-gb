@@ -10,12 +10,18 @@
     "geom:latitude":53.159546,
     "geom:longitude":-1.374999,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.161692,
     "lbl:longitude":-1.374642,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pilsley"
@@ -54,12 +60,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002876"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125917193
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f7a637dad0d9314d8db2cd4348cae0e6",
+    "wof:geomhash":"e08b053d1448591eb950edb83926c90e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447295,
     "wof:label":"Pilsley Civil Parish",
-    "wof:lastmodified":1566631267,
+    "wof:lastmodified":1695878279,
     "wof:name":"Pilsley",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

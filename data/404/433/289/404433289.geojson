@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001101,
-    "geom:area_square_m":8284816.965181,
+    "geom:area_square_m":8284816.965182,
     "geom:bbox":"0.625856822763,52.4853587826,0.672091140018,52.5197774795",
     "geom:latitude":52.504075,
     "geom:longitude":0.650507,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.502531,
     "lbl:longitude":0.650939,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mundford"
@@ -69,12 +75,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006147"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125891863
     ],
     "wof:country":"GB",
-    "wof:geomhash":"491ddb0025b2f7b28df52915045f8d9c",
+    "wof:geomhash":"4cf352c3c43790940a010bb8fc4c1d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404433289,
     "wof:label":"Mundford Civil Parish",
-    "wof:lastmodified":1566633655,
+    "wof:lastmodified":1695877754,
     "wof:name":"Mundford",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

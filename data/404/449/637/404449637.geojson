@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001204,
-    "geom:area_square_m":9159379.366183,
+    "geom:area_square_m":9159379.366184,
     "geom:bbox":"-1.93419472334,52.0063961364,-1.8622593425,52.0444123403",
     "geom:latitude":52.024606,
     "geom:longitude":-1.900423,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.026393,
     "lbl:longitude":-1.900965,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u06a9\u0644\u0646\u062f"
@@ -99,12 +105,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004394"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126048101
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ef5e5fce4141d699bed8b77cd4d6bf76",
+    "wof:geomhash":"5fc677b330252714c52dc066ab7adfd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404449637,
     "wof:label":"Buckland Civil Parish",
-    "wof:lastmodified":1566631434,
+    "wof:lastmodified":1695876786,
     "wof:name":"Buckland",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

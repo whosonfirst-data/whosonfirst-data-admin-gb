@@ -10,12 +10,18 @@
     "geom:latitude":53.01527,
     "geom:longitude":-2.517451,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.01545,
     "lbl:longitude":-2.519444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coole Pilate"
@@ -57,12 +63,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010932"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126027335
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24a39b4556d1b4039742b8cdaf7a1d6a",
+    "wof:geomhash":"34f87f6e4891f39c988dd9070f1215bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446723,
     "wof:label":"Coole Pilate Civil Parish",
-    "wof:lastmodified":1566631648,
+    "wof:lastmodified":1695876867,
     "wof:name":"Coole Pilate",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

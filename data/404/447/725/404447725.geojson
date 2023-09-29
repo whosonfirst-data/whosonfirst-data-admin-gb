@@ -10,12 +10,18 @@
     "geom:latitude":54.854775,
     "geom:longitude":-1.397329,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.855949,
     "lbl:longitude":-1.394587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burdon"
@@ -60,12 +66,15 @@
         1360698987
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000139"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125894399
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3c1626fd45f2bca3f499a5bfb7be856f",
+    "wof:geomhash":"99888486c56c2e4877dd83805370025f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404447725,
     "wof:label":"Burdon Civil Parish",
-    "wof:lastmodified":1566631278,
+    "wof:lastmodified":1695878285,
     "wof:name":"Burdon",
     "wof:parent_id":1360698987,
     "wof:placetype":"localadmin",

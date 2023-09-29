@@ -10,12 +10,18 @@
     "geom:latitude":50.8496,
     "geom:longitude":-2.482975,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.864591,
     "lbl:longitude":-2.477465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Minterne Magna"
@@ -66,12 +72,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003568"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126055003
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bb44ba70836d131121b55bb14bdbb0a2",
+    "wof:geomhash":"5d25f5f9e044fe13331a143b53743ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404430033,
     "wof:label":"Minterne Magna Civil Parish",
-    "wof:lastmodified":1566632027,
+    "wof:lastmodified":1695877026,
     "wof:name":"Minterne Magna",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

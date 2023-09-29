@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001079,
-    "geom:area_square_m":7981032.992856,
+    "geom:area_square_m":7981032.992857,
     "geom:bbox":"-2.60741736545,53.2336818523,-2.54263625097,53.2729909978",
     "geom:latitude":53.257313,
     "geom:longitude":-2.580004,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.259969,
     "lbl:longitude":-2.579521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Weaverham"
@@ -60,12 +66,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011185"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871953
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fb089c251e5852ce3b92f317bc67c757",
+    "wof:geomhash":"b7ba643b7bde3fb90904bfcc096dbca5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404429601,
     "wof:label":"Weaverham Civil Parish",
-    "wof:lastmodified":1566633173,
+    "wof:lastmodified":1695877536,
     "wof:name":"Weaverham",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

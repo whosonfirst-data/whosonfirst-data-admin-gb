@@ -10,12 +10,18 @@
     "geom:latitude":52.19722,
     "geom:longitude":1.503,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.200303,
     "lbl:longitude":1.502707,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sternfield"
@@ -55,12 +61,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009456"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756403
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8a14b39b9631b2b12b49851ee90d7710",
+    "wof:geomhash":"8f965d6505622b2199738a550dd3c871",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404440675,
     "wof:label":"Sternfield Civil Parish",
-    "wof:lastmodified":1566631138,
+    "wof:lastmodified":1695878220,
     "wof:name":"Sternfield",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

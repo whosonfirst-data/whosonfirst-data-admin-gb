@@ -10,12 +10,18 @@
     "geom:latitude":54.629729,
     "geom:longitude":-2.772115,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.62871,
     "lbl:longitude":-2.770147,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sockbridge and Tirril"
@@ -55,12 +61,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002572"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759101
     ],
     "wof:country":"GB",
-    "wof:geomhash":"980030bf1dd996a25ebd2738402419fc",
+    "wof:geomhash":"8f1edeb24a43cea2685ce766b63deef7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404444929,
     "wof:label":"Sockbridge and Tirril Civil Parish",
-    "wof:lastmodified":1566632972,
+    "wof:lastmodified":1695877444,
     "wof:name":"Sockbridge and Tirril",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

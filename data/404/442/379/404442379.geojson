@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009167,
-    "geom:area_square_m":65822723.926481,
+    "geom:area_square_m":65822723.926482,
     "geom:bbox":"-2.17448949588,54.4554859642,-1.93241662458,54.5372322691",
     "geom:latitude":54.502693,
     "geom:longitude":-2.083623,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.496864,
     "lbl:longitude":-2.103792,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Bowes"
@@ -72,12 +78,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010600"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125897253
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2aee143691f269acd099512fef200539",
+    "wof:geomhash":"c0c69fff54a2fdc94a12c28c65b90132",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404442379,
     "wof:label":"Bowes Civil Parish",
-    "wof:lastmodified":1566633235,
+    "wof:lastmodified":1695877566,
     "wof:name":"Bowes",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

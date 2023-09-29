@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002442,
-    "geom:area_square_m":18724093.738547,
+    "geom:area_square_m":18724093.738546,
     "geom:bbox":"-0.794473804529,51.6453878719,-0.705577901558,51.6960657066",
     "geom:latitude":51.670218,
     "geom:longitude":-0.75459,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.672004,
     "lbl:longitude":-0.758283,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hughenden"
@@ -54,12 +60,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001604"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880135
     ],
     "wof:country":"GB",
-    "wof:geomhash":"426733dc8d0a0e3fd98ec9732cd03872",
+    "wof:geomhash":"ebed3690648261787d0191b9503507cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404453719,
     "wof:label":"Hughenden Civil Parish",
-    "wof:lastmodified":1566632849,
+    "wof:lastmodified":1695877395,
     "wof:name":"Hughenden",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

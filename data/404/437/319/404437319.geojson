@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00341,
-    "geom:area_square_m":25188374.32814,
+    "geom:area_square_m":25188374.328142,
     "geom:bbox":"-3.88176455524,53.2882433009,-3.75410281994,53.3431344798",
     "geom:latitude":53.316106,
     "geom:longitude":-3.82012,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.320792,
     "lbl:longitude":-3.84041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llandudno Community"
@@ -40,12 +46,15 @@
         1360698739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000903"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242813209
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b94e7175847fa00235431e59e382dab9",
+    "wof:geomhash":"cb16de3c71689cda72148364366df695",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437319,
-    "wof:lastmodified":1566632158,
+    "wof:lastmodified":1695877082,
     "wof:name":"Llandudno Community",
     "wof:parent_id":1360698739,
     "wof:placetype":"localadmin",

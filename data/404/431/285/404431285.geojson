@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001841,
-    "geom:area_square_m":13713734.668744,
+    "geom:area_square_m":13713734.668745,
     "geom:bbox":"0.561374840874,52.9237181477,0.605795354691,52.9839106792",
     "geom:latitude":52.958177,
     "geom:longitude":0.584517,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.958041,
     "lbl:longitude":0.584094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thornham"
@@ -48,12 +54,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006361"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125772289
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b93c6bb238f192f7b581840b97614d78",
+    "wof:geomhash":"9c0cb27bd40796e600fb235ec32710f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404431285,
     "wof:label":"Thornham Civil Parish",
-    "wof:lastmodified":1566632505,
+    "wof:lastmodified":1695877234,
     "wof:name":"Thornham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

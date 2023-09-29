@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008959,
-    "geom:area_square_m":64784273.316014,
+    "geom:area_square_m":64784273.316013,
     "geom:bbox":"-2.28447004277,54.1715518533,-2.05932162079,54.2521745197",
     "geom:latitude":54.212764,
     "geom:longitude":-2.16596,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.210144,
     "lbl:longitude":-2.156603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buckden"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007066"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209444265
     ],
     "wof:country":"GB",
-    "wof:geomhash":"39c882d40bc1c162fa0b52190031fa36",
+    "wof:geomhash":"d9236367c7ea6c24f25b16e142e9ecc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404452671,
     "wof:label":"Buckden Civil Parish",
-    "wof:lastmodified":1566632234,
+    "wof:lastmodified":1695877114,
     "wof:name":"Buckden",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

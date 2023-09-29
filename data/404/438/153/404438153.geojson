@@ -10,12 +10,18 @@
     "geom:latitude":51.585707,
     "geom:longitude":-1.104011,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.587691,
     "lbl:longitude":-1.104581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Crowmarsh"
@@ -52,12 +58,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008118"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753811
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e84b60a1ed9c6a8abf8ec6df16ebd166",
+    "wof:geomhash":"95762c9124813379534924518952f77e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404438153,
     "wof:label":"Crowmarsh Civil Parish",
-    "wof:lastmodified":1566632589,
+    "wof:lastmodified":1695877272,
     "wof:name":"Crowmarsh",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

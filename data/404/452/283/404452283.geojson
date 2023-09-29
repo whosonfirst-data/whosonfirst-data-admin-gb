@@ -10,12 +10,18 @@
     "geom:latitude":52.397197,
     "geom:longitude":0.000339,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.399423,
     "lbl:longitude":0.012574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0645\u0631\u0634\u0645"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012038"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853591
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b35266250c1388daf7f9d1c0d9117792",
+    "wof:geomhash":"182de1bae5952331ef838ef1395d984c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404452283,
     "wof:label":"Somersham Civil Parish",
-    "wof:lastmodified":1566632230,
+    "wof:lastmodified":1695877112,
     "wof:name":"Somersham",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

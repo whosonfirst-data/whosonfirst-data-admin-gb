@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0041,
-    "geom:area_square_m":31064729.754637,
+    "geom:area_square_m":31064729.754636,
     "geom:bbox":"-2.96970862986,52.1675556597,-2.87363001689,52.255432127",
     "geom:latitude":52.209953,
     "geom:longitude":-2.920177,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.208329,
     "lbl:longitude":-2.9209,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pembridge"
@@ -60,12 +66,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000848"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125769253
     ],
     "wof:country":"GB",
-    "wof:geomhash":"88a7c0706e3b730ef4b09505298a4ef9",
+    "wof:geomhash":"2bee8fcfc0f0dfe6915264714628b9eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404447189,
     "wof:label":"Pembridge Civil Parish",
-    "wof:lastmodified":1566631281,
+    "wof:lastmodified":1695878286,
     "wof:name":"Pembridge",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

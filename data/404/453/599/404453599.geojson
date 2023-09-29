@@ -10,12 +10,18 @@
     "geom:latitude":52.240319,
     "geom:longitude":-4.258053,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.240384,
     "lbl:longitude":-4.258244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aberaeron Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000357"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125985395
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2c5e0109a7e10208e46ee3422d095c2d",
+    "wof:geomhash":"2ad89aa12f0701fb61fb1c7ef9dadb77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453599,
-    "wof:lastmodified":1566632809,
+    "wof:lastmodified":1695877378,
     "wof:name":"Aberaeron Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

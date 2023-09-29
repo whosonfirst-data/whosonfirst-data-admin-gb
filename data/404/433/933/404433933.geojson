@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003903,
-    "geom:area_square_m":29432200.037563,
+    "geom:area_square_m":29432200.037562,
     "geom:bbox":"0.668479216677,52.3921749096,0.777539548115,52.466535325",
     "geom:latitude":52.421408,
     "geom:longitude":0.721797,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.419763,
     "lbl:longitude":0.722615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Thetford"
@@ -108,12 +114,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006182"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854951
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fe02387822c84a756e1190ed2598563c",
+    "wof:geomhash":"441ead463f8e01fa6c39a16f3fa02238",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +135,7 @@
     ],
     "wof:id":404433933,
     "wof:label":"Thetford Civil Parish",
-    "wof:lastmodified":1566633702,
+    "wof:lastmodified":1695877776,
     "wof:name":"Thetford",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

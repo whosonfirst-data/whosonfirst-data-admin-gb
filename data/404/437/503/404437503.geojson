@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001336,
-    "geom:area_square_m":10201503.930346,
+    "geom:area_square_m":10201503.930345,
     "geom:bbox":"-0.272740236219,51.8331805216,-0.196418460577,51.8714536894",
     "geom:latitude":51.852251,
     "geom:longitude":-0.232508,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.853236,
     "lbl:longitude":-0.235109,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Codicote"
@@ -54,12 +60,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004773"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126051901
     ],
     "wof:country":"GB",
-    "wof:geomhash":"827341999888be17f9773ffa037a9887",
+    "wof:geomhash":"4d8626a2fd2aface7ddba3587146a8f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404437503,
     "wof:label":"Codicote Civil Parish",
-    "wof:lastmodified":1566632061,
+    "wof:lastmodified":1695877041,
     "wof:name":"Codicote",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.268374,
     "geom:longitude":-1.644334,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.271752,
     "lbl:longitude":-1.642555,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thornton Watlass"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007284"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782251
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f238a7c6b0798e05840d4d6b2247a630",
+    "wof:geomhash":"42d90c97d88306bb6d73f3f46703ece4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429953,
     "wof:label":"Thornton Watlass Civil Parish",
-    "wof:lastmodified":1566633097,
+    "wof:lastmodified":1695877503,
     "wof:name":"Thornton Watlass",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

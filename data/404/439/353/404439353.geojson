@@ -10,12 +10,18 @@
     "geom:latitude":53.012465,
     "geom:longitude":-0.815361,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.011964,
     "lbl:longitude":-0.817028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cotham"
@@ -45,12 +51,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007893"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260315707
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cc0c0b4cf86bd75772cbf98dacac8057",
+    "wof:geomhash":"fe26018ae0151d9a11a94d0833fe819e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404439353,
     "wof:label":"Cotham Civil Parish",
-    "wof:lastmodified":1566631835,
+    "wof:lastmodified":1695876942,
     "wof:name":"Cotham",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

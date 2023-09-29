@@ -10,12 +10,18 @@
     "geom:latitude":52.15858,
     "geom:longitude":-0.890733,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.155377,
     "lbl:longitude":-0.893028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Roade"
@@ -63,12 +69,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006852"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853057
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8caaefb9cf246c2bda63e076bd714f95",
+    "wof:geomhash":"6d4509576046ac4860e783c9b894f848",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404441245,
     "wof:label":"Roade Civil Parish",
-    "wof:lastmodified":1566631734,
+    "wof:lastmodified":1695876898,
     "wof:name":"Roade",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

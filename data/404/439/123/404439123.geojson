@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001729,
-    "geom:area_square_m":12926618.079909,
+    "geom:area_square_m":12926618.079908,
     "geom:bbox":"-2.37767254078,52.7873109897,-2.28286951874,52.8240950032",
     "geom:latitude":52.806597,
     "geom:longitude":-2.321982,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.807058,
     "lbl:longitude":-2.32128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Norbury"
@@ -54,12 +60,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009007"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929263
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5179f80df432259489b6670b0bd51f67",
+    "wof:geomhash":"a3d8deee16d068efc2c75efa15a428ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404439123,
     "wof:label":"Norbury Civil Parish",
-    "wof:lastmodified":1566631921,
+    "wof:lastmodified":1695876984,
     "wof:name":"Norbury",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.158481,
     "geom:longitude":-5.414986,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.157688,
     "lbl:longitude":-5.407429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Erth"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011545"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126029975
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f83efea0fdf0abea3c3440edd2a59fe4",
+    "wof:geomhash":"01c33e4ab76abfecd2ef368ca76de84d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404444631,
     "wof:label":"St. Erth Civil Parish",
-    "wof:lastmodified":1566632968,
+    "wof:lastmodified":1695877443,
     "wof:name":"St. Erth",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

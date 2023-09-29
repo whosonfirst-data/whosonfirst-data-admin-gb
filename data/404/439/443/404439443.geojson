@@ -10,12 +10,18 @@
     "geom:latitude":52.086283,
     "geom:longitude":-1.128626,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.086712,
     "lbl:longitude":-1.136168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Helmdon"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006833"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868085
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ae8a42d2244832d30498179e27484da8",
+    "wof:geomhash":"2eed292af09d8cfd5d4f8a687d5646ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404439443,
     "wof:label":"Helmdon Civil Parish",
-    "wof:lastmodified":1566631899,
+    "wof:lastmodified":1695876973,
     "wof:name":"Helmdon",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

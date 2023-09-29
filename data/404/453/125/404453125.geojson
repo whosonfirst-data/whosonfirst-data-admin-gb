@@ -10,12 +10,18 @@
     "geom:latitude":52.941287,
     "geom:longitude":-1.308162,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.942579,
     "lbl:longitude":-1.308153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanton By Dale"
@@ -42,12 +48,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002836"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125845761
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b6fcd321dc6c31e81c0e5c7a562ad0f2",
+    "wof:geomhash":"25ef54083af3ec90ff7608f7aa77dbcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404453125,
     "wof:label":"Stanton By Dale Civil Parish",
-    "wof:lastmodified":1566632855,
+    "wof:lastmodified":1695877397,
     "wof:name":"Stanton By Dale",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

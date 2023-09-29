@@ -10,12 +10,18 @@
     "geom:latitude":52.528026,
     "geom:longitude":-1.092049,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.529089,
     "lbl:longitude":-1.092441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arnesby"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005400"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125914231
     ],
     "wof:country":"GB",
-    "wof:geomhash":"875a28342a3d7817606e565bdfb679ae",
+    "wof:geomhash":"b44c987575378f9190ea38e92fe65e5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404434371,
     "wof:label":"Arnesby Civil Parish",
-    "wof:lastmodified":1566633578,
+    "wof:lastmodified":1695877722,
     "wof:name":"Arnesby",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

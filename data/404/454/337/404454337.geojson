@@ -10,12 +10,18 @@
     "geom:latitude":51.213581,
     "geom:longitude":-0.721664,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.212925,
     "lbl:longitude":-0.721664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seale and Sands"
@@ -49,12 +55,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009553"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753433
     ],
     "wof:country":"GB",
-    "wof:geomhash":"20e244721d1d2e59d0f25e1be9f0fc47",
+    "wof:geomhash":"d518df89abfb3e3efac5600ec362b023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404454337,
     "wof:label":"Seale and Sands Civil Parish",
-    "wof:lastmodified":1566632649,
+    "wof:lastmodified":1695877300,
     "wof:name":"Seale and Sands",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00373,
-    "geom:area_square_m":29227750.372644,
+    "geom:area_square_m":29227750.372646,
     "geom:bbox":"-3.46535646265,50.6464242451,-3.35638885065,50.7053908732",
     "geom:latitude":50.675107,
     "geom:longitude":-3.405868,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.676822,
     "lbl:longitude":-3.405038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Woodbury"
@@ -87,12 +93,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003000"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125804221
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0c4bcea7a3bce4bb70afdffce8e0b4b0",
+    "wof:geomhash":"309517aacef9d70bbb61689764deaabc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404454877,
     "wof:label":"Woodbury Civil Parish",
-    "wof:lastmodified":1566632710,
+    "wof:lastmodified":1695877332,
     "wof:name":"Woodbury",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

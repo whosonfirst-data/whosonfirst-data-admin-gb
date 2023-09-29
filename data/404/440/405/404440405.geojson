@@ -10,12 +10,18 @@
     "geom:latitude":52.242682,
     "geom:longitude":-0.987428,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.243585,
     "lbl:longitude":-0.986943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Harpole"
@@ -60,12 +66,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006831"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125975419
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ba8c37e5f91bbbc7dc6a9cca0833c544",
+    "wof:geomhash":"f6bd1ab2e5272fb6e7797174189a94a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440405,
     "wof:label":"Harpole Civil Parish",
-    "wof:lastmodified":1566631209,
+    "wof:lastmodified":1695878254,
     "wof:name":"Harpole",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

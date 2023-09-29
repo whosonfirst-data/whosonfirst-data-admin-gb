@@ -10,12 +10,18 @@
     "geom:latitude":52.859076,
     "geom:longitude":0.559132,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.860236,
     "lbl:longitude":0.558554,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shernborne"
@@ -57,12 +63,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006347"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125991645
     ],
     "wof:country":"GB",
-    "wof:geomhash":"02c5c1be1ded44233f88a4323ee8fb23",
+    "wof:geomhash":"0ba0e9137ba04bde0871c7f4e9072c99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404442879,
     "wof:label":"Shernborne Civil Parish",
-    "wof:lastmodified":1566633266,
+    "wof:lastmodified":1695877580,
     "wof:name":"Shernborne",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

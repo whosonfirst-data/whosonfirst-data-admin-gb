@@ -10,12 +10,18 @@
     "geom:latitude":53.211787,
     "geom:longitude":-2.852966,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.212157,
     "lbl:longitude":-2.852759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hoole Village"
@@ -46,12 +52,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011114"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759427
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cde95020f5ad74fdac9e221ce85903b0",
+    "wof:geomhash":"c25ff42a8a7c11a84bed8265d6fe9a40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404453663,
     "wof:label":"Hoole Village Civil Parish",
-    "wof:lastmodified":1566632834,
+    "wof:lastmodified":1695877388,
     "wof:name":"Hoole Village",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

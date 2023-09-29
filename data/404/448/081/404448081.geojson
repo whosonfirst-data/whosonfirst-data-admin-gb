@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001363,
-    "geom:area_square_m":10139400.527181,
+    "geom:area_square_m":10139400.527182,
     "geom:bbox":"-1.45320746131,53.0003130304,-1.37607649291,53.0329183762",
     "geom:latitude":53.019751,
     "geom:longitude":-1.411495,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.019442,
     "lbl:longitude":-1.407727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Denby"
@@ -63,12 +69,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002670"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293229851
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eea1f7da6b7b5868f4a5b13952be4982",
+    "wof:geomhash":"42106c6dd63b7b90b2b9416549cee8f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404448081,
     "wof:label":"Denby Civil Parish",
-    "wof:lastmodified":1566631543,
+    "wof:lastmodified":1695876833,
     "wof:name":"Denby",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

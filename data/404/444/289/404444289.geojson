@@ -10,12 +10,18 @@
     "geom:latitude":50.760118,
     "geom:longitude":-2.60072,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.759519,
     "lbl:longitude":-2.598339,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wynford Eagle"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003628"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126047689
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b14d54261d3501a89e3f21205c6865f8",
+    "wof:geomhash":"fdb478920f3966233af83375bde79e99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444289,
     "wof:label":"Wynford Eagle Civil Parish",
-    "wof:lastmodified":1566632887,
+    "wof:lastmodified":1695877409,
     "wof:name":"Wynford Eagle",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

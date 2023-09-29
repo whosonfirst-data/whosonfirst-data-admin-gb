@@ -10,12 +10,18 @@
     "geom:latitude":52.732261,
     "geom:longitude":-2.516734,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.731408,
     "lbl:longitude":-2.517173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eyton Upon the Weald Moors"
@@ -45,12 +51,15 @@
         1360698911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000928"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260322261
     ],
     "wof:country":"GB",
-    "wof:geomhash":"005ca7e27a0c76ee47c34d276eea94c1",
+    "wof:geomhash":"df90405488f5d4807e4a45126583b1ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404431787,
     "wof:label":"Eyton Upon the Weald Moors Civil Parish",
-    "wof:lastmodified":1566632530,
+    "wof:lastmodified":1695877246,
     "wof:name":"Eyton Upon the Weald Moors",
     "wof:parent_id":1360698911,
     "wof:placetype":"localadmin",

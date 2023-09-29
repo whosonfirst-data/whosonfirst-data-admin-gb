@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00098,
-    "geom:area_square_m":7637391.050264,
+    "geom:area_square_m":7637391.050263,
     "geom:bbox":"0.0481465978531,50.9246393673,0.078840102739,50.9713205327",
     "geom:latitude":50.948213,
     "geom:longitude":0.063714,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.952333,
     "lbl:longitude":0.061891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Isfield"
@@ -60,12 +66,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003852"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125767121
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b2c721c8ecc35c83f356b66e783ffd9e",
+    "wof:geomhash":"aba924d782c33ba89704224822777dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440063,
     "wof:label":"Isfield Civil Parish",
-    "wof:lastmodified":1566631161,
+    "wof:lastmodified":1695878231,
     "wof:name":"Isfield",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

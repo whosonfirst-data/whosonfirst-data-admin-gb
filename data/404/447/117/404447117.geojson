@@ -10,12 +10,18 @@
     "geom:latitude":53.237745,
     "geom:longitude":-0.95509,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.239326,
     "lbl:longitude":-0.955345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bevercotes"
@@ -52,12 +58,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007791"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754837
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1275d1811847e7bcb8dd9d961bcb4577",
+    "wof:geomhash":"060387f99b11b9f197cb2651fad21790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404447117,
     "wof:label":"Bevercotes Civil Parish",
-    "wof:lastmodified":1566631290,
+    "wof:lastmodified":1695878290,
     "wof:name":"Bevercotes",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

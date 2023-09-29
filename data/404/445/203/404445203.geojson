@@ -10,12 +10,18 @@
     "geom:latitude":52.11256,
     "geom:longitude":-1.912899,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.1138,
     "lbl:longitude":-1.914932,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Offenham"
@@ -60,12 +66,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010420"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844163
     ],
     "wof:country":"GB",
-    "wof:geomhash":"40c93f948897a8e0c86b983d0aa5fe74",
+    "wof:geomhash":"9b9df7a18c4d397923d68078f92f59ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445203,
     "wof:label":"Offenham Civil Parish",
-    "wof:lastmodified":1566633341,
+    "wof:lastmodified":1695877612,
     "wof:name":"Offenham",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

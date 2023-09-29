@@ -10,12 +10,18 @@
     "geom:latitude":54.142828,
     "geom:longitude":-1.714127,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.144555,
     "lbl:longitude":-1.721055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laverton"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007374"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343986663
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2a744d4223c6012ff4ce7cf1d8947e9b",
+    "wof:geomhash":"3d44ff96e299d3801b39e35071b6497b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440575,
     "wof:label":"Laverton Civil Parish",
-    "wof:lastmodified":1566631169,
+    "wof:lastmodified":1695878235,
     "wof:name":"Laverton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001964,
-    "geom:area_square_m":15070147.123275,
+    "geom:area_square_m":15070147.123274,
     "geom:bbox":"0.0247095133686,51.6306337106,0.102015757337,51.6769100491",
     "geom:latitude":51.65265,
     "geom:longitude":0.064688,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.651765,
     "lbl:longitude":0.058276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0627\u0648\u062a\u0648\u0646"
@@ -90,12 +96,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004040"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126058653
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cb64c2430f79fbfd9f45eea3bd3d5ffb",
+    "wof:geomhash":"9a176494b24d0db2de2ff17e05b4df9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404449997,
     "wof:label":"Loughton Civil Parish",
-    "wof:lastmodified":1566631360,
+    "wof:lastmodified":1695878321,
     "wof:name":"Loughton",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

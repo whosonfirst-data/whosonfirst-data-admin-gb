@@ -10,12 +10,18 @@
     "geom:latitude":51.324423,
     "geom:longitude":-2.925909,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.323899,
     "lbl:longitude":-2.925351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hutton"
@@ -81,12 +87,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012102"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125875239
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e8befa12ee4863b147f1c24dabda4ef1",
+    "wof:geomhash":"1b966c94ee3ee13f49b3734bea9d8def",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404445731,
     "wof:label":"Hutton Civil Parish",
-    "wof:lastmodified":1566633315,
+    "wof:lastmodified":1695877601,
     "wof:name":"Hutton",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

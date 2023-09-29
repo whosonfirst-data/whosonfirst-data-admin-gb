@@ -10,12 +10,18 @@
     "geom:latitude":53.014894,
     "geom:longitude":-0.958277,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.012704,
     "lbl:longitude":-0.963393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hoveringham"
@@ -51,12 +57,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007915"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125975673
     ],
     "wof:country":"GB",
-    "wof:geomhash":"43661b59aeeb612da89dad8190608fcd",
+    "wof:geomhash":"481f94bfb79c67cb3a42a23ef1e06db5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404434353,
     "wof:label":"Hoveringham Civil Parish",
-    "wof:lastmodified":1566633540,
+    "wof:lastmodified":1695877703,
     "wof:name":"Hoveringham",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

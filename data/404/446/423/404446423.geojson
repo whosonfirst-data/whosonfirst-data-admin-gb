@@ -10,12 +10,18 @@
     "geom:latitude":54.223899,
     "geom:longitude":-3.064693,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.226035,
     "lbl:longitude":-3.068648,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Egton with Newland"
@@ -58,12 +64,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002603"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753757
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a4485de1d5bce971695f829b6c181af9",
+    "wof:geomhash":"2c60e91f034e35daa7c81d3098c0517f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404446423,
     "wof:label":"Egton with Newland Civil Parish",
-    "wof:lastmodified":1566631624,
+    "wof:lastmodified":1695876857,
     "wof:name":"Egton with Newland",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

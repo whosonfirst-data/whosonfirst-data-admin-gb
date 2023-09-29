@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001228,
-    "geom:area_square_m":9719274.047593,
+    "geom:area_square_m":9719274.047594,
     "geom:bbox":"-5.55331225072,50.166364655,-5.49819293896,50.2165100289",
     "geom:latitude":50.186022,
     "geom:longitude":-5.525501,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.182949,
     "lbl:longitude":-5.52737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u062f\u0646\u0643"
@@ -75,12 +81,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011592"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125956507
     ],
     "wof:country":"GB",
-    "wof:geomhash":"48ece61538bef96b6b13fa1f378fc3eb",
+    "wof:geomhash":"8552ff99be4c9641234e4bd5be8173cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404448375,
     "wof:label":"Towednack Civil Parish",
-    "wof:lastmodified":1566631570,
+    "wof:lastmodified":1695876845,
     "wof:name":"Towednack",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

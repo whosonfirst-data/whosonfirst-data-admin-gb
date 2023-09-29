@@ -10,12 +10,18 @@
     "geom:latitude":51.08366,
     "geom:longitude":-2.616652,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.084381,
     "lbl:longitude":-2.614725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lydford-On-Fosse"
@@ -40,12 +46,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008570"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759129
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bbc7f67ddc074a49b335d110fc86b7ec",
+    "wof:geomhash":"31a960705d853d9bbfac69eaa95ccbb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404453391,
     "wof:label":"Lydford-On-Fosse Civil Parish",
-    "wof:lastmodified":1566632751,
+    "wof:lastmodified":1695877351,
     "wof:name":"Lydford-On-Fosse",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

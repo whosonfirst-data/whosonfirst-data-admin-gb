@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001443,
-    "geom:area_square_m":11223332.683659,
+    "geom:area_square_m":11223332.683658,
     "geom:bbox":"-2.67776411965,50.9997255062,-2.6038596317,51.0395173097",
     "geom:latitude":51.015889,
     "geom:longitude":-2.644775,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.017204,
     "lbl:longitude":-2.65145,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yeovilton"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008774"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125837609
     ],
     "wof:country":"GB",
-    "wof:geomhash":"041c24f95e315a9fa0a975d6ed1bebed",
+    "wof:geomhash":"e437b8fb6af433a7f2f3461344a81e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452561,
     "wof:label":"Yeovilton Civil Parish",
-    "wof:lastmodified":1566632171,
+    "wof:lastmodified":1695877087,
     "wof:name":"Yeovilton",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

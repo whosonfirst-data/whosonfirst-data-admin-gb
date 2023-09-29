@@ -10,12 +10,18 @@
     "geom:latitude":52.353018,
     "geom:longitude":-1.522987,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.348501,
     "lbl:longitude":-1.515007,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Stoneleigh"
@@ -48,12 +54,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012231"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125883391
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3097a0ebd653f9483324880e437a79b4",
+    "wof:geomhash":"c3b9c76f41ca164cbe28e22703810cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404434429,
     "wof:label":"Stoneleigh Civil Parish",
-    "wof:lastmodified":1566633606,
+    "wof:lastmodified":1695877734,
     "wof:name":"Stoneleigh",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

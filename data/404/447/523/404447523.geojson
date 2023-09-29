@@ -10,12 +10,18 @@
     "geom:latitude":54.371842,
     "geom:longitude":-1.633726,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.372344,
     "lbl:longitude":-1.635654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Catterick"
@@ -45,12 +51,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007465"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873297
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9720d06e8274ee97eb173a7aefef17ec",
+    "wof:geomhash":"e3563b49b59b3932bdd8be48d9567b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404447523,
     "wof:label":"Catterick Civil Parish",
-    "wof:lastmodified":1566631343,
+    "wof:lastmodified":1695878315,
     "wof:name":"Catterick",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

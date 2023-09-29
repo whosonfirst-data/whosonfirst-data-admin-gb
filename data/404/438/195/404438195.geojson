@@ -10,12 +10,18 @@
     "geom:latitude":50.960534,
     "geom:longitude":-0.020641,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.959485,
     "lbl:longitude":-0.02003,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chailey"
@@ -58,12 +64,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003768"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753885
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0b1d3d93318665898cee081abb9e4480",
+    "wof:geomhash":"1e6be4c5f3034b723a878d3036c259f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404438195,
     "wof:label":"Chailey Civil Parish",
-    "wof:lastmodified":1566632541,
+    "wof:lastmodified":1695877251,
     "wof:name":"Chailey",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

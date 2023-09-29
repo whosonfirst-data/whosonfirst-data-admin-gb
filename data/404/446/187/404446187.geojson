@@ -10,12 +10,18 @@
     "geom:latitude":53.121703,
     "geom:longitude":-1.641251,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.121374,
     "lbl:longitude":-1.637966,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ivonbrook Grange"
@@ -40,12 +46,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002775"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753393
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4e49b6f6461c75fb5ae29ec7585de6bd",
+    "wof:geomhash":"6335b8a8f11a02697684ea1d6936185d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404446187,
     "wof:label":"Ivonbrook Grange Civil Parish",
-    "wof:lastmodified":1566631639,
+    "wof:lastmodified":1695876863,
     "wof:name":"Ivonbrook Grange",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

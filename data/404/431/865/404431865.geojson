@@ -10,12 +10,18 @@
     "geom:latitude":51.403799,
     "geom:longitude":-0.967041,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.39976,
     "lbl:longitude":-0.962061,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u0641\u064a\u0644\u062f"
@@ -66,12 +72,15 @@
         1360698967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001235"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031037
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9c203635ff69e6e9a5830cbcc510171c",
+    "wof:geomhash":"943c66e9bf58e78363b50158756853c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404431865,
     "wof:label":"Shinfield Civil Parish",
-    "wof:lastmodified":1566632514,
+    "wof:lastmodified":1695877238,
     "wof:name":"Shinfield",
     "wof:parent_id":1360698967,
     "wof:placetype":"localadmin",

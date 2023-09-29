@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000764,
-    "geom:area_square_m":5778800.048387,
+    "geom:area_square_m":5778800.048386,
     "geom:bbox":"0.461023993944,52.2682113554,0.504824877057,52.2960241194",
     "geom:latitude":52.283018,
     "geom:longitude":0.482326,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.282409,
     "lbl:longitude":0.482321,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kennett"
@@ -63,12 +69,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001634"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125766587
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4823c7ae05f0c44de7cec7fc7b682911",
+    "wof:geomhash":"7f60b2fc4c540aab027ea4768a3fe8ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404451541,
     "wof:label":"Kennett Civil Parish",
-    "wof:lastmodified":1566633527,
+    "wof:lastmodified":1695877696,
     "wof:name":"Kennett",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

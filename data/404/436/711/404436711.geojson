@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003034,
-    "geom:area_square_m":22489867.729861,
+    "geom:area_square_m":22489867.72986,
     "geom:bbox":"-2.25081946248,53.1359445172,-2.14073535969,53.1901932218",
     "geom:latitude":53.165354,
     "geom:longitude":-2.187796,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.162345,
     "lbl:longitude":-2.182376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0646\u0642\u0644\u062a\u0648\u0646"
@@ -90,12 +96,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010931"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871975
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3a4593a8bd50a65c2d5137ae7407f4ed",
+    "wof:geomhash":"b042983a95b45471aefec51e8a543936",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404436711,
     "wof:label":"Congleton Civil Parish",
-    "wof:lastmodified":1566632425,
+    "wof:lastmodified":1695877198,
     "wof:name":"Congleton",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

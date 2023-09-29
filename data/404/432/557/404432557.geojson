@@ -10,12 +10,18 @@
     "geom:latitude":50.118638,
     "geom:longitude":-5.476852,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.117244,
     "lbl:longitude":-5.478166,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Michael's Mount"
@@ -42,12 +48,15 @@
         404227469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011573"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757725
     ],
     "wof:country":"GB",
-    "wof:geomhash":"347177c00a7e6c68e596485727d80e02",
+    "wof:geomhash":"33dfe131835738b1bfe6b6ac25902a84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +68,7 @@
     ],
     "wof:id":404432557,
     "wof:label":"St. Michael's Mount Civil Parish",
-    "wof:lastmodified":1566633858,
+    "wof:lastmodified":1695877839,
     "wof:name":"St. Michael's Mount",
     "wof:parent_id":1360698623,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001837,
-    "geom:area_square_m":14497003.107816,
+    "geom:area_square_m":14497003.107817,
     "geom:bbox":"-3.82297227189,50.2989225066,-3.78102965061,50.3654667924",
     "geom:latitude":50.336828,
     "geom:longitude":-3.80331,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.339661,
     "lbl:longitude":-3.801624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loddiswell"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003161"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126049097
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a833cb66042cc172dac6ae9563a9b1c3",
+    "wof:geomhash":"16f03024bd5651643e4fe156626c0ffc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404429875,
     "wof:label":"Loddiswell Civil Parish",
-    "wof:lastmodified":1566633117,
+    "wof:lastmodified":1695877513,
     "wof:name":"Loddiswell",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

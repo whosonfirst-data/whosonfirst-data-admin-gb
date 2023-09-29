@@ -10,12 +10,18 @@
     "geom:latitude":52.512385,
     "geom:longitude":-2.214006,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.508021,
     "lbl:longitude":-2.212097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Swindon"
@@ -196,9 +202,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04008979",
         "gn:id":7296016,
         "qs_pg:id":1040779
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343690585
     ],
@@ -206,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d464f1733e85fa238e1d03649884ac71",
+    "wof:geomhash":"8b6d891b34478d9d78138def7508e80b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -219,7 +227,7 @@
     ],
     "wof:id":404445979,
     "wof:label":"Swindon Civil Parish",
-    "wof:lastmodified":1582311134,
+    "wof:lastmodified":1695877979,
     "wof:name":"Swindon",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

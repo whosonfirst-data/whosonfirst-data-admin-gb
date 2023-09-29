@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001872,
-    "geom:area_square_m":13893460.817089,
+    "geom:area_square_m":13893460.81709,
     "geom:bbox":"-3.08548444965,53.1016626932,-2.99741080579,53.1360250055",
     "geom:latitude":53.120635,
     "geom:longitude":-3.03985,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.118958,
     "lbl:longitude":-3.034609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hope Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000193"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125877955
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2dfdc1ae59c59644fb00b82aa7ff83a1",
+    "wof:geomhash":"f5771bbeff444051875a05984b8675ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442183,
-    "wof:lastmodified":1566633296,
+    "wof:lastmodified":1695877592,
     "wof:name":"Hope Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

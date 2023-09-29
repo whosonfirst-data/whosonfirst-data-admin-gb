@@ -10,12 +10,18 @@
     "geom:latitude":52.341926,
     "geom:longitude":1.501768,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.342324,
     "lbl:longitude":1.503016,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u0644\u0633\u0648\u0648\u0631\u062b"
@@ -87,12 +93,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009499"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854867
     ],
     "wof:country":"GB",
-    "wof:geomhash":"373f7c23c890940f4db96e10151ba724",
+    "wof:geomhash":"811623a6f5736b8067ea131f542de119",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404440799,
     "wof:label":"Halesworth Civil Parish",
-    "wof:lastmodified":1566631124,
+    "wof:lastmodified":1695878214,
     "wof:name":"Halesworth",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

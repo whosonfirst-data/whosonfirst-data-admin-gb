@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001442,
-    "geom:area_square_m":10649933.265671,
+    "geom:area_square_m":10649933.26567,
     "geom:bbox":"-4.58326134311,53.2888133107,-4.49709219604,53.3396007269",
     "geom:latitude":53.315709,
     "geom:longitude":-4.538958,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.320188,
     "lbl:longitude":-4.528169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfachraeth Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000017"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293618279
     ],
     "wof:country":"GB",
-    "wof:geomhash":"58ad728ef2a6f96998e5b33d19fb1e2a",
+    "wof:geomhash":"0b83e107bd71ddbb803ac4c518a0799f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452721,
-    "wof:lastmodified":1566632260,
+    "wof:lastmodified":1695877125,
     "wof:name":"Llanfachraeth Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

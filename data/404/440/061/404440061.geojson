@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001313,
-    "geom:area_square_m":10025252.850915,
+    "geom:area_square_m":10025252.850914,
     "geom:bbox":"-1.24465790437,51.8397989762,-1.19534456449,51.885012006",
     "geom:latitude":51.866349,
     "geom:longitude":-1.219064,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.86843,
     "lbl:longitude":-1.219544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weston-On-The-Green"
@@ -42,12 +48,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008091"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125920635
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8cc617f828f33961b1ba6e45cc923e44",
+    "wof:geomhash":"b27589d756a32c9f35cb5adabb5d0790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404440061,
     "wof:label":"Weston-On-The-Green Civil Parish",
-    "wof:lastmodified":1566631210,
+    "wof:lastmodified":1695878254,
     "wof:name":"Weston-On-The-Green",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

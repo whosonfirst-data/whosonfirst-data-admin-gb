@@ -10,12 +10,18 @@
     "geom:latitude":53.684814,
     "geom:longitude":-1.105533,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.685084,
     "lbl:longitude":-1.101204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Heck"
@@ -55,12 +61,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007743"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756811
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b60a9616c0cc240859b9ab971324f8a2",
+    "wof:geomhash":"cc69f04a695db5917f26f202196a1fe1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404451505,
     "wof:label":"Heck Civil Parish",
-    "wof:lastmodified":1566633425,
+    "wof:lastmodified":1695877650,
     "wof:name":"Heck",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

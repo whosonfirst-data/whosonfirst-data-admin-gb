@@ -10,12 +10,18 @@
     "geom:latitude":53.378593,
     "geom:longitude":-2.472824,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.379028,
     "lbl:longitude":-2.472812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0645"
@@ -78,12 +84,15 @@
         1360698965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000328"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872115
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c349ed629cf33c26058d4fb97c6bc6df",
+    "wof:geomhash":"a75a7ee71f3b7bac45d5d41b7f0e5a53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404451483,
     "wof:label":"Lymm Civil Parish",
-    "wof:lastmodified":1566633442,
+    "wof:lastmodified":1695877656,
     "wof:name":"Lymm",
     "wof:parent_id":1360698965,
     "wof:placetype":"localadmin",

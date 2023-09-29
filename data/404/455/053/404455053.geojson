@@ -10,12 +10,18 @@
     "geom:latitude":52.197056,
     "geom:longitude":0.711247,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.196085,
     "lbl:longitude":0.710838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hawstead"
@@ -58,9 +64,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04009320",
         "gn:id":7292573,
         "qs_pg:id":1040672
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125784325
     ],
@@ -68,7 +76,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4c05f7c5810d8698a70a7f82962ea66",
+    "wof:geomhash":"0bd10837003ce523c4bdf314cc39ca18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +89,7 @@
     ],
     "wof:id":404455053,
     "wof:label":"Hawstead Civil Parish",
-    "wof:lastmodified":1582311093,
+    "wof:lastmodified":1695877965,
     "wof:name":"Hawstead",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

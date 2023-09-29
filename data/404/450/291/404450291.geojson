@@ -10,12 +10,18 @@
     "geom:latitude":51.536754,
     "geom:longitude":-1.376603,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.53721,
     "lbl:longitude":-1.369375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Farnborough"
@@ -69,12 +75,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001169"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293127709
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4465c71a4c92f15ebc79debf86c73377",
+    "wof:geomhash":"4c80be6ae7ea6eb9f2a461e17e26f680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404450291,
     "wof:label":"Farnborough Civil Parish",
-    "wof:lastmodified":1566633826,
+    "wof:lastmodified":1695877827,
     "wof:name":"Farnborough",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

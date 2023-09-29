@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001253,
-    "geom:area_square_m":9632998.99596,
+    "geom:area_square_m":9632998.995959,
     "geom:bbox":"-3.24859358371,51.5496376083,-3.19280331932,51.5930869443",
     "geom:latitude":51.569119,
     "geom:longitude":-3.220374,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.56501,
     "lbl:longitude":-3.22545,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Caerphilly Community"
@@ -40,12 +46,15 @@
         1360698925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000904"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852779
     ],
     "wof:country":"GB",
-    "wof:geomhash":"622267957b164f14478dd7103d822a81",
+    "wof:geomhash":"3902d11f566d63c488411287f04cbe8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435757,
-    "wof:lastmodified":1566634045,
+    "wof:lastmodified":1695877921,
     "wof:name":"Caerphilly Community",
     "wof:parent_id":1360698925,
     "wof:placetype":"localadmin",

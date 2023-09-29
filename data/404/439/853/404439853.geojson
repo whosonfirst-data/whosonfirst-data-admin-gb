@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000974,
-    "geom:area_square_m":6964590.025217,
+    "geom:area_square_m":6964590.025216,
     "geom:bbox":"-3.48185222738,54.6723822943,-3.42880709416,54.6996809143",
     "geom:latitude":54.687001,
     "geom:longitude":-3.455663,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.684632,
     "lbl:longitude":-3.456164,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broughton Moor"
@@ -60,12 +66,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002397"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360014803
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9eb8056ca8396cc88748fbeb49fe99c8",
+    "wof:geomhash":"6be541d8880206f7dcbc0a8b47a487b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404439853,
     "wof:label":"Broughton Moor Civil Parish",
-    "wof:lastmodified":1566631912,
+    "wof:lastmodified":1695876980,
     "wof:name":"Broughton Moor",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.129978,
     "geom:longitude":-1.44162,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.132903,
     "lbl:longitude":-1.437222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marton-Le-Moor"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007386"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125823247
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a0e9f579d9a8a8963d181fe2a3737ca1",
+    "wof:geomhash":"993ee1ad8b2fce9db6afd88a7649796b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404442087,
     "wof:label":"Marton-Le-Moor Civil Parish",
-    "wof:lastmodified":1566633266,
+    "wof:lastmodified":1695877580,
     "wof:name":"Marton-Le-Moor",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

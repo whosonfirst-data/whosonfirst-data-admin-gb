@@ -10,12 +10,18 @@
     "geom:latitude":52.263119,
     "geom:longitude":-0.748622,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.261639,
     "lbl:longitude":-0.748079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Earls Barton"
@@ -69,12 +75,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006878"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874053
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a15c4309884110f6b43eb59743874661",
+    "wof:geomhash":"5a400cf226da4e5e4bdba948d62f33c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404448141,
     "wof:label":"Earls Barton Civil Parish",
-    "wof:lastmodified":1566631564,
+    "wof:lastmodified":1695876842,
     "wof:name":"Earls Barton",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

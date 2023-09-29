@@ -10,12 +10,18 @@
     "geom:latitude":52.976825,
     "geom:longitude":-1.280477,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.977444,
     "lbl:longitude":-1.282613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cossall"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007857"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126040593
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fb7961b0ccfd1dc8be3beec4ec081355",
+    "wof:geomhash":"f2ce70ce4b47b28c3ef5ce44ace07589",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404445937,
     "wof:label":"Cossall Civil Parish",
-    "wof:lastmodified":1566633313,
+    "wof:lastmodified":1695877600,
     "wof:name":"Cossall",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

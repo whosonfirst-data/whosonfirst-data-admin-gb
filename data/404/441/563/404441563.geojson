@@ -10,12 +10,18 @@
     "geom:latitude":52.123272,
     "geom:longitude":1.068036,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.123036,
     "lbl:longitude":1.070029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baylham"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010547"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126027585
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bf051ac9be191321e0d94dfcea980267",
+    "wof:geomhash":"173f477c2436edd991c35d19631f1b77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404441563,
     "wof:label":"Baylham Civil Parish",
-    "wof:lastmodified":1566631779,
+    "wof:lastmodified":1695876916,
     "wof:name":"Baylham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

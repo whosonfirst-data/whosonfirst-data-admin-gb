@@ -10,12 +10,18 @@
     "geom:latitude":50.758141,
     "geom:longitude":-2.317994,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.763738,
     "lbl:longitude":-2.31694,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burleston"
@@ -55,12 +61,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003511"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756829
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ccc74f79c9b33a0eae0759a860434253",
+    "wof:geomhash":"4c20c235d6c9195ae89b34dcfd4cfb9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404451515,
     "wof:label":"Burleston Civil Parish",
-    "wof:lastmodified":1566633532,
+    "wof:lastmodified":1695877698,
     "wof:name":"Burleston",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

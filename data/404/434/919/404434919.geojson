@@ -10,12 +10,18 @@
     "geom:latitude":51.131792,
     "geom:longitude":-1.723397,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.136636,
     "lbl:longitude":-1.737485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Idmiston"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011741"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343290723
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2316a40c3b6fd5d50c8579632b709be1",
+    "wof:geomhash":"5429f3d90ebe4bda1f75bae4307e595b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404434919,
     "wof:label":"Idmiston Civil Parish",
-    "wof:lastmodified":1566633631,
+    "wof:lastmodified":1695877744,
     "wof:name":"Idmiston",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

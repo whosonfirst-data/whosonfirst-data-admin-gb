@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002553,
-    "geom:area_square_m":19573544.855536,
+    "geom:area_square_m":19573544.855535,
     "geom:bbox":"-2.54083895275,51.644640857,-2.4427414642,51.7026599076",
     "geom:latitude":51.673548,
     "geom:longitude":-2.486706,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.678568,
     "lbl:longitude":-2.48598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ham and Stone"
@@ -43,12 +49,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004353"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753255
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bda102f852b8b64637f52250a46a311b",
+    "wof:geomhash":"cde1dc59cf6390d3e9d93c8601781be9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404432787,
     "wof:label":"Ham and Stone Civil Parish",
-    "wof:lastmodified":1566633971,
+    "wof:lastmodified":1695877882,
     "wof:name":"Ham and Stone",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

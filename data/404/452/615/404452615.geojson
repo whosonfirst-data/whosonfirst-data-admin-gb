@@ -10,12 +10,18 @@
     "geom:latitude":50.285479,
     "geom:longitude":-3.769606,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.285586,
     "lbl:longitude":-3.767939,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u06cc\u0646\u0642\u0632\u0628\u0631\u06cc\u062c"
@@ -93,12 +99,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003157"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852623
     ],
     "wof:country":"GB",
-    "wof:geomhash":"baf37c2e8bc2ca750afed4fb904322d3",
+    "wof:geomhash":"a94e03cd1ad2638f23d0d37ce2ee67a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404452615,
     "wof:label":"Kingsbridge Civil Parish",
-    "wof:lastmodified":1566632240,
+    "wof:lastmodified":1695877116,
     "wof:name":"Kingsbridge",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

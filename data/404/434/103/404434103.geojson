@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008235,
-    "geom:area_square_m":61778792.173809,
+    "geom:area_square_m":61778792.173807,
     "geom:bbox":"-3.46257841935,52.6167073543,-3.27860703232,52.6934567686",
     "geom:latitude":52.649185,
     "geom:longitude":-3.367839,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.655478,
     "lbl:longitude":-3.374068,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfair Caereinion Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000299"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125852745
     ],
     "wof:country":"GB",
-    "wof:geomhash":"722a1a3a1d5ad51afaf6f06f2361500a",
+    "wof:geomhash":"018f6ac9773cf38971c6bb5130f15f7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404434103,
-    "wof:lastmodified":1566633537,
+    "wof:lastmodified":1695877701,
     "wof:name":"Llanfair Caereinion Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

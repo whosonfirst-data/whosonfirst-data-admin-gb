@@ -10,12 +10,18 @@
     "geom:latitude":51.363638,
     "geom:longitude":-1.862165,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.369884,
     "lbl:longitude":-1.862547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanton St. Bernard"
@@ -42,12 +48,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011821"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125993633
     ],
     "wof:country":"GB",
-    "wof:geomhash":"49435291e37f8469fd58af21d66a22d2",
+    "wof:geomhash":"dd60b8f7495a74801a8b365e66d808ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404439473,
     "wof:label":"Stanton St. Bernard Civil Parish",
-    "wof:lastmodified":1566631905,
+    "wof:lastmodified":1695876976,
     "wof:name":"Stanton St. Bernard",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

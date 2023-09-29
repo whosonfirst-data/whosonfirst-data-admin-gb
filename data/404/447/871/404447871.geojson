@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004536,
-    "geom:area_square_m":35256380.932314,
+    "geom:area_square_m":35256380.932309,
     "geom:bbox":"-3.62859566146,51.0120638693,-3.51865189901,51.0886049843",
     "geom:latitude":51.050481,
     "geom:longitude":-3.569819,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.047853,
     "lbl:longitude":-3.55696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0627\u0644\u0648\u0631\u062a\u0648\u0646"
@@ -78,12 +84,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008834"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881609
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bdaf68856f26c9f5333f649946b90d5b",
+    "wof:geomhash":"12a71aeb9015e7b25ee139473add1816",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404447871,
     "wof:label":"Dulverton Civil Parish",
-    "wof:lastmodified":1566631311,
+    "wof:lastmodified":1695878300,
     "wof:name":"Dulverton",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

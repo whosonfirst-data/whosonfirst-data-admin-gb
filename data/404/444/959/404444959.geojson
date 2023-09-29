@@ -10,12 +10,18 @@
     "geom:latitude":53.183631,
     "geom:longitude":-2.226608,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.184607,
     "lbl:longitude":-2.227805,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0645 \u0648\u0644\u0641\u064a\u0644\u062f"
@@ -67,12 +73,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010956"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759119
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f050ae3aca20930641b9f9121a766e38",
+    "wof:geomhash":"0d42ff580824a066f1220da7e9145228",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +94,7 @@
     ],
     "wof:id":404444959,
     "wof:label":"Hulme Walfield Civil Parish",
-    "wof:lastmodified":1566632927,
+    "wof:lastmodified":1695877425,
     "wof:name":"Hulme Walfield",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00049,
-    "geom:area_square_m":3823848.610871,
+    "geom:area_square_m":3823848.610872,
     "geom:bbox":"-0.0606515582175,50.8840426252,-0.0143792952966,50.928567437",
     "geom:latitude":50.903845,
     "geom:longitude":-0.032458,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.901174,
     "lbl:longitude":-0.032099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. John (Without)"
@@ -40,12 +46,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003786"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758181
     ],
     "wof:country":"GB",
-    "wof:geomhash":"50b17f7573bb46ffc4bf4f591c97a47a",
+    "wof:geomhash":"025e052876b3b2cd789589c15ae1cfef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404452451,
     "wof:label":"St. John (Without) Civil Parish",
-    "wof:lastmodified":1566632244,
+    "wof:lastmodified":1695877118,
     "wof:name":"St. John (Without)",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

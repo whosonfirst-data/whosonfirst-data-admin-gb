@@ -10,12 +10,18 @@
     "geom:latitude":50.700041,
     "geom:longitude":-4.262257,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.693421,
     "lbl:longitude":-4.262237,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broadwoodwidger"
@@ -57,12 +63,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003252"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276903969
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bf19803d5fa3a2b0602bea6f2b6a5743",
+    "wof:geomhash":"3fb3f1e741d9f07ac2db850298de5a25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446719,
     "wof:label":"Broadwoodwidger Civil Parish",
-    "wof:lastmodified":1566631702,
+    "wof:lastmodified":1695876886,
     "wof:name":"Broadwoodwidger",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

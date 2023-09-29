@@ -10,12 +10,18 @@
     "geom:latitude":51.76988,
     "geom:longitude":0.288811,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.775174,
     "lbl:longitude":0.283432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abbess Beauchamp and Berners Roding"
@@ -43,12 +49,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004013"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758463
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d241dd1c88390bbf28b101ea39a25844",
+    "wof:geomhash":"b6db2e99c20ee14e6fad98a84fc05a98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404436333,
     "wof:label":"Abbess Beauchamp and Berners Roding Civil Parish",
-    "wof:lastmodified":1566632386,
+    "wof:lastmodified":1695877181,
     "wof:name":"Abbess Beauchamp and Berners Roding",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

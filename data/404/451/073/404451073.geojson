@@ -10,12 +10,18 @@
     "geom:latitude":54.258445,
     "geom:longitude":-1.442205,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.257847,
     "lbl:longitude":-1.441889,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirby Wiske"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007209"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801827
     ],
     "wof:country":"GB",
-    "wof:geomhash":"40a3719590b4de8b68fa3bbf006049d0",
+    "wof:geomhash":"f8acc0c99add0a20bc960a62a89573ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451073,
     "wof:label":"Kirby Wiske Civil Parish",
-    "wof:lastmodified":1566633496,
+    "wof:lastmodified":1695877679,
     "wof:name":"Kirby Wiske",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

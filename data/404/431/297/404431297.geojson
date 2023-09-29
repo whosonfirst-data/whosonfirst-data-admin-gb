@@ -10,12 +10,18 @@
     "geom:latitude":52.623492,
     "geom:longitude":0.991168,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.624903,
     "lbl:longitude":0.991766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Garvestone"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006115"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260115597
     ],
     "wof:country":"GB",
-    "wof:geomhash":"978a9f82e1924909aa6e598084ae8062",
+    "wof:geomhash":"98fd4e2556eddfade002ebbf7a2697af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404431297,
     "wof:label":"Garvestone Civil Parish",
-    "wof:lastmodified":1566632519,
+    "wof:lastmodified":1695877240,
     "wof:name":"Garvestone",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002583,
-    "geom:area_square_m":20525095.890559,
+    "geom:area_square_m":20525095.890566,
     "geom:bbox":"-5.26877951747,49.9724061618,-5.18853306371,50.0414934693",
     "geom:latitude":50.012265,
     "geom:longitude":-5.237668,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.0134,
     "lbl:longitude":-5.240304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0456\u0444\u043e\u0440\u044b\u0443\u043c"
@@ -102,12 +108,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011493"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125886719
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ba10ea644b142ade1f7f721486ac2172",
+    "wof:geomhash":"38bc9064da23caa0a6e63e541435f5b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404452455,
     "wof:label":"Mullion Civil Parish",
-    "wof:lastmodified":1566632197,
+    "wof:lastmodified":1695877098,
     "wof:name":"Mullion",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

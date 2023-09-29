@@ -10,12 +10,18 @@
     "geom:latitude":52.052232,
     "geom:longitude":1.325099,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.053582,
     "lbl:longitude":1.3234,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Waldringfield"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009472"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844349
     ],
     "wof:country":"GB",
-    "wof:geomhash":"571a0cf222e6a1546c466c9fb36a8a1a",
+    "wof:geomhash":"c2b2e4c992ef0d8666e8108bfd2ec33c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447671,
     "wof:label":"Waldringfield Civil Parish",
-    "wof:lastmodified":1566631308,
+    "wof:lastmodified":1695878299,
     "wof:name":"Waldringfield",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

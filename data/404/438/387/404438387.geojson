@@ -10,12 +10,18 @@
     "geom:latitude":52.492979,
     "geom:longitude":0.867729,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.49302,
     "lbl:longitude":0.8638,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hockham"
@@ -54,12 +60,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006128"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343887275
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dc20803c0c3ab405f1c72d2068645a99",
+    "wof:geomhash":"425ab0a94396d6696df68ce0b4874573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404438387,
     "wof:label":"Hockham Civil Parish",
-    "wof:lastmodified":1566632633,
+    "wof:lastmodified":1695877293,
     "wof:name":"Hockham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

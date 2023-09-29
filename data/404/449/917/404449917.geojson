@@ -10,12 +10,18 @@
     "geom:latitude":52.121126,
     "geom:longitude":-1.128387,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.121198,
     "lbl:longitude":-1.128868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weston and Weedon"
@@ -43,12 +49,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006867"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754367
     ],
     "wof:country":"GB",
-    "wof:geomhash":"edc5b89bfbe451a715f8e68ba941e837",
+    "wof:geomhash":"3a40c872c48411e1f85c2f2c657949c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404449917,
     "wof:label":"Weston and Weedon Civil Parish",
-    "wof:lastmodified":1566631454,
+    "wof:lastmodified":1695876794,
     "wof:name":"Weston and Weedon",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

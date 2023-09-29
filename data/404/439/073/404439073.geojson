@@ -10,12 +10,18 @@
     "geom:latitude":52.332432,
     "geom:longitude":-1.023087,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.33028,
     "lbl:longitude":-1.023544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ravensthorpe"
@@ -51,12 +57,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010519"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782155
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d64835721d0bb99115e851bd3f5a6927",
+    "wof:geomhash":"afbedcd9d1e3d8b88d2d322c4c9141b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404439073,
     "wof:label":"Ravensthorpe Civil Parish",
-    "wof:lastmodified":1566631897,
+    "wof:lastmodified":1695876972,
     "wof:name":"Ravensthorpe",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

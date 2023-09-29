@@ -10,12 +10,18 @@
     "geom:latitude":53.400625,
     "geom:longitude":-0.925301,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.401486,
     "lbl:longitude":-0.923701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wiseton"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007853"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125864737
     ],
     "wof:country":"GB",
-    "wof:geomhash":"57e4c67dbbb51b2b0a2e1d681bae20f1",
+    "wof:geomhash":"8c36c2212a0c205b35a1d618dad18776",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440843,
     "wof:label":"Wiseton Civil Parish",
-    "wof:lastmodified":1566631150,
+    "wof:lastmodified":1695878226,
     "wof:name":"Wiseton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

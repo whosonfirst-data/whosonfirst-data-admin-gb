@@ -10,12 +10,18 @@
     "geom:latitude":53.255451,
     "geom:longitude":-3.31799,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.254012,
     "lbl:longitude":-3.317985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Caerwys Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000183"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843027
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d07b5f378b8c86f00f5da40a907e212f",
+    "wof:geomhash":"b002b4892931bba12b6b84675be8bbeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404432783,
-    "wof:lastmodified":1566633917,
+    "wof:lastmodified":1695877858,
     "wof:name":"Caerwys Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

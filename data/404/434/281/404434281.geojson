@@ -10,12 +10,18 @@
     "geom:latitude":52.340457,
     "geom:longitude":-0.183557,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.339656,
     "lbl:longitude":-0.184091,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Huntand\u016bn"
@@ -148,12 +154,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012030"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101875497
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b56f8245f4938b05ed5d7f62591b62a3",
+    "wof:geomhash":"f19aee57082c516534c3730ac2588f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +175,7 @@
     ],
     "wof:id":404434281,
     "wof:label":"Huntingdon Civil Parish",
-    "wof:lastmodified":1566633558,
+    "wof:lastmodified":1695877713,
     "wof:name":"Huntingdon",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

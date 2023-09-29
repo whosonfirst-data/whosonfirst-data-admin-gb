@@ -10,12 +10,18 @@
     "geom:latitude":54.098665,
     "geom:longitude":-1.062152,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.098709,
     "lbl:longitude":-1.05985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Farlington"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007175"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126028935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"025473e89b6a89b0834c5864ef1b70cc",
+    "wof:geomhash":"d67bd901a3a49812c372af37a9530cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404443855,
     "wof:label":"Farlington Civil Parish",
-    "wof:lastmodified":1566633074,
+    "wof:lastmodified":1695877493,
     "wof:name":"Farlington",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

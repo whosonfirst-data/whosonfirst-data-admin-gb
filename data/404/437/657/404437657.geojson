@@ -10,12 +10,18 @@
     "geom:latitude":52.320691,
     "geom:longitude":-2.198189,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.320224,
     "lbl:longitude":-2.200721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elmley Lovett"
@@ -51,12 +57,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010390"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977039
     ],
     "wof:country":"GB",
-    "wof:geomhash":"96f0e5731967026b79c6654c6433137c",
+    "wof:geomhash":"4471a82381ec458e76e84595f5515440",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404437657,
     "wof:label":"Elmley Lovett Civil Parish",
-    "wof:lastmodified":1566632089,
+    "wof:lastmodified":1695877054,
     "wof:name":"Elmley Lovett",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

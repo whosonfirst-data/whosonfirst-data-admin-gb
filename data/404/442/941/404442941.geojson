@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010675,
-    "geom:area_square_m":75633607.648959,
+    "geom:area_square_m":75633607.648963,
     "geom:bbox":"-2.72973179798,54.9820662072,-2.48233852939,55.0907804531",
     "geom:latitude":55.040767,
     "geom:longitude":-2.590195,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.050059,
     "lbl:longitude":-2.571405,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kingwater"
@@ -52,12 +58,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002463"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5f29315f004ae500264902575c943820",
+    "wof:geomhash":"17d61f5e565c7563512bb3a969039223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404442941,
     "wof:label":"Kingwater Civil Parish",
-    "wof:lastmodified":1566633238,
+    "wof:lastmodified":1695877568,
     "wof:name":"Kingwater",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

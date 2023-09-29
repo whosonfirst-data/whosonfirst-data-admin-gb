@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001575,
-    "geom:area_square_m":11956219.991869,
+    "geom:area_square_m":11956219.991868,
     "geom:bbox":"0.764634878563,52.0893908463,0.81737641176,52.1349609984",
     "geom:latitude":52.11389,
     "geom:longitude":0.790248,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.115072,
     "lbl:longitude":0.789745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lavenham"
@@ -72,12 +78,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009103"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853565
     ],
     "wof:country":"GB",
-    "wof:geomhash":"338830f11d8b657eff1ede90c9aa64f8",
+    "wof:geomhash":"e8f4fa8b9e3d5769f3e3ece304186e12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404434065,
     "wof:label":"Lavenham Civil Parish",
-    "wof:lastmodified":1566633559,
+    "wof:lastmodified":1695877713,
     "wof:name":"Lavenham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

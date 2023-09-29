@@ -10,12 +10,18 @@
     "geom:latitude":52.908364,
     "geom:longitude":0.630201,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.906979,
     "lbl:longitude":0.630997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Docking"
@@ -57,12 +63,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006303"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874063
     ],
     "wof:country":"GB",
-    "wof:geomhash":"90a7ecfd2dce4193dbe852be5fc45364",
+    "wof:geomhash":"5224fd058331ff5b5f49b53553bfb07e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404442167,
     "wof:label":"Docking Civil Parish",
-    "wof:lastmodified":1566633206,
+    "wof:lastmodified":1695877553,
     "wof:name":"Docking",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

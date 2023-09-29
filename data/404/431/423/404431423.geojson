@@ -10,12 +10,18 @@
     "geom:latitude":52.805679,
     "geom:longitude":-1.307789,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.802568,
     "lbl:longitude":-1.300746,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Long Whatton and Diseworth"
@@ -43,12 +49,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005556"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755915
     ],
     "wof:country":"GB",
-    "wof:geomhash":"204a9ab19f2e574fd0765e0ebac3fead",
+    "wof:geomhash":"12b1b374c76b87549cfa820051fc05c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404431423,
     "wof:label":"Long Whatton and Diseworth Civil Parish",
-    "wof:lastmodified":1566632455,
+    "wof:lastmodified":1695877212,
     "wof:name":"Long Whatton and Diseworth",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

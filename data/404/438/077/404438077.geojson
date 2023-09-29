@@ -10,12 +10,18 @@
     "geom:latitude":53.568414,
     "geom:longitude":-1.313348,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.566175,
     "lbl:longitude":-1.312869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clayton with Frickley"
@@ -43,12 +49,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000071"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753669
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fdae03ae45cff76f0105a67a50480104",
+    "wof:geomhash":"d95b6b2178e184a33478fb205224e376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404438077,
     "wof:label":"Clayton with Frickley Civil Parish",
-    "wof:lastmodified":1566632553,
+    "wof:lastmodified":1695877257,
     "wof:name":"Clayton with Frickley",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

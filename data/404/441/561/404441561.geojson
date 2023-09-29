@@ -10,12 +10,18 @@
     "geom:latitude":53.684779,
     "geom:longitude":0.064758,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.684334,
     "lbl:longitude":0.065153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Holmpton"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000413"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125799111
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9f8ed94433ed351ccbe508b57f62673e",
+    "wof:geomhash":"ede7050c1d71f5a2ddf1441ffbef9492",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404441561,
     "wof:label":"Holmpton Civil Parish",
-    "wof:lastmodified":1566631722,
+    "wof:lastmodified":1695876894,
     "wof:name":"Holmpton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

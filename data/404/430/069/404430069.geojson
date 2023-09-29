@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001942,
-    "geom:area_square_m":14064915.306408,
+    "geom:area_square_m":14064915.306407,
     "geom:bbox":"-0.43313129144,54.1346541627,-0.373270855237,54.1765238384",
     "geom:latitude":54.155369,
     "geom:longitude":-0.402098,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.156075,
     "lbl:longitude":-0.396107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wold Newton"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000504"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913927
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cccd6a16ea6a7cb138d6569fd9d1ea27",
+    "wof:geomhash":"f3d40eff78f8120afe748816cf4e28aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430069,
     "wof:label":"Wold Newton Civil Parish",
-    "wof:lastmodified":1566632031,
+    "wof:lastmodified":1695877028,
     "wof:name":"Wold Newton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010352,
-    "geom:area_square_m":77835183.359453,
+    "geom:area_square_m":77835183.359452,
     "geom:bbox":"-0.0239414654228,52.5150451292,0.164554197455,52.5901304085",
     "geom:latitude":52.552248,
     "geom:longitude":0.062356,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.552676,
     "lbl:longitude":0.054733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0425\u04d9\u0430\u0436\u04d9\u043a\u044b\u0440\u0430\u043c\u0437\u0430"
@@ -690,12 +696,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001661"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854925
     ],
     "wof:country":"GB",
-    "wof:geomhash":"659597bf3edb6ea7b846975c4e03a645",
+    "wof:geomhash":"85f90496ab7e445501b3d466de134f25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -708,7 +717,7 @@
     ],
     "wof:id":404445441,
     "wof:label":"March Civil Parish",
-    "wof:lastmodified":1566633330,
+    "wof:lastmodified":1695877607,
     "wof:name":"March",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

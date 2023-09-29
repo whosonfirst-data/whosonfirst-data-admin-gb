@@ -10,12 +10,18 @@
     "geom:latitude":52.042373,
     "geom:longitude":-0.566355,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.040876,
     "lbl:longitude":-0.563294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u062f\u0644\u064a\u0646\u063a\u062a\u0648\u0646"
@@ -72,12 +78,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011966"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869051
     ],
     "wof:country":"GB",
-    "wof:geomhash":"65f7d6ed325fea07d84c3d6349e3fbd7",
+    "wof:geomhash":"65eb69a34e6e3f58c4d7585a34123985",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404429397,
     "wof:label":"Lidlington Civil Parish",
-    "wof:lastmodified":1566633103,
+    "wof:lastmodified":1695877507,
     "wof:name":"Lidlington",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

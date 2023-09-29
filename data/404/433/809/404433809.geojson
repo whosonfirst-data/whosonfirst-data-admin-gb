@@ -10,12 +10,18 @@
     "geom:latitude":52.939436,
     "geom:longitude":1.207185,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.938492,
     "lbl:longitude":1.209761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u0631\u06cc\u0646\u0642\u0647\u0627\u0645"
@@ -99,12 +105,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006468"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e10b262f91dce87deccf3699943a1ee4",
+    "wof:geomhash":"6ef8fd45a7e6958bec99c86d905a8b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404433809,
     "wof:label":"Sheringham Civil Parish",
-    "wof:lastmodified":1566633719,
+    "wof:lastmodified":1695877784,
     "wof:name":"Sheringham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

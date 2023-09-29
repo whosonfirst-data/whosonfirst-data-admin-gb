@@ -10,12 +10,18 @@
     "geom:latitude":52.137525,
     "geom:longitude":0.286045,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.136543,
     "lbl:longitude":0.286034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0634\u0645"
@@ -69,12 +75,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001759"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125927149
     ],
     "wof:country":"GB",
-    "wof:geomhash":"02924d478a317d60bede05eb15751868",
+    "wof:geomhash":"88cb6e978d7487d105cd312a0c7b450d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404434101,
     "wof:label":"Balsham Civil Parish",
-    "wof:lastmodified":1566633595,
+    "wof:lastmodified":1695877729,
     "wof:name":"Balsham",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

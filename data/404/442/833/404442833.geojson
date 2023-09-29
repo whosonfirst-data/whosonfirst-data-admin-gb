@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00097,
-    "geom:area_square_m":7502198.785288,
+    "geom:area_square_m":7502198.785289,
     "geom:bbox":"-0.930584468659,51.2627541399,-0.868826569043,51.2933697857",
     "geom:latitude":51.280925,
     "geom:longitude":-0.902199,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.279527,
     "lbl:longitude":-0.905232,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winchfield"
@@ -63,12 +69,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012065"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125901355
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f946fabc527855d78c3b8749d5571efe",
+    "wof:geomhash":"ee21d16e9a2a772a064ec34f47487918",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442833,
     "wof:label":"Winchfield Civil Parish",
-    "wof:lastmodified":1566633231,
+    "wof:lastmodified":1695877564,
     "wof:name":"Winchfield",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

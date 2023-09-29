@@ -10,12 +10,18 @@
     "geom:latitude":52.70883,
     "geom:longitude":0.827652,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.706007,
     "lbl:longitude":0.826893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beeston with Bittering"
@@ -58,12 +64,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006089"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755865
     ],
     "wof:country":"GB",
-    "wof:geomhash":"99a5ce2c9bcdde71181b8c0451ccfbd9",
+    "wof:geomhash":"24d8f703689adca8b74c8f020ea6415b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404450897,
     "wof:label":"Beeston with Bittering Civil Parish",
-    "wof:lastmodified":1566633835,
+    "wof:lastmodified":1695877831,
     "wof:name":"Beeston with Bittering",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

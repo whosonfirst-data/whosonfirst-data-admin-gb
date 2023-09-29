@@ -10,12 +10,18 @@
     "geom:latitude":52.104773,
     "geom:longitude":0.408055,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.106361,
     "lbl:longitude":0.405624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Withersfield"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009361"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125788785
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b1b3bf23a1c466b472accd03d1755e71",
+    "wof:geomhash":"e3d91ab4c67d2cd122df8f482f027f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404451553,
     "wof:label":"Withersfield Civil Parish",
-    "wof:lastmodified":1566633492,
+    "wof:lastmodified":1695877678,
     "wof:name":"Withersfield",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

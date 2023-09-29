@@ -10,12 +10,18 @@
     "geom:latitude":54.88659,
     "geom:longitude":-1.59279,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.886886,
     "lbl:longitude":-1.593018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ouston"
@@ -46,12 +52,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010674"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757815
     ],
     "wof:country":"GB",
-    "wof:geomhash":"02554dc47b1821f42fc169794d28aafd",
+    "wof:geomhash":"3555018b39a84d23f5fea8c878f3bfdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404449019,
     "wof:label":"Ouston Civil Parish",
-    "wof:lastmodified":1566631427,
+    "wof:lastmodified":1695876782,
     "wof:name":"Ouston",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.552477,
     "geom:longitude":0.949718,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.552264,
     "lbl:longitude":0.949282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Ellingham"
@@ -58,12 +64,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006140"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755253
     ],
     "wof:country":"GB",
-    "wof:geomhash":"426d84ab249e5f676471eef47a183a46",
+    "wof:geomhash":"30636e882e97a4cd99f9b914eb31d5de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404450501,
     "wof:label":"Little Ellingham Civil Parish",
-    "wof:lastmodified":1566633795,
+    "wof:lastmodified":1695877816,
     "wof:name":"Little Ellingham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000479,
-    "geom:area_square_m":3625509.229144,
+    "geom:area_square_m":3625509.229143,
     "geom:bbox":"0.646676048668,52.2709757571,0.685720932621,52.2959648937",
     "geom:latitude":52.282652,
     "geom:longitude":0.667691,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.281748,
     "lbl:longitude":0.667394,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hengrave"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009321"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125785289
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f9ce7cc655b2d97272dd985261e136e5",
+    "wof:geomhash":"99acf858b2b13338449bdc55f4634d98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451403,
     "wof:label":"Hengrave Civil Parish",
-    "wof:lastmodified":1566633519,
+    "wof:lastmodified":1695877691,
     "wof:name":"Hengrave",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

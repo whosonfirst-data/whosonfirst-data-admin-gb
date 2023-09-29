@@ -10,12 +10,18 @@
     "geom:latitude":51.03061,
     "geom:longitude":-3.15824,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.030917,
     "lbl:longitude":-3.158232,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Norton Fitzwarren"
@@ -63,12 +69,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008803"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929377
     ],
     "wof:country":"GB",
-    "wof:geomhash":"90ea124c36a3b1f18ea5e3230300ee8e",
+    "wof:geomhash":"c7fcd6bf4d6a60e6d7e3a3f2857bffc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439671,
     "wof:label":"Norton Fitzwarren Civil Parish",
-    "wof:lastmodified":1566631900,
+    "wof:lastmodified":1695876974,
     "wof:name":"Norton Fitzwarren",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

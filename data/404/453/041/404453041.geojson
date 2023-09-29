@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002519,
-    "geom:area_square_m":19510559.198707,
+    "geom:area_square_m":19510559.198708,
     "geom:bbox":"-1.42111231952,51.1845255626,-1.31258020775,51.2578943618",
     "geom:latitude":51.2215,
     "geom:longitude":-1.364837,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.228895,
     "lbl:longitude":-1.374655,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hurstbourne Priors"
@@ -54,12 +60,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004457"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125806051
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1326a23eb869f53e72219cfbc4dbdc2b",
+    "wof:geomhash":"3c2ec252d1796a9f38eb6cb16e739cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404453041,
     "wof:label":"Hurstbourne Priors Civil Parish",
-    "wof:lastmodified":1566632766,
+    "wof:lastmodified":1695877358,
     "wof:name":"Hurstbourne Priors",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

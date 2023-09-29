@@ -10,12 +10,18 @@
     "geom:latitude":55.543999,
     "geom:longitude":-2.026499,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.554907,
     "lbl:longitude":-2.012291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0648\u0644\u0631"
@@ -81,12 +87,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010887"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872373
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a62b3ebae3bb59cd9163c4ea65174565",
+    "wof:geomhash":"ebd40f7ba783755bef1538133daa66a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404433797,
     "wof:label":"Wooler Civil Parish",
-    "wof:lastmodified":1566633638,
+    "wof:lastmodified":1695877747,
     "wof:name":"Wooler",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.043122,
     "geom:longitude":-0.58864,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.041507,
     "lbl:longitude":-0.601418,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fulbeck"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005906"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972773
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7869790ad68b23b43c963fed6d825f69",
+    "wof:geomhash":"168fac35317eed1e0095cfa58c88f376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404445993,
     "wof:label":"Fulbeck Civil Parish",
-    "wof:lastmodified":1566633371,
+    "wof:lastmodified":1695877627,
     "wof:name":"Fulbeck",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002078,
-    "geom:area_square_m":16325349.533663,
+    "geom:area_square_m":16325349.533662,
     "geom:bbox":"-3.64160843896,50.5334944924,-3.56467457847,50.5932079395",
     "geom:latitude":50.563479,
     "geom:longitude":-3.600142,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.552547,
     "lbl:longitude":-3.593139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kingsteignton"
@@ -72,12 +78,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003219"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880473
     ],
     "wof:country":"GB",
-    "wof:geomhash":"94a63f64e964897a003f65080e61d1d4",
+    "wof:geomhash":"8305a3979d290bc10936c35c26f1c51d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404439703,
     "wof:label":"Kingsteignton Civil Parish",
-    "wof:lastmodified":1566631891,
+    "wof:lastmodified":1695876970,
     "wof:name":"Kingsteignton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":2080792.337749,
+    "geom:area_square_m":2080792.337748,
     "geom:bbox":"-0.705380413643,52.3706545652,-0.680151593476,52.3863203288",
     "geom:latitude":52.379463,
     "geom:longitude":-0.693899,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.380017,
     "lbl:longitude":-0.693899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barton Seagrave"
@@ -63,12 +69,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006789"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846023
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b2946e75fc917cf7d4070a0d203e15e0",
+    "wof:geomhash":"f1afe20a2ad2dfbe3380f8132fa5a21b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445829,
     "wof:label":"Barton Seagrave Civil Parish",
-    "wof:lastmodified":1566633320,
+    "wof:lastmodified":1695877603,
     "wof:name":"Barton Seagrave",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

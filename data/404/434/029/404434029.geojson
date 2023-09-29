@@ -10,12 +10,18 @@
     "geom:latitude":54.286086,
     "geom:longitude":-1.067626,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.312921,
     "lbl:longitude":-1.078289,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0644\u0645\u0633\u0644\u06cc"
@@ -87,12 +93,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007587"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882861
     ],
     "wof:country":"GB",
-    "wof:geomhash":"46179877a7c244b569ad0620bb2d9b76",
+    "wof:geomhash":"d0c89d11526e62e45666d66170f957c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404434029,
     "wof:label":"Helmsley Civil Parish",
-    "wof:lastmodified":1566633604,
+    "wof:lastmodified":1695877733,
     "wof:name":"Helmsley",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

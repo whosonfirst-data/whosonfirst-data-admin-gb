@@ -10,12 +10,18 @@
     "geom:latitude":53.524066,
     "geom:longitude":-1.748124,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.520862,
     "lbl:longitude":-1.747056,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dunford"
@@ -49,12 +55,15 @@
         1360699091
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000042"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755691
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cf63c38cdede40213182f61fe79b7fe3",
+    "wof:geomhash":"4982e9b07facb9b6660668cf7e74902c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404447685,
     "wof:label":"Dunford Civil Parish",
-    "wof:lastmodified":1566631307,
+    "wof:lastmodified":1695878299,
     "wof:name":"Dunford",
     "wof:parent_id":1360699091,
     "wof:placetype":"localadmin",

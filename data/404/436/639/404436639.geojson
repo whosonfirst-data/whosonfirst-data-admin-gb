@@ -10,12 +10,18 @@
     "geom:latitude":53.343917,
     "geom:longitude":0.155028,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.342172,
     "lbl:longitude":0.149968,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gayton Le Marsh"
@@ -40,12 +46,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005640"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758775
     ],
     "wof:country":"GB",
-    "wof:geomhash":"295d5ec26213b6a150d2e83457d3bbba",
+    "wof:geomhash":"7e5e0cd9bc2f7cb0c20ab88120397b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404436639,
     "wof:label":"Gayton Le Marsh Civil Parish",
-    "wof:lastmodified":1566632407,
+    "wof:lastmodified":1695877190,
     "wof:name":"Gayton Le Marsh",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

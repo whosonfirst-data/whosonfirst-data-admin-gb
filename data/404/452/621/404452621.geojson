@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003482,
-    "geom:area_square_m":26264818.584216,
+    "geom:area_square_m":26264818.584215,
     "geom:bbox":"0.740576190506,52.3828697625,0.859357027369,52.4480074583",
     "geom:latitude":52.409339,
     "geom:longitude":0.806332,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.419057,
     "lbl:longitude":0.83197,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brettenham"
@@ -54,12 +60,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006096"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125936685
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b4469d0531754858d61eb0ce1320beab",
+    "wof:geomhash":"fc1e2544da34f30405d475554334e917",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452621,
     "wof:label":"Brettenham Civil Parish",
-    "wof:lastmodified":1566632182,
+    "wof:lastmodified":1695877092,
     "wof:name":"Brettenham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

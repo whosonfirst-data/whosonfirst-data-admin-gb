@@ -10,12 +10,18 @@
     "geom:latitude":52.834261,
     "geom:longitude":1.184304,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.829673,
     "lbl:longitude":1.190019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Itteringham"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006438"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125906541
     ],
     "wof:country":"GB",
-    "wof:geomhash":"165b5c563b25daf74ead3e7bd2ec9f29",
+    "wof:geomhash":"bd0057c31209dc2b894802c775cfaa14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404447375,
     "wof:label":"Itteringham Civil Parish",
-    "wof:lastmodified":1566631342,
+    "wof:lastmodified":1695878315,
     "wof:name":"Itteringham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

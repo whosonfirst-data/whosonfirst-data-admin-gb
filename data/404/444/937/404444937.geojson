@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001599,
-    "geom:area_square_m":11852859.282546,
+    "geom:area_square_m":11852859.282547,
     "geom:bbox":"-3.33299683159,53.1370745054,-3.25602220756,53.1819827662",
     "geom:latitude":53.158009,
     "geom:longitude":-3.297932,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.154937,
     "lbl:longitude":-3.30431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangynhafal Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000166"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929045
     ],
     "wof:country":"GB",
-    "wof:geomhash":"469a271d69fdb83479195d70603a2151",
+    "wof:geomhash":"6a11c5c5c5e078e5a719f5843214c666",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444937,
-    "wof:lastmodified":1566632871,
+    "wof:lastmodified":1695877405,
     "wof:name":"Llangynhafal Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

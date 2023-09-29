@@ -10,12 +10,18 @@
     "geom:latitude":53.252141,
     "geom:longitude":-4.408921,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.252274,
     "lbl:longitude":-4.411072,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trewalchmai Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000039"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711523
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9bab02287eaa8c98281b8afdf7ac10ad",
+    "wof:geomhash":"5467e227c80ecfa596098d6bbca63c15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444971,
-    "wof:lastmodified":1566632920,
+    "wof:lastmodified":1695877422,
     "wof:name":"Trewalchmai Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

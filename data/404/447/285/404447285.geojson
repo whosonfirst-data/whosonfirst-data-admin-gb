@@ -10,12 +10,18 @@
     "geom:latitude":53.026982,
     "geom:longitude":-1.750357,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.026651,
     "lbl:longitude":-1.749262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mapleton"
@@ -87,12 +93,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002783"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030927
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6da3a1e5443b6d02da5ff87feb197508",
+    "wof:geomhash":"0035bc8b78f377f13d0e34b7478d4d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404447285,
     "wof:label":"Mapleton Civil Parish",
-    "wof:lastmodified":1566631312,
+    "wof:lastmodified":1695878301,
     "wof:name":"Mapleton",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

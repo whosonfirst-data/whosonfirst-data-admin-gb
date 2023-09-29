@@ -10,12 +10,18 @@
     "geom:latitude":53.075577,
     "geom:longitude":-1.393797,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.076108,
     "lbl:longitude":-1.395472,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Swanwick"
@@ -51,12 +57,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002694"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125885847
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b114db87b1a9614fb1f5449c4d8500a1",
+    "wof:geomhash":"091bdaecceebc6560540ebbfd17a9f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404443039,
     "wof:label":"Swanwick Civil Parish",
-    "wof:lastmodified":1566633024,
+    "wof:lastmodified":1695877470,
     "wof:name":"Swanwick",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

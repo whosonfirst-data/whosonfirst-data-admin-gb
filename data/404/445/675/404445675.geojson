@@ -10,12 +10,18 @@
     "geom:latitude":54.088728,
     "geom:longitude":-1.568381,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.090421,
     "lbl:longitude":-1.57395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Markington with Wallerthwaite"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007384"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759587
     ],
     "wof:country":"GB",
-    "wof:geomhash":"313e16f9756d4d243f53ef96cf2e2012",
+    "wof:geomhash":"2695a0d501cdd7d7d314dcfb8563598a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404445675,
     "wof:label":"Markington with Wallerthwaite Civil Parish",
-    "wof:lastmodified":1566633319,
+    "wof:lastmodified":1695877602,
     "wof:name":"Markington with Wallerthwaite",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

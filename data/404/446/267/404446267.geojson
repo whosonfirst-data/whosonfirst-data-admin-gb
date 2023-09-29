@@ -10,12 +10,18 @@
     "geom:latitude":53.612311,
     "geom:longitude":-2.778445,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.611522,
     "lbl:longitude":-2.776927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bispham"
@@ -47,9 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04005302",
         "gn:id":7299993,
         "qs_pg:id":380420
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753535
     ],
@@ -57,7 +65,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a8ffe821ea1dd2026ad2652ec2ed818",
+    "wof:geomhash":"af2014c0126b87ec0f28e47eeed8722a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +78,7 @@
     ],
     "wof:id":404446267,
     "wof:label":"Bispham Civil Parish",
-    "wof:lastmodified":1582311067,
+    "wof:lastmodified":1695877954,
     "wof:name":"Bispham",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

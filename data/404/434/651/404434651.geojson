@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001179,
-    "geom:area_square_m":9039617.452785,
+    "geom:area_square_m":9039617.452784,
     "geom:bbox":"-3.90553763412,51.6582395372,-3.84729289679,51.6938917907",
     "geom:latitude":51.678393,
     "geom:longitude":-3.876695,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.676368,
     "lbl:longitude":-3.878683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Birchgrove Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000561"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711749
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b0aedb43603cf75bf44526b669372daf",
+    "wof:geomhash":"1a5623c2601a38d81e5fe79a0c463f53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404434651,
-    "wof:lastmodified":1566633563,
+    "wof:lastmodified":1695877714,
     "wof:name":"Birchgrove Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

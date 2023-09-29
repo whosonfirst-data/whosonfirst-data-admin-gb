@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005185,
-    "geom:area_square_m":38719615.150525,
+    "geom:area_square_m":38719615.150524,
     "geom:bbox":"-2.63821223811,52.7850727171,-2.52176801031,52.892358962",
     "geom:latitude":52.848542,
     "geom:longitude":-2.578176,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.857694,
     "lbl:longitude":-2.583039,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hodnet"
@@ -42,12 +48,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011284"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125804077
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0870a71c40d732d335bc5ae6d928e41b",
+    "wof:geomhash":"f7b8bade64f091d1d3e9a5e6c1efb95c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404441645,
     "wof:label":"Hodnet Civil Parish",
-    "wof:lastmodified":1566631735,
+    "wof:lastmodified":1695876899,
     "wof:name":"Hodnet",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

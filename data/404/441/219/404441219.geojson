@@ -10,12 +10,18 @@
     "geom:latitude":51.472426,
     "geom:longitude":-1.715892,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.470488,
     "lbl:longitude":-1.707497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ogbourne St. George"
@@ -42,12 +48,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011792"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126014929
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ed4ec68c26de7a9e38137577046413a3",
+    "wof:geomhash":"ee6ade4cbc6faaf8acdf0a916e9d5fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404441219,
     "wof:label":"Ogbourne St. George Civil Parish",
-    "wof:lastmodified":1566631737,
+    "wof:lastmodified":1695876900,
     "wof:name":"Ogbourne St. George",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

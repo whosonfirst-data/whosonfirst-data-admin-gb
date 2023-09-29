@@ -10,12 +10,18 @@
     "geom:latitude":51.143406,
     "geom:longitude":-3.263575,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.143644,
     "lbl:longitude":-3.261156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bicknoller"
@@ -57,12 +63,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008826"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125780935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"94a502f9a6cda9bb591d992e2b92a101",
+    "wof:geomhash":"6fdeae9c4a98b03b81e1187e7e7b138a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439311,
     "wof:label":"Bicknoller Civil Parish",
-    "wof:lastmodified":1566631920,
+    "wof:lastmodified":1695876984,
     "wof:name":"Bicknoller",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

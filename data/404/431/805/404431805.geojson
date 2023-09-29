@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001444,
-    "geom:area_square_m":10806265.725026,
+    "geom:area_square_m":10806265.725027,
     "geom:bbox":"0.66816013684,52.7274776476,0.732138653854,52.7731255409",
     "geom:latitude":52.749158,
     "geom:longitude":0.703277,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.750781,
     "lbl:longitude":0.703762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rougham"
@@ -51,12 +57,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006164"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327269281
     ],
     "wof:country":"GB",
-    "wof:geomhash":"80e3efb83a0f1cc4042cb98afdad22a5",
+    "wof:geomhash":"b09acf98fa0cab7273e5f5a8077767bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404431805,
     "wof:label":"Rougham Civil Parish",
-    "wof:lastmodified":1566632469,
+    "wof:lastmodified":1695877218,
     "wof:name":"Rougham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

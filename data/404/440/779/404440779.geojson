@@ -10,12 +10,18 @@
     "geom:latitude":52.711528,
     "geom:longitude":-1.441175,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.712236,
     "lbl:longitude":-1.438761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Normanton Le Heath"
@@ -42,12 +48,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005558"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259712903
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c566f40cff1a456122a0c70b400f0129",
+    "wof:geomhash":"bb9636e24443881e0005ab694a2c6ef7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404440779,
     "wof:label":"Normanton Le Heath Civil Parish",
-    "wof:lastmodified":1566631176,
+    "wof:lastmodified":1695878239,
     "wof:name":"Normanton Le Heath",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

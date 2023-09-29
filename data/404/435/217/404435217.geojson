@@ -10,12 +10,18 @@
     "geom:latitude":52.000258,
     "geom:longitude":-4.617903,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.004731,
     "lbl:longitude":-4.621668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boncath Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000411"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3b1e62dc8270c9fc8c3484682c18a46d",
+    "wof:geomhash":"07d7d4ed6d22711189a82e61caefae82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435217,
-    "wof:lastmodified":1566634001,
+    "wof:lastmodified":1695877897,
     "wof:name":"Boncath Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

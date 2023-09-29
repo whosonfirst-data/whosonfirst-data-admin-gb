@@ -10,12 +10,18 @@
     "geom:latitude":51.03655,
     "geom:longitude":-0.026824,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.041238,
     "lbl:longitude":-0.030176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Horsted Keynes"
@@ -63,12 +69,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009989"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125953935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"717f6cf4f7143b2bcb2e2d6b481fd819",
+    "wof:geomhash":"02d49604932ac51f429a60fe38bd2abf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445925,
     "wof:label":"Horsted Keynes Civil Parish",
-    "wof:lastmodified":1566633360,
+    "wof:lastmodified":1695877623,
     "wof:name":"Horsted Keynes",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

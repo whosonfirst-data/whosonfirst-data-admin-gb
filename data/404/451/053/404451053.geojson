@@ -10,12 +10,18 @@
     "geom:latitude":51.51474,
     "geom:longitude":-0.978746,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.5138,
     "lbl:longitude":-0.976585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sonning Common"
@@ -63,12 +69,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008161"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125915969
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b5dc1d86ab7081c7672f7d68a76493fd",
+    "wof:geomhash":"23a28e9a4c9cef31130448ede0e6cc28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404451053,
     "wof:label":"Sonning Common Civil Parish",
-    "wof:lastmodified":1566633452,
+    "wof:lastmodified":1695877660,
     "wof:name":"Sonning Common",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

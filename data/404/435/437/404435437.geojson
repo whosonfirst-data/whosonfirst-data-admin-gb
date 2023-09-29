@@ -10,12 +10,18 @@
     "geom:latitude":52.55176,
     "geom:longitude":-0.882488,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.551046,
     "lbl:longitude":-0.880002,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cranoe"
@@ -51,12 +57,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005417"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126027595
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4a35965fc0e9b3e1b88deffec5415936",
+    "wof:geomhash":"42adbf5ea2346e64d62a06f632d52cdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404435437,
     "wof:label":"Cranoe Civil Parish",
-    "wof:lastmodified":1566634008,
+    "wof:lastmodified":1695877901,
     "wof:name":"Cranoe",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

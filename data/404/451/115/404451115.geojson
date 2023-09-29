@@ -10,12 +10,18 @@
     "geom:latitude":51.289366,
     "geom:longitude":0.596842,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.292577,
     "lbl:longitude":0.596305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thurnham"
@@ -60,12 +66,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004974"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125854189
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6f91e5d9c5f2d92f28011f0d9df6908f",
+    "wof:geomhash":"c3d4e307a919fdc9fff6603cc6022536",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404451115,
     "wof:label":"Thurnham Civil Parish",
-    "wof:lastmodified":1566633521,
+    "wof:lastmodified":1695877692,
     "wof:name":"Thurnham",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

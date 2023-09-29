@@ -10,12 +10,18 @@
     "geom:latitude":52.09219,
     "geom:longitude":1.265322,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.091446,
     "lbl:longitude":1.264954,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Bealings"
@@ -58,12 +64,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009410"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754463
     ],
     "wof:country":"GB",
-    "wof:geomhash":"09c107e7464d0239b5e205b66d0ea40b",
+    "wof:geomhash":"9fba319bcd5f573010a5a9c4fb24c9d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404449973,
     "wof:label":"Great Bealings Civil Parish",
-    "wof:lastmodified":1566631448,
+    "wof:lastmodified":1695876791,
     "wof:name":"Great Bealings",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

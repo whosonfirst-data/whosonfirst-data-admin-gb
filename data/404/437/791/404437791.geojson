@@ -10,12 +10,18 @@
     "geom:latitude":54.052096,
     "geom:longitude":-1.468099,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.052702,
     "lbl:longitude":-1.466508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Walkingham Hill with Occaney"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007432"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753197
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fb2587a43ec290d30eef794dc5d67546",
+    "wof:geomhash":"195b02a2f979a2df6a749f50ec4e9a70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404437791,
     "wof:label":"Walkingham Hill with Occaney Civil Parish",
-    "wof:lastmodified":1566632058,
+    "wof:lastmodified":1695877040,
     "wof:name":"Walkingham Hill with Occaney",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

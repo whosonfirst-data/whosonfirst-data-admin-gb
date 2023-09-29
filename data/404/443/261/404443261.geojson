@@ -10,12 +10,18 @@
     "geom:latitude":52.453655,
     "geom:longitude":1.395321,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.454458,
     "lbl:longitude":1.395324,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Earsham"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006540"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209450405
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4f6ca67ae27d5d8339675a7928e6e6ca",
+    "wof:geomhash":"db59c49a269d44dbbe148f1ad7c49a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404443261,
     "wof:label":"Earsham Civil Parish",
-    "wof:lastmodified":1566633014,
+    "wof:lastmodified":1695877465,
     "wof:name":"Earsham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":55.308614,
     "geom:longitude":-1.719052,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.310909,
     "lbl:longitude":-1.708367,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Felton"
@@ -90,12 +96,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010784"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125994927
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c40eaae81368b8236512525a4dd9266f",
+    "wof:geomhash":"49b06b3ebcc8a5df69e3a75a2fcbe01d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404455283,
     "wof:label":"Felton Civil Parish",
-    "wof:lastmodified":1566632298,
+    "wof:lastmodified":1695877140,
     "wof:name":"Felton",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

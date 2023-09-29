@@ -10,12 +10,18 @@
     "geom:latitude":50.291664,
     "geom:longitude":-4.953498,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.293076,
     "lbl:longitude":-4.952628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u0431"
@@ -66,12 +72,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011514"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031845
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d98315847ca94a7efd2fdd2157d97182",
+    "wof:geomhash":"488e74f6cde1f173c3c16958037de7ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404441105,
     "wof:label":"Probus Civil Parish",
-    "wof:lastmodified":1566631721,
+    "wof:lastmodified":1695876894,
     "wof:name":"Probus",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

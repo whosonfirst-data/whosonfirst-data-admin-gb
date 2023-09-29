@@ -10,12 +10,18 @@
     "geom:latitude":53.987168,
     "geom:longitude":-0.867269,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.989114,
     "lbl:longitude":-0.867275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Full Sutton"
@@ -63,12 +69,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000397"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031637
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7728cb62387807432ff3f05fa67470fa",
+    "wof:geomhash":"28b9db3f3e845e26e8079e5ebc763773",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404438413,
     "wof:label":"Full Sutton Civil Parish",
-    "wof:lastmodified":1566632553,
+    "wof:lastmodified":1695877257,
     "wof:name":"Full Sutton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.257842,
     "geom:longitude":-1.609275,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.253589,
     "lbl:longitude":-1.616054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ludgershall"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011760"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360320647
     ],
     "wof:country":"GB",
-    "wof:geomhash":"66fdc909701fe392a77e7aec319d3c7b",
+    "wof:geomhash":"6bc9c7c7eb0e76d116840809853d83ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447475,
     "wof:label":"Ludgershall Civil Parish",
-    "wof:lastmodified":1566631308,
+    "wof:lastmodified":1695878299,
     "wof:name":"Ludgershall",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

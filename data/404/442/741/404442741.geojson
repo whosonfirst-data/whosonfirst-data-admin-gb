@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003759,
-    "geom:area_square_m":28752198.362243,
+    "geom:area_square_m":28752198.362244,
     "geom:bbox":"-2.94352903971,51.7434604217,-2.85099536132,51.8335899718",
     "geom:latitude":51.783023,
     "geom:longitude":-2.90656,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.77688,
     "lbl:longitude":-2.903427,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanarth Community"
@@ -40,12 +46,15 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000784"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125911271
     ],
     "wof:country":"GB",
-    "wof:geomhash":"829bb48178ca387bf8392c42108c9fc0",
+    "wof:geomhash":"0fd781afab3ddf795a64a0b2858fe5f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442741,
-    "wof:lastmodified":1566633250,
+    "wof:lastmodified":1695877574,
     "wof:name":"Llanarth Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

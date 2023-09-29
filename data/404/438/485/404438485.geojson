@@ -10,12 +10,18 @@
     "geom:latitude":52.877057,
     "geom:longitude":-1.238257,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.874658,
     "lbl:longitude":-1.232262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thrumpton"
@@ -63,12 +69,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008008"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126050557
     ],
     "wof:country":"GB",
-    "wof:geomhash":"44764028cf531dfa3a4eb81c36884bce",
+    "wof:geomhash":"46f14475628d86f8031b9db6096942b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404438485,
     "wof:label":"Thrumpton Civil Parish",
-    "wof:lastmodified":1566632551,
+    "wof:lastmodified":1695877256,
     "wof:name":"Thrumpton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

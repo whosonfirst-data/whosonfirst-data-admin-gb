@@ -10,12 +10,18 @@
     "geom:latitude":51.100868,
     "geom:longitude":0.458551,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.099398,
     "lbl:longitude":0.457696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Goudhurst"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005122"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868139
     ],
     "wof:country":"GB",
-    "wof:geomhash":"583db382cec113378d97d6809843c067",
+    "wof:geomhash":"f4d39db5728bdbef8b99e9d9aade667d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404448307,
     "wof:label":"Goudhurst Civil Parish",
-    "wof:lastmodified":1566631460,
+    "wof:lastmodified":1695876797,
     "wof:name":"Goudhurst",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

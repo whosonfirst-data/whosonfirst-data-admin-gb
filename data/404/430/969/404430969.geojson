@@ -10,12 +10,18 @@
     "geom:latitude":53.258662,
     "geom:longitude":-2.753003,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.259942,
     "lbl:longitude":-2.753531,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alvanley"
@@ -54,12 +60,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011037"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910465
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7c7ce6e28def18177f5b770f0da96c4c",
+    "wof:geomhash":"13899597dc55e4686411e92a11308ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430969,
     "wof:label":"Alvanley Civil Parish",
-    "wof:lastmodified":1566632002,
+    "wof:lastmodified":1695877016,
     "wof:name":"Alvanley",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

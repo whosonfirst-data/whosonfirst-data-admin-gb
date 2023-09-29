@@ -10,12 +10,18 @@
     "geom:latitude":50.846623,
     "geom:longitude":-2.72948,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.846246,
     "lbl:longitude":-2.729231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chedington"
@@ -55,12 +61,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003521"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754845
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3d78e7632a745ab477065fa67dcab144",
+    "wof:geomhash":"f388f2072a99b49a0948ff621ce46922",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404438817,
     "wof:label":"Chedington Civil Parish",
-    "wof:lastmodified":1566632556,
+    "wof:lastmodified":1695877258,
     "wof:name":"Chedington",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

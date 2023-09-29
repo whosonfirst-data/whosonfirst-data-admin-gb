@@ -10,12 +10,18 @@
     "geom:latitude":51.984906,
     "geom:longitude":-2.271594,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.98471,
     "lbl:longitude":-2.270725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eldersfield"
@@ -54,12 +60,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010301"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1210045371
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c62a89c7ed8096b5e814b61c157e51f6",
+    "wof:geomhash":"04ecac3f62d3ab74fe36d914f85cfe19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454821,
     "wof:label":"Eldersfield Civil Parish",
-    "wof:lastmodified":1566632664,
+    "wof:lastmodified":1695877308,
     "wof:name":"Eldersfield",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

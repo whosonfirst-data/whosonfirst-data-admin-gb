@@ -10,12 +10,18 @@
     "geom:latitude":52.104665,
     "geom:longitude":-0.033949,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.10355,
     "lbl:longitude":-0.033632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whaddon"
@@ -57,12 +63,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001852"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125968421
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dd9badaae9d06dfcf8f42f0cb4893792",
+    "wof:geomhash":"4a0a5f2740cc66050183f843a2587f39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404449981,
     "wof:label":"Whaddon Civil Parish",
-    "wof:lastmodified":1566631458,
+    "wof:lastmodified":1695876796,
     "wof:name":"Whaddon",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00201,
-    "geom:area_square_m":14013103.826187,
+    "geom:area_square_m":14013103.826188,
     "geom:bbox":"-1.86948807516,55.6592886323,-1.77642616534,55.6933949608",
     "geom:latitude":55.677656,
     "geom:longitude":-1.822423,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.677307,
     "lbl:longitude":-1.836384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Holy Island"
@@ -72,12 +78,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010808"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125784475
     ],
     "wof:country":"GB",
-    "wof:geomhash":"acf4939cb480ceedbee3cd31bbfeec3e",
+    "wof:geomhash":"14dcab0bccf1d7a36b88c3e1884dd319",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404436539,
     "wof:label":"Holy Island Civil Parish",
-    "wof:lastmodified":1566632377,
+    "wof:lastmodified":1695877177,
     "wof:name":"Holy Island",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

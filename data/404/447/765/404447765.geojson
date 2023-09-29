@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000824,
-    "geom:area_square_m":6402348.957077,
+    "geom:area_square_m":6402348.957076,
     "geom:bbox":"-2.332402006,51.0750945393,-2.28117671472,51.1016402363",
     "geom:latitude":51.087864,
     "geom:longitude":-2.303338,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.089197,
     "lbl:longitude":-2.303337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zeals"
@@ -60,12 +66,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011875"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125961427
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eda38c4f51b2f57694bc392a0b992744",
+    "wof:geomhash":"77af09f192ea64cf54715d1fba798e4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404447765,
     "wof:label":"Zeals Civil Parish",
-    "wof:lastmodified":1566631245,
+    "wof:lastmodified":1695878268,
     "wof:name":"Zeals",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

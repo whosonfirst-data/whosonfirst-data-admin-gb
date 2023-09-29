@@ -10,12 +10,18 @@
     "geom:latitude":52.018855,
     "geom:longitude":-0.33778,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.020878,
     "lbl:longitude":-0.337206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0628\u0628\u0631\u0634\u0644"
@@ -75,12 +81,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011969"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125861787
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aef5eaf0e8bbde995dc86fdaf3899bc0",
+    "wof:geomhash":"ad12db9a4e09a6595743a2ebb7ca56ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404441269,
     "wof:label":"Meppershall Civil Parish",
-    "wof:lastmodified":1566631753,
+    "wof:lastmodified":1695876906,
     "wof:name":"Meppershall",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

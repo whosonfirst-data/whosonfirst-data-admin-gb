@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002514,
-    "geom:area_square_m":18282097.43299,
+    "geom:area_square_m":18282097.432989,
     "geom:bbox":"-0.778231420673,53.947593538,-0.685233177731,54.0025853063",
     "geom:latitude":53.974554,
     "geom:longitude":-0.736569,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.964969,
     "lbl:longitude":-0.744286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Millington"
@@ -78,12 +84,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000438"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880793
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1cd80b6220d97e2c540ff7a8b21b4bdb",
+    "wof:geomhash":"8e42d7c05716834eb50d0623f21031de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404452457,
     "wof:label":"Millington Civil Parish",
-    "wof:lastmodified":1566632250,
+    "wof:lastmodified":1695877121,
     "wof:name":"Millington",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

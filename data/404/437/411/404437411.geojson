@@ -10,12 +10,18 @@
     "geom:latitude":51.234738,
     "geom:longitude":-1.08767,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.237104,
     "lbl:longitude":-1.088017,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cliddesden"
@@ -57,12 +63,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004446"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125963375
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0aa7fc52b9fe646eb83f13d9ef908e7c",
+    "wof:geomhash":"7122fd5093ff67d5b7387447811ecaae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404437411,
     "wof:label":"Cliddesden Civil Parish",
-    "wof:lastmodified":1566632125,
+    "wof:lastmodified":1695877068,
     "wof:name":"Cliddesden",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

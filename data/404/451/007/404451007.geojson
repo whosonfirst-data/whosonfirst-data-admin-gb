@@ -10,12 +10,18 @@
     "geom:latitude":50.685131,
     "geom:longitude":-2.408411,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.684989,
     "lbl:longitude":-2.408134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whitcombe"
@@ -54,12 +60,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003617"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360219961
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a87fc7a73101fe87bd0e1c0cacafd6e1",
+    "wof:geomhash":"52b39cd6c4215f89523b1640e397f3a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451007,
     "wof:label":"Whitcombe Civil Parish",
-    "wof:lastmodified":1566633453,
+    "wof:lastmodified":1695877660,
     "wof:name":"Whitcombe",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

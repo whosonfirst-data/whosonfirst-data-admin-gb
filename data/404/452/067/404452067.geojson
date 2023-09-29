@@ -10,12 +10,18 @@
     "geom:latitude":52.256661,
     "geom:longitude":-2.494121,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.252284,
     "lbl:longitude":-2.489556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wolferlow"
@@ -52,12 +58,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000914"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757731
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b68e9f2960c705928ea4edbf907a128a",
+    "wof:geomhash":"b8cc2d242fd26b1e9e36691d29aba566",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404452067,
     "wof:label":"Wolferlow Civil Parish",
-    "wof:lastmodified":1566632254,
+    "wof:lastmodified":1695877122,
     "wof:name":"Wolferlow",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

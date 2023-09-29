@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000665,
-    "geom:area_square_m":5080949.484423,
+    "geom:area_square_m":5080949.484424,
     "geom:bbox":"0.80298120172,51.8050667011,0.841816428085,51.837282358",
     "geom:latitude":51.820436,
     "geom:longitude":0.823551,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.820231,
     "lbl:longitude":0.823251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Layer Breton"
@@ -60,12 +66,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003995"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054977
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0f9b7e4482150f8cb52b6a0d45e765a0",
+    "wof:geomhash":"30e5e6458e62cc5bb8f164d01e5c147c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404441347,
     "wof:label":"Layer Breton Civil Parish",
-    "wof:lastmodified":1566631770,
+    "wof:lastmodified":1695876911,
     "wof:name":"Layer Breton",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

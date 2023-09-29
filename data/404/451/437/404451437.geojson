@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001245,
-    "geom:area_square_m":9328079.818611,
+    "geom:area_square_m":9328079.818612,
     "geom:bbox":"-2.52477711241,52.6991231459,-2.45082444427,52.7341983353",
     "geom:latitude":52.714848,
     "geom:longitude":-2.486252,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.711121,
     "lbl:longitude":-2.485696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hadley"
@@ -91,12 +97,15 @@
         1360698911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000930"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756707
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2e60241dc7011915f6fbb205c2ea3b12",
+    "wof:geomhash":"735ce2cf0f867cd285f96ba680743dab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +118,7 @@
     ],
     "wof:id":404451437,
     "wof:label":"Hadley & Leegomery Civil Parish",
-    "wof:lastmodified":1566633452,
+    "wof:lastmodified":1695877660,
     "wof:name":"Hadley & Leegomery",
     "wof:parent_id":1360698911,
     "wof:placetype":"localadmin",

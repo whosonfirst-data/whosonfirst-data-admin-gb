@@ -10,12 +10,18 @@
     "geom:latitude":50.930689,
     "geom:longitude":-2.183979,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.927884,
     "lbl:longitude":-2.187675,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Iwerne Minster"
@@ -66,12 +72,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010493"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125920689
     ],
     "wof:country":"GB",
-    "wof:geomhash":"48bfc80dd5170282ffb922c0d9af3819",
+    "wof:geomhash":"fd554a59d2833f997f5801b8079c6305",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404434301,
     "wof:label":"Iwerne Minster Civil Parish",
-    "wof:lastmodified":1566633543,
+    "wof:lastmodified":1695877704,
     "wof:name":"Iwerne Minster",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

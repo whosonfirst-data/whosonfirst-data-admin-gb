@@ -10,12 +10,18 @@
     "geom:latitude":53.174271,
     "geom:longitude":-0.869719,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.173604,
     "lbl:longitude":-0.869721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ossington"
@@ -51,12 +57,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007934"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977423
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9067bc986057a860eea561ac6ea7360a",
+    "wof:geomhash":"4cce50a23bbda0ede31b89db30276840",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404430053,
     "wof:label":"Ossington Civil Parish",
-    "wof:lastmodified":1566631965,
+    "wof:lastmodified":1695877002,
     "wof:name":"Ossington",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

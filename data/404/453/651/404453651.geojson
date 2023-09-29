@@ -10,12 +10,18 @@
     "geom:latitude":54.04049,
     "geom:longitude":-1.410057,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.041351,
     "lbl:longitude":-1.415949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arkendale"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007306"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126027807
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c83d93052bc68d3d5b3aeb965f13889e",
+    "wof:geomhash":"c53bc57d012a8adca98e02abb1b5fa24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453651,
     "wof:label":"Arkendale Civil Parish",
-    "wof:lastmodified":1566632779,
+    "wof:lastmodified":1695877365,
     "wof:name":"Arkendale",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

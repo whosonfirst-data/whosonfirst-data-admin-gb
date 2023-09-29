@@ -10,12 +10,18 @@
     "geom:latitude":52.097584,
     "geom:longitude":0.352535,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.098587,
     "lbl:longitude":0.335778,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0633\u0647\u064a\u062b"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001808"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125975637
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e4335672c13f4bfd52184d3bfe234f5a",
+    "wof:geomhash":"c41fb2d61e4fe65184c63377cbb4d25f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404437991,
     "wof:label":"Horseheath Civil Parish",
-    "wof:lastmodified":1566632054,
+    "wof:lastmodified":1695877038,
     "wof:name":"Horseheath",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

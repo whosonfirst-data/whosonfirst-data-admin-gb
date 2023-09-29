@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001364,
-    "geom:area_square_m":10393438.856681,
+    "geom:area_square_m":10393438.85668,
     "geom:bbox":"0.949240117253,51.9345442907,1.0268485743,51.9639274057",
     "geom:latitude":51.949174,
     "geom:longitude":0.988645,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.94989,
     "lbl:longitude":0.992525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dedham"
@@ -78,12 +84,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003984"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879213
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f13bfa8fcd6c95c265cede2c3f9d4d6b",
+    "wof:geomhash":"cc3a3626dcb707ba504ec798bcb91cb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404447943,
     "wof:label":"Dedham Civil Parish",
-    "wof:lastmodified":1566631343,
+    "wof:lastmodified":1695878316,
     "wof:name":"Dedham",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

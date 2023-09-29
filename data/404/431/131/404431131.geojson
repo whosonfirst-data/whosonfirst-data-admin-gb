@@ -10,12 +10,18 @@
     "geom:latitude":54.295639,
     "geom:longitude":-2.77669,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.296154,
     "lbl:longitude":-2.773787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Helsington"
@@ -54,12 +60,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002611"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977691
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7e8fa22e797a55438fdea1a2293c4c33",
+    "wof:geomhash":"0202034cd9bbe0555d5298e8da3ccd9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404431131,
     "wof:label":"Helsington Civil Parish",
-    "wof:lastmodified":1566632487,
+    "wof:lastmodified":1695877226,
     "wof:name":"Helsington",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

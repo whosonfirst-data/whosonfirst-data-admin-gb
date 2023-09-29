@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002665,
-    "geom:area_square_m":20744659.779994,
+    "geom:area_square_m":20744659.779993,
     "geom:bbox":"-3.71287293046,50.9723710587,-3.6211343265,51.0131080819",
     "geom:latitude":50.992135,
     "geom:longitude":-3.668011,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.992865,
     "lbl:longitude":-3.668013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Knowstone"
@@ -57,12 +63,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003099"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293128161
     ],
     "wof:country":"GB",
-    "wof:geomhash":"375f4ae922f172567e4f71074da5208f",
+    "wof:geomhash":"5c5c886c54e6a5dc00efad5631f9510f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446647,
     "wof:label":"Knowstone Civil Parish",
-    "wof:lastmodified":1566631672,
+    "wof:lastmodified":1695876875,
     "wof:name":"Knowstone",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

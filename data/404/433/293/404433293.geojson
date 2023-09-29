@@ -10,12 +10,18 @@
     "geom:latitude":52.696453,
     "geom:longitude":0.194677,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.708607,
     "lbl:longitude":0.175637,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Walton"
@@ -64,12 +70,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006377"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754065
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a717dd9d09a049f6dbda9860d4806ed3",
+    "wof:geomhash":"06cb9836353fe4de3f0944840da87167",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404433293,
     "wof:label":"West Walton Civil Parish",
-    "wof:lastmodified":1566633670,
+    "wof:lastmodified":1695877761,
     "wof:name":"West Walton",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

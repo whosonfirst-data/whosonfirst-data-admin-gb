@@ -10,12 +10,18 @@
     "geom:latitude":51.349491,
     "geom:longitude":-1.086459,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.349342,
     "lbl:longitude":-1.086461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u062a\u0634\u064a\u0633\u062a\u064a\u0631"
@@ -90,12 +96,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004476"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881533
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4d615f9960c2bf2172a100dcf7803ba8",
+    "wof:geomhash":"703aa01949b814ab5095a0e5f7b678c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404455011,
     "wof:label":"Silchester Civil Parish",
-    "wof:lastmodified":1566632301,
+    "wof:lastmodified":1695877142,
     "wof:name":"Silchester",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.973221,
     "geom:longitude":1.308269,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.974945,
     "lbl:longitude":1.317762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Trimley St. Mary"
@@ -60,12 +66,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009466"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1210045821
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e3492196a10fe0fd7b22e99ab203527f",
+    "wof:geomhash":"6885de2a72f410914d281950d73f34d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404454443,
     "wof:label":"Trimley St. Mary Civil Parish",
-    "wof:lastmodified":1566632711,
+    "wof:lastmodified":1695877332,
     "wof:name":"Trimley St. Mary",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.201706,
     "geom:longitude":-1.621374,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.20427,
     "lbl:longitude":-1.61799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thruxton"
@@ -57,12 +63,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004641"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125997127
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c7a55b894773281803205d9b12889745",
+    "wof:geomhash":"3a02581e749add877ae9ed31f1718227",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453873,
     "wof:label":"Thruxton Civil Parish",
-    "wof:lastmodified":1566632769,
+    "wof:lastmodified":1695877360,
     "wof:name":"Thruxton",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

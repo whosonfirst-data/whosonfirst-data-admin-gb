@@ -10,12 +10,18 @@
     "geom:latitude":51.851642,
     "geom:longitude":-0.305306,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.847117,
     "lbl:longitude":-0.308416,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kimpton"
@@ -51,12 +57,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004781"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853543
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3eccfa90d137eb0e35fc6b6ee3d4247e",
+    "wof:geomhash":"e286a551e16d275d8016549629303ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404451921,
     "wof:label":"Kimpton Civil Parish",
-    "wof:lastmodified":1566633528,
+    "wof:lastmodified":1695877697,
     "wof:name":"Kimpton",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

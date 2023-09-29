@@ -10,12 +10,18 @@
     "geom:latitude":53.117378,
     "geom:longitude":-2.478636,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.116327,
     "lbl:longitude":-2.481344,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leighton"
@@ -95,9 +101,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04010962",
         "gn:id":7299906,
         "qs_pg:id":380399
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759021
     ],
@@ -105,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a9e66fa350dd355e750f2c19af936fa",
+    "wof:geomhash":"5f4e610d18dff4fdefeaca15471270e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +126,7 @@
     ],
     "wof:id":404444773,
     "wof:label":"Leighton Civil Parish",
-    "wof:lastmodified":1582311119,
+    "wof:lastmodified":1695877975,
     "wof:name":"Leighton",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

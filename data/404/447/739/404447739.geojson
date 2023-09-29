@@ -10,12 +10,18 @@
     "geom:latitude":52.340716,
     "geom:longitude":-1.747083,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.339686,
     "lbl:longitude":-1.755491,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lapworth"
@@ -54,12 +60,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009829"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125961087
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eea1720e00c483ae37a4388178f09bd6",
+    "wof:geomhash":"9b5e65bc06f489df4aca92da7a20c8c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447739,
     "wof:label":"Lapworth Civil Parish",
-    "wof:lastmodified":1566631240,
+    "wof:lastmodified":1695878267,
     "wof:name":"Lapworth",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

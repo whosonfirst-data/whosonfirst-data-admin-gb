@@ -10,12 +10,18 @@
     "geom:latitude":53.637143,
     "geom:longitude":-1.424181,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.636224,
     "lbl:longitude":-1.424179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wintersett"
@@ -54,12 +60,15 @@
         1360698945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000251"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125912345
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24a739c52a287e9c0d78b27e32f41da8",
+    "wof:geomhash":"f7e16b27b7332a891f75301836df5ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404453517,
     "wof:label":"Wintersett Civil Parish",
-    "wof:lastmodified":1566632792,
+    "wof:lastmodified":1695877370,
     "wof:name":"Wintersett",
     "wof:parent_id":1360698945,
     "wof:placetype":"localadmin",

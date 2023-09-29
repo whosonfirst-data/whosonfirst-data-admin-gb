@@ -10,12 +10,18 @@
     "geom:latitude":52.749244,
     "geom:longitude":-2.991654,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.753719,
     "lbl:longitude":-2.994215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Melverley"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011314"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125867489
     ],
     "wof:country":"GB",
-    "wof:geomhash":"46bfd9ea5a5231b4d3fc5fd8cb3f17a2",
+    "wof:geomhash":"79baddf293c2dce368d97750ecb8fb52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429615,
     "wof:label":"Melverley Civil Parish",
-    "wof:lastmodified":1566633163,
+    "wof:lastmodified":1695877532,
     "wof:name":"Melverley",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.334934,
     "geom:longitude":0.428359,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.335272,
     "lbl:longitude":0.428898,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u0646\u0648\u062f\u0644\u0646\u062f"
@@ -84,12 +90,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005107"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125996249
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b9d5df44e41451d013a81531af1f5464",
+    "wof:geomhash":"973d464bcc22ac7a57bb058cebfce99f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404442453,
     "wof:label":"Snodland Civil Parish",
-    "wof:lastmodified":1566633231,
+    "wof:lastmodified":1695877564,
     "wof:name":"Snodland",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

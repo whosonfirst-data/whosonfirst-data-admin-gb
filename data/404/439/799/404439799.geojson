@@ -10,12 +10,18 @@
     "geom:latitude":50.866761,
     "geom:longitude":-3.463653,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.865828,
     "lbl:longitude":-3.462096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Butterleigh"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003010"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4840f634d9a1fc1677754c335bf77a0c",
+    "wof:geomhash":"a61d1692bce901241817946e1f5b6d4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404439799,
     "wof:label":"Butterleigh Civil Parish",
-    "wof:lastmodified":1566631831,
+    "wof:lastmodified":1695876941,
     "wof:name":"Butterleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

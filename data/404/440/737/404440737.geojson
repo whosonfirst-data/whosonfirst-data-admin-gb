@@ -10,12 +10,18 @@
     "geom:latitude":52.815971,
     "geom:longitude":-2.723997,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.815528,
     "lbl:longitude":-2.727204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clive"
@@ -45,12 +51,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011249"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125887421
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9964a6a05713bc41cfb598ee375ad054",
+    "wof:geomhash":"43e3f3e28cd9da83d8d99724d10e59f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404440737,
     "wof:label":"Clive Civil Parish",
-    "wof:lastmodified":1566631128,
+    "wof:lastmodified":1695878216,
     "wof:name":"Clive",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

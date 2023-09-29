@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009103,
-    "geom:area_square_m":67739762.061325,
+    "geom:area_square_m":67739762.061326,
     "geom:bbox":"-3.8496987526,52.9493403729,-3.66986460788,53.052336733",
     "geom:latitude":52.999872,
     "geom:longitude":-3.756739,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.010552,
     "lbl:longitude":-3.747932,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ysbyty Ifan Community"
@@ -40,12 +46,15 @@
         1360698739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000139"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711655
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d829cfffa0ee4927da0b697329f5237c",
+    "wof:geomhash":"3d9dee31f6131d65682633be580a7802",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404450769,
-    "wof:lastmodified":1566633799,
+    "wof:lastmodified":1695877817,
     "wof:name":"Ysbyty Ifan Community",
     "wof:parent_id":1360698739,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.705231,
     "geom:longitude":-1.874207,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.704366,
     "lbl:longitude":-1.872964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ampney St. Peter"
@@ -42,12 +48,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004183"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976093
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fa595f8251afef09fe12ad9473cca114",
+    "wof:geomhash":"5879750c29a35fd1c2abf90b443d2cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404438983,
     "wof:label":"Ampney St. Peter Civil Parish",
-    "wof:lastmodified":1566632576,
+    "wof:lastmodified":1695877267,
     "wof:name":"Ampney St. Peter",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.658418,
     "geom:longitude":-1.208787,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.652649,
     "lbl:longitude":-1.221689,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clifton Hampden"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008116"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125790283
     ],
     "wof:country":"GB",
-    "wof:geomhash":"421ec184da74c76479bbe2b1cb9b1e15",
+    "wof:geomhash":"1be79740eff93df6a63218a667260f24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404436805,
     "wof:label":"Clifton Hampden Civil Parish",
-    "wof:lastmodified":1566632359,
+    "wof:lastmodified":1695877169,
     "wof:name":"Clifton Hampden",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

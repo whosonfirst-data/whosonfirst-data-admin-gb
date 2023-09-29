@@ -10,12 +10,18 @@
     "geom:latitude":52.036047,
     "geom:longitude":-4.463767,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.033903,
     "lbl:longitude":-4.471022,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Newcastle Emlyn Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000549"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852975
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7a5f46406a76a82bad01a9b54e9bcc52",
+    "wof:geomhash":"cfe9408de9c2eff9b0f30cb4464fb038",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404450051,
-    "wof:lastmodified":1566633833,
+    "wof:lastmodified":1695877830,
     "wof:name":"Newcastle Emlyn Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

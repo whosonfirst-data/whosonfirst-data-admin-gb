@@ -10,12 +10,18 @@
     "geom:latitude":53.12277,
     "geom:longitude":-1.402035,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.119559,
     "lbl:longitude":-1.402591,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shirland and Higham"
@@ -43,12 +49,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002877"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753331
     ],
     "wof:country":"GB",
-    "wof:geomhash":"de6d452d6765ad3bc6f26d6ab93ddbb7",
+    "wof:geomhash":"904016d94eb32b4e1778ff6d330b1ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404432835,
     "wof:label":"Shirland and Higham Civil Parish",
-    "wof:lastmodified":1566633899,
+    "wof:lastmodified":1695877849,
     "wof:name":"Shirland and Higham",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

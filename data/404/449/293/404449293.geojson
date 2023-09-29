@@ -10,12 +10,18 @@
     "geom:latitude":52.070761,
     "geom:longitude":-3.131368,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.068976,
     "lbl:longitude":-3.130229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hay Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000281"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711939
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6081708c2a61456c42fe4e8b17c4b88c",
+    "wof:geomhash":"6bbb0a01b565d5d5b881486f5047fe2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449293,
-    "wof:lastmodified":1566631383,
+    "wof:lastmodified":1695878330,
     "wof:name":"Hay Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

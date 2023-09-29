@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00084,
-    "geom:area_square_m":6494423.030126,
+    "geom:area_square_m":6494423.030125,
     "geom:bbox":"-2.51355891348,51.2898473978,-2.45861156731,51.3183933716",
     "geom:latitude":51.306156,
     "geom:longitude":-2.489935,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.305277,
     "lbl:longitude":-2.497224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Paulton"
@@ -66,12 +72,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000983"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126003567
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fa836082ecf60ed534166d1444e88f03",
+    "wof:geomhash":"f6dd5b975f928d1c613d7b2dd3caecf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404442245,
     "wof:label":"Paulton Civil Parish",
-    "wof:lastmodified":1566633213,
+    "wof:lastmodified":1695877556,
     "wof:name":"Paulton",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

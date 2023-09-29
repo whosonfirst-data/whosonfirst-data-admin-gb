@@ -10,12 +10,18 @@
     "geom:latitude":53.115345,
     "geom:longitude":-2.34697,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.114857,
     "lbl:longitude":-2.346696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0633\u0644\u0644"
@@ -69,12 +75,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010947"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125988499
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a217b2ab1da57a6cd4dee2c8848dbf2b",
+    "wof:geomhash":"8360dfeaa7570646c0e650935f3bde78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404429473,
     "wof:label":"Hassall Civil Parish",
-    "wof:lastmodified":1566633164,
+    "wof:lastmodified":1695877532,
     "wof:name":"Hassall",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001843,
-    "geom:area_square_m":13280491.060641,
+    "geom:area_square_m":13280491.06064,
     "geom:bbox":"-0.503098438911,54.325006027,-0.418601784532,54.3714372432",
     "geom:latitude":54.346467,
     "geom:longitude":-0.458827,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.346017,
     "lbl:longitude":-0.455307,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cloughton"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007664"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126028715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e0bb10c36283be35804b32b15ee296f1",
+    "wof:geomhash":"0ba7011a763fc2fd81554b30944a1c4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404435411,
     "wof:label":"Cloughton Civil Parish",
-    "wof:lastmodified":1566634055,
+    "wof:lastmodified":1695877926,
     "wof:name":"Cloughton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001793,
-    "geom:area_square_m":13048104.254739,
+    "geom:area_square_m":13048104.254738,
     "geom:bbox":"-1.81032994897,53.9208725805,-1.75747351391,53.9729562216",
     "geom:latitude":53.949929,
     "geom:longitude":-1.782999,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.948785,
     "lbl:longitude":-1.782494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0646\u062a\u0648\u0646"
@@ -102,12 +108,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007331"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125989227
     ],
     "wof:country":"GB",
-    "wof:geomhash":"71b126c13d5aa5b9accf72eaf6b14244",
+    "wof:geomhash":"43c243f31f0db97e1fbd0b13eaeeb230",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404440915,
     "wof:label":"Denton Civil Parish",
-    "wof:lastmodified":1566631169,
+    "wof:lastmodified":1695878235,
     "wof:name":"Denton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

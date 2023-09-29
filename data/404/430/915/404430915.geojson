@@ -10,12 +10,18 @@
     "geom:latitude":51.791992,
     "geom:longitude":-2.271291,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.793248,
     "lbl:longitude":-2.268358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Haresfield"
@@ -54,12 +60,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004357"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125863707
     ],
     "wof:country":"GB",
-    "wof:geomhash":"10a3be13203c190ec9090309479d1f5d",
+    "wof:geomhash":"db9c41386ec7a0d630a80a78a9f1f736",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430915,
     "wof:label":"Haresfield Civil Parish",
-    "wof:lastmodified":1566631980,
+    "wof:lastmodified":1695877008,
     "wof:name":"Haresfield",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

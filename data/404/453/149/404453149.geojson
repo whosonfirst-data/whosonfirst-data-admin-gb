@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00782,
-    "geom:area_square_m":58992965.363616,
+    "geom:area_square_m":58992965.363614,
     "geom:bbox":"0.216398036437,52.3633917746,0.425326486057,52.4402307969",
     "geom:latitude":52.405753,
     "geom:longitude":0.304734,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.397762,
     "lbl:longitude":0.296029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ely"
@@ -87,12 +93,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001630"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854889
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d5c4aa7fe9f66575d2e3a84952119c52",
+    "wof:geomhash":"5206b94aaf7770f5b1de9bb739eb1286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404453149,
     "wof:label":"Ely Civil Parish",
-    "wof:lastmodified":1566632859,
+    "wof:lastmodified":1695877399,
     "wof:name":"Ely",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

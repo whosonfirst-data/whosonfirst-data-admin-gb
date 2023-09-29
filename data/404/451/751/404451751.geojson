@@ -10,12 +10,18 @@
     "geom:latitude":53.287535,
     "geom:longitude":-0.585747,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.287091,
     "lbl:longitude":-0.588955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Carlton"
@@ -48,12 +54,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006026"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125968263
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4f7be189bca146a5a1e09881526bb41c",
+    "wof:geomhash":"a96b7608f9900246f60893d6bb5fb26e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404451751,
     "wof:label":"North Carlton Civil Parish",
-    "wof:lastmodified":1566633485,
+    "wof:lastmodified":1695877674,
     "wof:name":"North Carlton",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

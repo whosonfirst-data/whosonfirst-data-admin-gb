@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003025,
-    "geom:area_square_m":23563881.315382,
+    "geom:area_square_m":23563881.315384,
     "geom:bbox":"-2.4272904909,50.9260368096,-2.33139753977,50.9789881818",
     "geom:latitude":50.953051,
     "geom:longitude":-2.373709,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.950602,
     "lbl:longitude":-2.369835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0644\u0628\u0631\u06cc\u062c"
@@ -81,12 +87,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003438"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913735
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5da1430e62cd3fa4bd156b2898720d64",
+    "wof:geomhash":"1727b93e57ebe40017d20dc16161e16c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404431025,
     "wof:label":"Stalbridge Civil Parish",
-    "wof:lastmodified":1566632452,
+    "wof:lastmodified":1695877210,
     "wof:name":"Stalbridge",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

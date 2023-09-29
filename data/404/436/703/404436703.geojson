@@ -10,12 +10,18 @@
     "geom:latitude":53.950388,
     "geom:longitude":-0.873633,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.950671,
     "lbl:longitude":-0.873633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wilberfoss"
@@ -63,12 +69,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000501"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125943751
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a520c6937778ec32fd23338214022677",
+    "wof:geomhash":"063d8586c2b6c201bf6d3bed8149d0fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404436703,
     "wof:label":"Wilberfoss Civil Parish",
-    "wof:lastmodified":1566632384,
+    "wof:lastmodified":1695877180,
     "wof:name":"Wilberfoss",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

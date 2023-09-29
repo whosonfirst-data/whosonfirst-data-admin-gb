@@ -10,12 +10,18 @@
     "geom:latitude":54.011869,
     "geom:longitude":-1.037755,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.011682,
     "lbl:longitude":-1.037758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Earswick"
@@ -66,12 +72,15 @@
         1360698977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000600"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976895
     ],
     "wof:country":"GB",
-    "wof:geomhash":"83743e65e3a7926fa41d099745ed8652",
+    "wof:geomhash":"85f65724323c5ce7cc41b987f1721692",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404445651,
     "wof:label":"Earswick Civil Parish",
-    "wof:lastmodified":1566633339,
+    "wof:lastmodified":1695877612,
     "wof:name":"Earswick",
     "wof:parent_id":1360698977,
     "wof:placetype":"localadmin",

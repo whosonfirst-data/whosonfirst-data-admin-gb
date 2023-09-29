@@ -10,12 +10,18 @@
     "geom:latitude":51.43754,
     "geom:longitude":-1.924266,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.433529,
     "lbl:longitude":-1.915675,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cherhill"
@@ -60,12 +66,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011666"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125970117
     ],
     "wof:country":"GB",
-    "wof:geomhash":"468685c4e43d499155c1706f2f981755",
+    "wof:geomhash":"905219fd20f9d030bfd06da6b2149aa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444923,
     "wof:label":"Cherhill Civil Parish",
-    "wof:lastmodified":1566632919,
+    "wof:lastmodified":1695877421,
     "wof:name":"Cherhill",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

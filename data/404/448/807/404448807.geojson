@@ -10,12 +10,18 @@
     "geom:latitude":52.258216,
     "geom:longitude":0.104892,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.25836,
     "lbl:longitude":0.102436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Histon"
@@ -42,12 +48,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001806"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854907
     ],
     "wof:country":"GB",
-    "wof:geomhash":"476764e75c3a9dcbb6044ad301103f19",
+    "wof:geomhash":"1445c928dc0d6e66646975b0d805b7a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404448807,
     "wof:label":"Histon Civil Parish",
-    "wof:lastmodified":1566631548,
+    "wof:lastmodified":1695876835,
     "wof:name":"Histon",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.592435,
     "geom:longitude":-2.714303,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.593112,
     "lbl:longitude":-2.713822,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Portskewett Community"
@@ -40,12 +46,15 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000800"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125904863
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c9ec7c2814f95391fcf9cce05fee0e6",
+    "wof:geomhash":"63e68b58175ae13e1b476991044d4f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430083,
-    "wof:lastmodified":1566631953,
+    "wof:lastmodified":1695876997,
     "wof:name":"Portskewett Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

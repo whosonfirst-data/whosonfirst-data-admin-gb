@@ -10,12 +10,18 @@
     "geom:latitude":53.498418,
     "geom:longitude":-1.592377,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.501159,
     "lbl:longitude":-1.59481,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hunshelf"
@@ -52,12 +58,15 @@
         1360699091
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000046"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360752959
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4ea40851f652ab9cbb587843a30afe47",
+    "wof:geomhash":"1e8c0c50b1d0bf07d342b4f79e25b81c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404432633,
     "wof:label":"Hunshelf Civil Parish",
-    "wof:lastmodified":1566633894,
+    "wof:lastmodified":1695877847,
     "wof:name":"Hunshelf",
     "wof:parent_id":1360699091,
     "wof:placetype":"localadmin",

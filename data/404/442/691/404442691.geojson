@@ -10,12 +10,18 @@
     "geom:latitude":53.129296,
     "geom:longitude":-1.447403,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.130754,
     "lbl:longitude":-1.446956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brackenfield"
@@ -60,12 +66,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002863"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125995575
     ],
     "wof:country":"GB",
-    "wof:geomhash":"28f79fe131c076fd003faf8d0659ea3b",
+    "wof:geomhash":"0ddad50796fc9b262458f53ab6d8a2b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404442691,
     "wof:label":"Brackenfield Civil Parish",
-    "wof:lastmodified":1566633285,
+    "wof:lastmodified":1695877588,
     "wof:name":"Brackenfield",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

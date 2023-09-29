@@ -10,12 +10,18 @@
     "geom:latitude":52.276879,
     "geom:longitude":1.219327,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.2752,
     "lbl:longitude":1.222188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Southolt"
@@ -55,12 +61,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009249"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754275
     ],
     "wof:country":"GB",
-    "wof:geomhash":"09894e222e026f365fa2f188906a060b",
+    "wof:geomhash":"8ea6fbfb3c20191ac7a3db7162961ea6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404454875,
     "wof:label":"Southolt Civil Parish",
-    "wof:lastmodified":1566632667,
+    "wof:lastmodified":1695877310,
     "wof:name":"Southolt",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.024019,
     "geom:longitude":-2.922928,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.02675,
     "lbl:longitude":-2.919547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vowchurch"
@@ -60,12 +66,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000894"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125990079
     ],
     "wof:country":"GB",
-    "wof:geomhash":"97fd557c7f4e94d1957f751461a7ae46",
+    "wof:geomhash":"12bb8e7c7f2d994a6ff0a7e413446d53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404437295,
     "wof:label":"Vowchurch Civil Parish",
-    "wof:lastmodified":1566632081,
+    "wof:lastmodified":1695877049,
     "wof:name":"Vowchurch",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

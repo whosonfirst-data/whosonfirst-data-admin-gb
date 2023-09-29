@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000603,
-    "geom:area_square_m":4674757.0136,
+    "geom:area_square_m":4674757.013601,
     "geom:bbox":"-0.799163157361,51.1280409948,-0.753873218339,51.1530402945",
     "geom:latitude":51.141511,
     "geom:longitude":-0.775813,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.140815,
     "lbl:longitude":-0.775806,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0648\u0631\u062a"
@@ -66,12 +72,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009625"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125946591
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1c351af43385803a8fd2c1c9183416b6",
+    "wof:geomhash":"4713b38f336a5386fbb5d6ffba9e5926",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404429927,
     "wof:label":"Churt Civil Parish",
-    "wof:lastmodified":1566633183,
+    "wof:lastmodified":1695877541,
     "wof:name":"Churt",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

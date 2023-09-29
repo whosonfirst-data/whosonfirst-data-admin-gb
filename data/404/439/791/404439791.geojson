@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001666,
-    "geom:area_square_m":13110859.082858,
+    "geom:area_square_m":13110859.082859,
     "geom:bbox":"-4.30385062599,50.4647360041,-4.21778483758,50.5034476891",
     "geom:latitude":50.485009,
     "geom:longitude":-4.255161,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.480223,
     "lbl:longitude":-4.247373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Dominick"
@@ -40,12 +46,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011541"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755707
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dfea9b41e0255d96ad7514e00d445f61",
+    "wof:geomhash":"ddcfddaece26e19f927aa9c94aae9e58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404439791,
     "wof:label":"St. Dominick Civil Parish",
-    "wof:lastmodified":1566631837,
+    "wof:lastmodified":1695876943,
     "wof:name":"St. Dominick",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.538437,
     "geom:longitude":-0.71926,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.538838,
     "lbl:longitude":-0.718906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Caldecott"
@@ -42,12 +48,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000635"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126058131
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c517681671dc197f8f445767ad5430f5",
+    "wof:geomhash":"262372f83959c6746a468377cd91641c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404449743,
     "wof:label":"Caldecott Civil Parish",
-    "wof:lastmodified":1566631445,
+    "wof:lastmodified":1695876790,
     "wof:name":"Caldecott",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

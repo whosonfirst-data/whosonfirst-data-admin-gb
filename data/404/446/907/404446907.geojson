@@ -10,12 +10,18 @@
     "geom:latitude":52.037219,
     "geom:longitude":-2.521443,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.038237,
     "lbl:longitude":-2.52172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Putley"
@@ -51,12 +57,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000859"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209242119
     ],
     "wof:country":"GB",
-    "wof:geomhash":"98bec6a9edafe8f6129074b84dfe6848",
+    "wof:geomhash":"f2ef08ba301d69db900efd8faec5d1b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404446907,
     "wof:label":"Putley Civil Parish",
-    "wof:lastmodified":1566631598,
+    "wof:lastmodified":1695876847,
     "wof:name":"Putley",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

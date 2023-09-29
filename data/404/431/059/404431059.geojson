@@ -10,12 +10,18 @@
     "geom:latitude":51.899297,
     "geom:longitude":0.145438,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.900074,
     "lbl:longitude":0.141984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0646\u0647\u0627\u0645"
@@ -105,12 +111,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004128"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209250131
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4a82523d581acbb83d1cdc70ecd1b840",
+    "wof:geomhash":"9901000b69d14b53f32f34463c9c9993",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404431059,
     "wof:label":"Farnham Civil Parish",
-    "wof:lastmodified":1566632514,
+    "wof:lastmodified":1695877237,
     "wof:name":"Farnham",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

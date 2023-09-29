@@ -10,12 +10,18 @@
     "geom:latitude":52.037213,
     "geom:longitude":-2.0583,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.05055,
     "lbl:longitude":-2.053319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Overbury"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010422"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910933
     ],
     "wof:country":"GB",
-    "wof:geomhash":"42ec8a17af47442c7d6addc36a628bd9",
+    "wof:geomhash":"7bcc5b1331752f041f3be84a755c560a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439771,
     "wof:label":"Overbury Civil Parish",
-    "wof:lastmodified":1566631874,
+    "wof:lastmodified":1695876962,
     "wof:name":"Overbury",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

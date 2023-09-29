@@ -10,12 +10,18 @@
     "geom:latitude":50.953587,
     "geom:longitude":-2.749575,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.957247,
     "lbl:longitude":-2.741781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stoke Sub Hamdon"
@@ -42,12 +48,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008758"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998313
     ],
     "wof:country":"GB",
-    "wof:geomhash":"749f05c3756beebf5a51c412785df208",
+    "wof:geomhash":"a9e7548362ed90f4c9e17037377325b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404432869,
     "wof:label":"Stoke Sub Hamdon Civil Parish",
-    "wof:lastmodified":1566633902,
+    "wof:lastmodified":1695877851,
     "wof:name":"Stoke Sub Hamdon",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

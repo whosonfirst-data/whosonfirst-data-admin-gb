@@ -10,12 +10,18 @@
     "geom:latitude":50.808097,
     "geom:longitude":-2.582584,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.815093,
     "lbl:longitude":-2.594405,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cattistock"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003516"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ea2245954cc8b4b97517198e312f1aa1",
+    "wof:geomhash":"0b801489d174a5e4f9fb977c4fd7cc2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404429639,
     "wof:label":"Cattistock Civil Parish",
-    "wof:lastmodified":1566633172,
+    "wof:lastmodified":1695877536,
     "wof:name":"Cattistock",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

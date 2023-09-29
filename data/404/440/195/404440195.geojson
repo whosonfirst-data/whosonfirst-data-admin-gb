@@ -10,12 +10,18 @@
     "geom:latitude":54.131929,
     "geom:longitude":-2.08478,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.128699,
     "lbl:longitude":-2.069724,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hawkswick"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007092"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125915025
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f43dd00d182f963f5b6848fcca87826",
+    "wof:geomhash":"90b52371bd6a313a6f50df666007e1d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440195,
     "wof:label":"Hawkswick Civil Parish",
-    "wof:lastmodified":1566631127,
+    "wof:lastmodified":1695878215,
     "wof:name":"Hawkswick",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

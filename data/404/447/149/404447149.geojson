@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001872,
-    "geom:area_square_m":14548221.659348,
+    "geom:area_square_m":14548221.659347,
     "geom:bbox":"-2.89329470746,51.0372353787,-2.83159075499,51.103125111",
     "geom:latitude":51.065115,
     "geom:longitude":-2.863278,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.062197,
     "lbl:longitude":-2.870504,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Aller"
@@ -75,12 +81,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008658"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242713399
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c80a4b2f0dba30b913cceed74357975b",
+    "wof:geomhash":"bc4a09a0173287be1ef63a5d5a8b8aa6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404447149,
     "wof:label":"Aller Civil Parish",
-    "wof:lastmodified":1566631344,
+    "wof:lastmodified":1695878316,
     "wof:name":"Aller",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

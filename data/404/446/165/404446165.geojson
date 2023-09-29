@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001119,
-    "geom:area_square_m":8776103.153414,
+    "geom:area_square_m":8776103.153413,
     "geom:bbox":"-4.39058767746,50.6123179316,-4.32716642202,50.6520081002",
     "geom:latitude":50.632481,
     "geom:longitude":-4.358618,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.627966,
     "lbl:longitude":-4.358149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Launceston"
@@ -78,12 +84,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011466"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852375
     ],
     "wof:country":"GB",
-    "wof:geomhash":"403850fbd8b06a52e725a3cac6a65497",
+    "wof:geomhash":"004ca4555e1f4c05e3d23ab31d9ced1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404446165,
     "wof:label":"Launceston Civil Parish",
-    "wof:lastmodified":1566631654,
+    "wof:lastmodified":1695876869,
     "wof:name":"Launceston",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

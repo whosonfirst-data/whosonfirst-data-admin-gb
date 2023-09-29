@@ -10,12 +10,18 @@
     "geom:latitude":52.143472,
     "geom:longitude":0.573529,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.144045,
     "lbl:longitude":0.573845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Denston"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009303"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d7b569c08ad6056c1d2bc68ca7255e2f",
+    "wof:geomhash":"fbe127ad5e5af73cfbeef2c4c7e97fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404446143,
     "wof:label":"Denston Civil Parish",
-    "wof:lastmodified":1566631645,
+    "wof:lastmodified":1695876866,
     "wof:name":"Denston",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

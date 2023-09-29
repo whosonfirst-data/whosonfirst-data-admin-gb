@@ -10,12 +10,18 @@
     "geom:latitude":51.20926,
     "geom:longitude":0.568932,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.211774,
     "lbl:longitude":0.568587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chart Sutton"
@@ -60,12 +66,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004949"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846311
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d48fa042781b107f530427ed74dc2447",
+    "wof:geomhash":"be4a6e9be576167f82fb9d55050f83de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444921,
     "wof:label":"Chart Sutton Civil Parish",
-    "wof:lastmodified":1566632979,
+    "wof:lastmodified":1695877448,
     "wof:name":"Chart Sutton",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

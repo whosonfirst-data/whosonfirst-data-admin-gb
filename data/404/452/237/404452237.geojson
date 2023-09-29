@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003146,
-    "geom:area_square_m":23601212.815748,
+    "geom:area_square_m":23601212.815743,
     "geom:bbox":"-4.10341163054,52.6013611129,-3.99666946794,52.6900028233",
     "geom:latitude":52.642214,
     "geom:longitude":-4.053565,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.641351,
     "lbl:longitude":-4.054381,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanegryn Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000074"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125911353
     ],
     "wof:country":"GB",
-    "wof:geomhash":"246fc3d5b58021681b4d993497067b65",
+    "wof:geomhash":"8de9d19ee7f0f74bf18fee675e3c7e74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452237,
-    "wof:lastmodified":1566632252,
+    "wof:lastmodified":1695877121,
     "wof:name":"Llanegryn Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

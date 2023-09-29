@@ -10,12 +10,18 @@
     "geom:latitude":54.200351,
     "geom:longitude":-0.28891,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.198446,
     "lbl:longitude":-0.290835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0641\u06cc\u0644\u06cc"
@@ -87,12 +93,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007672"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874183
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ade7d1ef22f8036de44734eedcebe3c9",
+    "wof:geomhash":"d5b5d2a7e494c21a8a4329267f68da58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404442665,
     "wof:label":"Filey Civil Parish",
-    "wof:lastmodified":1566633286,
+    "wof:lastmodified":1695877588,
     "wof:name":"Filey",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

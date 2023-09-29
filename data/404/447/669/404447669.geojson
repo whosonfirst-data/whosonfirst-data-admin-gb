@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001616,
-    "geom:area_square_m":12593549.379793,
+    "geom:area_square_m":12593549.379791,
     "geom:bbox":"0.496175446894,50.917160899,0.563052328523,50.9715888861",
     "geom:latitude":50.941653,
     "geom:longitude":0.534563,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.938048,
     "lbl:longitude":0.537853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sedlescombe"
@@ -66,12 +72,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003823"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125915401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c71599911f2934d30cbc1e389adc06ba",
+    "wof:geomhash":"1e3d2e3ccc426badb389766204668871",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447669,
     "wof:label":"Sedlescombe Civil Parish",
-    "wof:lastmodified":1566631268,
+    "wof:lastmodified":1695878280,
     "wof:name":"Sedlescombe",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

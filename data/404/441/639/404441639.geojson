@@ -10,12 +10,18 @@
     "geom:latitude":52.60809,
     "geom:longitude":0.434842,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.608128,
     "lbl:longitude":0.433529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Crimplesham"
@@ -55,12 +61,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006300"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757159
     ],
     "wof:country":"GB",
-    "wof:geomhash":"36956bcac73e0c87f1618809fc59cfcf",
+    "wof:geomhash":"a63760c14e6a5b2ddaeb03a6c31d1f18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404441639,
     "wof:label":"Crimplesham Civil Parish",
-    "wof:lastmodified":1566631808,
+    "wof:lastmodified":1695876929,
     "wof:name":"Crimplesham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

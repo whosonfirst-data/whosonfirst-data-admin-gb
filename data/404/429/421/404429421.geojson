@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001212,
-    "geom:area_square_m":9271087.287581,
+    "geom:area_square_m":9271087.287582,
     "geom:bbox":"-3.85832550931,51.7632125271,-3.80192215033,51.8045654207",
     "geom:latitude":51.78243,
     "geom:longitude":-3.826439,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.78165,
     "lbl:longitude":-3.819865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cwmllynfell Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000611"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711535
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d64fe2f27a87b34b1857336448cefe50",
+    "wof:geomhash":"fd43e5ccc84f536bdde89204c9d7e108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429421,
-    "wof:lastmodified":1566633156,
+    "wof:lastmodified":1695877529,
     "wof:name":"Cwmllynfell Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

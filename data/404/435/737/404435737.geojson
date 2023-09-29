@@ -10,12 +10,18 @@
     "geom:latitude":52.4221,
     "geom:longitude":-0.160912,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.421195,
     "lbl:longitude":-0.161452,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upwood and the Raveleys"
@@ -44,12 +50,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001746"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757845
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2a6d1200e68165248552d6b95a2b9617",
+    "wof:geomhash":"c68041c92439c1edc1f8e3063c4bea5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +71,7 @@
     ],
     "wof:id":404435737,
     "wof:label":"Upwood and the Raveleys Civil Parish",
-    "wof:lastmodified":1566633984,
+    "wof:lastmodified":1695877888,
     "wof:name":"Upwood and the Raveleys",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

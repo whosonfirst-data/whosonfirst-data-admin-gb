@@ -10,12 +10,18 @@
     "geom:latitude":51.630718,
     "geom:longitude":-1.474586,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.633277,
     "lbl:longitude":-1.471216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Goosey"
@@ -55,12 +61,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008214"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756221
     ],
     "wof:country":"GB",
-    "wof:geomhash":"79016d2af318a239117e49097f4c816a",
+    "wof:geomhash":"2932b1a05f63727c1fa0dc2f34be584f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404451121,
     "wof:label":"Goosey Civil Parish",
-    "wof:lastmodified":1566633476,
+    "wof:lastmodified":1695877670,
     "wof:name":"Goosey",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

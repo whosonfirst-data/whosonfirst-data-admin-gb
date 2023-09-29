@@ -10,12 +10,18 @@
     "geom:latitude":51.015537,
     "geom:longitude":-2.809367,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.015397,
     "lbl:longitude":-2.808945,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Muchelney"
@@ -63,12 +69,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008734"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125996781
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7c4c4e9769d030c9230b507183c18582",
+    "wof:geomhash":"374eb4f7f20a2071b9370ea4239b2bed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404441707,
     "wof:label":"Muchelney Civil Parish",
-    "wof:lastmodified":1566631728,
+    "wof:lastmodified":1695876896,
     "wof:name":"Muchelney",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

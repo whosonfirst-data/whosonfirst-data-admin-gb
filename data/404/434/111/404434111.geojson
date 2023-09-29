@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000822,
-    "geom:area_square_m":6134050.781046,
+    "geom:area_square_m":6134050.781045,
     "geom:bbox":"-1.074130424,52.8532850131,-1.027237369,52.8815077259",
     "geom:latitude":52.868772,
     "geom:longitude":-1.051745,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.868493,
     "lbl:longitude":-1.051745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanton on the Wolds"
@@ -46,12 +52,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008004"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125943735
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4831f307bbdd2d7eef873959d4a8dc60",
+    "wof:geomhash":"be67836816c4bcc3084920f4b5001a2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404434111,
     "wof:label":"Stanton on the Wolds Civil Parish",
-    "wof:lastmodified":1566633576,
+    "wof:lastmodified":1695877721,
     "wof:name":"Stanton on the Wolds",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

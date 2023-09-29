@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
-    "geom:area_square_m":4055622.574616,
+    "geom:area_square_m":4055622.574615,
     "geom:bbox":"-2.59124979177,51.4987005614,-2.55661561063,51.5238079209",
     "geom:latitude":51.510661,
     "geom:longitude":-2.573158,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.509829,
     "lbl:longitude":-2.572835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0641\u06cc\u0644\u062a\u0648\u0646"
@@ -105,12 +111,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001052"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125787713
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f28e5d6d8f5afaeaa805a027437250c2",
+    "wof:geomhash":"b9b8db08ac172c495bbbcac0a57b1259",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404432849,
     "wof:label":"Filton Civil Parish",
-    "wof:lastmodified":1566633941,
+    "wof:lastmodified":1695877870,
     "wof:name":"Filton",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

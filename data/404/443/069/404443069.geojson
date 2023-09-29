@@ -10,12 +10,18 @@
     "geom:latitude":53.953652,
     "geom:longitude":-1.849993,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.95373,
     "lbl:longitude":-1.852159,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nesfield with Langbar"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007394"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758163
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7561faa6d9c3b5b68d9deb3c74b53043",
+    "wof:geomhash":"9d51ed052b35de1a8d98adc35f9ca422",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404443069,
     "wof:label":"Nesfield with Langbar Civil Parish",
-    "wof:lastmodified":1566633074,
+    "wof:lastmodified":1695877493,
     "wof:name":"Nesfield with Langbar",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

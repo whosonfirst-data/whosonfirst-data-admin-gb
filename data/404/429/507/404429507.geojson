@@ -10,12 +10,18 @@
     "geom:latitude":51.104914,
     "geom:longitude":0.711646,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.10594,
     "lbl:longitude":0.711015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "High Halden"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004842"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125966187
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c60991ea0321e4c07b11960b2e67d960",
+    "wof:geomhash":"f7238d32588590150ee5762078086a31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404429507,
     "wof:label":"High Halden Civil Parish",
-    "wof:lastmodified":1566633149,
+    "wof:lastmodified":1695877527,
     "wof:name":"High Halden",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

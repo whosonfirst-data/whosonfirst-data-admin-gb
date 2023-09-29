@@ -10,12 +10,18 @@
     "geom:latitude":54.438006,
     "geom:longitude":-0.660562,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.437471,
     "lbl:longitude":-0.656496,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eskdaleside Cum Ugglebarnby"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007671"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753131
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4de1d26a57b7b5efe861a1ed2d8c1490",
+    "wof:geomhash":"6810bdeae63618973a35a7d5af8cc662",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404449135,
     "wof:label":"Eskdaleside Cum Ugglebarnby Civil Parish",
-    "wof:lastmodified":1566631350,
+    "wof:lastmodified":1695878317,
     "wof:name":"Eskdaleside Cum Ugglebarnby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

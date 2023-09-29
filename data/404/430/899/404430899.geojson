@@ -10,12 +10,18 @@
     "geom:latitude":50.932156,
     "geom:longitude":-0.330757,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.932489,
     "lbl:longitude":-0.331315,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashurst"
@@ -57,12 +63,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009949"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869383
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e2ea885364113324bd7ad8f6167776b2",
+    "wof:geomhash":"f6848c2ef43462532f430be3867609c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404430899,
     "wof:label":"Ashurst Civil Parish",
-    "wof:lastmodified":1566632031,
+    "wof:lastmodified":1695877029,
     "wof:name":"Ashurst",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

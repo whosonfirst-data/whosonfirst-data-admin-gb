@@ -10,12 +10,18 @@
     "geom:latitude":52.555925,
     "geom:longitude":-1.316639,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.555918,
     "lbl:longitude":-1.318848,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elmesthorpe"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005347"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125905171
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d709d0d2b5ddbb4e62cf3d1e17a6a285",
+    "wof:geomhash":"35a3c08da498106857124406b69cc732",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431823,
     "wof:label":"Elmesthorpe Civil Parish",
-    "wof:lastmodified":1566632500,
+    "wof:lastmodified":1695877232,
     "wof:name":"Elmesthorpe",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

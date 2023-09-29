@@ -10,12 +10,18 @@
     "geom:latitude":53.513422,
     "geom:longitude":-0.601341,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.510136,
     "lbl:longitude":-0.599234,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manton"
@@ -72,12 +78,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000568"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309841337
     ],
     "wof:country":"GB",
-    "wof:geomhash":"195c579ddf43e03b6529682b3ae9c060",
+    "wof:geomhash":"3d4d6af3571e36c26e65f23188ff5b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404437285,
     "wof:label":"Manton Civil Parish",
-    "wof:lastmodified":1566632127,
+    "wof:lastmodified":1695877069,
     "wof:name":"Manton",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

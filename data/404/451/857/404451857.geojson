@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001418,
-    "geom:area_square_m":10643575.752376,
+    "geom:area_square_m":10643575.752377,
     "geom:bbox":"0.759491424709,52.6146577159,0.829384556088,52.6425804436",
     "geom:latitude":52.629132,
     "geom:longitude":0.794536,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.628718,
     "lbl:longitude":0.798034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Holme Hale"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006130"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243102717
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5ae768283e510927d66e53c4c81d4db",
+    "wof:geomhash":"3310a759e64216fc7d4b23dda86da54e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404451857,
     "wof:label":"Holme Hale Civil Parish",
-    "wof:lastmodified":1566633451,
+    "wof:lastmodified":1695877659,
     "wof:name":"Holme Hale",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

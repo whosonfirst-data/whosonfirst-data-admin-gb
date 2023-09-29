@@ -10,12 +10,18 @@
     "geom:latitude":51.090305,
     "geom:longitude":-2.65682,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.091176,
     "lbl:longitude":-2.65649,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barton St. David"
@@ -42,12 +48,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008664"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125989669
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9d57f435b45b54e94c4c9fcd0e7cb178",
+    "wof:geomhash":"907e23c3fc87389f330074e5a9912e27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404434871,
     "wof:label":"Barton St. David Civil Parish",
-    "wof:lastmodified":1566633607,
+    "wof:lastmodified":1695877734,
     "wof:name":"Barton St. David",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

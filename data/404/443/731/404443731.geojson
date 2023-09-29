@@ -10,12 +10,18 @@
     "geom:latitude":49.962252,
     "geom:longitude":-6.282406,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":49.9662,
     "lbl:longitude":-6.296476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Saint Martins"
@@ -63,12 +69,15 @@
         404227469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011614"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758493
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b6443a998dbb3826df06a474e40caebd",
+    "wof:geomhash":"a695b19b6df310c119755c06dc5b3aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +89,7 @@
     ],
     "wof:id":404443731,
     "wof:label":"St. Martin's Civil Parish",
-    "wof:lastmodified":1566632996,
+    "wof:lastmodified":1695877455,
     "wof:name":"St. Martin's",
     "wof:parent_id":1360698623,
     "wof:placetype":"localadmin",

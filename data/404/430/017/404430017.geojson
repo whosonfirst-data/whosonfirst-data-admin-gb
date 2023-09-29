@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002135,
-    "geom:area_square_m":16673733.033884,
+    "geom:area_square_m":16673733.033883,
     "geom:bbox":"-4.28005022261,50.7991098491,-4.21636554051,50.8627890239",
     "geom:latitude":50.827837,
     "geom:longitude":-4.248089,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.826383,
     "lbl:longitude":-4.24279,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bradford"
@@ -238,12 +244,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003249"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753763
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6a0c098c27e2ad5079c0442d822bc12c",
+    "wof:geomhash":"c0d2e60818884acb3c55a69d060e40ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,7 +265,7 @@
     ],
     "wof:id":404430017,
     "wof:label":"Bradford Civil Parish",
-    "wof:lastmodified":1566632017,
+    "wof:lastmodified":1695877021,
     "wof:name":"Bradford",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.567314,
     "geom:longitude":-1.270306,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.567965,
     "lbl:longitude":-1.269851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hooton Pagnell"
@@ -57,12 +63,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000083"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125909529
     ],
     "wof:country":"GB",
-    "wof:geomhash":"78ede463ad39450f4dc73f90e8d12175",
+    "wof:geomhash":"eddfc2e067a8035219438837521115f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404438025,
     "wof:label":"Hooton Pagnell Civil Parish",
-    "wof:lastmodified":1566632558,
+    "wof:lastmodified":1695877259,
     "wof:name":"Hooton Pagnell",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

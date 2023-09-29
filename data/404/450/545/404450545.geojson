@@ -10,12 +10,18 @@
     "geom:latitude":51.300868,
     "geom:longitude":-0.454479,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.300434,
     "lbl:longitude":-0.455076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ockham"
@@ -63,12 +69,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009548"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125790473
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bda25f3c0d7b213fdab942e51b25e145",
+    "wof:geomhash":"b835b38b4124e109173690194e858eab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404450545,
     "wof:label":"Ockham Civil Parish",
-    "wof:lastmodified":1566633791,
+    "wof:lastmodified":1695877814,
     "wof:name":"Ockham",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

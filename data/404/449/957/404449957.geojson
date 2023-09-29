@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000915,
-    "geom:area_square_m":7259076.228537,
+    "geom:area_square_m":7259076.228538,
     "geom:bbox":"-5.32927427821,50.0701881134,-5.28227834107,50.107026424",
     "geom:latitude":50.089257,
     "geom:longitude":-5.305224,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.088862,
     "lbl:longitude":-5.305578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0648\u0631\u062a\u0644\u0648\u0646"
@@ -93,12 +99,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011511"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852405
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6ddcfbc2c0e686a1f890b9e95a2e4ea6",
+    "wof:geomhash":"683f5ecd1457a8c53ddd97e23701190a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404449957,
     "wof:label":"Porthleven Civil Parish",
-    "wof:lastmodified":1566631401,
+    "wof:lastmodified":1695878339,
     "wof:name":"Porthleven",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

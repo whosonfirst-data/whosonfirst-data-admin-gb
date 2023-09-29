@@ -10,12 +10,18 @@
     "geom:latitude":52.566298,
     "geom:longitude":-0.396086,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.56756,
     "lbl:longitude":-0.398082,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sibson-Cum-Stibbington"
@@ -40,12 +46,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001734"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757251
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c9887eaaca0474f3b9cecf2ca74ab278",
+    "wof:geomhash":"68238f912883af242832ad8df905b62e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404441751,
     "wof:label":"Sibson-Cum-Stibbington Civil Parish",
-    "wof:lastmodified":1566631779,
+    "wof:lastmodified":1695876916,
     "wof:name":"Sibson-Cum-Stibbington",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

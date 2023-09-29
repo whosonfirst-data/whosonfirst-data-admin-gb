@@ -10,12 +10,18 @@
     "geom:latitude":51.952526,
     "geom:longitude":-2.888269,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.950047,
     "lbl:longitude":-2.890345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ewyas Harold"
@@ -57,12 +63,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000756"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974755
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4be4f46846aa24c56f8a5c38a7c81218",
+    "wof:geomhash":"2196c448ae9b6d0752ef87b15ce90456",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404429393,
     "wof:label":"Ewyas Harold Civil Parish",
-    "wof:lastmodified":1566633151,
+    "wof:lastmodified":1695877528,
     "wof:name":"Ewyas Harold",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

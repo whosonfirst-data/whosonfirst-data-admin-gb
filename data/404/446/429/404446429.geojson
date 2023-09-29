@@ -10,12 +10,18 @@
     "geom:latitude":52.962211,
     "geom:longitude":-1.382451,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.961623,
     "lbl:longitude":-1.379902,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stanley and Stanley Common"
@@ -52,12 +58,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002835"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6b473c17fb3817490c4b88d13dfc61f0",
+    "wof:geomhash":"ff5c98dc51eb6df4b96d1a3137ec7fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404446429,
     "wof:label":"Stanley and Stanley Common Civil Parish",
-    "wof:lastmodified":1566631676,
+    "wof:lastmodified":1695876877,
     "wof:name":"Stanley and Stanley Common",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

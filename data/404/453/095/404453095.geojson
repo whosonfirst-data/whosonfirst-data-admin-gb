@@ -10,12 +10,18 @@
     "geom:latitude":51.163266,
     "geom:longitude":0.993174,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.157884,
     "lbl:longitude":0.993549,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hastingleigh"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004841"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125988507
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cbf91c4ec0bcebb696e7ece992247540",
+    "wof:geomhash":"b3478ed0765849e771e9b4fcb7bfec80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404453095,
     "wof:label":"Hastingleigh Civil Parish",
-    "wof:lastmodified":1566632835,
+    "wof:lastmodified":1695877389,
     "wof:name":"Hastingleigh",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

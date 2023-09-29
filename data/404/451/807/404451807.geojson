@@ -10,12 +10,18 @@
     "geom:latitude":53.09016,
     "geom:longitude":-1.618586,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.087407,
     "lbl:longitude":-1.617123,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hopton"
@@ -64,9 +70,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04002770",
         "gn:id":7298150,
         "qs_pg:id":904175
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125824495
     ],
@@ -74,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"35ecbcebd5916bf99631f54b463eb2c0",
+    "wof:geomhash":"0da83893d9cd57857e8ef9e04b9b1533",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +95,7 @@
     ],
     "wof:id":404451807,
     "wof:label":"Hopton Civil Parish",
-    "wof:lastmodified":1582311139,
+    "wof:lastmodified":1695877982,
     "wof:name":"Hopton",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

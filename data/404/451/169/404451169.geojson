@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002082,
-    "geom:area_square_m":16290374.367586,
+    "geom:area_square_m":16290374.367585,
     "geom:bbox":"-1.59011501588,50.7195313863,-1.51392461218,50.7734041654",
     "geom:latitude":50.749667,
     "geom:longitude":-1.550972,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.74698,
     "lbl:longitude":-1.547228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lymington and Pennington"
@@ -49,12 +55,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004574"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756307
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d16119ea260ed979fa8ce6d3c733cfe7",
+    "wof:geomhash":"3276ef3c4ba5e680d03b55079bc1d045",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404451169,
     "wof:label":"Lymington and Pennington Civil Parish",
-    "wof:lastmodified":1566633433,
+    "wof:lastmodified":1695877653,
     "wof:name":"Lymington and Pennington",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

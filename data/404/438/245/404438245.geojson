@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001026,
-    "geom:area_square_m":8127343.345603,
+    "geom:area_square_m":8127343.345602,
     "geom:bbox":"-5.10120263714,50.1241322734,-5.04162318306,50.1658320801",
     "geom:latitude":50.147304,
     "geom:longitude":-5.079306,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.150784,
     "lbl:longitude":-5.081313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0424\u0430\u043b\u043c\u0443\u0442"
@@ -111,12 +117,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011433"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852391
     ],
     "wof:country":"GB",
-    "wof:geomhash":"17d6e099a832ea0af2ed8353c70705a2",
+    "wof:geomhash":"c248e98d00edb05b3abf7b7ea4ddd06b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +138,7 @@
     ],
     "wof:id":404438245,
     "wof:label":"Falmouth Civil Parish",
-    "wof:lastmodified":1566632554,
+    "wof:lastmodified":1695877257,
     "wof:name":"Falmouth",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

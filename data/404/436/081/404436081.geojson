@@ -10,12 +10,18 @@
     "geom:latitude":52.363377,
     "geom:longitude":-0.603837,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.364555,
     "lbl:longitude":-0.604286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Addington"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006726"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259718917
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1b4d960f7c7fde6dfadb55320e89fd20",
+    "wof:geomhash":"caa4cf9ea0532e9779534e65e6a27ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404436081,
     "wof:label":"Great Addington Civil Parish",
-    "wof:lastmodified":1566632397,
+    "wof:lastmodified":1695877185,
     "wof:name":"Great Addington",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

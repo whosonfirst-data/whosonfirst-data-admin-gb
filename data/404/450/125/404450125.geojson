@@ -10,12 +10,18 @@
     "geom:latitude":51.339107,
     "geom:longitude":-2.87317,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.34096,
     "lbl:longitude":-2.875581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Banwell"
@@ -63,12 +69,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012100"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126053953
     ],
     "wof:country":"GB",
-    "wof:geomhash":"45525c08fc69ffa08736ded3b34c6bf6",
+    "wof:geomhash":"0c8cfd53e5da0422e3341ebf872e7423",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404450125,
     "wof:label":"Banwell Civil Parish",
-    "wof:lastmodified":1566633843,
+    "wof:lastmodified":1695877834,
     "wof:name":"Banwell",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

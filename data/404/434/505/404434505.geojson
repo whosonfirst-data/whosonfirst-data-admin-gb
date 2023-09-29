@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005458,
-    "geom:area_square_m":42398789.405296,
+    "geom:area_square_m":42398789.405295,
     "geom:bbox":"-3.07912083757,51.0478631295,-2.93402279862,51.1172505316",
     "geom:latitude":51.083592,
     "geom:longitude":-3.002529,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.084081,
     "lbl:longitude":-2.997602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0631\u062b \u067e\u062a\u0631\u062a\u0648\u0646"
@@ -93,12 +99,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008637"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852509
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bbb11a8c2cc3a9d8d5e168b9a6056f52",
+    "wof:geomhash":"d242015e0aad5788c08b50bba62e7bb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404434505,
     "wof:label":"North Petherton Civil Parish",
-    "wof:lastmodified":1566633540,
+    "wof:lastmodified":1695877703,
     "wof:name":"North Petherton",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

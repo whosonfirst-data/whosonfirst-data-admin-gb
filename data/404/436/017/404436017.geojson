@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000356,
-    "geom:area_square_m":2734642.309987,
+    "geom:area_square_m":2734642.309986,
     "geom:bbox":"-3.10045082518,51.5999694316,-3.06366882559,51.6270270507",
     "geom:latitude":51.610606,
     "geom:longitude":-3.084813,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.612016,
     "lbl:longitude":-3.089094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Risca East Community"
@@ -40,12 +46,15 @@
         1360698925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000913"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711727
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c14e37181c9f645ff7efe7708658c64d",
+    "wof:geomhash":"a2f561161afae4a907e48d68b419e78d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404436017,
-    "wof:lastmodified":1566632400,
+    "wof:lastmodified":1695877186,
     "wof:name":"Risca East Community",
     "wof:parent_id":1360698925,
     "wof:placetype":"localadmin",

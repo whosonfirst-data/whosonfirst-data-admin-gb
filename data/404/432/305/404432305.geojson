@@ -10,12 +10,18 @@
     "geom:latitude":52.902607,
     "geom:longitude":1.330356,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.902435,
     "lbl:longitude":1.330352,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Northrepps"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006453"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125791323
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cab64f4ec48f12eedca8400dc0502b6f",
+    "wof:geomhash":"6f048338e204cf9b5db933754c79efa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404432305,
     "wof:label":"Northrepps Civil Parish",
-    "wof:lastmodified":1566633932,
+    "wof:lastmodified":1695877866,
     "wof:name":"Northrepps",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

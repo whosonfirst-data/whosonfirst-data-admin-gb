@@ -10,12 +10,18 @@
     "geom:latitude":50.953152,
     "geom:longitude":-2.717731,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.959247,
     "lbl:longitude":-2.713381,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Montacute"
@@ -60,12 +66,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008733"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125922529
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a954b1b7c4890276655ad5756937c608",
+    "wof:geomhash":"5e9316ba4eb31a3f1e1a6a5d54b564a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404449711,
     "wof:label":"Montacute Civil Parish",
-    "wof:lastmodified":1566631456,
+    "wof:lastmodified":1695876795,
     "wof:name":"Montacute",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

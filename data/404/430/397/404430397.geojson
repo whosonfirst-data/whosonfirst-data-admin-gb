@@ -10,12 +10,18 @@
     "geom:latitude":52.04953,
     "geom:longitude":-1.061139,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.046678,
     "lbl:longitude":-1.074412,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062f\u0644\u0633\u062f\u0646"
@@ -60,12 +66,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001461"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209951893
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5049e6afdbf3c5c12d76a0f32f839410",
+    "wof:geomhash":"c20fdeef697df3c91303baef08fd119b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430397,
     "wof:label":"Biddlesden Civil Parish",
-    "wof:lastmodified":1566631945,
+    "wof:lastmodified":1695876994,
     "wof:name":"Biddlesden",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

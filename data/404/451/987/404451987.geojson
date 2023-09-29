@@ -10,12 +10,18 @@
     "geom:latitude":51.56874,
     "geom:longitude":-0.686983,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.567805,
     "lbl:longitude":-0.688114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u062f\u0633\u0631"
@@ -69,12 +75,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001603"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209349805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b91db5c1c15bd046e450c0e8dc639dbf",
+    "wof:geomhash":"e1aeab88edf2b98ce589257a1e171cd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404451987,
     "wof:label":"Hedsor Civil Parish",
-    "wof:lastmodified":1566633523,
+    "wof:lastmodified":1695877694,
     "wof:name":"Hedsor",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

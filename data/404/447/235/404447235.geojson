@@ -10,12 +10,18 @@
     "geom:latitude":51.152375,
     "geom:longitude":-3.305082,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.153957,
     "lbl:longitude":-3.307043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sampford Brett"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008853"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852491
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2258efed809b6812c5728c9c27617a3d",
+    "wof:geomhash":"94b4877ea62102b1268780171e78075b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447235,
     "wof:label":"Sampford Brett Civil Parish",
-    "wof:lastmodified":1566631267,
+    "wof:lastmodified":1695878279,
     "wof:name":"Sampford Brett",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

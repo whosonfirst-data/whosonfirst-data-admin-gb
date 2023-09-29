@@ -10,12 +10,18 @@
     "geom:latitude":54.518717,
     "geom:longitude":-1.25453,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.520095,
     "lbl:longitude":-1.2632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stainton and Thornton"
@@ -52,12 +58,15 @@
         1360698853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000262"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ce32e5dfbed0307e2bd7e40921925f1a",
+    "wof:geomhash":"8cb4b4f2f1f9feae07c71614b2a1ca8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404432533,
     "wof:label":"Stainton and Thornton Civil Parish",
-    "wof:lastmodified":1566633854,
+    "wof:lastmodified":1695877838,
     "wof:name":"Stainton and Thornton",
     "wof:parent_id":1360698853,
     "wof:placetype":"localadmin",

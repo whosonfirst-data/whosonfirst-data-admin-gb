@@ -10,12 +10,18 @@
     "geom:latitude":53.3762,
     "geom:longitude":-1.362045,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.376713,
     "lbl:longitude":-1.361841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orgreave"
@@ -51,12 +57,15 @@
         1360698851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012115"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293425193
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8aee9236f02fd857d2b314ed09c23fc7",
+    "wof:geomhash":"52ea357cedc8ae23041f9a95682bc415",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404432129,
     "wof:label":"Orgreave Civil Parish",
-    "wof:lastmodified":1566633911,
+    "wof:lastmodified":1695877855,
     "wof:name":"Orgreave",
     "wof:parent_id":1360698851,
     "wof:placetype":"localadmin",

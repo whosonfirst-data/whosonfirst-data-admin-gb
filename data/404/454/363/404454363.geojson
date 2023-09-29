@@ -10,12 +10,18 @@
     "geom:latitude":51.933897,
     "geom:longitude":0.201146,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.92949,
     "lbl:longitude":0.21257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ugley"
@@ -57,12 +63,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004166"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125951141
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0639ffe53799dfaffb95a5c77137456e",
+    "wof:geomhash":"055a6c53a7daf6239ea4f01425953d27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454363,
     "wof:label":"Ugley Civil Parish",
-    "wof:lastmodified":1566632653,
+    "wof:lastmodified":1695877303,
     "wof:name":"Ugley",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

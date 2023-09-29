@@ -10,12 +10,18 @@
     "geom:latitude":53.260119,
     "geom:longitude":-3.419638,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.263544,
     "lbl:longitude":-3.421647,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waen Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000178"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711963
     ],
     "wof:country":"GB",
-    "wof:geomhash":"68985fa544b363eb973adafc7968a624",
+    "wof:geomhash":"bd83099a1c8ad25d565e6e56bbbccf1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449519,
-    "wof:lastmodified":1566631390,
+    "wof:lastmodified":1695878334,
     "wof:name":"Waen Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

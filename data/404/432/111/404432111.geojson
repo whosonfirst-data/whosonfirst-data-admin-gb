@@ -10,12 +10,18 @@
     "geom:latitude":53.881636,
     "geom:longitude":-1.236702,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.882031,
     "lbl:longitude":-1.235161,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oxton"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007761"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276579261
     ],
     "wof:country":"GB",
-    "wof:geomhash":"43fb86a414b5c15227f09cdb62e3ba2c",
+    "wof:geomhash":"ac28eff32e0f36de0cdde9af1a404734",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404432111,
     "wof:label":"Oxton Civil Parish",
-    "wof:lastmodified":1566633912,
+    "wof:lastmodified":1695877855,
     "wof:name":"Oxton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

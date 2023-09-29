@@ -10,12 +10,18 @@
     "geom:latitude":51.01462,
     "geom:longitude":-3.317626,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.016104,
     "lbl:longitude":-3.317631,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bathealton"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008779"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126020947
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aac684b96db0d4bc048e239b1426c273",
+    "wof:geomhash":"0d6171fb18a11471eeb703353d63e2c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452211,
     "wof:label":"Bathealton Civil Parish",
-    "wof:lastmodified":1566632178,
+    "wof:lastmodified":1695877090,
     "wof:name":"Bathealton",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

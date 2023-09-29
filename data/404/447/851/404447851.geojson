@@ -10,12 +10,18 @@
     "geom:latitude":53.141997,
     "geom:longitude":-1.346984,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.143114,
     "lbl:longitude":-1.347425,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tibshelf"
@@ -66,12 +72,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002710"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872061
     ],
     "wof:country":"GB",
-    "wof:geomhash":"137d34082109ee55f33fff472260f84b",
+    "wof:geomhash":"b71a43ceb4da0e2d41dc771280c81a78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447851,
     "wof:label":"Tibshelf Civil Parish",
-    "wof:lastmodified":1566631270,
+    "wof:lastmodified":1695878281,
     "wof:name":"Tibshelf",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

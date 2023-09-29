@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001567,
-    "geom:area_square_m":12232974.066554,
+    "geom:area_square_m":12232974.066553,
     "geom:bbox":"-0.611653359319,50.8316605555,-0.538921987819,50.8771234816",
     "geom:latitude":50.855752,
     "geom:longitude":-0.575631,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.854831,
     "lbl:longitude":-0.575089,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u0631\u0648\u0646\u062f\u0644"
@@ -111,12 +117,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009852"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125999947
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9b3248c47543c359f2bf86f1bc56785e",
+    "wof:geomhash":"b8724de4f291cafdfdffb18f36c0e41f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +138,7 @@
     ],
     "wof:id":404438295,
     "wof:label":"Arundel Civil Parish",
-    "wof:lastmodified":1566632565,
+    "wof:lastmodified":1695877262,
     "wof:name":"Arundel",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

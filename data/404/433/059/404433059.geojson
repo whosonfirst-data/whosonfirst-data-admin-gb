@@ -10,12 +10,18 @@
     "geom:latitude":50.936736,
     "geom:longitude":-1.327389,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.93624,
     "lbl:longitude":-1.326915,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West End"
@@ -76,12 +82,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004535"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2747b6bab715a10db7f66e616f5ca00a",
+    "wof:geomhash":"5d6c931b3fb2fe1bc13bc11637c3f382",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +103,7 @@
     ],
     "wof:id":404433059,
     "wof:label":"West End Civil Parish",
-    "wof:lastmodified":1566633720,
+    "wof:lastmodified":1695877784,
     "wof:name":"West End",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

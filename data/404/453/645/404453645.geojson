@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002346,
-    "geom:area_square_m":18466467.269365,
+    "geom:area_square_m":18466467.269367,
     "geom:bbox":"-4.40527182775,50.4294157604,-4.30036303076,50.4736979811",
     "geom:latitude":50.454211,
     "geom:longitude":-4.354168,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.450772,
     "lbl:longitude":-4.349003,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062b\u064a\u0648\u0643"
@@ -72,12 +78,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011515"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276688253
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1d0b26945f6d523b39d14cbdcb28cbee",
+    "wof:geomhash":"630f3a3927aced65513cb3dbd3785e6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404453645,
     "wof:label":"Quethiock Civil Parish",
-    "wof:lastmodified":1566632770,
+    "wof:lastmodified":1695877361,
     "wof:name":"Quethiock",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

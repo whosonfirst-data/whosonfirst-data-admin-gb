@@ -10,12 +10,18 @@
     "geom:latitude":52.092451,
     "geom:longitude":-2.606499,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.09201,
     "lbl:longitude":-2.60651,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Westhide"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000904"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243008511
     ],
     "wof:country":"GB",
-    "wof:geomhash":"baca79efd875e1a5e71492cd9bcda871",
+    "wof:geomhash":"02d38402539e60094c95a609ca6a90b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430527,
     "wof:label":"Westhide Civil Parish",
-    "wof:lastmodified":1566631985,
+    "wof:lastmodified":1695877010,
     "wof:name":"Westhide",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

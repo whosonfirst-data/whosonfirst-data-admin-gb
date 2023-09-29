@@ -10,12 +10,18 @@
     "geom:latitude":53.777721,
     "geom:longitude":-0.65306,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.776708,
     "lbl:longitude":-0.653777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0631\u062b \u06a9\u06cc\u0648"
@@ -69,12 +75,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000444"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125897667
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c84906402dc8a382253e458b12b8843e",
+    "wof:geomhash":"abf02072d5619c15c94f8cd4e330af57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404451429,
     "wof:label":"North Cave Civil Parish",
-    "wof:lastmodified":1566633502,
+    "wof:lastmodified":1695877683,
     "wof:name":"North Cave",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

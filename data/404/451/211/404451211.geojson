@@ -10,12 +10,18 @@
     "geom:latitude":50.672563,
     "geom:longitude":-1.550061,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.670518,
     "lbl:longitude":-1.550476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Totland"
@@ -63,12 +69,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001315"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260109477
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d9cf1f00254f48f9973f7937c7808a04",
+    "wof:geomhash":"d09d56a149d31da49e4cb6901bb0e509",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404451211,
     "wof:label":"Totland Civil Parish",
-    "wof:lastmodified":1566633434,
+    "wof:lastmodified":1695877653,
     "wof:name":"Totland",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

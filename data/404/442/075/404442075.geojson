@@ -10,12 +10,18 @@
     "geom:latitude":51.649162,
     "geom:longitude":-3.118556,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.64861,
     "lbl:longitude":-3.109016,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abercarn Community"
@@ -40,12 +46,15 @@
         1360698925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000725"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125945123
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5a86066da8fd67f683bc41ada0620556",
+    "wof:geomhash":"7765eb9f273f7c0b075d72271e1df193",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442075,
-    "wof:lastmodified":1566633271,
+    "wof:lastmodified":1695877582,
     "wof:name":"Abercarn Community",
     "wof:parent_id":1360698925,
     "wof:placetype":"localadmin",

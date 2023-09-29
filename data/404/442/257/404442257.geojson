@@ -10,12 +10,18 @@
     "geom:latitude":51.019802,
     "geom:longitude":-0.855715,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.018813,
     "lbl:longitude":-0.856333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rogate"
@@ -57,12 +63,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009924"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126034801
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8b4e9a748990c6714e4c9488151da58b",
+    "wof:geomhash":"abfb4953153e2a3f06fc91ad5703c3f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404442257,
     "wof:label":"Rogate Civil Parish",
-    "wof:lastmodified":1566633222,
+    "wof:lastmodified":1695877560,
     "wof:name":"Rogate",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

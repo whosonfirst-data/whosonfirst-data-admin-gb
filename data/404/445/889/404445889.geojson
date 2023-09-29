@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
-    "geom:area_square_m":4103229.516665,
+    "geom:area_square_m":4103229.516666,
     "geom:bbox":"-2.52383173638,50.9735116026,-2.48818850804,50.9946051367",
     "geom:latitude":50.982975,
     "geom:longitude":-2.508136,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.984191,
     "lbl:longitude":-2.508467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Poyntington"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003585"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260212585
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ecf537b1f6652d5c6c92496615d88739",
+    "wof:geomhash":"24eeff586fad466aa0a5bc4b9821d05e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445889,
     "wof:label":"Poyntington Civil Parish",
-    "wof:lastmodified":1566633324,
+    "wof:lastmodified":1695877604,
     "wof:name":"Poyntington",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

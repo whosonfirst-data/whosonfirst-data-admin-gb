@@ -10,12 +10,18 @@
     "geom:latitude":51.789523,
     "geom:longitude":0.491251,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.787573,
     "lbl:longitude":0.488033,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Waltham"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003963"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126012641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2c5143416ec993ef94b8dbfcebb97160",
+    "wof:geomhash":"c68b02fb5007e34c2f4d13821571dcfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404451737,
     "wof:label":"Little Waltham Civil Parish",
-    "wof:lastmodified":1566633425,
+    "wof:lastmodified":1695877650,
     "wof:name":"Little Waltham",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

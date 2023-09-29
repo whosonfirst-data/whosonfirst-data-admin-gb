@@ -10,12 +10,18 @@
     "geom:latitude":51.94497,
     "geom:longitude":-0.591936,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.943809,
     "lbl:longitude":-0.591935,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u062a\u0644\u0633\u062f\u0646"
@@ -69,12 +75,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011930"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209943547
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0b2544df39dc92cef51dab50713ef3a7",
+    "wof:geomhash":"8afb478112ec51183a7ea8b1716db252",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404430593,
     "wof:label":"Battlesden Civil Parish",
-    "wof:lastmodified":1566631935,
+    "wof:lastmodified":1695876990,
     "wof:name":"Battlesden",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002411,
-    "geom:area_square_m":18477496.750265,
+    "geom:area_square_m":18477496.750264,
     "geom:bbox":"-0.466820236554,51.6800007264,-0.375565743006,51.7407823727",
     "geom:latitude":51.707712,
     "geom:longitude":-0.424206,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.708878,
     "lbl:longitude":-0.423517,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Abbots Langley"
@@ -81,12 +87,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004811"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125963275
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c99eb0d2ee3a2718a22d59adef766c7e",
+    "wof:geomhash":"51888285afc25416e618ec888ef90ad4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404436239,
     "wof:label":"Abbots Langley Civil Parish",
-    "wof:lastmodified":1566632409,
+    "wof:lastmodified":1695877191,
     "wof:name":"Abbots Langley",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

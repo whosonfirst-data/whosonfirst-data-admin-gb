@@ -10,12 +10,18 @@
     "geom:latitude":54.664696,
     "geom:longitude":-1.313538,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.659897,
     "lbl:longitude":-1.32253,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elwick"
@@ -51,12 +57,15 @@
         1360698981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000256"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125775931
     ],
     "wof:country":"GB",
-    "wof:geomhash":"85ba38a147b30c062037fa7719ea76c4",
+    "wof:geomhash":"be32e70eb6e9f04a78c679dbfd190eac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404444069,
     "wof:label":"Elwick Civil Parish",
-    "wof:lastmodified":1566632966,
+    "wof:lastmodified":1695877441,
     "wof:name":"Elwick",
     "wof:parent_id":1360698981,
     "wof:placetype":"localadmin",

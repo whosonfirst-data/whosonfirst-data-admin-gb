@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001152,
-    "geom:area_square_m":8615905.535178,
+    "geom:area_square_m":8615905.535179,
     "geom:bbox":"0.449267912435,52.771599615,0.516568230056,52.807607453",
     "geom:latitude":52.789712,
     "geom:longitude":0.472572,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.788066,
     "lbl:longitude":0.47309,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Castle Rising"
@@ -69,12 +75,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006296"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992327
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f3a3f891139f42acf8e852a02d6b22e0",
+    "wof:geomhash":"a0027df395f619757a6bd616d2215d1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404447357,
     "wof:label":"Castle Rising Civil Parish",
-    "wof:lastmodified":1566631292,
+    "wof:lastmodified":1695878292,
     "wof:name":"Castle Rising",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

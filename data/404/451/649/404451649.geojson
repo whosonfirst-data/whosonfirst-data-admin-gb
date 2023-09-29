@@ -10,12 +10,18 @@
     "geom:latitude":52.569267,
     "geom:longitude":-1.607817,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.568274,
     "lbl:longitude":-1.608266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baxterley"
@@ -60,12 +66,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009633"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125785283
     ],
     "wof:country":"GB",
-    "wof:geomhash":"41994fefcf589194b4a82b1c060a24de",
+    "wof:geomhash":"e1455cfe6cffbffd25440351187fcc24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404451649,
     "wof:label":"Baxterley Civil Parish",
-    "wof:lastmodified":1566633497,
+    "wof:lastmodified":1695877680,
     "wof:name":"Baxterley",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

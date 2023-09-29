@@ -10,12 +10,18 @@
     "geom:latitude":50.872257,
     "geom:longitude":-4.022469,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.874627,
     "lbl:longitude":-4.021985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dowland"
@@ -40,12 +46,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003260"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757121
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4510c22c9d8bfc397eec5d21e301ada3",
+    "wof:geomhash":"2acdf984bc0fd41b2562f0ff0d14fb65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404441585,
     "wof:label":"Dowland Civil Parish",
-    "wof:lastmodified":1566631817,
+    "wof:lastmodified":1695876935,
     "wof:name":"Dowland",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

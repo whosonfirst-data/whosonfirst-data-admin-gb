@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001611,
-    "geom:area_square_m":12672893.792853,
+    "geom:area_square_m":12672893.792854,
     "geom:bbox":"-5.00650145089,50.470423413,-4.93970272474,50.5173619505",
     "geom:latitude":50.492494,
     "geom:longitude":-4.968968,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.493533,
     "lbl:longitude":-4.966712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Ervan"
@@ -40,12 +46,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011546"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759739
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ff3453df98c320cb543efe4c3732bbb1",
+    "wof:geomhash":"56afe041bb66a1a4de06741fa4800cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404445821,
     "wof:label":"St. Ervan Civil Parish",
-    "wof:lastmodified":1566633329,
+    "wof:lastmodified":1695877607,
     "wof:name":"St. Ervan",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

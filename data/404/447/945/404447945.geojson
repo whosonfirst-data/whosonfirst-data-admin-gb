@@ -10,12 +10,18 @@
     "geom:latitude":52.976224,
     "geom:longitude":-2.568297,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.976955,
     "lbl:longitude":-2.5683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dodcott Cum Wilkesley"
@@ -40,12 +46,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010936"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756109
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cdea83c97c1bb7e8437ecf00327d0922",
+    "wof:geomhash":"34e26dbfe42160b795959b1dd1490cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404447945,
     "wof:label":"Dodcott Cum Wilkesley Civil Parish",
-    "wof:lastmodified":1566631339,
+    "wof:lastmodified":1695878314,
     "wof:name":"Dodcott Cum Wilkesley",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

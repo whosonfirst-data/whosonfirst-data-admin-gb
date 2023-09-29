@@ -10,12 +10,18 @@
     "geom:latitude":52.679049,
     "geom:longitude":1.461556,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.678598,
     "lbl:longitude":1.458279,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woodbastwick"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006259"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125865261
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dacbf6505ad0320ed8877aa7753a8042",
+    "wof:geomhash":"b2a579b278796154538b85d26400667c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404431467,
     "wof:label":"Woodbastwick Civil Parish",
-    "wof:lastmodified":1566632509,
+    "wof:lastmodified":1695877236,
     "wof:name":"Woodbastwick",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

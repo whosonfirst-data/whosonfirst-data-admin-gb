@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001665,
-    "geom:area_square_m":12743076.517535,
+    "geom:area_square_m":12743076.517536,
     "geom:bbox":"-0.593588156304,51.7356837337,-0.521993400593,51.7745011581",
     "geom:latitude":51.755596,
     "geom:longitude":-0.559703,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.757188,
     "lbl:longitude":-0.55902,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u06a9\u0645\u0633\u062a\u062f"
@@ -108,12 +114,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004697"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854795
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3d3032d40c08be6ac90977245b9c04fd",
+    "wof:geomhash":"29f272f8f4c2232f3d577948133bdb89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +135,7 @@
     ],
     "wof:id":404431337,
     "wof:label":"Berkhamsted Civil Parish",
-    "wof:lastmodified":1566632437,
+    "wof:lastmodified":1695877203,
     "wof:name":"Berkhamsted",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

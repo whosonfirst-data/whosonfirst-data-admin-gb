@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001214,
-    "geom:area_square_m":9154111.573629,
+    "geom:area_square_m":9154111.57363,
     "geom:bbox":"-2.08895074065,52.394125478,-2.02733200808,52.4351503723",
     "geom:latitude":52.412327,
     "geom:longitude":-2.060881,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.411648,
     "lbl:longitude":-2.066479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Romsley"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010273"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882977
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72d2090b11ae2dfa453eba3d75aa876d",
+    "wof:geomhash":"d9c1a40c2bf6e2a801eeb2fb96d78877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404444053,
     "wof:label":"Romsley Civil Parish",
-    "wof:lastmodified":1566632900,
+    "wof:lastmodified":1695877413,
     "wof:name":"Romsley",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.216409,
     "geom:longitude":-3.524089,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.212592,
     "lbl:longitude":-3.517479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Minehead Without"
@@ -49,12 +55,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008847"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759755
     ],
     "wof:country":"GB",
-    "wof:geomhash":"877c9e74df35df5b6215ddb4ad1e4067",
+    "wof:geomhash":"4d51b5871c484cf3080b2fc3cfde59d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404453973,
     "wof:label":"Minehead Without Civil Parish",
-    "wof:lastmodified":1566632849,
+    "wof:lastmodified":1695877395,
     "wof:name":"Minehead Without",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

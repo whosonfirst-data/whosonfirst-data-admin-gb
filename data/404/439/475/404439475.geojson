@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003082,
-    "geom:area_square_m":23681208.934025,
+    "geom:area_square_m":23681208.934021,
     "geom:bbox":"-2.39182495982,51.5485380165,-2.26032541858,51.6036869935",
     "geom:latitude":51.577571,
     "geom:longitude":-2.319818,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.57879,
     "lbl:longitude":-2.325311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hawkesbury"
@@ -63,12 +69,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001055"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125875347
     ],
     "wof:country":"GB",
-    "wof:geomhash":"16a3d1ee4b9f161ff30a94a17953541d",
+    "wof:geomhash":"27f0d72b131a3c8ad1ec9685d78a3e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439475,
     "wof:label":"Hawkesbury Civil Parish",
-    "wof:lastmodified":1566631900,
+    "wof:lastmodified":1695876973,
     "wof:name":"Hawkesbury",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

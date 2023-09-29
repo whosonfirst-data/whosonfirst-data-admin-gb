@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001414,
-    "geom:area_square_m":10483943.889931,
+    "geom:area_square_m":10483943.889932,
     "geom:bbox":"-2.44455068534,53.1178088723,-2.39100477833,53.176674032",
     "geom:latitude":53.150884,
     "geom:longitude":-2.415752,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.153579,
     "lbl:longitude":-2.413112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moston"
@@ -55,12 +61,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010977"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756587
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b1c5447d9beb01a332c1844eafe2c847",
+    "wof:geomhash":"bc67973ee6ab6b0811e6ab0135ad3ccb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404451363,
     "wof:label":"Moston Civil Parish",
-    "wof:lastmodified":1566633431,
+    "wof:lastmodified":1695877652,
     "wof:name":"Moston",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

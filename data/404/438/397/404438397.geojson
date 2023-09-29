@@ -10,12 +10,18 @@
     "geom:latitude":51.315393,
     "geom:longitude":-2.517424,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.319824,
     "lbl:longitude":-2.510469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "High Littleton"
@@ -57,12 +63,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000971"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125861877
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4e6b05805c0a4f88e3eeed3c2df068f3",
+    "wof:geomhash":"e60cddb6431c712bad873483a02403f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404438397,
     "wof:label":"High Littleton Civil Parish",
-    "wof:lastmodified":1566632547,
+    "wof:lastmodified":1695877254,
     "wof:name":"High Littleton",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

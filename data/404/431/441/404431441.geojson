@@ -10,12 +10,18 @@
     "geom:latitude":54.122576,
     "geom:longitude":-0.41235,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.124906,
     "lbl:longitude":-0.413331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Thwing"
@@ -45,12 +51,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000489"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125792457
     ],
     "wof:country":"GB",
-    "wof:geomhash":"30f7f17f923a279ba5d0c369f425ddf3",
+    "wof:geomhash":"ab9ce2628c775981b250628b9cd93b5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404431441,
     "wof:label":"Thwing Civil Parish",
-    "wof:lastmodified":1566632452,
+    "wof:lastmodified":1695877210,
     "wof:name":"Thwing",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.859259,
     "geom:longitude":-0.505968,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.859959,
     "lbl:longitude":-0.505477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0646\u0633\u0648\u0631\u062a\u0647"
@@ -72,12 +78,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011963"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126014841
     ],
     "wof:country":"GB",
-    "wof:geomhash":"00b4d3863929ce28b80b9592c4d2530b",
+    "wof:geomhash":"b3013d00f87081a0cab7082473667f12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404430101,
     "wof:label":"Kensworth Civil Parish",
-    "wof:lastmodified":1566632006,
+    "wof:lastmodified":1695877017,
     "wof:name":"Kensworth",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

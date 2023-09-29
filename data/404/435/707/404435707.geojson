@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002226,
-    "geom:area_square_m":16467989.538163,
+    "geom:area_square_m":16467989.538164,
     "geom:bbox":"-3.40910307954,53.2260143422,-3.32965830416,53.2817443794",
     "geom:latitude":53.252612,
     "geom:longitude":-3.372294,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.249686,
     "lbl:longitude":-3.379469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tremeirchion Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000177"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125987083
     ],
     "wof:country":"GB",
-    "wof:geomhash":"814ee08eb568320819e9f3a4d7e4ede5",
+    "wof:geomhash":"6c25877ffc16ff84daa7d2d620adc3f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435707,
-    "wof:lastmodified":1566633990,
+    "wof:lastmodified":1695877892,
     "wof:name":"Tremeirchion Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

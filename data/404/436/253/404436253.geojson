@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000785,
-    "geom:area_square_m":6017770.445317,
+    "geom:area_square_m":6017770.445316,
     "geom:bbox":"-2.26136777173,51.6820132236,-2.19990956208,51.7088112382",
     "geom:latitude":51.696339,
     "geom:longitude":-2.228599,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.697835,
     "lbl:longitude":-2.228596,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0627\u06cc\u0644\u0633\u0648\u0648\u0631\u062b"
@@ -99,12 +105,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004368"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852885
     ],
     "wof:country":"GB",
-    "wof:geomhash":"148aeefc8b2899ccbf4b4920e0631455",
+    "wof:geomhash":"acd8361bf4733da5a9581448ea702155",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404436253,
     "wof:label":"Nailsworth Civil Parish",
-    "wof:lastmodified":1566632405,
+    "wof:lastmodified":1695877189,
     "wof:name":"Nailsworth",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

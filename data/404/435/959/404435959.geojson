@@ -10,12 +10,18 @@
     "geom:latitude":51.419144,
     "geom:longitude":-2.424386,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.417594,
     "lbl:longitude":-2.424709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Stoke"
@@ -45,12 +51,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000980"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125864633
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dabb5ac62f1723135062c32debc0391b",
+    "wof:geomhash":"bd0f3f79c4d772851d05af45fa2bea61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404435959,
     "wof:label":"North Stoke Civil Parish",
-    "wof:lastmodified":1566634037,
+    "wof:lastmodified":1695877917,
     "wof:name":"North Stoke",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

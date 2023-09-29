@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001139,
-    "geom:area_square_m":8704326.844384,
+    "geom:area_square_m":8704326.844385,
     "geom:bbox":"-1.02998678126,51.8203129697,-0.966286278892,51.8609033435",
     "geom:latitude":51.843059,
     "geom:longitude":-1.003007,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.841798,
     "lbl:longitude":-1.003492,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u062a\u0648\u0646 \u064a\u0648\u0646\u062f\u0631\u0648\u0648\u062f"
@@ -75,12 +81,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001558"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881105
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2700bd11ea38f5d978c8a9e22f5f6077",
+    "wof:geomhash":"44dae160339cb287fdb58e86bb62e5ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404439749,
     "wof:label":"Wotton Underwood Civil Parish",
-    "wof:lastmodified":1566631875,
+    "wof:lastmodified":1695876962,
     "wof:name":"Wotton Underwood",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

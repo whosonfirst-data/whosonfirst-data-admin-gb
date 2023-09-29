@@ -10,12 +10,18 @@
     "geom:latitude":52.688865,
     "geom:longitude":-1.320491,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.686816,
     "lbl:longitude":-1.312389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanton-Under-Bardon"
@@ -40,12 +46,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005508"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753513
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6fd7f283cbc8fbed8c906fd3a24617ce",
+    "wof:geomhash":"62a2f7a1e78a49c07897a89f186dad26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404429849,
     "wof:label":"Stanton-Under-Bardon Civil Parish",
-    "wof:lastmodified":1566633161,
+    "wof:lastmodified":1695877532,
     "wof:name":"Stanton-Under-Bardon",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

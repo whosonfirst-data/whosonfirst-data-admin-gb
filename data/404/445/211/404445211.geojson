@@ -10,12 +10,18 @@
     "geom:latitude":53.989405,
     "geom:longitude":-0.493147,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.98727,
     "lbl:longitude":-0.492454,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirkburn"
@@ -60,12 +66,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000426"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868559
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c54a890f310da960f332c56f6cc36238",
+    "wof:geomhash":"3a993c70789683d15c6cfd1901026fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445211,
     "wof:label":"Kirkburn Civil Parish",
-    "wof:lastmodified":1566633319,
+    "wof:lastmodified":1695877602,
     "wof:name":"Kirkburn",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

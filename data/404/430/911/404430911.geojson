@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00118,
-    "geom:area_square_m":9322772.677364,
+    "geom:area_square_m":9322772.677363,
     "geom:bbox":"-4.9145572579,50.2473754036,-4.86791364131,50.2920071856",
     "geom:latitude":50.271471,
     "geom:longitude":-4.890054,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.272779,
     "lbl:longitude":-4.894262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cuby"
@@ -40,12 +46,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011425"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755127
     ],
     "wof:country":"GB",
-    "wof:geomhash":"192cca9372afc23f7e674fdd85eb1eeb",
+    "wof:geomhash":"551507b95a3350416ae3056c2791ba7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404430911,
     "wof:label":"Cuby Civil Parish",
-    "wof:lastmodified":1566632034,
+    "wof:lastmodified":1695877030,
     "wof:name":"Cuby",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

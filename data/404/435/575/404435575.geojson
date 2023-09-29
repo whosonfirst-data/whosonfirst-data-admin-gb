@@ -10,12 +10,18 @@
     "geom:latitude":50.950154,
     "geom:longitude":-0.758023,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.945981,
     "lbl:longitude":-0.759937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cocking"
@@ -48,12 +54,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009890"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125852283
     ],
     "wof:country":"GB",
-    "wof:geomhash":"00c403b3226de529d81c4bc074fa7422",
+    "wof:geomhash":"fd2d0a3d21f5fd7230ae894ed79ba61c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404435575,
     "wof:label":"Cocking Civil Parish",
-    "wof:lastmodified":1566634026,
+    "wof:lastmodified":1695877910,
     "wof:name":"Cocking",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

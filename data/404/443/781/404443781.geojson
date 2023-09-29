@@ -10,12 +10,18 @@
     "geom:latitude":52.466006,
     "geom:longitude":-2.462991,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.470144,
     "lbl:longitude":-2.466997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Sidbury"
@@ -58,12 +64,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011360"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758527
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5e55782bc416a45a4a156f9d34ef8c1",
+    "wof:geomhash":"592380dfab8ce39943f09bf7c4146f94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404443781,
     "wof:label":"Sidbury Civil Parish",
-    "wof:lastmodified":1566633081,
+    "wof:lastmodified":1695877496,
     "wof:name":"Sidbury",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.247161,
     "geom:longitude":-2.986035,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.249285,
     "lbl:longitude":-2.984162,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u062a\u0648\u064a\u0643"
@@ -66,12 +72,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011165"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125867957
     ],
     "wof:country":"GB",
-    "wof:geomhash":"55da55e02d2ead5afa0f31c92bf546cb",
+    "wof:geomhash":"4eca87fc0b5f97fa157fedaf7a3d6618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447331,
     "wof:label":"Shotwick Civil Parish",
-    "wof:lastmodified":1566631239,
+    "wof:lastmodified":1695878267,
     "wof:name":"Shotwick",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

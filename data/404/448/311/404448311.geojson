@@ -10,12 +10,18 @@
     "geom:latitude":54.336787,
     "geom:longitude":-1.973409,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.338624,
     "lbl:longitude":-1.972712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Castle Bolton with East and West Bolton"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007464"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756655
     ],
     "wof:country":"GB",
-    "wof:geomhash":"129fd9260f5d7970eed7e0f8e933a69f",
+    "wof:geomhash":"76672cf56aca07f4a852194b33a35e64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404448311,
     "wof:label":"Castle Bolton with East and West Bolton Civil Parish",
-    "wof:lastmodified":1566631561,
+    "wof:lastmodified":1695876841,
     "wof:name":"Castle Bolton with East and West Bolton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

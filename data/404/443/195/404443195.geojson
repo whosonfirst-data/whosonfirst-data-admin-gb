@@ -10,12 +10,18 @@
     "geom:latitude":50.849975,
     "geom:longitude":-3.593226,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.851158,
     "lbl:longitude":-3.592654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cheriton Fitzpaine"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003015"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125951655
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5538ea339e18d8d4850fef40dd18ca90",
+    "wof:geomhash":"dceeb9e400cceef723109cba54d2b5df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404443195,
     "wof:label":"Cheriton Fitzpaine Civil Parish",
-    "wof:lastmodified":1566632990,
+    "wof:lastmodified":1695877452,
     "wof:name":"Cheriton Fitzpaine",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

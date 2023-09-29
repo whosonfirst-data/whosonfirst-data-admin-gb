@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
-    "geom:area_square_m":2919867.556798,
+    "geom:area_square_m":2919867.556797,
     "geom:bbox":"-0.876298583882,53.0262088171,-0.830977786205,53.0507346417",
     "geom:latitude":53.038368,
     "geom:longitude":-0.853316,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.037945,
     "lbl:longitude":-0.852966,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Thorpe"
@@ -82,12 +88,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007950"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755275
     ],
     "wof:country":"GB",
-    "wof:geomhash":"88ceb8d2dfb4f0d8f947cdf72c64639a",
+    "wof:geomhash":"08776e461c05a86a00a00ba9a2574b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +109,7 @@
     ],
     "wof:id":404450513,
     "wof:label":"Thorpe Civil Parish",
-    "wof:lastmodified":1566633839,
+    "wof:lastmodified":1695877833,
     "wof:name":"Thorpe",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

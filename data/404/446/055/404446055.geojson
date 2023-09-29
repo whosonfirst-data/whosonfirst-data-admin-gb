@@ -10,12 +10,18 @@
     "geom:latitude":52.652983,
     "geom:longitude":-0.669997,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.652794,
     "lbl:longitude":-0.67639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hambleton"
@@ -73,12 +79,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000647"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753163
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8eaa627db352ea8a590902adf996c787",
+    "wof:geomhash":"fef21b5b4b69796f574f3efa9cfd9d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +100,7 @@
     ],
     "wof:id":404446055,
     "wof:label":"Hambleton Civil Parish",
-    "wof:lastmodified":1566631633,
+    "wof:lastmodified":1695876861,
     "wof:name":"Hambleton",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

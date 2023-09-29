@@ -10,12 +10,18 @@
     "geom:latitude":52.112577,
     "geom:longitude":0.25684,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.119815,
     "lbl:longitude":0.262721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0644\u062f\u0631\u0634\u0645"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001804"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125775429
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0785ec60c3bcf83ea0abb87420c61223",
+    "wof:geomhash":"090c90a7dec322a61822514ff8a63169",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404434171,
     "wof:label":"Hildersham Civil Parish",
-    "wof:lastmodified":1566633637,
+    "wof:lastmodified":1695877746,
     "wof:name":"Hildersham",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

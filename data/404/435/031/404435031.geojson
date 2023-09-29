@@ -10,12 +10,18 @@
     "geom:latitude":51.752312,
     "geom:longitude":0.658565,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.751005,
     "lbl:longitude":0.660874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Langford"
@@ -81,12 +87,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004052"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880301
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9b9a03e2dc0f00e03a54fa71074d6092",
+    "wof:geomhash":"767e23fdfddbf0c43a8035ef582b085d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404435031,
     "wof:label":"Langford Civil Parish",
-    "wof:lastmodified":1566634011,
+    "wof:lastmodified":1695877903,
     "wof:name":"Langford",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

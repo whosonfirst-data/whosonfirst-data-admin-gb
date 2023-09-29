@@ -10,12 +10,18 @@
     "geom:latitude":53.899543,
     "geom:longitude":-2.177565,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.89955,
     "lbl:longitude":-2.174934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salterforth"
@@ -54,12 +60,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005226"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030737
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fb656d9cad31651bdc307184e116944e",
+    "wof:geomhash":"048878ffa21589cfeaa17e771f5d5b7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404441953,
     "wof:label":"Salterforth Civil Parish",
-    "wof:lastmodified":1566631718,
+    "wof:lastmodified":1695876892,
     "wof:name":"Salterforth",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

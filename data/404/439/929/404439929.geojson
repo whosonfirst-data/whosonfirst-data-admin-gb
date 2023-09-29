@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000726,
-    "geom:area_square_m":5509463.465937,
+    "geom:area_square_m":5509463.465938,
     "geom:bbox":"-2.05549394233,52.1047962097,-1.98962633043,52.1408603857",
     "geom:latitude":52.129377,
     "geom:longitude":-2.024396,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.131167,
     "lbl:longitude":-2.027127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hill and Moor"
@@ -49,12 +55,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010401"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755807
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d32f2b1df954c97e01547c8d9f47ca9b",
+    "wof:geomhash":"f06fc6f71d53fe16325c415cb1717c9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404439929,
     "wof:label":"Hill and Moor Civil Parish",
-    "wof:lastmodified":1566631920,
+    "wof:lastmodified":1695876984,
     "wof:name":"Hill and Moor",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

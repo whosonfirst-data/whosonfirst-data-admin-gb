@@ -10,12 +10,18 @@
     "geom:latitude":51.202608,
     "geom:longitude":0.687553,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.204611,
     "lbl:longitude":0.684198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boughton Malherbe"
@@ -63,12 +69,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004944"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125857561
     ],
     "wof:country":"GB",
-    "wof:geomhash":"620084a1caa42e26b71601ff57269570",
+    "wof:geomhash":"0d118474e452918b0a2bca0ef2821df0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404443937,
     "wof:label":"Boughton Malherbe Civil Parish",
-    "wof:lastmodified":1566632994,
+    "wof:lastmodified":1695877454,
     "wof:name":"Boughton Malherbe",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

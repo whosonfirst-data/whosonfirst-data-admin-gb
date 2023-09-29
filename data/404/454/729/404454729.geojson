@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00035,
-    "geom:area_square_m":2710391.141357,
+    "geom:area_square_m":2710391.141356,
     "geom:bbox":"0.503624661361,51.2294630522,0.530842515559,51.2494148255",
     "geom:latitude":51.238618,
     "geom:longitude":0.516941,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.238331,
     "lbl:longitude":0.515839,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loose"
@@ -84,12 +90,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004965"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126011005
     ],
     "wof:country":"GB",
-    "wof:geomhash":"516b9e4a8d7c37b4118030eaca885915",
+    "wof:geomhash":"24d651ee45ec5250b053f456ccb39a23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404454729,
     "wof:label":"Loose Civil Parish",
-    "wof:lastmodified":1566632745,
+    "wof:lastmodified":1695877348,
     "wof:name":"Loose",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

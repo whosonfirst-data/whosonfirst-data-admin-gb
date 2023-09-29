@@ -10,12 +10,18 @@
     "geom:latitude":51.804546,
     "geom:longitude":-1.309872,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.800483,
     "lbl:longitude":-1.314359,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yarnton"
@@ -60,12 +66,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008094"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013353
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f981156b1ffdf6b3c7a74ee259684e9f",
+    "wof:geomhash":"d2e0038ecde23ad67b33bddc2ec114e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445235,
     "wof:label":"Yarnton Civil Parish",
-    "wof:lastmodified":1566633339,
+    "wof:lastmodified":1695877611,
     "wof:name":"Yarnton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

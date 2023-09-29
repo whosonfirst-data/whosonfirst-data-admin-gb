@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007473,
-    "geom:area_square_m":53267036.072877,
+    "geom:area_square_m":53267036.072875,
     "geom:bbox":"-3.19559852179,54.7566600123,-3.02423986893,54.8369058967",
     "geom:latitude":54.798288,
     "geom:longitude":-3.095468,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.794022,
     "lbl:longitude":-3.089643,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Westward"
@@ -42,12 +48,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002435"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293029711
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5077da9fa23eefb5a2531a08b51cdcbd",
+    "wof:geomhash":"2137becab0cba17f2dc490b269fb69c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404447919,
     "wof:label":"Westward Civil Parish",
-    "wof:lastmodified":1566631340,
+    "wof:lastmodified":1695878314,
     "wof:name":"Westward",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

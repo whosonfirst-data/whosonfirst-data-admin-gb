@@ -10,12 +10,18 @@
     "geom:latitude":51.445281,
     "geom:longitude":-2.487023,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.446004,
     "lbl:longitude":-2.487245,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oldland"
@@ -52,12 +58,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001063"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755835
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f780342489f0db27906c8a94034a2d07",
+    "wof:geomhash":"d80d00b1b68314d7403eee4fb28e0add",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404450879,
     "wof:label":"Oldland Civil Parish",
-    "wof:lastmodified":1566633808,
+    "wof:lastmodified":1695877821,
     "wof:name":"Oldland",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

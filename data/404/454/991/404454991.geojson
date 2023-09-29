@@ -10,12 +10,18 @@
     "geom:latitude":53.997576,
     "geom:longitude":-1.857101,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.999067,
     "lbl:longitude":-1.860565,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hazlewood with Storiths"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007093"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754489
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dbcdf5a74376f75675b8bc282ab37a02",
+    "wof:geomhash":"4801889d1ee65d59d0d919f7f46a7809",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404454991,
     "wof:label":"Hazlewood with Storiths Civil Parish",
-    "wof:lastmodified":1566632648,
+    "wof:lastmodified":1695877300,
     "wof:name":"Hazlewood with Storiths",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

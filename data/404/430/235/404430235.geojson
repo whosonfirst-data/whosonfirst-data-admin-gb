@@ -10,12 +10,18 @@
     "geom:latitude":51.086422,
     "geom:longitude":-1.167414,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.086683,
     "lbl:longitude":-1.167727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u06cc\u0648 \u0627\u0648\u0644\u0631\u0633\u0641\u0648\u0631\u062f"
@@ -78,12 +84,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004676"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802497
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2ae916971f25028c30efea0c6eb96c13",
+    "wof:geomhash":"0a7e7e9afa066ff9196b27ebb35bc20d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404430235,
     "wof:label":"New Alresford Civil Parish",
-    "wof:lastmodified":1566631966,
+    "wof:lastmodified":1695877002,
     "wof:name":"New Alresford",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000587,
-    "geom:area_square_m":4462194.548494,
+    "geom:area_square_m":4462194.548493,
     "geom:bbox":"-1.58123544429,52.0249552239,-1.5219024126,52.0515031275",
     "geom:latitude":52.033833,
     "geom:longitude":-1.551543,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.034168,
     "lbl:longitude":-1.547071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sutton-Under-Brailes"
@@ -42,12 +48,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009789"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125912907
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f8d5720be4b48e8ba4627a39009b1176",
+    "wof:geomhash":"e39def05e9ccfcacfee699b77da5b233",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404450835,
     "wof:label":"Sutton-Under-Brailes Civil Parish",
-    "wof:lastmodified":1566633773,
+    "wof:lastmodified":1695877807,
     "wof:name":"Sutton-Under-Brailes",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

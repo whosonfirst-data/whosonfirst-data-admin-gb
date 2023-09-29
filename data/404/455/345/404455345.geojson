@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002751,
-    "geom:area_square_m":20370790.592451,
+    "geom:area_square_m":20370790.59245,
     "geom:bbox":"-3.04116787697,53.181484987,-2.9203568573,53.2440945519",
     "geom:latitude":53.21234,
     "geom:longitude":-2.983744,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.213596,
     "lbl:longitude":-2.98375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sealand Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000207"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125996883
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5be817791095039fae450d6d33415625",
+    "wof:geomhash":"1add2ef0931b468b4b0b2b5db4fc4939",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404455345,
-    "wof:lastmodified":1566632312,
+    "wof:lastmodified":1695877147,
     "wof:name":"Sealand Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

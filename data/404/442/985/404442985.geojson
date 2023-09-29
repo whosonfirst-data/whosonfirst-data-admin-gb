@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000844,
-    "geom:area_square_m":6076144.599574,
+    "geom:area_square_m":6076144.599573,
     "geom:bbox":"-1.40184330826,54.3681873238,-1.34399265901,54.3894214606",
     "geom:latitude":54.379377,
     "geom:longitude":-1.374872,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.379511,
     "lbl:longitude":-1.374883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Harlsey"
@@ -55,12 +61,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007292"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758109
     ],
     "wof:country":"GB",
-    "wof:geomhash":"caa26d6bb0ef11ffe064d8a566d2602f",
+    "wof:geomhash":"024e6d9dabb72dec9825c27793145dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404442985,
     "wof:label":"West Harlsey Civil Parish",
-    "wof:lastmodified":1566633245,
+    "wof:lastmodified":1695877572,
     "wof:name":"West Harlsey",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

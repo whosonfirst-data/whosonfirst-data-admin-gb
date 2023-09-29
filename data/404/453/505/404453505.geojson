@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002889,
-    "geom:area_square_m":21352859.22833,
+    "geom:area_square_m":21352859.228328,
     "geom:bbox":"-3.35847434123,53.2684678324,-3.23894252921,53.309525739",
     "geom:latitude":53.286548,
     "geom:longitude":-3.299794,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.290006,
     "lbl:longitude":-3.299781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitford Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000211"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125979397
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a4936df33a466bb4da924f336df21295",
+    "wof:geomhash":"3849bd9a36c436999a1845e5e40e7ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453505,
-    "wof:lastmodified":1566632755,
+    "wof:lastmodified":1695877353,
     "wof:name":"Whitford Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.127606,
     "geom:longitude":-0.266763,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.129476,
     "lbl:longitude":-0.262011,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grindale"
@@ -60,12 +66,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000404"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054829
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2e0215c1eb1f8f9ef3edfb1af539a609",
+    "wof:geomhash":"46dd4b6f90003b535f49055807b89c19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430161,
     "wof:label":"Grindale Civil Parish",
-    "wof:lastmodified":1566631938,
+    "wof:lastmodified":1695876991,
     "wof:name":"Grindale",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

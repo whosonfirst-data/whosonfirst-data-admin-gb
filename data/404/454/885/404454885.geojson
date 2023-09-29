@@ -10,12 +10,18 @@
     "geom:latitude":51.10847,
     "geom:longitude":1.060982,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.108885,
     "lbl:longitude":1.061372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Postling"
@@ -69,12 +75,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005031"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881257
     ],
     "wof:country":"GB",
-    "wof:geomhash":"71293e49b26fa04d0b8a4e64c819e4ea",
+    "wof:geomhash":"521f70ed1f93dfcfc350643aecb3137a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404454885,
     "wof:label":"Postling Civil Parish",
-    "wof:lastmodified":1566632715,
+    "wof:lastmodified":1695877334,
     "wof:name":"Postling",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

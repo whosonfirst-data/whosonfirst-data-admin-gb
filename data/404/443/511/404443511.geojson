@@ -10,12 +10,18 @@
     "geom:latitude":52.387553,
     "geom:longitude":0.171533,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.383492,
     "lbl:longitude":0.168408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Wentworth"
@@ -81,12 +87,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001648"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125863497
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bee9a7e1da6e163e63f4987f13955e43",
+    "wof:geomhash":"795a86128f2b7e0fba3d35a897293456",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404443511,
     "wof:label":"Wentworth Civil Parish",
-    "wof:lastmodified":1566633034,
+    "wof:lastmodified":1695877475,
     "wof:name":"Wentworth",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.969664,
     "geom:longitude":-0.094182,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.966831,
     "lbl:longitude":-0.098191,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u044a\u0448\u0434\u044a\u043d"
@@ -81,12 +87,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004794"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327461055
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9d6b04ede782d4f82c4910fda566f9ad",
+    "wof:geomhash":"1bdfc5fb7bc7e96978d6387271c81656",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404436135,
     "wof:label":"Rushden Civil Parish",
-    "wof:lastmodified":1566632316,
+    "wof:lastmodified":1695877149,
     "wof:name":"Rushden",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

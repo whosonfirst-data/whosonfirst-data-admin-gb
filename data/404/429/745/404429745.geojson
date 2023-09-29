@@ -10,12 +10,18 @@
     "geom:latitude":52.157358,
     "geom:longitude":-2.578472,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.157878,
     "lbl:longitude":-2.575575,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Cowarne"
@@ -42,12 +48,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000806"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344092011
     ],
     "wof:country":"GB",
-    "wof:geomhash":"27651d2721f73af9eb96c739289923a3",
+    "wof:geomhash":"3651a5f6a7a8aa350cc19951de1e34f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404429745,
     "wof:label":"Little Cowarne Civil Parish",
-    "wof:lastmodified":1566633189,
+    "wof:lastmodified":1695877544,
     "wof:name":"Little Cowarne",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

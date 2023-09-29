@@ -10,12 +10,18 @@
     "geom:latitude":51.225938,
     "geom:longitude":-2.53,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.227304,
     "lbl:longitude":-2.530439,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashwick"
@@ -52,12 +58,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008540"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757959
     ],
     "wof:country":"GB",
-    "wof:geomhash":"81997f1aaf04421225c1dca75e32dff7",
+    "wof:geomhash":"6f71e5c8ea1696e4f69bff58d33a940f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404452273,
     "wof:label":"Ashwick Civil Parish",
-    "wof:lastmodified":1566632180,
+    "wof:lastmodified":1695877091,
     "wof:name":"Ashwick",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

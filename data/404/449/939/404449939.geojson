@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001353,
-    "geom:area_square_m":10068899.992573,
+    "geom:area_square_m":10068899.992572,
     "geom:bbox":"-1.63262385217,52.9856223719,-1.56621230666,53.0268004077",
     "geom:latitude":53.008841,
     "geom:longitude":-1.602399,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.010951,
     "lbl:longitude":-1.599656,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hulland Ward"
@@ -64,12 +70,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002772"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f1abcc2708857fe112bc452f34ad587e",
+    "wof:geomhash":"7fc1cdf6172800d7671c3fe88b41eaf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404449939,
     "wof:label":"Hulland Ward Civil Parish",
-    "wof:lastmodified":1566631357,
+    "wof:lastmodified":1695878320,
     "wof:name":"Hulland Ward",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

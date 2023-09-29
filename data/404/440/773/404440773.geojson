@@ -10,12 +10,18 @@
     "geom:latitude":51.974865,
     "geom:longitude":-1.98832,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.974815,
     "lbl:longitude":-1.989596,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gretton"
@@ -60,12 +66,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004434"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125917539
     ],
     "wof:country":"GB",
-    "wof:geomhash":"88a3197aec76f36096214bf482c1f17c",
+    "wof:geomhash":"7f70296e405295f434be7d50fdf5233d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440773,
     "wof:label":"Gretton Civil Parish",
-    "wof:lastmodified":1566631229,
+    "wof:lastmodified":1695878262,
     "wof:name":"Gretton",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

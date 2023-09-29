@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002962,
-    "geom:area_square_m":21208915.848798,
+    "geom:area_square_m":21208915.848797,
     "geom:bbox":"-1.61214086371,54.5802015274,-1.51979569036,54.6464264945",
     "geom:latitude":54.614737,
     "geom:longitude":-1.568635,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.619082,
     "lbl:longitude":-1.567929,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Great Aycliffe"
@@ -40,12 +46,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010634"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756819
     ],
     "wof:country":"GB",
-    "wof:geomhash":"395728005e7455e3640c00f5b3f35994",
+    "wof:geomhash":"7b619f0803e07cc6a129112ed448bec4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404435101,
     "wof:label":"Great Aycliffe Civil Parish",
-    "wof:lastmodified":1566634045,
+    "wof:lastmodified":1695877921,
     "wof:name":"Great Aycliffe",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

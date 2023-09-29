@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00027,
-    "geom:area_square_m":1924730.460624,
+    "geom:area_square_m":1924730.460625,
     "geom:bbox":"-1.82821590023,54.7360292954,-1.79855169527,54.7548411214",
     "geom:latitude":54.746041,
     "geom:longitude":-1.815375,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.746473,
     "lbl:longitude":-1.815376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0627\u0648 \u0644\u0627\u0648"
@@ -66,12 +72,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010703"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873339
     ],
     "wof:country":"GB",
-    "wof:geomhash":"afb2a46bf8a0fb2785a416a5d5d7b671",
+    "wof:geomhash":"cc477ab7647f026941fcaf5615082d09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404433113,
     "wof:label":"Tow Law Civil Parish",
-    "wof:lastmodified":1566633739,
+    "wof:lastmodified":1695877792,
     "wof:name":"Tow Law",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

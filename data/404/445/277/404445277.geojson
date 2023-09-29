@@ -10,12 +10,18 @@
     "geom:latitude":53.04026,
     "geom:longitude":-2.732809,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.040047,
     "lbl:longitude":-2.731346,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Hampton"
@@ -109,12 +115,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011106"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759287
     ],
     "wof:country":"GB",
-    "wof:geomhash":"99745d0e14c8c03bfe0bd6985fcf80ba",
+    "wof:geomhash":"7150498603236b89de95e0396a597a21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +136,7 @@
     ],
     "wof:id":404445277,
     "wof:label":"Hampton Civil Parish",
-    "wof:lastmodified":1566633379,
+    "wof:lastmodified":1695877629,
     "wof:name":"Hampton",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

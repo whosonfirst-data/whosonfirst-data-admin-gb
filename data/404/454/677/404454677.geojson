@@ -10,12 +10,18 @@
     "geom:latitude":52.205329,
     "geom:longitude":-1.324788,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.205098,
     "lbl:longitude":-1.324427,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Priors Hardwick"
@@ -57,12 +63,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009770"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125788623
     ],
     "wof:country":"GB",
-    "wof:geomhash":"842884abd9c9a926a09a701ce228deca",
+    "wof:geomhash":"ab973192cb3324fbaa46259310d3f081",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454677,
     "wof:label":"Priors Hardwick Civil Parish",
-    "wof:lastmodified":1566632719,
+    "wof:lastmodified":1695877336,
     "wof:name":"Priors Hardwick",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

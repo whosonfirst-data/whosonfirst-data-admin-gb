@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002376,
-    "geom:area_square_m":17560894.831238,
+    "geom:area_square_m":17560894.831231,
     "geom:bbox":"-4.70050358025,53.262162537,-4.58337098164,53.3236046678",
     "geom:latitude":53.290706,
     "geom:longitude":-4.642171,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.296452,
     "lbl:longitude":-4.666384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trearddur Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000874"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711639
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9280ecccac4346997e2a6dd768db2e1b",
+    "wof:geomhash":"130cf6139f28c1ad78eea6af6c538ebc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438997,
-    "wof:lastmodified":1566632547,
+    "wof:lastmodified":1695877254,
     "wof:name":"Trearddur Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

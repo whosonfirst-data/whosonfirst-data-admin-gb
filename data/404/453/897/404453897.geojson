@@ -10,12 +10,18 @@
     "geom:latitude":51.853127,
     "geom:longitude":-0.070148,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.854953,
     "lbl:longitude":-0.07204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sacombe"
@@ -57,12 +63,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004745"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259418209
     ],
     "wof:country":"GB",
-    "wof:geomhash":"33335fb309187f57f7a682582e9c70d8",
+    "wof:geomhash":"af6105e693432dd79bbf6c2ea4fea2ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453897,
     "wof:label":"Sacombe Civil Parish",
-    "wof:lastmodified":1566632844,
+    "wof:lastmodified":1695877393,
     "wof:name":"Sacombe",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

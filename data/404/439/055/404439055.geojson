@@ -10,12 +10,18 @@
     "geom:latitude":51.174578,
     "geom:longitude":-2.93395,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.17404,
     "lbl:longitude":-2.93353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woolavington"
@@ -63,12 +69,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008654"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125979233
     ],
     "wof:country":"GB",
-    "wof:geomhash":"453f71d2d3e95daa2b66a41f94fd015b",
+    "wof:geomhash":"579e13f9a59c6ce127c27933379e3a87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439055,
     "wof:label":"Woolavington Civil Parish",
-    "wof:lastmodified":1566631865,
+    "wof:lastmodified":1695876957,
     "wof:name":"Woolavington",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

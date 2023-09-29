@@ -10,12 +10,18 @@
     "geom:latitude":54.94834,
     "geom:longitude":-2.498989,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.947805,
     "lbl:longitude":-2.499722,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0641\u06cc\u062a\u0631\u0633\u062a\u0648\u0646"
@@ -82,12 +88,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010783"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759183
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f29ca21e655e8e174b08c5580428eb5b",
+    "wof:geomhash":"8a253847c4385a10300f74e07fea081b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +109,7 @@
     ],
     "wof:id":404453447,
     "wof:label":"Featherstone Civil Parish",
-    "wof:lastmodified":1566632763,
+    "wof:lastmodified":1695877356,
     "wof:name":"Featherstone",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

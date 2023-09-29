@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001333,
-    "geom:area_square_m":10070455.843213,
+    "geom:area_square_m":10070455.843214,
     "geom:bbox":"-2.77884820162,52.3080093666,-2.71847581968,52.3593926153",
     "geom:latitude":52.329977,
     "geom:longitude":-2.751412,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.31826,
     "lbl:longitude":-2.75347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Richards Castle (Hereford)"
@@ -40,12 +46,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000860"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753985
     ],
     "wof:country":"GB",
-    "wof:geomhash":"338046497f2dc2f21c82ae517a0c0520",
+    "wof:geomhash":"9a625d34a21b084b2c4553e06e983304",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404449657,
     "wof:label":"Richards Castle (Hereford) Civil Parish",
-    "wof:lastmodified":1566631386,
+    "wof:lastmodified":1695878332,
     "wof:name":"Richards Castle (Hereford)",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.583235,
     "geom:longitude":0.724953,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.579581,
     "lbl:longitude":0.724459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Cressingham"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006118"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125784831
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc0c8b57d20ebebfe039beae4eba3e10",
+    "wof:geomhash":"5f9ff2f68725ed96e7bae0a878b26a83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404443751,
     "wof:label":"Great Cressingham Civil Parish",
-    "wof:lastmodified":1566633042,
+    "wof:lastmodified":1695877479,
     "wof:name":"Great Cressingham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

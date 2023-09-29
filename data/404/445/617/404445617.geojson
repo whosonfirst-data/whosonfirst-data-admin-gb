@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00166,
-    "geom:area_square_m":12319278.113232,
+    "geom:area_square_m":12319278.113231,
     "geom:bbox":"-0.652444047927,53.0958987176,-0.58796356096,53.1451516167",
     "geom:latitude":53.123103,
     "geom:longitude":-0.618903,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.122371,
     "lbl:longitude":-0.618906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bassingham"
@@ -60,12 +66,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005782"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125920599
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fc01d07d2fb956e13bd7e0181169d3ca",
+    "wof:geomhash":"c8d88880cab06674078cb4aaba0bc439",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445617,
     "wof:label":"Bassingham Civil Parish",
-    "wof:lastmodified":1566633324,
+    "wof:lastmodified":1695877604,
     "wof:name":"Bassingham",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

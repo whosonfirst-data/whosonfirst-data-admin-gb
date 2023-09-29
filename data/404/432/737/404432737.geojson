@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000602,
-    "geom:area_square_m":4694798.029675,
+    "geom:area_square_m":4694798.029674,
     "geom:bbox":"-0.633926592445,50.9023208608,-0.585345365628,50.938329082",
     "geom:latitude":50.917498,
     "geom:longitude":-0.606206,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.910494,
     "lbl:longitude":-0.611911,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bignor"
@@ -54,12 +60,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009883"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878693
     ],
     "wof:country":"GB",
-    "wof:geomhash":"64b06f5d4af0cc542e49a97fe5d353e2",
+    "wof:geomhash":"4ec267589828677fc234d22caa166fac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404432737,
     "wof:label":"Bignor Civil Parish",
-    "wof:lastmodified":1566633856,
+    "wof:lastmodified":1695877839,
     "wof:name":"Bignor",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

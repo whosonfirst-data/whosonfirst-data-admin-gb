@@ -10,12 +10,18 @@
     "geom:latitude":52.771741,
     "geom:longitude":-0.94562,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.775847,
     "lbl:longitude":-0.936664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Asfordby"
@@ -63,12 +69,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005516"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125854493
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a091a63c4d75e2abd72ce2f39a50717e",
+    "wof:geomhash":"528bbb0494e66a619a59558ec87a4f79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404437947,
     "wof:label":"Asfordby Civil Parish",
-    "wof:lastmodified":1566632097,
+    "wof:lastmodified":1695877058,
     "wof:name":"Asfordby",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

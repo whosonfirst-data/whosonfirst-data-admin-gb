@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000609,
-    "geom:area_square_m":4752649.110232,
+    "geom:area_square_m":4752649.110233,
     "geom:bbox":"-2.28808243864,50.8597294777,-2.24018673185,50.8831462944",
     "geom:latitude":50.870673,
     "geom:longitude":-2.263006,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.871674,
     "lbl:longitude":-2.263369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Turnworth"
@@ -54,12 +60,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003454"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125988883
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b1c66f44494dcd2828dc116a1b373ca5",
+    "wof:geomhash":"234057286afb43e17c57840e8363a6b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454817,
     "wof:label":"Turnworth Civil Parish",
-    "wof:lastmodified":1566632664,
+    "wof:lastmodified":1695877308,
     "wof:name":"Turnworth",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

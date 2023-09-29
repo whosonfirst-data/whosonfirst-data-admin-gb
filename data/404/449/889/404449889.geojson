@@ -10,12 +10,18 @@
     "geom:latitude":51.260285,
     "geom:longitude":0.104717,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.261412,
     "lbl:longitude":0.106685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brasted"
@@ -67,12 +73,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004983"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754317
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5f804d1c0bd43af5417fbdeba87d0531",
+    "wof:geomhash":"aef24d30bdd4a727f93cfd42c3446116",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +94,7 @@
     ],
     "wof:id":404449889,
     "wof:label":"Brasted Civil Parish",
-    "wof:lastmodified":1566631367,
+    "wof:lastmodified":1695878324,
     "wof:name":"Brasted",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

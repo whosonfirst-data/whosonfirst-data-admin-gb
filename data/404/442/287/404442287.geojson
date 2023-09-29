@@ -10,12 +10,18 @@
     "geom:latitude":51.361008,
     "geom:longitude":0.394277,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.368107,
     "lbl:longitude":0.398796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Luddesdown"
@@ -69,12 +75,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004937"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929109
     ],
     "wof:country":"GB",
-    "wof:geomhash":"63273f34c24e2cfc6ee981016fc6a381",
+    "wof:geomhash":"57e903a0fab4cce89ea7c21c8ef3b430",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404442287,
     "wof:label":"Luddesdown Civil Parish",
-    "wof:lastmodified":1566633213,
+    "wof:lastmodified":1695877556,
     "wof:name":"Luddesdown",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

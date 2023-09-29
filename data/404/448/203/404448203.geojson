@@ -10,12 +10,18 @@
     "geom:latitude":51.071718,
     "geom:longitude":0.851097,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.075647,
     "lbl:longitude":0.853561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Orlestone"
@@ -63,12 +69,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004850"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125864791
     ],
     "wof:country":"GB",
-    "wof:geomhash":"14661e314b67c749cc754423bd9ac6f6",
+    "wof:geomhash":"3dc4a1856842889634c80e4945b610ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404448203,
     "wof:label":"Orlestone Civil Parish",
-    "wof:lastmodified":1566631494,
+    "wof:lastmodified":1695876812,
     "wof:name":"Orlestone",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

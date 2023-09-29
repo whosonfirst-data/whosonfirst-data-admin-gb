@@ -10,12 +10,18 @@
     "geom:latitude":51.752531,
     "geom:longitude":-4.92136,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.753986,
     "lbl:longitude":-4.919461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangwm Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000946"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998211
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9f3db4ea5c3ddad588677a187e3b3a2c",
+    "wof:geomhash":"57e6041f5892d5a3109c8ef0ba5c0bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430167,
-    "wof:lastmodified":1566631944,
+    "wof:lastmodified":1695876993,
     "wof:name":"Llangwm Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

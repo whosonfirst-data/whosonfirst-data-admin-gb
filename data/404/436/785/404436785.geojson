@@ -10,12 +10,18 @@
     "geom:latitude":51.086183,
     "geom:longitude":-3.106518,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.089041,
     "lbl:longitude":-3.101051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broomfield"
@@ -75,12 +81,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008610"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125799869
     ],
     "wof:country":"GB",
-    "wof:geomhash":"47bad074b9b16b71544c49a69e2f89ee",
+    "wof:geomhash":"e188a0629c5ef75b17ed390b1dfc8a89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404436785,
     "wof:label":"Broomfield Civil Parish",
-    "wof:lastmodified":1566632366,
+    "wof:lastmodified":1695877172,
     "wof:name":"Broomfield",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

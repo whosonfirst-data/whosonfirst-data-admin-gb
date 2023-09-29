@@ -10,12 +10,18 @@
     "geom:latitude":52.359067,
     "geom:longitude":-2.910989,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.358911,
     "lbl:longitude":-2.910988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buckton and Coxall"
@@ -52,12 +58,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000717"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754319
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1ba209a4e7bcba2d52f90a009c7738d2",
+    "wof:geomhash":"995f9ecd65fe23d9fca504a7fa0ffeeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404454901,
     "wof:label":"Buckton and Coxall Civil Parish",
-    "wof:lastmodified":1566632648,
+    "wof:lastmodified":1695877300,
     "wof:name":"Buckton and Coxall",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

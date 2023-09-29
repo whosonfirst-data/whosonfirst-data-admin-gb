@@ -10,12 +10,18 @@
     "geom:latitude":54.441432,
     "geom:longitude":-1.910824,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.439655,
     "lbl:longitude":-1.894009,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u062f\u064a\u0642\u0629 \u0646\u064a\u0648 \u0641\u0648\u0631\u064a\u0633\u062a"
@@ -100,12 +106,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007510"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758531
     ],
     "wof:country":"GB",
-    "wof:geomhash":"209bf1884f127e30bdf99934e37a613a",
+    "wof:geomhash":"ec9c93f47a861dad0fcafeacb5551786",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +127,7 @@
     ],
     "wof:id":404443785,
     "wof:label":"New Forest Civil Parish",
-    "wof:lastmodified":1566633030,
+    "wof:lastmodified":1695877473,
     "wof:name":"New Forest",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

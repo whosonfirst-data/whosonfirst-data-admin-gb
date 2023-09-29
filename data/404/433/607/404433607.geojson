@@ -10,12 +10,18 @@
     "geom:latitude":50.567586,
     "geom:longitude":-3.832776,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.567532,
     "lbl:longitude":-3.84224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Widecombe in the Moor"
@@ -64,12 +70,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003238"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125804171
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b879abac76b54bcf93453d929fe40483",
+    "wof:geomhash":"caddd28c104f14c55121656182e50713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404433607,
     "wof:label":"Widecombe in the Moor Civil Parish",
-    "wof:lastmodified":1566633726,
+    "wof:lastmodified":1695877787,
     "wof:name":"Widecombe in the Moor",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

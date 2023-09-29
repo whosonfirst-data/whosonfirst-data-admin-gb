@@ -10,12 +10,18 @@
     "geom:latitude":51.444774,
     "geom:longitude":-0.840848,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.447077,
     "lbl:longitude":-0.844018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Nicholas, Hurst"
@@ -40,12 +46,15 @@
         1360698967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001234"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"29fee86c18309d7e0b527db076aa4471",
+    "wof:geomhash":"97f44cceac810b311909a6f084f8802d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404430863,
     "wof:label":"St. Nicholas, Hurst Civil Parish",
-    "wof:lastmodified":1566632033,
+    "wof:lastmodified":1695877030,
     "wof:name":"St. Nicholas, Hurst",
     "wof:parent_id":1360698967,
     "wof:placetype":"localadmin",

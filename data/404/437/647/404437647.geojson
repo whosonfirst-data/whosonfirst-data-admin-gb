@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001427,
-    "geom:area_square_m":10970645.603842,
+    "geom:area_square_m":10970645.603841,
     "geom:bbox":"-1.1028669353,51.5464955661,-1.03715952838,51.5834561072",
     "geom:latitude":51.563768,
     "geom:longitude":-1.070743,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.564723,
     "lbl:longitude":-1.07668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ipsden"
@@ -57,12 +63,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008140"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801683
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d9c51f0b1f322f53549d189ba5967980",
+    "wof:geomhash":"4ed968bd41aa12cfef8e65f8f334ccb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404437647,
     "wof:label":"Ipsden Civil Parish",
-    "wof:lastmodified":1566632123,
+    "wof:lastmodified":1695877068,
     "wof:name":"Ipsden",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

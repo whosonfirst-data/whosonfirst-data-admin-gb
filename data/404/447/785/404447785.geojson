@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001446,
-    "geom:area_square_m":10565796.3649,
+    "geom:area_square_m":10565796.364899,
     "geom:bbox":"-0.73899863145,53.7453739171,-0.657250830772,53.784226977",
     "geom:latitude":53.764848,
     "geom:longitude":-0.700955,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.762575,
     "lbl:longitude":-0.703737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041d\u044c\u044e\u043f\u0430\u0440\u0442"
@@ -156,12 +162,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000442"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913489
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d881ef7208468258537d91c83f329374",
+    "wof:geomhash":"21f48e7ecbb8b4b240943217e7f6877a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +183,7 @@
     ],
     "wof:id":404447785,
     "wof:label":"Newport Civil Parish",
-    "wof:lastmodified":1566631282,
+    "wof:lastmodified":1695878287,
     "wof:name":"Newport",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

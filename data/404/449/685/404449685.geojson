@@ -10,12 +10,18 @@
     "geom:latitude":52.219092,
     "geom:longitude":-2.857111,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.218224,
     "lbl:longitude":-2.857801,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eardisland"
@@ -57,12 +63,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000747"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125877461
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c3c5d00629d68491d7645bcf3e26755f",
+    "wof:geomhash":"cf45b38a116485d4a0847516d1a12ea9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404449685,
     "wof:label":"Eardisland Civil Parish",
-    "wof:lastmodified":1566631420,
+    "wof:lastmodified":1695876779,
     "wof:name":"Eardisland",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

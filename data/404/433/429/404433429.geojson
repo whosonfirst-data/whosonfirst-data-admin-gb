@@ -10,12 +10,18 @@
     "geom:latitude":53.502881,
     "geom:longitude":-2.97339,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.5058,
     "lbl:longitude":-2.975596,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sefton"
@@ -63,12 +69,15 @@
         1360698771
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000035"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125996901
     ],
     "wof:country":"GB",
-    "wof:geomhash":"98f4471be6b67ebca1f58284bcd40fd4",
+    "wof:geomhash":"36313845b8a1b5bad4f0530aff991731",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404433429,
     "wof:label":"Sefton Civil Parish",
-    "wof:lastmodified":1566633711,
+    "wof:lastmodified":1695877779,
     "wof:name":"Sefton",
     "wof:parent_id":1360698771,
     "wof:placetype":"localadmin",

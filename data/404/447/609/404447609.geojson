@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002311,
-    "geom:area_square_m":17884519.339984,
+    "geom:area_square_m":17884519.339983,
     "geom:bbox":"-0.654604226627,51.2366959592,-0.550044600236,51.286180451",
     "geom:latitude":51.262621,
     "geom:longitude":-0.613396,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.263456,
     "lbl:longitude":-0.618541,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Worplesdon"
@@ -57,12 +63,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009563"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125994493
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0052f505eff0eae87e9f9124b8112dcc",
+    "wof:geomhash":"ee083d67fdbce24f6b5b1d144ca97cad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447609,
     "wof:label":"Worplesdon Civil Parish",
-    "wof:lastmodified":1566631330,
+    "wof:lastmodified":1695878309,
     "wof:name":"Worplesdon",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

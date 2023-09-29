@@ -10,12 +10,18 @@
     "geom:latitude":52.829497,
     "geom:longitude":-1.0074,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.828655,
     "lbl:longitude":-1.001595,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upper Broughton"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008011"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125870883
     ],
     "wof:country":"GB",
-    "wof:geomhash":"17bd1f7fee06255f2e396232a20c1088",
+    "wof:geomhash":"cb4b92b578aedf3e20c1dbc51acf8870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404449611,
     "wof:label":"Upper Broughton Civil Parish",
-    "wof:lastmodified":1566631373,
+    "wof:lastmodified":1695878326,
     "wof:name":"Upper Broughton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

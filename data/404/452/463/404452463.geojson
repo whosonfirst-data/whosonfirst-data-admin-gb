@@ -10,12 +10,18 @@
     "geom:latitude":50.899191,
     "geom:longitude":-2.214241,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.901213,
     "lbl:longitude":-2.217668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hanford"
@@ -77,9 +83,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04003412",
         "gn:id":7293395,
         "qs_pg:id":1040716
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758193
     ],
@@ -87,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff1e034c38b983a3283da7f2482b75dd",
+    "wof:geomhash":"61ede7b7dfdc5f3141ed124b4702ca22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +108,7 @@
     ],
     "wof:id":404452463,
     "wof:label":"Hanford Civil Parish",
-    "wof:lastmodified":1582311090,
+    "wof:lastmodified":1695877964,
     "wof:name":"Hanford",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

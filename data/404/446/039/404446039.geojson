@@ -10,12 +10,18 @@
     "geom:latitude":51.221561,
     "geom:longitude":-2.488279,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.220958,
     "lbl:longitude":-2.487714,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stoke St. Michael"
@@ -42,12 +48,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008586"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125785427
     ],
     "wof:country":"GB",
-    "wof:geomhash":"50c3b2b019899cb7ce54b6dff1081a04",
+    "wof:geomhash":"cad715c3408302e81c5593d893a3ba2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404446039,
     "wof:label":"Stoke St. Michael Civil Parish",
-    "wof:lastmodified":1566631638,
+    "wof:lastmodified":1695876863,
     "wof:name":"Stoke St. Michael",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":2191496.93902,
+    "geom:area_square_m":2191496.939021,
     "geom:bbox":"-3.01164446987,53.0450364687,-2.98739832957,53.0725467708",
     "geom:latitude":53.057436,
     "geom:longitude":-2.998073,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.056577,
     "lbl:longitude":-2.998897,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rhosddu Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000240"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125780779
     ],
     "wof:country":"GB",
-    "wof:geomhash":"79edcd2fb9277f06b619c2fa924ba2ce",
+    "wof:geomhash":"16c550345c3ae3d545b926bd7e6b4d09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444477,
-    "wof:lastmodified":1566632887,
+    "wof:lastmodified":1695877409,
     "wof:name":"Rhosddu Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

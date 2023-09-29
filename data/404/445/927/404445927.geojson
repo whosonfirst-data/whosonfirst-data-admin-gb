@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002752,
-    "geom:area_square_m":21013810.333119,
+    "geom:area_square_m":21013810.333118,
     "geom:bbox":"-4.38699405723,51.8295290696,-4.27624146515,51.8824948624",
     "geom:latitude":51.858055,
     "geom:longitude":-4.33026,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.85575,
     "lbl:longitude":-4.330245,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carmarthen Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000494"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852977
     ],
     "wof:country":"GB",
-    "wof:geomhash":"832decc8efdf76980830df81859fba7f",
+    "wof:geomhash":"d06ff7816386c4ba094eb729bb3e62c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404445927,
-    "wof:lastmodified":1566633406,
+    "wof:lastmodified":1695877643,
     "wof:name":"Carmarthen Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

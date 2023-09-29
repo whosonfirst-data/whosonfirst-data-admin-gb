@@ -10,12 +10,18 @@
     "geom:latitude":54.757527,
     "geom:longitude":-1.340265,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.758778,
     "lbl:longitude":-1.342866,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u062a\u0631\u0644\u06cc"
@@ -81,12 +87,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010677"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873365
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2d41f7ab5ad1dc8c2d5a356f3d356125",
+    "wof:geomhash":"009662db1d9badd14af1f80ccf5004c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404449301,
     "wof:label":"Peterlee Civil Parish",
-    "wof:lastmodified":1566631359,
+    "wof:lastmodified":1695878321,
     "wof:name":"Peterlee",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

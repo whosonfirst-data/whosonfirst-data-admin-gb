@@ -10,12 +10,18 @@
     "geom:latitude":53.277204,
     "geom:longitude":-2.475984,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.278589,
     "lbl:longitude":-2.475494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wincham"
@@ -58,9 +64,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04011193",
         "gn:id":7293055,
         "qs_pg:id":380224
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125854875
     ],
@@ -68,7 +76,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7598c882ae006b0c5bd8d387e848277f",
+    "wof:geomhash":"3e2b2fd199bf529693842c7d47474cda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +89,7 @@
     ],
     "wof:id":404432263,
     "wof:label":"Wincham Civil Parish",
-    "wof:lastmodified":1582311157,
+    "wof:lastmodified":1695877989,
     "wof:name":"Wincham",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

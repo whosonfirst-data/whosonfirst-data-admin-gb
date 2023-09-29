@@ -10,12 +10,18 @@
     "geom:latitude":52.577626,
     "geom:longitude":1.254444,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.576488,
     "lbl:longitude":1.254442,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Swardeston"
@@ -69,12 +75,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006601"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125988627
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f7a02fc50fd69a7334a6291b8ac5ddef",
+    "wof:geomhash":"6ff157fb2dd43cd32cc3444345d07003",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404443839,
     "wof:label":"Swardeston Civil Parish",
-    "wof:lastmodified":1566633073,
+    "wof:lastmodified":1695877493,
     "wof:name":"Swardeston",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

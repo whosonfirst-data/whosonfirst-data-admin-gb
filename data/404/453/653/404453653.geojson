@@ -10,12 +10,18 @@
     "geom:latitude":52.566822,
     "geom:longitude":1.022685,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.575527,
     "lbl:longitude":1.029944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deopham"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006536"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125776755
     ],
     "wof:country":"GB",
-    "wof:geomhash":"06f62d821a5fee1f44562bb370c3bc84",
+    "wof:geomhash":"fe328d5566d9d1257842f3b0bb55c390",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404453653,
     "wof:label":"Deopham Civil Parish",
-    "wof:lastmodified":1566632838,
+    "wof:lastmodified":1695877390,
     "wof:name":"Deopham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

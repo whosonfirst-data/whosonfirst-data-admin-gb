@@ -10,12 +10,18 @@
     "geom:latitude":50.887738,
     "geom:longitude":-2.084253,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.886662,
     "lbl:longitude":-2.08373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tarrant Launceston"
@@ -61,12 +67,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003449"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755593
     ],
     "wof:country":"GB",
-    "wof:geomhash":"75ceceba182fa69b88e1e6f8b05432e0",
+    "wof:geomhash":"53cf7f24551b6811d8d74ffdbb06d302",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404439649,
     "wof:label":"Tarrant Launceston Civil Parish",
-    "wof:lastmodified":1566631899,
+    "wof:lastmodified":1695876973,
     "wof:name":"Tarrant Launceston",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

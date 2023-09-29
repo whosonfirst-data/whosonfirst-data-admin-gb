@@ -10,12 +10,18 @@
     "geom:latitude":51.318484,
     "geom:longitude":-2.208937,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.316126,
     "lbl:longitude":-2.211992,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u0628\u0631\u064a\u062f\u062c"
@@ -126,12 +132,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011842"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852699
     ],
     "wof:country":"GB",
-    "wof:geomhash":"630ffaeaee60b271191150f1f8374bec",
+    "wof:geomhash":"60f76898c9bf15908deba4ca40adc8bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,7 +153,7 @@
     ],
     "wof:id":404443955,
     "wof:label":"Trowbridge Civil Parish",
-    "wof:lastmodified":1566632998,
+    "wof:lastmodified":1695877457,
     "wof:name":"Trowbridge",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

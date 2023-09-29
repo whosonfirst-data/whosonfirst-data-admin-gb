@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000878,
-    "geom:area_square_m":6830445.393858,
+    "geom:area_square_m":6830445.393859,
     "geom:bbox":"-2.37968444018,51.0020591444,-2.32438681547,51.039883697",
     "geom:latitude":51.01931,
     "geom:longitude":-2.350211,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.019639,
     "lbl:longitude":-2.352085,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buckhorn Weston"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003396"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309941267
     ],
     "wof:country":"GB",
-    "wof:geomhash":"05b4a78777e81340902e809a538af6fd",
+    "wof:geomhash":"c04e39a5f78a4708f4b83eaf294146b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404433097,
     "wof:label":"Buckhorn Weston Civil Parish",
-    "wof:lastmodified":1566633671,
+    "wof:lastmodified":1695877761,
     "wof:name":"Buckhorn Weston",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

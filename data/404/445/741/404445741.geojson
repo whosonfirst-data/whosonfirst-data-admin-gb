@@ -10,12 +10,18 @@
     "geom:latitude":50.823366,
     "geom:longitude":-2.169473,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.821563,
     "lbl:longitude":-2.172229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Charlton Marshall"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003398"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843191
     ],
     "wof:country":"GB",
-    "wof:geomhash":"505a62aa136b5c70d301ece65321e0d3",
+    "wof:geomhash":"1e35d238eef26e6b1b328bc89af050ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445741,
     "wof:label":"Charlton Marshall Civil Parish",
-    "wof:lastmodified":1566633363,
+    "wof:lastmodified":1695877624,
     "wof:name":"Charlton Marshall",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

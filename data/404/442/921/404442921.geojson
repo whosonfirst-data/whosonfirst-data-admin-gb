@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001091,
-    "geom:area_square_m":8356646.473956,
+    "geom:area_square_m":8356646.473957,
     "geom:bbox":"-1.39221180196,51.6913101255,-1.33705664908,51.7463088918",
     "geom:latitude":51.714654,
     "geom:longitude":-1.365061,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.718038,
     "lbl:longitude":-1.360901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Appleton-With-Eaton"
@@ -40,12 +46,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008189"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758061
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3d7e0bbe92032e85d72d7c0fc79df4d4",
+    "wof:geomhash":"10a62580f4072b62b71c15b1a843ae2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404442921,
     "wof:label":"Appleton-With-Eaton Civil Parish",
-    "wof:lastmodified":1566633300,
+    "wof:lastmodified":1695877594,
     "wof:name":"Appleton-With-Eaton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007139,
-    "geom:area_square_m":53455168.458584,
+    "geom:area_square_m":53455168.458585,
     "geom:bbox":"-3.4604602532,52.6777135528,-3.29850960341,52.77187453",
     "geom:latitude":52.731667,
     "geom:longitude":-3.37698,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.732371,
     "lbl:longitude":-3.384953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfihangel Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000301"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711587
     ],
     "wof:country":"GB",
-    "wof:geomhash":"adc903d84d2c395a2f7f27283e408cba",
+    "wof:geomhash":"2638e0a19636d81f3a207f340f2b88cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430815,
-    "wof:lastmodified":1566632013,
+    "wof:lastmodified":1695877020,
     "wof:name":"Llanfihangel Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

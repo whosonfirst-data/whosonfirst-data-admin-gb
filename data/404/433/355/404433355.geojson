@@ -10,12 +10,18 @@
     "geom:latitude":53.059551,
     "geom:longitude":-2.978614,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.060382,
     "lbl:longitude":-2.980019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Acton Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000890"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711553
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ac5f3b2f7011931c3c2de270056f3355",
+    "wof:geomhash":"93ad49c54b3f5d257e606aa77c725bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433355,
-    "wof:lastmodified":1566633647,
+    "wof:lastmodified":1695877750,
     "wof:name":"Acton Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

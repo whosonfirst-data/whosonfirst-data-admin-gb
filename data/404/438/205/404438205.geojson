@@ -10,12 +10,18 @@
     "geom:latitude":53.802945,
     "geom:longitude":-2.659494,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.802057,
     "lbl:longitude":-2.659101,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Haighton"
@@ -55,12 +61,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005238"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753903
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e925ba4f6bffbe87cd184036fdf724c9",
+    "wof:geomhash":"02d5de4e9a090e3114b171d7354405a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404438205,
     "wof:label":"Haighton Civil Parish",
-    "wof:lastmodified":1566632573,
+    "wof:lastmodified":1695877265,
     "wof:name":"Haighton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

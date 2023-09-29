@@ -10,12 +10,18 @@
     "geom:latitude":53.699761,
     "geom:longitude":-2.969565,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.702256,
     "lbl:longitude":-2.925921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Meols"
@@ -49,12 +55,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005311"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755851
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1f32c9ae26207adcc5f46780f4270a5a",
+    "wof:geomhash":"59126c724fb26eac1db34a7df0028e50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404434479,
     "wof:label":"North Meols Civil Parish",
-    "wof:lastmodified":1566633554,
+    "wof:lastmodified":1695877710,
     "wof:name":"North Meols",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.102059,
     "geom:longitude":-1.040741,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.102661,
     "lbl:longitude":-1.040269,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Four Marks"
@@ -66,12 +72,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004502"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125874537
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3d660386fffd96172b0c8e413d219d2b",
+    "wof:geomhash":"8e1db836cb3bc1be5cb09f1881f4aa96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404449715,
     "wof:label":"Four Marks Civil Parish",
-    "wof:lastmodified":1566631394,
+    "wof:lastmodified":1695878336,
     "wof:name":"Four Marks",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

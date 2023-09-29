@@ -10,12 +10,18 @@
     "geom:latitude":53.292378,
     "geom:longitude":-1.677245,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.292987,
     "lbl:longitude":-1.671294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eyam"
@@ -75,12 +81,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002750"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125813595
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2b1c6a87f37d502e32ca759f4e0a3b03",
+    "wof:geomhash":"cf5e34d3217455b9fb7c762c499d8353",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404434375,
     "wof:label":"Eyam Civil Parish",
-    "wof:lastmodified":1566633634,
+    "wof:lastmodified":1695877745,
     "wof:name":"Eyam",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

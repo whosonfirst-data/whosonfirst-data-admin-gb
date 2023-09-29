@@ -10,12 +10,18 @@
     "geom:latitude":53.242836,
     "geom:longitude":-1.287643,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.243682,
     "lbl:longitude":-1.293104,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Old Bolsover"
@@ -58,12 +64,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002704"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759169
     ],
     "wof:country":"GB",
-    "wof:geomhash":"46067eb07873fc96d04950d3867b4c9f",
+    "wof:geomhash":"be289a4f093cd13fb6d617d34708014c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404445045,
     "wof:label":"Old Bolsover Civil Parish",
-    "wof:lastmodified":1566633379,
+    "wof:lastmodified":1695877629,
     "wof:name":"Old Bolsover",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

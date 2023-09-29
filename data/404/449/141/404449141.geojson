@@ -10,12 +10,18 @@
     "geom:latitude":51.667493,
     "geom:longitude":-2.42727,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.667533,
     "lbl:longitude":-2.426612,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alkington"
@@ -46,12 +52,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004337"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753139
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8c997cee791b16f9271c87b4c818222a",
+    "wof:geomhash":"dfea26ee810f9790c3e3e103c8775d3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404449141,
     "wof:label":"Alkington Civil Parish",
-    "wof:lastmodified":1566631450,
+    "wof:lastmodified":1695876792,
     "wof:name":"Alkington",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

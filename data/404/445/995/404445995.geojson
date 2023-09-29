@@ -10,12 +10,18 @@
     "geom:latitude":51.23887,
     "geom:longitude":-1.062187,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.239369,
     "lbl:longitude":-1.059861,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winslade"
@@ -60,12 +66,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004487"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126051005
     ],
     "wof:country":"GB",
-    "wof:geomhash":"06e7a3b5b7840a3006e2f719359570da",
+    "wof:geomhash":"8296733309b5df1a12228c8cbe6db27c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445995,
     "wof:label":"Winslade Civil Parish",
-    "wof:lastmodified":1566633365,
+    "wof:lastmodified":1695877625,
     "wof:name":"Winslade",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

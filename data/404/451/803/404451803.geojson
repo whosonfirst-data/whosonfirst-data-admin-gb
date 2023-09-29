@@ -10,12 +10,18 @@
     "geom:latitude":51.962401,
     "geom:longitude":-2.058229,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.963468,
     "lbl:longitude":-2.044856,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gotherington"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004402"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125831291
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c59d708cc1e1a2e2f90bb5d2ac51afdb",
+    "wof:geomhash":"6a867c43efad9c40ec3e2e75211579c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404451803,
     "wof:label":"Gotherington Civil Parish",
-    "wof:lastmodified":1566633454,
+    "wof:lastmodified":1695877661,
     "wof:name":"Gotherington",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

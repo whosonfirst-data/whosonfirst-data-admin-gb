@@ -10,12 +10,18 @@
     "geom:latitude":51.879159,
     "geom:longitude":1.110874,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.882561,
     "lbl:longitude":1.113588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tendring"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004109"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125970381
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5f902f326009966fd4606dcb326a6a7c",
+    "wof:geomhash":"fbc4c96c1d7313e56de70130a8c76e75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404435531,
     "wof:label":"Tendring Civil Parish",
-    "wof:lastmodified":1566634043,
+    "wof:lastmodified":1695877920,
     "wof:name":"Tendring",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

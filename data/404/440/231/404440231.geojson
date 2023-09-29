@@ -10,12 +10,18 @@
     "geom:latitude":50.48165,
     "geom:longitude":-3.63354,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.48265,
     "lbl:longitude":-3.634015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ipplepen"
@@ -66,12 +72,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003215"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125863335
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d17b6ffb9ba71b1faf26725507d89649",
+    "wof:geomhash":"b9e2546ea5c548c42b8e6f0c4edb98ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404440231,
     "wof:label":"Ipplepen Civil Parish",
-    "wof:lastmodified":1566631206,
+    "wof:lastmodified":1695878253,
     "wof:name":"Ipplepen",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

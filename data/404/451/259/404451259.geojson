@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000859,
-    "geom:area_square_m":6624860.979029,
+    "geom:area_square_m":6624860.979028,
     "geom:bbox":"0.158203770495,51.4067475827,0.226028312777,51.4366470807",
     "geom:latitude":51.423457,
     "geom:longitude":0.19161,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.424029,
     "lbl:longitude":0.191103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wilmington"
@@ -129,12 +135,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004899"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125895117
     ],
     "wof:country":"GB",
-    "wof:geomhash":"49684af698e0a35bae47968db212705f",
+    "wof:geomhash":"1ede6bb6d1ea75b2a105cddc2ae16f19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,7 +156,7 @@
     ],
     "wof:id":404451259,
     "wof:label":"Wilmington Civil Parish",
-    "wof:lastmodified":1566633451,
+    "wof:lastmodified":1695877659,
     "wof:name":"Wilmington",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

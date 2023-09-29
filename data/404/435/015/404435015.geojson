@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009258,
-    "geom:area_square_m":66423034.579429,
+    "geom:area_square_m":66423034.57943,
     "geom:bbox":"-1.16498342296,54.4940415231,-0.989743747609,54.5772516203",
     "geom:latitude":54.534131,
     "geom:longitude":-1.076877,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.537847,
     "lbl:longitude":-1.083963,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u06cc\u0633\u0628\u0648\u0631\u0648"
@@ -87,12 +93,15 @@
         1360698859
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000263"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125985893
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7346005c468c1822fd2f0599c3cdf2f8",
+    "wof:geomhash":"a573e30952f953d3f5e722d0d876c4ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404435015,
     "wof:label":"Guisborough Civil Parish",
-    "wof:lastmodified":1566633993,
+    "wof:lastmodified":1695877893,
     "wof:name":"Guisborough",
     "wof:parent_id":1360698859,
     "wof:placetype":"localadmin",

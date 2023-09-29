@@ -10,12 +10,18 @@
     "geom:latitude":52.108276,
     "geom:longitude":0.912548,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.107337,
     "lbl:longitude":0.912924,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0644\u062f\u0627\u0633\u062a\u0648\u0646"
@@ -69,12 +75,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009071"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126024671
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6ed7aa282de1b7eb1453d1cdb06e6cc8",
+    "wof:geomhash":"12d98e514cdb7c0985d37aa62395ccee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404433595,
     "wof:label":"Bildeston Civil Parish",
-    "wof:lastmodified":1566633644,
+    "wof:lastmodified":1695877749,
     "wof:name":"Bildeston",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

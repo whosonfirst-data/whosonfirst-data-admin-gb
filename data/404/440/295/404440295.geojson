@@ -10,12 +10,18 @@
     "geom:latitude":52.835382,
     "geom:longitude":-2.142989,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.835763,
     "lbl:longitude":-2.146499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Creswell"
@@ -84,12 +90,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008992"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126048387
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f362244b4987d8c37bb01f3d9585e369",
+    "wof:geomhash":"1a0e8bbe0048d176c2dd2057019d1527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404440295,
     "wof:label":"Creswell Civil Parish",
-    "wof:lastmodified":1566631154,
+    "wof:lastmodified":1695878227,
     "wof:name":"Creswell",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00234,
-    "geom:area_square_m":17377057.293871,
+    "geom:area_square_m":17377057.293872,
     "geom:bbox":"-2.28255940769,53.0543747431,-2.18109786594,53.1157916339",
     "geom:latitude":53.085485,
     "geom:longitude":-2.236349,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.091275,
     "lbl:longitude":-2.228667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u06cc\u062f\u0633\u0642\u0631\u0648"
@@ -90,12 +96,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008948"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126014815
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1e9004e32f1d7199486b7f37c5808d73",
+    "wof:geomhash":"b67e9c6233b12cff9e65dabae4c60515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404455307,
     "wof:label":"Kidsgrove Civil Parish",
-    "wof:lastmodified":1566632268,
+    "wof:lastmodified":1695877129,
     "wof:name":"Kidsgrove",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

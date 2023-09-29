@@ -10,12 +10,18 @@
     "geom:latitude":51.656013,
     "geom:longitude":-1.996171,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.658627,
     "lbl:longitude":-1.997758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Poole Keynes"
@@ -51,12 +57,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004256"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059877
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0ffb2610354295d93194e5aaf357b6a6",
+    "wof:geomhash":"923efe87bcdfb8a09b4e954f3c0b60d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404447875,
     "wof:label":"Poole Keynes Civil Parish",
-    "wof:lastmodified":1566631261,
+    "wof:lastmodified":1695878277,
     "wof:name":"Poole Keynes",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000795,
-    "geom:area_square_m":6110699.534169,
+    "geom:area_square_m":6110699.534168,
     "geom:bbox":"-1.01601666866,51.5632753872,-0.961528171332,51.5915168403",
     "geom:latitude":51.575907,
     "geom:longitude":-0.986722,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.574062,
     "lbl:longitude":-0.984034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nettlebed"
@@ -57,12 +63,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008149"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125885297
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4912043b10b9f2f58bbc1428abcdecb6",
+    "wof:geomhash":"99347c81a059a388303ee990dac46d25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447163,
     "wof:label":"Nettlebed Civil Parish",
-    "wof:lastmodified":1566631297,
+    "wof:lastmodified":1695878294,
     "wof:name":"Nettlebed",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

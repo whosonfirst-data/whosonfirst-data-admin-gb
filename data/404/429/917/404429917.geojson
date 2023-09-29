@@ -10,12 +10,18 @@
     "geom:latitude":51.029669,
     "geom:longitude":-2.071803,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.030073,
     "lbl:longitude":-2.070096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ansty"
@@ -60,12 +66,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011624"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242902859
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f474bb22bfe30219cf797765e97539ac",
+    "wof:geomhash":"f0ec5078118394da16a7d8f26dfbeb54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404429917,
     "wof:label":"Ansty Civil Parish",
-    "wof:lastmodified":1566633189,
+    "wof:lastmodified":1695877545,
     "wof:name":"Ansty",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

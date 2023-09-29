@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001373,
-    "geom:area_square_m":10138473.030995,
+    "geom:area_square_m":10138473.030996,
     "geom:bbox":"-2.46131159739,53.3189927499,-2.37819933468,53.3524164792",
     "geom:latitude":53.333025,
     "geom:longitude":-2.418481,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.334465,
     "lbl:longitude":-2.419106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mere"
@@ -72,12 +78,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010971"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293036289
     ],
     "wof:country":"GB",
-    "wof:geomhash":"22131e6ae5f411d835b06457a87eba7e",
+    "wof:geomhash":"86b9f09360b1ca51a96d9a26c3402f66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404437183,
     "wof:label":"Mere Civil Parish",
-    "wof:lastmodified":1566632153,
+    "wof:lastmodified":1695877080,
     "wof:name":"Mere",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

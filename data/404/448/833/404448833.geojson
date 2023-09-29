@@ -10,12 +10,18 @@
     "geom:latitude":52.153894,
     "geom:longitude":-2.754083,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.1539,
     "lbl:longitude":-2.755733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dinmore"
@@ -48,12 +54,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000740"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327260733
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aa95b97e809459dbfce4c8d94a105c4f",
+    "wof:geomhash":"04749dfd4146ea39b1306bb352176685",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404448833,
     "wof:label":"Dinmore Civil Parish",
-    "wof:lastmodified":1566631500,
+    "wof:lastmodified":1695876815,
     "wof:name":"Dinmore",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

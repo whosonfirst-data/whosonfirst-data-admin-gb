@@ -10,12 +10,18 @@
     "geom:latitude":53.006511,
     "geom:longitude":0.125697,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.003805,
     "lbl:longitude":0.144396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leverton"
@@ -52,12 +58,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005581"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757683
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5e24d6b49fd389ae755a6306cb5cfe25",
+    "wof:geomhash":"a841217b03ba44de00a9a198d99ecea7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404442295,
     "wof:label":"Leverton Civil Parish",
-    "wof:lastmodified":1566633225,
+    "wof:lastmodified":1695877561,
     "wof:name":"Leverton",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.594378,
     "geom:longitude":-0.717215,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.594543,
     "lbl:longitude":-0.725588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gunness"
@@ -57,12 +63,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000559"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125981975
     ],
     "wof:country":"GB",
-    "wof:geomhash":"76064c1e4bf238675427a1e2030cf75d",
+    "wof:geomhash":"f0790e1c755618f9d74c0064e526430d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431199,
     "wof:label":"Gunness Civil Parish",
-    "wof:lastmodified":1566632493,
+    "wof:lastmodified":1695877228,
     "wof:name":"Gunness",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.697718,
     "geom:longitude":-4.881883,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.696241,
     "lbl:longitude":-4.878937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cosheston Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000420"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125964171
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a9b262e58e50eff1ffd0b1e2fe5bb7cd",
+    "wof:geomhash":"5bc342f205b1de990d27d6d10f5cbec9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452419,
-    "wof:lastmodified":1566632229,
+    "wof:lastmodified":1695877111,
     "wof:name":"Cosheston Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

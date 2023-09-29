@@ -10,12 +10,18 @@
     "geom:latitude":53.662565,
     "geom:longitude":0.029482,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.664186,
     "lbl:longitude":0.030071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Welwick"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000499"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974285
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e2ce0cf23d381b5f9c6e88049361e72d",
+    "wof:geomhash":"07692dfafbf3a641cad70439b1afc9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430897,
     "wof:label":"Welwick Civil Parish",
-    "wof:lastmodified":1566632033,
+    "wof:lastmodified":1695877030,
     "wof:name":"Welwick",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

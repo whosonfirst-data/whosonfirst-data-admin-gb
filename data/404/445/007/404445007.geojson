@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001868,
-    "geom:area_square_m":14571582.180091,
+    "geom:area_square_m":14571582.180092,
     "geom:bbox":"-4.0727107323,50.8686289364,-3.99299186287,50.9113284925",
     "geom:latitude":50.891597,
     "geom:longitude":-4.031862,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.893781,
     "lbl:longitude":-4.037898,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dolton"
@@ -75,12 +81,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003259"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125909059
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0fde49b7e319d3dc5179752200b83e5b",
+    "wof:geomhash":"e003f380ab03a27ee0ae565215368267",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404445007,
     "wof:label":"Dolton Civil Parish",
-    "wof:lastmodified":1566633339,
+    "wof:lastmodified":1695877611,
     "wof:name":"Dolton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

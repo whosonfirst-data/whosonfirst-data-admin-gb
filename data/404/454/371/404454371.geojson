@@ -10,12 +10,18 @@
     "geom:latitude":51.989326,
     "geom:longitude":-0.081639,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.995158,
     "lbl:longitude":-0.085372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sandon"
@@ -60,12 +66,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004796"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908869
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4039c53ff4dba45b3e1630c6ab65ab07",
+    "wof:geomhash":"6cf61587d9742f951d665f1fad399f39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404454371,
     "wof:label":"Sandon Civil Parish",
-    "wof:lastmodified":1566632688,
+    "wof:lastmodified":1695877320,
     "wof:name":"Sandon",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003552,
-    "geom:area_square_m":26724632.086759,
+    "geom:area_square_m":26724632.086758,
     "geom:bbox":"-3.36676026685,52.4890382892,-3.25494819587,52.5457203929",
     "geom:latitude":52.518583,
     "geom:longitude":-3.312328,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.520246,
     "lbl:longitude":-3.316137,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Newtown and Llanllwchaiarn Community"
@@ -40,9 +46,12 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000335"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"2663a84d2016fb5a67bf096a21ed3abb",
+    "wof:geomhash":"cd4a88da59ee41d846171e9eb049347f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404439593,
-    "wof:lastmodified":1566631831,
+    "wof:lastmodified":1695876941,
     "wof:name":"Newtown and Llanllwchaiarn Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

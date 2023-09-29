@@ -10,12 +10,18 @@
     "geom:latitude":51.086386,
     "geom:longitude":1.068282,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.088738,
     "lbl:longitude":1.07064,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saltwood"
@@ -72,12 +78,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005033"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059969
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c759d1cf3857966a226cea8b044f20d9",
+    "wof:geomhash":"1f1392d00fbdcdc710a6dd9fc8b61648",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404453811,
     "wof:label":"Saltwood Civil Parish",
-    "wof:lastmodified":1566632765,
+    "wof:lastmodified":1695877358,
     "wof:name":"Saltwood",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.642642,
     "geom:longitude":-1.590107,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.643143,
     "lbl:longitude":-1.592976,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sitlington"
@@ -52,12 +58,15 @@
         1360698945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000241"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755165
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3f3c12edb9efe5a4dbf765d4aa4076a7",
+    "wof:geomhash":"3758cf20e7d59c6f8854618b80b5b199",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404434037,
     "wof:label":"Sitlington Civil Parish",
-    "wof:lastmodified":1566633569,
+    "wof:lastmodified":1695877717,
     "wof:name":"Sitlington",
     "wof:parent_id":1360698945,
     "wof:placetype":"localadmin",

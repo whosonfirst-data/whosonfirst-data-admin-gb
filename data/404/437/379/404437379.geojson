@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000781,
-    "geom:area_square_m":5668832.470149,
+    "geom:area_square_m":5668832.470148,
     "geom:bbox":"-1.34795264125,54.0575473582,-1.29807705316,54.0837385223",
     "geom:latitude":54.071171,
     "geom:longitude":-1.323721,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.070501,
     "lbl:longitude":-1.324194,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dunsforths"
@@ -49,12 +55,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007333"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759575
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c58c1928bdb64ab4923ca965d0f11aef",
+    "wof:geomhash":"56081b55687457c668794ea8e7da7953",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404437379,
     "wof:label":"Dunsforths Civil Parish",
-    "wof:lastmodified":1566632091,
+    "wof:lastmodified":1695877054,
     "wof:name":"Dunsforths",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.856366,
     "geom:longitude":-0.114264,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.860046,
     "lbl:longitude":-0.107499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Watton-At-Stone"
@@ -42,12 +48,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004758"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126014541
     ],
     "wof:country":"GB",
-    "wof:geomhash":"326b82ccbd683a69f13e71d6b2000a00",
+    "wof:geomhash":"888214b86f048636292814264a0c22bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404442677,
     "wof:label":"Watton-At-Stone Civil Parish",
-    "wof:lastmodified":1566633277,
+    "wof:lastmodified":1695877585,
     "wof:name":"Watton-At-Stone",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

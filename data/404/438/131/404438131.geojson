@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000704,
-    "geom:area_square_m":5045174.010695,
+    "geom:area_square_m":5045174.010696,
     "geom:bbox":"-1.40393009831,54.5744111568,-1.36620942193,54.6051864553",
     "geom:latitude":54.591761,
     "geom:longitude":-1.385512,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.592746,
     "lbl:longitude":-1.38327,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carlton"
@@ -99,12 +105,15 @@
         1360699087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000269"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344085853
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dbfec179da2a2f66e4fb400059d482a9",
+    "wof:geomhash":"db4b3ae9de501d86268750b222e8a1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404438131,
     "wof:label":"Carlton Civil Parish",
-    "wof:lastmodified":1566632593,
+    "wof:lastmodified":1695877273,
     "wof:name":"Carlton",
     "wof:parent_id":1360699087,
     "wof:placetype":"localadmin",

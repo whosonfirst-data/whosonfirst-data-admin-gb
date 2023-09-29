@@ -10,12 +10,18 @@
     "geom:latitude":52.016329,
     "geom:longitude":-0.695322,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.014613,
     "lbl:longitude":-0.695322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Walton"
@@ -105,12 +111,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001275"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360014315
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b4172d9cd1a45752a373f16d1915e8d9",
+    "wof:geomhash":"83b5237d5f66bfe3f84323b88ab97fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404433437,
     "wof:label":"Walton Civil Parish",
-    "wof:lastmodified":1566633664,
+    "wof:lastmodified":1695877758,
     "wof:name":"Walton",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

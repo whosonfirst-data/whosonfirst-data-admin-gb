@@ -10,12 +10,18 @@
     "geom:latitude":52.064844,
     "geom:longitude":-2.65442,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.066576,
     "lbl:longitude":-2.647265,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lugwardine"
@@ -57,12 +63,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000820"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1193053493
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7fe1e2606397eefdc07c3aa9ad691b8e",
+    "wof:geomhash":"381dce734a3f08b92060ba33530e3cdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404438879,
     "wof:label":"Lugwardine Civil Parish",
-    "wof:lastmodified":1566632602,
+    "wof:lastmodified":1695877278,
     "wof:name":"Lugwardine",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

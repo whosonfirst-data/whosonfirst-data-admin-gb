@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000939,
-    "geom:area_square_m":6839333.828875,
+    "geom:area_square_m":6839333.828874,
     "geom:bbox":"-2.20523085488,53.9002174174,-2.16165189238,53.9376752775",
     "geom:latitude":53.92022,
     "geom:longitude":-2.184066,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.918355,
     "lbl:longitude":-2.1844,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0631\u0646\u0648\u0644\u062f\u0632\u0648\u06cc\u06a9"
@@ -87,12 +93,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005216"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872265
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d0e5c8f0756613d367b95996e9e937db",
+    "wof:geomhash":"8ae99d892a8c824f27196cccb4e111dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404446631,
     "wof:label":"Barnoldswick Civil Parish",
-    "wof:lastmodified":1566631697,
+    "wof:lastmodified":1695876884,
     "wof:name":"Barnoldswick",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

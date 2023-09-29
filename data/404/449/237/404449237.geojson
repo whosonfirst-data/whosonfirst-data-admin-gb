@@ -10,12 +10,18 @@
     "geom:latitude":54.173111,
     "geom:longitude":-2.529329,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.165804,
     "lbl:longitude":-2.539719,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ireby"
@@ -48,12 +54,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005192"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910887
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a2f2a7dddb67b395f28fe52c62785d0b",
+    "wof:geomhash":"9b00cabb2dbc91deb301b444b7a3a117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404449237,
     "wof:label":"Ireby Civil Parish",
-    "wof:lastmodified":1566631440,
+    "wof:lastmodified":1695876788,
     "wof:name":"Ireby",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.253787,
     "geom:longitude":-1.929707,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.25676,
     "lbl:longitude":-1.933969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carlton Town"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007462"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753033
     ],
     "wof:country":"GB",
-    "wof:geomhash":"01beb80d3a4e828f1d9b7f1abc9cdbe8",
+    "wof:geomhash":"23bb3e3ad57c5cc53d634c2b91690025",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404432675,
     "wof:label":"Carlton Town Civil Parish",
-    "wof:lastmodified":1566633864,
+    "wof:lastmodified":1695877842,
     "wof:name":"Carlton Town",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

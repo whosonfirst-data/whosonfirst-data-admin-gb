@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01183,
-    "geom:area_square_m":89176709.948418,
+    "geom:area_square_m":89176709.948421,
     "geom:bbox":"-3.90025939683,52.3719306274,-3.73033070851,52.5075938584",
     "geom:latitude":52.437184,
     "geom:longitude":-3.813514,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.43807,
     "lbl:longitude":-3.812247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blaenrheidol Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000361"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711543
     ],
     "wof:country":"GB",
-    "wof:geomhash":"67afed855851da60fe67ae1e0365af57",
+    "wof:geomhash":"c257574794631c49d78e88c0e4ab0e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404436453,
-    "wof:lastmodified":1566632357,
+    "wof:lastmodified":1695877167,
     "wof:name":"Blaenrheidol Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.329574,
     "geom:longitude":-0.804038,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.32899,
     "lbl:longitude":-0.804338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hannington"
@@ -59,9 +65,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04006665",
         "gn:id":7299002,
         "qs_pg:id":904183
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758459
     ],
@@ -69,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b94d7fa291dbe0cbb809f3dc4f9421c9",
+    "wof:geomhash":"2575e0e5e5ee1c12b617369826d867d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +90,7 @@
     ],
     "wof:id":404452731,
     "wof:label":"Hannington Civil Parish",
-    "wof:lastmodified":1582311090,
+    "wof:lastmodified":1695877964,
     "wof:name":"Hannington",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

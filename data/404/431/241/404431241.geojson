@@ -10,12 +10,18 @@
     "geom:latitude":54.030601,
     "geom:longitude":-1.497079,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.030567,
     "lbl:longitude":-1.497082,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Scotton"
@@ -56,9 +62,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04007412",
         "gn:id":7290744,
         "qs_pg:id":1154350
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755623
     ],
@@ -66,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e6dcb841b45fb6f8e86009e64aeedec2",
+    "wof:geomhash":"b5befbac4d1c9b3286c272843f65ae9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +87,7 @@
     ],
     "wof:id":404431241,
     "wof:label":"Scotton Civil Parish",
-    "wof:lastmodified":1582311102,
+    "wof:lastmodified":1695877968,
     "wof:name":"Scotton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

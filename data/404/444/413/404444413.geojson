@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001191,
-    "geom:area_square_m":8599503.417116,
+    "geom:area_square_m":8599503.417115,
     "geom:bbox":"-2.74111669344,54.2257476942,-2.69391566497,54.2835254697",
     "geom:latitude":54.256531,
     "geom:longitude":-2.718818,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.25792,
     "lbl:longitude":-2.717212,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Preston Richard"
@@ -52,12 +58,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002643"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758821
     ],
     "wof:country":"GB",
-    "wof:geomhash":"481009323e44ad422217589f3f7cbb1d",
+    "wof:geomhash":"30fcc7206d12c5dbbf6c1865c116a538",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404444413,
     "wof:label":"Preston Richard Civil Parish",
-    "wof:lastmodified":1566632880,
+    "wof:lastmodified":1695877409,
     "wof:name":"Preston Richard",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

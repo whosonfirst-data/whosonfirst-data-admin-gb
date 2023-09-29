@@ -10,12 +10,18 @@
     "geom:latitude":52.107557,
     "geom:longitude":-1.177814,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.108457,
     "lbl:longitude":-1.177815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sulgrave"
@@ -69,12 +75,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006858"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125857803
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3a7fc784b93ace509d431c373c78f00f",
+    "wof:geomhash":"4e7c1184fa985bd3cca9ef70565a73c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404449391,
     "wof:label":"Sulgrave Civil Parish",
-    "wof:lastmodified":1566631353,
+    "wof:lastmodified":1695878318,
     "wof:name":"Sulgrave",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

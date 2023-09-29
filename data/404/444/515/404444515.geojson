@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001715,
-    "geom:area_square_m":12725231.560499,
+    "geom:area_square_m":12725231.5605,
     "geom:bbox":"0.118720149681,53.1100354413,0.245674393978,53.1400928939",
     "geom:latitude":53.124073,
     "geom:longitude":0.182534,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.127884,
     "lbl:longitude":0.171956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thorpe St. Peter"
@@ -42,12 +48,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005745"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343691059
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e8892dc8b65c808f4849df9aa79189db",
+    "wof:geomhash":"87a1d1e7d523ad2bcd333432f16d7441",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404444515,
     "wof:label":"Thorpe St. Peter Civil Parish",
-    "wof:lastmodified":1566632983,
+    "wof:lastmodified":1695877450,
     "wof:name":"Thorpe St. Peter",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

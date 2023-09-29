@@ -10,12 +10,18 @@
     "geom:latitude":51.875443,
     "geom:longitude":-1.724387,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.876269,
     "lbl:longitude":-1.726743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Rissington"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004242"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125793201
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1336aef4b95460f388c731f13db4b8ac",
+    "wof:geomhash":"f773ca1cb6f7772bab801a1ac04b16ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404434385,
     "wof:label":"Little Rissington Civil Parish",
-    "wof:lastmodified":1566633578,
+    "wof:lastmodified":1695877722,
     "wof:name":"Little Rissington",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

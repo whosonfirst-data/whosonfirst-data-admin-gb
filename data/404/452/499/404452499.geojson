@@ -10,12 +10,18 @@
     "geom:latitude":51.864866,
     "geom:longitude":0.962242,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.864669,
     "lbl:longitude":0.962242,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wivenhoe"
@@ -88,12 +94,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004010"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101875443
     ],
     "wof:country":"GB",
-    "wof:geomhash":"196c9d6e22f8adefaf6ad1798f3e62d4",
+    "wof:geomhash":"63f6e815612d4c118b24382f6665e1f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +115,7 @@
     ],
     "wof:id":404452499,
     "wof:label":"Wivenhoe Civil Parish",
-    "wof:lastmodified":1566632196,
+    "wof:lastmodified":1695877098,
     "wof:name":"Wivenhoe",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

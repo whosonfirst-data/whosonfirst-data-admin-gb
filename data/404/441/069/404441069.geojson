@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000593,
-    "geom:area_square_m":4454592.650134,
+    "geom:area_square_m":4454592.650133,
     "geom:bbox":"-2.65162650278,52.563372012,-2.60504324462,52.5928776791",
     "geom:latitude":52.576496,
     "geom:longitude":-2.629871,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.576325,
     "lbl:longitude":-2.629878,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hughley"
@@ -45,12 +51,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011292"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977915
     ],
     "wof:country":"GB",
-    "wof:geomhash":"98f60e78b111f8ed9377ad8218daa222",
+    "wof:geomhash":"a1e2224b6865c6646930d1c6edd2cd27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404441069,
     "wof:label":"Hughley Civil Parish",
-    "wof:lastmodified":1566631812,
+    "wof:lastmodified":1695876931,
     "wof:name":"Hughley",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

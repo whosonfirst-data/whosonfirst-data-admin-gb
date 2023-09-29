@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006012,
-    "geom:area_square_m":44599183.706391,
+    "geom:area_square_m":44599183.706386,
     "geom:bbox":"-3.52904221458,53.0763244363,-3.35476224463,53.1823687439",
     "geom:latitude":53.133059,
     "geom:longitude":-3.433201,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.144553,
     "lbl:longitude":-3.4128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanrhaeadr-yng-Nghinmeirch Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000167"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711451
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d32942f8481cdc0f31d42fcffdf8ab4d",
+    "wof:geomhash":"92e8363155eef3bd7e109a09742aafcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430575,
-    "wof:lastmodified":1566631981,
+    "wof:lastmodified":1695877008,
     "wof:name":"Llanrhaeadr-yng-Nghinmeirch Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.101347,
     "geom:longitude":-2.808889,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.101536,
     "lbl:longitude":-2.807293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aldersey"
@@ -49,12 +55,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011034"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757819
     ],
     "wof:country":"GB",
-    "wof:geomhash":"00c4a264b254285013e66293458cd53c",
+    "wof:geomhash":"ccab5a878aa2ce2855e58a5750837808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404432611,
     "wof:label":"Aldersey Civil Parish",
-    "wof:lastmodified":1566633893,
+    "wof:lastmodified":1695877847,
     "wof:name":"Aldersey",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

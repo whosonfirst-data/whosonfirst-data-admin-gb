@@ -10,12 +10,18 @@
     "geom:latitude":53.197265,
     "geom:longitude":-1.978486,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.198212,
     "lbl:longitude":-1.975765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Quarnford"
@@ -54,12 +60,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009056"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125853453
     ],
     "wof:country":"GB",
-    "wof:geomhash":"38705e401f59b2f5d25ca015a30df4f4",
+    "wof:geomhash":"245a8eb26f73972d3bfb307213226217",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404434975,
     "wof:label":"Quarnford Civil Parish",
-    "wof:lastmodified":1566633636,
+    "wof:lastmodified":1695877746,
     "wof:name":"Quarnford",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006009,
-    "geom:area_square_m":42788743.541764,
+    "geom:area_square_m":42788743.541765,
     "geom:bbox":"-2.39272537905,54.7908503521,-2.28221020956,54.9019742442",
     "geom:latitude":54.839479,
     "geom:longitude":-2.32881,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.836873,
     "lbl:longitude":-2.334252,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Allen"
@@ -40,12 +46,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010879"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756205
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f1fc933181c3a9aaa13ce2a0697afc5b",
+    "wof:geomhash":"6a7fc3523668403a4d5e6263b9d680f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404440419,
     "wof:label":"West Allen Civil Parish",
-    "wof:lastmodified":1566631192,
+    "wof:lastmodified":1695878246,
     "wof:name":"West Allen",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

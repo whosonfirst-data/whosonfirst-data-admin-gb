@@ -10,12 +10,18 @@
     "geom:latitude":54.131474,
     "geom:longitude":-1.471553,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.131358,
     "lbl:longitude":-1.471937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bridge Hewick"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007319"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758271
     ],
     "wof:country":"GB",
-    "wof:geomhash":"135658b2d945a5bb9f48fc28946becd1",
+    "wof:geomhash":"cfc01f57f4f50e2199aa9c9960748238",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404443285,
     "wof:label":"Bridge Hewick Civil Parish",
-    "wof:lastmodified":1566633059,
+    "wof:lastmodified":1695877487,
     "wof:name":"Bridge Hewick",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

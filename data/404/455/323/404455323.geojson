@@ -10,12 +10,18 @@
     "geom:latitude":51.060718,
     "geom:longitude":-1.578281,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.055784,
     "lbl:longitude":-1.5752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Tytherley"
@@ -54,12 +60,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004607"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125888421
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2581856be53af15326fb22b5dfbe6a5c",
+    "wof:geomhash":"da4f05ac5e6ce3160c3f9c8e5fdad87e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404455323,
     "wof:label":"East Tytherley Civil Parish",
-    "wof:lastmodified":1566632287,
+    "wof:lastmodified":1695877136,
     "wof:name":"East Tytherley",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

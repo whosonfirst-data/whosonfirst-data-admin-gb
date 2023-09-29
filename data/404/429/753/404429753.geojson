@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014284,
-    "geom:area_square_m":108358303.010131,
+    "geom:area_square_m":108358303.010135,
     "geom:bbox":"-3.75813973278,52.0738666299,-3.60964820614,52.2574460837",
     "geom:latitude":52.155809,
     "geom:longitude":-3.696474,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.151697,
     "lbl:longitude":-3.697619,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanwrtyd Wells Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000323"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711731
     ],
     "wof:country":"GB",
-    "wof:geomhash":"305a4b4b121b0e633d5b4f27e45e4193",
+    "wof:geomhash":"c45cbd9956acbd56cbaa4da3d9953c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404429753,
-    "wof:lastmodified":1566633100,
+    "wof:lastmodified":1695877505,
     "wof:name":"Llanwrtyd Wells Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

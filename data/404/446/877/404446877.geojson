@@ -10,12 +10,18 @@
     "geom:latitude":52.129391,
     "geom:longitude":-0.013775,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.129009,
     "lbl:longitude":-0.014093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orwell"
@@ -42,12 +48,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001830"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125901137
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a09a5b08a159a00f1f290d9622c21bcf",
+    "wof:geomhash":"87157d99fa47dc45d26be78c91188e15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404446877,
     "wof:label":"Orwell Civil Parish",
-    "wof:lastmodified":1566631669,
+    "wof:lastmodified":1695876874,
     "wof:name":"Orwell",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

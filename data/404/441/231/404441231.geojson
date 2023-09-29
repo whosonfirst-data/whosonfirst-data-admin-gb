@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001102,
-    "geom:area_square_m":8462137.386052,
+    "geom:area_square_m":8462137.386051,
     "geom:bbox":"-1.27328987276,51.5941158904,-1.21214449817,51.6234129517",
     "geom:latitude":51.609802,
     "geom:longitude":-1.242829,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.608794,
     "lbl:longitude":-1.246473,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u06cc\u062f\u06a9\u0627\u062a"
@@ -108,12 +114,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008122"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852915
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7b950a4b422cb257954c7cee9eb3d42a",
+    "wof:geomhash":"3178e0bd7c9f727cef11cbc73a9690b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +135,7 @@
     ],
     "wof:id":404441231,
     "wof:label":"Didcot Civil Parish",
-    "wof:lastmodified":1566631803,
+    "wof:lastmodified":1695876927,
     "wof:name":"Didcot",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

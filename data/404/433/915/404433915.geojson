@@ -10,12 +10,18 @@
     "geom:latitude":51.105977,
     "geom:longitude":-1.447057,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.099025,
     "lbl:longitude":-1.451699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Somborne"
@@ -54,12 +60,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004619"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243483167
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ce9a57ecb51ba8c5c45bd01c829ba9d3",
+    "wof:geomhash":"3fd7a041626cd423bbefe4896f0f65ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404433915,
     "wof:label":"Little Somborne Civil Parish",
-    "wof:lastmodified":1566633680,
+    "wof:lastmodified":1695877766,
     "wof:name":"Little Somborne",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

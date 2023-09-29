@@ -10,12 +10,18 @@
     "geom:latitude":53.826873,
     "geom:longitude":-1.906606,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.829015,
     "lbl:longitude":-1.904202,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cullingworth"
@@ -57,12 +63,15 @@
         1360698963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000158"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846933
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f8732d40ccbac68905d345f4d49593ee",
+    "wof:geomhash":"523ce664fef1fe794be8010ac7674468",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404441507,
     "wof:label":"Cullingworth Civil Parish",
-    "wof:lastmodified":1566631781,
+    "wof:lastmodified":1695876917,
     "wof:name":"Cullingworth",
     "wof:parent_id":1360698963,
     "wof:placetype":"localadmin",

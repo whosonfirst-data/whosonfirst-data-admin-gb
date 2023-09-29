@@ -10,12 +10,18 @@
     "geom:latitude":51.620316,
     "geom:longitude":-2.854062,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.620253,
     "lbl:longitude":-2.85826,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penhow Community"
@@ -40,12 +46,15 @@
         1360698735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000826"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7c25ad2117d211d165a5eae56af5fefc",
+    "wof:geomhash":"ff57224fccbab41c3f39950182ceb370",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454971,
-    "wof:lastmodified":1566632689,
+    "wof:lastmodified":1695877321,
     "wof:name":"Penhow Community",
     "wof:parent_id":1360698735,
     "wof:placetype":"localadmin",

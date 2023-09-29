@@ -10,12 +10,18 @@
     "geom:latitude":52.178057,
     "geom:longitude":-1.529997,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.177902,
     "lbl:longitude":-1.53,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Compton Verney"
@@ -51,12 +57,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009726"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879067
     ],
     "wof:country":"GB",
-    "wof:geomhash":"788818b463a31f1d24d07f77e4be07dc",
+    "wof:geomhash":"1f152a3e5cc8935c4e20ec60749bfb29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404448239,
     "wof:label":"Compton Verney Civil Parish",
-    "wof:lastmodified":1566631554,
+    "wof:lastmodified":1695876837,
     "wof:name":"Compton Verney",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

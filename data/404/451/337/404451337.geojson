@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001696,
-    "geom:area_square_m":13160362.637028,
+    "geom:area_square_m":13160362.637027,
     "geom:bbox":"-1.86149275035,51.0907011442,-1.81110520572,51.1562439748",
     "geom:latitude":51.126583,
     "geom:longitude":-1.83739,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.129258,
     "lbl:longitude":-1.841548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Woodford"
@@ -84,12 +90,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011869"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276158597
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fc0264c72f5b72b4c131fc7a7a582289",
+    "wof:geomhash":"919fb91468a7a9f7829e92484f359a25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404451337,
     "wof:label":"Woodford Civil Parish",
-    "wof:lastmodified":1566633426,
+    "wof:lastmodified":1695877650,
     "wof:name":"Woodford",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

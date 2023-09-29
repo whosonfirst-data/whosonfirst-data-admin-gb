@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002049,
-    "geom:area_square_m":15971122.549076,
+    "geom:area_square_m":15971122.549075,
     "geom:bbox":"-0.777655385969,50.8866085755,-0.70628351496,50.941149029",
     "geom:latitude":50.916564,
     "geom:longitude":-0.741329,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.916654,
     "lbl:longitude":-0.74375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Singleton"
@@ -78,12 +84,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009927"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878453
     ],
     "wof:country":"GB",
-    "wof:geomhash":"21c2b9334d19b28c7c822ba5ac16a101",
+    "wof:geomhash":"3aaffc055e4c24924e8d37352dc3fe26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404444003,
     "wof:label":"Singleton Civil Parish",
-    "wof:lastmodified":1566632956,
+    "wof:lastmodified":1695877437,
     "wof:name":"Singleton",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

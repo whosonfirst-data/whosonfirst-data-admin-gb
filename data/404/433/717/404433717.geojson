@@ -10,12 +10,18 @@
     "geom:latitude":52.277084,
     "geom:longitude":-3.327394,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.280008,
     "lbl:longitude":-3.320894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanbadarn Fawr Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000286"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309833013
     ],
     "wof:country":"GB",
-    "wof:geomhash":"25611c7b009f3980efd86e779a4d4589",
+    "wof:geomhash":"d191bdb3269ffe70d8ad1e09990e09b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433717,
-    "wof:lastmodified":1566633734,
+    "wof:lastmodified":1695877790,
     "wof:name":"Llanbadarn Fawr Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

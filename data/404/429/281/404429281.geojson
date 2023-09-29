@@ -10,12 +10,18 @@
     "geom:latitude":52.171084,
     "geom:longitude":-0.281027,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.174795,
     "lbl:longitude":-0.281534,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0645\u0628\u0633\u0641\u0631\u062f"
@@ -72,12 +78,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011993"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209141235
     ],
     "wof:country":"GB",
-    "wof:geomhash":"436b09330cc7560a03ba8105179e7765",
+    "wof:geomhash":"6b89f12b2afd5a9e0833fbadb5fa3ff9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404429281,
     "wof:label":"Tempsford Civil Parish",
-    "wof:lastmodified":1566633118,
+    "wof:lastmodified":1695877513,
     "wof:name":"Tempsford",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.667722,
     "geom:longitude":-1.411294,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.665612,
     "lbl:longitude":-1.403782,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sharlston"
@@ -57,12 +63,15 @@
         1360698945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000240"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209644479
     ],
     "wof:country":"GB",
-    "wof:geomhash":"598d001cd896d7b79f9be043caac563f",
+    "wof:geomhash":"2275d1e0802048fb4148140f1103716a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404434097,
     "wof:label":"Sharlston Civil Parish",
-    "wof:lastmodified":1566633568,
+    "wof:lastmodified":1695877716,
     "wof:name":"Sharlston",
     "wof:parent_id":1360698945,
     "wof:placetype":"localadmin",

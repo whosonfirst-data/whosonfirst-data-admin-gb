@@ -10,12 +10,18 @@
     "geom:latitude":55.466752,
     "geom:longitude":-1.675231,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.461862,
     "lbl:longitude":-1.674444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rennington"
@@ -60,12 +66,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010853"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125971913
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1e98347c980884e87d38063382bd122a",
+    "wof:geomhash":"70fab15adaa6351135e16946b480801f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430947,
     "wof:label":"Rennington Civil Parish",
-    "wof:lastmodified":1566631986,
+    "wof:lastmodified":1695877010,
     "wof:name":"Rennington",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

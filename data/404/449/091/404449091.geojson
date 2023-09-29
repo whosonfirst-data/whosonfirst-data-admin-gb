@@ -10,12 +10,18 @@
     "geom:latitude":54.412735,
     "geom:longitude":-1.423369,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.413643,
     "lbl:longitude":-1.423777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deighton"
@@ -55,12 +61,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007164"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753045
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0bdd83d326846cc796a787e264623bdf",
+    "wof:geomhash":"71c5b81429f7ce514cfb10d235e6095f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404449091,
     "wof:label":"Deighton Civil Parish",
-    "wof:lastmodified":1566631375,
+    "wof:lastmodified":1695878327,
     "wof:name":"Deighton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.433761,
     "geom:longitude":-1.297614,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.433227,
     "lbl:longitude":-1.302015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u062a\u0648\u0646"
@@ -137,9 +143,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04012111",
         "gn:id":7292217,
         "qs_pg:id":1154390
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755533
     ],
@@ -147,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c83a3e6427ad8b94be2c2754fb463691",
+    "wof:geomhash":"592bff064b6be719d65fd55df45716f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +168,7 @@
     ],
     "wof:id":404431189,
     "wof:label":"Dalton Civil Parish",
-    "wof:lastmodified":1582311101,
+    "wof:lastmodified":1695877968,
     "wof:name":"Dalton",
     "wof:parent_id":1360698851,
     "wof:placetype":"localadmin",

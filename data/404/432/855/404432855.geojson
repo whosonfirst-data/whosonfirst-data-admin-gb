@@ -10,12 +10,18 @@
     "geom:latitude":51.021084,
     "geom:longitude":0.079921,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.022242,
     "lbl:longitude":0.083686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maresfield"
@@ -64,12 +70,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003856"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753363
     ],
     "wof:country":"GB",
-    "wof:geomhash":"938027d060ea8e99351416845f8b0d02",
+    "wof:geomhash":"0a379680cffb981bb6d0ebf47b6edf5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404432855,
     "wof:label":"Maresfield Civil Parish",
-    "wof:lastmodified":1566633959,
+    "wof:lastmodified":1695877877,
     "wof:name":"Maresfield",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

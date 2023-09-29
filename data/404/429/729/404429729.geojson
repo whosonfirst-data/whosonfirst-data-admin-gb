@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000837,
-    "geom:area_square_m":6310862.398109,
+    "geom:area_square_m":6310862.39811,
     "geom:bbox":"1.54146979787,52.4138032568,1.58517839909,52.4406738284",
     "geom:latitude":52.42623,
     "geom:longitude":1.56439,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.426877,
     "lbl:longitude":1.564806,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0633\u062a\u0648\u0646"
@@ -108,12 +114,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009534"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309934645
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ea8326904452ce28447e79f43d1d1875",
+    "wof:geomhash":"ad1f2f27d82d78012664e4d6813a7231",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +135,7 @@
     ],
     "wof:id":404429729,
     "wof:label":"Weston Civil Parish",
-    "wof:lastmodified":1566633192,
+    "wof:lastmodified":1695877546,
     "wof:name":"Weston",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

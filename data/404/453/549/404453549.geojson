@@ -10,12 +10,18 @@
     "geom:latitude":50.856328,
     "geom:longitude":-2.193551,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.857191,
     "lbl:longitude":-2.193553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bryanston"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010490"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126041963
     ],
     "wof:country":"GB",
-    "wof:geomhash":"61151d76a54a9f7d126ef6b025ea148e",
+    "wof:geomhash":"cfd12f4b100863a12d1ce980d115cb4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404453549,
     "wof:label":"Bryanston Civil Parish",
-    "wof:lastmodified":1566632844,
+    "wof:lastmodified":1695877393,
     "wof:name":"Bryanston",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

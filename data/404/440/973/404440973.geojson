@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004601,
-    "geom:area_square_m":35053443.545222,
+    "geom:area_square_m":35053443.545225,
     "geom:bbox":"-5.03942672589,51.933740706,-4.92112168216,51.994469381",
     "geom:latitude":51.962696,
     "geom:longitude":-4.986116,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.969682,
     "lbl:longitude":-5.004977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Scleddau Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000953"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125769661
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5e5f29e297b6cf173fa32497cc17fe21",
+    "wof:geomhash":"727616769000c36a29b973bd4e5fa135",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440973,
-    "wof:lastmodified":1566631225,
+    "wof:lastmodified":1695878260,
     "wof:name":"Scleddau Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

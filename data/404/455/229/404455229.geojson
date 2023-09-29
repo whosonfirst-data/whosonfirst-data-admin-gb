@@ -10,12 +10,18 @@
     "geom:latitude":53.209736,
     "geom:longitude":-2.229786,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.210889,
     "lbl:longitude":-2.229151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marton"
@@ -79,12 +85,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010970"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754849
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3c5dcde3a2046c051d363eae55ced04a",
+    "wof:geomhash":"788a7f50d47cb3b15045c09b8239237f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +106,7 @@
     ],
     "wof:id":404455229,
     "wof:label":"Marton Civil Parish",
-    "wof:lastmodified":1566632274,
+    "wof:lastmodified":1695877131,
     "wof:name":"Marton",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

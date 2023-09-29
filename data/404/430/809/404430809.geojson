@@ -10,12 +10,18 @@
     "geom:latitude":52.858919,
     "geom:longitude":-1.482051,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.859212,
     "lbl:longitude":-1.479318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barrow Upon Trent"
@@ -42,12 +48,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002887"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276578813
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c87c0b6a7ff575371e436ba93e9d9d02",
+    "wof:geomhash":"cf636edaed83c94d78cf3640d2610f92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404430809,
     "wof:label":"Barrow Upon Trent Civil Parish",
-    "wof:lastmodified":1566632023,
+    "wof:lastmodified":1695877024,
     "wof:name":"Barrow Upon Trent",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

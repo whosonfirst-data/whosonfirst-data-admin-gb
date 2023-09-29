@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002279,
-    "geom:area_square_m":16855626.459243,
+    "geom:area_square_m":16855626.459242,
     "geom:bbox":"-4.49908678881,53.2375915255,-4.4021115302,53.2837763155",
     "geom:latitude":53.262526,
     "geom:longitude":-4.453887,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.262995,
     "lbl:longitude":-4.453879,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bryngwran Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000007"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126000447
     ],
     "wof:country":"GB",
-    "wof:geomhash":"47d6df9fe8a6c16fc3faac82322f72bc",
+    "wof:geomhash":"e2391b40b37e1dd2fd3e8105837786a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444209,
-    "wof:lastmodified":1566632957,
+    "wof:lastmodified":1695877437,
     "wof:name":"Bryngwran Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

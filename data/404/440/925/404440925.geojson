@@ -10,12 +10,18 @@
     "geom:latitude":51.969161,
     "geom:longitude":0.137796,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.967429,
     "lbl:longitude":0.138507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Clavering"
@@ -48,12 +54,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004124"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843209
     ],
     "wof:country":"GB",
-    "wof:geomhash":"413152c2e217642999e52971d610a53e",
+    "wof:geomhash":"c191ca6bee6ee73863ff22f46189ea2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404440925,
     "wof:label":"Clavering Civil Parish",
-    "wof:lastmodified":1566631176,
+    "wof:lastmodified":1695878239,
     "wof:name":"Clavering",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

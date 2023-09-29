@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002193,
-    "geom:area_square_m":16252498.660932,
+    "geom:area_square_m":16252498.660933,
     "geom:bbox":"-1.15301311423,53.1533915631,-1.07270524481,53.194085794",
     "geom:latitude":53.173553,
     "geom:longitude":-1.111096,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.173354,
     "lbl:longitude":-1.111097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clipstone"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007890"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126048349
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24f207e4a6645515679afbbb6cec56b5",
+    "wof:geomhash":"634b9ef2e1ea188900696e467816d10b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404449881,
     "wof:label":"Clipstone Civil Parish",
-    "wof:lastmodified":1566631373,
+    "wof:lastmodified":1695878326,
     "wof:name":"Clipstone",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

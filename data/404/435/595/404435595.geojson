@@ -10,12 +10,18 @@
     "geom:latitude":51.587949,
     "geom:longitude":-1.265857,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.59158,
     "lbl:longitude":-1.268964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Hagbourne"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008179"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803371
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b73c75741ad2e3343d2bf62639a51236",
+    "wof:geomhash":"54f208adeea4855722f644f2bd12302c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404435595,
     "wof:label":"West Hagbourne Civil Parish",
-    "wof:lastmodified":1566633985,
+    "wof:lastmodified":1695877889,
     "wof:name":"West Hagbourne",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

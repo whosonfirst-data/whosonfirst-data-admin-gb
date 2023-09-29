@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002274,
-    "geom:area_square_m":17282278.521179,
+    "geom:area_square_m":17282278.52118,
     "geom:bbox":"-0.600893795115,52.0358289247,-0.509821603917,52.0949187841",
     "geom:latitude":52.067654,
     "geom:longitude":-0.555062,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.073709,
     "lbl:longitude":-0.565742,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marston Moretaine"
@@ -42,12 +48,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011967"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125893479
     ],
     "wof:country":"GB",
-    "wof:geomhash":"78622a792b5e76dfe1bcbced1971c92a",
+    "wof:geomhash":"5ebe73b8252c56979f91030ba3685fff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404454675,
     "wof:label":"Marston Moretaine Civil Parish",
-    "wof:lastmodified":1566632655,
+    "wof:lastmodified":1695877304,
     "wof:name":"Marston Moretaine",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

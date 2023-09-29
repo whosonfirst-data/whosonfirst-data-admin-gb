@@ -10,12 +10,18 @@
     "geom:latitude":53.097946,
     "geom:longitude":-2.644769,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.097366,
     "lbl:longitude":-2.648247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0628\u0648\u0631\u0633\u062a\u0648"
@@ -69,12 +75,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011009"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226277941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6b0de2ddd3f811daca3872b5644a0844",
+    "wof:geomhash":"da19fc7a55c70fd7757fce07dc3ad74b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404444847,
     "wof:label":"Spurstow Civil Parish",
-    "wof:lastmodified":1566632951,
+    "wof:lastmodified":1695877434,
     "wof:name":"Spurstow",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

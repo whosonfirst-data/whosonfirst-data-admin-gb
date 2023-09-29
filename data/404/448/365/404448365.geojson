@@ -10,12 +10,18 @@
     "geom:latitude":53.288457,
     "geom:longitude":-1.630056,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.287759,
     "lbl:longitude":-1.632166,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Froggatt"
@@ -45,12 +51,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002754"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801233
     ],
     "wof:country":"GB",
-    "wof:geomhash":"389524ffa70db55d7f15253fbfec9a8b",
+    "wof:geomhash":"e8b0841526b5e82ebffdd447131d1405",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404448365,
     "wof:label":"Froggatt Civil Parish",
-    "wof:lastmodified":1566631464,
+    "wof:lastmodified":1695876798,
     "wof:name":"Froggatt",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

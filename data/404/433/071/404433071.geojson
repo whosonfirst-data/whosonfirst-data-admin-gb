@@ -10,12 +10,18 @@
     "geom:latitude":52.151265,
     "geom:longitude":-0.654549,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.154808,
     "lbl:longitude":-0.65658,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0648\u062a\u0648\u0646 \u0628\u0644\u0633\u0645\u0648\u064a\u0644"
@@ -69,12 +75,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001266"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033001
     ],
     "wof:country":"GB",
-    "wof:geomhash":"95c9eb9134345a3c20cba983fc641f52",
+    "wof:geomhash":"9a9f27922b0eb996fdf63aea6cd8f5e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404433071,
     "wof:label":"Newton Blossomville Civil Parish",
-    "wof:lastmodified":1566633659,
+    "wof:lastmodified":1695877755,
     "wof:name":"Newton Blossomville",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

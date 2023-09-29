@@ -10,12 +10,18 @@
     "geom:latitude":52.910373,
     "geom:longitude":-2.073932,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.909697,
     "lbl:longitude":-2.074491,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hilderstone"
@@ -60,12 +66,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009002"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977791
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f595d438ab0e1f99f7c4876cb9c1a262",
+    "wof:geomhash":"1b920b7e1a2b588744adf7672ebc6fef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448767,
     "wof:label":"Hilderstone Civil Parish",
-    "wof:lastmodified":1566631525,
+    "wof:lastmodified":1695876823,
     "wof:name":"Hilderstone",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

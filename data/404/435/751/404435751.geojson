@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003765,
-    "geom:area_square_m":28289933.124547,
+    "geom:area_square_m":28289933.124548,
     "geom:bbox":"-3.42686867695,52.5464967778,-3.27747799735,52.5995305325",
     "geom:latitude":52.573818,
     "geom:longitude":-3.349037,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.571898,
     "lbl:longitude":-3.347973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tregynon Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000350"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125888193
     ],
     "wof:country":"GB",
-    "wof:geomhash":"053ade40d991110877fc77c44a631e4d",
+    "wof:geomhash":"de2aede63934f69f5d2cdd5507e8232e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435751,
-    "wof:lastmodified":1566634040,
+    "wof:lastmodified":1695877919,
     "wof:name":"Tregynon Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

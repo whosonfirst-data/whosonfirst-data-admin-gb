@@ -10,12 +10,18 @@
     "geom:latitude":51.66711,
     "geom:longitude":0.915495,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.66991,
     "lbl:longitude":0.90281,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dengie"
@@ -60,12 +66,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004046"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276363619
     ],
     "wof:country":"GB",
-    "wof:geomhash":"306f4dadf7d48526cf32c120b463477b",
+    "wof:geomhash":"0cf8e62273e1a516e9d5d2085956ec0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404449273,
     "wof:label":"Dengie Civil Parish",
-    "wof:lastmodified":1566631367,
+    "wof:lastmodified":1695878324,
     "wof:name":"Dengie",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

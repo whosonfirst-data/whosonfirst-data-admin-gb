@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003537,
-    "geom:area_square_m":26991192.452636,
+    "geom:area_square_m":26991192.452637,
     "geom:bbox":"-5.08969056572,51.8585168649,-4.99372137889,51.9264436185",
     "geom:latitude":51.894582,
     "geom:longitude":-5.0457,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.893232,
     "lbl:longitude":-5.052961,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hayscastle Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000430"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226277931
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f573ec9fa960549c3eac747dcb43b928",
+    "wof:geomhash":"9d7d5a90e20f6b20a548f11dff4783b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444771,
-    "wof:lastmodified":1566632917,
+    "wof:lastmodified":1695877421,
     "wof:name":"Hayscastle Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.418672,
     "geom:longitude":-0.387731,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.418959,
     "lbl:longitude":-0.372243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Osgodby"
@@ -59,9 +65,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04006030",
         "gn:id":7301812,
         "qs_pg:id":380470
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757303
     ],
@@ -69,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ee7c0f910bb25afe64ce74946857279",
+    "wof:geomhash":"a09fca2add078328dd4266647c1d6d37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +90,7 @@
     ],
     "wof:id":404451809,
     "wof:label":"Osgodby Civil Parish",
-    "wof:lastmodified":1582311139,
+    "wof:lastmodified":1695877982,
     "wof:name":"Osgodby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

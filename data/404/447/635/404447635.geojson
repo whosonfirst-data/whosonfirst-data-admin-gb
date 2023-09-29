@@ -10,12 +10,18 @@
     "geom:latitude":54.163897,
     "geom:longitude":-2.77153,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.162699,
     "lbl:longitude":-2.772194,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yealand Conyers"
@@ -63,12 +69,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005213"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125930613
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1921d327c0183297056cba0fca6cb126",
+    "wof:geomhash":"773279d75d7dd0d3043ee9ff5be4cf0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447635,
     "wof:label":"Yealand Conyers Civil Parish",
-    "wof:lastmodified":1566631273,
+    "wof:lastmodified":1695878283,
     "wof:name":"Yealand Conyers",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

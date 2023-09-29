@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001858,
-    "geom:area_square_m":14563682.107724,
+    "geom:area_square_m":14563682.107723,
     "geom:bbox":"-2.35750372324,50.6249847505,-2.2989626975,50.6857167963",
     "geom:latitude":50.659216,
     "geom:longitude":-2.329721,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.668567,
     "lbl:longitude":-2.329715,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Owermoigne"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003578"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869789
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0bf6b503b6f14a46f57376a35bce1204",
+    "wof:geomhash":"19849e20badc8472105cc1edb4f59f29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404431277,
     "wof:label":"Owermoigne Civil Parish",
-    "wof:lastmodified":1566632498,
+    "wof:lastmodified":1695877231,
     "wof:name":"Owermoigne",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

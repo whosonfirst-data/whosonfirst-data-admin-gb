@@ -10,12 +10,18 @@
     "geom:latitude":52.131375,
     "geom:longitude":-2.450098,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.13165,
     "lbl:longitude":-2.4501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Evesbatch"
@@ -42,12 +48,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000755"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1193172465
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ee1350f4e491bee06940bab570c442fa",
+    "wof:geomhash":"c3044511be8d168b4447c0cefd36796c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404449075,
     "wof:label":"Evesbatch Civil Parish",
-    "wof:lastmodified":1566631423,
+    "wof:lastmodified":1695876780,
     "wof:name":"Evesbatch",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

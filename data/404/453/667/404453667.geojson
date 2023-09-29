@@ -10,12 +10,18 @@
     "geom:latitude":52.596182,
     "geom:longitude":-0.668937,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.595375,
     "lbl:longitude":-0.666954,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glaston"
@@ -58,12 +64,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000643"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759431
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cbbbb3232c2d8ea06d78f64e129cc722",
+    "wof:geomhash":"ef2c989cd9a517c46d5e56ffa6484734",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404453667,
     "wof:label":"Glaston Civil Parish",
-    "wof:lastmodified":1566632781,
+    "wof:lastmodified":1695877366,
     "wof:name":"Glaston",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

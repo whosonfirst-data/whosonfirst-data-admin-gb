@@ -10,12 +10,18 @@
     "geom:latitude":52.08149,
     "geom:longitude":-2.405314,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.081188,
     "lbl:longitude":-2.404994,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coddington"
@@ -64,12 +70,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000728"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756373
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b1ff8a7275c9f0117c6d58c3db0e1ad1",
+    "wof:geomhash":"1a21131756cef098d269ad0699d3f648",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404440629,
     "wof:label":"Coddington Civil Parish",
-    "wof:lastmodified":1566631150,
+    "wof:lastmodified":1695878226,
     "wof:name":"Coddington",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

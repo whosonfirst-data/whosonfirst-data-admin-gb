@@ -10,12 +10,18 @@
     "geom:latitude":51.444288,
     "geom:longitude":-3.499939,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.445599,
     "lbl:longitude":-3.500598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llandow Community"
@@ -40,12 +46,15 @@
         1360698899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000657"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125902917
     ],
     "wof:country":"GB",
-    "wof:geomhash":"450548ed11d1efc21fecbdb3241e663e",
+    "wof:geomhash":"886d236420f32ea7506de7c30ab99670",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453777,
-    "wof:lastmodified":1566632802,
+    "wof:lastmodified":1695877375,
     "wof:name":"Llandow Community",
     "wof:parent_id":1360698899,
     "wof:placetype":"localadmin",

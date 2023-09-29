@@ -10,12 +10,18 @@
     "geom:latitude":54.099893,
     "geom:longitude":-0.891027,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.099994,
     "lbl:longitude":-0.890633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Welburn"
@@ -55,9 +61,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04007646",
         "gn:id":7299251,
         "qs_pg:id":1154435
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126038795
     ],
@@ -65,7 +73,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac692a9f3a65a33f24ea7e8c4b9c9f7c",
+    "wof:geomhash":"f0f0bf3121f02f2b9c790b289fa6538c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +86,7 @@
     ],
     "wof:id":404443875,
     "wof:label":"Welburn Civil Parish",
-    "wof:lastmodified":1582311121,
+    "wof:lastmodified":1695877975,
     "wof:name":"Welburn",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

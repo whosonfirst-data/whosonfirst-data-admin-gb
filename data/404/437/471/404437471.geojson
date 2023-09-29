@@ -10,12 +10,18 @@
     "geom:latitude":53.059855,
     "geom:longitude":-2.715275,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.062846,
     "lbl:longitude":-2.71355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Egerton"
@@ -66,12 +72,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010940"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992345
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4336b03577c3a6867d5aaa8f59ae3497",
+    "wof:geomhash":"954598203cf7a636b0ff02cc3ff3018b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404437471,
     "wof:label":"Egerton Civil Parish",
-    "wof:lastmodified":1566632067,
+    "wof:lastmodified":1695877043,
     "wof:name":"Egerton",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

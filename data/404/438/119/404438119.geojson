@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001297,
-    "geom:area_square_m":9783595.731816,
+    "geom:area_square_m":9783595.731817,
     "geom:bbox":"-2.16034172091,52.3994179412,-2.07696864387,52.4309164392",
     "geom:latitude":52.413579,
     "geom:longitude":-2.109619,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.412725,
     "lbl:longitude":-2.109612,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clent"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010267"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125845975
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d1607d407d961959fb50759ba12bb497",
+    "wof:geomhash":"d6de7591efe0f47b7fb72da96d58245d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404438119,
     "wof:label":"Clent Civil Parish",
-    "wof:lastmodified":1566632588,
+    "wof:lastmodified":1695877271,
     "wof:name":"Clent",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

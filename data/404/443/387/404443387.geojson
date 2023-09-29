@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000835,
-    "geom:area_square_m":6299583.167019,
+    "geom:area_square_m":6299583.167018,
     "geom:bbox":"-4.06795791064,52.4066811078,-4.01200151477,52.4351722108",
     "geom:latitude":52.420702,
     "geom:longitude":-4.037515,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.423115,
     "lbl:longitude":-4.035611,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Faenor Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000367"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711857
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d31c13bae7f821ce7c1f8d2ae3a87d7b",
+    "wof:geomhash":"311fff21cfdbb1f4a30e179aa668cca4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443387,
-    "wof:lastmodified":1566633085,
+    "wof:lastmodified":1695877497,
     "wof:name":"Faenor Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

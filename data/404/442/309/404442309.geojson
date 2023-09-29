@@ -10,12 +10,18 @@
     "geom:latitude":54.127627,
     "geom:longitude":-2.767943,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.123466,
     "lbl:longitude":-2.770022,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0631\u0646\u0641\u0648\u0631\u062b"
@@ -93,12 +99,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005183"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873253
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f10ab04356e4ecf1e455f2544aa66b22",
+    "wof:geomhash":"0b64caa491a037531aaac59e98b1bda5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404442309,
     "wof:label":"Carnforth Civil Parish",
-    "wof:lastmodified":1566633195,
+    "wof:lastmodified":1695877547,
     "wof:name":"Carnforth",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

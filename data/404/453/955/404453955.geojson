@@ -10,12 +10,18 @@
     "geom:latitude":53.923198,
     "geom:longitude":-1.452475,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.921421,
     "lbl:longitude":-1.450609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sicklinghall"
@@ -60,12 +66,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007415"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125925925
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cde71c0ea7e070886116220e88c629a0",
+    "wof:geomhash":"bfaf88bc4258a53b1d9c8322dde9e884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404453955,
     "wof:label":"Sicklinghall Civil Parish",
-    "wof:lastmodified":1566632762,
+    "wof:lastmodified":1695877356,
     "wof:name":"Sicklinghall",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

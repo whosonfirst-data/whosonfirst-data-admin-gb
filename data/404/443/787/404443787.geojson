@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000291,
-    "geom:area_square_m":2160183.827433,
+    "geom:area_square_m":2160183.827432,
     "geom:bbox":"-2.99511561913,53.1434069667,-2.95948382659,53.1608002897",
     "geom:latitude":53.153083,
     "geom:longitude":-2.975329,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.152208,
     "lbl:longitude":-2.972625,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0631 \u0643\u064a\u0646\u0646\u0631\u062a\u0648\u0646"
@@ -61,12 +67,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011134"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758533
     ],
     "wof:country":"GB",
-    "wof:geomhash":"987290a3cda06dfef01e6fa0eac783eb",
+    "wof:geomhash":"c5ea4f86594dfd2083eb60d1180007cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404443787,
     "wof:label":"Lower Kinnerton Civil Parish",
-    "wof:lastmodified":1566633087,
+    "wof:lastmodified":1695877498,
     "wof:name":"Lower Kinnerton",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

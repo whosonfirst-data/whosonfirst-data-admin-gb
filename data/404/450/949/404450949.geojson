@@ -10,12 +10,18 @@
     "geom:latitude":51.943585,
     "geom:longitude":-1.60386,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.945711,
     "lbl:longitude":-1.610133,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cornwell"
@@ -60,12 +66,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008279"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972287
     ],
     "wof:country":"GB",
-    "wof:geomhash":"466c57164bc737bd92b598ecae184503",
+    "wof:geomhash":"3de92863ec6a7e03b5806ae61f4aeb16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404450949,
     "wof:label":"Cornwell Civil Parish",
-    "wof:lastmodified":1566633790,
+    "wof:lastmodified":1695877814,
     "wof:name":"Cornwell",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

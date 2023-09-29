@@ -10,12 +10,18 @@
     "geom:latitude":52.968188,
     "geom:longitude":-0.607498,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.972176,
     "lbl:longitude":-0.623505,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barkston"
@@ -57,12 +63,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005877"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125765001
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a3759afb8c6843404d7f6710d0c1d187",
+    "wof:geomhash":"2cde8f3e8e5bb60435130fb3ac1373a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431597,
     "wof:label":"Barkston Civil Parish",
-    "wof:lastmodified":1566632489,
+    "wof:lastmodified":1695877227,
     "wof:name":"Barkston",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

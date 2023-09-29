@@ -10,12 +10,18 @@
     "geom:latitude":53.837635,
     "geom:longitude":-2.882133,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.835496,
     "lbl:longitude":-2.88449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Elswick"
@@ -54,12 +60,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005163"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125916711
     ],
     "wof:country":"GB",
-    "wof:geomhash":"30d13d3238dae76c96ae643d9e486c08",
+    "wof:geomhash":"3f3cd53a2c12ebb1d8bb5f11e3c09b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404455317,
     "wof:label":"Elswick Civil Parish",
-    "wof:lastmodified":1566632314,
+    "wof:lastmodified":1695877148,
     "wof:name":"Elswick",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

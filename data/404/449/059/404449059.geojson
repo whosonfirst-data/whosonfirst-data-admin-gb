@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026008,
-    "geom:area_square_m":204165529.213446,
+    "geom:area_square_m":204165529.213442,
     "geom:bbox":"-4.05407895388,50.472721439,-3.86979186033,50.7064468583",
     "geom:latitude":50.590758,
     "geom:longitude":-3.954992,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.590354,
     "lbl:longitude":-3.947544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dartmoor Forest"
@@ -49,12 +55,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003316"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360752989
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9fb5eca0b74f910bc61b3c2954ea50bd",
+    "wof:geomhash":"9d5daa714444a45f7e743e2defde4895",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404449059,
     "wof:label":"Dartmoor Forest Civil Parish",
-    "wof:lastmodified":1566631434,
+    "wof:lastmodified":1695876785,
     "wof:name":"Dartmoor Forest",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

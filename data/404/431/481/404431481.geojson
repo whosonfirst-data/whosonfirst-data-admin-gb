@@ -10,12 +10,18 @@
     "geom:latitude":51.413281,
     "geom:longitude":-1.58878,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.412833,
     "lbl:longitude":-1.582332,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Froxfield"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011720"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125839715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3fb6e0cb7a57c8ef28872b18d558afb7",
+    "wof:geomhash":"d27cbca5ecf78493236a146eb5e35588",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431481,
     "wof:label":"Froxfield Civil Parish",
-    "wof:lastmodified":1566632501,
+    "wof:lastmodified":1695877232,
     "wof:name":"Froxfield",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

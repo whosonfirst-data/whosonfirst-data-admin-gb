@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003716,
-    "geom:area_square_m":27080290.049197,
+    "geom:area_square_m":27080290.049196,
     "geom:bbox":"-1.56063629142,53.8553247637,-1.4663431602,53.9153209535",
     "geom:latitude":53.886499,
     "geom:longitude":-1.510502,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.884379,
     "lbl:longitude":-1.505793,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Harewood"
@@ -75,12 +81,15 @@
         1360698749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000199"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126029881
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3ede239222df51ce3ef0837e79f292b6",
+    "wof:geomhash":"33f6375aaf598d7311d8b43075ef7b03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404445935,
     "wof:label":"Harewood Civil Parish",
-    "wof:lastmodified":1566633368,
+    "wof:lastmodified":1695877625,
     "wof:name":"Harewood",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

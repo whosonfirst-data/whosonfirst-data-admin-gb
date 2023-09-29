@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001962,
-    "geom:area_square_m":14924125.638232,
+    "geom:area_square_m":14924125.638233,
     "geom:bbox":"-2.35067284687,52.0189492552,-2.26096819447,52.0562931661",
     "geom:latitude":52.039585,
     "geom:longitude":-2.307199,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.041444,
     "lbl:longitude":-2.308031,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Castlemorton"
@@ -54,12 +60,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010294"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125765097
     ],
     "wof:country":"GB",
-    "wof:geomhash":"500fbe7371a4e0286a7f17da45db3492",
+    "wof:geomhash":"5b02db67c48736797fd8d89038a86680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440603,
     "wof:label":"Castlemorton Civil Parish",
-    "wof:lastmodified":1566631160,
+    "wof:lastmodified":1695878231,
     "wof:name":"Castlemorton",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

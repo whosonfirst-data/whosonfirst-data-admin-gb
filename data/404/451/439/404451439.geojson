@@ -10,12 +10,18 @@
     "geom:latitude":52.748753,
     "geom:longitude":0.867071,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.748464,
     "lbl:longitude":0.86903,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Stanfield"
@@ -79,12 +85,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006176"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756711
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3dd8b501b81bece5bb41950b0814bcc7",
+    "wof:geomhash":"20737c150ce0bdda5d20bfde00d4c335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +106,7 @@
     ],
     "wof:id":404451439,
     "wof:label":"Stanfield Civil Parish",
-    "wof:lastmodified":1566633451,
+    "wof:lastmodified":1695877659,
     "wof:name":"Stanfield",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

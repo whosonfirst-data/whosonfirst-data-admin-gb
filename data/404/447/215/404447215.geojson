@@ -10,12 +10,18 @@
     "geom:latitude":52.585384,
     "geom:longitude":-0.35338,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.580404,
     "lbl:longitude":-0.354715,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "\u00c6gleswur\u00fe"
@@ -66,12 +72,15 @@
         1360698773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001100"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126009069
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5b43c44c006ce10926abfcd19e6544dd",
+    "wof:geomhash":"eedd1812e5aa3510dcccecf6698d6391",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447215,
     "wof:label":"Ailsworth Civil Parish",
-    "wof:lastmodified":1566631307,
+    "wof:lastmodified":1695878299,
     "wof:name":"Ailsworth",
     "wof:parent_id":1360698773,
     "wof:placetype":"localadmin",

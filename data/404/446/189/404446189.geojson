@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002424,
-    "geom:area_square_m":17808601.326134,
+    "geom:area_square_m":17808601.326132,
     "geom:bbox":"-2.5696210587,53.5228429586,-2.48604313161,53.5791542862",
     "geom:latitude":53.551009,
     "geom:longitude":-2.533088,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.547514,
     "lbl:longitude":-2.532464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0633\u062a\u0647\u0648\u062a\u0648\u0646"
@@ -87,12 +93,15 @@
         1360699099
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000003"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125994427
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c27018b30e882aaf6ff4e9066a1c7467",
+    "wof:geomhash":"4d447c1d46d54b1f7028590daa313aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404446189,
     "wof:label":"Westhoughton Civil Parish",
-    "wof:lastmodified":1566631642,
+    "wof:lastmodified":1695876865,
     "wof:name":"Westhoughton",
     "wof:parent_id":1360699099,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.202829,
     "geom:longitude":-2.004389,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.201308,
     "lbl:longitude":-2.008563,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chitterne"
@@ -63,12 +69,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011675"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125959581
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4115ec3bc14e016665f456494c135729",
+    "wof:geomhash":"61a2cb9971bf38bccd340469fdde59ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404440791,
     "wof:label":"Chitterne Civil Parish",
-    "wof:lastmodified":1566631130,
+    "wof:lastmodified":1695878216,
     "wof:name":"Chitterne",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

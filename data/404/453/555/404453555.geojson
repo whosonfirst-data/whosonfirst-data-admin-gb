@@ -10,12 +10,18 @@
     "geom:latitude":52.924179,
     "geom:longitude":-4.228164,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.928814,
     "lbl:longitude":-4.225559,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Criccieth Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000059"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872019
     ],
     "wof:country":"GB",
-    "wof:geomhash":"18eb1444c6e8a853188d31426c02cf6e",
+    "wof:geomhash":"6de2af8776fa571ae2dd6661f886860b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453555,
-    "wof:lastmodified":1566632808,
+    "wof:lastmodified":1695877377,
     "wof:name":"Criccieth Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

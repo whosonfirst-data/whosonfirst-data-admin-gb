@@ -10,12 +10,18 @@
     "geom:latitude":54.845025,
     "geom:longitude":-1.427074,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.84539,
     "lbl:longitude":-1.427326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Warden Law"
@@ -61,12 +67,15 @@
         1360698987
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000141"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755321
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dccc4760ec86d49653095445fd32a39d",
+    "wof:geomhash":"1e99b9311daedc23b656a3b140ebdfd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404450551,
     "wof:label":"Warden Law Civil Parish",
-    "wof:lastmodified":1566633743,
+    "wof:lastmodified":1695877794,
     "wof:name":"Warden Law",
     "wof:parent_id":1360698987,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.168416,
     "geom:longitude":-2.115879,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.165605,
     "lbl:longitude":-2.110232,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "White Ladies Aston"
@@ -55,12 +61,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010441"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758631
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d1a505b9d306af4adfd56b5256a39ba0",
+    "wof:geomhash":"0b617bdff1a2a3c01b98016d0ba372cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404436497,
     "wof:label":"White Ladies Aston Civil Parish",
-    "wof:lastmodified":1566632348,
+    "wof:lastmodified":1695877163,
     "wof:name":"White Ladies Aston",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

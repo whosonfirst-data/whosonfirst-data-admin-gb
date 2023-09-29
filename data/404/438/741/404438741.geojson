@@ -10,12 +10,18 @@
     "geom:latitude":54.268315,
     "geom:longitude":-1.378578,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.269553,
     "lbl:longitude":-1.384201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thornton-Le-Street"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007282"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754737
     ],
     "wof:country":"GB",
-    "wof:geomhash":"891f4a9a1efb7f4c95c829fb1675bb7f",
+    "wof:geomhash":"c1da8e92419534161bd9513d15dcc769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404438741,
     "wof:label":"Thornton-Le-Street Civil Parish",
-    "wof:lastmodified":1566632588,
+    "wof:lastmodified":1695877271,
     "wof:name":"Thornton-Le-Street",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

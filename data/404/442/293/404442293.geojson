@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000947,
-    "geom:area_square_m":7262216.056223,
+    "geom:area_square_m":7262216.056224,
     "geom:bbox":"-1.13115837991,51.642212819,-1.0753555754,51.676522524",
     "geom:latitude":51.658566,
     "geom:longitude":-1.105898,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.658027,
     "lbl:longitude":-1.108224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Newington"
@@ -85,12 +91,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008150"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757681
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cfd74f0073ca4b0a017d7cda8f6fd1c8",
+    "wof:geomhash":"9a8fc6e42f19232a3423e681c2e885ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +112,7 @@
     ],
     "wof:id":404442293,
     "wof:label":"Newington Civil Parish",
-    "wof:lastmodified":1566633229,
+    "wof:lastmodified":1695877563,
     "wof:name":"Newington",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

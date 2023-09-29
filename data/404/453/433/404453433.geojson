@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002855,
-    "geom:area_square_m":20147008.451932,
+    "geom:area_square_m":20147008.451933,
     "geom:bbox":"-1.75565048214,55.1734389454,-1.66007123695,55.2210415448",
     "geom:latitude":55.198004,
     "geom:longitude":-1.710719,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.197042,
     "lbl:longitude":-1.714557,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hebron"
@@ -252,12 +258,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010796"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125933675
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ee989788c0e597afdb57ba4147b08ac4",
+    "wof:geomhash":"42023fdb21f3dd8e650df4135b46e5b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -270,7 +279,7 @@
     ],
     "wof:id":404453433,
     "wof:label":"Hebron Civil Parish",
-    "wof:lastmodified":1566632837,
+    "wof:lastmodified":1695877390,
     "wof:name":"Hebron",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

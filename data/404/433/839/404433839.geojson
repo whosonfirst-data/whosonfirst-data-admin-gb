@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000922,
-    "geom:area_square_m":6719590.324248,
+    "geom:area_square_m":6719590.324249,
     "geom:bbox":"-2.04805484947,53.8884701155,-1.96842680892,53.9121623733",
     "geom:latitude":53.902756,
     "geom:longitude":-2.011887,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.903338,
     "lbl:longitude":-2.012494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glusburn and Cross Hills"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012241"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754879
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a9b42b523e151594e29709d7a7492338",
+    "wof:geomhash":"c36e57e161621b69faedc2c907d1b12f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404433839,
     "wof:label":"Glusburn and Cross Hills Civil Parish",
-    "wof:lastmodified":1566633725,
+    "wof:lastmodified":1695877786,
     "wof:name":"Glusburn and Cross Hills",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

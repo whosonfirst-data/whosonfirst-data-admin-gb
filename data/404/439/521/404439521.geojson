@@ -10,12 +10,18 @@
     "geom:latitude":52.835558,
     "geom:longitude":-1.142231,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.835753,
     "lbl:longitude":-1.140266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Costock"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007968"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125902909
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a83b9a22ae9888a2ab172714e0ec67ce",
+    "wof:geomhash":"e2d0ad2e077eacff1de46af05e8402cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404439521,
     "wof:label":"Costock Civil Parish",
-    "wof:lastmodified":1566631872,
+    "wof:lastmodified":1695876961,
     "wof:name":"Costock",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

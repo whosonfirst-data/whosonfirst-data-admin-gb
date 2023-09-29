@@ -10,12 +10,18 @@
     "geom:latitude":52.681533,
     "geom:longitude":1.403341,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.680702,
     "lbl:longitude":1.407364,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salhouse"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006246"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929779
     ],
     "wof:country":"GB",
-    "wof:geomhash":"09418a022a7c8a44ed6f9c269302fb5d",
+    "wof:geomhash":"6386af844af20980ddb48b2c36e870ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404430753,
     "wof:label":"Salhouse Civil Parish",
-    "wof:lastmodified":1566631940,
+    "wof:lastmodified":1695876992,
     "wof:name":"Salhouse",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

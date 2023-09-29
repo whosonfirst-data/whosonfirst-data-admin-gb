@@ -10,12 +10,18 @@
     "geom:latitude":52.058851,
     "geom:longitude":0.558014,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.052865,
     "lbl:longitude":0.550877,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashen"
@@ -48,12 +54,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003878"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125854515
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4bb2b71ce34f667d5d0253be27d756ee",
+    "wof:geomhash":"b9832c91950c82307ae55ff10c87cb0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404434463,
     "wof:label":"Ashen Civil Parish",
-    "wof:lastmodified":1566633563,
+    "wof:lastmodified":1695877714,
     "wof:name":"Ashen",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

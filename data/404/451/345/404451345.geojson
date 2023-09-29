@@ -10,12 +10,18 @@
     "geom:latitude":50.824205,
     "geom:longitude":0.203826,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.822511,
     "lbl:longitude":0.204441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Long Man"
@@ -61,12 +67,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003855"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756547
     ],
     "wof:country":"GB",
-    "wof:geomhash":"de80e9a351ff318b7e45946e5f88c779",
+    "wof:geomhash":"3f5dbe2e3aa8a69a06ef586a11ceb7ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404451345,
     "wof:label":"Long Man Civil Parish",
-    "wof:lastmodified":1566633525,
+    "wof:lastmodified":1695877694,
     "wof:name":"Long Man",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

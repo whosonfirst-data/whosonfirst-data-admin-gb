@@ -10,12 +10,18 @@
     "geom:latitude":51.882945,
     "geom:longitude":-2.037442,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.882132,
     "lbl:longitude":-2.037004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Charlton Kings"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004178"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125917979
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fa6e09038a4bf2ebb2eb78e2cb86eee5",
+    "wof:geomhash":"898c2a55f482b06ab8e7a99e20c99bb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447641,
     "wof:label":"Charlton Kings Civil Parish",
-    "wof:lastmodified":1566631314,
+    "wof:lastmodified":1695878302,
     "wof:name":"Charlton Kings",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

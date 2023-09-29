@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00417,
-    "geom:area_square_m":32210166.483096,
+    "geom:area_square_m":32210166.483098,
     "geom:bbox":"-3.11536902265,51.311696843,-2.89469389216,51.3749193741",
     "geom:latitude":51.345123,
     "geom:longitude":-2.962935,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.340211,
     "lbl:longitude":-2.972209,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weston-Super-Mare"
@@ -40,12 +46,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012104"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101751595
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a4a4b21b937fc35d1517f25c15065d57",
+    "wof:geomhash":"1a443da00f6980e7218554636032747a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404444501,
     "wof:label":"Weston-Super-Mare Civil Parish",
-    "wof:lastmodified":1566632926,
+    "wof:lastmodified":1695877425,
     "wof:name":"Weston-Super-Mare",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002537,
-    "geom:area_square_m":19238311.349802,
+    "geom:area_square_m":19238311.349804,
     "geom:bbox":"-1.96201914864,52.1333993058,-1.87316682675,52.1898215889",
     "geom:latitude":52.167826,
     "geom:longitude":-1.910001,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.167215,
     "lbl:longitude":-1.906965,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salford Priors"
@@ -57,12 +63,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009776"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5641943c86f5771374260c2b1b6bf5c4",
+    "wof:geomhash":"dab54a5acac741c96e3b9fa1b7246719",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404443563,
     "wof:label":"Salford Priors Civil Parish",
-    "wof:lastmodified":1566633042,
+    "wof:lastmodified":1695877479,
     "wof:name":"Salford Priors",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

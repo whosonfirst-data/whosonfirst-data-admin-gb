@@ -10,12 +10,18 @@
     "geom:latitude":52.083903,
     "geom:longitude":-1.463097,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.084979,
     "lbl:longitude":-1.463652,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shenington with Alkerton"
@@ -49,12 +55,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008075"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755209
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bd4f269bc1cf3cd6b719222c56bb51f6",
+    "wof:geomhash":"6e947788e0304fd490b8f3cca37452d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404450473,
     "wof:label":"Shenington with Alkerton Civil Parish",
-    "wof:lastmodified":1566633817,
+    "wof:lastmodified":1695877824,
     "wof:name":"Shenington with Alkerton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

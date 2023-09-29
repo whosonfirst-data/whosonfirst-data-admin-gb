@@ -10,12 +10,18 @@
     "geom:latitude":51.308235,
     "geom:longitude":-2.050318,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.3071,
     "lbl:longitude":-2.050014,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Marston"
@@ -78,12 +84,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011770"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209943967
     ],
     "wof:country":"GB",
-    "wof:geomhash":"081cb5cba051801223191755bb76bd70",
+    "wof:geomhash":"38b107ae9de28ab4c5e7d0edee6b0495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404443599,
     "wof:label":"Marston Civil Parish",
-    "wof:lastmodified":1566633041,
+    "wof:lastmodified":1695877479,
     "wof:name":"Marston",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

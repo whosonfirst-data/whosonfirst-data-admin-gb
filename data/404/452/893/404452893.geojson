@@ -10,12 +10,18 @@
     "geom:latitude":51.915259,
     "geom:longitude":0.75341,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.913896,
     "lbl:longitude":0.753406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chappel"
@@ -57,12 +63,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003982"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881323
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d3748c91c936cc9745ed21c2473018b6",
+    "wof:geomhash":"2d08f2e7a858e5c256dcca6d29d9c7b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404452893,
     "wof:label":"Chappel Civil Parish",
-    "wof:lastmodified":1566632200,
+    "wof:lastmodified":1695877100,
     "wof:name":"Chappel",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

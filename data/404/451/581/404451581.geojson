@@ -10,12 +10,18 @@
     "geom:latitude":52.24497,
     "geom:longitude":-2.693278,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.247398,
     "lbl:longitude":-2.695939,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kimbolton"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000785"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126016189
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d03bdd58c549ff903b9c60ffed3bedb9",
+    "wof:geomhash":"28fb98f2b46a659f972c0855fef0a792",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451581,
     "wof:label":"Kimbolton Civil Parish",
-    "wof:lastmodified":1566633469,
+    "wof:lastmodified":1695877667,
     "wof:name":"Kimbolton",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

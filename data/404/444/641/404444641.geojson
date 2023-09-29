@@ -10,12 +10,18 @@
     "geom:latitude":54.085275,
     "geom:longitude":-2.662137,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.085911,
     "lbl:longitude":-2.659697,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Claughton"
@@ -51,12 +57,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005185"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843199
     ],
     "wof:country":"GB",
-    "wof:geomhash":"79087d64cf2f0b2120bd06dfc8b469de",
+    "wof:geomhash":"f762e0214a5516f288237b51781de00f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404444641,
     "wof:label":"Claughton Civil Parish",
-    "wof:lastmodified":1566632953,
+    "wof:lastmodified":1695877436,
     "wof:name":"Claughton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003138,
-    "geom:area_square_m":24354777.177975,
+    "geom:area_square_m":24354777.177976,
     "geom:bbox":"-0.0603478005809,51.0861652109,0.0278129322531,51.1411420356",
     "geom:latitude":51.118727,
     "geom:longitude":-0.020261,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.117757,
     "lbl:longitude":-0.020261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0633\u062a \u0642\u0631\u06cc\u0646\u0633\u062a\u06cc\u062f"
@@ -90,12 +96,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009986"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853483
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b8ba9458784d47b73b5f7225c4a492f7",
+    "wof:geomhash":"97faa2df979dddd2d3f8fe793fb4cb31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404434149,
     "wof:label":"East Grinstead Civil Parish",
-    "wof:lastmodified":1566633636,
+    "wof:lastmodified":1695877745,
     "wof:name":"East Grinstead",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

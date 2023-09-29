@@ -10,12 +10,18 @@
     "geom:latitude":53.052013,
     "geom:longitude":-2.106708,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.052404,
     "lbl:longitude":-2.10632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bagnall"
@@ -51,12 +57,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009024"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209343215
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e48909c5d433f8f77a31c78bb6e43f84",
+    "wof:geomhash":"829b00f401664bdb28338e27d21cd654",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404447989,
     "wof:label":"Bagnall Civil Parish",
-    "wof:lastmodified":1566631338,
+    "wof:lastmodified":1695878313,
     "wof:name":"Bagnall",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

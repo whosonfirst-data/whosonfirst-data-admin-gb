@@ -10,12 +10,18 @@
     "geom:latitude":52.980193,
     "geom:longitude":-3.023087,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.979093,
     "lbl:longitude":-3.026073,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ruabon Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000243"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711473
     ],
     "wof:country":"GB",
-    "wof:geomhash":"436a8332e42bbaa01ae67b82fa1c3644",
+    "wof:geomhash":"b53a2fc93ef935b46b77e0ac01bcb96a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404447223,
-    "wof:lastmodified":1566631308,
+    "wof:lastmodified":1695878299,
     "wof:name":"Ruabon Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

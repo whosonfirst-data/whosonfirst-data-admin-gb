@@ -10,12 +10,18 @@
     "geom:latitude":54.179083,
     "geom:longitude":-1.257273,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.181162,
     "lbl:longitude":-1.258184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Birdforth"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007140"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757987
     ],
     "wof:country":"GB",
-    "wof:geomhash":"25d1095eeb766884b57fa0405dff37fe",
+    "wof:geomhash":"6d59c04c8989eba25208800b60b83817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404442799,
     "wof:label":"Birdforth Civil Parish",
-    "wof:lastmodified":1566633196,
+    "wof:lastmodified":1695877548,
     "wof:name":"Birdforth",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

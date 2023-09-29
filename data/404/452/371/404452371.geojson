@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001623,
-    "geom:area_square_m":12690223.401349,
+    "geom:area_square_m":12690223.401347,
     "geom:bbox":"-3.21623174879,50.7561445738,-3.15331295479,50.8142107041",
     "geom:latitude":50.789098,
     "geom:longitude":-3.18714,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.789037,
     "lbl:longitude":-3.187139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0646\u06cc\u062a\u0648\u0646"
@@ -96,12 +102,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002967"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852635
     ],
     "wof:country":"GB",
-    "wof:geomhash":"65bab18de314ca97f3c6a069d7fa53bc",
+    "wof:geomhash":"e2e32f5585e6d54119991f6de30c4408",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404452371,
     "wof:label":"Honiton Civil Parish",
-    "wof:lastmodified":1566632210,
+    "wof:lastmodified":1695877103,
     "wof:name":"Honiton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

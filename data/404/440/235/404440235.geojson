@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00265,
-    "geom:area_square_m":20330117.289926,
+    "geom:area_square_m":20330117.289923,
     "geom:bbox":"-3.28883291077,51.6237765259,-3.22028429779,51.6886905914",
     "geom:latitude":51.657319,
     "geom:longitude":-3.252656,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.661308,
     "lbl:longitude":-3.248608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gelligaer Community"
@@ -40,12 +46,15 @@
         1360698925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000736"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852783
     ],
     "wof:country":"GB",
-    "wof:geomhash":"466fd370fd9abb4cfb47a3bc4422b1bd",
+    "wof:geomhash":"3a88f7ea5bd02620d12b24bca6fc6395",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440235,
-    "wof:lastmodified":1566631155,
+    "wof:lastmodified":1695878228,
     "wof:name":"Gelligaer Community",
     "wof:parent_id":1360698925,
     "wof:placetype":"localadmin",

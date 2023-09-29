@@ -10,12 +10,18 @@
     "geom:latitude":52.557311,
     "geom:longitude":-0.593818,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.557992,
     "lbl:longitude":-0.595817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laxton"
@@ -60,12 +66,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006734"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310530223
     ],
     "wof:country":"GB",
-    "wof:geomhash":"71b154f8e9d521448beaefb1069fd402",
+    "wof:geomhash":"7cef69313652509ccdf10c5424542b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440869,
     "wof:label":"Laxton Civil Parish",
-    "wof:lastmodified":1566631160,
+    "wof:lastmodified":1695878231,
     "wof:name":"Laxton",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

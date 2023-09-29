@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000647,
-    "geom:area_square_m":4859111.014882,
+    "geom:area_square_m":4859111.014883,
     "geom:bbox":"-0.736148587962,52.6036229895,-0.695687174664,52.6265979784",
     "geom:latitude":52.614805,
     "geom:longitude":-0.715342,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.613849,
     "lbl:longitude":-0.71534,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Preston"
@@ -117,12 +123,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000664"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1277112117
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a8dd62ee8da20ebc572fc2a7fae5bcdb",
+    "wof:geomhash":"15cb02c938931780f172db56b61a597c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +144,7 @@
     ],
     "wof:id":404443655,
     "wof:label":"Preston Civil Parish",
-    "wof:lastmodified":1566633064,
+    "wof:lastmodified":1695877490,
     "wof:name":"Preston",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

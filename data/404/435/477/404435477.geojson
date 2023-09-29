@@ -10,12 +10,18 @@
     "geom:latitude":52.937063,
     "geom:longitude":-0.510354,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.933403,
     "lbl:longitude":-0.509786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heydour"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005913"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209744191
     ],
     "wof:country":"GB",
-    "wof:geomhash":"645d358b36573319e3c043e8f0ee92e0",
+    "wof:geomhash":"e41f6ecff7c739e4130432b70d8bbdf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404435477,
     "wof:label":"Heydour Civil Parish",
-    "wof:lastmodified":1566633999,
+    "wof:lastmodified":1695877896,
     "wof:name":"Heydour",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

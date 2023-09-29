@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001045,
-    "geom:area_square_m":7981642.302033,
+    "geom:area_square_m":7981642.302032,
     "geom:bbox":"-2.56668058241,51.8306787681,-2.49840663446,51.8687911627",
     "geom:latitude":51.848228,
     "geom:longitude":-2.528312,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.853804,
     "lbl:longitude":-2.517455,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Drybrook"
@@ -66,12 +72,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004303"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125863643
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0a911804dd52182dd430fd1310a119bb",
+    "wof:geomhash":"255f3e13f09073f7bee50bb09ce3198f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404445485,
     "wof:label":"Drybrook Civil Parish",
-    "wof:lastmodified":1566633321,
+    "wof:lastmodified":1695877603,
     "wof:name":"Drybrook",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

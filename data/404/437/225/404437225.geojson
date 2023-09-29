@@ -10,12 +10,18 @@
     "geom:latitude":51.798155,
     "geom:longitude":0.093818,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.800263,
     "lbl:longitude":0.090664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gilston"
@@ -64,12 +70,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004731"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759391
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9f7b28d999aa9eefaedaa8ae9481b088",
+    "wof:geomhash":"4b3bc237b7fb9b83623e5d5aef117818",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404437225,
     "wof:label":"Gilston Civil Parish",
-    "wof:lastmodified":1566632129,
+    "wof:lastmodified":1695877070,
     "wof:name":"Gilston",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

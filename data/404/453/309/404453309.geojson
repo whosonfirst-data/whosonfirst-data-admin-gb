@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001614,
-    "geom:area_square_m":11450157.701917,
+    "geom:area_square_m":11450157.701918,
     "geom:bbox":"-2.13514872557,54.9766109339,-2.05433409216,55.0172680253",
     "geom:latitude":54.996183,
     "geom:longitude":-2.09546,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.991144,
     "lbl:longitude":-2.09821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Acomb"
@@ -51,12 +57,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010726"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126047013
     ],
     "wof:country":"GB",
-    "wof:geomhash":"625b97547bb5fe74da153e8c069556fe",
+    "wof:geomhash":"a2a93ca59aedeca7b61e0a1605932eed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404453309,
     "wof:label":"Acomb Civil Parish",
-    "wof:lastmodified":1566632750,
+    "wof:lastmodified":1695877350,
     "wof:name":"Acomb",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

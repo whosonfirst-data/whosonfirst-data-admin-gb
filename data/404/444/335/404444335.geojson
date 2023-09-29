@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004432,
-    "geom:area_square_m":31983117.554154,
+    "geom:area_square_m":31983117.554155,
     "geom:bbox":"-3.44159570705,54.2620608562,-3.30105250331,54.3520194661",
     "geom:latitude":54.298031,
     "geom:longitude":-3.383175,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.28768,
     "lbl:longitude":-3.390074,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u062a\u0644"
@@ -105,12 +111,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010473"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125859395
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7a9687e7d4cdaae584e201cd33a83d00",
+    "wof:geomhash":"ef89d078405b701cf698e9b557459511",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404444335,
     "wof:label":"Bootle Civil Parish",
-    "wof:lastmodified":1566632931,
+    "wof:lastmodified":1695877427,
     "wof:name":"Bootle",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

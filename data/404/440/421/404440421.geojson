@@ -10,12 +10,18 @@
     "geom:latitude":52.474657,
     "geom:longitude":-0.365929,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.475083,
     "lbl:longitude":-0.364184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lutton"
@@ -48,12 +54,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006739"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126049281
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d7fa21a8803d43c4408631f9e08d2f54",
+    "wof:geomhash":"4c0bd99c49e5cc66a41aaf1c492a6ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404440421,
     "wof:label":"Lutton Civil Parish",
-    "wof:lastmodified":1566631193,
+    "wof:lastmodified":1695878246,
     "wof:name":"Lutton",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

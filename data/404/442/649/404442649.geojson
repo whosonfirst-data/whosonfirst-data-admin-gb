@@ -10,12 +10,18 @@
     "geom:latitude":53.816081,
     "geom:longitude":-0.400074,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.819002,
     "lbl:longitude":-0.404306,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woodmansey"
@@ -63,12 +69,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000505"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913969
     ],
     "wof:country":"GB",
-    "wof:geomhash":"04d266c547411b32937076701b69857f",
+    "wof:geomhash":"0cfd89ccce7d65e3e1e0da23860bb6fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442649,
     "wof:label":"Woodmansey Civil Parish",
-    "wof:lastmodified":1566633268,
+    "wof:lastmodified":1695877581,
     "wof:name":"Woodmansey",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

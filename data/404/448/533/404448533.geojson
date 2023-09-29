@@ -10,12 +10,18 @@
     "geom:latitude":51.361409,
     "geom:longitude":-1.983641,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.369655,
     "lbl:longitude":-1.982291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Roundway"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011804"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126028881
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a89c5cd217f006c33210f753e8683335",
+    "wof:geomhash":"405af4dc74a63d581d881b44d1405c23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448533,
     "wof:label":"Roundway Civil Parish",
-    "wof:lastmodified":1566631463,
+    "wof:lastmodified":1695876798,
     "wof:name":"Roundway",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

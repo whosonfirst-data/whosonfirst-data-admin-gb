@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001651,
-    "geom:area_square_m":12980803.063285,
+    "geom:area_square_m":12980803.063284,
     "geom:bbox":"-4.38647602278,50.493034605,-4.32440360076,50.5459305648",
     "geom:latitude":50.519952,
     "geom:longitude":-4.354353,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.517732,
     "lbl:longitude":-4.354823,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Hill"
@@ -69,12 +75,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011524"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276794113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"29c9bbb71c23c42f48f7f26dc240bee8",
+    "wof:geomhash":"c091698c68caeca089a349082ffe5b9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404430707,
     "wof:label":"South Hill Civil Parish",
-    "wof:lastmodified":1566631946,
+    "wof:lastmodified":1695876994,
     "wof:name":"South Hill",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

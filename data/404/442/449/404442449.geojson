@@ -10,12 +10,18 @@
     "geom:latitude":53.227842,
     "geom:longitude":-3.36076,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.227337,
     "lbl:longitude":-3.360334,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bodfari Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000143"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125812113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"86fff68171cf7b8c47f934c645ba8758",
+    "wof:geomhash":"77ccef8c015383a3959dfb1a5a903270",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442449,
-    "wof:lastmodified":1566633211,
+    "wof:lastmodified":1695877555,
     "wof:name":"Bodfari Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

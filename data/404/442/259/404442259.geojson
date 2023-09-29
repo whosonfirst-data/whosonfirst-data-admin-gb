@@ -10,12 +10,18 @@
     "geom:latitude":52.291188,
     "geom:longitude":0.208811,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.294902,
     "lbl:longitude":0.209412,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u062a\u0631\u0628\u064a\u062a\u0634"
@@ -75,12 +81,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001848"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126051745
     ],
     "wof:country":"GB",
-    "wof:geomhash":"addc0e3a2a61614068d21ab503031353",
+    "wof:geomhash":"49acca4b51704d9e8b3a005bab96df7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404442259,
     "wof:label":"Waterbeach Civil Parish",
-    "wof:lastmodified":1566633223,
+    "wof:lastmodified":1695877560,
     "wof:name":"Waterbeach",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

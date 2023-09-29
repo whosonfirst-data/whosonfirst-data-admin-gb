@@ -10,12 +10,18 @@
     "geom:latitude":51.654615,
     "geom:longitude":-0.505544,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.655984,
     "lbl:longitude":-0.503221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0648\u0631\u0644\u06cc\u0648\u0648\u062f"
@@ -75,12 +81,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004812"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846831
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a769c33d27f0cdbf78faf0d078f5ce4f",
+    "wof:geomhash":"6d597434bdee7ff65a41ab3c208b2008",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404442683,
     "wof:label":"Chorleywood Civil Parish",
-    "wof:lastmodified":1566633277,
+    "wof:lastmodified":1695877585,
     "wof:name":"Chorleywood",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

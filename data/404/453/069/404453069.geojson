@@ -10,12 +10,18 @@
     "geom:latitude":53.822604,
     "geom:longitude":-2.402087,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.828327,
     "lbl:longitude":-2.412146,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whalley"
@@ -57,12 +63,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005287"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873267
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dbca2c8d1e18b333435c9b484b3aa63e",
+    "wof:geomhash":"1051c239ab76aecb56a0a9fd9286244b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453069,
     "wof:label":"Whalley Civil Parish",
-    "wof:lastmodified":1566632840,
+    "wof:lastmodified":1695877391,
     "wof:name":"Whalley",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

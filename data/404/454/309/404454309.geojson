@@ -10,12 +10,18 @@
     "geom:latitude":50.964326,
     "geom:longitude":-0.537772,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.964162,
     "lbl:longitude":-0.537587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stopham"
@@ -54,12 +60,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009930"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293813107
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8d15e7e1babed46ab663514f6daba739",
+    "wof:geomhash":"663bc9fe7088c663e513f492478cb1de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454309,
     "wof:label":"Stopham Civil Parish",
-    "wof:lastmodified":1566632644,
+    "wof:lastmodified":1695877298,
     "wof:name":"Stopham",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

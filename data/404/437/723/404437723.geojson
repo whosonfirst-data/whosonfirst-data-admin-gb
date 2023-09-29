@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001735,
-    "geom:area_square_m":12630741.650265,
+    "geom:area_square_m":12630741.650266,
     "geom:bbox":"-1.05968285722,53.9078298397,-0.986492335925,53.9552796479",
     "geom:latitude":53.933134,
     "geom:longitude":-1.02465,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.933137,
     "lbl:longitude":-1.02521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heslington"
@@ -63,12 +69,15 @@
         1360698977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000604"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125775581
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0ceb5b8625ab4d9a8313322e4f862ce9",
+    "wof:geomhash":"ce845a2cec6b3cd2816f9af9ca1dcf3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404437723,
     "wof:label":"Heslington Civil Parish",
-    "wof:lastmodified":1566632099,
+    "wof:lastmodified":1695877059,
     "wof:name":"Heslington",
     "wof:parent_id":1360698977,
     "wof:placetype":"localadmin",

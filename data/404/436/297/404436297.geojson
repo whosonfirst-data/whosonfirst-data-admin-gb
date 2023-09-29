@@ -10,12 +10,18 @@
     "geom:latitude":51.986746,
     "geom:longitude":-0.617523,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.987041,
     "lbl:longitude":-0.618331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woburn"
@@ -60,12 +66,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012000"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882373
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a3f5b9e5251ad62ef17cf00e0fc79a9a",
+    "wof:geomhash":"3ed5c259218fba98e18382280248821a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404436297,
     "wof:label":"Woburn Civil Parish",
-    "wof:lastmodified":1566632412,
+    "wof:lastmodified":1695877192,
     "wof:name":"Woburn",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

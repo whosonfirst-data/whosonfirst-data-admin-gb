@@ -10,12 +10,18 @@
     "geom:latitude":52.97742,
     "geom:longitude":-1.909073,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.977557,
     "lbl:longitude":-1.916694,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Alton"
@@ -99,12 +105,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009023"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871905
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0a61b4237e97e4e8c208916eff85a7fc",
+    "wof:geomhash":"9705dc80c67d0843bea7c493871a20ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404454037,
     "wof:label":"Alton Civil Parish",
-    "wof:lastmodified":1566632679,
+    "wof:lastmodified":1695877315,
     "wof:name":"Alton",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

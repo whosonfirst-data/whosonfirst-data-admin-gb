@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002333,
-    "geom:area_square_m":17447189.724535,
+    "geom:area_square_m":17447189.724534,
     "geom:bbox":"1.20594230941,52.7701715936,1.29002948586,52.8192639472",
     "geom:latitude":52.791085,
     "geom:longitude":1.250823,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.790813,
     "lbl:longitude":1.250185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u06cc\u0644\u0634\u0627\u0645"
@@ -87,12 +93,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006200"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854967
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cbbdc80e106b77aa0ca4ad7bf046fb16",
+    "wof:geomhash":"819765c7810fb67cfe932d8cbc77b259",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404435401,
     "wof:label":"Aylsham Civil Parish",
-    "wof:lastmodified":1566634007,
+    "wof:lastmodified":1695877900,
     "wof:name":"Aylsham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

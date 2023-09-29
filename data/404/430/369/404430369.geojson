@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001229,
-    "geom:area_square_m":9150518.221849,
+    "geom:area_square_m":9150518.22185,
     "geom:bbox":"-1.43426799787,52.9311401618,-1.38809548726,52.9813582787",
     "geom:latitude":52.962189,
     "geom:longitude":-1.411068,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.964024,
     "lbl:longitude":-1.41072,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0644\u064a"
@@ -105,12 +111,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002831"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bb0e9e4cf02e81f809f188b5443be84d",
+    "wof:geomhash":"279c529c2797c9ec4c8cd603fbf7cd51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404430369,
     "wof:label":"Morley Civil Parish",
-    "wof:lastmodified":1566631999,
+    "wof:lastmodified":1695877015,
     "wof:name":"Morley",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000684,
-    "geom:area_square_m":5213841.297068,
+    "geom:area_square_m":5213841.297067,
     "geom:bbox":"0.760449936501,51.9298657023,0.796857948641,51.9676398008",
     "geom:latitude":51.949606,
     "geom:longitude":0.778391,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.950444,
     "lbl:longitude":0.77812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mount Bures"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004001"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293321857
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c658229da88b388c2c708a644d7bd718",
+    "wof:geomhash":"b3a1d70acc29f527db5bb96258b547b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404448859,
     "wof:label":"Mount Bures Civil Parish",
-    "wof:lastmodified":1566631488,
+    "wof:lastmodified":1695876809,
     "wof:name":"Mount Bures",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.313403,
     "geom:longitude":0.831984,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.313883,
     "lbl:longitude":0.830053,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norton, Buckland and Stone"
@@ -43,12 +49,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005065"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754923
     ],
     "wof:country":"GB",
-    "wof:geomhash":"98ea4a90e3c26ffc6ad3079f4e5726cc",
+    "wof:geomhash":"6cae2dbaccd1152ecfd4baacaf63e898",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404430763,
     "wof:label":"Norton, Buckland and Stone Civil Parish",
-    "wof:lastmodified":1566631934,
+    "wof:lastmodified":1695876990,
     "wof:name":"Norton, Buckland and Stone",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

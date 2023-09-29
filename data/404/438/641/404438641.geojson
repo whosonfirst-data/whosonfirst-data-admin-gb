@@ -10,12 +10,18 @@
     "geom:latitude":53.223914,
     "geom:longitude":-4.196296,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.225648,
     "lbl:longitude":-4.192583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfair Pwllgwyngyll Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000021"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f279c809de9a80a9ea2c03fde529571",
+    "wof:geomhash":"62696eef8e5a0d098b6a5095a94fe2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438641,
-    "wof:lastmodified":1566632612,
+    "wof:lastmodified":1695877283,
     "wof:name":"Llanfair Pwllgwyngyll Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

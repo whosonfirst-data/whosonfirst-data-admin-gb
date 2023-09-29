@@ -10,12 +10,18 @@
     "geom:latitude":53.284493,
     "geom:longitude":-0.628456,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.284935,
     "lbl:longitude":-0.628813,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broxholme"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005968"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310440775
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3ed3aa2e69e72cd59b75d529440b0801",
+    "wof:geomhash":"13d7b639cafa5eb9a1a1ee87d35cc19d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452559,
     "wof:label":"Broxholme Civil Parish",
-    "wof:lastmodified":1566632169,
+    "wof:lastmodified":1695877087,
     "wof:name":"Broxholme",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

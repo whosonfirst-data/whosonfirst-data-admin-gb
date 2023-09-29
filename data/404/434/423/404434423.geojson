@@ -10,12 +10,18 @@
     "geom:latitude":52.919167,
     "geom:longitude":-2.405542,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.917241,
     "lbl:longitude":-2.410575,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Loggerheads"
@@ -42,12 +48,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008949"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326457267
     ],
     "wof:country":"GB",
-    "wof:geomhash":"165ee6f90c435238c05d8ddc75e98dbf",
+    "wof:geomhash":"401a8f2c02703a36452f3fd7e968a5ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404434423,
     "wof:label":"Loggerheads Civil Parish",
-    "wof:lastmodified":1566633558,
+    "wof:lastmodified":1695877713,
     "wof:name":"Loggerheads",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

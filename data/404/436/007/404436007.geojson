@@ -10,12 +10,18 @@
     "geom:latitude":54.091407,
     "geom:longitude":-0.458939,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.089896,
     "lbl:longitude":-0.462154,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Langtoft"
@@ -57,12 +63,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000427"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125886715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b077a00ef7d6e0ea1d335ef04df7b9af",
+    "wof:geomhash":"e7113cae5257633c3d5b6a9c88ce5e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404436007,
     "wof:label":"Langtoft Civil Parish",
-    "wof:lastmodified":1566632347,
+    "wof:lastmodified":1695877163,
     "wof:name":"Langtoft",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

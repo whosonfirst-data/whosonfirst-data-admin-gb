@@ -10,12 +10,18 @@
     "geom:latitude":54.380545,
     "geom:longitude":-3.08031,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.380584,
     "lbl:longitude":-3.090446,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coniston"
@@ -57,12 +63,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002597"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126056677
     ],
     "wof:country":"GB",
-    "wof:geomhash":"18781c0a11fea3b7235174150529587e",
+    "wof:geomhash":"d386174f753aa6dac5c8e75fe20774fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448187,
     "wof:label":"Coniston Civil Parish",
-    "wof:lastmodified":1566631504,
+    "wof:lastmodified":1695876816,
     "wof:name":"Coniston",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

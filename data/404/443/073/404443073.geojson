@@ -10,12 +10,18 @@
     "geom:latitude":52.315503,
     "geom:longitude":1.207237,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.3174,
     "lbl:longitude":1.208494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Denham"
@@ -67,12 +73,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010551"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758167
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a9a3b98db47ca23131e870cde8189143",
+    "wof:geomhash":"be02e3693bfda52cc999052a0a90b5a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +94,7 @@
     ],
     "wof:id":404443073,
     "wof:label":"Denham Civil Parish",
-    "wof:lastmodified":1566633052,
+    "wof:lastmodified":1695877484,
     "wof:name":"Denham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

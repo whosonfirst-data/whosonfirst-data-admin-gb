@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001811,
-    "geom:area_square_m":13626358.690177,
+    "geom:area_square_m":13626358.690178,
     "geom:bbox":"0.819624704692,52.5034812234,0.920712974107,52.5366693088",
     "geom:latitude":52.519313,
     "geom:longitude":0.872045,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.519826,
     "lbl:longitude":0.876258,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stow Bedon"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006178"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803495
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f542e00953faba8e7864e026519f84a4",
+    "wof:geomhash":"f7128361cadc56a0947fd1a0cfc2d23f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404443063,
     "wof:label":"Stow Bedon Civil Parish",
-    "wof:lastmodified":1566633020,
+    "wof:lastmodified":1695877468,
     "wof:name":"Stow Bedon",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

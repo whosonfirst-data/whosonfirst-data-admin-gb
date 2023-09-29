@@ -10,12 +10,18 @@
     "geom:latitude":51.049986,
     "geom:longitude":0.160941,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.050478,
     "lbl:longitude":0.161539,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0648\u0628\u0648\u0631\u0648"
@@ -105,12 +111,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003835"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854581
     ],
     "wof:country":"GB",
-    "wof:geomhash":"425830ac9188acaeee31cbe0a2e4d440",
+    "wof:geomhash":"1913023f5642bdcc781af4bc711fa375",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404441409,
     "wof:label":"Crowborough Civil Parish",
-    "wof:lastmodified":1566631750,
+    "wof:lastmodified":1695876905,
     "wof:name":"Crowborough",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

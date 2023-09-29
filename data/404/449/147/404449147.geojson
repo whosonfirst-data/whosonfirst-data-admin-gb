@@ -10,12 +10,18 @@
     "geom:latitude":50.922236,
     "geom:longitude":0.706091,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.917575,
     "lbl:longitude":0.710858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Icklesham"
@@ -69,12 +75,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003812"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125994729
     ],
     "wof:country":"GB",
-    "wof:geomhash":"59633892c88f0dddde4489b20a925304",
+    "wof:geomhash":"fe1408f9699a863b8d57551be118d1cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404449147,
     "wof:label":"Icklesham Civil Parish",
-    "wof:lastmodified":1566631456,
+    "wof:lastmodified":1695876795,
     "wof:name":"Icklesham",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

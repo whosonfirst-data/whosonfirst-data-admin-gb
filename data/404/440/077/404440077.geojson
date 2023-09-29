@@ -10,12 +10,18 @@
     "geom:latitude":52.46454,
     "geom:longitude":1.280932,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.465681,
     "lbl:longitude":1.283255,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shelton and Hardwick"
@@ -61,12 +67,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006593"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"344f3ef9323a1ff2afd461515bf09792",
+    "wof:geomhash":"990034c7a644e5fb88d49f5b43ec98e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404440077,
     "wof:label":"Shelton and Hardwick Civil Parish",
-    "wof:lastmodified":1566631143,
+    "wof:lastmodified":1695878223,
     "wof:name":"Shelton and Hardwick",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

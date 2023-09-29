@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0022,
-    "geom:area_square_m":17415420.384722,
+    "geom:area_square_m":17415420.384721,
     "geom:bbox":"-5.228491863,50.1544861666,-5.14591544003,50.2068476058",
     "geom:latitude":50.185629,
     "geom:longitude":-5.180727,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.183916,
     "lbl:longitude":-5.176675,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sen Stedhyans"
@@ -63,12 +69,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011588"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125863085
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b57473353a8aa3b3f0638626488644c5",
+    "wof:geomhash":"c9000fdfd19ca429dfaeb05df301cee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432051,
     "wof:label":"Stithians Civil Parish",
-    "wof:lastmodified":1566633961,
+    "wof:lastmodified":1695877878,
     "wof:name":"Stithians",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

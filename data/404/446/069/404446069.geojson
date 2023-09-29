@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010972,
-    "geom:area_square_m":82578428.186915,
+    "geom:area_square_m":82578428.186914,
     "geom:bbox":"-3.74117325801,52.4749997171,-3.46741854259,52.5411451294",
     "geom:latitude":52.507994,
     "geom:longitude":-3.600171,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.510398,
     "lbl:longitude":-3.602775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trefeglwys Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000348"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881923
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2309aa2c65f8213988268c32390efd7b",
+    "wof:geomhash":"d37645e909d078060af03f66c7185a81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404446069,
-    "wof:lastmodified":1566631695,
+    "wof:lastmodified":1695876883,
     "wof:name":"Trefeglwys Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

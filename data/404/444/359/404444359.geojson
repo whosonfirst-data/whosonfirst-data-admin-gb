@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001209,
-    "geom:area_square_m":8904235.677163,
+    "geom:area_square_m":8904235.677164,
     "geom:bbox":"-2.42118854789,53.4098690684,-2.35792109,53.4408159761",
     "geom:latitude":53.425731,
     "geom:longitude":-2.389692,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.423847,
     "lbl:longitude":-2.39029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Carrington"
@@ -45,12 +51,15 @@
         1360698935
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000009"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125986179
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0a9071c8a01984d40e0027d16430b810",
+    "wof:geomhash":"ea0eb7b5ef2ad45495aae7cef88e40b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404444359,
     "wof:label":"Carrington Civil Parish",
-    "wof:lastmodified":1566632925,
+    "wof:lastmodified":1695877424,
     "wof:name":"Carrington",
     "wof:parent_id":1360698935,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001966,
-    "geom:area_square_m":14843365.248065,
+    "geom:area_square_m":14843365.248066,
     "geom:bbox":"-2.36583787055,52.3523109168,-2.27734496506,52.3903006334",
     "geom:latitude":52.373671,
     "geom:longitude":-2.321597,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.374561,
     "lbl:longitude":-2.329634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u062f\u0644\u06cc"
@@ -87,12 +93,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010446"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853025
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bdafd065b86a75c5a85b1fe30cd4c033",
+    "wof:geomhash":"54bd8067d8101e138ebe03c3f0c64432",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404453089,
     "wof:label":"Bewdley Civil Parish",
-    "wof:lastmodified":1566632820,
+    "wof:lastmodified":1695877382,
     "wof:name":"Bewdley",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

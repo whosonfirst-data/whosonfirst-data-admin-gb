@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001759,
-    "geom:area_square_m":12647149.528361,
+    "geom:area_square_m":12647149.528359,
     "geom:bbox":"-2.39476524201,54.3943351961,-2.34146087296,54.4979734652",
     "geom:latitude":54.449717,
     "geom:longitude":-2.37001,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.470745,
     "lbl:longitude":-2.361192,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u06cc\u0631\u0628\u06cc \u0627\u0633\u062a\u06cc\u0648\u0646"
@@ -84,12 +90,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002544"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2e64037caa391c24233633da59564f83",
+    "wof:geomhash":"fd922c1bf8bfed7c610dc5231adc90d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404444397,
     "wof:label":"Kirkby Stephen Civil Parish",
-    "wof:lastmodified":1566632874,
+    "wof:lastmodified":1695877406,
     "wof:name":"Kirkby Stephen",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

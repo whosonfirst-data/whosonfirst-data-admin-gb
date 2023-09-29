@@ -10,12 +10,18 @@
     "geom:latitude":54.196231,
     "geom:longitude":-1.451164,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.196832,
     "lbl:longitude":-1.451511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baldersby"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007310"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125936597
     ],
     "wof:country":"GB",
-    "wof:geomhash":"71e381e0710b40870bd6851f4d884c11",
+    "wof:geomhash":"ab8289582dff9a975a4b00c705de1652",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404443303,
     "wof:label":"Baldersby Civil Parish",
-    "wof:lastmodified":1566633040,
+    "wof:lastmodified":1695877478,
     "wof:name":"Baldersby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

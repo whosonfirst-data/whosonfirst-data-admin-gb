@@ -10,12 +10,18 @@
     "geom:latitude":52.631968,
     "geom:longitude":1.047038,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.632723,
     "lbl:longitude":1.047035,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Runhall"
@@ -55,12 +61,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006588"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758551
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3ab7cfdb3173929867c4780ec1927854",
+    "wof:geomhash":"9465f6d78651dccef9f0f38a818e0c83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404443823,
     "wof:label":"Runhall Civil Parish",
-    "wof:lastmodified":1566633053,
+    "wof:lastmodified":1695877484,
     "wof:name":"Runhall",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001992,
-    "geom:area_square_m":15312538.575912,
+    "geom:area_square_m":15312538.575911,
     "geom:bbox":"-4.26563358226,51.5349454662,-4.20088930175,51.5935703444",
     "geom:latitude":51.567749,
     "geom:longitude":-4.228243,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.577064,
     "lbl:longitude":-4.225057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Port Eynon Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000591"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802939
     ],
     "wof:country":"GB",
-    "wof:geomhash":"479fdaf3964ecedcfb0a5bbdc73a8603",
+    "wof:geomhash":"b5fa2b3f9dad267d30f16a95606b6a18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430405,
-    "wof:lastmodified":1566632024,
+    "wof:lastmodified":1695877025,
     "wof:name":"Port Eynon Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

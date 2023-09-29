@@ -10,12 +10,18 @@
     "geom:latitude":53.081883,
     "geom:longitude":-1.564522,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.080132,
     "lbl:longitude":-1.567713,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0631\u06a9\u0633\u0648\u0648\u0631\u062b"
@@ -75,12 +81,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002820"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872079
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c1aa4abb40c04825b66d8be8bd1615c1",
+    "wof:geomhash":"d1080cac3dae2bd2cd3e87382dca4608",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404439157,
     "wof:label":"Wirksworth Civil Parish",
-    "wof:lastmodified":1566631834,
+    "wof:lastmodified":1695876942,
     "wof:name":"Wirksworth",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

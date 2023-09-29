@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001727,
-    "geom:area_square_m":13440822.466363,
+    "geom:area_square_m":13440822.466362,
     "geom:bbox":"-4.03754831934,50.967242291,-3.98217648521,51.0124627478",
     "geom:latitude":50.990361,
     "geom:longitude":-4.010089,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.989528,
     "lbl:longitude":-4.01062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Atherington"
@@ -45,12 +51,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003068"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126049037
     ],
     "wof:country":"GB",
-    "wof:geomhash":"816ce9f7807fb4c408cc4c5d50290d70",
+    "wof:geomhash":"6f34e76f501439b94381886577bdf36e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404446605,
     "wof:label":"Atherington Civil Parish",
-    "wof:lastmodified":1566631628,
+    "wof:lastmodified":1695876859,
     "wof:name":"Atherington",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

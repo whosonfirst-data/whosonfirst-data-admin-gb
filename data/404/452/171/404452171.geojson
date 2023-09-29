@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":872357.986617,
+    "geom:area_square_m":872357.986618,
     "geom:bbox":"-2.90354954375,50.7403441389,-2.88439210125,50.7489657423",
     "geom:latitude":50.744496,
     "geom:longitude":-2.892948,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.744138,
     "lbl:longitude":-2.892765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Catherston Leweston"
@@ -54,12 +60,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003515"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125985137
     ],
     "wof:country":"GB",
-    "wof:geomhash":"229279cf8d8cf6227657055b4f8a9baf",
+    "wof:geomhash":"750f2da93473a5841d5e3c4c42dd485f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452171,
     "wof:label":"Catherston Leweston Civil Parish",
-    "wof:lastmodified":1566632267,
+    "wof:lastmodified":1695877128,
     "wof:name":"Catherston Leweston",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000742,
-    "geom:area_square_m":5808505.187267,
+    "geom:area_square_m":5808505.187266,
     "geom:bbox":"-1.33841909215,50.7266444029,-1.28345777596,50.7515386157",
     "geom:latitude":50.738349,
     "geom:longitude":-1.309469,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.740686,
     "lbl:longitude":-1.305299,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Northwood"
@@ -91,12 +97,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001324"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758779
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d8eed59095f0b06ad49a850c2be261cb",
+    "wof:geomhash":"9dd5eef306f7fc9c2491410f0b912383",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +118,7 @@
     ],
     "wof:id":404444309,
     "wof:label":"Northwood Civil Parish",
-    "wof:lastmodified":1566632863,
+    "wof:lastmodified":1695877400,
     "wof:name":"Northwood",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.908111,
     "geom:longitude":-2.079717,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.909226,
     "lbl:longitude":-2.082091,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lothersdale"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012246"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125790401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3f78f1fdefca55adb7a9a02f7128e73a",
+    "wof:geomhash":"889e3db143aa7bf1b1a2cd141fb40bc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404429657,
     "wof:label":"Lothersdale Civil Parish",
-    "wof:lastmodified":1566633127,
+    "wof:lastmodified":1695877517,
     "wof:name":"Lothersdale",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

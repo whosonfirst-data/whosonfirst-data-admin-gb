@@ -10,12 +10,18 @@
     "geom:latitude":52.007258,
     "geom:longitude":-2.191466,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.006469,
     "lbl:longitude":-2.193147,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bushley"
@@ -54,12 +60,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010293"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226471623
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fd9c94c959d784361fae8a56d74301a7",
+    "wof:geomhash":"dde86c387ba21d94630ff7e18fc1b81a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447403,
     "wof:label":"Bushley Civil Parish",
-    "wof:lastmodified":1566631330,
+    "wof:lastmodified":1695878309,
     "wof:name":"Bushley",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.060013,
     "geom:longitude":1.242141,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.060607,
     "lbl:longitude":1.243946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0633\u0642\u0631\u06cc\u0648"
@@ -75,12 +81,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009422"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060383
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f3943b0166033521ac215d5af8e2e38c",
+    "wof:geomhash":"828d0ba4a9a441f2185187a484c4d2bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404431653,
     "wof:label":"Kesgrave Civil Parish",
-    "wof:lastmodified":1566632518,
+    "wof:lastmodified":1695877240,
     "wof:name":"Kesgrave",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

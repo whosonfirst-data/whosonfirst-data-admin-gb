@@ -10,12 +10,18 @@
     "geom:latitude":50.910404,
     "geom:longitude":-2.518223,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.909057,
     "lbl:longitude":-2.518132,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leweston"
@@ -40,12 +46,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003553"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755843
     ],
     "wof:country":"GB",
-    "wof:geomhash":"60934c1db8e1ffc948a401254d013bf4",
+    "wof:geomhash":"d7411e26e09ef047eeecbdd03dddded4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404439973,
     "wof:label":"Leweston Civil Parish",
-    "wof:lastmodified":1566631923,
+    "wof:lastmodified":1695876985,
     "wof:name":"Leweston",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

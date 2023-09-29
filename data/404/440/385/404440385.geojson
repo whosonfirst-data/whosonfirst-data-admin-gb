@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003316,
-    "geom:area_square_m":25860946.515432,
+    "geom:area_square_m":25860946.515431,
     "geom:bbox":"0.0116434855565,50.875398901,0.12190741797,50.9260296784",
     "geom:latitude":50.900446,
     "geom:longitude":0.066476,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.90135,
     "lbl:longitude":0.066479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ringmer"
@@ -69,12 +75,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003783"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125993247
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0a9bc0635fd8de6ead79aebf13fec049",
+    "wof:geomhash":"28229a7303ba93639a7da95ab3476eb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404440385,
     "wof:label":"Ringmer Civil Parish",
-    "wof:lastmodified":1566631171,
+    "wof:lastmodified":1695878236,
     "wof:name":"Ringmer",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

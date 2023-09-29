@@ -10,12 +10,18 @@
     "geom:latitude":52.783803,
     "geom:longitude":1.125946,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.784834,
     "lbl:longitude":1.122741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salle"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006247"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126056935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4fb8b999e61a68cd4686f09644bb44a4",
+    "wof:geomhash":"7425da7c48f2570bb59b97afe22bb73a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404451149,
     "wof:label":"Salle Civil Parish",
-    "wof:lastmodified":1566633531,
+    "wof:lastmodified":1695877698,
     "wof:name":"Salle",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

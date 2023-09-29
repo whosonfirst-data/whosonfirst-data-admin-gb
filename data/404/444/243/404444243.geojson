@@ -10,12 +10,18 @@
     "geom:latitude":52.856561,
     "geom:longitude":-0.469993,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.858365,
     "lbl:longitude":-0.460874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lenton Keisby and Osgodby"
@@ -43,12 +49,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005922"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758759
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cdd5f838e65b161b9d81748ef340ba17",
+    "wof:geomhash":"d63b52700e68506151b2f1f0068309c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404444243,
     "wof:label":"Lenton Keisby and Osgodby Civil Parish",
-    "wof:lastmodified":1566632893,
+    "wof:lastmodified":1695877411,
     "wof:name":"Lenton Keisby and Osgodby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.828384,
     "geom:longitude":-2.501387,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.828254,
     "lbl:longitude":-2.501387,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Up Cerne"
@@ -57,12 +63,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003611"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126050743
     ],
     "wof:country":"GB",
-    "wof:geomhash":"821acc331c4ede0acc7aa6fe6731a074",
+    "wof:geomhash":"48e10900b89d1a57878c734c9dd30505",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453761,
     "wof:label":"Up Cerne Civil Parish",
-    "wof:lastmodified":1566632817,
+    "wof:lastmodified":1695877381,
     "wof:name":"Up Cerne",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

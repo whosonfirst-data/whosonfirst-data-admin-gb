@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004098,
-    "geom:area_square_m":31307297.931675,
+    "geom:area_square_m":31307297.931673,
     "geom:bbox":"-3.22462637345,51.8127323442,-3.11800532392,51.8717540823",
     "geom:latitude":51.840874,
     "geom:longitude":-3.173633,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.842782,
     "lbl:longitude":-3.17793,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangattock Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000307"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126015735
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a04dad9a149fe55a8b209391edfe9c4e",
+    "wof:geomhash":"4823d51f75379748b1a085a24c5c1f70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452267,
-    "wof:lastmodified":1566632198,
+    "wof:lastmodified":1695877099,
     "wof:name":"Llangattock Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

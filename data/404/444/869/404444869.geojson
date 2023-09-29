@@ -10,12 +10,18 @@
     "geom:latitude":53.22346,
     "geom:longitude":0.044607,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.222832,
     "lbl:longitude":0.044296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1200\u122a\u1295\u130d\u1270\u1295"
@@ -108,12 +114,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005657"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259612149
     ],
     "wof:country":"GB",
-    "wof:geomhash":"588e8cd627f80ba18cb3dc6eb97c6045",
+    "wof:geomhash":"5a71120bae06878ec6884fe9b0dd403e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +135,7 @@
     ],
     "wof:id":404444869,
     "wof:label":"Harrington Civil Parish",
-    "wof:lastmodified":1566632904,
+    "wof:lastmodified":1695877416,
     "wof:name":"Harrington",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.017134,
     "geom:longitude":0.894033,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.019599,
     "lbl:longitude":0.897519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0633\u062a\u064a\u062f"
@@ -72,12 +78,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009116"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125770723
     ],
     "wof:country":"GB",
-    "wof:geomhash":"881fb0836452734005556ffab03e2c9b",
+    "wof:geomhash":"247e75fa726b012232aae9f7808bcc32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404448709,
     "wof:label":"Polstead Civil Parish",
-    "wof:lastmodified":1566631470,
+    "wof:lastmodified":1695876801,
     "wof:name":"Polstead",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

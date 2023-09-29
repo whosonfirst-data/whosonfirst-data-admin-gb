@@ -10,12 +10,18 @@
     "geom:latitude":53.197597,
     "geom:longitude":-1.923763,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.203442,
     "lbl:longitude":-1.940668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hollinsclough"
@@ -60,12 +66,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009045"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125960497
     ],
     "wof:country":"GB",
-    "wof:geomhash":"89074b4c25365072d101e46c8feef533",
+    "wof:geomhash":"f6a4198eec0d1bad59c13cd387b1d479",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404431213,
     "wof:label":"Hollinsclough Civil Parish",
-    "wof:lastmodified":1566632508,
+    "wof:lastmodified":1695877235,
     "wof:name":"Hollinsclough",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

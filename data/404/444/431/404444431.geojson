@@ -10,12 +10,18 @@
     "geom:latitude":52.216418,
     "geom:longitude":-0.066322,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.216375,
     "lbl:longitude":-0.067905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0645\u0628\u0648\u0631\u0646"
@@ -82,9 +88,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04001856",
         "gn:id":7294306,
         "qs_pg:id":1040756
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344186473
     ],
@@ -92,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"926b830c5185f0af2066fd5c5b2cd03c",
+    "wof:geomhash":"d2e7ef3b0425285ddd31a7260b32de35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +113,7 @@
     ],
     "wof:id":404444431,
     "wof:label":"Cambourne Civil Parish",
-    "wof:lastmodified":1582311117,
+    "wof:lastmodified":1695877974,
     "wof:name":"Cambourne",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

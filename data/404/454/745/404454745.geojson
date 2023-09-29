@@ -10,12 +10,18 @@
     "geom:latitude":53.673231,
     "geom:longitude":-1.000077,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.677028,
     "lbl:longitude":-1.006394,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Snaith and Cowick"
@@ -55,12 +61,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000476"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2313630022709955fb22bf593cb1d60f",
+    "wof:geomhash":"3c02af1892722e5304b3496509249e64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404454745,
     "wof:label":"Snaith and Cowick Civil Parish",
-    "wof:lastmodified":1566632743,
+    "wof:lastmodified":1695877347,
     "wof:name":"Snaith and Cowick",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

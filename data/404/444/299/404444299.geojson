@@ -10,12 +10,18 @@
     "geom:latitude":51.412251,
     "geom:longitude":-2.49966,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.412391,
     "lbl:longitude":-2.505256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u06cc\u0646\u0634\u0627\u0645"
@@ -93,12 +99,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000975"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dc490239309b4e5a1defbabb63336b72",
+    "wof:geomhash":"7ce77930c79948ebc945b705fa9a9872",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404444299,
     "wof:label":"Keynsham Civil Parish",
-    "wof:lastmodified":1566632969,
+    "wof:lastmodified":1695877443,
     "wof:name":"Keynsham",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

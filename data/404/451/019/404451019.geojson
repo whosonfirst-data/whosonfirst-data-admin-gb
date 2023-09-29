@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001407,
-    "geom:area_square_m":10406125.54812,
+    "geom:area_square_m":10406125.548119,
     "geom:bbox":"-4.61662429873,53.239420636,-4.55288928204,53.2772359423",
     "geom:latitude":53.256371,
     "geom:longitude":-4.585662,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.258379,
     "lbl:longitude":-4.58518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rhoscolyn Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000034"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125805197
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8646cae4afdc7d81d73e4f8b6e159983",
+    "wof:geomhash":"ed2bb719b0af9323d353993ca643f100",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404451019,
-    "wof:lastmodified":1566633506,
+    "wof:lastmodified":1695877684,
     "wof:name":"Rhoscolyn Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

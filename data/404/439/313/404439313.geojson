@@ -10,12 +10,18 @@
     "geom:latitude":52.749821,
     "geom:longitude":-2.497178,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.749038,
     "lbl:longitude":-2.497803,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kynnersley"
@@ -57,12 +63,15 @@
         1360698911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000933"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125790577
     ],
     "wof:country":"GB",
-    "wof:geomhash":"14047633f23a8dc9d5dee4f2f88ae3e7",
+    "wof:geomhash":"08c459af643a416be450569e28fcd909",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439313,
     "wof:label":"Kynnersley Civil Parish",
-    "wof:lastmodified":1566631880,
+    "wof:lastmodified":1695876964,
     "wof:name":"Kynnersley",
     "wof:parent_id":1360698911,
     "wof:placetype":"localadmin",

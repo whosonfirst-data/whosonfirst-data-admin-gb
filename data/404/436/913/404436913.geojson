@@ -10,12 +10,18 @@
     "geom:latitude":53.334546,
     "geom:longitude":-3.404725,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.33506,
     "lbl:longitude":-3.404728,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prestatyn Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000171"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872015
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8fadcb34046ee543a8cfb01b0fef6256",
+    "wof:geomhash":"2f4bdec2380098721cacc008b39110db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404436913,
-    "wof:lastmodified":1566632374,
+    "wof:lastmodified":1695877176,
     "wof:name":"Prestatyn Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

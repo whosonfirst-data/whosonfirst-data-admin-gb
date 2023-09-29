@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015234,
-    "geom:area_square_m":107442938.247879,
+    "geom:area_square_m":107442938.247878,
     "geom:bbox":"-2.49712042002,55.151185646,-2.27024803489,55.2786591431",
     "geom:latitude":55.222964,
     "geom:longitude":-2.374448,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.215064,
     "lbl:longitude":-2.353838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tarset"
@@ -60,12 +66,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010867"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125865119
     ],
     "wof:country":"GB",
-    "wof:geomhash":"89c54f89bfcdf7155c61f3b3616bb1b9",
+    "wof:geomhash":"60e1227482f19702d9e5e2cce7ed73de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404442859,
     "wof:label":"Tarset Civil Parish",
-    "wof:lastmodified":1566633222,
+    "wof:lastmodified":1695877560,
     "wof:name":"Tarset",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.35961,
     "geom:longitude":-1.035908,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.3573,
     "lbl:longitude":-1.036631,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bransdale"
@@ -49,12 +55,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007554"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756459
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d0a9eb515fa8e5840bc978f66f2fde66",
+    "wof:geomhash":"1c19ccd814b72f7fb00a083ff1549a80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404431781,
     "wof:label":"Bransdale Civil Parish",
-    "wof:lastmodified":1566632525,
+    "wof:lastmodified":1695877243,
     "wof:name":"Bransdale",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

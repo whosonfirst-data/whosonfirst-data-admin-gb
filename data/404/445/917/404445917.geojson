@@ -10,12 +10,18 @@
     "geom:latitude":51.592049,
     "geom:longitude":-1.234602,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.593265,
     "lbl:longitude":-1.234185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Hagbourne"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008125"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125771737
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7dbd483a78a28ff7ad946ffb9bb118e4",
+    "wof:geomhash":"c7b1dc850e6cc3ea956fbb290bab336c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404445917,
     "wof:label":"East Hagbourne Civil Parish",
-    "wof:lastmodified":1566633412,
+    "wof:lastmodified":1695877645,
     "wof:name":"East Hagbourne",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

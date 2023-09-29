@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000785,
-    "geom:area_square_m":5881584.291847,
+    "geom:area_square_m":5881584.291846,
     "geom:bbox":"0.40212671213,52.6582808194,0.447225733123,52.6894553449",
     "geom:latitude":52.676422,
     "geom:longitude":0.422384,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.677295,
     "lbl:longitude":0.420838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tottenhill"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006365"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125870761
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8d11d62358ebc3970cf5ed93f9c49720",
+    "wof:geomhash":"4d945ac7872d04d57bb1156de6ce9876",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445945,
     "wof:label":"Tottenhill Civil Parish",
-    "wof:lastmodified":1566633409,
+    "wof:lastmodified":1695877644,
     "wof:name":"Tottenhill",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

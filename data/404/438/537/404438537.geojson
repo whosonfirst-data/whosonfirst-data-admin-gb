@@ -10,12 +10,18 @@
     "geom:latitude":50.662198,
     "geom:longitude":-1.971423,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.655914,
     "lbl:longitude":-1.978784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Studland"
@@ -75,12 +81,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003482"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882051
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a54cc4c943e493b5c5d8a1589634ad89",
+    "wof:geomhash":"baafb771cc87926caa10a4e57a5ffc6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404438537,
     "wof:label":"Studland Civil Parish",
-    "wof:lastmodified":1566632590,
+    "wof:lastmodified":1695877272,
     "wof:name":"Studland",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

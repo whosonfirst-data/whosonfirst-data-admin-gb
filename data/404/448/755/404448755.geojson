@@ -10,12 +10,18 @@
     "geom:latitude":52.866154,
     "geom:longitude":-1.387856,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.866732,
     "lbl:longitude":-1.383802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aston Upon Trent"
@@ -40,12 +46,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002886"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757387
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e86d95fa74d6b2e5fc91d8be02bb9109",
+    "wof:geomhash":"0463433f5a2a9576d7d73e234cd943b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404448755,
     "wof:label":"Aston Upon Trent Civil Parish",
-    "wof:lastmodified":1566631462,
+    "wof:lastmodified":1695876798,
     "wof:name":"Aston Upon Trent",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

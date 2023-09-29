@@ -10,12 +10,18 @@
     "geom:latitude":51.794749,
     "geom:longitude":-0.925673,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.79677,
     "lbl:longitude":-0.91641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cuddington"
@@ -54,12 +60,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001474"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125937905
     ],
     "wof:country":"GB",
-    "wof:geomhash":"50f6c5e6358b3a80f84f04f7b1395451",
+    "wof:geomhash":"82455a49b8e5058f88b842fdc92a621e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451863,
     "wof:label":"Cuddington Civil Parish",
-    "wof:lastmodified":1566633519,
+    "wof:lastmodified":1695877692,
     "wof:name":"Cuddington",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001666,
-    "geom:area_square_m":12775818.168312,
+    "geom:area_square_m":12775818.168311,
     "geom:bbox":"-2.73645810343,51.6420192634,-2.66495126948,51.6834736977",
     "geom:latitude":51.662894,
     "geom:longitude":-2.699324,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.662528,
     "lbl:longitude":-2.701754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Arvans Community"
@@ -40,12 +46,15 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000803"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125978135
     ],
     "wof:country":"GB",
-    "wof:geomhash":"90cff916416a1cd46cfc0c88fb04a05f",
+    "wof:geomhash":"2e99f1ac2dfabbc3ad1c2b60bfc52564",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442761,
-    "wof:lastmodified":1566633263,
+    "wof:lastmodified":1695877579,
     "wof:name":"St. Arvans Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

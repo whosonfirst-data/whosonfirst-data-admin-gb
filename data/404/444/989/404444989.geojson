@@ -10,12 +10,18 @@
     "geom:latitude":52.236373,
     "geom:longitude":1.444227,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.24024,
     "lbl:longitude":1.44276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rendham"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009448"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125987685
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9d964d5406fce56bf9c14255277f8cf6",
+    "wof:geomhash":"c7585844a350d6bb64bf031c6aabefc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404444989,
     "wof:label":"Rendham Civil Parish",
-    "wof:lastmodified":1566632976,
+    "wof:lastmodified":1695877447,
     "wof:name":"Rendham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

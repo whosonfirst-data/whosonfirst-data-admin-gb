@@ -10,12 +10,18 @@
     "geom:latitude":52.148627,
     "geom:longitude":-0.766153,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.148534,
     "lbl:longitude":-0.766157,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ravenstone"
@@ -45,12 +51,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001269"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310034381
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1fff3b0d3c15280ac54b27e298b108d3",
+    "wof:geomhash":"dfff135ea39262d611987a784212c701",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404444029,
     "wof:label":"Ravenstone Civil Parish",
-    "wof:lastmodified":1566632948,
+    "wof:lastmodified":1695877433,
     "wof:name":"Ravenstone",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

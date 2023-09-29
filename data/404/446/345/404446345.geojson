@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005628,
-    "geom:area_square_m":44325027.191997,
+    "geom:area_square_m":44325027.191999,
     "geom:bbox":"-4.99495967853,50.3999783014,-4.87726340777,50.4774282274",
     "geom:latitude":50.435737,
     "geom:longitude":-4.931338,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.437124,
     "lbl:longitude":-4.930233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Columb Major"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011538"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126010539
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5930347e0f95bdd833e3a3b1b55b51e5",
+    "wof:geomhash":"0a537ba116d2019d9636ab2ec902666b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404446345,
     "wof:label":"St. Columb Major Civil Parish",
-    "wof:lastmodified":1566631702,
+    "wof:lastmodified":1695876886,
     "wof:name":"St. Columb Major",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

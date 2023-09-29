@@ -10,12 +10,18 @@
     "geom:latitude":52.698338,
     "geom:longitude":1.584066,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.700949,
     "lbl:longitude":1.586276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Repps with Bastwick"
@@ -69,12 +75,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006276"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310233641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"85d391a2f37de40a9157a9c4b324eb16",
+    "wof:geomhash":"571bfeeb411579ff9ae9b34847dc79ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404453747,
     "wof:label":"Repps with Bastwick Civil Parish",
-    "wof:lastmodified":1566632797,
+    "wof:lastmodified":1695877372,
     "wof:name":"Repps with Bastwick",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003645,
-    "geom:area_square_m":27844061.842073,
+    "geom:area_square_m":27844061.842074,
     "geom:bbox":"-4.23496521624,51.8278440482,-4.08698919437,51.8712556852",
     "geom:latitude":51.850429,
     "geom:longitude":-4.151331,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.851534,
     "lbl:longitude":-4.140198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanarthney Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000508"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125771087
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1d261b7a1df304633b6a6a8ae7549317",
+    "wof:geomhash":"304e8e8060332fc059fe2f3bee8997c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404450283,
-    "wof:lastmodified":1566633807,
+    "wof:lastmodified":1695877821,
     "wof:name":"Llanarthney Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

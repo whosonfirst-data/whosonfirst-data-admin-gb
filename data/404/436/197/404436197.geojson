@@ -10,12 +10,18 @@
     "geom:latitude":51.81069,
     "geom:longitude":-1.20647,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.810445,
     "lbl:longitude":-1.208464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Noke"
@@ -45,12 +51,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008069"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125898287
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7725b3aa542611b763150b71e2f5dfa8",
+    "wof:geomhash":"dc4316e0ef43ec15e0780cb9566657ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404436197,
     "wof:label":"Noke Civil Parish",
-    "wof:lastmodified":1566632384,
+    "wof:lastmodified":1695877180,
     "wof:name":"Noke",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

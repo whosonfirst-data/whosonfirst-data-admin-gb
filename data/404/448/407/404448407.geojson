@@ -10,12 +10,18 @@
     "geom:latitude":52.999238,
     "geom:longitude":-1.412134,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.999075,
     "lbl:longitude":-1.411907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Horsley Woodhouse"
@@ -67,9 +73,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04002677",
         "gn:id":7293229,
         "qs_pg:id":1040700
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125971355
     ],
@@ -77,7 +85,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f008f3396e667ee21841d73719b54202",
+    "wof:geomhash":"41d19aecdc07eaf540ef45d62c298bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +98,7 @@
     ],
     "wof:id":404448407,
     "wof:label":"Horsley Woodhouse Civil Parish",
-    "wof:lastmodified":1582311062,
+    "wof:lastmodified":1695877951,
     "wof:name":"Horsley Woodhouse",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

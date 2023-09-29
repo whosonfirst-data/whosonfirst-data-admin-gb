@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005825,
-    "geom:area_square_m":43052116.76803,
+    "geom:area_square_m":43052116.768032,
     "geom:bbox":"-4.3775053577,53.2414045131,-4.22842114995,53.3563946303",
     "geom:latitude":53.290944,
     "geom:longitude":-4.300914,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.285228,
     "lbl:longitude":-4.275048,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanddyfnan Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000014"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259418205
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8ed8a9ebf10342d2c3a9b671a6d00c25",
+    "wof:geomhash":"f0fe00cd7c0d93c13fc5ed978b86edef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433845,
-    "wof:lastmodified":1566633652,
+    "wof:lastmodified":1695877753,
     "wof:name":"Llanddyfnan Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

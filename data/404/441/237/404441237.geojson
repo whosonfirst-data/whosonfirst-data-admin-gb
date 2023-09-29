@@ -10,12 +10,18 @@
     "geom:latitude":51.295675,
     "geom:longitude":-2.616925,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.296161,
     "lbl:longitude":-2.615364,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Harptree"
@@ -66,12 +72,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000966"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343290729
     ],
     "wof:country":"GB",
-    "wof:geomhash":"174d5dd87844fd0f8c1104b3efc12a2b",
+    "wof:geomhash":"9cb4ef67fd17e61c50ca17f5b6092c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404441237,
     "wof:label":"East Harptree Civil Parish",
-    "wof:lastmodified":1566631811,
+    "wof:lastmodified":1695876931,
     "wof:name":"East Harptree",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

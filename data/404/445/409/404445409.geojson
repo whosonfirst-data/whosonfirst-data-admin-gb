@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000633,
-    "geom:area_square_m":4859678.418031,
+    "geom:area_square_m":4859678.418032,
     "geom:bbox":"-3.52066717189,51.6165567756,-3.46540744849,51.6338195232",
     "geom:latitude":51.624952,
     "geom:longitude":-3.491367,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.62462,
     "lbl:longitude":-3.491358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cwm Clydach Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000681"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711695
     ],
     "wof:country":"GB",
-    "wof:geomhash":"36542f61ff178fa2c641548756e8e77b",
+    "wof:geomhash":"04bbf732a4e7c8237ccd90cf2c4edbb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404445409,
-    "wof:lastmodified":1566633342,
+    "wof:lastmodified":1695877613,
     "wof:name":"Cwm Clydach Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

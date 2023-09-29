@@ -10,12 +10,18 @@
     "geom:latitude":52.689401,
     "geom:longitude":1.558157,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.687897,
     "lbl:longitude":1.556733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thurne"
@@ -69,12 +75,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006280"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125854201
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f65804b368e199309c875602bcf92217",
+    "wof:geomhash":"a941a7aef3a9a5cb0fd5e54c7d95053b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404443807,
     "wof:label":"Thurne Civil Parish",
-    "wof:lastmodified":1566633065,
+    "wof:lastmodified":1695877490,
     "wof:name":"Thurne",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

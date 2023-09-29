@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00687,
-    "geom:area_square_m":51327180.022027,
+    "geom:area_square_m":51327180.022025,
     "geom:bbox":"-4.15480535579,52.8007787883,-3.96169751656,52.8694843338",
     "geom:latitude":52.829685,
     "geom:longitude":-4.046531,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.833805,
     "lbl:longitude":-4.021046,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanbedr Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000067"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360314203
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5aedeb9585d5f1a6b198b8d703bf7cda",
+    "wof:geomhash":"5a39849b274800d2642c08655de310a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404439231,
-    "wof:lastmodified":1566631908,
+    "wof:lastmodified":1695876977,
     "wof:name":"Llanbedr Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

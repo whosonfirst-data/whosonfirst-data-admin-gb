@@ -10,12 +10,18 @@
     "geom:latitude":50.911298,
     "geom:longitude":-1.848568,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.913709,
     "lbl:longitude":-1.845379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alderholt"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003362"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030673
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f30b4597d4d3c9c86308cbbf39d7fcab",
+    "wof:geomhash":"8ab3ccced1dcee3db670bcbc01c12f74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432773,
     "wof:label":"Alderholt Civil Parish",
-    "wof:lastmodified":1566633970,
+    "wof:lastmodified":1695877881,
     "wof:name":"Alderholt",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

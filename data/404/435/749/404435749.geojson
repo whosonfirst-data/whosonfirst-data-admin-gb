@@ -10,12 +10,18 @@
     "geom:latitude":51.598731,
     "geom:longitude":-1.290215,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.597861,
     "lbl:longitude":-1.292025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Harwell"
@@ -48,12 +54,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008218"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852909
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4da39b93ca84924707dba9b7dbb71496",
+    "wof:geomhash":"2ec06c45d3ded7e577ba4396ac624fdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404435749,
     "wof:label":"Harwell Civil Parish",
-    "wof:lastmodified":1566634028,
+    "wof:lastmodified":1695877911,
     "wof:name":"Harwell",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

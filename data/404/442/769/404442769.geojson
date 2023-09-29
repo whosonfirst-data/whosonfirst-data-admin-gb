@@ -10,12 +10,18 @@
     "geom:latitude":51.117416,
     "geom:longitude":-2.842013,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.115471,
     "lbl:longitude":-2.841754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Greinton"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008630"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242806655
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7a68a7a3dcfa8f8423b9bf843775368e",
+    "wof:geomhash":"ba3a3420a6a6b08c69a5e3d37b3910a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404442769,
     "wof:label":"Greinton Civil Parish",
-    "wof:lastmodified":1566633256,
+    "wof:lastmodified":1695877576,
     "wof:name":"Greinton",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.750628,
     "geom:longitude":0.977961,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.750605,
     "lbl:longitude":0.980753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Billingford"
@@ -48,12 +54,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006092"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125837511
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e8adeb499684241b7d144170af665ef5",
+    "wof:geomhash":"dcd0313249abe34ca2fae304b10b3921",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404437019,
     "wof:label":"Billingford Civil Parish",
-    "wof:lastmodified":1566632130,
+    "wof:lastmodified":1695877070,
     "wof:name":"Billingford",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

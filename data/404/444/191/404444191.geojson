@@ -10,12 +10,18 @@
     "geom:latitude":52.062475,
     "geom:longitude":-1.631255,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.062557,
     "lbl:longitude":-1.632831,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shipston on Stour"
@@ -45,12 +51,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009778"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998621
     ],
     "wof:country":"GB",
-    "wof:geomhash":"996789a47d91019596332d96c1639bce",
+    "wof:geomhash":"d043608faa09a03f10f3cd467a486985",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404444191,
     "wof:label":"Shipston on Stour Civil Parish",
-    "wof:lastmodified":1566632927,
+    "wof:lastmodified":1695877425,
     "wof:name":"Shipston on Stour",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

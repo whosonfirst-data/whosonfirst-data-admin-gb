@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002613,
-    "geom:area_square_m":19404347.641771,
+    "geom:area_square_m":19404347.641768,
     "geom:bbox":"-3.1412099935,53.072111192,-3.02717174793,53.1283346491",
     "geom:latitude":53.095469,
     "geom:longitude":-3.087884,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.095206,
     "lbl:longitude":-3.091764,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfynydd Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000196"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992035
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e4fbef4bba66a2412a1a008a592d0541",
+    "wof:geomhash":"844ee37aa651e0a47a1f45ddcad72cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441353,
-    "wof:lastmodified":1566631719,
+    "wof:lastmodified":1695876893,
     "wof:name":"Llanfynydd Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

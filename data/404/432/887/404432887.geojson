@@ -10,12 +10,18 @@
     "geom:latitude":54.19055,
     "geom:longitude":-0.751815,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.190061,
     "lbl:longitude":-0.755589,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marishes"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007605"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226784797
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d8e533f58c9b37aa8d98ae8ac3c07b8c",
+    "wof:geomhash":"c2d52e2ec84fdde5ab8c96805ee1e3bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404432887,
     "wof:label":"Marishes Civil Parish",
-    "wof:lastmodified":1566633869,
+    "wof:lastmodified":1695877844,
     "wof:name":"Marishes",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

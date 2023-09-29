@@ -10,12 +10,18 @@
     "geom:latitude":51.592787,
     "geom:longitude":-2.935194,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.593098,
     "lbl:longitude":-2.934969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ringland Community"
@@ -40,9 +46,12 @@
         1360698735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000829"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"2ce4b3b89b976df2c03cda62930a82c0",
+    "wof:geomhash":"af8f66cfdab2385558428c67962b75f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404435301,
-    "wof:lastmodified":1566633987,
+    "wof:lastmodified":1695877890,
     "wof:name":"Ringland Community",
     "wof:parent_id":1360698735,
     "wof:placetype":"localadmin",

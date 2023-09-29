@@ -10,12 +10,18 @@
     "geom:latitude":52.21879,
     "geom:longitude":-1.974401,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.216456,
     "lbl:longitude":-1.978174,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Inkberrow"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010407"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126058631
     ],
     "wof:country":"GB",
-    "wof:geomhash":"76c4865de40914e3e67075eede9ed13d",
+    "wof:geomhash":"8377184ef3f22ef69f53532aeb2724db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448863,
     "wof:label":"Inkberrow Civil Parish",
-    "wof:lastmodified":1566631559,
+    "wof:lastmodified":1695876840,
     "wof:name":"Inkberrow",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

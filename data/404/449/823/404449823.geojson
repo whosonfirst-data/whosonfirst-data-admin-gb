@@ -10,12 +10,18 @@
     "geom:latitude":52.64121,
     "geom:longitude":-0.715197,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.640266,
     "lbl:longitude":-0.713761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gunthorpe"
@@ -55,12 +61,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000646"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754225
     ],
     "wof:country":"GB",
-    "wof:geomhash":"50bb5d561ba862d8da933df5790bc18a",
+    "wof:geomhash":"6b259bf8ca1340050eba975d73b24ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404449823,
     "wof:label":"Gunthorpe Civil Parish",
-    "wof:lastmodified":1566631419,
+    "wof:lastmodified":1695876779,
     "wof:name":"Gunthorpe",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

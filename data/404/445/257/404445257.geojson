@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001374,
-    "geom:area_square_m":10076305.202293,
+    "geom:area_square_m":10076305.202292,
     "geom:bbox":"-1.13377761168,53.5921352236,-1.04954089119,53.6294888552",
     "geom:latitude":53.615452,
     "geom:longitude":-1.098455,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.616611,
     "lbl:longitude":-1.097821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mos"
@@ -267,12 +273,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000087"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125864415
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0a28c3688ec8aef68981fc613b33c597",
+    "wof:geomhash":"fafaf1e7f315dfbe67ae13ce553b7460",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -285,7 +294,7 @@
     ],
     "wof:id":404445257,
     "wof:label":"Moss Civil Parish",
-    "wof:lastmodified":1566633335,
+    "wof:lastmodified":1695877609,
     "wof:name":"Moss",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

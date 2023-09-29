@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005869,
-    "geom:area_square_m":44120518.877212,
+    "geom:area_square_m":44120518.877213,
     "geom:bbox":"1.06138898554,52.5115835163,1.16464075821,52.6106684884",
     "geom:latitude":52.560624,
     "geom:longitude":1.112838,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.561935,
     "lbl:longitude":1.117897,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wymondham"
@@ -90,12 +96,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006622"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125975353
     ],
     "wof:country":"GB",
-    "wof:geomhash":"560f4ab2e2e75190b7db45fb3813ffb3",
+    "wof:geomhash":"58605a69b2b110c78a6641470d74c195",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404444211,
     "wof:label":"Wymondham Civil Parish",
-    "wof:lastmodified":1566632876,
+    "wof:lastmodified":1695877407,
     "wof:name":"Wymondham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

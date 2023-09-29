@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001594,
-    "geom:area_square_m":11458687.892016,
+    "geom:area_square_m":11458687.892015,
     "geom:bbox":"-2.43248237468,54.4322911242,-2.3658031143,54.4846364211",
     "geom:latitude":54.46025,
     "geom:longitude":-2.398769,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.460928,
     "lbl:longitude":-2.399273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Waitby"
@@ -63,12 +69,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002579"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125789559
     ],
     "wof:country":"GB",
-    "wof:geomhash":"de0b74d023814588c1c1170ca61ed711",
+    "wof:geomhash":"693565d8e4b6bd1fd66231bcde3545dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404455049,
     "wof:label":"Waitby Civil Parish",
-    "wof:lastmodified":1566632279,
+    "wof:lastmodified":1695877133,
     "wof:name":"Waitby",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

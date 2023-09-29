@@ -10,12 +10,18 @@
     "geom:latitude":54.072219,
     "geom:longitude":-2.044717,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.07166,
     "lbl:longitude":-2.052187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Threshfield"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007125"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881773
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4f4ecac562818b8d19585c8c26b8a5f6",
+    "wof:geomhash":"189e4c157fbd240e1bc5b7ce1de06d48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404455273,
     "wof:label":"Threshfield Civil Parish",
-    "wof:lastmodified":1566632275,
+    "wof:lastmodified":1695877132,
     "wof:name":"Threshfield",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

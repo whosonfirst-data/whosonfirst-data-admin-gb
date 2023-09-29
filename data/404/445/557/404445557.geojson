@@ -10,12 +10,18 @@
     "geom:latitude":51.67551,
     "geom:longitude":-2.174132,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.677578,
     "lbl:longitude":-2.17024,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Avening"
@@ -60,12 +66,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004187"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880445
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4fbfcd5a6eeb0f21141f12cf672f8f20",
+    "wof:geomhash":"7493ccd2837d14cd7b20650dbcca1a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445557,
     "wof:label":"Avening Civil Parish",
-    "wof:lastmodified":1566633313,
+    "wof:lastmodified":1695877600,
     "wof:name":"Avening",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

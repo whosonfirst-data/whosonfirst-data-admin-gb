@@ -10,12 +10,18 @@
     "geom:latitude":50.993518,
     "geom:longitude":-4.191794,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.995907,
     "lbl:longitude":-4.190475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Landcross"
@@ -40,12 +46,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003272"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755751
     ],
     "wof:country":"GB",
-    "wof:geomhash":"91733bfd5fc176a505e5d570f751c982",
+    "wof:geomhash":"dd0c042febdb182dca4f9ab9c64f0834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404434421,
     "wof:label":"Landcross Civil Parish",
-    "wof:lastmodified":1566633598,
+    "wof:lastmodified":1695877730,
     "wof:name":"Landcross",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

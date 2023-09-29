@@ -10,12 +10,18 @@
     "geom:latitude":50.949318,
     "geom:longitude":-2.523794,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.950759,
     "lbl:longitude":-2.520014,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Sc\u012brburna"
@@ -111,12 +117,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003593"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852365
     ],
     "wof:country":"GB",
-    "wof:geomhash":"01894ed57b8f8f06765c41cd7e4d9a5b",
+    "wof:geomhash":"1fbab370c6fcfe71facb46da707acfbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +138,7 @@
     ],
     "wof:id":404451653,
     "wof:label":"Sherborne Civil Parish",
-    "wof:lastmodified":1566633515,
+    "wof:lastmodified":1695877689,
     "wof:name":"Sherborne",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

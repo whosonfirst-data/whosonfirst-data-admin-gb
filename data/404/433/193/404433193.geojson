@@ -10,12 +10,18 @@
     "geom:latitude":51.856122,
     "geom:longitude":-1.452508,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.856749,
     "lbl:longitude":-1.452103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fawler"
@@ -52,12 +58,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008285"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753905
     ],
     "wof:country":"GB",
-    "wof:geomhash":"49cc704def0cc3ffb5977ddda569f0a1",
+    "wof:geomhash":"94c70a8d0c2321fc0649028107ffbf38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404433193,
     "wof:label":"Fawler Civil Parish",
-    "wof:lastmodified":1566633647,
+    "wof:lastmodified":1695877750,
     "wof:name":"Fawler",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

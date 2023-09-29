@@ -10,12 +10,18 @@
     "geom:latitude":53.89409,
     "geom:longitude":-2.137154,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.894427,
     "lbl:longitude":-2.137162,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kelbrook and Sough"
@@ -52,12 +58,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005230"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759503
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a2108ca009ec7f1c4004f42d0a91a672",
+    "wof:geomhash":"9734509cbbfb18183b027b56fe19a799",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404445615,
     "wof:label":"Kelbrook and Sough Civil Parish",
-    "wof:lastmodified":1566633387,
+    "wof:lastmodified":1695877633,
     "wof:name":"Kelbrook and Sough",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

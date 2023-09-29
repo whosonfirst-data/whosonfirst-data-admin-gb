@@ -10,12 +10,18 @@
     "geom:latitude":51.280374,
     "geom:longitude":-2.059691,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.282844,
     "lbl:longitude":-2.053893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Erlestoke"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011711"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125792365
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b337f00f1765c7a3e346dd4c305b42ab",
+    "wof:geomhash":"3aaca3f31a45e426f5b0fe1f28d3373f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451015,
     "wof:label":"Erlestoke Civil Parish",
-    "wof:lastmodified":1566633435,
+    "wof:lastmodified":1695877653,
     "wof:name":"Erlestoke",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.819522,
     "geom:longitude":0.605976,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.818891,
     "lbl:longitude":0.605609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Faulkbourne"
@@ -54,12 +60,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003895"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310628221
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cbda86bfc4f0082d2573e5ba19aac5da",
+    "wof:geomhash":"23f9f053b22043fdd8b914edf1deedf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404433619,
     "wof:label":"Faulkbourne Civil Parish",
-    "wof:lastmodified":1566633655,
+    "wof:lastmodified":1695877754,
     "wof:name":"Faulkbourne",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

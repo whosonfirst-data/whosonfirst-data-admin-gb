@@ -10,12 +10,18 @@
     "geom:latitude":52.773892,
     "geom:longitude":1.608825,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.774174,
     "lbl:longitude":1.609332,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sea Palling"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006467"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881521
     ],
     "wof:country":"GB",
-    "wof:geomhash":"67e44fc7aee6750a4ca451234e1199fe",
+    "wof:geomhash":"b26ea0fcf35b2b7847939f3d0e6cc113",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404451161,
     "wof:label":"Sea Palling Civil Parish",
-    "wof:lastmodified":1566633425,
+    "wof:lastmodified":1695877650,
     "wof:name":"Sea Palling",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

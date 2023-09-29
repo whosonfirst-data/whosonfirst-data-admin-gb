@@ -10,12 +10,18 @@
     "geom:latitude":54.62589,
     "geom:longitude":-3.044584,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.629803,
     "lbl:longitude":-3.043653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0631\u0644\u06a9\u0644\u062f"
@@ -69,12 +75,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002577"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881765
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d6b0da054c9a4387cdd1e91cc8dc9514",
+    "wof:geomhash":"561add8e31c6a1a4ab927b7a26f8f78d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404432185,
     "wof:label":"Threlkeld Civil Parish",
-    "wof:lastmodified":1566633977,
+    "wof:lastmodified":1695877885,
     "wof:name":"Threlkeld",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001247,
-    "geom:area_square_m":9733822.805116,
+    "geom:area_square_m":9733822.805117,
     "geom:bbox":"0.020263744993,50.8468593203,0.0973491726275,50.880590228",
     "geom:latitude":50.866474,
     "geom:longitude":0.056944,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.866239,
     "lbl:longitude":0.054309,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glynde"
@@ -63,12 +69,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003773"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879745
     ],
     "wof:country":"GB",
-    "wof:geomhash":"19c6ff7b54f50864e16b12d2161ff716",
+    "wof:geomhash":"a9706eec4c6aed4483a20e7d6a9293e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404444955,
     "wof:label":"Glynde Civil Parish",
-    "wof:lastmodified":1566632875,
+    "wof:lastmodified":1695877407,
     "wof:name":"Glynde",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

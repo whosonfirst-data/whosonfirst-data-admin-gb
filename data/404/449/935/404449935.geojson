@@ -10,12 +10,18 @@
     "geom:latitude":51.823838,
     "geom:longitude":-0.62446,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.828366,
     "lbl:longitude":-0.640066,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0633\u062a\u0648\u0646"
@@ -69,12 +75,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001521"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125853311
     ],
     "wof:country":"GB",
-    "wof:geomhash":"900ba2257aa8300edd3a515be17f0867",
+    "wof:geomhash":"a7e5573f12ddf55588d8c6a6b6ba4f2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404449935,
     "wof:label":"Pitstone Civil Parish",
-    "wof:lastmodified":1566631405,
+    "wof:lastmodified":1695878341,
     "wof:name":"Pitstone",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

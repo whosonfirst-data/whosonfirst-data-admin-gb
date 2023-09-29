@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003576,
-    "geom:area_square_m":26924807.869522,
+    "geom:area_square_m":26924807.86952,
     "geom:bbox":"0.12337226942,52.4486845925,0.236331589475,52.5288585968",
     "geom:latitude":52.490203,
     "geom:longitude":0.182509,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.498445,
     "lbl:longitude":0.18721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manea"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001660"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853595
     ],
     "wof:country":"GB",
-    "wof:geomhash":"91e15ceb1dfbd58e29137747bf64b602",
+    "wof:geomhash":"bd1893cfd426db3d3d9aca3026e506eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404432085,
     "wof:label":"Manea Civil Parish",
-    "wof:lastmodified":1566633874,
+    "wof:lastmodified":1695877846,
     "wof:name":"Manea",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

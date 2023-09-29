@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001883,
-    "geom:area_square_m":14625940.376431,
+    "geom:area_square_m":14625940.376432,
     "geom:bbox":"1.11932806039,51.0715743618,1.2212788572,51.1051218017",
     "geom:latitude":51.089705,
     "geom:longitude":1.165967,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.087763,
     "lbl:longitude":1.165977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Folkestone"
@@ -141,12 +147,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005040"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e9f3d56ede11a5a8aa56c707bb99c0a0",
+    "wof:geomhash":"fa12799729c60952c162491758f2f6c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,7 +168,7 @@
     ],
     "wof:id":404453917,
     "wof:label":"Folkestone Civil Parish",
-    "wof:lastmodified":1566632857,
+    "wof:lastmodified":1695877398,
     "wof:name":"Folkestone",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

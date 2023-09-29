@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002118,
-    "geom:area_square_m":16324895.201101,
+    "geom:area_square_m":16324895.2011,
     "geom:bbox":"0.587134645123,51.4215718391,0.6770983725,51.4617720017",
     "geom:latitude":51.443079,
     "geom:longitude":0.63852,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.441221,
     "lbl:longitude":0.637672,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stoke"
@@ -76,12 +82,15 @@
         1360699105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001139"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756261
     ],
     "wof:country":"GB",
-    "wof:geomhash":"feeead8d161ddf4865ee49801216ed3d",
+    "wof:geomhash":"9827dec31e96eb105e8456951ad6437e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +103,7 @@
     ],
     "wof:id":404434739,
     "wof:label":"Stoke Civil Parish",
-    "wof:lastmodified":1566633539,
+    "wof:lastmodified":1695877702,
     "wof:name":"Stoke",
     "wof:parent_id":1360699105,
     "wof:placetype":"localadmin",

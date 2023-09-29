@@ -10,12 +10,18 @@
     "geom:latitude":52.182935,
     "geom:longitude":-0.692607,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.186606,
     "lbl:longitude":-0.690853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Warrington"
@@ -156,12 +162,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001276"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259409853
     ],
     "wof:country":"GB",
-    "wof:geomhash":"09b27aa5efcf79ad1cb7b201fe0f0049",
+    "wof:geomhash":"1f1a55c51849b6149f3df3dad71271d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +183,7 @@
     ],
     "wof:id":404446233,
     "wof:label":"Warrington Civil Parish",
-    "wof:lastmodified":1566631637,
+    "wof:lastmodified":1695876862,
     "wof:name":"Warrington",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

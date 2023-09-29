@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001554,
-    "geom:area_square_m":11942012.109477,
+    "geom:area_square_m":11942012.109476,
     "geom:bbox":"-4.3340324608,51.5434609796,-4.23165199702,51.5862940174",
     "geom:latitude":51.565573,
     "geom:longitude":-4.271461,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.570535,
     "lbl:longitude":-4.274902,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rhossili Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000593"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125805215
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b4acca97bc22f38a3402e9a1f7a6b0e5",
+    "wof:geomhash":"027bc728d74cbc760fe797e22079bfb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440577,
-    "wof:lastmodified":1566631231,
+    "wof:lastmodified":1695878263,
     "wof:name":"Rhossili Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001417,
-    "geom:area_square_m":10399721.355353,
+    "geom:area_square_m":10399721.355352,
     "geom:bbox":"-1.40315362785,53.5594759436,-1.35004843863,53.6066531247",
     "geom:latitude":53.584665,
     "geom:longitude":-1.375923,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.585354,
     "lbl:longitude":-1.373712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brierley"
@@ -75,12 +81,15 @@
         1360699091
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000040"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276258465
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f17799a85712701283087bdadbe22d66",
+    "wof:geomhash":"2dc24fd70b0d3bc1932bcb0a39468ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404444019,
     "wof:label":"Brierley Civil Parish",
-    "wof:lastmodified":1566632954,
+    "wof:lastmodified":1695877436,
     "wof:name":"Brierley",
     "wof:parent_id":1360699091,
     "wof:placetype":"localadmin",

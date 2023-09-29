@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001538,
-    "geom:area_square_m":11334165.238192,
+    "geom:area_square_m":11334165.238193,
     "geom:bbox":"-0.547958304367,53.3901199572,-0.448188341558,53.4181762568",
     "geom:latitude":53.404839,
     "geom:longitude":-0.493384,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.406426,
     "lbl:longitude":-0.489219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glentham"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005990"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125951841
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f2f3b43d2b6be4cada2e052d735ca09a",
+    "wof:geomhash":"2cc9168f0d3a5d412e48a85c5c589eb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404433447,
     "wof:label":"Glentham Civil Parish",
-    "wof:lastmodified":1566633650,
+    "wof:lastmodified":1695877752,
     "wof:name":"Glentham",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

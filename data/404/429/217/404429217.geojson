@@ -10,12 +10,18 @@
     "geom:latitude":51.794551,
     "geom:longitude":0.820059,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.793847,
     "lbl:longitude":0.822486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Virley"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004006"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125838151
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc3c56de9fa16d0c28fe07cbbd6bc1a8",
+    "wof:geomhash":"2f033aa3cb994b21d3718534e016b9e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404429217,
     "wof:label":"Virley Civil Parish",
-    "wof:lastmodified":1566633114,
+    "wof:lastmodified":1695877512,
     "wof:name":"Virley",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

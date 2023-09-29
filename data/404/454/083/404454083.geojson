@@ -10,12 +10,18 @@
     "geom:latitude":52.152933,
     "geom:longitude":-0.739374,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.153182,
     "lbl:longitude":-0.737403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Weston Underwood"
@@ -57,12 +63,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001278"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310530695
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bb03a23c4cb0919427ac30ccc4541db7",
+    "wof:geomhash":"b5cf2c67ac3f8fb4cf5598444e157bd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454083,
     "wof:label":"Weston Underwood Civil Parish",
-    "wof:lastmodified":1566632662,
+    "wof:lastmodified":1695877307,
     "wof:name":"Weston Underwood",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.018576,
     "geom:longitude":1.032877,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.018855,
     "lbl:longitude":1.032875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wenham Parva"
@@ -55,12 +61,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009134"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758433
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ff8071521b089cdc160abd0e90e6e176",
+    "wof:geomhash":"7d739f2e81aa4cf31b53ea48fd3fceea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404443591,
     "wof:label":"Wenham Parva Civil Parish",
-    "wof:lastmodified":1566633048,
+    "wof:lastmodified":1695877482,
     "wof:name":"Wenham Parva",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

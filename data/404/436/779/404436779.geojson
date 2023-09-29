@@ -10,12 +10,18 @@
     "geom:latitude":50.947973,
     "geom:longitude":0.364029,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.94719,
     "lbl:longitude":0.36457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dallington"
@@ -51,12 +57,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003805"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260008805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0dd3bd44de9ae5eb44ce2522e8fe6e04",
+    "wof:geomhash":"68ea9e3fc5695029109ce6c368422ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404436779,
     "wof:label":"Dallington Civil Parish",
-    "wof:lastmodified":1566632373,
+    "wof:lastmodified":1695877175,
     "wof:name":"Dallington",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

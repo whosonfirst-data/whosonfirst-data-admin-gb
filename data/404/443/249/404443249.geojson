@@ -10,12 +10,18 @@
     "geom:latitude":52.966227,
     "geom:longitude":-3.17349,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.965332,
     "lbl:longitude":-3.179952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangollen Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000165"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872013
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3d68fb47108b1b1719a43d31fc218ee4",
+    "wof:geomhash":"7f7aafb75f966eef64dc04041e81d7be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443249,
-    "wof:lastmodified":1566633058,
+    "wof:lastmodified":1695877486,
     "wof:name":"Llangollen Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

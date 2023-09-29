@@ -10,12 +10,18 @@
     "geom:latitude":50.940569,
     "geom:longitude":0.679939,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.939555,
     "lbl:longitude":0.684321,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Udimore"
@@ -63,12 +69,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003825"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903111
     ],
     "wof:country":"GB",
-    "wof:geomhash":"182e23058447271da8302ca3a7e4b4e2",
+    "wof:geomhash":"576093090ecfc2cc292b520d0804efaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442705,
     "wof:label":"Udimore Civil Parish",
-    "wof:lastmodified":1566633251,
+    "wof:lastmodified":1695877574,
     "wof:name":"Udimore",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.26318,
     "geom:longitude":-1.166327,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.264898,
     "lbl:longitude":-1.169551,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0627\u0648\u0646\u062a\u0631\u06cc"
@@ -105,12 +111,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006706"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853049
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7491b1923fa3538d0fa831aee637ffc8",
+    "wof:geomhash":"f9d097a245338aa695091b436b0f19cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404447869,
     "wof:label":"Daventry Civil Parish",
-    "wof:lastmodified":1566631271,
+    "wof:lastmodified":1695878282,
     "wof:name":"Daventry",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

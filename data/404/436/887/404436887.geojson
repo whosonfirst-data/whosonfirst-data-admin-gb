@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003446,
-    "geom:area_square_m":26818697.459539,
+    "geom:area_square_m":26818697.45954,
     "geom:bbox":"-0.641234116915,50.9540516603,-0.557293159519,51.0248301955",
     "geom:latitude":50.990679,
     "geom:longitude":-0.598906,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.990926,
     "lbl:longitude":-0.598262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u062a\u0631\u0648\u0648\u0631\u062b"
@@ -90,12 +96,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009922"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854607
     ],
     "wof:country":"GB",
-    "wof:geomhash":"88c44f794de50f07e57df325fd4999f8",
+    "wof:geomhash":"19fd6e7da7720b03bfad862684d86c74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404436887,
     "wof:label":"Petworth Civil Parish",
-    "wof:lastmodified":1566632336,
+    "wof:lastmodified":1695877159,
     "wof:name":"Petworth",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

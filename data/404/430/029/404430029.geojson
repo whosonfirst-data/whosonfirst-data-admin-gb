@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003132,
-    "geom:area_square_m":22895254.240963,
+    "geom:area_square_m":22895254.240962,
     "geom:bbox":"-0.103964231723,53.7377785794,0.00238569393114,53.7969285925",
     "geom:latitude":53.765497,
     "geom:longitude":-0.050645,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.765056,
     "lbl:longitude":-0.049823,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Roos"
@@ -69,12 +75,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000460"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030731
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5ae1147d595027f2a503122dc2fe8ab2",
+    "wof:geomhash":"12af3a1388ca2c7fce2dcccfeebf5221",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404430029,
     "wof:label":"Roos Civil Parish",
-    "wof:lastmodified":1566632013,
+    "wof:lastmodified":1695877020,
     "wof:name":"Roos",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

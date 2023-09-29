@@ -10,12 +10,18 @@
     "geom:latitude":53.464563,
     "geom:longitude":-0.950803,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.466053,
     "lbl:longitude":-0.943386,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Misson"
@@ -60,12 +66,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007822"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293618271
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc9a8e3ed08a4b6c311519cfee2fe7ef",
+    "wof:geomhash":"b5783aedc457e9e7d96f7f83cb4c00ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404453049,
     "wof:label":"Misson Civil Parish",
-    "wof:lastmodified":1566632774,
+    "wof:lastmodified":1695877362,
     "wof:name":"Misson",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

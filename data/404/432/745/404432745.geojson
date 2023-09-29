@@ -10,12 +10,18 @@
     "geom:latitude":51.892774,
     "geom:longitude":1.030965,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.888525,
     "lbl:longitude":1.034339,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Bromley"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004097"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125893323
     ],
     "wof:country":"GB",
-    "wof:geomhash":"29892acb3123b4584ff2396728adaad2",
+    "wof:geomhash":"37c559339637d08a27c5653883c82543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432745,
     "wof:label":"Great Bromley Civil Parish",
-    "wof:lastmodified":1566633973,
+    "wof:lastmodified":1695877883,
     "wof:name":"Great Bromley",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

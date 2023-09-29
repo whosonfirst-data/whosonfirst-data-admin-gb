@@ -10,12 +10,18 @@
     "geom:latitude":51.322973,
     "geom:longitude":-0.638323,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.322725,
     "lbl:longitude":-0.63953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bisley"
@@ -54,12 +60,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009579"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125781915
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a90f6799bf083d070e40798ea96cb54c",
+    "wof:geomhash":"7a99103a28e3ea5ab75db479ca87f9e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440261,
     "wof:label":"Bisley Civil Parish",
-    "wof:lastmodified":1566631153,
+    "wof:lastmodified":1695878227,
     "wof:name":"Bisley",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

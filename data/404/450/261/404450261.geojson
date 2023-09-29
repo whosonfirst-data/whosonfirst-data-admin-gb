@@ -10,12 +10,18 @@
     "geom:latitude":50.853462,
     "geom:longitude":-2.519891,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.850657,
     "lbl:longitude":-2.52014,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hilfield"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003546"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125888235
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2c186b6ab56fbdbf04366d8931b7b986",
+    "wof:geomhash":"0ad5f8cd02ec957a281864161e0cfc30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404450261,
     "wof:label":"Hilfield Civil Parish",
-    "wof:lastmodified":1566633771,
+    "wof:lastmodified":1695877806,
     "wof:name":"Hilfield",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

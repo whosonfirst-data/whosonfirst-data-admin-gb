@@ -10,12 +10,18 @@
     "geom:latitude":50.804654,
     "geom:longitude":-0.753265,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.805765,
     "lbl:longitude":-0.749525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Mundham"
@@ -54,12 +60,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009920"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327260721
     ],
     "wof:country":"GB",
-    "wof:geomhash":"04846afbe6514c7cef732969a92b7317",
+    "wof:geomhash":"48aba4ad3e002cd834b277ce631b4bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404436839,
     "wof:label":"North Mundham Civil Parish",
-    "wof:lastmodified":1566632410,
+    "wof:lastmodified":1695877191,
     "wof:name":"North Mundham",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

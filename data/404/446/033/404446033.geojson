@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001386,
-    "geom:area_square_m":10921124.031505,
+    "geom:area_square_m":10921124.031506,
     "geom:bbox":"-3.64886742649,50.3903484965,-3.57365344678,50.4259354113",
     "geom:latitude":50.405553,
     "geom:longitude":-3.611412,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.404072,
     "lbl:longitude":-3.614548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stoke Gabriel"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003179"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125781771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0354bfadfc7323cf523d9fe60ff16b80",
+    "wof:geomhash":"67be9ca060b70c89643b103a8d138020",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404446033,
     "wof:label":"Stoke Gabriel Civil Parish",
-    "wof:lastmodified":1566631692,
+    "wof:lastmodified":1695876882,
     "wof:name":"Stoke Gabriel",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

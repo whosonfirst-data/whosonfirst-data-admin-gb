@@ -10,12 +10,18 @@
     "geom:latitude":51.715644,
     "geom:longitude":-1.004999,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.713437,
     "lbl:longitude":-1.005543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tetsworth"
@@ -57,12 +63,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008170"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125912985
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cb53a8c3546576cbd2ce2512af8cb18f",
+    "wof:geomhash":"05fcd60a245331443e587a167aa27ea2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404449573,
     "wof:label":"Tetsworth Civil Parish",
-    "wof:lastmodified":1566631399,
+    "wof:lastmodified":1695878338,
     "wof:name":"Tetsworth",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

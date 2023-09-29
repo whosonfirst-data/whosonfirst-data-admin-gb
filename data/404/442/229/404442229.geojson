@@ -10,12 +10,18 @@
     "geom:latitude":51.814953,
     "geom:longitude":-2.008384,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.810528,
     "lbl:longitude":-2.004414,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Colesbourne"
@@ -54,12 +60,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004210"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293813127
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6754dd918f763455a83a80b8eb66567d",
+    "wof:geomhash":"21de1c5f73a506d039c5706e5e4a2596",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404442229,
     "wof:label":"Colesbourne Civil Parish",
-    "wof:lastmodified":1566633208,
+    "wof:lastmodified":1695877554,
     "wof:name":"Colesbourne",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

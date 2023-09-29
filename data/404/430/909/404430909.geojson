@@ -10,12 +10,18 @@
     "geom:latitude":52.688478,
     "geom:longitude":-0.474331,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.682697,
     "lbl:longitude":-0.471901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ryhall"
@@ -69,12 +75,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000666"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125830405
     ],
     "wof:country":"GB",
-    "wof:geomhash":"10d344d89d1533544a8e4ec0429426bb",
+    "wof:geomhash":"5d648fc1e835c11e32c56ba44f84a215",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404430909,
     "wof:label":"Ryhall Civil Parish",
-    "wof:lastmodified":1566631933,
+    "wof:lastmodified":1695876989,
     "wof:name":"Ryhall",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

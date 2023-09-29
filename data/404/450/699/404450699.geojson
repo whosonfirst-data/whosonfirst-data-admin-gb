@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000873,
-    "geom:area_square_m":6715420.925614,
+    "geom:area_square_m":6715420.925613,
     "geom:bbox":"-3.2864678951,51.5377391626,-3.2362913897,51.5711183184",
     "geom:latitude":51.555577,
     "geom:longitude":-3.258268,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.553438,
     "lbl:longitude":-3.257892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taffs Well Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000702"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125775599
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2846475dda01a1220f9cd08a5cd8f256",
+    "wof:geomhash":"52d95c2036cfba726228dc103c4386d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404450699,
-    "wof:lastmodified":1566633822,
+    "wof:lastmodified":1695877826,
     "wof:name":"Taffs Well Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

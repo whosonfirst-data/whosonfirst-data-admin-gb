@@ -10,12 +10,18 @@
     "geom:latitude":54.368971,
     "geom:longitude":-1.536785,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.368026,
     "lbl:longitude":-1.536499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Gr\u0113at Langt\u016bn"
@@ -72,12 +78,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007185"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125886585
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4c27de53bc70c1cacb7ec50a861e8b57",
+    "wof:geomhash":"24a157d7c13eaceee0d8242568873dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404444591,
     "wof:label":"Great Langton Civil Parish",
-    "wof:lastmodified":1566632939,
+    "wof:lastmodified":1695877430,
     "wof:name":"Great Langton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

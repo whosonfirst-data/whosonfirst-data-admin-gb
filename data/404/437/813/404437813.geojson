@@ -10,12 +10,18 @@
     "geom:latitude":53.121013,
     "geom:longitude":-0.540827,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.12162,
     "lbl:longitude":-0.526679,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boothby Graffoe"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005786"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125842717
     ],
     "wof:country":"GB",
-    "wof:geomhash":"399a4b2e0d0672e8b2e17f84673df7a0",
+    "wof:geomhash":"37b788d3effd7fc0658f894239fb53ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404437813,
     "wof:label":"Boothby Graffoe Civil Parish",
-    "wof:lastmodified":1566632130,
+    "wof:lastmodified":1695877070,
     "wof:name":"Boothby Graffoe",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

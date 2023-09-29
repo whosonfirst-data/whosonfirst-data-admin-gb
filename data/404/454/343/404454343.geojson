@@ -10,12 +10,18 @@
     "geom:latitude":52.274981,
     "geom:longitude":0.419931,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.274516,
     "lbl:longitude":0.419492,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0646\u064a\u0644\u0648\u0644"
@@ -63,12 +69,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001640"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882989
     ],
     "wof:country":"GB",
-    "wof:geomhash":"180cf8b9002de863e892b0c4deee8f10",
+    "wof:geomhash":"dca4b39fbac5c025d5b24beeeeefa5d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454343,
     "wof:label":"Snailwell Civil Parish",
-    "wof:lastmodified":1566632747,
+    "wof:lastmodified":1695877349,
     "wof:name":"Snailwell",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

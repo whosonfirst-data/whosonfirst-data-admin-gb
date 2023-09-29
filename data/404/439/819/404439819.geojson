@@ -10,12 +10,18 @@
     "geom:latitude":50.708903,
     "geom:longitude":-3.805438,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.711985,
     "lbl:longitude":-3.835185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Drewsteignton"
@@ -69,12 +75,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003317"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125933367
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2ef9a7283161bf0e59993ca53eeff556",
+    "wof:geomhash":"2886f85188a584b229b14effdbb1d4ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404439819,
     "wof:label":"Drewsteignton Civil Parish",
-    "wof:lastmodified":1566631852,
+    "wof:lastmodified":1695876951,
     "wof:name":"Drewsteignton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

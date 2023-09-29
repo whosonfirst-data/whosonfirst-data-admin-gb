@@ -10,12 +10,18 @@
     "geom:latitude":51.559436,
     "geom:longitude":-1.61308,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.56007,
     "lbl:longitude":-1.612508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashbury"
@@ -51,12 +57,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008191"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125831095
     ],
     "wof:country":"GB",
-    "wof:geomhash":"56701ab2ec41d9eb94672f21c322e514",
+    "wof:geomhash":"7bd952216461a2ffe08d1b9d8cb5a103",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404449543,
     "wof:label":"Ashbury Civil Parish",
-    "wof:lastmodified":1566631393,
+    "wof:lastmodified":1695878335,
     "wof:name":"Ashbury",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

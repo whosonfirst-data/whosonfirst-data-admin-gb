@@ -10,12 +10,18 @@
     "geom:latitude":53.371889,
     "geom:longitude":-2.574825,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.370454,
     "lbl:longitude":-2.580395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0648\u0643\u062a\u0648\u0646 \u0647\u064a\u062b"
@@ -72,12 +78,15 @@
         1360698965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000332"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929047
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fadc3bfa95757edb484f2d305888a5af",
+    "wof:geomhash":"33d2ae7fe0631bff925379a1a2546c3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404446975,
     "wof:label":"Stockton Heath Civil Parish",
-    "wof:lastmodified":1566631711,
+    "wof:lastmodified":1695876890,
     "wof:name":"Stockton Heath",
     "wof:parent_id":1360698965,
     "wof:placetype":"localadmin",

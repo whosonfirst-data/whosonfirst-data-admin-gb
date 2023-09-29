@@ -10,12 +10,18 @@
     "geom:latitude":52.438301,
     "geom:longitude":0.673381,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.438109,
     "lbl:longitude":0.672802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santon Downham"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009156"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913569
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b49695fbbe8ed5f213de314b9109379a",
+    "wof:geomhash":"70981acd4da3ba2d23ee1c0f6230589f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404449021,
     "wof:label":"Santon Downham Civil Parish",
-    "wof:lastmodified":1566631428,
+    "wof:lastmodified":1695876782,
     "wof:name":"Santon Downham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

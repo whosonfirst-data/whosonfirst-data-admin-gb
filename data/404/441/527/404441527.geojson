@@ -10,12 +10,18 @@
     "geom:latitude":52.53306,
     "geom:longitude":1.225524,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.534815,
     "lbl:longitude":1.224066,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Flordon"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006544"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326659305
     ],
     "wof:country":"GB",
-    "wof:geomhash":"36b7aa3e010b9cfaf2c4a59ac83abd9e",
+    "wof:geomhash":"40fef0eb9d115e92e56974af6c76ad2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404441527,
     "wof:label":"Flordon Civil Parish",
-    "wof:lastmodified":1566631766,
+    "wof:lastmodified":1695876910,
     "wof:name":"Flordon",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

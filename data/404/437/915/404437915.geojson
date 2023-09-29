@@ -10,12 +10,18 @@
     "geom:latitude":53.869864,
     "geom:longitude":-1.558006,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.869887,
     "lbl:longitude":-1.558616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alwoodley"
@@ -62,9 +68,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04000222",
         "gn:id":7294389,
         "qs_pg:id":380258
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753405
     ],
@@ -72,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"489dcd1c6a73e9bbabf4255fe1d2eda4",
+    "wof:geomhash":"aa708e18dd6a7fa4afdf87231ed0a8c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +93,7 @@
     ],
     "wof:id":404437915,
     "wof:label":"Alwoodley Civil Parish",
-    "wof:lastmodified":1582311086,
+    "wof:lastmodified":1695877962,
     "wof:name":"Alwoodley",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

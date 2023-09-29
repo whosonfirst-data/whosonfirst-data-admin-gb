@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005731,
-    "geom:area_square_m":42600943.721623,
+    "geom:area_square_m":42600943.721627,
     "geom:bbox":"-4.32616012601,53.0093010779,-4.15565410476,53.069446626",
     "geom:latitude":53.044641,
     "geom:longitude":-4.241397,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.042553,
     "lbl:longitude":-4.227199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanllyfni Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000083"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209744641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d3e70cd86c043016c0c9f56116ffd634",
+    "wof:geomhash":"9ad3213c319cde24c16072dbd404ec15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444329,
-    "wof:lastmodified":1566632973,
+    "wof:lastmodified":1695877445,
     "wof:name":"Llanllyfni Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

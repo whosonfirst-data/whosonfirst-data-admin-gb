@@ -10,12 +10,18 @@
     "geom:latitude":51.673897,
     "geom:longitude":0.17496,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.673902,
     "lbl:longitude":0.175217,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stapleford Tawney"
@@ -57,12 +63,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004032"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125938749
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e72440e64a716159ba4f20b0032555d7",
+    "wof:geomhash":"a18be22a165be8ed554b2603b26aea7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404429703,
     "wof:label":"Stapleford Tawney Civil Parish",
-    "wof:lastmodified":1566633150,
+    "wof:lastmodified":1695877527,
     "wof:name":"Stapleford Tawney",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

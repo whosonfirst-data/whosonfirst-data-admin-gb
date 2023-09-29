@@ -10,12 +10,18 @@
     "geom:latitude":51.953535,
     "geom:longitude":0.90807,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.954213,
     "lbl:longitude":0.908607,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boxted"
@@ -60,12 +66,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003981"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259909155
     ],
     "wof:country":"GB",
-    "wof:geomhash":"38ca8dedb969ab888f3449efa55ceda9",
+    "wof:geomhash":"79d99033d753073180820b0b114e7163",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404451285,
     "wof:label":"Boxted Civil Parish",
-    "wof:lastmodified":1566633503,
+    "wof:lastmodified":1695877683,
     "wof:name":"Boxted",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

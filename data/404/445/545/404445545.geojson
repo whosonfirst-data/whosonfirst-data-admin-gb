@@ -10,12 +10,18 @@
     "geom:latitude":50.711464,
     "geom:longitude":-2.594476,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.709715,
     "lbl:longitude":-2.597113,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kingston Russell"
@@ -42,12 +48,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003550"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126040125
     ],
     "wof:country":"GB",
-    "wof:geomhash":"05a0a60e70773faabecdf3095c92e341",
+    "wof:geomhash":"dd34ca3f0a1a7e95c79edebe3675442c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404445545,
     "wof:label":"Kingston Russell Civil Parish",
-    "wof:lastmodified":1566633360,
+    "wof:lastmodified":1695877622,
     "wof:name":"Kingston Russell",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

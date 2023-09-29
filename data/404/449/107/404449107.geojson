@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003706,
-    "geom:area_square_m":28929064.906579,
+    "geom:area_square_m":28929064.906578,
     "geom:bbox":"-3.79763427324,50.8237119965,-3.6898458916,50.8812809495",
     "geom:latitude":50.852466,
     "geom:longitude":-3.746226,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.853816,
     "lbl:longitude":-3.747253,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Morchard Bishop"
@@ -66,12 +72,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003038"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868317
     ],
     "wof:country":"GB",
-    "wof:geomhash":"62deab077b13dcd2b6403f23a31aed90",
+    "wof:geomhash":"311ca9ba8adb04492750607b4dba2a7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404449107,
     "wof:label":"Morchard Bishop Civil Parish",
-    "wof:lastmodified":1566631406,
+    "wof:lastmodified":1695878341,
     "wof:name":"Morchard Bishop",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

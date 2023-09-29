@@ -10,12 +10,18 @@
     "geom:latitude":51.92615,
     "geom:longitude":-2.119063,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.925861,
     "lbl:longitude":-2.114809,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uckington"
@@ -45,12 +51,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004431"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276687805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0c5aa8330a59ed4bc99912b7ba986a10",
+    "wof:geomhash":"97b14d219961e85a4bde1965e68349ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404432385,
     "wof:label":"Uckington Civil Parish",
-    "wof:lastmodified":1566633913,
+    "wof:lastmodified":1695877856,
     "wof:name":"Uckington",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.647389,
     "geom:longitude":-0.261993,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.649435,
     "lbl:longitude":-0.25826,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Killingholme"
@@ -57,12 +63,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000572"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802587
     ],
     "wof:country":"GB",
-    "wof:geomhash":"933668a8908a57d79fecd77a86e170d8",
+    "wof:geomhash":"288d3dd219491e8b264d785a72b7c9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453927,
     "wof:label":"North Killingholme Civil Parish",
-    "wof:lastmodified":1566632848,
+    "wof:lastmodified":1695877394,
     "wof:name":"North Killingholme",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.063723,
     "geom:longitude":0.696686,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.062148,
     "lbl:longitude":0.696679,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0646\u062a\u0631\u062f\u0646"
@@ -78,12 +84,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004860"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854661
     ],
     "wof:country":"GB",
-    "wof:geomhash":"982bc2d77af4186039059b9e185a4aeb",
+    "wof:geomhash":"9f11ded63b649d30f4acb4489b24417d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404450133,
     "wof:label":"Tenterden Civil Parish",
-    "wof:lastmodified":1566633751,
+    "wof:lastmodified":1695877797,
     "wof:name":"Tenterden",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

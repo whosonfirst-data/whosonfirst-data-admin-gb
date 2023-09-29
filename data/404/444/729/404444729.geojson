@@ -10,12 +10,18 @@
     "geom:latitude":50.695188,
     "geom:longitude":-2.372684,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.694958,
     "lbl:longitude":-2.366681,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West Knighton"
@@ -40,12 +46,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003615"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758997
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9791e1345ce5b4b44c46ddfd61c3ae82",
+    "wof:geomhash":"811c56516f154d0530cf206926a82e83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404444729,
     "wof:label":"West Knighton Civil Parish",
-    "wof:lastmodified":1566632982,
+    "wof:lastmodified":1695877449,
     "wof:name":"West Knighton",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

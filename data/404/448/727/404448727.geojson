@@ -10,12 +10,18 @@
     "geom:latitude":50.528537,
     "geom:longitude":-4.075608,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.525265,
     "lbl:longitude":-4.077235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sampford Spiney"
@@ -54,12 +60,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003346"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125995101
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c934c847d278b3ad117dab903816b502",
+    "wof:geomhash":"fed5e4e98ff463fe46083b118e17aa4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448727,
     "wof:label":"Sampford Spiney Civil Parish",
-    "wof:lastmodified":1566631572,
+    "wof:lastmodified":1695876845,
     "wof:name":"Sampford Spiney",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

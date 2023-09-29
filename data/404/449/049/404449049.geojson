@@ -10,12 +10,18 @@
     "geom:latitude":54.637164,
     "geom:longitude":-1.244316,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.634576,
     "lbl:longitude":-1.244633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Greatham"
@@ -51,12 +57,15 @@
         1360698981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000257"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126052813
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d2c1dc9aaec2a570efcc9ead601d0808",
+    "wof:geomhash":"50ed4074e6c285590b2d9073c4168262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404449049,
     "wof:label":"Greatham Civil Parish",
-    "wof:lastmodified":1566631373,
+    "wof:lastmodified":1695878326,
     "wof:name":"Greatham",
     "wof:parent_id":1360698981,
     "wof:placetype":"localadmin",

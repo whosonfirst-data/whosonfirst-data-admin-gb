@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01438,
-    "geom:area_square_m":103263029.800884,
+    "geom:area_square_m":103263029.800883,
     "geom:bbox":"-2.86726348155,54.4320459616,-2.62999397639,54.5612754493",
     "geom:latitude":54.498009,
     "geom:longitude":-2.733281,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.494011,
     "lbl:longitude":-2.737078,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shap Rural"
@@ -52,12 +58,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002569"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755969
     ],
     "wof:country":"GB",
-    "wof:geomhash":"18f9024416f7415b9a67002a1507c287",
+    "wof:geomhash":"300bef14ca805ca141c4e011ae667eb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404431453,
     "wof:label":"Shap Rural Civil Parish",
-    "wof:lastmodified":1566632466,
+    "wof:lastmodified":1695877216,
     "wof:name":"Shap Rural",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

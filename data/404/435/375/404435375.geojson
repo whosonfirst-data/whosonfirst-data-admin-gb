@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001858,
-    "geom:area_square_m":14359604.078239,
+    "geom:area_square_m":14359604.078238,
     "geom:bbox":"-2.41605970941,51.2969167737,-2.34067845218,51.3447049715",
     "geom:latitude":51.321145,
     "geom:longitude":-2.375656,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.31932,
     "lbl:longitude":-2.37509,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wellow"
@@ -63,12 +69,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000996"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360020821
     ],
     "wof:country":"GB",
-    "wof:geomhash":"59d7bb6363729ca93a6c9370c24d1c97",
+    "wof:geomhash":"d35a5b421ddde99d1a66bedf74664a0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404435375,
     "wof:label":"Wellow Civil Parish",
-    "wof:lastmodified":1566634086,
+    "wof:lastmodified":1695877944,
     "wof:name":"Wellow",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

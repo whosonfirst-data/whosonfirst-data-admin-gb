@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001807,
-    "geom:area_square_m":13458077.988847,
+    "geom:area_square_m":13458077.988849,
     "geom:bbox":"0.908961844965,52.929395383,0.968364702942,52.9830116634",
     "geom:latitude":52.956771,
     "geom:longitude":0.935728,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.958029,
     "lbl:longitude":0.93618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stiffkey"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006476"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125995199
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3b7e966187bd0dd24877fd74582d8a05",
+    "wof:geomhash":"20a9683b42ddb995cf74f858af9d233d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404453099,
     "wof:label":"Stiffkey Civil Parish",
-    "wof:lastmodified":1566632782,
+    "wof:lastmodified":1695877366,
     "wof:name":"Stiffkey",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

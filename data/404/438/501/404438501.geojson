@@ -10,12 +10,18 @@
     "geom:latitude":54.188878,
     "geom:longitude":-2.903368,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.188407,
     "lbl:longitude":-2.902804,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grange-Over-Sands"
@@ -42,12 +48,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002607"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873395
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9d039b5fa25cb1aa024d91d9bb8f3bf1",
+    "wof:geomhash":"f7e98b79a55351f6ef9912473a7ae7e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404438501,
     "wof:label":"Grange-Over-Sands Civil Parish",
-    "wof:lastmodified":1566632591,
+    "wof:lastmodified":1695877272,
     "wof:name":"Grange-Over-Sands",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

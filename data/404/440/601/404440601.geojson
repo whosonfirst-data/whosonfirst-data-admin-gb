@@ -10,12 +10,18 @@
     "geom:latitude":53.755327,
     "geom:longitude":-2.639897,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.756654,
     "lbl:longitude":-2.639894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cuerdale"
@@ -55,12 +61,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005292"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756351
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e1b1404bac298683a1c79622fddd1282",
+    "wof:geomhash":"491f3ebae0c8371e00b6d759816645fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404440601,
     "wof:label":"Cuerdale Civil Parish",
-    "wof:lastmodified":1566631212,
+    "wof:lastmodified":1695878255,
     "wof:name":"Cuerdale",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

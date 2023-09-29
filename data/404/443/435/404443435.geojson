@@ -10,12 +10,18 @@
     "geom:latitude":53.151509,
     "geom:longitude":-0.931653,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.154758,
     "lbl:longitude":-0.932964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kersall"
@@ -42,12 +48,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007917"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259818933
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d647b6670bb94e85702c85db9402de88",
+    "wof:geomhash":"d5df7b270fd9624a4f239efd901e2e76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404443435,
     "wof:label":"Kersall Civil Parish",
-    "wof:lastmodified":1566633074,
+    "wof:lastmodified":1695877493,
     "wof:name":"Kersall",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000918,
-    "geom:area_square_m":7088745.357498,
+    "geom:area_square_m":7088745.357499,
     "geom:bbox":"0.655444926225,51.3612945949,0.706175761605,51.3968442481",
     "geom:latitude":51.378727,
     "geom:longitude":0.683075,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.378732,
     "lbl:longitude":0.684788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lower Halstow"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005059"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880549
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7a58c39a3bc49d1936d781ec30f6b6e1",
+    "wof:geomhash":"1022c075e066435e99737a1feab4a420",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404438273,
     "wof:label":"Lower Halstow Civil Parish",
-    "wof:lastmodified":1566632552,
+    "wof:lastmodified":1695877256,
     "wof:name":"Lower Halstow",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

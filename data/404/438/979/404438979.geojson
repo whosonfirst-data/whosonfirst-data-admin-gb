@@ -10,12 +10,18 @@
     "geom:latitude":51.726443,
     "geom:longitude":-5.137404,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.726713,
     "lbl:longitude":-5.145489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Ishmael's Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000469"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878705
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d88a6cad87e066d871980ae82eeb87ff",
+    "wof:geomhash":"18b8c907ac9af0ad0f8c5e353e57b2a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438979,
-    "wof:lastmodified":1566632577,
+    "wof:lastmodified":1695877267,
     "wof:name":"St. Ishmael's Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

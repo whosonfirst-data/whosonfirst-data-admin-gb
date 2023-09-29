@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006768,
-    "geom:area_square_m":47239895.897084,
+    "geom:area_square_m":47239895.897085,
     "geom:bbox":"-2.21359873865,55.5878643554,-2.02543115943,55.6661037044",
     "geom:latitude":55.632403,
     "geom:longitude":-2.106289,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.637396,
     "lbl:longitude":-2.104851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ford"
@@ -42,12 +48,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010785"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126054941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc11b91b8d3ff5443159eeb31cdf99f0",
+    "wof:geomhash":"fcb07b3ebc7c5dc150f4e7ad92f571e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404450749,
     "wof:label":"Ford Civil Parish",
-    "wof:lastmodified":1566633787,
+    "wof:lastmodified":1695877812,
     "wof:name":"Ford",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

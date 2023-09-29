@@ -10,12 +10,18 @@
     "geom:latitude":51.230371,
     "geom:longitude":-2.318308,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.230123,
     "lbl:longitude":-2.318801,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Fr\u014dm"
@@ -117,12 +123,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008560"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852533
     ],
     "wof:country":"GB",
-    "wof:geomhash":"11cf283ad1a079c44b18416d75b2754e",
+    "wof:geomhash":"8791360961e0cd8c7cda4cf397bda07b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +144,7 @@
     ],
     "wof:id":404446789,
     "wof:label":"Frome Civil Parish",
-    "wof:lastmodified":1566631708,
+    "wof:lastmodified":1695876889,
     "wof:name":"Frome",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

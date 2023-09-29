@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001967,
-    "geom:area_square_m":14452304.844261,
+    "geom:area_square_m":14452304.844262,
     "geom:bbox":"-0.579911581753,53.519327389,-0.490880121607,53.5510993986",
     "geom:latitude":53.534613,
     "geom:longitude":-0.538223,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.534183,
     "lbl:longitude":-0.538215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Scawby"
@@ -63,12 +69,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000577"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874143
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c696cf8a9052f4860e3a7e539a474782",
+    "wof:geomhash":"3fcd6f3e44f85e5519590254ed23d3aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404438349,
     "wof:label":"Scawby Civil Parish",
-    "wof:lastmodified":1566632585,
+    "wof:lastmodified":1695877270,
     "wof:name":"Scawby",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

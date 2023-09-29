@@ -10,12 +10,18 @@
     "geom:latitude":54.125117,
     "geom:longitude":-1.677204,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.125079,
     "lbl:longitude":-1.677205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skelding"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007416"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753819
     ],
     "wof:country":"GB",
-    "wof:geomhash":"74a9e863e9ecef5a72390a553fa30b06",
+    "wof:geomhash":"7d5611bbccfa456a8309b9dc0ed09c59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404449559,
     "wof:label":"Skelding Civil Parish",
-    "wof:lastmodified":1566631356,
+    "wof:lastmodified":1695878319,
     "wof:name":"Skelding",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

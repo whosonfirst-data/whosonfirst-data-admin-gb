@@ -10,12 +10,18 @@
     "geom:latitude":51.279823,
     "geom:longitude":0.015673,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.274474,
     "lbl:longitude":0.02294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Titsey"
@@ -51,12 +57,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009595"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881849
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1294a788750d1b815df1f534b0bd4df6",
+    "wof:geomhash":"0802b0151af2c0403596906efb0edc39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404439347,
     "wof:label":"Titsey Civil Parish",
-    "wof:lastmodified":1566631879,
+    "wof:lastmodified":1695876964,
     "wof:name":"Titsey",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

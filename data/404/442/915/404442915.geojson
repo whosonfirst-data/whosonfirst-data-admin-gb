@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002627,
-    "geom:area_square_m":19348458.761976,
+    "geom:area_square_m":19348458.761975,
     "geom:bbox":"-2.8916136688,53.4246311272,-2.79513210079,53.4672384336",
     "geom:latitude":53.447831,
     "geom:longitude":-2.838749,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.446221,
     "lbl:longitude":-2.837835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Knowsley"
@@ -60,12 +66,15 @@
         1360698941
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000018"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126015409
     ],
     "wof:country":"GB",
-    "wof:geomhash":"54286e284d83f20e2badb5b222e9701f",
+    "wof:geomhash":"a2bcee57bf92a37bb8e341d140538cae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404442915,
     "wof:label":"Knowsley Civil Parish",
-    "wof:lastmodified":1566633239,
+    "wof:lastmodified":1695877569,
     "wof:name":"Knowsley",
     "wof:parent_id":1360698941,
     "wof:placetype":"localadmin",

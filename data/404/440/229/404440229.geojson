@@ -10,12 +10,18 @@
     "geom:latitude":50.880205,
     "geom:longitude":0.41822,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.880068,
     "lbl:longitude":0.423525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ninfield"
@@ -69,12 +75,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003858"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276480303
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5aca774c11190a0d04a9f9a21e56100f",
+    "wof:geomhash":"12b97bd3244e12389fe15ac68258f6a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404440229,
     "wof:label":"Ninfield Civil Parish",
-    "wof:lastmodified":1566631137,
+    "wof:lastmodified":1695878219,
     "wof:name":"Ninfield",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

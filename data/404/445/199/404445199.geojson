@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000384,
-    "geom:area_square_m":2840547.977627,
+    "geom:area_square_m":2840547.977626,
     "geom:bbox":"0.0662474343656,53.2771239756,0.112662354734,53.300486536",
     "geom:latitude":53.288811,
     "geom:longitude":0.092946,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.29425,
     "lbl:longitude":0.08908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Belleau"
@@ -87,12 +93,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005600"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125918571
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5c57e9b09af877f98be6de5aba5d1030",
+    "wof:geomhash":"e03fb640922815cf7ff86141417d4b72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404445199,
     "wof:label":"Belleau Civil Parish",
-    "wof:lastmodified":1566633374,
+    "wof:lastmodified":1695877627,
     "wof:name":"Belleau",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

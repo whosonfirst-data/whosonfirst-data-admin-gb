@@ -10,12 +10,18 @@
     "geom:latitude":51.223606,
     "geom:longitude":-2.385555,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.222168,
     "lbl:longitude":-2.385005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whatley"
@@ -49,12 +55,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008599"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759105
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7aca75c77cad3b235c97c512f9ff6fa3",
+    "wof:geomhash":"e6e34a95a3ded99cf262a038f329cc7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404444939,
     "wof:label":"Whatley Civil Parish",
-    "wof:lastmodified":1566632869,
+    "wof:lastmodified":1695877404,
     "wof:name":"Whatley",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.252887,
     "geom:longitude":-0.479883,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.252918,
     "lbl:longitude":-0.477138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Riseley"
@@ -48,12 +54,15 @@
         1360699073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011908"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059937
     ],
     "wof:country":"GB",
-    "wof:geomhash":"94c1b96ee0e1c801464eb26a23b1b005",
+    "wof:geomhash":"17f203ef64a00a555930b29416eee6c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404438323,
     "wof:label":"Riseley Civil Parish",
-    "wof:lastmodified":1566632580,
+    "wof:lastmodified":1695877268,
     "wof:name":"Riseley",
     "wof:parent_id":1360699073,
     "wof:placetype":"localadmin",

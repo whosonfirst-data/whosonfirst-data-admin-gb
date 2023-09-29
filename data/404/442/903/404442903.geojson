@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006845,
-    "geom:area_square_m":48969626.847324,
+    "geom:area_square_m":48969626.847323,
     "geom:bbox":"-1.48975636796,54.6100068201,-1.33086978263,54.6923810201",
     "geom:latitude":54.653191,
     "geom:longitude":-1.410708,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.642159,
     "lbl:longitude":-1.429333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sedgefield"
@@ -75,12 +81,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010687"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5e4532f114f60118ce2e7de137ac5ea",
+    "wof:geomhash":"7a796cbf3785c5ee723a9413ffc4537d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404442903,
     "wof:label":"Sedgefield Civil Parish",
-    "wof:lastmodified":1566633256,
+    "wof:lastmodified":1695877576,
     "wof:name":"Sedgefield",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

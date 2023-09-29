@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
-    "geom:area_square_m":3756021.906868,
+    "geom:area_square_m":3756021.906867,
     "geom:bbox":"-2.0572241209,52.6506253022,-2.02091212776,52.6760485796",
     "geom:latitude":52.663341,
     "geom:longitude":-2.03876,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.663496,
     "lbl:longitude":-2.041791,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cheslyn Hay"
@@ -57,12 +63,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008959"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125980231
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cbb71243ed27b2ae7a449652f58fefce",
+    "wof:geomhash":"02d1087db3e5619b4e0a0a6e168d2401",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447089,
     "wof:label":"Cheslyn Hay Civil Parish",
-    "wof:lastmodified":1566631303,
+    "wof:lastmodified":1695878297,
     "wof:name":"Cheslyn Hay",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

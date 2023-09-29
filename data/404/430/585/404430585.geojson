@@ -10,12 +10,18 @@
     "geom:latitude":53.090639,
     "geom:longitude":-0.166319,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.093191,
     "lbl:longitude":-0.17191,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coningsby"
@@ -63,12 +69,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005619"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874099
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ac74e79defc29786f79b13210cac1611",
+    "wof:geomhash":"8378dd2d4ee8e091805f353742712413",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430585,
     "wof:label":"Coningsby Civil Parish",
-    "wof:lastmodified":1566632035,
+    "wof:lastmodified":1695877031,
     "wof:name":"Coningsby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

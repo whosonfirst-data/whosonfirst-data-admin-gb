@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001414,
-    "geom:area_square_m":10655450.073773,
+    "geom:area_square_m":10655450.073774,
     "geom:bbox":"1.40943264894,52.424543464,1.46777267893,52.4711691652",
     "geom:latitude":52.445146,
     "geom:longitude":1.437928,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.442352,
     "lbl:longitude":1.448099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0646\u0642\u06cc"
@@ -93,12 +99,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009490"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854853
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e685043a83ae1f6186a627629e485798",
+    "wof:geomhash":"fb8be20054a752191a8cc64536b7c6e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404450683,
     "wof:label":"Bungay Civil Parish",
-    "wof:lastmodified":1566633819,
+    "wof:lastmodified":1695877825,
     "wof:name":"Bungay",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

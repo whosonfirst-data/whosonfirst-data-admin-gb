@@ -10,12 +10,18 @@
     "geom:latitude":52.068277,
     "geom:longitude":0.674412,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.071301,
     "lbl:longitude":0.671816,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Foxearth"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003898"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126000151
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a1ed7636bc6d38f3019e7fecb67cb1dd",
+    "wof:geomhash":"e8b94304db5eb881d6cd5ed269a9d49c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404438847,
     "wof:label":"Foxearth Civil Parish",
-    "wof:lastmodified":1566632609,
+    "wof:lastmodified":1695877281,
     "wof:name":"Foxearth",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000877,
-    "geom:area_square_m":6638655.806816,
+    "geom:area_square_m":6638655.806815,
     "geom:bbox":"0.171001579395,52.2197622902,0.220620552036,52.2698653947",
     "geom:latitude":52.243901,
     "geom:longitude":0.196605,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.249017,
     "lbl:longitude":0.198305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0646\u064a\u0646\u063a\u0633\u064a"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001807"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125840239
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6eaf29252539ba2ed7e51f8eaa73753a",
+    "wof:geomhash":"dd38b8fa119b9ec562b409bad1732fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404437325,
     "wof:label":"Horningsea Civil Parish",
-    "wof:lastmodified":1566632102,
+    "wof:lastmodified":1695877060,
     "wof:name":"Horningsea",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.837167,
     "geom:longitude":0.753684,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.839035,
     "lbl:longitude":0.755758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tattersett"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006484"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910039
     ],
     "wof:country":"GB",
-    "wof:geomhash":"83e2c51a5eb460cb1739d9443db79aea",
+    "wof:geomhash":"145b4a89bb99ae262ddb672d82334399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430149,
     "wof:label":"Tattersett Civil Parish",
-    "wof:lastmodified":1566632045,
+    "wof:lastmodified":1695877035,
     "wof:name":"Tattersett",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

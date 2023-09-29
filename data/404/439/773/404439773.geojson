@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001322,
-    "geom:area_square_m":10128700.866281,
+    "geom:area_square_m":10128700.866282,
     "geom:bbox":"-1.45931296058,51.6763359206,-1.40224832493,51.7132543304",
     "geom:latitude":51.696848,
     "geom:longitude":-1.430057,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.695875,
     "lbl:longitude":-1.430063,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longworth"
@@ -63,12 +69,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012132"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125978205
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bf95c03f6d0b86a07bfebc85c28639cb",
+    "wof:geomhash":"f3bf5204eb862544071090768044092c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439773,
     "wof:label":"Longworth Civil Parish",
-    "wof:lastmodified":1566631926,
+    "wof:lastmodified":1695876987,
     "wof:name":"Longworth",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

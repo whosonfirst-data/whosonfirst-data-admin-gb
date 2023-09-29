@@ -10,12 +10,18 @@
     "geom:latitude":52.757539,
     "geom:longitude":-1.586574,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.75594,
     "lbl:longitude":-1.586572,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Castle Gresley"
@@ -60,12 +66,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002893"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126016675
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b6bc3450ac84390fd940885fbd4e05aa",
+    "wof:geomhash":"333c03868998c10d2d7be086efe406f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404446377,
     "wof:label":"Castle Gresley Civil Parish",
-    "wof:lastmodified":1566631640,
+    "wof:lastmodified":1695876864,
     "wof:name":"Castle Gresley",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

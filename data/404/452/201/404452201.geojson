@@ -10,12 +10,18 @@
     "geom:latitude":52.188204,
     "geom:longitude":-0.005881,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.186783,
     "lbl:longitude":-0.005879,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Toft"
@@ -63,12 +69,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001847"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125894917
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7d05b16ee4d42ca9dac93168431ebd90",
+    "wof:geomhash":"87003cbff0d12d2814631c8e8113e495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404452201,
     "wof:label":"Toft Civil Parish",
-    "wof:lastmodified":1566632250,
+    "wof:lastmodified":1695877120,
     "wof:name":"Toft",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

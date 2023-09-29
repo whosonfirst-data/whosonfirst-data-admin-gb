@@ -10,12 +10,18 @@
     "geom:latitude":50.799992,
     "geom:longitude":-4.304625,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.800045,
     "lbl:longitude":-4.306309,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hollacombe"
@@ -54,12 +60,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003267"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976999
     ],
     "wof:country":"GB",
-    "wof:geomhash":"245605f1259650bf689798ce5e8140b7",
+    "wof:geomhash":"6aecc91dbaa6f26f232868636f4554c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404442685,
     "wof:label":"Hollacombe Civil Parish",
-    "wof:lastmodified":1566633268,
+    "wof:lastmodified":1695877581,
     "wof:name":"Hollacombe",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

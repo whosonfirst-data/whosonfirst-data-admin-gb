@@ -10,12 +10,18 @@
     "geom:latitude":51.099668,
     "geom:longitude":0.028461,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.090297,
     "lbl:longitude":0.033096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Forest Row"
@@ -69,12 +75,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003841"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854595
     ],
     "wof:country":"GB",
-    "wof:geomhash":"09141c7b7b637e7850e758187235903e",
+    "wof:geomhash":"b0324710909a8dc1cf25f5b23de3aae5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404430603,
     "wof:label":"Forest Row Civil Parish",
-    "wof:lastmodified":1566631971,
+    "wof:lastmodified":1695877004,
     "wof:name":"Forest Row",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.91808,
     "geom:longitude":-2.751377,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.917125,
     "lbl:longitude":-2.751753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "West and Middle Chinnock"
@@ -43,12 +49,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008765"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755953
     ],
     "wof:country":"GB",
-    "wof:geomhash":"84955f6b651053c6c783d1b4b7244360",
+    "wof:geomhash":"ef557fe0e98c61178e273d10d47e7c64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404450947,
     "wof:label":"West and Middle Chinnock Civil Parish",
-    "wof:lastmodified":1566633788,
+    "wof:lastmodified":1695877813,
     "wof:name":"West and Middle Chinnock",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

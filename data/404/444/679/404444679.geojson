@@ -10,12 +10,18 @@
     "geom:latitude":53.096052,
     "geom:longitude":0.111353,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.095502,
     "lbl:longitude":0.111755,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eastville"
@@ -63,12 +69,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005630"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243583113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eb038529ef76ecd90c7a0a198dcea508",
+    "wof:geomhash":"91985d5863c0e569f112c2b1d3729e1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404444679,
     "wof:label":"Eastville Civil Parish",
-    "wof:lastmodified":1566632954,
+    "wof:lastmodified":1695877436,
     "wof:name":"Eastville",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

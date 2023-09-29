@@ -10,12 +10,18 @@
     "geom:latitude":52.18708,
     "geom:longitude":0.850331,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.187815,
     "lbl:longitude":0.850333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gedding"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009202"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030125
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aed2643885edfc792600357bed4ea5fa",
+    "wof:geomhash":"f8129db7fd67da96cd5f840f9a5b626f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404442355,
     "wof:label":"Gedding Civil Parish",
-    "wof:lastmodified":1566633205,
+    "wof:lastmodified":1695877552,
     "wof:name":"Gedding",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

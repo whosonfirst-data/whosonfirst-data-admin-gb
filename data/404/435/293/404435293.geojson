@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001836,
-    "geom:area_square_m":13776311.845238,
+    "geom:area_square_m":13776311.845237,
     "geom:bbox":"-1.32320715338,52.6089544382,-1.24076102029,52.6525738268",
     "geom:latitude":52.631357,
     "geom:longitude":-1.285391,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.631617,
     "lbl:longitude":-1.288824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Desford"
@@ -60,12 +66,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005496"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853617
     ],
     "wof:country":"GB",
-    "wof:geomhash":"43734b795061a3072d629adf675fb1ca",
+    "wof:geomhash":"08d041c26d1f5147eb4ac736a727b6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404435293,
     "wof:label":"Desford Civil Parish",
-    "wof:lastmodified":1566634015,
+    "wof:lastmodified":1695877904,
     "wof:name":"Desford",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

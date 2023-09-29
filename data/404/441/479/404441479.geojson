@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001084,
-    "geom:area_square_m":8472888.249575,
+    "geom:area_square_m":8472888.249576,
     "geom:bbox":"0.0448619427821,50.7903160001,0.111573826731,50.8219381799",
     "geom:latitude":50.808253,
     "geom:longitude":0.083017,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.80872,
     "lbl:longitude":0.088084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Heighton"
@@ -58,12 +64,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003788"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101875393
     ],
     "wof:country":"GB",
-    "wof:geomhash":"867d3ece5f0b34eef55518407d3c34bd",
+    "wof:geomhash":"bb0be080c2d029551d38de6c697669b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404441479,
     "wof:label":"South Heighton Civil Parish",
-    "wof:lastmodified":1566631738,
+    "wof:lastmodified":1695876900,
     "wof:name":"South Heighton",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

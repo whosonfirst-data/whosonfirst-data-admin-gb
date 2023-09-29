@@ -10,12 +10,18 @@
     "geom:latitude":51.730442,
     "geom:longitude":-2.21876,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.730605,
     "lbl:longitude":-2.218414,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rodborough"
@@ -54,12 +60,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004375"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126004113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a604db914a16fb54c477405b1f8a3b14",
+    "wof:geomhash":"d8e4c0ddbed856f10f98443d0086ff9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404452347,
     "wof:label":"Rodborough Civil Parish",
-    "wof:lastmodified":1566632212,
+    "wof:lastmodified":1695877104,
     "wof:name":"Rodborough",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000667,
-    "geom:area_square_m":4884663.199642,
+    "geom:area_square_m":4884663.199641,
     "geom:bbox":"-1.0850003828,53.6810334123,-1.04072100483,53.7068554398",
     "geom:latitude":53.692901,
     "geom:longitude":-1.063356,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.693537,
     "lbl:longitude":-1.064868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gowdall"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000403"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125840083
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3ff24ccb9eab3d580b4c4267bd186abe",
+    "wof:geomhash":"2c5440b114a52053d96802de437e35c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404445783,
     "wof:label":"Gowdall Civil Parish",
-    "wof:lastmodified":1566633359,
+    "wof:lastmodified":1695877622,
     "wof:name":"Gowdall",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001888,
-    "geom:area_square_m":14951358.204976,
+    "geom:area_square_m":14951358.204977,
     "geom:bbox":"-5.01832002785,50.1389777882,-4.95095323219,50.2109698814",
     "geom:latitude":50.179144,
     "geom:longitude":-4.985437,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.186701,
     "lbl:longitude":-4.98492,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0646\u0633"
@@ -72,12 +78,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011438"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125862249
     ],
     "wof:country":"GB",
-    "wof:geomhash":"12dabab129f1ea25deb2fbaa358a1f05",
+    "wof:geomhash":"885a63ba1f064cef259a3d0dd871c377",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404430757,
     "wof:label":"Gerrans Civil Parish",
-    "wof:lastmodified":1566632005,
+    "wof:lastmodified":1695877017,
     "wof:name":"Gerrans",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

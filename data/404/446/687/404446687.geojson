@@ -10,12 +10,18 @@
     "geom:latitude":51.642303,
     "geom:longitude":-3.937743,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.641622,
     "lbl:longitude":-3.938537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Landore Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000966"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259410307
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7d8e056e050c50b18de74b041f396182",
+    "wof:geomhash":"2d07d3872ebf70175149ec81c5be09c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404446687,
-    "wof:lastmodified":1566631621,
+    "wof:lastmodified":1695876856,
     "wof:name":"Landore Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

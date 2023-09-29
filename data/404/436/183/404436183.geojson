@@ -10,12 +10,18 @@
     "geom:latitude":51.659339,
     "geom:longitude":-2.371471,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.654921,
     "lbl:longitude":-2.382941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Nibley"
@@ -66,12 +72,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004369"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929293
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bb886c84bbf692e58c6611f85a799fe4",
+    "wof:geomhash":"f4172892f4230b2d2682f493e2c51412",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404436183,
     "wof:label":"North Nibley Civil Parish",
-    "wof:lastmodified":1566632419,
+    "wof:lastmodified":1695877195,
     "wof:name":"North Nibley",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

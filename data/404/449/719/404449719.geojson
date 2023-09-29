@@ -10,12 +10,18 @@
     "geom:latitude":51.041271,
     "geom:longitude":-2.928553,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.042722,
     "lbl:longitude":-2.929118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stoke St. Gregory"
@@ -42,12 +48,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008814"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125785407
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c19bc1e6c66f86bbe391a3833d4bea93",
+    "wof:geomhash":"8f3844f350b7f7e4da582afbdaeddddc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404449719,
     "wof:label":"Stoke St. Gregory Civil Parish",
-    "wof:lastmodified":1566631448,
+    "wof:lastmodified":1695876791,
     "wof:name":"Stoke St. Gregory",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

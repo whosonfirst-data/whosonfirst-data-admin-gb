@@ -10,12 +10,18 @@
     "geom:latitude":53.118499,
     "geom:longitude":-2.867109,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.120694,
     "lbl:longitude":-2.869905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0641\u0631\u062f"
@@ -69,12 +75,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011035"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225873967
     ],
     "wof:country":"GB",
-    "wof:geomhash":"886a9ff887153fd5a6594b8d68c290e2",
+    "wof:geomhash":"427324635de2d6e0645a3f48c8ab056c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404437317,
     "wof:label":"Aldford Civil Parish",
-    "wof:lastmodified":1566632156,
+    "wof:lastmodified":1695877081,
     "wof:name":"Aldford",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

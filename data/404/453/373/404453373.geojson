@@ -10,12 +10,18 @@
     "geom:latitude":52.326721,
     "geom:longitude":-0.556379,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.328363,
     "lbl:longitude":-0.560103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stanwick"
@@ -48,12 +54,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006763"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846607
     ],
     "wof:country":"GB",
-    "wof:geomhash":"95e91718004486cf0b5961652e137c37",
+    "wof:geomhash":"3987429e35953bf6f18f3637c18d5c63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404453373,
     "wof:label":"Stanwick Civil Parish",
-    "wof:lastmodified":1566632852,
+    "wof:lastmodified":1695877396,
     "wof:name":"Stanwick",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

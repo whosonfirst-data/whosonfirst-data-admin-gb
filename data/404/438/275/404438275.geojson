@@ -10,12 +10,18 @@
     "geom:latitude":54.418738,
     "geom:longitude":-0.553586,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.405467,
     "lbl:longitude":-0.566833,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fylingdales"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007674"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992201
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1c156f7b496d3238bfb99fb84fbc8493",
+    "wof:geomhash":"abeee141b9ec6d06dbac401c2873e036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404438275,
     "wof:label":"Fylingdales Civil Parish",
-    "wof:lastmodified":1566632562,
+    "wof:lastmodified":1695877260,
     "wof:name":"Fylingdales",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

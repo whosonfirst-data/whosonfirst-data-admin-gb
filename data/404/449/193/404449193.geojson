@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001025,
-    "geom:area_square_m":7678411.317475,
+    "geom:area_square_m":7678411.317474,
     "geom:bbox":"1.42518431777,52.7118277757,1.49021533301,52.7417085825",
     "geom:latitude":52.725864,
     "geom:longitude":1.460507,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.727025,
     "lbl:longitude":1.46099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Neatishead"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006452"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125960953
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6f01b8164ba7e5efc0c83f2522b07956",
+    "wof:geomhash":"0dc98090174dfc4d935a5bc45a4bb355",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404449193,
     "wof:label":"Neatishead Civil Parish",
-    "wof:lastmodified":1566631360,
+    "wof:lastmodified":1695878321,
     "wof:name":"Neatishead",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

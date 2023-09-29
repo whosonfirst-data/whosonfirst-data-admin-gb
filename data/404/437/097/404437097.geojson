@@ -10,12 +10,18 @@
     "geom:latitude":51.424195,
     "geom:longitude":0.283019,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.424346,
     "lbl:longitude":0.282738,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Boontjie"
@@ -168,12 +174,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004892"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126029959
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ca86f2183babd2a651a30f38205b8401",
+    "wof:geomhash":"bf101d40932e2adbefde36fccb0fa1fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +195,7 @@
     ],
     "wof:id":404437097,
     "wof:label":"Bean Civil Parish",
-    "wof:lastmodified":1566632087,
+    "wof:lastmodified":1695877052,
     "wof:name":"Bean",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

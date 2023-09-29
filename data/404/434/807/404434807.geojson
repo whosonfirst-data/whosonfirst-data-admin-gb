@@ -10,12 +10,18 @@
     "geom:latitude":50.653467,
     "geom:longitude":-1.310964,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.654937,
     "lbl:longitude":-1.313356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chillerton and Gatcombe"
@@ -43,12 +49,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001302"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756369
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b4d7054430cf2cfafcf02c8cc294b8fe",
+    "wof:geomhash":"60fdb80af61875f9d03fe8abf5b77f22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404434807,
     "wof:label":"Chillerton and Gatcombe Civil Parish",
-    "wof:lastmodified":1566633613,
+    "wof:lastmodified":1695877737,
     "wof:name":"Chillerton and Gatcombe",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

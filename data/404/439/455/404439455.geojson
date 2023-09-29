@@ -10,12 +10,18 @@
     "geom:latitude":51.134427,
     "geom:longitude":0.199576,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.135285,
     "lbl:longitude":0.207787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Speldhurst"
@@ -69,12 +75,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005130"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125905651
     ],
     "wof:country":"GB",
-    "wof:geomhash":"10ec215c9dc72450fa4dd9781f178071",
+    "wof:geomhash":"cd0af59a2b33f2ddae8951e0c12081a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404439455,
     "wof:label":"Speldhurst Civil Parish",
-    "wof:lastmodified":1566631863,
+    "wof:lastmodified":1695876956,
     "wof:name":"Speldhurst",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

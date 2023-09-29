@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0013,
-    "geom:area_square_m":9939908.430545,
+    "geom:area_square_m":9939908.430546,
     "geom:bbox":"0.110531407739,51.7883964435,0.173305889879,51.8435331532",
     "geom:latitude":51.813878,
     "geom:longitude":0.14342,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.807327,
     "lbl:longitude":0.141305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0648\u0628\u0631\u06cc\u062c\u200c\u0648\u0648\u0631\u062b"
@@ -84,12 +90,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004746"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853551
     ],
     "wof:country":"GB",
-    "wof:geomhash":"290671971d21a7b195ba11c07ea3c715",
+    "wof:geomhash":"ec3b960ee66557262fbf7fb73f90388a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404434667,
     "wof:label":"Sawbridgeworth Civil Parish",
-    "wof:lastmodified":1566633565,
+    "wof:lastmodified":1695877715,
     "wof:name":"Sawbridgeworth",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

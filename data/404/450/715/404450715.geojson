@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001868,
-    "geom:area_square_m":14747089.512687,
+    "geom:area_square_m":14747089.512685,
     "geom:bbox":"-5.10481198944,50.2921270165,-5.04299964879,50.344492708",
     "geom:latitude":50.318849,
     "geom:longitude":-5.069108,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.320055,
     "lbl:longitude":-5.066064,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Allen"
@@ -40,12 +46,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011527"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755589
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6f7d4798e1612df7aed273b67ab45625",
+    "wof:geomhash":"49da86e0369fa367cbc3714ff269a1aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404450715,
     "wof:label":"St. Allen Civil Parish",
-    "wof:lastmodified":1566633787,
+    "wof:lastmodified":1695877812,
     "wof:name":"St. Allen",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.106611,
     "geom:longitude":-1.113254,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.111055,
     "lbl:longitude":-1.10686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bighton"
@@ -57,12 +63,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004651"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125886677
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ef692ec03198557bf3d9e6191972de9a",
+    "wof:geomhash":"1afc8d44edc483371deb8fcd4565fda4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439729,
     "wof:label":"Bighton Civil Parish",
-    "wof:lastmodified":1566631931,
+    "wof:lastmodified":1695876988,
     "wof:name":"Bighton",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

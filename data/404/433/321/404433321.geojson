@@ -10,12 +10,18 @@
     "geom:latitude":54.268817,
     "geom:longitude":-2.790056,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.265901,
     "lbl:longitude":-2.790658,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u064a\u0646\u0633"
@@ -144,12 +150,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002624"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259718899
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3cc63f5b75a1d4d660fbe32b5d3a4ca7",
+    "wof:geomhash":"4a9822c2d151a26f4eb5a5c815737064",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,7 +171,7 @@
     ],
     "wof:id":404433321,
     "wof:label":"Levens Civil Parish",
-    "wof:lastmodified":1566633739,
+    "wof:lastmodified":1695877792,
     "wof:name":"Levens",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

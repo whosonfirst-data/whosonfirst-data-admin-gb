@@ -225,9 +225,11 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25345,
         "fips:code":"UKZ6",
+        "gbr-ons:gss_code":"12KC",
         "gn:id":7290535,
         "gp:id":-12602163,
         "hasc:id":"GB.CB",
+        "iso:code":"GB-CBF",
         "iso:id":"GB-CBF",
         "unlc:id":"GB-CBF",
         "wd:id":"Q1053723"
@@ -237,6 +239,10 @@
             25368
         ]
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GB",
     "wof:geomhash":"a459c65bf02ed0126f71427fd0d4d3d0",
     "wof:hierarchy":[
@@ -258,7 +264,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495384,
+    "wof:lastmodified":1695886278,
     "wof:name":"Central Bedfordshire",
     "wof:parent_id":1360698527,
     "wof:placetype":"county",

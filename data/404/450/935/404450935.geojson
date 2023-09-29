@@ -10,12 +10,18 @@
     "geom:latitude":51.480576,
     "geom:longitude":0.647115,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.480183,
     "lbl:longitude":0.643565,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Allhallows"
@@ -57,12 +63,15 @@
         1360699105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001129"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126021375
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a9049f2473bf94f5e9220193f49ef1d0",
+    "wof:geomhash":"7531c9fe79522241777f64be807d19a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404450935,
     "wof:label":"Allhallows Civil Parish",
-    "wof:lastmodified":1566633799,
+    "wof:lastmodified":1695877817,
     "wof:name":"Allhallows",
     "wof:parent_id":1360699105,
     "wof:placetype":"localadmin",

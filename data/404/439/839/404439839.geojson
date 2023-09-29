@@ -10,12 +10,18 @@
     "geom:latitude":52.007993,
     "geom:longitude":-2.656783,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.009896,
     "lbl:longitude":-2.659703,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Holme Lacy"
@@ -57,12 +63,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000774"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125975611
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d86772aef962471500e440401c5cff27",
+    "wof:geomhash":"38207477e09b72e49bf6d88cb2d81c28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439839,
     "wof:label":"Holme Lacy Civil Parish",
-    "wof:lastmodified":1566631915,
+    "wof:lastmodified":1695876982,
     "wof:name":"Holme Lacy",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

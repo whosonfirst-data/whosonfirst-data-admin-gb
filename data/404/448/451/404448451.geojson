@@ -10,12 +10,18 @@
     "geom:latitude":54.672429,
     "geom:longitude":-1.279702,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.672987,
     "lbl:longitude":-1.279276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dalton Piercy"
@@ -57,12 +63,15 @@
         1360698981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000255"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260213041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f0ba93095197298949718fb071bfb353",
+    "wof:geomhash":"77e95f930166d3b063c77bd755fc9294",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448451,
     "wof:label":"Dalton Piercy Civil Parish",
-    "wof:lastmodified":1566631549,
+    "wof:lastmodified":1695876835,
     "wof:name":"Dalton Piercy",
     "wof:parent_id":1360698981,
     "wof:placetype":"localadmin",

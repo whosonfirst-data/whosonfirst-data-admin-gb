@@ -10,12 +10,18 @@
     "geom:latitude":51.836213,
     "geom:longitude":0.578915,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.834731,
     "lbl:longitude":0.581813,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "White Notley"
@@ -57,12 +63,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003937"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209141237
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a0644d5b620ac38d498b7cf3531b2abb",
+    "wof:geomhash":"90533b4a707130bf0985150c586f7368",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404435951,
     "wof:label":"White Notley Civil Parish",
-    "wof:lastmodified":1566634045,
+    "wof:lastmodified":1695877922,
     "wof:name":"White Notley",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

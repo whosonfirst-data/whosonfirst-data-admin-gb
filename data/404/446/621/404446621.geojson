@@ -10,12 +10,18 @@
     "geom:latitude":51.562086,
     "geom:longitude":-0.556498,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.55997,
     "lbl:longitude":-0.556086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u0645\u0631"
@@ -72,12 +78,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001585"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910327
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1bfff6c011ca46b417ce4df4a989a3b8",
+    "wof:geomhash":"95c54980579a9ffc4d512d87f38fa4a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404446621,
     "wof:label":"Fulmer Civil Parish",
-    "wof:lastmodified":1566631616,
+    "wof:lastmodified":1695876854,
     "wof:name":"Fulmer",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

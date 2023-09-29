@@ -10,12 +10,18 @@
     "geom:latitude":51.037755,
     "geom:longitude":-3.12867,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.03685,
     "lbl:longitude":-3.127303,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Staplegrove"
@@ -42,12 +48,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008812"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125789131
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c9cf411973592cc945e363ea37cd4073",
+    "wof:geomhash":"e119055ee5231be506feebfa7c2dc0e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404446829,
     "wof:label":"Staplegrove Civil Parish",
-    "wof:lastmodified":1566631613,
+    "wof:lastmodified":1695876853,
     "wof:name":"Staplegrove",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

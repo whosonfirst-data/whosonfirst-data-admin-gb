@@ -10,12 +10,18 @@
     "geom:latitude":53.178551,
     "geom:longitude":0.075372,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.178757,
     "lbl:longitude":0.075373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hundleby"
@@ -52,12 +58,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005667"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758993
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e0f26ba3687b03bc42827896f1a9a9e0",
+    "wof:geomhash":"88da320f8cc65720b095e0a5da0fd311",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404444723,
     "wof:label":"Hundleby Civil Parish",
-    "wof:lastmodified":1566632921,
+    "wof:lastmodified":1695877422,
     "wof:name":"Hundleby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

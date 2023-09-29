@@ -10,12 +10,18 @@
     "geom:latitude":51.77756,
     "geom:longitude":-5.103114,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.789306,
     "lbl:longitude":-5.089506,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "the Havens Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000479"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711777
     ],
     "wof:country":"GB",
-    "wof:geomhash":"88123d84ed8b6d591e40f30f499ff473",
+    "wof:geomhash":"a9426e195345608f4cb06df15fa4ac1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404446439,
-    "wof:lastmodified":1566631627,
+    "wof:lastmodified":1695876859,
     "wof:name":"the Havens Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002325,
-    "geom:area_square_m":17590132.164598,
+    "geom:area_square_m":17590132.164597,
     "geom:bbox":"-1.61415447508,52.2568110155,-1.53482010647,52.3038585356",
     "geom:latitude":52.280132,
     "geom:longitude":-1.580466,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.284873,
     "lbl:longitude":-1.583659,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0631\u0643"
@@ -162,12 +168,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009840"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125994457
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9f8a72316b4b69fec89e79b392ea5820",
+    "wof:geomhash":"71c1e19bd075e3393158eebbe981cfa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +189,7 @@
     ],
     "wof:id":404441251,
     "wof:label":"Warwick Civil Parish",
-    "wof:lastmodified":1566631752,
+    "wof:lastmodified":1695876906,
     "wof:name":"Warwick",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

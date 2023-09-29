@@ -10,12 +10,18 @@
     "geom:latitude":52.450395,
     "geom:longitude":-3.541603,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.450213,
     "lbl:longitude":-3.541252,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanidloes Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000315"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853111
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0c532646465c95a434b20c9040b99c6e",
+    "wof:geomhash":"40a5cadc440ba6678697f29d6003abd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443369,
-    "wof:lastmodified":1566633043,
+    "wof:lastmodified":1695877480,
     "wof:name":"Llanidloes Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

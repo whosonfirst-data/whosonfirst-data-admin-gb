@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005723,
-    "geom:area_square_m":42367642.972232,
+    "geom:area_square_m":42367642.972231,
     "geom:bbox":"-3.66515564557,53.177743386,-3.5288377664,53.2716029688",
     "geom:latitude":53.224786,
     "geom:longitude":-3.601687,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.220072,
     "lbl:longitude":-3.606351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfair Talhaiarn Community"
@@ -40,12 +46,15 @@
         1360698739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000124"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126043549
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cae84d5d2e85b0316c190b2bd7d19132",
+    "wof:geomhash":"0bda0d782dd4630afe6fe4684455a5f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443411,
-    "wof:lastmodified":1566633057,
+    "wof:lastmodified":1695877486,
     "wof:name":"Llanfair Talhaiarn Community",
     "wof:parent_id":1360698739,
     "wof:placetype":"localadmin",

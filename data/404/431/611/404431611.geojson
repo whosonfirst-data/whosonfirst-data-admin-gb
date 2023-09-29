@@ -10,12 +10,18 @@
     "geom:latitude":52.212825,
     "geom:longitude":-0.459978,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.211691,
     "lbl:longitude":-0.462239,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0644\u064a"
@@ -72,12 +78,15 @@
         1360699073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011916"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998071
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72ae51f0ce3b963cc399d254ef765ab9",
+    "wof:geomhash":"1d6b45f59e79bc82e6cbe25c4a078b3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404431611,
     "wof:label":"Thurleigh Civil Parish",
-    "wof:lastmodified":1566632455,
+    "wof:lastmodified":1695877212,
     "wof:name":"Thurleigh",
     "wof:parent_id":1360699073,
     "wof:placetype":"localadmin",

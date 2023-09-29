@@ -10,12 +10,18 @@
     "geom:latitude":52.67087,
     "geom:longitude":-2.294376,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.669717,
     "lbl:longitude":-2.297408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tong"
@@ -78,12 +84,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011374"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125986023
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d1a9d51f77ba46293741128a7549fb52",
+    "wof:geomhash":"4ee1efb8752df75d723602c9eaf0d751",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404435377,
     "wof:label":"Tong Civil Parish",
-    "wof:lastmodified":1566634024,
+    "wof:lastmodified":1695877909,
     "wof:name":"Tong",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

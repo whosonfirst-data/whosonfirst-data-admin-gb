@@ -10,12 +10,18 @@
     "geom:latitude":54.288546,
     "geom:longitude":-0.643642,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.311602,
     "lbl:longitude":-0.633604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Allerston"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007544"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226471627
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a456bc5e1c2a1c0cc07214da83393507",
+    "wof:geomhash":"26ad425d4bc7f43c441f3a4a0acc9785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404448225,
     "wof:label":"Allerston Civil Parish",
-    "wof:lastmodified":1566631545,
+    "wof:lastmodified":1695876833,
     "wof:name":"Allerston",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001478,
-    "geom:area_square_m":11179880.786907,
+    "geom:area_square_m":11179880.786906,
     "geom:bbox":"1.44153650284,52.247511531,1.494943682,52.2997589522",
     "geom:latitude":52.274594,
     "geom:longitude":1.470071,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.275143,
     "lbl:longitude":1.470478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sibton"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009454"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125925921
     ],
     "wof:country":"GB",
-    "wof:geomhash":"19436f3b6a25a937c1d2f85a415dd15a",
+    "wof:geomhash":"c383d05dffe81006d7ba0d21c82da23f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404435497,
     "wof:label":"Sibton Civil Parish",
-    "wof:lastmodified":1566634010,
+    "wof:lastmodified":1695877902,
     "wof:name":"Sibton",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

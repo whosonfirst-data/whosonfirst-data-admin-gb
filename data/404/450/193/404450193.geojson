@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000791,
-    "geom:area_square_m":5872815.124629,
+    "geom:area_square_m":5872815.124628,
     "geom:bbox":"-2.69505967896,53.0682384308,-2.64157127908,53.0977000855",
     "geom:latitude":53.084063,
     "geom:longitude":-2.669948,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.084839,
     "lbl:longitude":-2.671755,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ridley"
@@ -79,12 +85,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010998"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754799
     ],
     "wof:country":"GB",
-    "wof:geomhash":"418b3b3158f87613085b17111250a19a",
+    "wof:geomhash":"604e65d8e78407003a093a55120ea4ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +106,7 @@
     ],
     "wof:id":404450193,
     "wof:label":"Ridley Civil Parish",
-    "wof:lastmodified":1566633753,
+    "wof:lastmodified":1695877798,
     "wof:name":"Ridley",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

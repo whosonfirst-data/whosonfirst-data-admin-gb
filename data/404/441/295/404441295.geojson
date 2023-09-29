@@ -10,12 +10,18 @@
     "geom:latitude":51.369518,
     "geom:longitude":-1.885168,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.37,
     "lbl:longitude":-1.885775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "All Cannings"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011619"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126023941
     ],
     "wof:country":"GB",
-    "wof:geomhash":"97d679676fb01d6544945c327d4006d9",
+    "wof:geomhash":"3b3d6aa3a670d01ab4fff2f623c19563",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404441295,
     "wof:label":"All Cannings Civil Parish",
-    "wof:lastmodified":1566631746,
+    "wof:lastmodified":1695876903,
     "wof:name":"All Cannings",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

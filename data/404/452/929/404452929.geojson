@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002125,
-    "geom:area_square_m":16239742.331554,
+    "geom:area_square_m":16239742.331555,
     "geom:bbox":"-4.73704591804,51.8046990665,-4.63336230878,51.8382119285",
     "geom:latitude":51.820712,
     "geom:longitude":-4.687479,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.821728,
     "lbl:longitude":-4.678157,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanddewi Velfrey Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000439"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243392185
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f36049e0929ea5dc7bbbf341510159c",
+    "wof:geomhash":"391c30fe64d7d2979b1dc55e26488c02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452929,
-    "wof:lastmodified":1566632256,
+    "wof:lastmodified":1695877123,
     "wof:name":"Llanddewi Velfrey Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

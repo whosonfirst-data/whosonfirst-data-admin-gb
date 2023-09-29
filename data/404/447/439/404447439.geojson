@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001136,
-    "geom:area_square_m":8738858.714554,
+    "geom:area_square_m":8738858.714553,
     "geom:bbox":"-0.967328359489,51.5087616743,-0.878219356549,51.5293010589",
     "geom:latitude":51.518869,
     "geom:longitude":-0.91993,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.519375,
     "lbl:longitude":-0.92884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u0628\u0633\u062f\u0646"
@@ -57,12 +63,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008135"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125794663
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8b6371dcb443c5fe4c7011cbce4ec497",
+    "wof:geomhash":"bd610d475e28aa008a0be87df8b35a97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447439,
     "wof:label":"Harpsden Civil Parish",
-    "wof:lastmodified":1566631265,
+    "wof:lastmodified":1695878278,
     "wof:name":"Harpsden",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001267,
-    "geom:area_square_m":9149707.620988,
+    "geom:area_square_m":9149707.620987,
     "geom:bbox":"-3.13724838497,54.234136956,-3.06938618016,54.2771272036",
     "geom:latitude":54.254591,
     "geom:longitude":-3.102833,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.258233,
     "lbl:longitude":-3.093874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lowick"
@@ -57,12 +63,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002628"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343297427
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4d535e622f78e6bb1d16cf71cffdae05",
+    "wof:geomhash":"d4cf2022a1dd20f0d4c95b388663aaf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404433455,
     "wof:label":"Lowick Civil Parish",
-    "wof:lastmodified":1566633668,
+    "wof:lastmodified":1695877760,
     "wof:name":"Lowick",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000898,
-    "geom:area_square_m":6819968.149199,
+    "geom:area_square_m":6819968.149198,
     "geom:bbox":"-2.15834235949,52.0694784279,-2.11161148964,52.102585046",
     "geom:latitude":52.087392,
     "geom:longitude":-2.135318,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.086356,
     "lbl:longitude":-2.137615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Defford"
@@ -60,12 +66,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010381"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879235
     ],
     "wof:country":"GB",
-    "wof:geomhash":"56f87504db29c4893d10c55ee8474901",
+    "wof:geomhash":"3d6c17b579a716d7283901ed2263a684",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404434663,
     "wof:label":"Defford Civil Parish",
-    "wof:lastmodified":1566633614,
+    "wof:lastmodified":1695877738,
     "wof:name":"Defford",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

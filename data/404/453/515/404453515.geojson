@@ -10,12 +10,18 @@
     "geom:latitude":51.220175,
     "geom:longitude":0.331858,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.217528,
     "lbl:longitude":0.338529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hadlow"
@@ -63,12 +69,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005097"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125966477
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1a33b8d2f1f5c9ce3ae7cffdf50155ce",
+    "wof:geomhash":"5f111e116196ef8a5d3d01221c97c3f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404453515,
     "wof:label":"Hadlow Civil Parish",
-    "wof:lastmodified":1566632860,
+    "wof:lastmodified":1695877400,
     "wof:name":"Hadlow",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

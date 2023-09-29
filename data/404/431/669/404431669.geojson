@@ -10,12 +10,18 @@
     "geom:latitude":51.896057,
     "geom:longitude":-4.681187,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.900818,
     "lbl:longitude":-4.688436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cilymaenllwyd Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000498"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711501
     ],
     "wof:country":"GB",
-    "wof:geomhash":"328a6db81e11e912e8c739d1be875d7a",
+    "wof:geomhash":"de6b27ade1dd828820800180a1664b32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404431669,
-    "wof:lastmodified":1566632460,
+    "wof:lastmodified":1695877214,
     "wof:name":"Cilymaenllwyd Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

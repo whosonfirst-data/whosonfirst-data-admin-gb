@@ -10,12 +10,18 @@
     "geom:latitude":51.699484,
     "geom:longitude":-0.809616,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.698972,
     "lbl:longitude":-0.811682,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lacey Green"
@@ -57,12 +63,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001606"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125968727
     ],
     "wof:country":"GB",
-    "wof:geomhash":"185c52791306343354974f931688ef68",
+    "wof:geomhash":"7c6e6d41b7b1609ea143840882496f09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404429709,
     "wof:label":"Lacey Green Civil Parish",
-    "wof:lastmodified":1566633102,
+    "wof:lastmodified":1695877506,
     "wof:name":"Lacey Green",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

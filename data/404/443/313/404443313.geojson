@@ -10,12 +10,18 @@
     "geom:latitude":53.617477,
     "geom:longitude":-1.429647,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.620256,
     "lbl:longitude":-1.43831,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Havercroft with Cold Hiendley"
@@ -43,12 +49,15 @@
         1360698945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000231"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758291
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9d1513b8367af7f7233710585337bc75",
+    "wof:geomhash":"81a575fcc7ff721cae94d6fc1d131d63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404443313,
     "wof:label":"Havercroft with Cold Hiendley Civil Parish",
-    "wof:lastmodified":1566633034,
+    "wof:lastmodified":1695877475,
     "wof:name":"Havercroft with Cold Hiendley",
     "wof:parent_id":1360698945,
     "wof:placetype":"localadmin",

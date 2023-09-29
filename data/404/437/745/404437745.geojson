@@ -10,12 +10,18 @@
     "geom:latitude":54.109964,
     "geom:longitude":-1.673693,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.10811,
     "lbl:longitude":-1.674181,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eavestone"
@@ -58,12 +64,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007334"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753107
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1dc9884672f485e69140164f5ac01d79",
+    "wof:geomhash":"bf76f102ee0e22116b8dc74a44cfe7d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404437745,
     "wof:label":"Eavestone Civil Parish",
-    "wof:lastmodified":1566632159,
+    "wof:lastmodified":1695877083,
     "wof:name":"Eavestone",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

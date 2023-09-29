@@ -10,12 +10,18 @@
     "geom:latitude":53.396354,
     "geom:longitude":-2.645059,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.397107,
     "lbl:longitude":-2.642551,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u062a \u0633\u0646\u0643\u064a"
@@ -66,12 +72,15 @@
         1360698965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000326"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844043
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7613a1fb6ac8d3202ce5b8d051b31228",
+    "wof:geomhash":"ca1428a6e2fd43e3571c416dfc40ea90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404444851,
     "wof:label":"Great Sankey Civil Parish",
-    "wof:lastmodified":1566632904,
+    "wof:lastmodified":1695877416,
     "wof:name":"Great Sankey",
     "wof:parent_id":1360698965,
     "wof:placetype":"localadmin",

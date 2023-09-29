@@ -10,12 +10,18 @@
     "geom:latitude":50.98104,
     "geom:longitude":-3.063318,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.980351,
     "lbl:longitude":-3.060175,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Orchard Portman"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008806"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125883853
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0cb979911242b49cfec4de3cf20839f6",
+    "wof:geomhash":"e9b914a178556ab740e273d82bc84b2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451881,
     "wof:label":"Orchard Portman Civil Parish",
-    "wof:lastmodified":1566633447,
+    "wof:lastmodified":1695877658,
     "wof:name":"Orchard Portman",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

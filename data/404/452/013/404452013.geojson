@@ -10,12 +10,18 @@
     "geom:latitude":53.903056,
     "geom:longitude":-2.778573,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.903043,
     "lbl:longitude":-2.777576,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0627\u0631\u0633\u062a\u0646\u0642"
@@ -84,12 +90,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005327"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873273
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b6b37117c6057812cd694c7d9d5b1e93",
+    "wof:geomhash":"30fc08b6d187203a91191b8fb4f80cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404452013,
     "wof:label":"Garstang Civil Parish",
-    "wof:lastmodified":1566632184,
+    "wof:lastmodified":1695877092,
     "wof:name":"Garstang",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

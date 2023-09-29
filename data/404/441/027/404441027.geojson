@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001563,
-    "geom:area_square_m":11982123.842245,
+    "geom:area_square_m":11982123.842244,
     "geom:bbox":"-4.00210487629,51.6555308706,-3.92409870043,51.6978984795",
     "geom:latitude":51.679164,
     "geom:longitude":-3.969857,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.675663,
     "lbl:longitude":-3.969857,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangyfelach Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000967"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711453
     ],
     "wof:country":"GB",
-    "wof:geomhash":"17b47de91be97f6a32ecca420d881ed9",
+    "wof:geomhash":"9d20ccb5e9a7dc4b1e281a3a3459ab90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441027,
-    "wof:lastmodified":1566631791,
+    "wof:lastmodified":1695876921,
     "wof:name":"Llangyfelach Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

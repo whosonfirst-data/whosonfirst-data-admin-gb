@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000765,
-    "geom:area_square_m":5871631.466359,
+    "geom:area_square_m":5871631.466358,
     "geom:bbox":"-3.44836502378,51.6258132976,-3.40820253577,51.665567442",
     "geom:latitude":51.646314,
     "geom:longitude":-3.430352,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.64602,
     "lbl:longitude":-3.430656,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tylorstown Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000709"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125990071
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0373f97f333252d92f0d884994538856",
+    "wof:geomhash":"205d109aa2d4dfded0d80e6b999068fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404446191,
-    "wof:lastmodified":1566631655,
+    "wof:lastmodified":1695876869,
     "wof:name":"Tylorstown Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

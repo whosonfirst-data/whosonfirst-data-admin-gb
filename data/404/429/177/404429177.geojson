@@ -10,12 +10,18 @@
     "geom:latitude":51.989877,
     "geom:longitude":-1.62665,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.990408,
     "lbl:longitude":-1.624512,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barton-On-The-Heath"
@@ -42,12 +48,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009708"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125791259
     ],
     "wof:country":"GB",
-    "wof:geomhash":"88aadb027040b7dd95f31f3db83ec5e0",
+    "wof:geomhash":"1541e72fd89c39efdf3f037959deb011",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404429177,
     "wof:label":"Barton-On-The-Heath Civil Parish",
-    "wof:lastmodified":1566633184,
+    "wof:lastmodified":1695877542,
     "wof:name":"Barton-On-The-Heath",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.931166,
     "geom:longitude":-2.954316,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.92926,
     "lbl:longitude":-2.960056,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u0442\u044a\u043d"
@@ -90,12 +96,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008708"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242606333
     ],
     "wof:country":"GB",
-    "wof:geomhash":"694f794cb2ba2b22973f329855e625a7",
+    "wof:geomhash":"0a160e5de2f63c089e9fd9a7f4edfc46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404442061,
     "wof:label":"Horton Civil Parish",
-    "wof:lastmodified":1566633283,
+    "wof:lastmodified":1695877587,
     "wof:name":"Horton",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

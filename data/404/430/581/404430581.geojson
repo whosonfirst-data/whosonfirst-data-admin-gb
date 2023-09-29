@@ -10,12 +10,18 @@
     "geom:latitude":53.38979,
     "geom:longitude":-1.156475,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.389964,
     "lbl:longitude":-1.15698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Firbeck"
@@ -60,12 +66,15 @@
         1360698851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000107"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910101
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e656a4f685d2a614d021f06ff2a27ba3",
+    "wof:geomhash":"cfcb9a027f89682396f5e34bae76a371",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430581,
     "wof:label":"Firbeck Civil Parish",
-    "wof:lastmodified":1566631981,
+    "wof:lastmodified":1695877008,
     "wof:name":"Firbeck",
     "wof:parent_id":1360698851,
     "wof:placetype":"localadmin",

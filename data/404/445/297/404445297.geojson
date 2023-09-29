@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001653,
-    "geom:area_square_m":12528154.425698,
+    "geom:area_square_m":12528154.425697,
     "geom:bbox":"-2.45988484431,52.1784456859,-2.38425784163,52.2317874655",
     "geom:latitude":52.207566,
     "geom:longitude":-2.421562,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.204649,
     "lbl:longitude":-2.42214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whitbourne"
@@ -51,12 +57,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000907"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913567
     ],
     "wof:country":"GB",
-    "wof:geomhash":"26f308496e78e48aeb5b5b23547ded72",
+    "wof:geomhash":"d46537af48e9b69418d7c85a816a17ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404445297,
     "wof:label":"Whitbourne Civil Parish",
-    "wof:lastmodified":1566633400,
+    "wof:lastmodified":1695877639,
     "wof:name":"Whitbourne",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

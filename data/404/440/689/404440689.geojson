@@ -10,12 +10,18 @@
     "geom:latitude":53.927045,
     "geom:longitude":-0.775162,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.932315,
     "lbl:longitude":-0.772737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0648\u06a9\u0644\u06cc\u0646\u0642\u062a\u0648\u0646"
@@ -90,12 +96,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000452"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873245
     ],
     "wof:country":"GB",
-    "wof:geomhash":"210e48a055a06a7dc694521743f6e178",
+    "wof:geomhash":"bbfaafd19d1e07158b089b0aceec6c4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404440689,
     "wof:label":"Pocklington Civil Parish",
-    "wof:lastmodified":1566631146,
+    "wof:lastmodified":1695878224,
     "wof:name":"Pocklington",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

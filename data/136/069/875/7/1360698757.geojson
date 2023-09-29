@@ -387,13 +387,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25553,
         "fips:code":"UKP6",
+        "gbr-ons:gss_code":"1245",
         "gn:id":2634258,
         "gp:id":12602177,
         "hasc:id":"GB.WS",
+        "iso:code":"GB-WSX",
         "iso:id":"GB-WSX",
         "unlc:id":"GB-WSX",
         "wd:id":"Q23287"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698607
     ],
@@ -418,7 +424,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495384,
+    "wof:lastmodified":1695886278,
     "wof:name":"West Sussex",
     "wof:parent_id":1360698607,
     "wof:placetype":"county",

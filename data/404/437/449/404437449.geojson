@@ -10,12 +10,18 @@
     "geom:latitude":51.599867,
     "geom:longitude":0.79063,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.599371,
     "lbl:longitude":0.793485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Paglesham"
@@ -62,9 +68,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04004082",
         "gn:id":7291168,
         "qs_pg:id":904149
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759655
     ],
@@ -72,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe1c82131e1fded799956951b4bc8bb0",
+    "wof:geomhash":"d01eb7d86a1c3975db357fbb0d22733f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +93,7 @@
     ],
     "wof:id":404437449,
     "wof:label":"Paglesham Civil Parish",
-    "wof:lastmodified":1582311086,
+    "wof:lastmodified":1695877962,
     "wof:name":"Paglesham",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

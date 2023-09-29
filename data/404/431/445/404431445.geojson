@@ -10,12 +10,18 @@
     "geom:latitude":54.601443,
     "geom:longitude":-1.630596,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.600439,
     "lbl:longitude":-1.625749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heighington"
@@ -57,12 +63,15 @@
         1360698889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000296"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125907683
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3674657dcb5e9c641241f4261ac17c44",
+    "wof:geomhash":"3a226f94a7b5a89a8c88c57e37b86a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431445,
     "wof:label":"Heighington Civil Parish",
-    "wof:lastmodified":1566632508,
+    "wof:lastmodified":1695877235,
     "wof:name":"Heighington",
     "wof:parent_id":1360698889,
     "wof:placetype":"localadmin",

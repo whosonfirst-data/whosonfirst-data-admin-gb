@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002546,
-    "geom:area_square_m":19483097.10779,
+    "geom:area_square_m":19483097.107785,
     "geom:bbox":"-5.05950673715,51.7242474603,-4.99363458724,51.7942095106",
     "geom:latitude":51.762209,
     "geom:longitude":-5.027621,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.758769,
     "lbl:longitude":-5.022172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tiers Cross Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000955"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310041173
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7735ca6cd6241a59296d4a70a1a92878",
+    "wof:geomhash":"0c7fe36cb7f1be7dccc1e616fd4f2522",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449017,
-    "wof:lastmodified":1566631426,
+    "wof:lastmodified":1695876781,
     "wof:name":"Tiers Cross Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.465347,
     "geom:longitude":-1.683418,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.463132,
     "lbl:longitude":-1.689707,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Packington"
@@ -57,12 +63,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009646"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cc3a8ea2183a924db16968e74b1148a2",
+    "wof:geomhash":"951654356ec07f5c38bea5760a3f1a40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446931,
     "wof:label":"Little Packington Civil Parish",
-    "wof:lastmodified":1566631597,
+    "wof:lastmodified":1695876847,
     "wof:name":"Little Packington",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

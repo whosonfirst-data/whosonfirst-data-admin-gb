@@ -10,12 +10,18 @@
     "geom:latitude":54.953869,
     "geom:longitude":-1.860229,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.956379,
     "lbl:longitude":-1.85688,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0631\u0648\u062f\u0648"
@@ -78,12 +84,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010852"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125840701
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db0c0ec1293ab7808e3cb6a9b6650366",
+    "wof:geomhash":"5dee0e90b0da6b9c422d245f2bde38b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404450797,
     "wof:label":"Prudhoe Civil Parish",
-    "wof:lastmodified":1566633742,
+    "wof:lastmodified":1695877794,
     "wof:name":"Prudhoe",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

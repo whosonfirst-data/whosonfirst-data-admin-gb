@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000412,
-    "geom:area_square_m":3227731.285968,
+    "geom:area_square_m":3227731.285967,
     "geom:bbox":"-2.7711365742,50.7083927775,-2.73759469912,50.7449287423",
     "geom:latitude":50.729524,
     "geom:longitude":-2.757645,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.732538,
     "lbl:longitude":-2.758782,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u06cc\u062f\u067e\u0648\u0631\u062a"
@@ -90,12 +96,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003507"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852335
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6d69f97070e963c72b6f9d68048f5943",
+    "wof:geomhash":"d1bfb1cba6a2726b32f0387b10ff9d20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404449313,
     "wof:label":"Bridport Civil Parish",
-    "wof:lastmodified":1566631397,
+    "wof:lastmodified":1695878337,
     "wof:name":"Bridport",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

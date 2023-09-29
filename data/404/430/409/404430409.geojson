@@ -10,12 +10,18 @@
     "geom:latitude":51.136851,
     "geom:longitude":0.985455,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.139596,
     "lbl:longitude":0.978953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brabourne"
@@ -60,12 +66,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004831"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360113951
     ],
     "wof:country":"GB",
-    "wof:geomhash":"75b29ac784805a63e71bc2d27efbc312",
+    "wof:geomhash":"6baecab7600ddaaca8bb5160bc5423bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430409,
     "wof:label":"Brabourne Civil Parish",
-    "wof:lastmodified":1566631969,
+    "wof:lastmodified":1695877003,
     "wof:name":"Brabourne",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

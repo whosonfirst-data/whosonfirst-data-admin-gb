@@ -10,12 +10,18 @@
     "geom:latitude":51.588568,
     "geom:longitude":-2.954023,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.589237,
     "lbl:longitude":-2.953748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alway Community"
@@ -40,12 +46,15 @@
         1360698735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000809"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711865
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a87c364184a42a2fec91ce5d9200abbc",
+    "wof:geomhash":"397ad86e94893853ac480a6cff59d74d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437191,
-    "wof:lastmodified":1566632105,
+    "wof:lastmodified":1695877061,
     "wof:name":"Alway Community",
     "wof:parent_id":1360698735,
     "wof:placetype":"localadmin",

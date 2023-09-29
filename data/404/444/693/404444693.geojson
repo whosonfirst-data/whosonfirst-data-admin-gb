@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002096,
-    "geom:area_square_m":16261874.999004,
+    "geom:area_square_m":16261874.999003,
     "geom:bbox":"1.04643358884,51.1044166438,1.12533640661,51.1674990746",
     "geom:latitude":51.13397,
     "geom:longitude":1.078026,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.134382,
     "lbl:longitude":1.064929,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lyminge"
@@ -69,12 +75,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005023"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126004563
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1b093a1e26b3b0889980b1c5abb55512",
+    "wof:geomhash":"48232449d8d88a5f30f7552b800512a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404444693,
     "wof:label":"Lyminge Civil Parish",
-    "wof:lastmodified":1566632903,
+    "wof:lastmodified":1695877415,
     "wof:name":"Lyminge",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002083,
-    "geom:area_square_m":15713070.5905,
+    "geom:area_square_m":15713070.590499,
     "geom:bbox":"1.02025440021,52.3769755084,1.08827621196,52.4287673725",
     "geom:latitude":52.400844,
     "geom:longitude":1.049756,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.39871,
     "lbl:longitude":1.047017,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bressingham"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006520"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125927475
     ],
     "wof:country":"GB",
-    "wof:geomhash":"09d5a0c9213a35dc983ebfd5bec86373",
+    "wof:geomhash":"518faa0a14d72860ef835b99939066a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448101,
     "wof:label":"Bressingham Civil Parish",
-    "wof:lastmodified":1566631533,
+    "wof:lastmodified":1695876828,
     "wof:name":"Bressingham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

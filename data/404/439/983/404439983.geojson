@@ -10,12 +10,18 @@
     "geom:latitude":51.829924,
     "geom:longitude":-1.665005,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.830897,
     "lbl:longitude":-1.672627,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Taynton"
@@ -51,12 +57,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008332"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209134713
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24a3f53ec2018639436c7c1219311d20",
+    "wof:geomhash":"5632c7b6310ca09f63e22549391180b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404439983,
     "wof:label":"Taynton Civil Parish",
-    "wof:lastmodified":1566631870,
+    "wof:lastmodified":1695876960,
     "wof:name":"Taynton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

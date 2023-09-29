@@ -10,12 +10,18 @@
     "geom:latitude":52.063814,
     "geom:longitude":0.499655,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.064456,
     "lbl:longitude":0.497623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wixoe"
@@ -52,12 +58,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009362"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754485
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b9a4615fa7f4bdefd47615c0a3396c46",
+    "wof:geomhash":"db3788a8776f5ba879be3a749e717fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404449985,
     "wof:label":"Wixoe Civil Parish",
-    "wof:lastmodified":1566631395,
+    "wof:lastmodified":1695878336,
     "wof:name":"Wixoe",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

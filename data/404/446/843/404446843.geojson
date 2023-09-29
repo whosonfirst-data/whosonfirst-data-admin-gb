@@ -10,12 +10,18 @@
     "geom:latitude":55.18036,
     "geom:longitude":-1.661092,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.179383,
     "lbl:longitude":-1.658845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pegswood"
@@ -60,12 +66,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012232"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879177
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7b94a25b4c8d3b4a2bfc84b9a75a6a52",
+    "wof:geomhash":"0e0fa9dde2b8c80dd8550b512748682e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404446843,
     "wof:label":"Pegswood Civil Parish",
-    "wof:lastmodified":1566631624,
+    "wof:lastmodified":1695876858,
     "wof:name":"Pegswood",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

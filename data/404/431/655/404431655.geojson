@@ -10,12 +10,18 @@
     "geom:latitude":54.024382,
     "geom:longitude":-1.467047,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.026883,
     "lbl:longitude":-1.469151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Scriven"
@@ -55,12 +61,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007413"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756293
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0fffe59e3e1790548edcb81acb541035",
+    "wof:geomhash":"b5683906a2719d2d02ebbeffde1f5b4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404431655,
     "wof:label":"Scriven Civil Parish",
-    "wof:lastmodified":1566632509,
+    "wof:lastmodified":1695877236,
     "wof:name":"Scriven",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

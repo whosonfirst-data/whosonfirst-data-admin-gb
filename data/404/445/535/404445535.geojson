@@ -10,12 +10,18 @@
     "geom:latitude":51.493673,
     "geom:longitude":-2.226087,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.493791,
     "lbl:longitude":-2.226437,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Castell Combe"
@@ -90,12 +96,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011662"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125774341
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6183958d8ebda958af9be2885dafcb0c",
+    "wof:geomhash":"07bb5a6f18fed4b7235ff01214abf934",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404445535,
     "wof:label":"Castle Combe Civil Parish",
-    "wof:lastmodified":1566633317,
+    "wof:lastmodified":1695877602,
     "wof:name":"Castle Combe",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

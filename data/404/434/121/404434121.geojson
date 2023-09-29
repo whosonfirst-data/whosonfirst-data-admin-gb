@@ -10,12 +10,18 @@
     "geom:latitude":54.041424,
     "geom:longitude":-1.202588,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.043028,
     "lbl:longitude":-1.2007,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Newton-On-Ouse"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007233"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125960977
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bb46c73551e49b8914dd6caf3a3182d9",
+    "wof:geomhash":"531856d07d45731bd2f38a4ae40ca42a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404434121,
     "wof:label":"Newton-On-Ouse Civil Parish",
-    "wof:lastmodified":1566633582,
+    "wof:lastmodified":1695877723,
     "wof:name":"Newton-On-Ouse",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000645,
-    "geom:area_square_m":5085006.360666,
+    "geom:area_square_m":5085006.360665,
     "geom:bbox":"-4.23742370163,50.3633988597,-4.19239918622,50.3872197583",
     "geom:latitude":50.374403,
     "geom:longitude":-4.214969,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.37502,
     "lbl:longitude":-4.214969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0648\u0631\u067e\u0648\u06cc\u0646\u062a"
@@ -102,12 +108,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011591"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852377
     ],
     "wof:country":"GB",
-    "wof:geomhash":"62df6950ad05f518a11af3d9a541316d",
+    "wof:geomhash":"8d2c31ec2aad3ac312c9eef1d1929187",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404429429,
     "wof:label":"Torpoint Civil Parish",
-    "wof:lastmodified":1566633161,
+    "wof:lastmodified":1695877531,
     "wof:name":"Torpoint",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

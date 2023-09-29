@@ -10,12 +10,18 @@
     "geom:latitude":51.286227,
     "geom:longitude":-0.527551,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.285726,
     "lbl:longitude":-0.529626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Send"
@@ -51,12 +57,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009554"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125847097
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0af291216d0bbc330b411fc60f4faa7b",
+    "wof:geomhash":"f2f7b747df12b60ce22bb3721179ee5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404452369,
     "wof:label":"Send Civil Parish",
-    "wof:lastmodified":1566632222,
+    "wof:lastmodified":1695877108,
     "wof:name":"Send",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

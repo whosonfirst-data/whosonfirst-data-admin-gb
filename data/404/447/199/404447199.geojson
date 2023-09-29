@@ -10,12 +10,18 @@
     "geom:latitude":53.684176,
     "geom:longitude":-0.66955,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.685769,
     "lbl:longitude":-0.667213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alkborough"
@@ -69,12 +75,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000535"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209850917
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4630a593f46ef0688413f04589172f93",
+    "wof:geomhash":"7b39c9d8e09c4f94e881355e147cc3b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404447199,
     "wof:label":"Alkborough Civil Parish",
-    "wof:lastmodified":1566631299,
+    "wof:lastmodified":1695878295,
     "wof:name":"Alkborough",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

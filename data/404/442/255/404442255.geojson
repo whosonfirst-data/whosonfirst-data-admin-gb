@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002394,
-    "geom:area_square_m":17343033.916139,
+    "geom:area_square_m":17343033.91614,
     "geom:bbox":"-0.515992421767,54.1100017322,-0.427049158868,54.1582650878",
     "geom:latitude":54.136212,
     "geom:longitude":-0.468684,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.129965,
     "lbl:longitude":-0.476725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Foxholes"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007575"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242612901
     ],
     "wof:country":"GB",
-    "wof:geomhash":"85e0d265f570365403a4a54ad9db8c3f",
+    "wof:geomhash":"20d185145f73b14f75951db4ff811d7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404442255,
     "wof:label":"Foxholes Civil Parish",
-    "wof:lastmodified":1566633290,
+    "wof:lastmodified":1695877590,
     "wof:name":"Foxholes",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

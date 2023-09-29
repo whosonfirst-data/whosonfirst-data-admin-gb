@@ -10,12 +10,18 @@
     "geom:latitude":51.991763,
     "geom:longitude":-0.56406,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.991379,
     "lbl:longitude":-0.563574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0641\u0631\u0634\u0644\u062a"
@@ -69,12 +75,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011946"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843409
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dd648d7f255a21dcd3a1ab65cc111618",
+    "wof:geomhash":"84100e2d6c92ab8775e8556cd32a3b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404445153,
     "wof:label":"Eversholt Civil Parish",
-    "wof:lastmodified":1566633364,
+    "wof:lastmodified":1695877624,
     "wof:name":"Eversholt",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

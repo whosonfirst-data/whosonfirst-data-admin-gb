@@ -10,12 +10,18 @@
     "geom:latitude":53.654965,
     "geom:longitude":-0.504547,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.654459,
     "lbl:longitude":-0.505261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Horkstow"
@@ -54,12 +60,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000563"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125883789
     ],
     "wof:country":"GB",
-    "wof:geomhash":"38f75c712c2b5b89d05655d76b1ab455",
+    "wof:geomhash":"816ad544ab402c9064bdea6bbb9162ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440509,
     "wof:label":"Horkstow Civil Parish",
-    "wof:lastmodified":1566631188,
+    "wof:lastmodified":1695878244,
     "wof:name":"Horkstow",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

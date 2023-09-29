@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001127,
-    "geom:area_square_m":8766581.098083,
+    "geom:area_square_m":8766581.098082,
     "geom:bbox":"-1.36573959246,51.0082676745,-1.31763438281,51.0477960335",
     "geom:latitude":51.027302,
     "geom:longitude":-1.340894,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.026565,
     "lbl:longitude":-1.340437,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Compton and Shawford"
@@ -58,12 +64,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004659"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753943
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0457a3fc9a579312e723cb89613d60cb",
+    "wof:geomhash":"ef6727e8ca69020e5151287394eecf62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404446525,
     "wof:label":"Compton and Shawford Civil Parish",
-    "wof:lastmodified":1566631704,
+    "wof:lastmodified":1695876887,
     "wof:name":"Compton and Shawford",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

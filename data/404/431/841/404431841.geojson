@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00176,
-    "geom:area_square_m":13401843.812003,
+    "geom:area_square_m":13401843.812004,
     "geom:bbox":"0.48689699894,51.9677370088,0.566993887024,52.0230833154",
     "geom:latitude":51.999076,
     "geom:longitude":0.523382,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.996471,
     "lbl:longitude":0.512796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Toppesfield"
@@ -60,12 +66,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003933"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125942701
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e27c3a46d1cc69196640bf09a6bb286d",
+    "wof:geomhash":"00f738d6c4c06e5aa321c439acb5ee34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404431841,
     "wof:label":"Toppesfield Civil Parish",
-    "wof:lastmodified":1566632496,
+    "wof:lastmodified":1695877230,
     "wof:name":"Toppesfield",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

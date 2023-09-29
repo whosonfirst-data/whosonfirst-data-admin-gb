@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000484,
-    "geom:area_square_m":3698409.73327,
+    "geom:area_square_m":3698409.733269,
     "geom:bbox":"-1.36972762096,51.8403649563,-1.33701450312,51.8677655167",
     "geom:latitude":51.855196,
     "geom:longitude":-1.350775,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.855628,
     "lbl:longitude":-1.351888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Woodstock-Festival"
@@ -159,12 +165,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008336"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852961
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e114ce784f2bbb44a8a8f24a01d3f92a",
+    "wof:geomhash":"3f2b14586261af8807fd27bb9d4b122e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +186,7 @@
     ],
     "wof:id":404436939,
     "wof:label":"Woodstock Civil Parish",
-    "wof:lastmodified":1566632324,
+    "wof:lastmodified":1695877153,
     "wof:name":"Woodstock",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

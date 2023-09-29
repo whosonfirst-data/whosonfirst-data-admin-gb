@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000805,
-    "geom:area_square_m":6138602.412995,
+    "geom:area_square_m":6138602.412994,
     "geom:bbox":"-2.60863999564,51.9209133052,-2.5431933797,51.944258394",
     "geom:latitude":51.935041,
     "geom:longitude":-2.580983,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.936019,
     "lbl:longitude":-2.583201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brampton Abbotts"
@@ -52,12 +58,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000703"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754133
     ],
     "wof:country":"GB",
-    "wof:geomhash":"617bf04acd059d9cc698e814efd3c68f",
+    "wof:geomhash":"e7477c4b9f565a230471f9382f6f1143",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404430241,
     "wof:label":"Brampton Abbotts Civil Parish",
-    "wof:lastmodified":1566632009,
+    "wof:lastmodified":1695877018,
     "wof:name":"Brampton Abbotts",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

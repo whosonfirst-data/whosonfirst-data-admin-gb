@@ -10,12 +10,18 @@
     "geom:latitude":54.550118,
     "geom:longitude":-1.806268,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.547446,
     "lbl:longitude":-1.798511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winston"
@@ -105,12 +111,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010716"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125864655
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9e8de42b375886c91a6a801053b37c83",
+    "wof:geomhash":"a23f736abc47564620b03c3d1be95b50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404449697,
     "wof:label":"Winston Civil Parish",
-    "wof:lastmodified":1566631431,
+    "wof:lastmodified":1695876784,
     "wof:name":"Winston",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.636732,
     "geom:longitude":-0.505117,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.634534,
     "lbl:longitude":-0.508848,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saxby All Saints"
@@ -54,12 +60,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000576"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125841183
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5c1af3b6f74552c5ff56cb2433af0767",
+    "wof:geomhash":"5923939b2e8e11f2faaa4b0c2cc9f7e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404453967,
     "wof:label":"Saxby All Saints Civil Parish",
-    "wof:lastmodified":1566632812,
+    "wof:lastmodified":1695877379,
     "wof:name":"Saxby All Saints",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.758916,
     "geom:longitude":-1.947583,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.758489,
     "lbl:longitude":-1.949312,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0648\u062c\u0644\u06cc"
@@ -93,12 +99,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008875"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853139
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0e32f103f3077bfb81e732b93132bdd6",
+    "wof:geomhash":"6d16cb6136a0bf0e8d598774722adc55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404455321,
     "wof:label":"Rugeley Civil Parish",
-    "wof:lastmodified":1566632314,
+    "wof:lastmodified":1695877148,
     "wof:name":"Rugeley",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

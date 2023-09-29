@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0024,
-    "geom:area_square_m":18406523.452203,
+    "geom:area_square_m":18406523.452202,
     "geom:bbox":"-4.20621672468,51.6449117477,-4.1243673785,51.6964733536",
     "geom:latitude":51.666921,
     "geom:longitude":-4.162651,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.66854,
     "lbl:longitude":-4.158633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanelli Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000519"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852985
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e97c9130a7f32848ae5cf41ef5145e69",
+    "wof:geomhash":"7fbdf030e6e6795f11ed97c35a330f94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437679,
-    "wof:lastmodified":1566632130,
+    "wof:lastmodified":1695877070,
     "wof:name":"Llanelli Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

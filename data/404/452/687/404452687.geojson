@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002519,
-    "geom:area_square_m":18488615.735121,
+    "geom:area_square_m":18488615.73512,
     "geom:bbox":"-0.238494997481,53.567983275,-0.127143456988,53.6199554071",
     "geom:latitude":53.593133,
     "geom:longitude":-0.186301,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.591168,
     "lbl:longitude":-0.18633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stallingborough"
@@ -66,12 +72,15 @@
         1360698837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000530"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"07c1ef5e293e760c1b866b027105950b",
+    "wof:geomhash":"a9d376b5a1cba0d9a165d0bb11c13617",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404452687,
     "wof:label":"Stallingborough Civil Parish",
-    "wof:lastmodified":1566632188,
+    "wof:lastmodified":1695877095,
     "wof:name":"Stallingborough",
     "wof:parent_id":1360698837,
     "wof:placetype":"localadmin",

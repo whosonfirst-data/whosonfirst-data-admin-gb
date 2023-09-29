@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002639,
-    "geom:area_square_m":20792727.852401,
+    "geom:area_square_m":20792727.852402,
     "geom:bbox":"-4.68134995155,50.3686835047,-4.60579385119,50.450581846",
     "geom:latitude":50.414353,
     "geom:longitude":-4.640471,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.406587,
     "lbl:longitude":-4.634751,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Winnow"
@@ -42,12 +48,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011587"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974139
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f34f9db9155804caee678e7f8881fab4",
+    "wof:geomhash":"fe24b5c4df10d9c1711143852e30038d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404450333,
     "wof:label":"St. Winnow Civil Parish",
-    "wof:lastmodified":1566633804,
+    "wof:lastmodified":1695877819,
     "wof:name":"St. Winnow",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

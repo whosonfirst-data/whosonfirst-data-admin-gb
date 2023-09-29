@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000658,
-    "geom:area_square_m":5135583.213054,
+    "geom:area_square_m":5135583.213055,
     "geom:bbox":"-0.453375611574,50.8361514644,-0.421964101333,50.8804231065",
     "geom:latitude":50.852942,
     "geom:longitude":-0.43884,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.848538,
     "lbl:longitude":-0.441694,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0644\u0627\u067e\u0627\u0645"
@@ -88,12 +94,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009857"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756343
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6a92ede7020a0a15dd8e6ae026abc31e",
+    "wof:geomhash":"1d2c633f40fd9974eaf465020244dcc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +115,7 @@
     ],
     "wof:id":404451195,
     "wof:label":"Clapham Civil Parish",
-    "wof:lastmodified":1566633424,
+    "wof:lastmodified":1695877649,
     "wof:name":"Clapham",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

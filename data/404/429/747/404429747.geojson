@@ -10,12 +10,18 @@
     "geom:latitude":55.717089,
     "geom:longitude":-2.083482,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.717483,
     "lbl:longitude":-2.083493,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shoreswood"
@@ -40,12 +46,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010860"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753343
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5f15622a66ab529a56edf217db3a022a",
+    "wof:geomhash":"a44341f3fb0e5c6476317ba5f944b2b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404429747,
     "wof:label":"Shoreswood Civil Parish",
-    "wof:lastmodified":1566633133,
+    "wof:lastmodified":1695877520,
     "wof:name":"Shoreswood",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

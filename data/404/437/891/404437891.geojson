@@ -10,12 +10,18 @@
     "geom:latitude":54.925591,
     "geom:longitude":-2.54593,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.915289,
     "lbl:longitude":-2.53894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hartleyburn"
@@ -40,12 +46,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010792"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753365
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8fc1dc88e3e6be641be7aa3150ff8a68",
+    "wof:geomhash":"622474c708173dce38601a6bba53d4a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404437891,
     "wof:label":"Hartleyburn Civil Parish",
-    "wof:lastmodified":1566632139,
+    "wof:lastmodified":1695877074,
     "wof:name":"Hartleyburn",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

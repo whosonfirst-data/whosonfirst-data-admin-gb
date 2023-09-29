@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001448,
-    "geom:area_square_m":11048551.793498,
+    "geom:area_square_m":11048551.793499,
     "geom:bbox":"-0.0731328143033,51.8777231387,-0.0128483604317,51.9223273204",
     "geom:latitude":51.899229,
     "geom:longitude":-0.038651,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.899492,
     "lbl:longitude":-0.038203,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Munden"
@@ -57,12 +63,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004733"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880993
     ],
     "wof:country":"GB",
-    "wof:geomhash":"02a3058513750cbec67c246a422d038b",
+    "wof:geomhash":"a785c3f31f9d762cefd319c9d7136007",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404443295,
     "wof:label":"Great Munden Civil Parish",
-    "wof:lastmodified":1566633014,
+    "wof:lastmodified":1695877466,
     "wof:name":"Great Munden",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

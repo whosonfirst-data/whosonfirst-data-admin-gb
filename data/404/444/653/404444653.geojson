@@ -10,12 +10,18 @@
     "geom:latitude":51.112661,
     "geom:longitude":-0.993726,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.113666,
     "lbl:longitude":-0.990917,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Farringdon"
@@ -64,12 +70,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004501"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758955
     ],
     "wof:country":"GB",
-    "wof:geomhash":"353d5c11e84059a5914b5c4a25cd67c8",
+    "wof:geomhash":"edba801ef7d2668cde276e0f268a2635",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404444653,
     "wof:label":"Farringdon Civil Parish",
-    "wof:lastmodified":1566632964,
+    "wof:lastmodified":1695877441,
     "wof:name":"Farringdon",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

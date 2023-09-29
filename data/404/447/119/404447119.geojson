@@ -10,12 +10,18 @@
     "geom:latitude":53.056522,
     "geom:longitude":-1.203717,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.058572,
     "lbl:longitude":-1.202176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Linby"
@@ -57,12 +63,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007870"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125788215
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7ea3b63e2f1930ce96b4b7da89d0be0f",
+    "wof:geomhash":"80c954e6e50c962351435376f2356d58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447119,
     "wof:label":"Linby Civil Parish",
-    "wof:lastmodified":1566631288,
+    "wof:lastmodified":1695878289,
     "wof:name":"Linby",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.674876,
     "geom:longitude":-2.745115,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.675199,
     "lbl:longitude":-2.745596,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ulnes Walton"
@@ -63,12 +69,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005158"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1277104013
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a762dfa4e85dd5e3b074b35e660146f8",
+    "wof:geomhash":"94bc763c5e46122980fbd9c146cf12d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442849,
     "wof:label":"Ulnes Walton Civil Parish",
-    "wof:lastmodified":1566633271,
+    "wof:lastmodified":1695877582,
     "wof:name":"Ulnes Walton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

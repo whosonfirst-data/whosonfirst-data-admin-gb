@@ -10,12 +10,18 @@
     "geom:latitude":53.068666,
     "geom:longitude":-2.517452,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.072411,
     "lbl:longitude":-2.514071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0627\u0646\u062a\u200c\u0648\u06cc\u0686"
@@ -96,12 +102,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010979"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871971
     ],
     "wof:country":"GB",
-    "wof:geomhash":"176df43af26f73c40a77837028d95877",
+    "wof:geomhash":"337358ce84be42329ac53d3b91ee27b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404440827,
     "wof:label":"Nantwich Civil Parish",
-    "wof:lastmodified":1566631138,
+    "wof:lastmodified":1695878221,
     "wof:name":"Nantwich",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":55.706651,
     "geom:longitude":-1.967447,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.70654,
     "lbl:longitude":-1.95752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ancroft"
@@ -58,12 +64,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010735"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756111
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d31ffc37290176394e4f527079528d8d",
+    "wof:geomhash":"fffaea9a721a0dd029c5cb676189ceb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404431537,
     "wof:label":"Ancroft Civil Parish",
-    "wof:lastmodified":1566632483,
+    "wof:lastmodified":1695877224,
     "wof:name":"Ancroft",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

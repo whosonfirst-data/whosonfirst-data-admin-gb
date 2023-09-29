@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00719,
-    "geom:area_square_m":54787402.765651,
+    "geom:area_square_m":54787402.765649,
     "geom:bbox":"-3.88030699018,51.9252953216,-3.69381734687,52.0001628275",
     "geom:latitude":51.960799,
     "geom:longitude":-3.774149,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.963872,
     "lbl:longitude":-3.744572,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Myddfai Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000548"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868595
     ],
     "wof:country":"GB",
-    "wof:geomhash":"742a982b6261c4c68d568e7892bbb6c6",
+    "wof:geomhash":"29d0bc5e59dd8765c9d1e439b4c30b5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454155,
-    "wof:lastmodified":1566632703,
+    "wof:lastmodified":1695877328,
     "wof:name":"Myddfai Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

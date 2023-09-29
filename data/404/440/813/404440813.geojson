@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002702,
-    "geom:area_square_m":20321591.809001,
+    "geom:area_square_m":20321591.809,
     "geom:bbox":"1.55825916017,52.5039418584,1.64992936129,52.5890313575",
     "geom:latitude":52.539109,
     "geom:longitude":1.607296,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.521353,
     "lbl:longitude":1.607318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Haddiscoe"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006553"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125883759
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0f9d88e0720df8cf0e1f68748d13f7cf",
+    "wof:geomhash":"12692d6a9f49839fc017c17476b53096",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440813,
     "wof:label":"Haddiscoe Civil Parish",
-    "wof:lastmodified":1566631204,
+    "wof:lastmodified":1695878251,
     "wof:name":"Haddiscoe",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

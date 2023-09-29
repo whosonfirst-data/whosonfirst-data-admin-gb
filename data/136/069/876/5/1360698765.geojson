@@ -408,9 +408,11 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25387,
         "fips:code":"UKD3",
+        "gbr-ons:gss_code":"1217",
         "gn:id":2651346,
         "gp:id":12602143,
         "hasc:id":"GB.DB",
+        "iso:code":"GB-DBY",
         "iso:id":"GB-DBY",
         "unlc:id":"GB-DBY",
         "wd:id":"Q23098"
@@ -420,6 +422,10 @@
             25389
         ]
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698539
     ],
@@ -444,7 +450,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495389,
+    "wof:lastmodified":1695886407,
     "wof:name":"Derbyshire",
     "wof:parent_id":1360698539,
     "wof:placetype":"county",

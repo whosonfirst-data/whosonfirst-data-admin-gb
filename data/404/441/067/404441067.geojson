@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001148,
-    "geom:area_square_m":8758230.190018,
+    "geom:area_square_m":8758230.190019,
     "geom:bbox":"-2.2714759752,51.8868475733,-2.2243661504,51.9263970606",
     "geom:latitude":51.907811,
     "geom:longitude":-2.249626,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.907377,
     "lbl:longitude":-2.249176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sandhurst"
@@ -63,12 +69,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004416"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326658919
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5c251c03c31a1a000a86c3eb293d9aed",
+    "wof:geomhash":"dd8d14e1bf9abe1fcb5432402d519d64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404441067,
     "wof:label":"Sandhurst Civil Parish",
-    "wof:lastmodified":1566631814,
+    "wof:lastmodified":1695876933,
     "wof:name":"Sandhurst",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

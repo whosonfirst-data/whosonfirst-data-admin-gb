@@ -10,12 +10,18 @@
     "geom:latitude":52.077408,
     "geom:longitude":-1.239889,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.076689,
     "lbl:longitude":-1.239669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thenford"
@@ -58,12 +64,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006860"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758259
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2760cb67a8c1857ef97b2d4374acf6ce",
+    "wof:geomhash":"ce605b7e6b0a49fc1d207450bc56a326",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404452543,
     "wof:label":"Thenford Civil Parish",
-    "wof:lastmodified":1566632208,
+    "wof:lastmodified":1695877103,
     "wof:name":"Thenford",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.931769,
     "geom:longitude":-3.237774,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.93018,
     "lbl:longitude":-3.243238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llansantffraid Glyn Ceiriog Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000232"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711691
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6e5d496c619734bf87f33433da2f2ce8",
+    "wof:geomhash":"6998729b115283503aa009b2ca4bdcc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404433221,
-    "wof:lastmodified":1566633656,
+    "wof:lastmodified":1695877755,
     "wof:name":"Llansantffraid Glyn Ceiriog Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

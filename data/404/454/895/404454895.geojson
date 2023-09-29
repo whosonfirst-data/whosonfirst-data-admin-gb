@@ -10,12 +10,18 @@
     "geom:latitude":51.608044,
     "geom:longitude":-2.606734,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.610547,
     "lbl:longitude":-2.610349,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u062a"
@@ -63,12 +69,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001041"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125816793
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a6fff092e2643b5b6239478ddbd0ff22",
+    "wof:geomhash":"e406d74880ddf12acf23a1594a03a73b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454895,
     "wof:label":"Aust Civil Parish",
-    "wof:lastmodified":1566632669,
+    "wof:lastmodified":1695877311,
     "wof:name":"Aust",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

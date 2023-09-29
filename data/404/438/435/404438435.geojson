@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002686,
-    "geom:area_square_m":20225518.974519,
+    "geom:area_square_m":20225518.974518,
     "geom:bbox":"-3.14635659974,52.4620244825,-3.03865303979,52.499931212",
     "geom:latitude":52.483241,
     "geom:longitude":-3.088777,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.481273,
     "lbl:longitude":-3.093134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mainstone"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011312"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125791205
     ],
     "wof:country":"GB",
-    "wof:geomhash":"852285a68e80c472e34369743a0d63f6",
+    "wof:geomhash":"e14de1a3c2cdd70e7b1823acfd4dd29e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404438435,
     "wof:label":"Mainstone Civil Parish",
-    "wof:lastmodified":1566632626,
+    "wof:lastmodified":1695877290,
     "wof:name":"Mainstone",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

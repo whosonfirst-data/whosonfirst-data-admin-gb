@@ -284,12 +284,18 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28404,
         "fips:code":"UKI1",
+        "gbr-ons:gss_code":"12KA",
         "gn:id":3333168,
         "gp:id":12696155,
         "hasc:id":"GB.LU",
+        "iso:code":"GB-LUT",
         "iso:id":"GB-LUT",
         "unlc:id":"GB-LUT"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101750401
     ],
@@ -314,7 +320,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495389,
+    "wof:lastmodified":1695886408,
     "wof:name":"Luton",
     "wof:parent_id":1360698527,
     "wof:placetype":"county",

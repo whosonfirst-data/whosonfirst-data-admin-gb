@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0014,
-    "geom:area_square_m":10745139.187262,
+    "geom:area_square_m":10745139.187263,
     "geom:bbox":"0.654935332894,51.5981814354,0.712531524678,51.6366689743",
     "geom:latitude":51.619541,
     "geom:longitude":0.685368,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.622172,
     "lbl:longitude":0.685359,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashingdon"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004074"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125991713
     ],
     "wof:country":"GB",
-    "wof:geomhash":"be392016e998a8655a607f23408acc83",
+    "wof:geomhash":"04c6dc65813d66ccc6af6996de0c33a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447717,
     "wof:label":"Ashingdon Civil Parish",
-    "wof:lastmodified":1566631337,
+    "wof:lastmodified":1695878313,
     "wof:name":"Ashingdon",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

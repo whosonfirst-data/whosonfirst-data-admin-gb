@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000342,
-    "geom:area_square_m":2609477.587517,
+    "geom:area_square_m":2609477.587518,
     "geom:bbox":"-0.45215818823,51.8466552537,-0.421639714189,51.8670137444",
     "geom:latitude":51.85583,
     "geom:longitude":-0.436606,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.857025,
     "lbl:longitude":-0.436376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u064a\u0628 \u0627\u0646\u062f"
@@ -72,12 +78,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011983"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125858435
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9fffd9ad74cb2cf513d84d082aaca44b",
+    "wof:geomhash":"84ba87a7626e121e40336d4c72d8df9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404440841,
     "wof:label":"Slip End Civil Parish",
-    "wof:lastmodified":1566631192,
+    "wof:lastmodified":1695878246,
     "wof:name":"Slip End",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

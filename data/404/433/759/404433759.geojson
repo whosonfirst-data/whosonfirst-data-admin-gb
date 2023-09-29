@@ -10,12 +10,18 @@
     "geom:latitude":51.886916,
     "geom:longitude":-2.647557,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.884325,
     "lbl:longitude":-2.64513,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marstow"
@@ -51,12 +57,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000827"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869359
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5ccb41a61b7c30ee459e8c0247faf9cc",
+    "wof:geomhash":"1e28898ef3870039970e4d44825cccd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404433759,
     "wof:label":"Marstow Civil Parish",
-    "wof:lastmodified":1566633702,
+    "wof:lastmodified":1695877776,
     "wof:name":"Marstow",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

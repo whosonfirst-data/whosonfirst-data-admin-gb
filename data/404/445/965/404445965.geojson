@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002293,
-    "geom:area_square_m":17720937.729833,
+    "geom:area_square_m":17720937.729832,
     "geom:bbox":"0.456576093108,51.2710644345,0.52677936535,51.3475848223",
     "geom:latitude":51.310708,
     "geom:longitude":0.488903,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.307876,
     "lbl:longitude":0.477815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "\u00c6geles\u00ferep"
@@ -75,12 +81,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005090"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125871997
     ],
     "wof:country":"GB",
-    "wof:geomhash":"048101fa048a2dfc1db9e92c1eb46ddf",
+    "wof:geomhash":"c9fc303736fa5455af984ae4c5dc8f3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404445965,
     "wof:label":"Aylesford Civil Parish",
-    "wof:lastmodified":1566633310,
+    "wof:lastmodified":1695877598,
     "wof:name":"Aylesford",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.012303,
     "geom:longitude":-1.606556,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.011221,
     "lbl:longitude":-1.603522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hampsthwaite"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007355"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125862783
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d5c22e5e12f24414dc55b880d84a376a",
+    "wof:geomhash":"e3bc37933ba7cb853f7428628a2905ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404432377,
     "wof:label":"Hampsthwaite Civil Parish",
-    "wof:lastmodified":1566633909,
+    "wof:lastmodified":1695877854,
     "wof:name":"Hampsthwaite",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

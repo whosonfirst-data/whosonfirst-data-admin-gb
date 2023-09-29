@@ -10,12 +10,18 @@
     "geom:latitude":54.202478,
     "geom:longitude":-1.548527,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.202352,
     "lbl:longitude":-1.548981,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Tanfield"
@@ -49,12 +55,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007170"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756259
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2c71a922bd8c643c3b662cc7c8a4a25c",
+    "wof:geomhash":"4b98e02fb7c9e7ac0d12d1e402decbb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404448047,
     "wof:label":"East Tanfield Civil Parish",
-    "wof:lastmodified":1566631487,
+    "wof:lastmodified":1695876808,
     "wof:name":"East Tanfield",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

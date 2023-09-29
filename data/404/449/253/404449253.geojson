@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003296,
-    "geom:area_square_m":25647026.257207,
+    "geom:area_square_m":25647026.257208,
     "geom:bbox":"-0.0201040946413,50.9641862786,0.0821739201362,51.0284890397",
     "geom:latitude":50.995448,
     "geom:longitude":0.036156,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.995358,
     "lbl:longitude":0.036156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0630\u0629"
@@ -63,12 +69,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003840"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125810085
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fe824a70e7c9d5030dce25ccead59d62",
+    "wof:geomhash":"75ed59bf0aa3384eea4e383d66993640",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404449253,
     "wof:label":"Fletching Civil Parish",
-    "wof:lastmodified":1566631434,
+    "wof:lastmodified":1695876785,
     "wof:name":"Fletching",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

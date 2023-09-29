@@ -10,12 +10,18 @@
     "geom:latitude":51.726491,
     "geom:longitude":-4.919842,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.725889,
     "lbl:longitude":-4.92244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burton Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000935"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711739
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c006bdcd36c5ec03d5ce77b29ee6652a",
+    "wof:geomhash":"85c309ec32a02befce32c19feaa0f4ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404434619,
-    "wof:lastmodified":1566633552,
+    "wof:lastmodified":1695877709,
     "wof:name":"Burton Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

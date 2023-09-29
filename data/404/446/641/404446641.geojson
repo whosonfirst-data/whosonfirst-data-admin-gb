@@ -10,12 +10,18 @@
     "geom:latitude":52.124666,
     "geom:longitude":1.265689,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.127188,
     "lbl:longitude":1.268815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Burgh"
@@ -90,12 +96,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009382"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293328065
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a4cd2d19425b820cf98c8a13a32d6161",
+    "wof:geomhash":"d04581ba6d915593848de1b7fc6ded86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404446641,
     "wof:label":"Burgh Civil Parish",
-    "wof:lastmodified":1566631679,
+    "wof:lastmodified":1695876878,
     "wof:name":"Burgh",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

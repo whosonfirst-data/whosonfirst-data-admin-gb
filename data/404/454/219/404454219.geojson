@@ -10,12 +10,18 @@
     "geom:latitude":52.327033,
     "geom:longitude":1.073774,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.328151,
     "lbl:longitude":1.075293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mellis"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009225"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125862197
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6cc857a2d5dda8ea3b3aca84961010b6",
+    "wof:geomhash":"4c1617dc8d65b437128d9a1de604cda5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454219,
     "wof:label":"Mellis Civil Parish",
-    "wof:lastmodified":1566632664,
+    "wof:lastmodified":1695877308,
     "wof:name":"Mellis",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

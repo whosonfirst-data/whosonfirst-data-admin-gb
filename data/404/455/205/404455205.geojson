@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001588,
-    "geom:area_square_m":11787778.226346,
+    "geom:area_square_m":11787778.226345,
     "geom:bbox":"-2.78332446229,53.1011916233,-2.71105821423,53.1345877845",
     "geom:latitude":53.119382,
     "geom:longitude":-2.749944,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.11925,
     "lbl:longitude":-2.750642,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u062a\u0646\u0647\u0627\u0644"
@@ -66,12 +72,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011175"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125817585
     ],
     "wof:country":"GB",
-    "wof:geomhash":"392cd224a2fa4f12502fc6979092167f",
+    "wof:geomhash":"3643c5400f62b9c277bcec44999e652a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404455205,
     "wof:label":"Tattenhall Civil Parish",
-    "wof:lastmodified":1566632285,
+    "wof:lastmodified":1695877135,
     "wof:name":"Tattenhall",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

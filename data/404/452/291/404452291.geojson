@@ -10,12 +10,18 @@
     "geom:latitude":51.282037,
     "geom:longitude":1.151664,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.282673,
     "lbl:longitude":1.152037,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Littlebourne"
@@ -69,12 +75,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004880"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802063
     ],
     "wof:country":"GB",
-    "wof:geomhash":"35a0b936fdecf23ede4967183b51f31b",
+    "wof:geomhash":"94feb6d210ad346be0c2bd37ea3c9b04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404452291,
     "wof:label":"Littlebourne Civil Parish",
-    "wof:lastmodified":1566632248,
+    "wof:lastmodified":1695877120,
     "wof:name":"Littlebourne",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

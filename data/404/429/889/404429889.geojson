@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000584,
-    "geom:area_square_m":4372112.479684,
+    "geom:area_square_m":4372112.479683,
     "geom:bbox":"0.75796645876,52.7463038611,0.787988964073,52.779125261",
     "geom:latitude":52.761429,
     "geom:longitude":0.771871,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.761798,
     "lbl:longitude":0.773082,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wellingham"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006191"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243589317
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c23f7c346c81886232504ae2bc19f26",
+    "wof:geomhash":"7cd92a37b8806c5a4bdf5c81d1628fed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404429889,
     "wof:label":"Wellingham Civil Parish",
-    "wof:lastmodified":1566633109,
+    "wof:lastmodified":1695877510,
     "wof:name":"Wellingham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

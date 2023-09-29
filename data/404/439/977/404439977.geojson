@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004136,
-    "geom:area_square_m":30622623.412304,
+    "geom:area_square_m":30622623.412305,
     "geom:bbox":"-3.57124705213,53.1843426162,-3.464911786,53.2451033086",
     "geom:latitude":53.215994,
     "geom:longitude":-3.517837,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.213896,
     "lbl:longitude":-3.511507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llannefydd Community"
@@ -40,12 +46,15 @@
         1360698739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000128"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125992051
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9ed6e7fd79c345702f7f530dc6844a9d",
+    "wof:geomhash":"48ca4a25cba31e58b85c0b3c8dc36894",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404439977,
-    "wof:lastmodified":1566631870,
+    "wof:lastmodified":1695876959,
     "wof:name":"Llannefydd Community",
     "wof:parent_id":1360698739,
     "wof:placetype":"localadmin",

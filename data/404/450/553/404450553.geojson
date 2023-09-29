@@ -10,12 +10,18 @@
     "geom:latitude":50.402054,
     "geom:longitude":-5.106787,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.401298,
     "lbl:longitude":-5.106267,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0646\u062a\u0643"
@@ -81,12 +87,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011422"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125790293
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5f3e6053cb152df853a3ace8225ca894",
+    "wof:geomhash":"b780c20acc832f7917c371426328ba33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404450553,
     "wof:label":"Crantock Civil Parish",
-    "wof:lastmodified":1566633805,
+    "wof:lastmodified":1695877820,
     "wof:name":"Crantock",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

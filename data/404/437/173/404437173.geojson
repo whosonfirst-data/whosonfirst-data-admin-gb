@@ -10,12 +10,18 @@
     "geom:latitude":54.781078,
     "geom:longitude":-1.427676,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.783404,
     "lbl:longitude":-1.427672,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Haswell"
@@ -63,12 +69,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010639"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326665375
     ],
     "wof:country":"GB",
-    "wof:geomhash":"07a58fa1ec9ca43d2c27adfcec67ad63",
+    "wof:geomhash":"1802442703e1dd1c8daa3e4963bd5b46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404437173,
     "wof:label":"Haswell Civil Parish",
-    "wof:lastmodified":1566632092,
+    "wof:lastmodified":1695877055,
     "wof:name":"Haswell",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

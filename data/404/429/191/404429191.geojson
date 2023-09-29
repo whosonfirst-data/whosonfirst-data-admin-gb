@@ -10,12 +10,18 @@
     "geom:latitude":50.677714,
     "geom:longitude":-4.642662,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.67937,
     "lbl:longitude":-4.642666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0633\u0646\u0648\u062b"
@@ -72,12 +78,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011468"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868875
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5951b3c8594ca301c228028a06cf8478",
+    "wof:geomhash":"d082f39cf4710618ff0121b12bcaa304",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404429191,
     "wof:label":"Lesnewth Civil Parish",
-    "wof:lastmodified":1566633144,
+    "wof:lastmodified":1695877525,
     "wof:name":"Lesnewth",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

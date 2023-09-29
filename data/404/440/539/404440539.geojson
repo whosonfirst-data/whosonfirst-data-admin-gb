@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000619,
-    "geom:area_square_m":4669710.351278,
+    "geom:area_square_m":4669710.351279,
     "geom:bbox":"1.25043182835,52.3742855687,1.29173371656,52.4028377008",
     "geom:latitude":52.390073,
     "geom:longitude":1.267114,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.389924,
     "lbl:longitude":1.263984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Needham"
@@ -87,12 +93,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006578"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276158575
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f7ad4d718e0af076fab5f391cfd598dc",
+    "wof:geomhash":"fd922a37ed83ec8817b685227b2d0caa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404440539,
     "wof:label":"Needham Civil Parish",
-    "wof:lastmodified":1566631180,
+    "wof:lastmodified":1695878240,
     "wof:name":"Needham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

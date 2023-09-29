@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003088,
-    "geom:area_square_m":23824492.603574,
+    "geom:area_square_m":23824492.603573,
     "geom:bbox":"0.816995103004,51.364326322,0.902688093372,51.4256766706",
     "geom:latitude":51.397238,
     "geom:longitude":0.859238,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.396942,
     "lbl:longitude":0.859238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eastchurch"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005050"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125850993
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bbdf02620ca56a94bc7efdbe68722010",
+    "wof:geomhash":"b82ef5c77e382d3b397c495827f2c039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447793,
     "wof:label":"Eastchurch Civil Parish",
-    "wof:lastmodified":1566631294,
+    "wof:lastmodified":1695878293,
     "wof:name":"Eastchurch",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005201,
-    "geom:area_square_m":38548126.459867,
+    "geom:area_square_m":38548126.459865,
     "geom:bbox":"-1.55299129149,53.1197011165,-1.44388614771,53.2010574021",
     "geom:latitude":53.169347,
     "geom:longitude":-1.493663,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.170423,
     "lbl:longitude":-1.488294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashover"
@@ -63,12 +69,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002861"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878519
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ee2dbbc8c0b652468c947e44202ee156",
+    "wof:geomhash":"389601f5d2efc878b598fde3b5b90928",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447153,
     "wof:label":"Ashover Civil Parish",
-    "wof:lastmodified":1566631291,
+    "wof:lastmodified":1695878291,
     "wof:name":"Ashover",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

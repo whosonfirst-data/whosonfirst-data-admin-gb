@@ -10,12 +10,18 @@
     "geom:latitude":52.562271,
     "geom:longitude":-0.716021,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.5634,
     "lbl:longitude":-0.718092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lyddington"
@@ -60,12 +66,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000653"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125960833
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1b2ced12c8695979b62887b45e7d75ac",
+    "wof:geomhash":"ec5d395a1f97feab420fbd6a2e70691f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404433633,
     "wof:label":"Lyddington Civil Parish",
-    "wof:lastmodified":1566633663,
+    "wof:lastmodified":1695877758,
     "wof:name":"Lyddington",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.201378,
     "geom:longitude":-0.252733,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.201753,
     "lbl:longitude":-0.250038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leigh"
@@ -75,12 +81,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009572"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126028839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"659868c58f2a3520f6d0b3a041fe2c8c",
+    "wof:geomhash":"0866b74c558fe27cfc4b65bcc1572fa0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404429681,
     "wof:label":"Leigh Civil Parish",
-    "wof:lastmodified":1566633106,
+    "wof:lastmodified":1695877508,
     "wof:name":"Leigh",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

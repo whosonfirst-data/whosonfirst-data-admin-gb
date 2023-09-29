@@ -10,12 +10,18 @@
     "geom:latitude":51.523938,
     "geom:longitude":-2.274925,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.525049,
     "lbl:longitude":-2.274566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Acton Turville"
@@ -63,12 +69,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001038"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259518769
     ],
     "wof:country":"GB",
-    "wof:geomhash":"562e1735eb253f98778736b1b1c2611c",
+    "wof:geomhash":"d265cb40ce06c28ed29873396569beab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404448415,
     "wof:label":"Acton Turville Civil Parish",
-    "wof:lastmodified":1566631485,
+    "wof:lastmodified":1695876808,
     "wof:name":"Acton Turville",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.865757,
     "geom:longitude":-1.57636,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.862995,
     "lbl:longitude":-1.579057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lyndhurst"
@@ -75,12 +81,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004575"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852459
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f99a9c073089467177b04a8efa3e30a6",
+    "wof:geomhash":"83f3d09dac2d90d0cfafd35db8168092",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404455133,
     "wof:label":"Lyndhurst Civil Parish",
-    "wof:lastmodified":1566632272,
+    "wof:lastmodified":1695877130,
     "wof:name":"Lyndhurst",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.761187,
     "geom:longitude":0.728938,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.765824,
     "lbl:longitude":0.731271,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Totham"
@@ -70,9 +76,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04004055",
         "gn:id":7293528,
         "qs_pg:id":1040723
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225873559
     ],
@@ -80,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8aba3c827df6ca8ef6593aa851d4150f",
+    "wof:geomhash":"69e3f681cfe88de540574bbc8e8c866b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +101,7 @@
     ],
     "wof:id":404444993,
     "wof:label":"Little Totham Civil Parish",
-    "wof:lastmodified":1582311118,
+    "wof:lastmodified":1695877975,
     "wof:name":"Little Totham",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

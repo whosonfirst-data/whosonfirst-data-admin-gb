@@ -10,12 +10,18 @@
     "geom:latitude":50.658607,
     "geom:longitude":-2.590903,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.661214,
     "lbl:longitude":-2.599816,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Abbotsbury"
@@ -72,12 +78,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003492"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846949
     ],
     "wof:country":"GB",
-    "wof:geomhash":"43a208325520227615fe47af6d69b8ce",
+    "wof:geomhash":"a9bf08e99b278415a8cc8182e73dca21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404443339,
     "wof:label":"Abbotsbury Civil Parish",
-    "wof:lastmodified":1566632994,
+    "wof:lastmodified":1695877454,
     "wof:name":"Abbotsbury",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

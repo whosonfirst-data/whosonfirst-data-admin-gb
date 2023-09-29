@@ -10,12 +10,18 @@
     "geom:latitude":53.389494,
     "geom:longitude":-0.184578,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.390952,
     "lbl:longitude":-0.200003,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ludford"
@@ -52,12 +58,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005684"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758295
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0892756ba8340619891ff3cc047382b0",
+    "wof:geomhash":"2f2e631aeff7905d757ffa2645287803",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404443319,
     "wof:label":"Ludford Civil Parish",
-    "wof:lastmodified":1566633088,
+    "wof:lastmodified":1695877499,
     "wof:name":"Ludford",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000699,
-    "geom:area_square_m":5352573.302429,
+    "geom:area_square_m":5352573.302427,
     "geom:bbox":"-4.57495267273,51.7340291976,-4.52862758688,51.765522153",
     "geom:latitude":51.74588,
     "geom:longitude":-4.553341,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.747224,
     "lbl:longitude":-4.558777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pendine Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000552"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125995089
     ],
     "wof:country":"GB",
-    "wof:geomhash":"23209558b284aa09e79ac1b69f34033f",
+    "wof:geomhash":"23923d58ce3ea1c9d63310dbf5a9d6bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444675,
-    "wof:lastmodified":1566632875,
+    "wof:lastmodified":1695877406,
     "wof:name":"Pendine Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

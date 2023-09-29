@@ -10,12 +10,18 @@
     "geom:latitude":53.2218,
     "geom:longitude":0.168389,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.221503,
     "lbl:longitude":0.168074,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Claxby St. Andrew"
@@ -40,12 +46,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005616"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759173
     ],
     "wof:country":"GB",
-    "wof:geomhash":"90c4559bc24eabc63c3ea34a61ee0410",
+    "wof:geomhash":"8b74960dab51d04db10763ae6891bbdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404445049,
     "wof:label":"Claxby St. Andrew Civil Parish",
-    "wof:lastmodified":1566633332,
+    "wof:lastmodified":1695877608,
     "wof:name":"Claxby St. Andrew",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

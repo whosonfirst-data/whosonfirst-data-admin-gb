@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000514,
-    "geom:area_square_m":3822618.549512,
+    "geom:area_square_m":3822618.549511,
     "geom:bbox":"-2.52630199574,53.0209932853,-2.49042772845,53.0546608686",
     "geom:latitude":53.034621,
     "geom:longitude":-2.508498,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.030445,
     "lbl:longitude":-2.504016,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Austerson"
@@ -55,12 +61,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010900"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757671
     ],
     "wof:country":"GB",
-    "wof:geomhash":"39c756479326d49f67a470988fc5add7",
+    "wof:geomhash":"bc5556b4a2ef9416419a455167659a02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404432527,
     "wof:label":"Austerson Civil Parish",
-    "wof:lastmodified":1566633914,
+    "wof:lastmodified":1695877857,
     "wof:name":"Austerson",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

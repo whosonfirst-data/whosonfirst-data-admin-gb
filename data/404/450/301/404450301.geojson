@@ -10,12 +10,18 @@
     "geom:latitude":52.698862,
     "geom:longitude":-0.450104,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.697896,
     "lbl:longitude":-0.447692,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Essendine"
@@ -66,12 +72,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000641"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310332101
     ],
     "wof:country":"GB",
-    "wof:geomhash":"67f49b7f90dad8edc716b408fba9cfe4",
+    "wof:geomhash":"4866d6010393a0e21afe9ec4efd22892",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404450301,
     "wof:label":"Essendine Civil Parish",
-    "wof:lastmodified":1566633752,
+    "wof:lastmodified":1695877798,
     "wof:name":"Essendine",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

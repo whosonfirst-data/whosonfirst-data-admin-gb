@@ -10,12 +10,18 @@
     "geom:latitude":51.37379,
     "geom:longitude":-1.041872,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.372139,
     "lbl:longitude":-1.042652,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u062a\u0641\u064a\u0644\u062f \u0645\u0648\u0631\u062a\u064a\u0645\u0631"
@@ -72,12 +78,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001190"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881933
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4f7b3c7db34e8cf3c74f767feb385277",
+    "wof:geomhash":"51903ceb694d6d3ef7c9e472ac533e79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404429645,
     "wof:label":"Stratfield Mortimer Civil Parish",
-    "wof:lastmodified":1566633111,
+    "wof:lastmodified":1695877511,
     "wof:name":"Stratfield Mortimer",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

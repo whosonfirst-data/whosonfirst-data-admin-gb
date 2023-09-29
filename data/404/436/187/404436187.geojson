@@ -10,12 +10,18 @@
     "geom:latitude":52.932315,
     "geom:longitude":1.183557,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.931785,
     "lbl:longitude":1.181487,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upper Sheringham"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006492"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126007003
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c9ebddf65bf3c5468e2124551c9f7d32",
+    "wof:geomhash":"e1f16ce9c456a635b139f1ce24f90f28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404436187,
     "wof:label":"Upper Sheringham Civil Parish",
-    "wof:lastmodified":1566632360,
+    "wof:lastmodified":1695877169,
     "wof:name":"Upper Sheringham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

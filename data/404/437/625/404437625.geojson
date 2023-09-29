@@ -10,12 +10,18 @@
     "geom:latitude":51.338202,
     "geom:longitude":-2.049756,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.338324,
     "lbl:longitude":-2.048235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Poulshot"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011798"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226271855
     ],
     "wof:country":"GB",
-    "wof:geomhash":"36770fdea9eeeb3d5546fbc75b2af28a",
+    "wof:geomhash":"00cb2ba582afbb86f3a2a3498477fdb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404437625,
     "wof:label":"Poulshot Civil Parish",
-    "wof:lastmodified":1566632120,
+    "wof:lastmodified":1695877066,
     "wof:name":"Poulshot",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

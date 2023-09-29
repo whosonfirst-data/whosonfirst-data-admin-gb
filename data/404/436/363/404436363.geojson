@@ -10,12 +10,18 @@
     "geom:latitude":52.624372,
     "geom:longitude":1.396583,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.61839,
     "lbl:longitude":1.390485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Postwick with Witton"
@@ -61,12 +67,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006241"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758503
     ],
     "wof:country":"GB",
-    "wof:geomhash":"56f850081927bc5748465546df13ffdf",
+    "wof:geomhash":"01d5fcbe79d539d911509df9925b0194",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404436363,
     "wof:label":"Postwick with Witton Civil Parish",
-    "wof:lastmodified":1566632329,
+    "wof:lastmodified":1695877154,
     "wof:name":"Postwick with Witton",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

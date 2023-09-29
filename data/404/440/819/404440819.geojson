@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004643,
-    "geom:area_square_m":34455515.416267,
+    "geom:area_square_m":34455515.416264,
     "geom:bbox":"-3.60200186701,53.0784266541,-3.44451311932,53.1651961695",
     "geom:latitude":53.123072,
     "geom:longitude":-3.517683,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.128406,
     "lbl:longitude":-3.505756,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nantglyn Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000170"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125989961
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f4a5c9280f3e26617919a2ccd4245ea",
+    "wof:geomhash":"70af506d51663b3a98807e3163f711c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440819,
-    "wof:lastmodified":1566631147,
+    "wof:lastmodified":1695878225,
     "wof:name":"Nantglyn Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

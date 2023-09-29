@@ -10,12 +10,18 @@
     "geom:latitude":50.865824,
     "geom:longitude":-0.84464,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.867061,
     "lbl:longitude":-0.845372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Funtington"
@@ -57,12 +63,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009904"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126014875
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a346756170c8275c5a676c1fe5beed08",
+    "wof:geomhash":"e8b0d0cd76bb21601be6d1e785e481a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404450007,
     "wof:label":"Funtington Civil Parish",
-    "wof:lastmodified":1566633772,
+    "wof:lastmodified":1695877806,
     "wof:name":"Funtington",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

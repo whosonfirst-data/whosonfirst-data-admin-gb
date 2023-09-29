@@ -10,12 +10,18 @@
     "geom:latitude":52.506271,
     "geom:longitude":-2.762138,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.505639,
     "lbl:longitude":-2.759416,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eaton-Under-Heywood"
@@ -40,12 +46,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011267"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757567
     ],
     "wof:country":"GB",
-    "wof:geomhash":"338bf225c9db74971a5f6170c0744d59",
+    "wof:geomhash":"fd5e001aad4c02348d8bb5dd76787d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404442151,
     "wof:label":"Eaton-Under-Heywood Civil Parish",
-    "wof:lastmodified":1566633206,
+    "wof:lastmodified":1695877553,
     "wof:name":"Eaton-Under-Heywood",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

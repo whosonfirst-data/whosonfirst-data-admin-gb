@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004506,
-    "geom:area_square_m":34014946.874726,
+    "geom:area_square_m":34014946.874725,
     "geom:bbox":"-4.12205879698,52.3353377211,-3.99163185703,52.4097508533",
     "geom:latitude":52.376451,
     "geom:longitude":-4.064285,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.372978,
     "lbl:longitude":-4.084984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfarian Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000378"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844711
     ],
     "wof:country":"GB",
-    "wof:geomhash":"12c9734272781bff27912ae109189a70",
+    "wof:geomhash":"764685e2d45b20cc4b90cc2fab87de43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449295,
-    "wof:lastmodified":1566631377,
+    "wof:lastmodified":1695878328,
     "wof:name":"Llanfarian Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

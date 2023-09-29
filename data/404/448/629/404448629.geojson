@@ -10,12 +10,18 @@
     "geom:latitude":51.342731,
     "geom:longitude":-1.73091,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.341632,
     "lbl:longitude":-1.73251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Milton Lilbourne"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011777"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226471599
     ],
     "wof:country":"GB",
-    "wof:geomhash":"becb6a49801ac0d7bd295b98a1852166",
+    "wof:geomhash":"aaf07d84eb92b3dfd007ca96912cc93f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404448629,
     "wof:label":"Milton Lilbourne Civil Parish",
-    "wof:lastmodified":1566631486,
+    "wof:lastmodified":1695876808,
     "wof:name":"Milton Lilbourne",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

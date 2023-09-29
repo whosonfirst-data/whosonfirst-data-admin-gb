@@ -10,12 +10,18 @@
     "geom:latitude":51.835159,
     "geom:longitude":0.857883,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.835454,
     "lbl:longitude":0.858318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Layer-De-La-Haye"
@@ -42,12 +48,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003996"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125772915
     ],
     "wof:country":"GB",
-    "wof:geomhash":"774f7abb19965323e103e6e6ca44bc18",
+    "wof:geomhash":"15bc91772117ad6ba373cbe29805f455",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404449369,
     "wof:label":"Layer-De-La-Haye Civil Parish",
-    "wof:lastmodified":1566631408,
+    "wof:lastmodified":1695878342,
     "wof:name":"Layer-De-La-Haye",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

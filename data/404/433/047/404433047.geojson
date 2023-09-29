@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004364,
-    "geom:area_square_m":31758490.109285,
+    "geom:area_square_m":31758490.109284,
     "geom:bbox":"-0.73159704578,53.9176946929,-0.624901308022,53.980194752",
     "geom:latitude":53.951312,
     "geom:longitude":-0.67118,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.95312,
     "lbl:longitude":-0.66484,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Warter"
@@ -57,12 +63,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000495"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846293
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5f62ac679f6872114ce56543b0c2a610",
+    "wof:geomhash":"f79da9bb3297683f706f1a3a5b437cf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404433047,
     "wof:label":"Warter Civil Parish",
-    "wof:lastmodified":1566633661,
+    "wof:lastmodified":1695877756,
     "wof:name":"Warter",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

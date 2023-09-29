@@ -10,12 +10,18 @@
     "geom:latitude":53.307532,
     "geom:longitude":-3.750622,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.308637,
     "lbl:longitude":-3.749131,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rhos-On-Sea Community"
@@ -44,9 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"W04000137",
         "gn:id":7294613,
         "qs_pg:id":1040761
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125774065
     ],
@@ -54,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c447d2db4351d11da336d76c33333467",
+    "wof:geomhash":"df973f28b978c70e6f0622f0d0f55473",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":404433449,
-    "wof:lastmodified":1582311146,
+    "wof:lastmodified":1695877985,
     "wof:name":"Rhos-On-Sea Community",
     "wof:parent_id":1360698739,
     "wof:placetype":"localadmin",

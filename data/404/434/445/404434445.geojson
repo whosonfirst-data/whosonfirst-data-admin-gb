@@ -10,12 +10,18 @@
     "geom:latitude":52.583499,
     "geom:longitude":-1.162362,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.58671,
     "lbl:longitude":-1.166187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glen Parva"
@@ -54,12 +60,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005350"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126007491
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8f55c63336d5a29d61b2e92c2dbe616a",
+    "wof:geomhash":"b117018c82f7722f536a306b31b94a58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404434445,
     "wof:label":"Glen Parva Civil Parish",
-    "wof:lastmodified":1566633610,
+    "wof:lastmodified":1695877736,
     "wof:name":"Glen Parva",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

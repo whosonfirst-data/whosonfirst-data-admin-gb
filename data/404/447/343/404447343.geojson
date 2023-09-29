@@ -10,12 +10,18 @@
     "geom:latitude":51.954065,
     "geom:longitude":-0.534714,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.953906,
     "lbl:longitude":-0.534702,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Toddington"
@@ -54,12 +60,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011996"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125907555
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7b708a585afd69ec636550486c75de9d",
+    "wof:geomhash":"c52667c0577a397e3680fa1f54e657d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447343,
     "wof:label":"Toddington Civil Parish",
-    "wof:lastmodified":1566631345,
+    "wof:lastmodified":1695878316,
     "wof:name":"Toddington",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

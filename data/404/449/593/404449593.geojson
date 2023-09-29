@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000868,
-    "geom:area_square_m":6340368.962645,
+    "geom:area_square_m":6340368.962646,
     "geom:bbox":"-2.53247571413,53.7828943349,-2.47851470762,53.8171891592",
     "geom:latitude":53.797083,
     "geom:longitude":-2.512122,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.798111,
     "lbl:longitude":-2.514781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clayton-Le-Dale"
@@ -40,12 +46,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005252"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753889
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e9eeefe3698a7e39c39621ef2edbfc90",
+    "wof:geomhash":"84ef6bc3251e789f2bab194da6a87fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404449593,
     "wof:label":"Clayton-Le-Dale Civil Parish",
-    "wof:lastmodified":1566631351,
+    "wof:lastmodified":1695878317,
     "wof:name":"Clayton-Le-Dale",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

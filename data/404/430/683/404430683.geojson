@@ -10,12 +10,18 @@
     "geom:latitude":54.019642,
     "geom:longitude":-2.899853,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.016142,
     "lbl:longitude":-2.899326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Middleton"
@@ -112,12 +118,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005195"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754791
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9b640320adb11286bff4adaf64672fe9",
+    "wof:geomhash":"fd9b053ab8f829dfb941728f8cb5c190",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +139,7 @@
     ],
     "wof:id":404430683,
     "wof:label":"Middleton Civil Parish",
-    "wof:lastmodified":1566632019,
+    "wof:lastmodified":1695877023,
     "wof:name":"Middleton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

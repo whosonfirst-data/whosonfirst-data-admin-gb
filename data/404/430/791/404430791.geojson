@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000812,
-    "geom:area_square_m":5869044.136754,
+    "geom:area_square_m":5869044.136755,
     "geom:bbox":"-0.871087153706,54.1912829449,-0.826272588572,54.2188126885",
     "geom:latitude":54.206501,
     "geom:longitude":-0.848774,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.205807,
     "lbl:longitude":-0.846953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barugh (Great and Little)"
@@ -43,12 +49,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007551"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754957
     ],
     "wof:country":"GB",
-    "wof:geomhash":"be6efb6ff560f2e1eab4a8ab4b1287b0",
+    "wof:geomhash":"1b4895ffb8bd9dcdddc98b403248652a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404430791,
     "wof:label":"Barugh (Great and Little) Civil Parish",
-    "wof:lastmodified":1566631941,
+    "wof:lastmodified":1695876992,
     "wof:name":"Barugh (Great and Little)",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

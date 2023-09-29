@@ -10,12 +10,18 @@
     "geom:latitude":53.713986,
     "geom:longitude":-0.491297,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.712444,
     "lbl:longitude":-0.490876,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Ferriby"
@@ -69,12 +75,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000446"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126034491
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b4e3dfbc813239ac1e7dd69bb1e24507",
+    "wof:geomhash":"adf1dc70129114f450e3fc5eb4270972",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404433831,
     "wof:label":"North Ferriby Civil Parish",
-    "wof:lastmodified":1566633719,
+    "wof:lastmodified":1695877784,
     "wof:name":"North Ferriby",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

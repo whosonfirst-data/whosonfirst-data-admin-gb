@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002647,
-    "geom:area_square_m":20689370.425162,
+    "geom:area_square_m":20689370.425161,
     "geom:bbox":"-2.55851580874,50.7658728325,-2.49298510808,50.8324441242",
     "geom:latitude":50.800965,
     "geom:longitude":-2.526789,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.801867,
     "lbl:longitude":-2.526164,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sydling St. Nicholas"
@@ -42,12 +48,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003602"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125864985
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8e40d017ad38bfb57cf4ba2e2fc89bec",
+    "wof:geomhash":"9988fc6d244a584524c82fb258a55817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404432709,
     "wof:label":"Sydling St. Nicholas Civil Parish",
-    "wof:lastmodified":1566633859,
+    "wof:lastmodified":1695877840,
     "wof:name":"Sydling St. Nicholas",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

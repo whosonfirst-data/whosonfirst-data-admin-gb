@@ -10,12 +10,18 @@
     "geom:latitude":51.259304,
     "geom:longitude":-0.677988,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.255379,
     "lbl:longitude":-0.681398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Normandi\u00eb"
@@ -243,12 +249,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009547"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125966273
     ],
     "wof:country":"GB",
-    "wof:geomhash":"47df1379d7b4966882e2a8b376d6d8bf",
+    "wof:geomhash":"a13814e54f92d9813de8412c6b705ce3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -261,7 +270,7 @@
     ],
     "wof:id":404452693,
     "wof:label":"Normandy Civil Parish",
-    "wof:lastmodified":1566632198,
+    "wof:lastmodified":1695877099,
     "wof:name":"Normandy",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.169973,
     "geom:longitude":-2.98195,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.171494,
     "lbl:longitude":-2.979288,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Broughton and Bretton Community"
@@ -40,9 +46,12 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000180"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"14bfe1187894171c2b8b3c2384a4f10e",
+    "wof:geomhash":"1a87edea7ed69303c29c9399309c9cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404448995,
-    "wof:lastmodified":1566631523,
+    "wof:lastmodified":1695876823,
     "wof:name":"Broughton and Bretton Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

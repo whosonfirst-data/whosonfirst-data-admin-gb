@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001112,
-    "geom:area_square_m":8420018.915736,
+    "geom:area_square_m":8420018.915737,
     "geom:bbox":"0.0152759974033,52.2064522062,0.0787120240492,52.237523595",
     "geom:latitude":52.223115,
     "geom:longitude":0.047191,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.223741,
     "lbl:longitude":0.044062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u063a\u0644\u064a"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001824"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125959359
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1121381cc4f3383a17b309742315bf3d",
+    "wof:geomhash":"d34228b7ec3f3f7d19d40d281c4725b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404443747,
     "wof:label":"Madingley Civil Parish",
-    "wof:lastmodified":1566633030,
+    "wof:lastmodified":1695877473,
     "wof:name":"Madingley",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

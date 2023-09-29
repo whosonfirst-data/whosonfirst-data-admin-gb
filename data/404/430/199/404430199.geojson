@@ -10,12 +10,18 @@
     "geom:latitude":53.356371,
     "geom:longitude":0.142342,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.346284,
     "lbl:longitude":0.122077,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Carlton"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005645"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226784823
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cfd8d6cd32cd111913e6e778b8e2131a",
+    "wof:geomhash":"0fec8a2fc83c2bfdd91d3ad2b85e7f02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430199,
     "wof:label":"Great Carlton Civil Parish",
-    "wof:lastmodified":1566632003,
+    "wof:lastmodified":1695877016,
     "wof:name":"Great Carlton",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

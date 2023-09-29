@@ -10,12 +10,18 @@
     "geom:latitude":54.133998,
     "geom:longitude":-1.390957,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.136865,
     "lbl:longitude":-1.384375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norton-Le-Clay"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007402"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754033
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6d2268bb044ed2084c5576f42f861301",
+    "wof:geomhash":"6f9f7883033b9ee7625c848561a1d4de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404446587,
     "wof:label":"Norton-Le-Clay Civil Parish",
-    "wof:lastmodified":1566631651,
+    "wof:lastmodified":1695876868,
     "wof:name":"Norton-Le-Clay",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

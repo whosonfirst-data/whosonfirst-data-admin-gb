@@ -10,12 +10,18 @@
     "geom:latitude":51.829259,
     "geom:longitude":-2.394987,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.832187,
     "lbl:longitude":-2.390514,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Westbury-On-Severn"
@@ -42,12 +48,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004331"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125772223
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c9568fb724c14f95b46a6dbf820d1121",
+    "wof:geomhash":"26135771ea093aceb80ad8a44030f4f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404449577,
     "wof:label":"Westbury-On-Severn Civil Parish",
-    "wof:lastmodified":1566631455,
+    "wof:lastmodified":1695876794,
     "wof:name":"Westbury-On-Severn",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

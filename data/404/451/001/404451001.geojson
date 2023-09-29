@@ -10,12 +10,18 @@
     "geom:latitude":53.185498,
     "geom:longitude":-4.031602,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.170728,
     "lbl:longitude":-4.01344,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanllechid Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000082"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125970523
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b712142b3ccafa3ed834e01d4e91294b",
+    "wof:geomhash":"991439858eb4e96fc69555a441d5bc9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404451001,
-    "wof:lastmodified":1566633462,
+    "wof:lastmodified":1695877664,
     "wof:name":"Llanllechid Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002149,
-    "geom:area_square_m":16322710.721911,
+    "geom:area_square_m":16322710.721912,
     "geom:bbox":"-0.359726964586,52.0893853053,-0.26879668756,52.1269748173",
     "geom:latitude":52.104843,
     "geom:longitude":-0.314757,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.10727,
     "lbl:longitude":-0.322977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062a\u0647\u064a\u0644"
@@ -69,12 +75,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011973"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125785653
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e7b46ab1e4098fa201eac775054eb9db",
+    "wof:geomhash":"34857bd325d9e1330e99e965ac3b1ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404446685,
     "wof:label":"Northill Civil Parish",
-    "wof:lastmodified":1566631670,
+    "wof:lastmodified":1695876874,
     "wof:name":"Northill",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

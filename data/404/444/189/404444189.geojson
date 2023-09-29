@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00105,
-    "geom:area_square_m":8056092.635477,
+    "geom:area_square_m":8056092.635478,
     "geom:bbox":"-3.83863139167,51.6182156288,-3.77474429879,51.6516759009",
     "geom:latitude":51.635212,
     "geom:longitude":-3.81092,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.635043,
     "lbl:longitude":-3.81092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Briton Ferry Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000604"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126028933
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2d24c2992fbe498b03eaace0e807ed49",
+    "wof:geomhash":"eb1b994c80dd3c7b7920ebd72fec2d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444189,
-    "wof:lastmodified":1566632914,
+    "wof:lastmodified":1695877419,
     "wof:name":"Briton Ferry Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

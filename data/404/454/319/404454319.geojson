@@ -10,12 +10,18 @@
     "geom:latitude":53.811208,
     "geom:longitude":-2.335447,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.81258,
     "lbl:longitude":-2.337018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Simonstone"
@@ -49,9 +55,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04005281",
         "gn:id":7295951,
         "qs_pg:id":1040792
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126000303
     ],
@@ -59,7 +67,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8df4cba99a92c2983d84885af95b5b36",
+    "wof:geomhash":"9426e4a568ef7fae6e2b2a50cae40441",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +80,7 @@
     ],
     "wof:id":404454319,
     "wof:label":"Simonstone Civil Parish",
-    "wof:lastmodified":1582311110,
+    "wof:lastmodified":1695877972,
     "wof:name":"Simonstone",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

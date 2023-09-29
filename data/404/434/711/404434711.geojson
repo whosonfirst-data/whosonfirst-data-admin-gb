@@ -10,12 +10,18 @@
     "geom:latitude":52.534828,
     "geom:longitude":1.6989,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.535188,
     "lbl:longitude":1.698549,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lound"
@@ -55,9 +61,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04009503",
         "gn:id":7301421,
         "qs_pg:id":1040975
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125884621
     ],
@@ -65,7 +73,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0ee56cfefa3ea2ebd02f12d2240694f8",
+    "wof:geomhash":"7ea09f849158b9c685b8882648caa687",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +86,7 @@
     ],
     "wof:id":404434711,
     "wof:label":"Lound Civil Parish",
-    "wof:lastmodified":1582311144,
+    "wof:lastmodified":1695877984,
     "wof:name":"Lound",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.008522,
     "geom:longitude":-0.76426,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.014486,
     "lbl:longitude":-0.76117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woolbeding with Redford"
@@ -43,12 +49,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009945"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756933
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ad4c6684e53a0a7a683af1484ed23d5b",
+    "wof:geomhash":"f8497551cdbb32774295237f287857af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404435157,
     "wof:label":"Woolbeding with Redford Civil Parish",
-    "wof:lastmodified":1566633982,
+    "wof:lastmodified":1695877887,
     "wof:name":"Woolbeding with Redford",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.771098,
     "geom:longitude":-2.305841,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.77063,
     "lbl:longitude":-2.306371,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hapton"
@@ -48,12 +54,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005135"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125952805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"04834dcd39391a17f942d96afb72650a",
+    "wof:geomhash":"b66b7b4a9bafbae00c7ae858104c4cb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404430715,
     "wof:label":"Hapton Civil Parish",
-    "wof:lastmodified":1566631985,
+    "wof:lastmodified":1695877010,
     "wof:name":"Hapton",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

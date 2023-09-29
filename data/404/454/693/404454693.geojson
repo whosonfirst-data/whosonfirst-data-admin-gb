@@ -10,12 +10,18 @@
     "geom:latitude":52.253638,
     "geom:longitude":-3.285167,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.255385,
     "lbl:longitude":-3.280422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penybont Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000338"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711609
     ],
     "wof:country":"GB",
-    "wof:geomhash":"84df6aa5680870349d142dcf5a61f746",
+    "wof:geomhash":"29eab81c8d84ba366916d01663b6ee70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454693,
-    "wof:lastmodified":1566632674,
+    "wof:lastmodified":1695877314,
     "wof:name":"Penybont Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

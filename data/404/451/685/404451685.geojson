@@ -10,12 +10,18 @@
     "geom:latitude":51.658639,
     "geom:longitude":-2.2632,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.664555,
     "lbl:longitude":-2.26383,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kingscote"
@@ -54,12 +60,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004240"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125902923
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0b326bbf1a5dcab94899192cd60426e0",
+    "wof:geomhash":"539e101f8379e82c371b40992a6a59c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451685,
     "wof:label":"Kingscote Civil Parish",
-    "wof:lastmodified":1566633498,
+    "wof:lastmodified":1695877681,
     "wof:name":"Kingscote",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

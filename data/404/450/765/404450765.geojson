@@ -10,12 +10,18 @@
     "geom:latitude":52.726821,
     "geom:longitude":-1.218574,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.724405,
     "lbl:longitude":-1.219161,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Woodhouse"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005397"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125788855
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2d2a4fe4fcdcf211e2a5241d33947be2",
+    "wof:geomhash":"cdf03186966f78b9097753ec2c8e65e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404450765,
     "wof:label":"Woodhouse Civil Parish",
-    "wof:lastmodified":1566633751,
+    "wof:lastmodified":1695877797,
     "wof:name":"Woodhouse",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

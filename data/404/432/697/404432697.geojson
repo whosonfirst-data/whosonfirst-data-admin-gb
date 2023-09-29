@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000579,
-    "geom:area_square_m":4344412.593998,
+    "geom:area_square_m":4344412.593999,
     "geom:bbox":"-2.49910689658,52.6425677732,-2.44601142204,52.6742578003",
     "geom:latitude":52.655536,
     "geom:longitude":-2.476371,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.649381,
     "lbl:longitude":-2.470149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dawley Hamlets"
@@ -46,12 +52,15 @@
         1360698911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000925"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753081
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fbf2aa3cbc3723826d95b9b6327dfa69",
+    "wof:geomhash":"08980b96ec0073961f58d2bd5faffad8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404432697,
     "wof:label":"Dawley Hamlets Civil Parish",
-    "wof:lastmodified":1566633950,
+    "wof:lastmodified":1695877874,
     "wof:name":"Dawley Hamlets",
     "wof:parent_id":1360698911,
     "wof:placetype":"localadmin",

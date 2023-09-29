@@ -10,12 +10,18 @@
     "geom:latitude":50.73264,
     "geom:longitude":-2.859585,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.732249,
     "lbl:longitude":-2.854369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanton St. Gabriel"
@@ -40,12 +46,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003596"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755211
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a2c547cea72d987192c5418a341a1f66",
+    "wof:geomhash":"1f3847034e2714c107aafa3c95495de7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404439121,
     "wof:label":"Stanton St. Gabriel Civil Parish",
-    "wof:lastmodified":1566631880,
+    "wof:lastmodified":1695876964,
     "wof:name":"Stanton St. Gabriel",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

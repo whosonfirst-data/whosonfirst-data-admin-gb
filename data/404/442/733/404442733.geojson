@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001216,
-    "geom:area_square_m":8784141.131549,
+    "geom:area_square_m":8784141.131548,
     "geom:bbox":"-0.906303756296,54.2426549763,-0.839642683334,54.274368765",
     "geom:latitude":54.257096,
     "geom:longitude":-0.867248,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.257514,
     "lbl:longitude":-0.86674,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sinnington"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007631"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013343
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d8bf62fc276d46b5c5c474910889180b",
+    "wof:geomhash":"343b86c1dab7efa30975a0fe0a856f7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404442733,
     "wof:label":"Sinnington Civil Parish",
-    "wof:lastmodified":1566633253,
+    "wof:lastmodified":1695877575,
     "wof:name":"Sinnington",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

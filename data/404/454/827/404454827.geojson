@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000549,
-    "geom:area_square_m":4120076.948281,
+    "geom:area_square_m":4120076.948282,
     "geom:bbox":"-0.305891302471,52.5718327567,-0.266184444664,52.61786916",
     "geom:latitude":52.592926,
     "geom:longitude":-0.285963,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.597944,
     "lbl:longitude":-0.284005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bretton"
@@ -54,12 +60,15 @@
         1360698773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001104"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126011661
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2ecc28e617e1df0d5296e0a13a6608e5",
+    "wof:geomhash":"c4a762a4dcc22f4fe81d9f2ae57f6e31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454827,
     "wof:label":"Bretton Civil Parish",
-    "wof:lastmodified":1566632655,
+    "wof:lastmodified":1695877304,
     "wof:name":"Bretton",
     "wof:parent_id":1360698773,
     "wof:placetype":"localadmin",

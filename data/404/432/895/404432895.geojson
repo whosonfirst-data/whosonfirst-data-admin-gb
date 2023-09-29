@@ -10,12 +10,18 @@
     "geom:latitude":52.260978,
     "geom:longitude":-1.720612,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.261888,
     "lbl:longitude":-1.720303,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0627\u0646\u06af\u0644\u0626\u06cc"
@@ -127,9 +133,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04009750",
         "gn:id":7292694,
         "qs_pg:id":1154393
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360113501
     ],
@@ -137,7 +145,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6429eb7cc1bac55bae74519e8cf0f43a",
+    "wof:geomhash":"ef79dd0f7bd87c0974c4b5086c4cb763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,7 +158,7 @@
     ],
     "wof:id":404432895,
     "wof:label":"Langley Civil Parish",
-    "wof:lastmodified":1582311156,
+    "wof:lastmodified":1695877989,
     "wof:name":"Langley",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

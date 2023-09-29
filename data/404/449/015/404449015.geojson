@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002037,
-    "geom:area_square_m":14957624.101338,
+    "geom:area_square_m":14957624.101339,
     "geom:bbox":"-1.62476285738,53.5471852939,-1.54043981062,53.5872726162",
     "geom:latitude":53.565806,
     "geom:longitude":-1.581677,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.568855,
     "lbl:longitude":-1.580891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cawthorne"
@@ -57,12 +63,15 @@
         1360699091
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000041"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125858917
     ],
     "wof:country":"GB",
-    "wof:geomhash":"676f919a1472056aee908723c612cc93",
+    "wof:geomhash":"bf9704629a7a5536d523ecb5b71bf409",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404449015,
     "wof:label":"Cawthorne Civil Parish",
-    "wof:lastmodified":1566631365,
+    "wof:lastmodified":1695878323,
     "wof:name":"Cawthorne",
     "wof:parent_id":1360699091,
     "wof:placetype":"localadmin",

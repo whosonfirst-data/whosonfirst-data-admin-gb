@@ -10,12 +10,18 @@
     "geom:latitude":52.624767,
     "geom:longitude":-0.940016,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.62364,
     "lbl:longitude":-0.939587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Billesdon"
@@ -67,9 +73,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04005403",
         "gn:id":7295986,
         "qs_pg:id":279406
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125893449
     ],
@@ -77,7 +85,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"489d402dd6930578e9acb39eed482333",
+    "wof:geomhash":"de5b973a950b521e644eac12ec56e727",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +98,7 @@
     ],
     "wof:id":404430215,
     "wof:label":"Billesdon Civil Parish",
-    "wof:lastmodified":1582311083,
+    "wof:lastmodified":1695877961,
     "wof:name":"Billesdon",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

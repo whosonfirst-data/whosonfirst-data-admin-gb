@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001119,
-    "geom:area_square_m":8269102.080549,
+    "geom:area_square_m":8269102.08055,
     "geom:bbox":"-2.20897200149,53.2868349041,-2.15695490487,53.3328188984",
     "geom:latitude":53.30748,
     "geom:longitude":-2.181221,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.303741,
     "lbl:longitude":-2.179055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mottram St. Andrew"
@@ -42,12 +48,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010978"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125993977
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc63febc8bf30b47f3fadfa188d55aed",
+    "wof:geomhash":"65ce0d719ab109127e9ad0ff351d904b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404443695,
     "wof:label":"Mottram St. Andrew Civil Parish",
-    "wof:lastmodified":1566633023,
+    "wof:lastmodified":1695877470,
     "wof:name":"Mottram St. Andrew",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

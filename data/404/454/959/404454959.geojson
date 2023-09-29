@@ -10,12 +10,18 @@
     "geom:latitude":51.899313,
     "geom:longitude":1.184812,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.903445,
     "lbl:longitude":1.19716,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Great Oakley"
@@ -45,12 +51,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004098"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125986531
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5deb17360f16b63634d45f75f72bca7b",
+    "wof:geomhash":"e00f2896e14f29f149b55b7f44f76ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404454959,
     "wof:label":"Great Oakley Civil Parish",
-    "wof:lastmodified":1566632696,
+    "wof:lastmodified":1695877325,
     "wof:name":"Great Oakley",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

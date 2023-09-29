@@ -10,12 +10,18 @@
     "geom:latitude":51.124301,
     "geom:longitude":-1.070142,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.122843,
     "lbl:longitude":-1.072501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Medstead"
@@ -63,12 +69,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004515"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125956287
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d83d69646eed91d67684c48d8ffed91b",
+    "wof:geomhash":"ebfa5d2e0fdf2d7cc33517426933683f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447963,
     "wof:label":"Medstead Civil Parish",
-    "wof:lastmodified":1566631247,
+    "wof:lastmodified":1695878270,
     "wof:name":"Medstead",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.215634,
     "geom:longitude":-3.093091,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.215267,
     "lbl:longitude":-3.093321,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mansriggs"
@@ -52,12 +58,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002631"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753621
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e7c61cd63829e4c572ea6e2236c81adf",
+    "wof:geomhash":"0041dab9a08dd80ec88f46296a74b5db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404429929,
     "wof:label":"Mansriggs Civil Parish",
-    "wof:lastmodified":1566633182,
+    "wof:lastmodified":1695877541,
     "wof:name":"Mansriggs",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

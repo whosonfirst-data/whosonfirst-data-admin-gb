@@ -10,12 +10,18 @@
     "geom:latitude":52.458307,
     "geom:longitude":0.883455,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.462143,
     "lbl:longitude":0.898051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Roudham and Larling"
@@ -61,12 +67,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006163"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757195
     ],
     "wof:country":"GB",
-    "wof:geomhash":"734ed7d57fb5b03ae29b7a6fc1905733",
+    "wof:geomhash":"5a6c698014fedf46a28f1a8d05d8cc8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404435333,
     "wof:label":"Roudham and Larling Civil Parish",
-    "wof:lastmodified":1566634045,
+    "wof:lastmodified":1695877921,
     "wof:name":"Roudham and Larling",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.261123,
     "geom:longitude":-2.511184,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.26018,
     "lbl:longitude":-2.511199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chilcompton"
@@ -60,12 +66,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008549"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977259
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32789c2fc37cb04a69470c479650d98f",
+    "wof:geomhash":"481bf4476492581af8417f62190543d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404439575,
     "wof:label":"Chilcompton Civil Parish",
-    "wof:lastmodified":1566631874,
+    "wof:lastmodified":1695876962,
     "wof:name":"Chilcompton",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

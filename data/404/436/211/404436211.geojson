@@ -10,12 +10,18 @@
     "geom:latitude":52.276003,
     "geom:longitude":-2.66179,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.2727,
     "lbl:longitude":-2.672754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Middleton on the Hill"
@@ -67,12 +73,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000830"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293328069
     ],
     "wof:country":"GB",
-    "wof:geomhash":"df3492968010d3247edb0113a0d6b04a",
+    "wof:geomhash":"d6fdacec663c1442504532c957bead51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +94,7 @@
     ],
     "wof:id":404436211,
     "wof:label":"Middleton on the Hill Civil Parish",
-    "wof:lastmodified":1566632331,
+    "wof:lastmodified":1695877156,
     "wof:name":"Middleton on the Hill",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.694725,
     "geom:longitude":-0.991667,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.694921,
     "lbl:longitude":-0.99185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Adwell"
@@ -60,12 +66,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008100"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126023851
     ],
     "wof:country":"GB",
-    "wof:geomhash":"65823dd3712a206e81c273f43d266d83",
+    "wof:geomhash":"1ac97f8d9bc89428e62a3daeb6399781",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404455271,
     "wof:label":"Adwell Civil Parish",
-    "wof:lastmodified":1566632303,
+    "wof:lastmodified":1695877143,
     "wof:name":"Adwell",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

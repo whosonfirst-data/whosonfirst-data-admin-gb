@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001248,
-    "geom:area_square_m":9540248.346312,
+    "geom:area_square_m":9540248.346311,
     "geom:bbox":"0.710576964335,51.7964480699,0.779100871097,51.8274838499",
     "geom:latitude":51.811437,
     "geom:longitude":0.743665,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.811774,
     "lbl:longitude":0.743667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tiptree"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004005"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854717
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a277cd44522ce7e865f38f1ff23292d8",
+    "wof:geomhash":"3fca1c4e0cfebb9dafb986ee29b55202",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404437879,
     "wof:label":"Tiptree Civil Parish",
-    "wof:lastmodified":1566632119,
+    "wof:lastmodified":1695877066,
     "wof:name":"Tiptree",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.462925,
     "geom:longitude":0.51343,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.462066,
     "lbl:longitude":0.492105,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hockwold Cum Wilton"
@@ -42,12 +48,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006322"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125938105
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4c256042e19cd20458875db2c1be5e89",
+    "wof:geomhash":"8c3a995607674e89c31c37699aee539f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404449675,
     "wof:label":"Hockwold Cum Wilton Civil Parish",
-    "wof:lastmodified":1566631363,
+    "wof:lastmodified":1695878322,
     "wof:name":"Hockwold Cum Wilton",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

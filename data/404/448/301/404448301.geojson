@@ -10,12 +10,18 @@
     "geom:latitude":50.615406,
     "geom:longitude":-4.258125,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.614118,
     "lbl:longitude":-4.256124,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0435\u043b\u0456"
@@ -93,12 +99,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003329"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343596641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ea2078da8c5e38f4821896f0627382db",
+    "wof:geomhash":"3095577486b8fc37cce4ff48d2e119c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404448301,
     "wof:label":"Kelly Civil Parish",
-    "wof:lastmodified":1566631470,
+    "wof:lastmodified":1695876801,
     "wof:name":"Kelly",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

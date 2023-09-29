@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002288,
-    "geom:area_square_m":16780222.791063,
+    "geom:area_square_m":16780222.791062,
     "geom:bbox":"-1.40116374969,53.5953470341,-1.31965113199,53.646012533",
     "geom:latitude":53.622651,
     "geom:longitude":-1.360799,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.621914,
     "lbl:longitude":-1.364188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0645\u0633\u0648\u0648\u0631\u062b"
@@ -81,12 +87,15 @@
         1360698945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000232"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260315703
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1269dc7fb75e0a5e9b6d5fc5751dc99a",
+    "wof:geomhash":"95b4b94a5c35d493f58cfac399eebbbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404430573,
     "wof:label":"Hemsworth Civil Parish",
-    "wof:lastmodified":1566631991,
+    "wof:lastmodified":1695877012,
     "wof:name":"Hemsworth",
     "wof:parent_id":1360698945,
     "wof:placetype":"localadmin",

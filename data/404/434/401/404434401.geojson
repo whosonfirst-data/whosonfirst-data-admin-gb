@@ -10,12 +10,18 @@
     "geom:latitude":52.559004,
     "geom:longitude":-2.720189,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.558503,
     "lbl:longitude":-2.719226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cardington"
@@ -63,12 +69,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011235"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293036277
     ],
     "wof:country":"GB",
-    "wof:geomhash":"58220f69f519941eeafdb9750e506d7e",
+    "wof:geomhash":"7527752a1d4168d821cb98bcbdfc89a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404434401,
     "wof:label":"Cardington Civil Parish",
-    "wof:lastmodified":1566633559,
+    "wof:lastmodified":1695877713,
     "wof:name":"Cardington",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

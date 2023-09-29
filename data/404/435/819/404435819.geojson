@@ -10,12 +10,18 @@
     "geom:latitude":51.95185,
     "geom:longitude":-1.727272,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.947955,
     "lbl:longitude":-1.72381,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Donnington"
@@ -66,12 +72,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004219"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801007
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7db817540bb57d919fb8619fc495e2f0",
+    "wof:geomhash":"716ad15729158ae4ed79935d35a946ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404435819,
     "wof:label":"Donnington Civil Parish",
-    "wof:lastmodified":1566634001,
+    "wof:lastmodified":1695877898,
     "wof:name":"Donnington",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

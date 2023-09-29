@@ -10,12 +10,18 @@
     "geom:latitude":52.18196,
     "geom:longitude":-2.118616,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.181467,
     "lbl:longitude":-2.122032,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Churchill"
@@ -42,12 +48,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010374"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125858289
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fe50e585f5a74bedb10335a482a54b15",
+    "wof:geomhash":"f4f4c9543ff220bd51afb74bfa1d80d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404438015,
     "wof:label":"Churchill Civil Parish",
-    "wof:lastmodified":1566632550,
+    "wof:lastmodified":1695877255,
     "wof:name":"Churchill",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

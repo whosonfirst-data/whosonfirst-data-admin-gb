@@ -10,12 +10,18 @@
     "geom:latitude":53.677942,
     "geom:longitude":-0.503854,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.679071,
     "lbl:longitude":-0.503323,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Ferriby"
@@ -69,12 +75,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000578"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803001
     ],
     "wof:country":"GB",
-    "wof:geomhash":"64cec7d9d300b7db43e34f31a719417b",
+    "wof:geomhash":"97b1d4e73705da26df47683f40c82838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404444509,
     "wof:label":"South Ferriby Civil Parish",
-    "wof:lastmodified":1566632936,
+    "wof:lastmodified":1695877428,
     "wof:name":"South Ferriby",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

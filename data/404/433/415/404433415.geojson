@@ -10,12 +10,18 @@
     "geom:latitude":50.908233,
     "geom:longitude":-2.853547,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.908488,
     "lbl:longitude":-2.853337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dinnington"
@@ -61,12 +67,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008694"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"80ee2b6172b7a594471b26f588909db3",
+    "wof:geomhash":"3183c11cecf0bba6913389e7d1fa5fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404433415,
     "wof:label":"Dinnington Civil Parish",
-    "wof:lastmodified":1566633659,
+    "wof:lastmodified":1695877756,
     "wof:name":"Dinnington",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

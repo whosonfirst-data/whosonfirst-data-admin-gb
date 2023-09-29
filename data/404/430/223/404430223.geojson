@@ -10,12 +10,18 @@
     "geom:latitude":51.636758,
     "geom:longitude":-1.549601,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.637874,
     "lbl:longitude":-1.552393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shellingford"
@@ -63,12 +69,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008238"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125867873
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4f54d7b5ef0e627cb1b1cfeba2fe342d",
+    "wof:geomhash":"9e531dfed034a40a272fbb124100142b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430223,
     "wof:label":"Shellingford Civil Parish",
-    "wof:lastmodified":1566632012,
+    "wof:lastmodified":1695877019,
     "wof:name":"Shellingford",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

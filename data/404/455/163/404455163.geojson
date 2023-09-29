@@ -10,12 +10,18 @@
     "geom:latitude":52.11037,
     "geom:longitude":-2.345686,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.113399,
     "lbl:longitude":-2.345519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Malvern"
@@ -58,12 +64,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010349"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754755
     ],
     "wof:country":"GB",
-    "wof:geomhash":"41e836da85855f67ae18f37d6d73fb5c",
+    "wof:geomhash":"518af966f611eb6f03a0f838fa6f18c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404455163,
     "wof:label":"West Malvern Civil Parish",
-    "wof:lastmodified":1566632295,
+    "wof:lastmodified":1695877139,
     "wof:name":"West Malvern",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

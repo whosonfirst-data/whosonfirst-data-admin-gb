@@ -10,12 +10,18 @@
     "geom:latitude":52.183828,
     "geom:longitude":0.346709,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.180558,
     "lbl:longitude":0.355754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0633\u062a\u0644\u064a \u0648\u062a\u0631\u0644\u0633"
@@ -63,12 +69,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001649"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276688279
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c2ee01b5af06ee07797ade29c52f4527",
+    "wof:geomhash":"3d72ea2739c1dd1ce9b4d3dc48a212aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404435491,
     "wof:label":"Westley Waterless Civil Parish",
-    "wof:lastmodified":1566634021,
+    "wof:lastmodified":1695877907,
     "wof:name":"Westley Waterless",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

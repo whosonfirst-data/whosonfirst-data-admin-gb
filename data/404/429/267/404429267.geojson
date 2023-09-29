@@ -10,12 +10,18 @@
     "geom:latitude":51.69283,
     "geom:longitude":-4.041277,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.692982,
     "lbl:longitude":-4.039428,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grovesend and Waungron Community"
@@ -40,9 +46,12 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000965"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"8e3e3b225e6f73e7927a48b8bb4292f2",
+    "wof:geomhash":"37bc1632401f0b623278d6c72bbb12c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404429267,
-    "wof:lastmodified":1566633123,
+    "wof:lastmodified":1695877516,
     "wof:name":"Grovesend and Waungron Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.678408,
     "geom:longitude":0.368638,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.676745,
     "lbl:longitude":0.369499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ingatestone and Fryerning"
@@ -58,12 +64,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003943"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755167
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1418e8c87a5f5b8907e9245a8d1ca1e2",
+    "wof:geomhash":"9aecaff1a412edf52e6816cb8ba6a6bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404450447,
     "wof:label":"Ingatestone and Fryerning Civil Parish",
-    "wof:lastmodified":1566633756,
+    "wof:lastmodified":1695877799,
     "wof:name":"Ingatestone and Fryerning",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

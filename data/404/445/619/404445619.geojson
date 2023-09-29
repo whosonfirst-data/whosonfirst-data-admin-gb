@@ -10,12 +10,18 @@
     "geom:latitude":52.406136,
     "geom:longitude":-2.808402,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.409719,
     "lbl:longitude":-2.798827,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Onibury"
@@ -63,12 +69,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011335"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880283
     ],
     "wof:country":"GB",
-    "wof:geomhash":"82a38d116f0ac4f6c768dbab8e4dfe60",
+    "wof:geomhash":"8d29dd6d1fc68f5f89be525d61e08427",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445619,
     "wof:label":"Onibury Civil Parish",
-    "wof:lastmodified":1566633327,
+    "wof:lastmodified":1695877606,
     "wof:name":"Onibury",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

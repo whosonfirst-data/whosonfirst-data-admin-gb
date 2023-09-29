@@ -10,12 +10,18 @@
     "geom:latitude":51.338406,
     "geom:longitude":-2.914191,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.339087,
     "lbl:longitude":-2.914192,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Locking"
@@ -57,12 +63,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012103"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125960771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"be0b5efaea48962fe87b48cca926b884",
+    "wof:geomhash":"d6cd99b4ea1862b30dde952e4c5d51a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404429437,
     "wof:label":"Locking Civil Parish",
-    "wof:lastmodified":1566633120,
+    "wof:lastmodified":1695877514,
     "wof:name":"Locking",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.412796,
     "geom:longitude":-1.37197,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.414561,
     "lbl:longitude":-1.363954,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Speen"
@@ -54,12 +60,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001188"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125868529
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d1a3a3c012cb629ac5ca320ac72e80b",
+    "wof:geomhash":"a94ec39c4c45d3b0ad3c421f7575df89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404438315,
     "wof:label":"Speen Civil Parish",
-    "wof:lastmodified":1566632582,
+    "wof:lastmodified":1695877269,
     "wof:name":"Speen",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

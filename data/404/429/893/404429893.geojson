@@ -10,12 +10,18 @@
     "geom:latitude":51.10354,
     "geom:longitude":-2.695635,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.103982,
     "lbl:longitude":-2.696179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Butleigh"
@@ -60,12 +66,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008547"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125810903
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aba49369f6ac93ba9233f69555fad572",
+    "wof:geomhash":"dbbb69db955d05530cbc6790c3d8e09f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404429893,
     "wof:label":"Butleigh Civil Parish",
-    "wof:lastmodified":1566633125,
+    "wof:lastmodified":1695877517,
     "wof:name":"Butleigh",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

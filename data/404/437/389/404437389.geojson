@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012714,
-    "geom:area_square_m":96677483.254311,
+    "geom:area_square_m":96677483.254314,
     "geom:bbox":"-3.80420357856,51.9802143449,-3.64717181531,52.1282495523",
     "geom:latitude":52.051917,
     "geom:longitude":-3.730615,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.041113,
     "lbl:longitude":-3.724092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanfair-ar-y-Bryn Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000521"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802123
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3fc5e259fe959a1981ff0e07576ce3fa",
+    "wof:geomhash":"fd47bf47093ed1a871b884e26d8c5fea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404437389,
-    "wof:lastmodified":1566632151,
+    "wof:lastmodified":1695877079,
     "wof:name":"Llanfair-ar-y-Bryn Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

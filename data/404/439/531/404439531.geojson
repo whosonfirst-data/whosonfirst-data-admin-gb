@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002779,
-    "geom:area_square_m":21304802.351276,
+    "geom:area_square_m":21304802.351277,
     "geom:bbox":"-3.83401181535,51.6609062283,-3.73058900609,51.7130129562",
     "geom:latitude":51.689194,
     "geom:longitude":-3.787251,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.686862,
     "lbl:longitude":-3.800869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blaenhonddan Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000603"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711867
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7e943a2c63d71702bf720123dc42318f",
+    "wof:geomhash":"7f74aa60601ad51c037b9d4da707a925",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404439531,
-    "wof:lastmodified":1566631891,
+    "wof:lastmodified":1695876969,
     "wof:name":"Blaenhonddan Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

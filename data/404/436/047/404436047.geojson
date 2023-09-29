@@ -10,12 +10,18 @@
     "geom:latitude":52.879903,
     "geom:longitude":1.35306,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.878654,
     "lbl:longitude":1.361598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Southrepps"
@@ -69,12 +75,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006473"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260008359
     ],
     "wof:country":"GB",
-    "wof:geomhash":"37e53fbb5622b65988d1c7fdf0f34ae1",
+    "wof:geomhash":"d46a6ed27c116ba8df885e0b4f7bf902",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404436047,
     "wof:label":"Southrepps Civil Parish",
-    "wof:lastmodified":1566632343,
+    "wof:lastmodified":1695877161,
     "wof:name":"Southrepps",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

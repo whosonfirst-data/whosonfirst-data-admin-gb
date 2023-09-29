@@ -10,12 +10,18 @@
     "geom:latitude":51.616145,
     "geom:longitude":-2.326879,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.61552,
     "lbl:longitude":-2.322363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alderley"
@@ -42,12 +48,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004336"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226371355
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c4bb5d725f333c509c8da892bf2cb71",
+    "wof:geomhash":"7946b0e8c31b558d9f057a410b6808dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404447165,
     "wof:label":"Alderley Civil Parish",
-    "wof:lastmodified":1566631293,
+    "wof:lastmodified":1695878292,
     "wof:name":"Alderley",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

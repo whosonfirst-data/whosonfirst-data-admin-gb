@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007042,
-    "geom:area_square_m":54053230.236698,
+    "geom:area_square_m":54053230.236701,
     "geom:bbox":"-5.06410986314,51.5959329593,-4.8609305897,51.6591724688",
     "geom:latitude":51.630048,
     "geom:longitude":-4.971557,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.62428,
     "lbl:longitude":-4.963109,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stackpole and Castlemartin Community"
@@ -40,9 +46,12 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000954"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"cc375844cf04f85e68871d90d1be6d48",
+    "wof:geomhash":"ca6a2401b73b9eaf6854c3d6c7d74b6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404453067,
-    "wof:lastmodified":1566632842,
+    "wof:lastmodified":1695877392,
     "wof:name":"Stackpole and Castlemartin Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

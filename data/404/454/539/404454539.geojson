@@ -10,12 +10,18 @@
     "geom:latitude":52.678925,
     "geom:longitude":1.226556,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.679601,
     "lbl:longitude":1.226867,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Drayton"
@@ -72,12 +78,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006216"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226471633
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0562365c124f7c89d66ee92c29b0efd5",
+    "wof:geomhash":"29da44f8819b07fc9b38f7c270e304e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404454539,
     "wof:label":"Drayton Civil Parish",
-    "wof:lastmodified":1566632695,
+    "wof:lastmodified":1695877324,
     "wof:name":"Drayton",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

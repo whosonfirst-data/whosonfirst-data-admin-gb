@@ -10,12 +10,18 @@
     "geom:latitude":53.513271,
     "geom:longitude":-1.565287,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.51294,
     "lbl:longitude":-1.564787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thurgoland"
@@ -57,12 +63,15 @@
         1360699091
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000055"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974381
     ],
     "wof:country":"GB",
-    "wof:geomhash":"93a09d2db9022efb8f99c52b90d6fc49",
+    "wof:geomhash":"ed3843b6afed7ac3cae4d5542cc0b03a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404443569,
     "wof:label":"Thurgoland Civil Parish",
-    "wof:lastmodified":1566632987,
+    "wof:lastmodified":1695877451,
     "wof:name":"Thurgoland",
     "wof:parent_id":1360699091,
     "wof:placetype":"localadmin",

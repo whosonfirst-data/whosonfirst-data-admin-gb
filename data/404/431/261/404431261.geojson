@@ -10,12 +10,18 @@
     "geom:latitude":51.979386,
     "geom:longitude":0.726994,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.980378,
     "lbl:longitude":0.726557,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alphamstone"
@@ -58,12 +64,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003877"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755661
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d6c946f4a53b8d1bd60932cc3a41efc3",
+    "wof:geomhash":"f61f6d29db2d33c8c09a0f1922d62212",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404431261,
     "wof:label":"Alphamstone Civil Parish",
-    "wof:lastmodified":1566632458,
+    "wof:lastmodified":1695877213,
     "wof:name":"Alphamstone",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

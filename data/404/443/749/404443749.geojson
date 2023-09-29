@@ -10,12 +10,18 @@
     "geom:latitude":51.33668,
     "geom:longitude":-1.362235,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.337277,
     "lbl:longitude":-1.364459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u06cc\u06a9\u0644\u06cc\u0631"
@@ -58,12 +64,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004456"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101875415
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b1c0c60e3986ffed2627f55661e0a844",
+    "wof:geomhash":"b90277f05e57b10dce66ab85f54661b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404443749,
     "wof:label":"Highclere Civil Parish",
-    "wof:lastmodified":1566633031,
+    "wof:lastmodified":1695877473,
     "wof:name":"Highclere",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

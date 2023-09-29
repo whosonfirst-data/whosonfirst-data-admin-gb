@@ -10,12 +10,18 @@
     "geom:latitude":51.074559,
     "geom:longitude":-3.157773,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.07544,
     "lbl:longitude":-3.157458,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cothelstone"
@@ -57,12 +63,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008791"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125863401
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f3fad131465ea760ec495e2e01764661",
+    "wof:geomhash":"f631524de37a253ec9f9d625b00d4b15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404445327,
     "wof:label":"Cothelstone Civil Parish",
-    "wof:lastmodified":1566633404,
+    "wof:lastmodified":1695877641,
     "wof:name":"Cothelstone",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

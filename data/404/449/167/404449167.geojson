@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000612,
-    "geom:area_square_m":4649462.383754,
+    "geom:area_square_m":4649462.383753,
     "geom:bbox":"-2.21897818125,52.0623465621,-2.15583502094,52.086209263",
     "geom:latitude":52.078732,
     "geom:longitude":-2.187375,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.077348,
     "lbl:longitude":-2.19478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Earl's Croome"
@@ -45,12 +51,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010299"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310233693
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f18aeb0b8dcd8afca032c4900f5cdf6d",
+    "wof:geomhash":"d108d1c728b096c6231838229f389a96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404449167,
     "wof:label":"Earl's Croome Civil Parish",
-    "wof:lastmodified":1566631361,
+    "wof:lastmodified":1695878321,
     "wof:name":"Earl's Croome",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

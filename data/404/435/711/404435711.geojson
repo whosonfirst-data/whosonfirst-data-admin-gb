@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000821,
-    "geom:area_square_m":6298138.850785,
+    "geom:area_square_m":6298138.850784,
     "geom:bbox":"0.132958505541,51.6575701551,0.167976758795,51.7082410469",
     "geom:latitude":51.677596,
     "geom:longitude":0.153128,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.669857,
     "lbl:longitude":0.154586,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Theydon Mount"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004035"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125959719
     ],
     "wof:country":"GB",
-    "wof:geomhash":"908838c8174ab6cd9534e37b1bac7974",
+    "wof:geomhash":"09ec8cc0e910afd33441ec3f887c03b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404435711,
     "wof:label":"Theydon Mount Civil Parish",
-    "wof:lastmodified":1566634086,
+    "wof:lastmodified":1695877944,
     "wof:name":"Theydon Mount",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

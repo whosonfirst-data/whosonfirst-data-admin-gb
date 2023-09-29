@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000486,
-    "geom:area_square_m":3599334.154931,
+    "geom:area_square_m":3599334.15493,
     "geom:bbox":"-0.849322205379,53.1579495684,-0.797664924181,53.1744313269",
     "geom:latitude":53.167245,
     "geom:longitude":-0.822379,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.167573,
     "lbl:longitude":-0.822379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carlton-On-Trent"
@@ -42,12 +48,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007887"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c33d8d8500cab79ab2600bbee01db5f6",
+    "wof:geomhash":"a467e9985afe5c83328129b73271b55b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404433115,
     "wof:label":"Carlton-On-Trent Civil Parish",
-    "wof:lastmodified":1566633730,
+    "wof:lastmodified":1695877788,
     "wof:name":"Carlton-On-Trent",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

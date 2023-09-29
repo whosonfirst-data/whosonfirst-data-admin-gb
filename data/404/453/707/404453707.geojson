@@ -10,12 +10,18 @@
     "geom:latitude":53.129077,
     "geom:longitude":-0.812076,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.128351,
     "lbl:longitude":-0.812425,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Muskham"
@@ -51,12 +57,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007930"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976847
     ],
     "wof:country":"GB",
-    "wof:geomhash":"737508b62abaf51e8209250ef68e65c1",
+    "wof:geomhash":"d241971cacbb2f197ceaa20a440d2275",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404453707,
     "wof:label":"North Muskham Civil Parish",
-    "wof:lastmodified":1566632762,
+    "wof:lastmodified":1695877356,
     "wof:name":"North Muskham",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

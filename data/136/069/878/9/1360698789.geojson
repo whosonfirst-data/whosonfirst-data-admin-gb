@@ -329,12 +329,18 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25360,
         "fips:code":"UKA9",
+        "gbr-ons:gss_code":"12EY",
         "gn:id":3333127,
         "gp:id":-12602160,
         "hasc:id":"GB.BP",
+        "iso:code":"GB-BPL",
         "iso:id":"GB-BPL",
         "unlc:id":"GB-BPL"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101913927
     ],
@@ -359,7 +365,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495389,
+    "wof:lastmodified":1695886408,
     "wof:name":"Blackpool",
     "wof:parent_id":1360698567,
     "wof:placetype":"county",

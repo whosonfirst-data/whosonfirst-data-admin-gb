@@ -10,12 +10,18 @@
     "geom:latitude":52.785251,
     "geom:longitude":-1.432779,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.78749,
     "lbl:longitude":-1.430971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Staunton Harold"
@@ -48,12 +54,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005564"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126050281
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f32b8d147cfb59d67f1988169fec33a4",
+    "wof:geomhash":"7217837f5aa54058661853700a5d8ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404454403,
     "wof:label":"Staunton Harold Civil Parish",
-    "wof:lastmodified":1566632732,
+    "wof:lastmodified":1695877342,
     "wof:name":"Staunton Harold",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

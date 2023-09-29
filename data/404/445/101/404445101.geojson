@@ -10,12 +10,18 @@
     "geom:latitude":51.851461,
     "geom:longitude":1.122685,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.851864,
     "lbl:longitude":1.122192,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Weeley"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004112"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125949899
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9681f2b1c55a091006e917ea2ff8321d",
+    "wof:geomhash":"b37530d790af1ad8d82ba15ee708140b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404445101,
     "wof:label":"Weeley Civil Parish",
-    "wof:lastmodified":1566633376,
+    "wof:lastmodified":1695877628,
     "wof:name":"Weeley",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

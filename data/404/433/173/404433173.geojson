@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002109,
-    "geom:area_square_m":16229502.136567,
+    "geom:area_square_m":16229502.136566,
     "geom:bbox":"-0.88975340106,51.4860897005,-0.817079119445,51.538283112",
     "geom:latitude":51.508229,
     "geom:longitude":-0.854112,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.50738,
     "lbl:longitude":-0.854106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0631\u063a\u0631\u0648\u0641"
@@ -75,12 +81,15 @@
         1360698967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001239"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852549
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ccfbfe8e6ea635e6a55f8cf846ddd438",
+    "wof:geomhash":"951402cda53ee338680edda196975a01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404433173,
     "wof:label":"Wargrave Civil Parish",
-    "wof:lastmodified":1566633677,
+    "wof:lastmodified":1695877764,
     "wof:name":"Wargrave",
     "wof:parent_id":1360698967,
     "wof:placetype":"localadmin",

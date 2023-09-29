@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006502,
-    "geom:area_square_m":48479020.203294,
+    "geom:area_square_m":48479020.203297,
     "geom:bbox":"-4.49652317793,52.8707929877,-4.314365206,52.9581290338",
     "geom:latitude":52.913696,
     "geom:longitude":-4.421619,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.925302,
     "lbl:longitude":-4.415443,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llannor Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000084"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293516763
     ],
     "wof:country":"GB",
-    "wof:geomhash":"767b0534ad01af0068c8ec418b90857f",
+    "wof:geomhash":"f6b98663dd8e2e47bb53f1898efe0f79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404451453,
-    "wof:lastmodified":1566633461,
+    "wof:lastmodified":1695877663,
     "wof:name":"Llannor Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

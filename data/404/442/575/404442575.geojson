@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013219,
-    "geom:area_square_m":101550062.817362,
+    "geom:area_square_m":101550062.817365,
     "geom:bbox":"0.832180814699,51.5207451826,1.08385204394,51.6582257928",
     "geom:latitude":51.590659,
     "geom:longitude":0.936809,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.593871,
     "lbl:longitude":0.934796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Foulness"
@@ -42,12 +48,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004077"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125930281
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4aaae23bf8a852fe3683e188bc9166e3",
+    "wof:geomhash":"31c6e32adb7e432518b3f2b8ecb13444",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404442575,
     "wof:label":"Foulness Civil Parish",
-    "wof:lastmodified":1566633240,
+    "wof:lastmodified":1695877569,
     "wof:name":"Foulness",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.013139,
     "geom:longitude":0.560752,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.01553,
     "lbl:longitude":0.560271,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Yeldham"
@@ -69,12 +75,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003905"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854743
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3edd65a1976fadbce399e30c706bb605",
+    "wof:geomhash":"24d3c1da6f610eec8bc2ba33d779b6c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404444297,
     "wof:label":"Great Yeldham Civil Parish",
-    "wof:lastmodified":1566632966,
+    "wof:lastmodified":1695877442,
     "wof:name":"Great Yeldham",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.602886,
     "geom:longitude":-1.132457,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.602872,
     "lbl:longitude":-1.132459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0423\u043e\u043b\u0438\u043d\u0433\u0444\u043e\u0440\u0434"
@@ -84,12 +90,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008175"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125995313
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e49d2701933fbcf093d9efbadae66463",
+    "wof:geomhash":"257b5219bd44c11a5a83f388505026d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404450561,
     "wof:label":"Wallingford Civil Parish",
-    "wof:lastmodified":1566633750,
+    "wof:lastmodified":1695877797,
     "wof:name":"Wallingford",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

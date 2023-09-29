@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006793,
-    "geom:area_square_m":52925437.24973,
+    "geom:area_square_m":52925437.249729,
     "geom:bbox":"0.852750005411,50.910407555,0.984411887569,50.9851203411",
     "geom:latitude":50.942828,
     "geom:longitude":0.925252,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.944715,
     "lbl:longitude":0.924008,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u062f"
@@ -84,12 +90,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005022"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854635
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2ebef6bf2502009df2daafa4634a8584",
+    "wof:geomhash":"dd88a617610793c27c281e71e383b321",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404445855,
     "wof:label":"Lydd Civil Parish",
-    "wof:lastmodified":1566633400,
+    "wof:lastmodified":1695877640,
     "wof:name":"Lydd",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

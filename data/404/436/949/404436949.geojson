@@ -10,12 +10,18 @@
     "geom:latitude":53.512477,
     "geom:longitude":-0.137032,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.512395,
     "lbl:longitude":-0.136582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barnoldby Le Beck"
@@ -40,12 +46,15 @@
         1360698837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000516"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759087
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7185723f9453d8e19e07d9f4b75782d6",
+    "wof:geomhash":"f8bc3e461c0e438be9dcead6b2a9b645",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404436949,
     "wof:label":"Barnoldby Le Beck Civil Parish",
-    "wof:lastmodified":1566632370,
+    "wof:lastmodified":1695877174,
     "wof:name":"Barnoldby Le Beck",
     "wof:parent_id":1360698837,
     "wof:placetype":"localadmin",

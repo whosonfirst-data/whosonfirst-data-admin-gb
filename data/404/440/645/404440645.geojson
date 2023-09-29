@@ -10,12 +10,18 @@
     "geom:latitude":53.938451,
     "geom:longitude":-2.055529,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.939277,
     "lbl:longitude":-2.056038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carleton"
@@ -75,12 +81,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012236"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801607
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0947704b8fd4d83b83fa06c661e9ddfd",
+    "wof:geomhash":"9c5216705b2183f25866b4ea5fd9b341",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404440645,
     "wof:label":"Carleton Civil Parish",
-    "wof:lastmodified":1566631144,
+    "wof:lastmodified":1695878223,
     "wof:name":"Carleton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

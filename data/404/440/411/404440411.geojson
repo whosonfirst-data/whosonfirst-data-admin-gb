@@ -10,12 +10,18 @@
     "geom:latitude":54.595249,
     "geom:longitude":-1.699671,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.595828,
     "lbl:longitude":-1.699669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bolam"
@@ -48,12 +54,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010597"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1277104011
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0af60f27cdb8d361bd86ca541ad2dd3b",
+    "wof:geomhash":"aab061b760f9c430370117ca9dd7de51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404440411,
     "wof:label":"Bolam Civil Parish",
-    "wof:lastmodified":1566631199,
+    "wof:lastmodified":1695878249,
     "wof:name":"Bolam",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

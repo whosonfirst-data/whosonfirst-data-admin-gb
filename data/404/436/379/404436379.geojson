@@ -10,12 +10,18 @@
     "geom:latitude":53.589808,
     "geom:longitude":-0.388076,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.592854,
     "lbl:longitude":-0.39033,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Melton Ross"
@@ -54,12 +60,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000569"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242606351
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6e8e7346e947b4c35f9a037f90b54954",
+    "wof:geomhash":"218d07c803f1df162aa78a909db006c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404436379,
     "wof:label":"Melton Ross Civil Parish",
-    "wof:lastmodified":1566632359,
+    "wof:lastmodified":1695877169,
     "wof:name":"Melton Ross",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.96641,
     "geom:longitude":-0.906065,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.965846,
     "lbl:longitude":-0.907713,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Scarrington"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007998"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126053371
     ],
     "wof:country":"GB",
-    "wof:geomhash":"73b909c2c8a6b3d651ba88f09f29c16d",
+    "wof:geomhash":"68a8338d93ae969adb5712f46d878825",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404431909,
     "wof:label":"Scarrington Civil Parish",
-    "wof:lastmodified":1566632429,
+    "wof:lastmodified":1695877200,
     "wof:name":"Scarrington",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

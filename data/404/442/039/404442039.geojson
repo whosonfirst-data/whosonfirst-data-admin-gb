@@ -10,12 +10,18 @@
     "geom:latitude":54.445551,
     "geom:longitude":-1.395479,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.444572,
     "lbl:longitude":-1.393518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Appleton Wiske"
@@ -61,12 +67,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007134"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757485
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7149818dd5e4b957ff6c68e41fa42324",
+    "wof:geomhash":"42d6a87ddbc866714840bad2dd20887c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404442039,
     "wof:label":"Appleton Wiske Civil Parish",
-    "wof:lastmodified":1566633234,
+    "wof:lastmodified":1695877566,
     "wof:name":"Appleton Wiske",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

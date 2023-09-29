@@ -10,12 +10,18 @@
     "geom:latitude":52.198363,
     "geom:longitude":-2.552242,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.19926,
     "lbl:longitude":-2.549548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bredenbury"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000705"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243589299
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2754d6ed198cd0441eba55537a17a042",
+    "wof:geomhash":"5506240f5eb77c42ea5dfdd77ded652d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404443699,
     "wof:label":"Bredenbury Civil Parish",
-    "wof:lastmodified":1566633065,
+    "wof:lastmodified":1695877490,
     "wof:name":"Bredenbury",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

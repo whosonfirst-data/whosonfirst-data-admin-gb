@@ -10,12 +10,18 @@
     "geom:latitude":54.552848,
     "geom:longitude":-2.310058,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.543515,
     "lbl:longitude":-2.316104,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Helbeck"
@@ -61,12 +67,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002537"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756823
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9686d22c3307fd61c9badd73b689e3bc",
+    "wof:geomhash":"edc65b230aff2a8dab00d0bb3e753cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404432011,
     "wof:label":"Helbeck Civil Parish",
-    "wof:lastmodified":1566633939,
+    "wof:lastmodified":1695877869,
     "wof:name":"Helbeck",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

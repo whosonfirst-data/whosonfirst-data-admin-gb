@@ -10,12 +10,18 @@
     "geom:latitude":50.952362,
     "geom:longitude":-2.849474,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.951602,
     "lbl:longitude":-2.84969,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shepton Beauchamp"
@@ -57,12 +63,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008750"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126050149
     ],
     "wof:country":"GB",
-    "wof:geomhash":"641fc2452d5f34b6598106c0a011ac28",
+    "wof:geomhash":"407ce5c6f8d755be3ca615897c3ed365",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404437475,
     "wof:label":"Shepton Beauchamp Civil Parish",
-    "wof:lastmodified":1566632123,
+    "wof:lastmodified":1695877067,
     "wof:name":"Shepton Beauchamp",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

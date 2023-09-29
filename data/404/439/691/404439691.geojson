@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001099,
-    "geom:area_square_m":8391250.637234,
+    "geom:area_square_m":8391250.637233,
     "geom:bbox":"-3.16441208999,51.850087584,-3.1247077589,51.8989818596",
     "geom:latitude":51.8742,
     "geom:longitude":-3.140974,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.872825,
     "lbl:longitude":-3.142328,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crickhowell Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000267"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126012937
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f2b832604b6592b55b27f41daf7f22fa",
+    "wof:geomhash":"92809bab6077de813898ab7126795c7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404439691,
-    "wof:lastmodified":1566631914,
+    "wof:lastmodified":1695876981,
     "wof:name":"Crickhowell Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

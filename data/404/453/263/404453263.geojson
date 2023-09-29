@@ -10,12 +10,18 @@
     "geom:latitude":51.290484,
     "geom:longitude":-0.490914,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.295939,
     "lbl:longitude":-0.496456,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0628\u0644\u064a"
@@ -93,12 +99,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009551"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226471629
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bdc3b989937e198c640be2d15caa1588",
+    "wof:geomhash":"0b0c1167ae540168b4da24877838c03c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404453263,
     "wof:label":"Ripley Civil Parish",
-    "wof:lastmodified":1566632841,
+    "wof:lastmodified":1695877392,
     "wof:name":"Ripley",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

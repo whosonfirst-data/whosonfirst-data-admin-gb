@@ -10,12 +10,18 @@
     "geom:latitude":52.521072,
     "geom:longitude":-1.401759,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.519902,
     "lbl:longitude":-1.399539,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stretton Baskerville"
@@ -46,12 +52,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009689"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755921
     ],
     "wof:country":"GB",
-    "wof:geomhash":"057a454952484a5ab79c1f880885668b",
+    "wof:geomhash":"31478f466a49e41a3a862812c9d02e59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404434519,
     "wof:label":"Stretton Baskerville Civil Parish",
-    "wof:lastmodified":1566633574,
+    "wof:lastmodified":1695877720,
     "wof:name":"Stretton Baskerville",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

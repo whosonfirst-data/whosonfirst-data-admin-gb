@@ -10,12 +10,18 @@
     "geom:latitude":51.207687,
     "geom:longitude":0.617063,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.20925,
     "lbl:longitude":0.619214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Sutton"
@@ -54,12 +60,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004954"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126048539
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8e9b82f7335a59391caf0a2469a97654",
+    "wof:geomhash":"a118f2ce748452679f8fb6817607493f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404442913,
     "wof:label":"East Sutton Civil Parish",
-    "wof:lastmodified":1566633248,
+    "wof:lastmodified":1695877573,
     "wof:name":"East Sutton",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

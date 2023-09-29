@@ -10,12 +10,18 @@
     "geom:latitude":51.777779,
     "geom:longitude":-3.354109,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.778893,
     "lbl:longitude":-3.35411,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pant Community"
@@ -40,12 +46,15 @@
         1360698803
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000718"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711897
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8b0ab5d54a7cd1d64282c5299b1a81d8",
+    "wof:geomhash":"6f69eff2a7d478ec3ee0f8e919e8647d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404446795,
-    "wof:lastmodified":1566631665,
+    "wof:lastmodified":1695876873,
     "wof:name":"Pant Community",
     "wof:parent_id":1360698803,
     "wof:placetype":"localadmin",

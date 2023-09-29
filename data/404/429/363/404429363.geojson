@@ -10,12 +10,18 @@
     "geom:latitude":51.0271,
     "geom:longitude":-1.576269,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.029168,
     "lbl:longitude":-1.578152,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lockerley"
@@ -63,12 +69,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004620"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343697071
     ],
     "wof:country":"GB",
-    "wof:geomhash":"183547291e7d565494ab5b9753cb9982",
+    "wof:geomhash":"dfacdfff078876807e18d9a986f4ed9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404429363,
     "wof:label":"Lockerley Civil Parish",
-    "wof:lastmodified":1566633104,
+    "wof:lastmodified":1695877507,
     "wof:name":"Lockerley",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

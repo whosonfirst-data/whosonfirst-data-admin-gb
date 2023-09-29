@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000591,
-    "geom:area_square_m":4685881.695491,
+    "geom:area_square_m":4685881.69549,
     "geom:bbox":"-5.45683383346,50.1025284054,-5.41645250587,50.1287534721",
     "geom:latitude":50.117363,
     "geom:longitude":-5.434813,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.117627,
     "lbl:longitude":-5.434507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0646\u0648\u062b\u0646"
@@ -78,12 +84,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011507"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125924121
     ],
     "wof:country":"GB",
-    "wof:geomhash":"872c9c4c98b4a87c2a6259d08d57b36d",
+    "wof:geomhash":"5871fdb68ea3d1ef32783b15d7114dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404448565,
     "wof:label":"Perranuthnoe Civil Parish",
-    "wof:lastmodified":1566631533,
+    "wof:lastmodified":1695876828,
     "wof:name":"Perranuthnoe",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

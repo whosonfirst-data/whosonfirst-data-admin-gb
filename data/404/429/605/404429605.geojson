@@ -10,12 +10,18 @@
     "geom:latitude":50.92528,
     "geom:longitude":-2.264435,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.924705,
     "lbl:longitude":-2.264438,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hammoon"
@@ -57,12 +63,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003411"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276364211
     ],
     "wof:country":"GB",
-    "wof:geomhash":"90b2b62da0d684d5f2e1b5ed5befa28f",
+    "wof:geomhash":"035fb35d07e8f9d9bc453cbf3d04eabf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404429605,
     "wof:label":"Hammoon Civil Parish",
-    "wof:lastmodified":1566633120,
+    "wof:lastmodified":1695877514,
     "wof:name":"Hammoon",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.871081,
     "geom:longitude":-0.037059,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.869578,
     "lbl:longitude":-0.038321,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Ann (Without)"
@@ -40,12 +46,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003785"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756013
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e9546741a2563ec449ce43b781e2710d",
+    "wof:geomhash":"2c977ad37018e5b60607799a09c6938a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404440179,
     "wof:label":"St. Ann (Without) Civil Parish",
-    "wof:lastmodified":1566631228,
+    "wof:lastmodified":1695878261,
     "wof:name":"St. Ann (Without)",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

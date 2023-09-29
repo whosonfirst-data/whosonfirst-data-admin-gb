@@ -10,12 +10,18 @@
     "geom:latitude":50.959246,
     "geom:longitude":0.142509,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.958709,
     "lbl:longitude":0.143308,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Framfield"
@@ -66,12 +72,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003842"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343797487
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8a562cc7d083352320ac103276e2f37b",
+    "wof:geomhash":"fec423fea1751c86d01e3461182b2fc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404446133,
     "wof:label":"Framfield Civil Parish",
-    "wof:lastmodified":1566631606,
+    "wof:lastmodified":1695876850,
     "wof:name":"Framfield",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

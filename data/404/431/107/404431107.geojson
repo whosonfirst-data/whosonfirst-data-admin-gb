@@ -10,12 +10,18 @@
     "geom:latitude":52.492238,
     "geom:longitude":-3.002648,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.490749,
     "lbl:longitude":-3.00053,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0634\u0627\u067e\u0633 \u06a9\u0633\u062a\u0644"
@@ -90,12 +96,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011223"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126058581
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8630df879cdd80c0569aad46548a0a56",
+    "wof:geomhash":"4f8580d39d3399a49212dfb8618bfdf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404431107,
     "wof:label":"Bishop's Castle Civil Parish",
-    "wof:lastmodified":1566632488,
+    "wof:lastmodified":1695877226,
     "wof:name":"Bishop's Castle",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

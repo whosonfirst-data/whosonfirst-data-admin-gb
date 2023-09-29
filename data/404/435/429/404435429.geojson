@@ -10,12 +10,18 @@
     "geom:latitude":54.367331,
     "geom:longitude":-1.337564,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.36573,
     "lbl:longitude":-1.337165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ellerbeck"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007172"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757361
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72c576559bab5e75503e212716d2d84a",
+    "wof:geomhash":"4c5510fc64f06344c121a316e3cadce6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404435429,
     "wof:label":"Ellerbeck Civil Parish",
-    "wof:lastmodified":1566634057,
+    "wof:lastmodified":1695877928,
     "wof:name":"Ellerbeck",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

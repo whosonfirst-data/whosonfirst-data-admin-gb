@@ -10,12 +10,18 @@
     "geom:latitude":51.003376,
     "geom:longitude":-2.34452,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.005523,
     "lbl:longitude":-2.341455,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kington Magna"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010494"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310440773
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b714c0fbd7bd576ce539e5ef8fa9f7cd",
+    "wof:geomhash":"3ae58c7c477dd42271baca71d55420ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404444311,
     "wof:label":"Kington Magna Civil Parish",
-    "wof:lastmodified":1566632972,
+    "wof:lastmodified":1695877444,
     "wof:name":"Kington Magna",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

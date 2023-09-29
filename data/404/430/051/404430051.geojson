@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000651,
-    "geom:area_square_m":4820522.785048,
+    "geom:area_square_m":4820522.785047,
     "geom:bbox":"-0.701960235658,53.2176060538,-0.666243011933,53.2519874935",
     "geom:latitude":53.231938,
     "geom:longitude":-0.682385,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.230387,
     "lbl:longitude":-0.680636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Harby"
@@ -60,12 +66,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007911"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126017249
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e17c26912e47b6f24c517c701313a416",
+    "wof:geomhash":"aacf80a9fd7571a6a78fc5b6ffea35c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430051,
     "wof:label":"Harby Civil Parish",
-    "wof:lastmodified":1566632032,
+    "wof:lastmodified":1695877029,
     "wof:name":"Harby",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

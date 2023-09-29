@@ -10,12 +10,18 @@
     "geom:latitude":52.846315,
     "geom:longitude":-1.649886,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.845802,
     "lbl:longitude":-1.650475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rolleston on Dove"
@@ -68,9 +74,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04008898",
         "gn:id":7292449,
         "qs_pg:id":1040662
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759643
     ],
@@ -78,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f6999a0fd6caeb250ee64b72ea7fedd",
+    "wof:geomhash":"0f6090bd45bf50fd6f7a8418a0da94f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +99,7 @@
     ],
     "wof:id":404429313,
     "wof:label":"Rolleston on Dove Civil Parish",
-    "wof:lastmodified":1582311125,
+    "wof:lastmodified":1695877976,
     "wof:name":"Rolleston on Dove",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

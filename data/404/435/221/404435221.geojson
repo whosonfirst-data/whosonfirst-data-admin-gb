@@ -10,12 +10,18 @@
     "geom:latitude":51.841442,
     "geom:longitude":-1.975777,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.842564,
     "lbl:longitude":-1.97942,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Withington"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004291"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972077
     ],
     "wof:country":"GB",
-    "wof:geomhash":"294cdeba8e1233c77c3bdb99b59903a6",
+    "wof:geomhash":"891d76063c38005ab3241addd3ecb7e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404435221,
     "wof:label":"Withington Civil Parish",
-    "wof:lastmodified":1566633999,
+    "wof:lastmodified":1695877896,
     "wof:name":"Withington",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

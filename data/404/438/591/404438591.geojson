@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002645,
-    "geom:area_square_m":20299037.390422,
+    "geom:area_square_m":20299037.390421,
     "geom:bbox":"-4.1706119243,51.6093260648,-4.07610102499,51.6615241267",
     "geom:latitude":51.636835,
     "geom:longitude":-4.121347,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.636959,
     "lbl:longitude":-4.122084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanrhidian Higher Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000968"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711849
     ],
     "wof:country":"GB",
-    "wof:geomhash":"193eda3b404bd706dae49525559c9d3c",
+    "wof:geomhash":"3d9550351b196a3fac3365effc0ad0c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438591,
-    "wof:lastmodified":1566632600,
+    "wof:lastmodified":1695877277,
     "wof:name":"Llanrhidian Higher Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

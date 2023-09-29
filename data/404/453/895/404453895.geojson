@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002525,
-    "geom:area_square_m":18089165.030768,
+    "geom:area_square_m":18089165.030767,
     "geom:bbox":"-2.84064439961,54.5551017998,-2.74368934093,54.6263462534",
     "geom:latitude":54.589425,
     "geom:longitude":-2.78259,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.594834,
     "lbl:longitude":-2.778552,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Askham"
@@ -60,12 +66,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002514"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908205
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5159cc1a761225c99827caba5ddf3f78",
+    "wof:geomhash":"40dd77ffcf1f4170ec1400444abdb2af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404453895,
     "wof:label":"Askham Civil Parish",
-    "wof:lastmodified":1566632777,
+    "wof:lastmodified":1695877364,
     "wof:name":"Askham",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

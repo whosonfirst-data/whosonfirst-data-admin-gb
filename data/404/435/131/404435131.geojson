@@ -10,12 +10,18 @@
     "geom:latitude":53.057326,
     "geom:longitude":-2.045746,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.059273,
     "lbl:longitude":-2.06062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cheddleton"
@@ -63,12 +69,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009033"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782755
     ],
     "wof:country":"GB",
-    "wof:geomhash":"043326345a05849356b0d9ffc29e97f5",
+    "wof:geomhash":"8756a2e134c01b4f9b4a1860f308a68e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404435131,
     "wof:label":"Cheddleton Civil Parish",
-    "wof:lastmodified":1566634038,
+    "wof:lastmodified":1695877917,
     "wof:name":"Cheddleton",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

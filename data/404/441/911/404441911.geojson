@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002152,
-    "geom:area_square_m":16495569.940092,
+    "geom:area_square_m":16495569.94009,
     "geom:bbox":"-4.82068315489,51.6662040266,-4.7231560858,51.7079263652",
     "geom:latitude":51.68473,
     "geom:longitude":-4.766708,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.692595,
     "lbl:longitude":-4.757847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Florence Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000468"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125905223
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4fd1c7a0deadb9c3faead5be95f93569",
+    "wof:geomhash":"a31362dc54f4d8c8a8b8557919b191ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441911,
-    "wof:lastmodified":1566631815,
+    "wof:lastmodified":1695876934,
     "wof:name":"St. Florence Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.690333,
     "geom:longitude":-1.214196,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.689229,
     "lbl:longitude":-1.214683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cridling Stubbs"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007734"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802519
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6d9c939f65f8a4781eae1faf0cb280be",
+    "wof:geomhash":"12a17e20bd184c721ccea59e8057d45f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404437489,
     "wof:label":"Cridling Stubbs Civil Parish",
-    "wof:lastmodified":1566632131,
+    "wof:lastmodified":1695877070,
     "wof:name":"Cridling Stubbs",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

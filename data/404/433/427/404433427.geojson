@@ -10,12 +10,18 @@
     "geom:latitude":52.227914,
     "geom:longitude":-2.440821,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.226627,
     "lbl:longitude":-2.440216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tedstone Delamere"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000882"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310340691
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5a51e3b80b28bfd2627b3ab39604609e",
+    "wof:geomhash":"ae744802fa6631e024a8aa554a644577",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404433427,
     "wof:label":"Tedstone Delamere Civil Parish",
-    "wof:lastmodified":1566633713,
+    "wof:lastmodified":1695877780,
     "wof:name":"Tedstone Delamere",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

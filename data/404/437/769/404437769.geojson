@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002963,
-    "geom:area_square_m":21949123.959229,
+    "geom:area_square_m":21949123.95923,
     "geom:bbox":"-2.57533310781,53.1688002023,-2.47132303229,53.2150066066",
     "geom:latitude":53.192904,
     "geom:longitude":-2.523631,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.194634,
     "lbl:longitude":-2.527839,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0646\u0633\u0641\u0648\u0631\u062f"
@@ -87,12 +93,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011194"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226681555
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bf9fd5669b99ea430459e9b6ea2ecc7e",
+    "wof:geomhash":"251f8a01b357253f6c5a4350ca4c9cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404437769,
     "wof:label":"Winsford Civil Parish",
-    "wof:lastmodified":1566632107,
+    "wof:lastmodified":1695877062,
     "wof:name":"Winsford",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

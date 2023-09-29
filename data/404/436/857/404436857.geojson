@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002112,
-    "geom:area_square_m":15856959.791293,
+    "geom:area_square_m":15856959.791292,
     "geom:bbox":"0.510958431834,52.5858527211,0.575492202238,52.6451440455",
     "geom:latitude":52.615193,
     "geom:longitude":0.544922,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.613031,
     "lbl:longitude":0.544434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barton Bendish"
@@ -57,12 +63,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006285"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125872221
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9102bf5ce293339c2f9f4abea2f1679a",
+    "wof:geomhash":"a670422cebff80bfc8abd3dfee058158",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404436857,
     "wof:label":"Barton Bendish Civil Parish",
-    "wof:lastmodified":1566632346,
+    "wof:lastmodified":1695877163,
     "wof:name":"Barton Bendish",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

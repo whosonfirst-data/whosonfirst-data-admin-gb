@@ -10,12 +10,18 @@
     "geom:latitude":50.734181,
     "geom:longitude":-2.93576,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.734187,
     "lbl:longitude":-2.935475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0627\u06cc\u0645 \u0631\u06cc\u062c\u06cc\u0633"
@@ -117,12 +123,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003560"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852333
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a3b3147e0c6c4acb6c18a710311d26e6",
+    "wof:geomhash":"c4de49255778d06a77b8ece733582c62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +144,7 @@
     ],
     "wof:id":404447167,
     "wof:label":"Lyme Regis Civil Parish",
-    "wof:lastmodified":1566631248,
+    "wof:lastmodified":1695878270,
     "wof:name":"Lyme Regis",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

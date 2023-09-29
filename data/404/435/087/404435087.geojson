@@ -10,12 +10,18 @@
     "geom:latitude":51.875793,
     "geom:longitude":-1.536826,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.873953,
     "lbl:longitude":-1.53209,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chilson"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008273"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125787453
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8e3db940587153d08fcc8b0d93d11d91",
+    "wof:geomhash":"dc9fea27c4fff3da554d99eb73be8883",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404435087,
     "wof:label":"Chilson Civil Parish",
-    "wof:lastmodified":1566634049,
+    "wof:lastmodified":1695877924,
     "wof:name":"Chilson",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

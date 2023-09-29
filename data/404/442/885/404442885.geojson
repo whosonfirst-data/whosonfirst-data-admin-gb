@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001058,
-    "geom:area_square_m":8015080.239866,
+    "geom:area_square_m":8015080.239865,
     "geom:bbox":"-0.588223491819,52.1921987747,-0.512316350079,52.2206455742",
     "geom:latitude":52.207117,
     "geom:longitude":-0.547276,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.211001,
     "lbl:longitude":-0.537215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0644\u0645\u0631\u0634\u0645"
@@ -63,12 +69,15 @@
         1360699073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011890"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126010635
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1d9c5db7a9c7946c5214a8b0f1f59294",
+    "wof:geomhash":"1164018920b824bc2ecda65ed85e5596",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442885,
     "wof:label":"Felmersham Civil Parish",
-    "wof:lastmodified":1566633272,
+    "wof:lastmodified":1695877583,
     "wof:name":"Felmersham",
     "wof:parent_id":1360699073,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001927,
-    "geom:area_square_m":14790937.90505,
+    "geom:area_square_m":14790937.905051,
     "geom:bbox":"0.381296968055,51.6123630871,0.463604859839,51.6511871888",
     "geom:latitude":51.631229,
     "geom:longitude":0.416935,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.634502,
     "lbl:longitude":0.420253,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Billericay"
@@ -99,12 +105,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003870"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853529
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bcbbc82a142f72a7b39706429942372b",
+    "wof:geomhash":"2c99dc53cb103bd0e89431e27acee713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404438127,
     "wof:label":"Billericay Civil Parish",
-    "wof:lastmodified":1566632582,
+    "wof:lastmodified":1695877269,
     "wof:name":"Billericay",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

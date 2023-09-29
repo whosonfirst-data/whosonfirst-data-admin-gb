@@ -10,12 +10,18 @@
     "geom:latitude":54.492528,
     "geom:longitude":-1.132137,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.48887,
     "lbl:longitude":-1.157866,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Ayton"
@@ -69,12 +75,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007183"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259812677
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4184836e9d6026fabe7222f26aa2674a",
+    "wof:geomhash":"7b246fb83639573fab886938dccacc37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404434703,
     "wof:label":"Great Ayton Civil Parish",
-    "wof:lastmodified":1566633593,
+    "wof:lastmodified":1695877728,
     "wof:name":"Great Ayton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

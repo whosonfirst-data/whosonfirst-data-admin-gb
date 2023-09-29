@@ -10,12 +10,18 @@
     "geom:latitude":52.337946,
     "geom:longitude":-1.173464,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.337742,
     "lbl:longitude":-1.170799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kilsby"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006673"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125940107
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d33349593a3c9ee4ef98ff4b7aacb832",
+    "wof:geomhash":"fa80aa274fcb1c2dfe7433ef0a8a3ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404438135,
     "wof:label":"Kilsby Civil Parish",
-    "wof:lastmodified":1566632536,
+    "wof:lastmodified":1695877249,
     "wof:name":"Kilsby",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

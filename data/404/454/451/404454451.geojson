@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001413,
-    "geom:area_square_m":10592495.625455,
+    "geom:area_square_m":10592495.625456,
     "geom:bbox":"0.0480276707454,52.654797389,0.11464045221,52.6947976846",
     "geom:latitude":52.677903,
     "geom:longitude":0.08609,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.67674,
     "lbl:longitude":0.088361,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0641\u064a\u0644\u062f"
@@ -69,12 +75,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001670"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293724687
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2107365553f005b87a3d902f113ff0a4",
+    "wof:geomhash":"e5f1815f45f0f85509b822aa912ba70c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404454451,
     "wof:label":"Gorefield Civil Parish",
-    "wof:lastmodified":1566632722,
+    "wof:lastmodified":1695877338,
     "wof:name":"Gorefield",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

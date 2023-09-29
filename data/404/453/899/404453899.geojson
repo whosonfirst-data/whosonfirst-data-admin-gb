@@ -10,12 +10,18 @@
     "geom:latitude":50.619868,
     "geom:longitude":-2.525473,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.620846,
     "lbl:longitude":-2.528844,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u0637\u0648\u0644"
@@ -82,12 +88,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003536"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759691
     ],
     "wof:country":"GB",
-    "wof:geomhash":"08904d118f46cd764a765b2e4bdb267b",
+    "wof:geomhash":"5e81a0d0849a21f1990591a38b1f28ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +109,7 @@
     ],
     "wof:id":404453899,
     "wof:label":"Fleet Civil Parish",
-    "wof:lastmodified":1566632840,
+    "wof:lastmodified":1695877392,
     "wof:name":"Fleet",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

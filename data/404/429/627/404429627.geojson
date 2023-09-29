@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000948,
-    "geom:area_square_m":6846124.328206,
+    "geom:area_square_m":6846124.328205,
     "geom:bbox":"-2.03760912165,54.2355435986,-1.97862579863,54.2797102153",
     "geom:latitude":54.258687,
     "geom:longitude":-2.009233,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.258388,
     "lbl:longitude":-2.008786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Newbiggin"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007509"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125989953
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2ada084d70951f52e0ebf5330480ce80",
+    "wof:geomhash":"fadd84e5d55080da64d50054d9b2a862",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404429627,
     "wof:label":"Newbiggin Civil Parish",
-    "wof:lastmodified":1566633115,
+    "wof:lastmodified":1695877512,
     "wof:name":"Newbiggin",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.044529,
     "geom:longitude":0.399818,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.052616,
     "lbl:longitude":0.390351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ticehurst"
@@ -66,12 +72,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003824"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125973289
     ],
     "wof:country":"GB",
-    "wof:geomhash":"304764f352f696089de78eac3564d48a",
+    "wof:geomhash":"3014f07dda265ebd7313c32ba303ccfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447051,
     "wof:label":"Ticehurst Civil Parish",
-    "wof:lastmodified":1566631329,
+    "wof:lastmodified":1695878308,
     "wof:name":"Ticehurst",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

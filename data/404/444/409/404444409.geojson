@@ -10,12 +10,18 @@
     "geom:latitude":54.564194,
     "geom:longitude":-1.719735,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.563958,
     "lbl:longitude":-1.719431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Headlam"
@@ -54,12 +60,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010641"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125874043
     ],
     "wof:country":"GB",
-    "wof:geomhash":"88bf6317eea641195a4fa75dac71e245",
+    "wof:geomhash":"1db597a3acda28845d78f6f9c88c548d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404444409,
     "wof:label":"Headlam Civil Parish",
-    "wof:lastmodified":1566632904,
+    "wof:lastmodified":1695877416,
     "wof:name":"Headlam",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

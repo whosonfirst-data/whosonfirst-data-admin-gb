@@ -10,12 +10,18 @@
     "geom:latitude":51.002072,
     "geom:longitude":-2.412302,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.002475,
     "lbl:longitude":-2.411754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abbas and Templecombe"
@@ -43,12 +49,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008656"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758091
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6234aafd9ed713a604a922bb7777a0e3",
+    "wof:geomhash":"20cedacc85ed111ca541bc179b604861",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404452383,
     "wof:label":"Abbas and Templecombe Civil Parish",
-    "wof:lastmodified":1566632205,
+    "wof:lastmodified":1695877102,
     "wof:name":"Abbas and Templecombe",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

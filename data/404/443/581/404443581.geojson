@@ -10,12 +10,18 @@
     "geom:latitude":54.122011,
     "geom:longitude":-0.72134,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.119196,
     "lbl:longitude":-0.725533,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Settrington"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007628"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125998779
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1797eb4b5ad0d00557441959d946b4d7",
+    "wof:geomhash":"52d9ed6ed8bd7f65b25808a4396c57ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404443581,
     "wof:label":"Settrington Civil Parish",
-    "wof:lastmodified":1566633029,
+    "wof:lastmodified":1695877472,
     "wof:name":"Settrington",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

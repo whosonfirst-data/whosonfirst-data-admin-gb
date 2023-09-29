@@ -10,12 +10,18 @@
     "geom:latitude":51.047943,
     "geom:longitude":-0.731062,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.041746,
     "lbl:longitude":-0.719096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fernhurst"
@@ -57,12 +63,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009901"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126010551
     ],
     "wof:country":"GB",
-    "wof:geomhash":"256730aa8560a7f61e12a05f3d68b96f",
+    "wof:geomhash":"587eb333ec00ad905b2c3fa4b1786cd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404436109,
     "wof:label":"Fernhurst Civil Parish",
-    "wof:lastmodified":1566632380,
+    "wof:lastmodified":1695877178,
     "wof:name":"Fernhurst",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

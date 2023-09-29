@@ -10,12 +10,18 @@
     "geom:latitude":50.971992,
     "geom:longitude":-4.202621,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.973707,
     "lbl:longitude":-4.203213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Monkleigh"
@@ -54,12 +60,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003279"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126049115
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1735d3628e4ac785cd627b5afbd0cddc",
+    "wof:geomhash":"5fa2f1e503adc62553f4fe33f817c1e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404431401,
     "wof:label":"Monkleigh Civil Parish",
-    "wof:lastmodified":1566632456,
+    "wof:lastmodified":1695877212,
     "wof:name":"Monkleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

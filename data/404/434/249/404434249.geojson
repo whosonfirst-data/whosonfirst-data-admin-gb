@@ -10,12 +10,18 @@
     "geom:latitude":51.139431,
     "geom:longitude":-4.205276,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.139407,
     "lbl:longitude":-4.204388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Georgeham"
@@ -63,12 +69,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003091"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843855
     ],
     "wof:country":"GB",
-    "wof:geomhash":"20bdba61f14755e990634693550c7a42",
+    "wof:geomhash":"aa73a29cf2a40cd98275e8c55a63b51b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404434249,
     "wof:label":"Georgeham Civil Parish",
-    "wof:lastmodified":1566633607,
+    "wof:lastmodified":1695877734,
     "wof:name":"Georgeham",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

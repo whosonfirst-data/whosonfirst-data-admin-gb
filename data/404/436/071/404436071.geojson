@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002443,
-    "geom:area_square_m":19045809.584981,
+    "geom:area_square_m":19045809.584982,
     "geom:bbox":"0.532151292869,50.8835522967,0.614702501029,50.9332963692",
     "geom:latitude":50.910166,
     "geom:longitude":0.572697,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.908361,
     "lbl:longitude":0.57191,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Westfield"
@@ -96,12 +102,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003826"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125853995
     ],
     "wof:country":"GB",
-    "wof:geomhash":"74c7be52b127eaed64542fb06f17f57a",
+    "wof:geomhash":"e6f028d985fc4d2763528bdc389e1450",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404436071,
     "wof:label":"Westfield Civil Parish",
-    "wof:lastmodified":1566632340,
+    "wof:lastmodified":1695877160,
     "wof:name":"Westfield",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

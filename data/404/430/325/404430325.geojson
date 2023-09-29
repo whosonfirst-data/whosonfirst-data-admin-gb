@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000652,
-    "geom:area_square_m":4998111.690286,
+    "geom:area_square_m":4998111.690285,
     "geom:bbox":"-1.27735407307,51.7044112033,-1.23291419599,51.7283735115",
     "geom:latitude":51.715676,
     "geom:longitude":-1.254414,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.71749,
     "lbl:longitude":-1.25178,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u0646\u062c\u062a\u0648\u0646"
@@ -93,12 +99,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012130"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125953475
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cf8b8874a6f110b4f45b85ff0853f4ad",
+    "wof:geomhash":"18d739728b9395427911826b6b6cda67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404430325,
     "wof:label":"Kennington Civil Parish",
-    "wof:lastmodified":1566631991,
+    "wof:lastmodified":1695877012,
     "wof:name":"Kennington",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

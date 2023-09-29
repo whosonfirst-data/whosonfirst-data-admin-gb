@@ -10,12 +10,18 @@
     "geom:latitude":52.690455,
     "geom:longitude":-2.425576,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.69208,
     "lbl:longitude":-2.430983,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Georges and Priorslee"
@@ -45,12 +51,15 @@
         1360698911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000942"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"28ab0593b0a090f05097b58e624cddfe",
+    "wof:geomhash":"43a425a4f835bf7e593392afe3ef8df6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404449087,
     "wof:label":"St. Georges and Priorslee Civil Parish",
-    "wof:lastmodified":1566631417,
+    "wof:lastmodified":1695876778,
     "wof:name":"St. Georges and Priorslee",
     "wof:parent_id":1360698911,
     "wof:placetype":"localadmin",

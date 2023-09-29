@@ -10,12 +10,18 @@
     "geom:latitude":52.042176,
     "geom:longitude":-2.005047,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.04179,
     "lbl:longitude":-2.004664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ashton Under Hill"
@@ -42,12 +48,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010357"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125971635
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e01fa73e22837415a9a7d28168622dd8",
+    "wof:geomhash":"a12f3c8b15104faf7edded4941eb9ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404449429,
     "wof:label":"Ashton Under Hill Civil Parish",
-    "wof:lastmodified":1566631423,
+    "wof:lastmodified":1695876780,
     "wof:name":"Ashton Under Hill",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

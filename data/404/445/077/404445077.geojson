@@ -10,12 +10,18 @@
     "geom:latitude":51.223498,
     "geom:longitude":-1.579271,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.222743,
     "lbl:longitude":-1.579092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fyfield"
@@ -57,12 +63,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004610"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844031
     ],
     "wof:country":"GB",
-    "wof:geomhash":"917ea0fc124e4ec4d22c0be058478dba",
+    "wof:geomhash":"777eb13e3035b2fd3a3d42b939bf271c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404445077,
     "wof:label":"Fyfield Civil Parish",
-    "wof:lastmodified":1566633325,
+    "wof:lastmodified":1695877604,
     "wof:name":"Fyfield",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

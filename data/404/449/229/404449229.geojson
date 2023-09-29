@@ -10,12 +10,18 @@
     "geom:latitude":50.988676,
     "geom:longitude":-4.12383,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.990353,
     "lbl:longitude":-4.130096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huntshaw"
@@ -61,12 +67,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003271"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753311
     ],
     "wof:country":"GB",
-    "wof:geomhash":"522d09e748f74932db0cce04cd64012a",
+    "wof:geomhash":"3df41aab4cbdfdabdae3f619afc6ae5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404449229,
     "wof:label":"Huntshaw Civil Parish",
-    "wof:lastmodified":1566631363,
+    "wof:lastmodified":1695878322,
     "wof:name":"Huntshaw",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

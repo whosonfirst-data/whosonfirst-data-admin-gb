@@ -10,12 +10,18 @@
     "geom:latitude":51.070477,
     "geom:longitude":-0.406816,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.069136,
     "lbl:longitude":-0.409964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Slinfold"
@@ -63,12 +69,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009967"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843097
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9b6fad5dba6d8a2bc7a4df169298c052",
+    "wof:geomhash":"36b99773b1fb5402a1a5dba1a6d055bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432761,
     "wof:label":"Slinfold Civil Parish",
-    "wof:lastmodified":1566633932,
+    "wof:lastmodified":1695877866,
     "wof:name":"Slinfold",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

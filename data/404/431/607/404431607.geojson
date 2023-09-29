@@ -10,12 +10,18 @@
     "geom:latitude":51.704004,
     "geom:longitude":-4.094069,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.701491,
     "lbl:longitude":-4.094507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangennech Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000530"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033431
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aebae6c073061c7fc9ef2a1bb10898f3",
+    "wof:geomhash":"f4038c38696839a0ffd5ae5aaaf4040a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404431607,
-    "wof:lastmodified":1566632520,
+    "wof:lastmodified":1695877241,
     "wof:name":"Llangennech Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

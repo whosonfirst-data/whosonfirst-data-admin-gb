@@ -10,12 +10,18 @@
     "geom:latitude":51.67514,
     "geom:longitude":-3.199987,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.677803,
     "lbl:longitude":-3.199989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blackwood Community"
@@ -40,12 +46,15 @@
         1360698925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000730"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852781
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6f6173b13423a2171889187677cfdaf0",
+    "wof:geomhash":"783fd3e23a82d4b5b1ea08929ada1eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452709,
-    "wof:lastmodified":1566632172,
+    "wof:lastmodified":1695877088,
     "wof:name":"Blackwood Community",
     "wof:parent_id":1360698925,
     "wof:placetype":"localadmin",

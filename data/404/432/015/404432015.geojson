@@ -10,12 +10,18 @@
     "geom:latitude":53.489725,
     "geom:longitude":-2.684772,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.492449,
     "lbl:longitude":-2.680628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Seneley Green"
@@ -40,12 +46,15 @@
         1360698793
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000027"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756837
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2d09cd74bd51fa571778ba716face276",
+    "wof:geomhash":"5d173d4dcf3572c1d93f2c6e571dad10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404432015,
     "wof:label":"Seneley Green Civil Parish",
-    "wof:lastmodified":1566633864,
+    "wof:lastmodified":1695877842,
     "wof:name":"Seneley Green",
     "wof:parent_id":1360698793,
     "wof:placetype":"localadmin",

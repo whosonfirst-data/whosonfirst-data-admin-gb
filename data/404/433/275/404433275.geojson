@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
-    "geom:area_square_m":2891234.287065,
+    "geom:area_square_m":2891234.287064,
     "geom:bbox":"-2.35158280991,52.0469317078,-2.31275329648,52.0698368499",
     "geom:latitude":52.058753,
     "geom:longitude":-2.335891,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.060088,
     "lbl:longitude":-2.335603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u062a\u0644 \u0645\u0627\u0644\u0648\u0631\u0646"
@@ -69,12 +75,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010319"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125873435
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f8bd8b73f13533113935bbf3d3385dd4",
+    "wof:geomhash":"77787038ebb4067a2d681a80c8f395b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404433275,
     "wof:label":"Little Malvern Civil Parish",
-    "wof:lastmodified":1566633662,
+    "wof:lastmodified":1695877757,
     "wof:name":"Little Malvern",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

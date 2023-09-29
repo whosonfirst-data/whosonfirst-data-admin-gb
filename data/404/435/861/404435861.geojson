@@ -10,12 +10,18 @@
     "geom:latitude":51.354657,
     "geom:longitude":0.429997,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.355003,
     "lbl:longitude":0.433523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Halling"
@@ -61,12 +67,15 @@
         1360699105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001134"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757955
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0c9132cc559ec2fa8fa774d35b1cd5bb",
+    "wof:geomhash":"6a4017cc00e72fbe550546f128e94fb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404435861,
     "wof:label":"Halling Civil Parish",
-    "wof:lastmodified":1566634008,
+    "wof:lastmodified":1695877901,
     "wof:name":"Halling",
     "wof:parent_id":1360699105,
     "wof:placetype":"localadmin",

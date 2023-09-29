@@ -10,12 +10,18 @@
     "geom:latitude":53.828743,
     "geom:longitude":-0.33674,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.830878,
     "lbl:longitude":-0.34202,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wawne"
@@ -60,12 +66,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000497"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360213383
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7fff0cdb9dd4473b2f13f7247d5e3ea1",
+    "wof:geomhash":"b01b748554b9561f63526faa5639cb82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404451699,
     "wof:label":"Wawne Civil Parish",
-    "wof:lastmodified":1566633510,
+    "wof:lastmodified":1695877687,
     "wof:name":"Wawne",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

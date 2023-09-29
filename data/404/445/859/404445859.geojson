@@ -10,12 +10,18 @@
     "geom:latitude":51.981447,
     "geom:longitude":-1.321485,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.982296,
     "lbl:longitude":-1.322492,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deddington"
@@ -60,12 +66,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008038"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126038529
     ],
     "wof:country":"GB",
-    "wof:geomhash":"067823c75a076207259d3ff8614a98df",
+    "wof:geomhash":"b0b137b735b1012e11b1318200b18304",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404445859,
     "wof:label":"Deddington Civil Parish",
-    "wof:lastmodified":1566633335,
+    "wof:lastmodified":1695877609,
     "wof:name":"Deddington",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003209,
-    "geom:area_square_m":22807857.843976,
+    "geom:area_square_m":22807857.843975,
     "geom:bbox":"-1.67811212981,54.8787853247,-1.56006602774,54.9356212239",
     "geom:latitude":54.908957,
     "geom:longitude":-1.628611,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.908038,
     "lbl:longitude":-1.634395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lamesley"
@@ -63,12 +69,15 @@
         1360698881
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000132"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125807315
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b0413de9eb80d6297311ed74b9276bd9",
+    "wof:geomhash":"ed7e7f11d4ea34a8b392f77d3fcf79ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404436617,
     "wof:label":"Lamesley Civil Parish",
-    "wof:lastmodified":1566632334,
+    "wof:lastmodified":1695877158,
     "wof:name":"Lamesley",
     "wof:parent_id":1360698881,
     "wof:placetype":"localadmin",

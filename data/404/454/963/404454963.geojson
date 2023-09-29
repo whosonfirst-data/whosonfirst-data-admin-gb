@@ -10,12 +10,18 @@
     "geom:latitude":51.07935,
     "geom:longitude":-2.395744,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.077645,
     "lbl:longitude":-2.395732,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Charlton Musgrove"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008678"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209242093
     ],
     "wof:country":"GB",
-    "wof:geomhash":"967dcefdc45a6e8cd5b1d5e61b12a8f6",
+    "wof:geomhash":"b32531b2e7827be290d5d43b4ada6387",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454963,
     "wof:label":"Charlton Musgrove Civil Parish",
-    "wof:lastmodified":1566632651,
+    "wof:lastmodified":1695877302,
     "wof:name":"Charlton Musgrove",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

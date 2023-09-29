@@ -10,12 +10,18 @@
     "geom:latitude":52.269697,
     "geom:longitude":-2.384882,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.268897,
     "lbl:longitude":-2.387028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shelsley Beauchamp"
@@ -42,12 +48,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010338"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903059
     ],
     "wof:country":"GB",
-    "wof:geomhash":"37e2b11830f3851fe2b798dd378d045f",
+    "wof:geomhash":"b12fb8975d76875d2f2e2709c5ada4ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404430275,
     "wof:label":"Shelsley Beauchamp Civil Parish",
-    "wof:lastmodified":1566631960,
+    "wof:lastmodified":1695877000,
     "wof:name":"Shelsley Beauchamp",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

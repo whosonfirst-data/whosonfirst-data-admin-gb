@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001803,
-    "geom:area_square_m":13114989.575332,
+    "geom:area_square_m":13114989.575331,
     "geom:bbox":"-0.268668644247,53.956910466,-0.187064077522,53.9973328776",
     "geom:latitude":53.976543,
     "geom:longitude":-0.229541,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.978654,
     "lbl:longitude":-0.24036,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skipsea"
@@ -63,12 +69,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000472"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125978839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0fd3ee87095f53eaaff17c772dc8738f",
+    "wof:geomhash":"4ef596f694c3cc4bc8a4010c090c90ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404450633,
     "wof:label":"Skipsea Civil Parish",
-    "wof:lastmodified":1566633769,
+    "wof:lastmodified":1695877805,
     "wof:name":"Skipsea",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

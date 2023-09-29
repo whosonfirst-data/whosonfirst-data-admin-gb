@@ -10,12 +10,18 @@
     "geom:latitude":52.569711,
     "geom:longitude":-0.511552,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.572392,
     "lbl:longitude":-0.510908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "King's Cliffe"
@@ -45,12 +51,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006733"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125866591
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3958e548c2cecfd4d5cf307c1ac682dc",
+    "wof:geomhash":"408dc2c9783bce4d549599ed013facdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404451915,
     "wof:label":"King's Cliffe Civil Parish",
-    "wof:lastmodified":1566633469,
+    "wof:lastmodified":1695877667,
     "wof:name":"King's Cliffe",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

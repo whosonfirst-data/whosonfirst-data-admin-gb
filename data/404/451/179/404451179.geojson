@@ -10,12 +10,18 @@
     "geom:latitude":51.026938,
     "geom:longitude":-0.305661,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.021662,
     "lbl:longitude":-0.309136,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nuthurst"
@@ -54,12 +60,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009960"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869977
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5dd48ef2c792bda72f1d82933da4b7e4",
+    "wof:geomhash":"bdc6654369f2dd792634160109710ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451179,
     "wof:label":"Nuthurst Civil Parish",
-    "wof:lastmodified":1566633526,
+    "wof:lastmodified":1695877695,
     "wof:name":"Nuthurst",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

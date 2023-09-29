@@ -10,12 +10,18 @@
     "geom:latitude":53.071038,
     "geom:longitude":-2.461128,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.071837,
     "lbl:longitude":-2.460007,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1308\u1218\u12f5"
@@ -262,12 +268,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010999"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756787
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6942a2fddf74c1450ade2921bf2bea03",
+    "wof:geomhash":"7b1954a5ddd62c843412256e79cf31a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -280,7 +289,7 @@
     ],
     "wof:id":404441179,
     "wof:label":"Rope Civil Parish",
-    "wof:lastmodified":1566631823,
+    "wof:lastmodified":1695876937,
     "wof:name":"Rope",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

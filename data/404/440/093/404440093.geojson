@@ -10,12 +10,18 @@
     "geom:latitude":53.600385,
     "geom:longitude":-1.193522,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.600889,
     "lbl:longitude":-1.198515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burghwallis"
@@ -54,12 +60,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000068"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125934843
     ],
     "wof:country":"GB",
-    "wof:geomhash":"194426e16f2be14f1dd84eb988a1526f",
+    "wof:geomhash":"ceaa7307b35877dcca5c50e74904395c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440093,
     "wof:label":"Burghwallis Civil Parish",
-    "wof:lastmodified":1566631219,
+    "wof:lastmodified":1695878258,
     "wof:name":"Burghwallis",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

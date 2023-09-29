@@ -10,12 +10,18 @@
     "geom:latitude":50.725141,
     "geom:longitude":-3.959757,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.729319,
     "lbl:longitude":-3.963714,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Belstone"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003305"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878677
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3659a7ebb362582dc5763331e9f93bb1",
+    "wof:geomhash":"3a365897ca5de1fac1b7d662669d2e04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440561,
     "wof:label":"Belstone Civil Parish",
-    "wof:lastmodified":1566631130,
+    "wof:lastmodified":1695878216,
     "wof:name":"Belstone",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

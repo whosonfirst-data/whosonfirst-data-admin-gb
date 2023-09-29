@@ -10,12 +10,18 @@
     "geom:latitude":51.138748,
     "geom:longitude":-0.610042,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.138843,
     "lbl:longitude":-0.609606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hambledon"
@@ -57,12 +63,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009617"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977435
     ],
     "wof:country":"GB",
-    "wof:geomhash":"26be81b56da83e9a978811af8d34ab62",
+    "wof:geomhash":"e7671ff6da27f6724277195c6ca3eaea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454935,
     "wof:label":"Hambledon Civil Parish",
-    "wof:lastmodified":1566632698,
+    "wof:lastmodified":1695877326,
     "wof:name":"Hambledon",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

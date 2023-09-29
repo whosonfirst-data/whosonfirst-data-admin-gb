@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001301,
-    "geom:area_square_m":9721386.368788,
+    "geom:area_square_m":9721386.368789,
     "geom:bbox":"1.4227024222,52.8102793333,1.49689541288,52.8441722433",
     "geom:latitude":52.82684,
     "geom:longitude":1.463055,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.831185,
     "lbl:longitude":1.462493,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Witton"
@@ -48,12 +54,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006501"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310628229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6e8051a7497e7e18716ca28cbfaf6f9c",
+    "wof:geomhash":"0ec9d6bcdaad811d3f8ca08ddd2703a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404443745,
     "wof:label":"Witton Civil Parish",
-    "wof:lastmodified":1566633089,
+    "wof:lastmodified":1695877500,
     "wof:name":"Witton",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

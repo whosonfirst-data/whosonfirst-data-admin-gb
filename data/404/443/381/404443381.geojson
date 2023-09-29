@@ -10,12 +10,18 @@
     "geom:latitude":54.420327,
     "geom:longitude":-1.232615,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.415068,
     "lbl:longitude":-1.227674,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Faceby"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007174"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908917
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d7123d6ce7eaf2665b6e6f3bfa0602f4",
+    "wof:geomhash":"b9881a26e5f2a3e99ae4b96558146b80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404443381,
     "wof:label":"Faceby Civil Parish",
-    "wof:lastmodified":1566633090,
+    "wof:lastmodified":1695877500,
     "wof:name":"Faceby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

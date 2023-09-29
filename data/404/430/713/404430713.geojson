@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000775,
-    "geom:area_square_m":5823250.507568,
+    "geom:area_square_m":5823250.507569,
     "geom:bbox":"-0.632817786668,52.5923626537,-0.574988544564,52.6178532723",
     "geom:latitude":52.606289,
     "geom:longitude":-0.605385,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.607038,
     "lbl:longitude":-0.605378,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Luffenham"
@@ -63,12 +69,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000668"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343887293
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a53401c15706e153a6a0920bf830eb82",
+    "wof:geomhash":"5f1b4f89727e50e6c0633e7fd44d446f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430713,
     "wof:label":"South Luffenham Civil Parish",
-    "wof:lastmodified":1566631979,
+    "wof:lastmodified":1695877007,
     "wof:name":"South Luffenham",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

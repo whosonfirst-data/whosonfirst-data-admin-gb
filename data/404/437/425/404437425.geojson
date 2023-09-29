@@ -10,12 +10,18 @@
     "geom:latitude":53.779271,
     "geom:longitude":-2.493954,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.778793,
     "lbl:longitude":-2.493952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ramsgreave"
@@ -49,12 +55,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005274"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759627
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2a458557a227168157be73ecb38142cc",
+    "wof:geomhash":"f12985d11e492b34237946524cfc59b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404437425,
     "wof:label":"Ramsgreave Civil Parish",
-    "wof:lastmodified":1566632069,
+    "wof:lastmodified":1695877044,
     "wof:name":"Ramsgreave",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

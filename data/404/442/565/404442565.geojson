@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003904,
-    "geom:area_square_m":29931755.77081,
+    "geom:area_square_m":29931755.770812,
     "geom:bbox":"-5.126124402,51.6527089947,-4.97208033358,51.695122885",
     "geom:latitude":51.675981,
     "geom:longitude":-5.044598,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.67645,
     "lbl:longitude":-5.038165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Angle Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000934"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125799383
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b74d318c03570617fe8a4414dd2f2935",
+    "wof:geomhash":"13ffcb8b9ac759fb2c4fe3a87066a3dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404442565,
-    "wof:lastmodified":1566633261,
+    "wof:lastmodified":1695877578,
     "wof:name":"Angle Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001788,
-    "geom:area_square_m":13582259.878267,
+    "geom:area_square_m":13582259.878269,
     "geom:bbox":"-4.03627139554,52.0674705112,-3.96704613168,52.1143369218",
     "geom:latitude":52.088095,
     "geom:longitude":-3.998572,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.088076,
     "lbl:longitude":-3.995705,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanycrwys Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000545"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243582727
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ec4cc153d1e8a5187b47f5ae04da426a",
+    "wof:geomhash":"6a762d2075439704bbe13f1d54f5536a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453435,
-    "wof:lastmodified":1566632840,
+    "wof:lastmodified":1695877391,
     "wof:name":"Llanycrwys Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001008,
-    "geom:area_square_m":7453690.357017,
+    "geom:area_square_m":7453690.357018,
     "geom:bbox":"-0.271535529675,53.2517978709,-0.206346221661,53.2894323333",
     "geom:latitude":53.274271,
     "geom:longitude":-0.236598,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.276524,
     "lbl:longitude":-0.237093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hatton"
@@ -84,12 +90,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005658"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259908709
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cffcae62df49e186eed04f11c2b7cb3e",
+    "wof:geomhash":"1d3f6910f986c936a6c121ffb8a33b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404449455,
     "wof:label":"Hatton Civil Parish",
-    "wof:lastmodified":1566631380,
+    "wof:lastmodified":1695878329,
     "wof:name":"Hatton",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

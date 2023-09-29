@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001343,
-    "geom:area_square_m":10012839.066369,
+    "geom:area_square_m":10012839.06637,
     "geom:bbox":"-1.59901775821,52.8978058387,-1.54407301126,52.9376019031",
     "geom:latitude":52.919882,
     "geom:longitude":-1.573478,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.922116,
     "lbl:longitude":-1.573475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Radbourne"
@@ -42,12 +48,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002919"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125952187
     ],
     "wof:country":"GB",
-    "wof:geomhash":"024770563696fdaf59b2309769240a46",
+    "wof:geomhash":"d513d861214cf1a555e8185ad29ab2d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404433685,
     "wof:label":"Radbourne Civil Parish",
-    "wof:lastmodified":1566633707,
+    "wof:lastmodified":1695877778,
     "wof:name":"Radbourne",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

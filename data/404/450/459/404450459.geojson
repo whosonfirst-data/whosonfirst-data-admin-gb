@@ -10,12 +10,18 @@
     "geom:latitude":51.160244,
     "geom:longitude":-1.682539,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.160427,
     "lbl:longitude":-1.683118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Newton Tony"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011783"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125766411
     ],
     "wof:country":"GB",
-    "wof:geomhash":"51d5f1d6ad86bd9f78d0809d71a74236",
+    "wof:geomhash":"97c32bc82dcdfd6543b2d1eaaf572366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404450459,
     "wof:label":"Newton Tony Civil Parish",
-    "wof:lastmodified":1566633830,
+    "wof:lastmodified":1695877829,
     "wof:name":"Newton Tony",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

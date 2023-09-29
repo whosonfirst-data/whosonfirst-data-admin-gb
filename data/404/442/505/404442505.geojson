@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004377,
-    "geom:area_square_m":31675096.719365,
+    "geom:area_square_m":31675096.719364,
     "geom:bbox":"-2.25863632117,54.1388283873,-2.15946605735,54.2058638237",
     "geom:latitude":54.174806,
     "geom:longitude":-2.213222,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.178364,
     "lbl:longitude":-2.209204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Halton Gill"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007088"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125927413
     ],
     "wof:country":"GB",
-    "wof:geomhash":"64b7654c97161383bf3a094ce64f5cad",
+    "wof:geomhash":"c70610a6728195f188b5db12b930f836",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404442505,
     "wof:label":"Halton Gill Civil Parish",
-    "wof:lastmodified":1566633199,
+    "wof:lastmodified":1695877549,
     "wof:name":"Halton Gill",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

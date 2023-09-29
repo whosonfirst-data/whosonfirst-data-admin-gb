@@ -10,12 +10,18 @@
     "geom:latitude":51.591584,
     "geom:longitude":-4.11166,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.598261,
     "lbl:longitude":-4.106003,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ilston Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000572"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782663
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b59e0f51426e4b68896236beac6d147a",
+    "wof:geomhash":"6b83f57768a74164386a8b09bd48a29c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443641,
-    "wof:lastmodified":1566633061,
+    "wof:lastmodified":1695877488,
     "wof:name":"Ilston Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

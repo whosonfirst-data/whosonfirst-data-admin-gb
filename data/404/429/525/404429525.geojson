@@ -10,12 +10,18 @@
     "geom:latitude":52.243882,
     "geom:longitude":1.241271,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.237683,
     "lbl:longitude":1.247504,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Monk Soham"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009230"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126049475
     ],
     "wof:country":"GB",
-    "wof:geomhash":"52c18042a7231a692fd885ae91ee238c",
+    "wof:geomhash":"de7cdc569980e27772a03507f9d2dd23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429525,
     "wof:label":"Monk Soham Civil Parish",
-    "wof:lastmodified":1566633186,
+    "wof:lastmodified":1695877543,
     "wof:name":"Monk Soham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

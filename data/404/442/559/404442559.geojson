@@ -10,12 +10,18 @@
     "geom:latitude":51.873004,
     "geom:longitude":-0.580218,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.866052,
     "lbl:longitude":-0.567646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u062a\u0648\u0646 \u0628\u0631\u0627\u064a"
@@ -75,12 +81,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011943"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125917659
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4947e1c362486e3b9f275a1726c4bd0e",
+    "wof:geomhash":"e9e604e933f480a5754ce053322b3027",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404442559,
     "wof:label":"Eaton Bray Civil Parish",
-    "wof:lastmodified":1566633200,
+    "wof:lastmodified":1695877550,
     "wof:name":"Eaton Bray",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

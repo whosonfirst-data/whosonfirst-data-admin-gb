@@ -10,12 +10,18 @@
     "geom:latitude":53.264463,
     "geom:longitude":-2.452098,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.265738,
     "lbl:longitude":-2.456771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0633\u062a\u0643 \u063a\u0631\u0644\u0645"
@@ -69,12 +75,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011133"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881893
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1ced97eb1e4e6ebd1cca25b6133cfc1d",
+    "wof:geomhash":"b3c4be08c390764b928b11690a8aadc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404444339,
     "wof:label":"Lostock Gralam Civil Parish",
-    "wof:lastmodified":1566632872,
+    "wof:lastmodified":1695877405,
     "wof:name":"Lostock Gralam",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

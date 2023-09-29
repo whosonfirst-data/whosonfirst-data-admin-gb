@@ -10,12 +10,18 @@
     "geom:latitude":51.425078,
     "geom:longitude":-2.77897,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.42158,
     "lbl:longitude":-2.786076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0627\u06cc\u0644\u0633\u06cc"
@@ -84,12 +90,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012095"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852673
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3e092e75cabc509a4681c0ec2e22fece",
+    "wof:geomhash":"b21e821c6fd2d5da58e78ccaed1a8df2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404440043,
     "wof:label":"Nailsea Civil Parish",
-    "wof:lastmodified":1566631202,
+    "wof:lastmodified":1695878250,
     "wof:name":"Nailsea",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

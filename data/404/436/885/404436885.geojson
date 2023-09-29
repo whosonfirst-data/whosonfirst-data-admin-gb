@@ -10,12 +10,18 @@
     "geom:latitude":50.213461,
     "geom:longitude":-5.204352,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.213593,
     "lbl:longitude":-5.2048,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lanner"
@@ -60,12 +66,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011461"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125971769
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4ef51ec5b08521880d1e6308ac9bd771",
+    "wof:geomhash":"16f2ee59697c6a8f3df59276d1ff03ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404436885,
     "wof:label":"Lanner Civil Parish",
-    "wof:lastmodified":1566632398,
+    "wof:lastmodified":1695877186,
     "wof:name":"Lanner",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

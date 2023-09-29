@@ -10,12 +10,18 @@
     "geom:latitude":51.88433,
     "geom:longitude":-1.65126,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.883838,
     "lbl:longitude":-1.653362,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Idbury"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008299"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293321867
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7f87fabfa74e77212048ab0f08d88a01",
+    "wof:geomhash":"abaa414da8a8748cff6193ed60e6a3af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404446457,
     "wof:label":"Idbury Civil Parish",
-    "wof:lastmodified":1566631693,
+    "wof:lastmodified":1695876882,
     "wof:name":"Idbury",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

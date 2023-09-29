@@ -10,12 +10,18 @@
     "geom:latitude":52.813213,
     "geom:longitude":-2.777106,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.81616,
     "lbl:longitude":-2.777978,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Myddle and Broughton"
@@ -43,12 +49,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011326"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756905
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7aadb5e4effc6676a37a96ec72f9b7c9",
+    "wof:geomhash":"9094d8db39ba28ea868764f4c90a2b6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404451551,
     "wof:label":"Myddle and Broughton Civil Parish",
-    "wof:lastmodified":1566633418,
+    "wof:lastmodified":1695877648,
     "wof:name":"Myddle and Broughton",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.945468,
     "geom:longitude":-2.074901,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.944362,
     "lbl:longitude":-2.08138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bishop's Cleeve"
@@ -66,12 +72,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004391"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879535
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f62715b13f8ed1754fa68b0e96f7fcb",
+    "wof:geomhash":"1f22f90a8a0c550f8fa579f7fc92eded",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404432133,
     "wof:label":"Bishop's Cleeve Civil Parish",
-    "wof:lastmodified":1566633858,
+    "wof:lastmodified":1695877839,
     "wof:name":"Bishop's Cleeve",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

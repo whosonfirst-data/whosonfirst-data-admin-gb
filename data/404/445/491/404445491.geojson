@@ -10,12 +10,18 @@
     "geom:latitude":51.028696,
     "geom:longitude":-4.113249,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.034064,
     "lbl:longitude":-4.118905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Horwood, Lovacott and Newton Tracey"
@@ -43,12 +49,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003109"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759415
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c2e89488f3836e1ab323b849abc236e2",
+    "wof:geomhash":"612d0347a77f941163c105d3988fcd71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404445491,
     "wof:label":"Horwood, Lovacott and Newton Tracey Civil Parish",
-    "wof:lastmodified":1566633348,
+    "wof:lastmodified":1695877617,
     "wof:name":"Horwood, Lovacott and Newton Tracey",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

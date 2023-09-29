@@ -10,12 +10,18 @@
     "geom:latitude":52.998161,
     "geom:longitude":-1.458027,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.998212,
     "lbl:longitude":-1.458025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Holbrook"
@@ -96,12 +102,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012077"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125973823
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f44f88bf7931a7f4a6f9e4e34bd964a7",
+    "wof:geomhash":"53081b045d517e03893234178fc3569a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404450983,
     "wof:label":"Holbrook Civil Parish",
-    "wof:lastmodified":1566633781,
+    "wof:lastmodified":1695877810,
     "wof:name":"Holbrook",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

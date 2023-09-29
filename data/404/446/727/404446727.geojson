@@ -10,12 +10,18 @@
     "geom:latitude":53.593074,
     "geom:longitude":-1.235101,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.592031,
     "lbl:longitude":-1.233155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hampole"
@@ -54,12 +60,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000079"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125836013
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e0192bfc70b9147c29d4daf9d3705284",
+    "wof:geomhash":"4ce24b3e7d66ee746178b767d05b047f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404446727,
     "wof:label":"Hampole Civil Parish",
-    "wof:lastmodified":1566631711,
+    "wof:lastmodified":1695876890,
     "wof:name":"Hampole",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

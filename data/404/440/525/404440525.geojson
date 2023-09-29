@@ -10,12 +10,18 @@
     "geom:latitude":50.915652,
     "geom:longitude":-1.245421,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.922385,
     "lbl:longitude":-1.250164,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Curdridge"
@@ -63,12 +69,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004662"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125797209
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5b894f472ff97109539409987e1254dc",
+    "wof:geomhash":"40d2d65885ddaf926d149e5d5e3715de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404440525,
     "wof:label":"Curdridge Civil Parish",
-    "wof:lastmodified":1566631227,
+    "wof:lastmodified":1695878261,
     "wof:name":"Curdridge",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

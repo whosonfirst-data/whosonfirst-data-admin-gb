@@ -10,12 +10,18 @@
     "geom:latitude":52.140585,
     "geom:longitude":-0.045568,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.140331,
     "lbl:longitude":-0.045093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u0645\u0628\u0644"
@@ -69,12 +75,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001855"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259618731
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9bccc3bef1fe599ddd4aa8b9c2e31fdb",
+    "wof:geomhash":"7d63f46cd818a59b433c6fd6a182e9ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404436817,
     "wof:label":"Wimpole Civil Parish",
-    "wof:lastmodified":1566632338,
+    "wof:lastmodified":1695877159,
     "wof:name":"Wimpole",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.384267,
     "geom:longitude":-2.907949,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.381712,
     "lbl:longitude":-2.905025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wick St. Lawrence"
@@ -54,12 +60,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012105"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125781861
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a5659f4b12ea62598eb823fdd47c3b1b",
+    "wof:geomhash":"0d18770d8f442252732b67d32959e536",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404455115,
     "wof:label":"Wick St. Lawrence Civil Parish",
-    "wof:lastmodified":1566632312,
+    "wof:lastmodified":1695877146,
     "wof:name":"Wick St. Lawrence",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

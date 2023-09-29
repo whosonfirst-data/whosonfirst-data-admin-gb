@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001834,
-    "geom:area_square_m":13911168.719181,
+    "geom:area_square_m":13911168.719182,
     "geom:bbox":"-3.01008851563,52.1409092234,-2.9317549035,52.1777550023",
     "geom:latitude":52.161605,
     "geom:longitude":-2.973746,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.161651,
     "lbl:longitude":-2.974482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Almeley"
@@ -57,12 +63,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000687"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125870409
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9ecc9e3dfc4c6616c4e67eb949df226b",
+    "wof:geomhash":"c07894f98c23f9251eb66aa9a4a8946c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404432683,
     "wof:label":"Almeley Civil Parish",
-    "wof:lastmodified":1566633945,
+    "wof:lastmodified":1695877871,
     "wof:name":"Almeley",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

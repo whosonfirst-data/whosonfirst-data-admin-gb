@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012948,
-    "geom:area_square_m":98663789.169418,
+    "geom:area_square_m":98663789.169415,
     "geom:bbox":"-3.67356842164,51.8383264957,-3.50696535284,52.0598134195",
     "geom:latitude":51.95677,
     "geom:longitude":-3.581345,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.014253,
     "lbl:longitude":-3.60778,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maescar Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000327"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711657
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cef2f67d25abceb9d902f28d7b8f96a9",
+    "wof:geomhash":"8e8e1fbd850159da5842a83320c1c11d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444911,
-    "wof:lastmodified":1566632970,
+    "wof:lastmodified":1695877444,
     "wof:name":"Maescar Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

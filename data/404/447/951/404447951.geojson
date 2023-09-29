@@ -10,12 +10,18 @@
     "geom:latitude":52.80121,
     "geom:longitude":-1.564444,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.80337,
     "lbl:longitude":-1.55673,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bretby"
@@ -66,12 +72,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002890"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125891269
     ],
     "wof:country":"GB",
-    "wof:geomhash":"026d13d7710ad2bfba0f0c8ae8c8b521",
+    "wof:geomhash":"f628efbf68564c65708547fce8204fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447951,
     "wof:label":"Bretby Civil Parish",
-    "wof:lastmodified":1566631299,
+    "wof:lastmodified":1695878296,
     "wof:name":"Bretby",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.840614,
     "geom:longitude":-1.004833,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.840401,
     "lbl:longitude":-1.001962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skipwith"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007767"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125911489
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c5f0a16002f20229c30433ca84d09276",
+    "wof:geomhash":"a54d17980523e67ffc609b695cbdc080",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454833,
     "wof:label":"Skipwith Civil Parish",
-    "wof:lastmodified":1566632678,
+    "wof:lastmodified":1695877315,
     "wof:name":"Skipwith",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

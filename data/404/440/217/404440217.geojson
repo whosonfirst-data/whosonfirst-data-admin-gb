@@ -10,12 +10,18 @@
     "geom:latitude":52.375379,
     "geom:longitude":-1.204735,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.376421,
     "lbl:longitude":-1.202372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clifton Upon Dunsmore"
@@ -42,12 +48,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009669"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226177769
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a821b1b47c2092c7ca8983bdbc005e7a",
+    "wof:geomhash":"ffe83b747b73bd7ca779d3b29587c2be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404440217,
     "wof:label":"Clifton Upon Dunsmore Civil Parish",
-    "wof:lastmodified":1566631146,
+    "wof:lastmodified":1695878224,
     "wof:name":"Clifton Upon Dunsmore",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

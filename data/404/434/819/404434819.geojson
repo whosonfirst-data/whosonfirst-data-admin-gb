@@ -10,12 +10,18 @@
     "geom:latitude":52.637551,
     "geom:longitude":-1.378866,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.63626,
     "lbl:longitude":-1.379256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osbaston"
@@ -43,12 +49,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005503"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756387
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5713077470362981e36b99d91dc597c9",
+    "wof:geomhash":"67e8c2b7f283d2519752e77eeacc0e49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404434819,
     "wof:label":"Osbaston Civil Parish",
-    "wof:lastmodified":1566633555,
+    "wof:lastmodified":1695877711,
     "wof:name":"Osbaston",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

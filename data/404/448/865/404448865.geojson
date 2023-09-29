@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003006,
-    "geom:area_square_m":23632661.100452,
+    "geom:area_square_m":23632661.100451,
     "geom:bbox":"-4.28793005901,50.4897156238,-4.18030435872,50.543876231",
     "geom:latitude":50.514301,
     "geom:longitude":-4.237988,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.512946,
     "lbl:longitude":-4.241624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0633\u062a\u0643"
@@ -81,12 +87,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011412"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125986563
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bbd0498a36dbe3524b685d1704b85d68",
+    "wof:geomhash":"68dc8e7a3ffd3b9772d7cf3572d642ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404448865,
     "wof:label":"Calstock Civil Parish",
-    "wof:lastmodified":1566631552,
+    "wof:lastmodified":1695876837,
     "wof:name":"Calstock",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

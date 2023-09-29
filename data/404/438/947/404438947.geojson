@@ -10,12 +10,18 @@
     "geom:latitude":53.723569,
     "geom:longitude":-1.085094,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.724887,
     "lbl:longitude":-1.084813,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Temple Hirst"
@@ -57,12 +63,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007774"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259612527
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dad6d4315c774cb01f0e14506e35b92b",
+    "wof:geomhash":"a967bd0203acd746df4a706cb4defdc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404438947,
     "wof:label":"Temple Hirst Civil Parish",
-    "wof:lastmodified":1566632584,
+    "wof:lastmodified":1695877270,
     "wof:name":"Temple Hirst",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

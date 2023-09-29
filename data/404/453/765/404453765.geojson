@@ -10,12 +10,18 @@
     "geom:latitude":51.142702,
     "geom:longitude":-2.101339,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.142282,
     "lbl:longitude":-2.098532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boyton"
@@ -51,12 +57,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011641"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126048015
     ],
     "wof:country":"GB",
-    "wof:geomhash":"76dd40216f5df22765976210bcc5d964",
+    "wof:geomhash":"fc528add28d34ae2cd21c2e99a6aa9f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404453765,
     "wof:label":"Boyton Civil Parish",
-    "wof:lastmodified":1566632758,
+    "wof:lastmodified":1695877354,
     "wof:name":"Boyton",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

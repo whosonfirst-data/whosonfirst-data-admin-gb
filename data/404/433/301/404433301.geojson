@@ -10,12 +10,18 @@
     "geom:latitude":51.796377,
     "geom:longitude":-0.723936,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.801089,
     "lbl:longitude":-0.72944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0633\u062a\u0648\u0646 \u0643\u0644\u064a\u0646\u062a\u0648\u0646"
@@ -69,12 +75,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001457"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854799
     ],
     "wof:country":"GB",
-    "wof:geomhash":"94d74ad43132c8fa9bb4d37e50d35cae",
+    "wof:geomhash":"309b0a29be66a8c05bde9257c5d0c049",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404433301,
     "wof:label":"Aston Clinton Civil Parish",
-    "wof:lastmodified":1566633646,
+    "wof:lastmodified":1695877750,
     "wof:name":"Aston Clinton",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

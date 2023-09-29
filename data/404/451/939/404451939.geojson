@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00255,
-    "geom:area_square_m":18551642.733948,
+    "geom:area_square_m":18551642.733949,
     "geom:bbox":"-1.26910353227,53.9223611581,-1.19561770349,53.9797302587",
     "geom:latitude":53.951968,
     "geom:longitude":-1.235767,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.954773,
     "lbl:longitude":-1.238725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Long Marston"
@@ -60,12 +66,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007382"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125862643
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3578390a05fd81369edfe6a6b7100d0d",
+    "wof:geomhash":"6bdc680282ba2c1f4b3eec80b35caa7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404451939,
     "wof:label":"Long Marston Civil Parish",
-    "wof:lastmodified":1566633426,
+    "wof:lastmodified":1695877650,
     "wof:name":"Long Marston",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

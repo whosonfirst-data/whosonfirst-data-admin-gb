@@ -10,12 +10,18 @@
     "geom:latitude":53.79627,
     "geom:longitude":-0.666323,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.795546,
     "lbl:longitude":-0.666299,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hotham"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000416"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801641
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c98cd160d8e3fd0a6bcdc7f53473aaf8",
+    "wof:geomhash":"b48696b421ec71fc050598088fba097a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404434549,
     "wof:label":"Hotham Civil Parish",
-    "wof:lastmodified":1566633624,
+    "wof:lastmodified":1695877741,
     "wof:name":"Hotham",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

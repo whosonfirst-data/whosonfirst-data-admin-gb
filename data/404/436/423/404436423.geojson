@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014902,
-    "geom:area_square_m":113034779.472945,
+    "geom:area_square_m":113034779.472942,
     "geom:bbox":"-4.01337560785,52.1045133165,-3.74557265171,52.208975856",
     "geom:latitude":52.162458,
     "geom:longitude":-3.878643,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.162299,
     "lbl:longitude":-3.914018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanddewi Brefi Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000373"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125771097
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d3602a47348fac9131362bb62aae49b8",
+    "wof:geomhash":"9c2fdb6ade3056b9bf0e35b99a500267",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404436423,
-    "wof:lastmodified":1566632342,
+    "wof:lastmodified":1695877161,
     "wof:name":"Llanddewi Brefi Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

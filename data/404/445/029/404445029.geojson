@@ -10,12 +10,18 @@
     "geom:latitude":53.189886,
     "geom:longitude":-0.010113,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.186754,
     "lbl:longitude":-0.010717,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lusby with Winceby"
@@ -43,12 +49,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005685"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759155
     ],
     "wof:country":"GB",
-    "wof:geomhash":"44999344547fce5c064226e64578038f",
+    "wof:geomhash":"bdc6e3a35b47b15779117d6f1239641a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404445029,
     "wof:label":"Lusby with Winceby Civil Parish",
-    "wof:lastmodified":1566633384,
+    "wof:lastmodified":1695877631,
     "wof:name":"Lusby with Winceby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

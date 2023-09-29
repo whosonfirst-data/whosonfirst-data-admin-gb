@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000906,
-    "geom:area_square_m":6770435.917697,
+    "geom:area_square_m":6770435.917698,
     "geom:bbox":"0.936874397697,52.7826868073,0.996981171183,52.8077127639",
     "geom:latitude":52.794803,
     "geom:longitude":0.965436,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.793809,
     "lbl:longitude":0.964855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guist"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006123"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126011995
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a8a8886fb0f0e13d6ebaef9825edebe0",
+    "wof:geomhash":"f1008e6e89ee2416a11fff6ad5269c61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448575,
     "wof:label":"Guist Civil Parish",
-    "wof:lastmodified":1566631508,
+    "wof:lastmodified":1695876818,
     "wof:name":"Guist",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

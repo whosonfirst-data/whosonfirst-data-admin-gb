@@ -10,12 +10,18 @@
     "geom:latitude":52.119485,
     "geom:longitude":-0.383655,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.116131,
     "lbl:longitude":-0.380929,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0628\u0644"
@@ -69,12 +75,15 @@
         1360699073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011886"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243201477
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72ccd52c41f81480ffcdacb687dff3ab",
+    "wof:geomhash":"4ad7c396b3e9e363b7bf8cbb11a77388",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404455123,
     "wof:label":"Cople Civil Parish",
-    "wof:lastmodified":1566632312,
+    "wof:lastmodified":1695877147,
     "wof:name":"Cople",
     "wof:parent_id":1360699073,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.878678,
     "geom:longitude":-2.166402,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.880913,
     "lbl:longitude":-2.172233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Foulridge"
@@ -57,12 +63,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005220"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910289
     ],
     "wof:country":"GB",
-    "wof:geomhash":"83b5597e8866d8180e07129acbbe5a4f",
+    "wof:geomhash":"22c689befb3b2e3b9446287b20a561b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453977,
     "wof:label":"Foulridge Civil Parish",
-    "wof:lastmodified":1566632790,
+    "wof:lastmodified":1695877369,
     "wof:name":"Foulridge",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

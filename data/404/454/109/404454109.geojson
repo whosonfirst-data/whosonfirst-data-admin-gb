@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000732,
-    "geom:area_square_m":5537270.679207,
+    "geom:area_square_m":5537270.679206,
     "geom:bbox":"-2.56567187216,52.2889164384,-2.51212702032,52.3161348177",
     "geom:latitude":52.303215,
     "geom:longitude":-2.536693,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.29986,
     "lbl:longitude":-2.5296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rochford"
@@ -100,12 +106,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010335"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753019
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b71e33efdd7512ca22aaae80a81ce1ca",
+    "wof:geomhash":"5744738a25013d7ee218515cdf32fcb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +127,7 @@
     ],
     "wof:id":404454109,
     "wof:label":"Rochford Civil Parish",
-    "wof:lastmodified":1566632698,
+    "wof:lastmodified":1695877325,
     "wof:name":"Rochford",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

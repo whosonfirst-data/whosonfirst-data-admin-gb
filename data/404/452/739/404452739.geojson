@@ -10,12 +10,18 @@
     "geom:latitude":53.632033,
     "geom:longitude":-1.307289,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.633099,
     "lbl:longitude":-1.307767,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Badsworth"
@@ -60,12 +66,15 @@
         1360698945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000224"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125861933
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b3c10583a63afb4fbc2d4ad7560a74d5",
+    "wof:geomhash":"359c1027136ed7e4fd3d776c7e9b7653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404452739,
     "wof:label":"Badsworth Civil Parish",
-    "wof:lastmodified":1566632167,
+    "wof:lastmodified":1695877086,
     "wof:name":"Badsworth",
     "wof:parent_id":1360698945,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.076521,
     "geom:longitude":-2.538403,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.076313,
     "lbl:longitude":-2.538701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Henhull"
@@ -60,12 +66,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010951"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125845517
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ee22b0e2ddab3006e0c1ccf813414451",
+    "wof:geomhash":"bb4e722fe2f5d3144e9aba1bf3edc3f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404436605,
     "wof:label":"Henhull Civil Parish",
-    "wof:lastmodified":1566632346,
+    "wof:lastmodified":1695877163,
     "wof:name":"Henhull",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

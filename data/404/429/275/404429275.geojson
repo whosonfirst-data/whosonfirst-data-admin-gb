@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001385,
-    "geom:area_square_m":10246412.423177,
+    "geom:area_square_m":10246412.423176,
     "geom:bbox":"-0.101818506668,53.2469764203,-0.0277307658157,53.2785061927",
     "geom:latitude":53.262418,
     "geom:longitude":-0.064689,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.262799,
     "lbl:longitude":-0.064688,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Belchford"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005599"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908587
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ae75dd397360f6c01bee0fb93aef893d",
+    "wof:geomhash":"82b48aa6534e4106632c1a36fa91a3f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404429275,
     "wof:label":"Belchford Civil Parish",
-    "wof:lastmodified":1566633118,
+    "wof:lastmodified":1695877513,
     "wof:name":"Belchford",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

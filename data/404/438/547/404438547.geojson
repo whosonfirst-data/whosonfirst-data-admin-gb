@@ -10,12 +10,18 @@
     "geom:latitude":53.590924,
     "geom:longitude":-2.753095,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.590453,
     "lbl:longitude":-2.748329,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Parbold"
@@ -69,12 +75,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005312"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872293
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a44329de37a3848abc6c55e95a3efe6f",
+    "wof:geomhash":"cf61ae4f7530b2e98e6b7ef915b763b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404438547,
     "wof:label":"Parbold Civil Parish",
-    "wof:lastmodified":1566632629,
+    "wof:lastmodified":1695877291,
     "wof:name":"Parbold",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001322,
-    "geom:area_square_m":9926995.637876,
+    "geom:area_square_m":9926995.637877,
     "geom:bbox":"-1.79745512169,52.5878192159,-1.7504923282,52.6428687015",
     "geom:latitude":52.617945,
     "geom:longitude":-1.773448,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.62243,
     "lbl:longitude":-1.769889,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hints"
@@ -42,12 +48,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008930"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125915085
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cf3d748cfea03b975456c10be6040eb1",
+    "wof:geomhash":"12729e11fefedf91f5f6eec25972f444",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404445175,
     "wof:label":"Hints Civil Parish",
-    "wof:lastmodified":1566633358,
+    "wof:lastmodified":1695877621,
     "wof:name":"Hints",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

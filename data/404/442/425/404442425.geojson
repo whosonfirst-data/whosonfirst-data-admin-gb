@@ -10,12 +10,18 @@
     "geom:latitude":51.989801,
     "geom:longitude":0.74946,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.990695,
     "lbl:longitude":0.752694,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lamarsh"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003911"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276149993
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bd1b78eb60838961f3ba271d02f7a98e",
+    "wof:geomhash":"0c9558b5921f473220fecb5f865ed482",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404442425,
     "wof:label":"Lamarsh Civil Parish",
-    "wof:lastmodified":1566633212,
+    "wof:lastmodified":1695877556,
     "wof:name":"Lamarsh",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

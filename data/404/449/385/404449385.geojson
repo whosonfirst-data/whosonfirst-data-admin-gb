@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002799,
-    "geom:area_square_m":20852313.60019,
+    "geom:area_square_m":20852313.600191,
     "geom:bbox":"-4.51166861725,52.9275685719,-4.40246191753,52.9857128127",
     "geom:latitude":52.956074,
     "geom:longitude":-4.456663,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.961157,
     "lbl:longitude":-4.452954,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pistyll Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000096"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125839757
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c5b9484fcadba3b3e8a2c9ea4938e8b7",
+    "wof:geomhash":"54abb39ffa1eb407dd97162530ad907b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449385,
-    "wof:lastmodified":1566631394,
+    "wof:lastmodified":1695878336,
     "wof:name":"Pistyll Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

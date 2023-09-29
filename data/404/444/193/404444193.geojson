@@ -10,12 +10,18 @@
     "geom:latitude":53.283215,
     "geom:longitude":-0.83826,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.283553,
     "lbl:longitude":-0.835237,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stokeham"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007839"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276363649
     ],
     "wof:country":"GB",
-    "wof:geomhash":"94af080b5f40b3de4418410bdbfc3ae6",
+    "wof:geomhash":"a2ddb14e3f83ee980227a6d7eb4fdf9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404444193,
     "wof:label":"Stokeham Civil Parish",
-    "wof:lastmodified":1566632873,
+    "wof:lastmodified":1695877405,
     "wof:name":"Stokeham",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

@@ -414,13 +414,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25522,
         "fips:code":"UKM9",
+        "gbr-ons:gss_code":"1241",
         "gn:id":2637141,
         "gp:id":12602189,
         "hasc:id":"GB.ST",
+        "iso:code":"GB-STS",
         "iso:id":"GB-STS",
         "unlc:id":"GB-STS",
         "wd:id":"Q23105"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698593
     ],
@@ -445,7 +451,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495388,
+    "wof:lastmodified":1695886406,
     "wof:name":"Staffordshire",
     "wof:parent_id":1360698593,
     "wof:placetype":"county",

@@ -10,12 +10,18 @@
     "geom:latitude":51.733232,
     "geom:longitude":-2.392505,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.730275,
     "lbl:longitude":-2.393226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Slimbridge"
@@ -69,12 +75,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004376"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125894741
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d69ed5b66c5a59a3f2a8887949215fd",
+    "wof:geomhash":"650ec66fc6c51dd4462e60b98563a51a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404438905,
     "wof:label":"Slimbridge Civil Parish",
-    "wof:lastmodified":1566632598,
+    "wof:lastmodified":1695877276,
     "wof:name":"Slimbridge",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

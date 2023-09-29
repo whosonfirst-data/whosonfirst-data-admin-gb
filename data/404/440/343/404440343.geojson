@@ -10,12 +10,18 @@
     "geom:latitude":51.706703,
     "geom:longitude":-2.559885,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.689619,
     "lbl:longitude":-2.551118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aylburton"
@@ -63,12 +69,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004296"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209343685
     ],
     "wof:country":"GB",
-    "wof:geomhash":"43c931c8e6f6511ea4347c7cdd4146c8",
+    "wof:geomhash":"934de6fcf2eab160c7849a579d62845f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404440343,
     "wof:label":"Aylburton Civil Parish",
-    "wof:lastmodified":1566631235,
+    "wof:lastmodified":1695878265,
     "wof:name":"Aylburton",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

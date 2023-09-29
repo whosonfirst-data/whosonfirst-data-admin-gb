@@ -10,12 +10,18 @@
     "geom:latitude":53.223225,
     "geom:longitude":-4.134466,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.226323,
     "lbl:longitude":-4.131752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bangor Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000046"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0edf19c8d66619b647c12d639191a729",
+    "wof:geomhash":"cc59efbb5e1dc2c484f8515948ad45c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435315,
-    "wof:lastmodified":1566634028,
+    "wof:lastmodified":1695877911,
     "wof:name":"Bangor Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

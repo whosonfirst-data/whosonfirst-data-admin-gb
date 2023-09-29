@@ -10,12 +10,18 @@
     "geom:latitude":51.999829,
     "geom:longitude":-4.985529,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.992074,
     "lbl:longitude":-4.983486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fishguard and Goodwick Community"
@@ -40,9 +46,12 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000427"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"9f696aeb82caa143fe130e80c127ad80",
+    "wof:geomhash":"9e91a0997da9898db9ca82dade8a116c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404454859,
-    "wof:lastmodified":1566632669,
+    "wof:lastmodified":1695877311,
     "wof:name":"Fishguard and Goodwick Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

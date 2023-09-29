@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000621,
-    "geom:area_square_m":4620433.237406,
+    "geom:area_square_m":4620433.237407,
     "geom:bbox":"-2.58347374699,53.0192271255,-2.54933232191,53.051832012",
     "geom:latitude":53.035051,
     "geom:longitude":-2.568013,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.035224,
     "lbl:longitude":-2.568273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Klank"
@@ -388,12 +394,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011008"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759757
     ],
     "wof:country":"GB",
-    "wof:geomhash":"18bcb37743a336844a630ade4e1383a0",
+    "wof:geomhash":"d455b4452de4e48976daf2c175ccc273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -406,7 +415,7 @@
     ],
     "wof:id":404453975,
     "wof:label":"Sound Civil Parish",
-    "wof:lastmodified":1566632860,
+    "wof:lastmodified":1695877400,
     "wof:name":"Sound",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

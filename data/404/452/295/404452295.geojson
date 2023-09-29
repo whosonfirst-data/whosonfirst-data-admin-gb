@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000332,
-    "geom:area_square_m":2460711.170081,
+    "geom:area_square_m":2460711.17008,
     "geom:bbox":"-3.05323590887,53.2001791999,-3.02326909026,53.2210301167",
     "geom:latitude":53.210055,
     "geom:longitude":-3.037956,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.209613,
     "lbl:longitude":-3.037729,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shotton Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000208"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125915881
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d1dbc788b73c1e75ab0e42e343fe9fcf",
+    "wof:geomhash":"83ce3e588404fec4ff0114a5cbc8a70b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452295,
-    "wof:lastmodified":1566632194,
+    "wof:lastmodified":1695877097,
     "wof:name":"Shotton Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

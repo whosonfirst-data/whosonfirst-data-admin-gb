@@ -10,12 +10,18 @@
     "geom:latitude":52.242375,
     "geom:longitude":-1.102001,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.244109,
     "lbl:longitude":-1.10401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dodford"
@@ -51,12 +57,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010511"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976813
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8b14b6c05e2855ec125305451e5cecb6",
+    "wof:geomhash":"dea4be9b5a4a262d21ec2f72d68c6b40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404441203,
     "wof:label":"Dodford Civil Parish",
-    "wof:lastmodified":1566631749,
+    "wof:lastmodified":1695876904,
     "wof:name":"Dodford",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.249311,
     "geom:longitude":-2.473602,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.247578,
     "lbl:longitude":-2.47452,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Holcombe"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008564"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259909169
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72bb50d8b159c041e14781cf7d7cb7a3",
+    "wof:geomhash":"fadf90a69e0b70c70063df71453bf67d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404455393,
     "wof:label":"Holcombe Civil Parish",
-    "wof:lastmodified":1566632296,
+    "wof:lastmodified":1695877139,
     "wof:name":"Holcombe",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

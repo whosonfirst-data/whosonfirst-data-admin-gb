@@ -10,12 +10,18 @@
     "geom:latitude":54.970623,
     "geom:longitude":-1.891743,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.971591,
     "lbl:longitude":-1.893347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ovington"
@@ -61,9 +67,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04010848",
         "gn:id":7291457,
         "qs_pg:id":380197
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125788579
     ],
@@ -71,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"802f12bd9e9f80be0416f544d41ba0ce",
+    "wof:geomhash":"19ae67ef6bb82eb36029617caca190ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +92,7 @@
     ],
     "wof:id":404447055,
     "wof:label":"Ovington Civil Parish",
-    "wof:lastmodified":1582311053,
+    "wof:lastmodified":1695877947,
     "wof:name":"Ovington",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

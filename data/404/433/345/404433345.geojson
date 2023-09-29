@@ -10,12 +10,18 @@
     "geom:latitude":51.3614,
     "geom:longitude":-2.567379,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.36202,
     "lbl:longitude":-2.566975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stanton Drew"
@@ -58,9 +64,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04000991",
         "gn:id":7296083,
         "qs_pg:id":1040794
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125993605
     ],
@@ -68,7 +76,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3c736928b011a7a772400d14e0b5c5fb",
+    "wof:geomhash":"b1f4411f572cf8959b2870b8118895fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +89,7 @@
     ],
     "wof:id":404433345,
     "wof:label":"Stanton Drew Civil Parish",
-    "wof:lastmodified":1582311148,
+    "wof:lastmodified":1695877986,
     "wof:name":"Stanton Drew",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.038313,
     "geom:longitude":-0.976547,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.036583,
     "lbl:longitude":-0.971896,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thurgarton"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007951"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126032265
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b395ee22efcbe2bc95d061824ff07892",
+    "wof:geomhash":"1fe7e1716f7fbde8b8783f7d4ad4ef6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404443847,
     "wof:label":"Thurgarton Civil Parish",
-    "wof:lastmodified":1566633058,
+    "wof:lastmodified":1695877487,
     "wof:name":"Thurgarton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

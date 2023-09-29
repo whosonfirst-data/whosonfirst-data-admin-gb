@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001247,
-    "geom:area_square_m":9398099.390283,
+    "geom:area_square_m":9398099.390282,
     "geom:bbox":"-0.389541894186,52.4208514303,-0.321406221239,52.4628759243",
     "geom:latitude":52.439342,
     "geom:longitude":-0.351689,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.443029,
     "lbl:longitude":-0.348854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u062a \u063a\u064a\u062f\u062f\u064a\u0646\u063a"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001703"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226072021
     ],
     "wof:country":"GB",
-    "wof:geomhash":"99723cde7b866a0083e65f752fde954d",
+    "wof:geomhash":"7f0fb75472a3c7e88baaf8d7f639b84d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404449583,
     "wof:label":"Great Gidding Civil Parish",
-    "wof:lastmodified":1566631455,
+    "wof:lastmodified":1695876794,
     "wof:name":"Great Gidding",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

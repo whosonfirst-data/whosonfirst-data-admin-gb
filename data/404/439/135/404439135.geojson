@@ -10,12 +10,18 @@
     "geom:latitude":51.76772,
     "geom:longitude":0.699984,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.769667,
     "lbl:longitude":0.700512,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Totham"
@@ -64,12 +70,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004049"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755219
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7da8a3450a33736f19857eabf29014a9",
+    "wof:geomhash":"80afb5807ed3d818fbd84be263d56843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404439135,
     "wof:label":"Great Totham Civil Parish",
-    "wof:lastmodified":1566631829,
+    "wof:lastmodified":1695876940,
     "wof:name":"Great Totham",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

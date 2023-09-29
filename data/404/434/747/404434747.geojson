@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001401,
-    "geom:area_square_m":10823563.78516,
+    "geom:area_square_m":10823563.785159,
     "geom:bbox":"0.789040574118,51.3222212685,0.851952005669,51.3629462258",
     "geom:latitude":51.342762,
     "geom:longitude":0.82103,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.335569,
     "lbl:longitude":0.818403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Teynham"
@@ -69,12 +75,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005073"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880833
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e520da5692ef10396562e02867fd0515",
+    "wof:geomhash":"40d08059e640dc51f106de5347a2959c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404434747,
     "wof:label":"Teynham Civil Parish",
-    "wof:lastmodified":1566633576,
+    "wof:lastmodified":1695877721,
     "wof:name":"Teynham",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

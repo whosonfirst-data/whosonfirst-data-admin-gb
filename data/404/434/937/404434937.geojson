@@ -10,12 +10,18 @@
     "geom:latitude":51.260847,
     "geom:longitude":-0.509066,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.263418,
     "lbl:longitude":-0.511643,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Clandon"
@@ -63,12 +69,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009560"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126022897
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dabd6cc62a2a45190d27cceed74520e8",
+    "wof:geomhash":"facbf9776a783913eb7d542a86653f60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404434937,
     "wof:label":"West Clandon Civil Parish",
-    "wof:lastmodified":1566633543,
+    "wof:lastmodified":1695877705,
     "wof:name":"West Clandon",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

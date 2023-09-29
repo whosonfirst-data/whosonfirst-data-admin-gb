@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002084,
-    "geom:area_square_m":15468018.962038,
+    "geom:area_square_m":15468018.962037,
     "geom:bbox":"-2.42067240763,53.084789073,-2.33182348595,53.1266752085",
     "geom:latitude":53.104482,
     "geom:longitude":-2.377139,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.11073,
     "lbl:longitude":-2.395642,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0633\u0644\u064a\u0646\u063a\u062a\u0648\u0646"
@@ -72,12 +78,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010946"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1193044993
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f832117dac9046af32fa7efc3c260702",
+    "wof:geomhash":"13db103b31e45fcbf31eebf28985d00e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404447025,
     "wof:label":"Haslington Civil Parish",
-    "wof:lastmodified":1566631259,
+    "wof:lastmodified":1695878275,
     "wof:name":"Haslington",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

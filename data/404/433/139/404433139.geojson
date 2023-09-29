@@ -10,12 +10,18 @@
     "geom:latitude":52.006744,
     "geom:longitude":-1.907168,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.008688,
     "lbl:longitude":-1.910504,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u044d\u043d\u0442\u0430\u043d"
@@ -105,12 +111,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004420"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125840839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"366aa9806137afd8f6c9c4d82778ad41",
+    "wof:geomhash":"3263510072f8f948717cfec4b08b40c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404433139,
     "wof:label":"Stanton Civil Parish",
-    "wof:lastmodified":1566633699,
+    "wof:lastmodified":1695877775,
     "wof:name":"Stanton",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

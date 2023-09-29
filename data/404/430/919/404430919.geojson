@@ -10,12 +10,18 @@
     "geom:latitude":51.62001,
     "geom:longitude":-3.755072,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.616055,
     "lbl:longitude":-3.758056,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cwmavon Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000610"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125893693
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8b06d2c2fe0eb234d579e3a1c0db952c",
+    "wof:geomhash":"2d3f75f79de5b3d714eb9871ffcb03a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430919,
-    "wof:lastmodified":1566632041,
+    "wof:lastmodified":1695877034,
     "wof:name":"Cwmavon Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

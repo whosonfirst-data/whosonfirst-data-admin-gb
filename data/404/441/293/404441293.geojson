@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000531,
-    "geom:area_square_m":3866558.691238,
+    "geom:area_square_m":3866558.691239,
     "geom:bbox":"-1.66079480843,53.8880335817,-1.6104137931,53.9073609276",
     "geom:latitude":53.898688,
     "geom:longitude":-1.637496,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.899183,
     "lbl:longitude":-1.644177,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0443\u043b"
@@ -99,12 +105,15 @@
         1360698749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000206"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059875
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3f9da3d8bb259a4201fbf88b494c6635",
+    "wof:geomhash":"3527a8d3ff5e97b7abbe7023d2dd56b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404441293,
     "wof:label":"Pool Civil Parish",
-    "wof:lastmodified":1566631751,
+    "wof:lastmodified":1695876905,
     "wof:name":"Pool",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

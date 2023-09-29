@@ -10,12 +10,18 @@
     "geom:latitude":52.245227,
     "geom:longitude":-0.192105,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.246379,
     "lbl:longitude":-0.190115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Toseland"
@@ -43,12 +49,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001744"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759009
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c69960980ddc38bfa31fcfe30dff5407",
+    "wof:geomhash":"202c870a1f68b520724b989a6a7fa2b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404453281,
     "wof:label":"Toseland Civil Parish",
-    "wof:lastmodified":1566632776,
+    "wof:lastmodified":1695877364,
     "wof:name":"Toseland",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

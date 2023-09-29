@@ -10,12 +10,18 @@
     "geom:latitude":52.707597,
     "geom:longitude":-0.969267,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.709277,
     "lbl:longitude":-0.970118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gaddesby"
@@ -63,12 +69,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005526"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125974379
     ],
     "wof:country":"GB",
-    "wof:geomhash":"03dcd240def45d5702881cd103eb600c",
+    "wof:geomhash":"59f7400fd65c8d584528335d9a7e38ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404436199,
     "wof:label":"Gaddesby Civil Parish",
-    "wof:lastmodified":1566632385,
+    "wof:lastmodified":1695877181,
     "wof:name":"Gaddesby",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

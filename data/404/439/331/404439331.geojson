@@ -10,12 +10,18 @@
     "geom:latitude":53.914539,
     "geom:longitude":-2.136003,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.914994,
     "lbl:longitude":-2.137914,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Earby"
@@ -75,12 +81,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005229"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873257
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c1c28fb66bff792cf549e686c46c2352",
+    "wof:geomhash":"3f92fa57414ca0b1edadd3fd2c32e4ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404439331,
     "wof:label":"Earby Civil Parish",
-    "wof:lastmodified":1566631832,
+    "wof:lastmodified":1695876941,
     "wof:name":"Earby",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

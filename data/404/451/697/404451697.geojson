@@ -10,12 +10,18 @@
     "geom:latitude":52.491042,
     "geom:longitude":-1.75212,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.491428,
     "lbl:longitude":-1.75352,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kingshurst"
@@ -51,12 +57,15 @@
         1360699057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000154"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803039
     ],
     "wof:country":"GB",
-    "wof:geomhash":"019f459e7e45d43eedfcd9d4813842fa",
+    "wof:geomhash":"ab8c2d906dad98d248741907d4090502",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404451697,
     "wof:label":"Kingshurst Civil Parish",
-    "wof:lastmodified":1566633510,
+    "wof:lastmodified":1695877687,
     "wof:name":"Kingshurst",
     "wof:parent_id":1360699057,
     "wof:placetype":"localadmin",

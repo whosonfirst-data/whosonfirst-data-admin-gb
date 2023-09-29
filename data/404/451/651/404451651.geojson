@@ -10,12 +10,18 @@
     "geom:latitude":51.768621,
     "geom:longitude":-1.834141,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.768108,
     "lbl:longitude":-1.834144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0628\u0648\u0631\u064a"
@@ -96,12 +102,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004194"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d4997174aab756865c49b4710d787bb7",
+    "wof:geomhash":"51bf426332f2fe83bf4b462ca02ec5df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404451651,
     "wof:label":"Bibury Civil Parish",
-    "wof:lastmodified":1566633452,
+    "wof:lastmodified":1695877660,
     "wof:name":"Bibury",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

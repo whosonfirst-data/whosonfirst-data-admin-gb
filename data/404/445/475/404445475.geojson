@@ -10,12 +10,18 @@
     "geom:latitude":53.169681,
     "geom:longitude":-0.538907,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.172338,
     "lbl:longitude":-0.538904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Waddington"
@@ -73,12 +79,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005843"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759405
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9dc93c3ea2ae52b2177ce185564cd691",
+    "wof:geomhash":"b5f825cb8d086daa50d804450d03ee17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +100,7 @@
     ],
     "wof:id":404445475,
     "wof:label":"Waddington Civil Parish",
-    "wof:lastmodified":1566633383,
+    "wof:lastmodified":1695877631,
     "wof:name":"Waddington",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

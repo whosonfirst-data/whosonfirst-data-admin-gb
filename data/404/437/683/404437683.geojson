@@ -10,12 +10,18 @@
     "geom:latitude":52.21916,
     "geom:longitude":-1.880447,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.206515,
     "lbl:longitude":-1.864151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u0644\u06a9\u0633\u062a\u0631"
@@ -102,12 +108,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009702"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125954851
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7328ab1a81ec0fb95cdfde4d72323979",
+    "wof:geomhash":"2089088b38665cd1735e2b84667cc285",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404437683,
     "wof:label":"Alcester Civil Parish",
-    "wof:lastmodified":1566632131,
+    "wof:lastmodified":1695877071,
     "wof:name":"Alcester",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

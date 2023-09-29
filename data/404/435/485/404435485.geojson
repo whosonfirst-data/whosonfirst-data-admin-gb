@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000702,
-    "geom:area_square_m":5339578.893432,
+    "geom:area_square_m":5339578.893433,
     "geom:bbox":"-0.323016044069,52.0196986941,-0.276826093811,52.0573429142",
     "geom:latitude":52.037901,
     "geom:longitude":-0.301993,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.033883,
     "lbl:longitude":-0.306187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Clifton"
@@ -102,12 +108,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011938"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125858073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e45eb21fc5d89e5875b41fa3feb6da58",
+    "wof:geomhash":"5b37b16ffd9b7bc004bbea73237e43e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404435485,
     "wof:label":"Clifton Civil Parish",
-    "wof:lastmodified":1566633994,
+    "wof:lastmodified":1695877894,
     "wof:name":"Clifton",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

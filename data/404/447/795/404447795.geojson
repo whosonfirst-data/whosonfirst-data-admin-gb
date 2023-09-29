@@ -10,12 +10,18 @@
     "geom:latitude":50.696857,
     "geom:longitude":-3.573136,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.697117,
     "lbl:longitude":-3.576498,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ide"
@@ -42,12 +48,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003212"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1260108985
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7833079c7b723eb2c7957e607ea75205",
+    "wof:geomhash":"841e0cc8495eb5104561c6505a2e99a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404447795,
     "wof:label":"Ide Civil Parish",
-    "wof:lastmodified":1566631302,
+    "wof:lastmodified":1695878297,
     "wof:name":"Ide",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

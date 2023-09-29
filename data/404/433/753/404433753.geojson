@@ -10,12 +10,18 @@
     "geom:latitude":52.017163,
     "geom:longitude":-0.630598,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.016468,
     "lbl:longitude":-0.630594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0633\u0628\u0644\u064a \u063a\u0648\u064a\u0633"
@@ -72,12 +78,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011926"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854817
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d5123a32ec4a86766c4282e9af5cc6a",
+    "wof:geomhash":"b020d4d44deca68a1908c407db561172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404433753,
     "wof:label":"Aspley Guise Civil Parish",
-    "wof:lastmodified":1566633645,
+    "wof:lastmodified":1695877749,
     "wof:name":"Aspley Guise",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

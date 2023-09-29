@@ -10,12 +10,18 @@
     "geom:latitude":52.249615,
     "geom:longitude":-1.211225,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.249372,
     "lbl:longitude":-1.210795,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Staverton"
@@ -57,12 +63,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006692"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125795251
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a440e3e871e0788f836c6e6153af08b7",
+    "wof:geomhash":"1a8b815c003b1acfbb60777471c3c9f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404450503,
     "wof:label":"Staverton Civil Parish",
-    "wof:lastmodified":1566633754,
+    "wof:lastmodified":1695877798,
     "wof:name":"Staverton",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

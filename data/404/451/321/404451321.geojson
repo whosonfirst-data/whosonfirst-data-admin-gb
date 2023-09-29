@@ -10,12 +10,18 @@
     "geom:latitude":51.348076,
     "geom:longitude":-1.999154,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.348843,
     "lbl:longitude":-2.004874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0627\u06cc\u0632\u0632"
@@ -99,12 +105,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011695"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852733
     ],
     "wof:country":"GB",
-    "wof:geomhash":"994f5aa64db017b1dc09b7ce2f58a3a1",
+    "wof:geomhash":"ed182f2bc959ff1099d2234b14d41351",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404451321,
     "wof:label":"Devizes Civil Parish",
-    "wof:lastmodified":1566633529,
+    "wof:lastmodified":1695877697,
     "wof:name":"Devizes",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

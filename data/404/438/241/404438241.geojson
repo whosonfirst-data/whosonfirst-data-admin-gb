@@ -10,12 +10,18 @@
     "geom:latitude":54.591627,
     "geom:longitude":-1.48048,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.590213,
     "lbl:longitude":-1.480479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Stainton"
@@ -54,12 +60,15 @@
         1360698889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000295"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125910509
     ],
     "wof:country":"GB",
-    "wof:geomhash":"925721e0333b5798d49aabdd48054c12",
+    "wof:geomhash":"cc68ae7ca4d5bc60198a2068c531a804",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404438241,
     "wof:label":"Great Stainton Civil Parish",
-    "wof:lastmodified":1566632603,
+    "wof:lastmodified":1695877279,
     "wof:name":"Great Stainton",
     "wof:parent_id":1360698889,
     "wof:placetype":"localadmin",

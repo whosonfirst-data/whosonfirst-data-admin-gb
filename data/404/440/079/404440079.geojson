@@ -10,12 +10,18 @@
     "geom:latitude":51.84442,
     "geom:longitude":-1.189631,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.843571,
     "lbl:longitude":-1.191244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Charlton-On-Otmoor"
@@ -42,12 +48,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008033"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125893569
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d0cadd0dd706a8ebe302db39462bac38",
+    "wof:geomhash":"53de3cbb47f20e1d9f840a6ae870a878",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404440079,
     "wof:label":"Charlton-On-Otmoor Civil Parish",
-    "wof:lastmodified":1566631141,
+    "wof:lastmodified":1695878222,
     "wof:name":"Charlton-On-Otmoor",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.063731,
     "geom:longitude":-1.468793,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.066586,
     "lbl:longitude":-1.46518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Copgrove"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007327"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977101
     ],
     "wof:country":"GB",
-    "wof:geomhash":"75723e7e1fc1143be84551295bdd6bd8",
+    "wof:geomhash":"2575f946c270d4e421b2893b8442908a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404441449,
     "wof:label":"Copgrove Civil Parish",
-    "wof:lastmodified":1566631731,
+    "wof:lastmodified":1695876897,
     "wof:name":"Copgrove",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.484017,
     "geom:longitude":-0.872641,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.484583,
     "lbl:longitude":-0.872303,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dingley"
@@ -51,12 +57,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006772"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125880349
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fe278d3cdae89145ee0723b8c9a2d041",
+    "wof:geomhash":"63aa4838b63d794e2564847cb6246c03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404429885,
     "wof:label":"Dingley Civil Parish",
-    "wof:lastmodified":1566633162,
+    "wof:lastmodified":1695877532,
     "wof:name":"Dingley",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

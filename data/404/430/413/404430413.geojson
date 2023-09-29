@@ -10,12 +10,18 @@
     "geom:latitude":51.459031,
     "geom:longitude":0.534909,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.459786,
     "lbl:longitude":0.535242,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "K\u00f8ling"
@@ -81,12 +87,15 @@
         1360699105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001131"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903503
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2e378a9806330557a0bdc0f33cfee54d",
+    "wof:geomhash":"936e9db4b9a4f72320cf6e84040911ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +108,7 @@
     ],
     "wof:id":404430413,
     "wof:label":"Cooling Civil Parish",
-    "wof:lastmodified":1566631952,
+    "wof:lastmodified":1695876997,
     "wof:name":"Cooling",
     "wof:parent_id":1360699105,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001408,
-    "geom:area_square_m":10074444.409123,
+    "geom:area_square_m":10074444.409122,
     "geom:bbox":"-2.59283880268,54.6131285017,-2.5255226335,54.6542197272",
     "geom:latitude":54.632033,
     "geom:longitude":-2.556149,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.628083,
     "lbl:longitude":-2.548251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Kirkby Thore"
@@ -75,12 +81,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002545"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030323
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d996e492816638e05da4269d8e1a533a",
+    "wof:geomhash":"d6dd48dff8ff92a63f330a764f3d1129",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404441403,
     "wof:label":"Kirkby Thore Civil Parish",
-    "wof:lastmodified":1566631814,
+    "wof:lastmodified":1695876933,
     "wof:name":"Kirkby Thore",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

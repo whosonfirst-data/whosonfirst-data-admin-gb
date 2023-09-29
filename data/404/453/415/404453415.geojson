@@ -10,12 +10,18 @@
     "geom:latitude":50.855297,
     "geom:longitude":-3.889472,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.853988,
     "lbl:longitude":-3.889471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brushford"
@@ -52,12 +58,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003008"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759145
     ],
     "wof:country":"GB",
-    "wof:geomhash":"29a428ef09324419752f7bd18b4a29c7",
+    "wof:geomhash":"d7f72ce853868b6f933b4bf70a175dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404453415,
     "wof:label":"Brushford Civil Parish",
-    "wof:lastmodified":1566632773,
+    "wof:lastmodified":1695877362,
     "wof:name":"Brushford",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.843812,
     "geom:longitude":-2.273742,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.845388,
     "lbl:longitude":-2.274184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winterborne Houghton"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003458"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125931229
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b4e9c75e7d9495adfc2e5af56a081135",
+    "wof:geomhash":"cdb24fa7ffcb62cd838744bf584810a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404434155,
     "wof:label":"Winterborne Houghton Civil Parish",
-    "wof:lastmodified":1566633593,
+    "wof:lastmodified":1695877728,
     "wof:name":"Winterborne Houghton",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

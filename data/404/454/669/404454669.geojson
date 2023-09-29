@@ -10,12 +10,18 @@
     "geom:latitude":52.149636,
     "geom:longitude":-1.503024,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.148517,
     "lbl:longitude":-1.503523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kineton"
@@ -63,12 +69,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009747"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853075
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a161adc6ccab10ca14820f696504975c",
+    "wof:geomhash":"faf6ee53e078b94e2f910ce17f7ac964",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454669,
     "wof:label":"Kineton Civil Parish",
-    "wof:lastmodified":1566632672,
+    "wof:lastmodified":1695877313,
     "wof:name":"Kineton",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

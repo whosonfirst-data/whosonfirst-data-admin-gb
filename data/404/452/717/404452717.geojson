@@ -10,12 +10,18 @@
     "geom:latitude":51.899062,
     "geom:longitude":0.205642,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.90612,
     "lbl:longitude":0.202504,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stansted Mountfitchet"
@@ -69,12 +75,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012219"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225973629
     ],
     "wof:country":"GB",
-    "wof:geomhash":"619a8fb2bbe815b476cf9c3e00f02b36",
+    "wof:geomhash":"aeffa9191156e231b1e7aab945a49010",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404452717,
     "wof:label":"Stansted Mountfitchet Civil Parish",
-    "wof:lastmodified":1566632261,
+    "wof:lastmodified":1695877126,
     "wof:name":"Stansted Mountfitchet",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

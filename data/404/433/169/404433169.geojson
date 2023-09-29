@@ -10,12 +10,18 @@
     "geom:latitude":52.265197,
     "geom:longitude":-0.140849,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.263943,
     "lbl:longitude":-0.137894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Papworth St. Agnes"
@@ -42,12 +48,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001834"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125785749
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5e199dc576dfa5b03c07cf6d4b2321f5",
+    "wof:geomhash":"0b7eb309091c8e976b2f88487a684765",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404433169,
     "wof:label":"Papworth St. Agnes Civil Parish",
-    "wof:lastmodified":1566633649,
+    "wof:lastmodified":1695877751,
     "wof:name":"Papworth St. Agnes",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.942369,
     "geom:longitude":-0.616931,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.938647,
     "lbl:longitude":-0.617217,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barlavington"
@@ -52,12 +58,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009881"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753627
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3344e58f3f797e6dc28e0b6b61cf3cad",
+    "wof:geomhash":"a47644d533ce8bbea484ffbe45ac3841",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404446341,
     "wof:label":"Barlavington Civil Parish",
-    "wof:lastmodified":1566631639,
+    "wof:lastmodified":1695876863,
     "wof:name":"Barlavington",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

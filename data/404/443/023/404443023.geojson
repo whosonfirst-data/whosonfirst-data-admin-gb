@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005813,
-    "geom:area_square_m":43489669.086713,
+    "geom:area_square_m":43489669.086714,
     "geom:bbox":"-4.04143730546,52.7378840651,-3.86035839627,52.803590159",
     "geom:latitude":52.771495,
     "geom:longitude":-3.95338,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.775513,
     "lbl:longitude":-3.962258,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanelltyd Community"
@@ -40,12 +46,15 @@
         1360698959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000075"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125904333
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b741fb1d957354d261d28c0a9a62f09a",
+    "wof:geomhash":"8724f22097c264c70a3cf92abd1660e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443023,
-    "wof:lastmodified":1566632999,
+    "wof:lastmodified":1695877458,
     "wof:name":"Llanelltyd Community",
     "wof:parent_id":1360698959,
     "wof:placetype":"localadmin",

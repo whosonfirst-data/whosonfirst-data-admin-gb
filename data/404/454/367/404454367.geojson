@@ -10,12 +10,18 @@
     "geom:latitude":52.461164,
     "geom:longitude":-2.42623,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.461279,
     "lbl:longitude":-2.425869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Billingsley"
@@ -72,12 +78,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011222"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276587785
     ],
     "wof:country":"GB",
-    "wof:geomhash":"23c7b0c6ae8bf09ac0d5dbcf6b8d746f",
+    "wof:geomhash":"22c08566071738682fb625030ae3b709",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404454367,
     "wof:label":"Billingsley Civil Parish",
-    "wof:lastmodified":1566632703,
+    "wof:lastmodified":1695877328,
     "wof:name":"Billingsley",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

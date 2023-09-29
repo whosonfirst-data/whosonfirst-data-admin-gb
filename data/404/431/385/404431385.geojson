@@ -10,12 +10,18 @@
     "geom:latitude":52.775058,
     "geom:longitude":-1.400772,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.774901,
     "lbl:longitude":-1.400385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0631\u062b\u064a\u0646\u063a\u062a\u0648\u0646"
@@ -87,12 +93,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005568"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125930931
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8c4bb97923aa3f2f7e289746cd816dfc",
+    "wof:geomhash":"5672512cfd1e7a255a95b6b29583001a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404431385,
     "wof:label":"Worthington Civil Parish",
-    "wof:lastmodified":1566632476,
+    "wof:lastmodified":1695877221,
     "wof:name":"Worthington",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

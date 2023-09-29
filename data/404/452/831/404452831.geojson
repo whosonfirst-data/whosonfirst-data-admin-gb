@@ -10,12 +10,18 @@
     "geom:latitude":52.005583,
     "geom:longitude":-1.641871,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.005716,
     "lbl:longitude":-1.635711,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Great Wolford"
@@ -40,12 +46,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009737"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758569
     ],
     "wof:country":"GB",
-    "wof:geomhash":"13127bcbef0f5d850b789779fbd85003",
+    "wof:geomhash":"08c08eb650ec583d5f356e64796bff88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404452831,
     "wof:label":"Great Wolford Civil Parish",
-    "wof:lastmodified":1566632244,
+    "wof:lastmodified":1695877118,
     "wof:name":"Great Wolford",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

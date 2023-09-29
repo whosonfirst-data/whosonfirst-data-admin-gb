@@ -10,12 +10,18 @@
     "geom:latitude":51.296623,
     "geom:longitude":0.637543,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.293346,
     "lbl:longitude":0.634307,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hucking"
@@ -60,12 +66,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004959"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126052903
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c0a43b394659f5dc904e48c0932fcd49",
+    "wof:geomhash":"fe1d9db7da324b3363373b2db3e892ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404446231,
     "wof:label":"Hucking Civil Parish",
-    "wof:lastmodified":1566631682,
+    "wof:lastmodified":1695876879,
     "wof:name":"Hucking",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

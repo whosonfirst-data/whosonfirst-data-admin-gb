@@ -10,12 +10,18 @@
     "geom:latitude":54.433614,
     "geom:longitude":-3.51338,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.428317,
     "lbl:longitude":-3.515048,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beckermet"
@@ -60,12 +66,15 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012142"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126036139
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2a8c581d01b9ff698b649661596cfef0",
+    "wof:geomhash":"31b6ac2ffd36fd9662627b8e73e720c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404451739,
     "wof:label":"Beckermet Civil Parish",
-    "wof:lastmodified":1566633422,
+    "wof:lastmodified":1695877649,
     "wof:name":"Beckermet",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

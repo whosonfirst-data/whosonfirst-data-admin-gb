@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001571,
-    "geom:area_square_m":11561625.321062,
+    "geom:area_square_m":11561625.321061,
     "geom:bbox":"-1.17188517465,53.4526484924,-1.08775669126,53.4898675057",
     "geom:latitude":53.47021,
     "geom:longitude":-1.141079,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.468485,
     "lbl:longitude":-1.141707,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wadworth"
@@ -57,12 +63,15 @@
         1360698973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000098"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225873997
     ],
     "wof:country":"GB",
-    "wof:geomhash":"12f2a3ea0d0ec4ba1e1551a158d86301",
+    "wof:geomhash":"793278c93a89d296ecd4b491588ab117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440837,
     "wof:label":"Wadworth Civil Parish",
-    "wof:lastmodified":1566631213,
+    "wof:lastmodified":1695878256,
     "wof:name":"Wadworth",
     "wof:parent_id":1360698973,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.055477,
     "geom:longitude":-0.091755,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.058948,
     "lbl:longitude":-0.091754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ardingly"
@@ -71,9 +77,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04009980",
         "gp:id":20078327,
         "qs_pg:id":1109682
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755511
     ],
@@ -81,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b21892a35988fbaf59a3ae45a9e2c33",
+    "wof:geomhash":"a0eed720d6625341625120fbc1e29ce1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +102,7 @@
     ],
     "wof:id":404439551,
     "wof:label":"Ardingly Civil Parish",
-    "wof:lastmodified":1582311076,
+    "wof:lastmodified":1695877958,
     "wof:name":"Ardingly",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

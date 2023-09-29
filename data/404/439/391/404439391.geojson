@@ -10,12 +10,18 @@
     "geom:latitude":53.451408,
     "geom:longitude":-0.586491,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.450882,
     "lbl:longitude":-0.583099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grayingham"
@@ -54,12 +60,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005995"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125891103
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fe6b2db3ef908a51220c3ddd43d786f3",
+    "wof:geomhash":"2dc10aff2b4c3caa46b8efc9ded0e3fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404439391,
     "wof:label":"Grayingham Civil Parish",
-    "wof:lastmodified":1566631833,
+    "wof:lastmodified":1695876941,
     "wof:name":"Grayingham",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.440821,
     "geom:longitude":-1.199536,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.440868,
     "lbl:longitude":-1.199177,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Busby"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007184"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754981
     ],
     "wof:country":"GB",
-    "wof:geomhash":"582b001ed792242a348379b8aa1f3f67",
+    "wof:geomhash":"1e55b539904675d0d1276bf79ec508c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404455325,
     "wof:label":"Great Busby Civil Parish",
-    "wof:lastmodified":1566632291,
+    "wof:lastmodified":1695877137,
     "wof:name":"Great Busby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

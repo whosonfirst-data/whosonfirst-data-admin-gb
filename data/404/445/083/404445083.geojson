@@ -10,12 +10,18 @@
     "geom:latitude":52.017092,
     "geom:longitude":-0.953146,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.014991,
     "lbl:longitude":-0.94955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0633\u0643\u062a"
@@ -61,12 +67,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001484"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759187
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2cbd15f287e2260bc9615e59183c792b",
+    "wof:geomhash":"57244b57380f983499e7d1c50c7315c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404445083,
     "wof:label":"Foscott Civil Parish",
-    "wof:lastmodified":1566633326,
+    "wof:lastmodified":1695877605,
     "wof:name":"Foscott",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

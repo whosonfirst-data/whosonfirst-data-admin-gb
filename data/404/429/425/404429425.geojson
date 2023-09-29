@@ -10,12 +10,18 @@
     "geom:latitude":52.444061,
     "geom:longitude":-3.182313,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.442217,
     "lbl:longitude":-3.182303,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bettws-Y-Crwyn"
@@ -42,12 +48,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011220"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276257961
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8352f24223e2a4f622783d097458016d",
+    "wof:geomhash":"1b475a39a1e5039fe5ece70e6efe1b28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404429425,
     "wof:label":"Bettws-Y-Crwyn Civil Parish",
-    "wof:lastmodified":1566633108,
+    "wof:lastmodified":1695877509,
     "wof:name":"Bettws-Y-Crwyn",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

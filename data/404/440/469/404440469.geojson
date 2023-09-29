@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000597,
-    "geom:area_square_m":4659062.407277,
+    "geom:area_square_m":4659062.407276,
     "geom:bbox":"-0.734820793904,50.8349996347,-0.686129148,50.8554783198",
     "geom:latitude":50.847289,
     "geom:longitude":-0.708452,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.849019,
     "lbl:longitude":-0.708449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tangmere"
@@ -60,12 +66,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009933"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125900893
     ],
     "wof:country":"GB",
-    "wof:geomhash":"970fda8f8ad44a80ebbb1d30fbaed18b",
+    "wof:geomhash":"def0968d94df8ca616b52db5b82600e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404440469,
     "wof:label":"Tangmere Civil Parish",
-    "wof:lastmodified":1566631208,
+    "wof:lastmodified":1695878253,
     "wof:name":"Tangmere",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.397271,
     "geom:longitude":-1.462891,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.395828,
     "lbl:longitude":-1.452768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hutton Bonville"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007197"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756517
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d22e385c03b8476b109c92d34265806",
+    "wof:geomhash":"c870a662481fe3b84441a006ca29372c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404448229,
     "wof:label":"Hutton Bonville Civil Parish",
-    "wof:lastmodified":1566631474,
+    "wof:lastmodified":1695876803,
     "wof:name":"Hutton Bonville",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.975557,
     "geom:longitude":-2.67799,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.978471,
     "lbl:longitude":-2.675878,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chilthorne Domer"
@@ -57,12 +63,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008680"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327460745
     ],
     "wof:country":"GB",
-    "wof:geomhash":"14a7a581fecf00167b47917b003e86dd",
+    "wof:geomhash":"31881ca5b727e4fdfd126eed43d3c99f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440593,
     "wof:label":"Chilthorne Domer Civil Parish",
-    "wof:lastmodified":1566631124,
+    "wof:lastmodified":1695878214,
     "wof:name":"Chilthorne Domer",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

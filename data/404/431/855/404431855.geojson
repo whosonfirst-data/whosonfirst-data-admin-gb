@@ -10,12 +10,18 @@
     "geom:latitude":51.253004,
     "geom:longitude":0.889556,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.253447,
     "lbl:longitude":0.886025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Badlesmere"
@@ -45,12 +51,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005042"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908457
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d79f469d1a9e65c78880c8083a1e0326",
+    "wof:geomhash":"5716d31810a829871faf55b2429a85ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404431855,
     "wof:label":"Badlesmere Civil Parish",
-    "wof:lastmodified":1566632519,
+    "wof:lastmodified":1695877240,
     "wof:name":"Badlesmere",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

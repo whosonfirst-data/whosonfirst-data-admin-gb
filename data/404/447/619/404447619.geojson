@@ -10,12 +10,18 @@
     "geom:latitude":53.920705,
     "geom:longitude":-0.954447,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.920203,
     "lbl:longitude":-0.955078,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Elvington"
@@ -45,12 +51,15 @@
         1360698977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000601"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125955545
     ],
     "wof:country":"GB",
-    "wof:geomhash":"47b88db91a4069324ebffaf77ad6489a",
+    "wof:geomhash":"f5eb68cd407c5d5f084e0ad5a7f14217",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404447619,
     "wof:label":"Elvington Civil Parish",
-    "wof:lastmodified":1566631257,
+    "wof:lastmodified":1695878275,
     "wof:name":"Elvington",
     "wof:parent_id":1360698977,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.928537,
     "geom:longitude":-1.378716,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.926699,
     "lbl:longitude":-1.381134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Wedrebi"
@@ -123,12 +129,15 @@
         1360698749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000213"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873237
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7c08caba40217771c8fdd49cb3aa5043",
+    "wof:geomhash":"a6b080486e20ebf494ccc1e8101c6627",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +150,7 @@
     ],
     "wof:id":404444579,
     "wof:label":"Wetherby Civil Parish",
-    "wof:lastmodified":1566632979,
+    "wof:lastmodified":1695877447,
     "wof:name":"Wetherby",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

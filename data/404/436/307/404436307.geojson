@@ -10,12 +10,18 @@
     "geom:latitude":52.072824,
     "geom:longitude":0.639473,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.074745,
     "lbl:longitude":0.642287,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pentlow"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003920"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125876637
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4e944b5e842e52e0e62b2f14a9837e34",
+    "wof:geomhash":"1dc344d51fbc9986d6f655a224234173",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404436307,
     "wof:label":"Pentlow Civil Parish",
-    "wof:lastmodified":1566632316,
+    "wof:lastmodified":1695877149,
     "wof:name":"Pentlow",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

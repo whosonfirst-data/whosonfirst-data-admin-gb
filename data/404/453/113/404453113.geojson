@@ -10,12 +10,18 @@
     "geom:latitude":51.743317,
     "geom:longitude":-1.96021,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.745175,
     "lbl:longitude":-1.954792,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baunton"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004192"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276363639
     ],
     "wof:country":"GB",
-    "wof:geomhash":"73e7414df38c7dbee1c0db1184234317",
+    "wof:geomhash":"659fd3debad8c927eb0d31858fdb8360",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453113,
     "wof:label":"Baunton Civil Parish",
-    "wof:lastmodified":1566632857,
+    "wof:lastmodified":1695877398,
     "wof:name":"Baunton",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

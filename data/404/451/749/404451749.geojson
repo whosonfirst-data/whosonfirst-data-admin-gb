@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00072,
-    "geom:area_square_m":5352896.256594,
+    "geom:area_square_m":5352896.256595,
     "geom:bbox":"-3.07757301942,53.0364502608,-3.02014760747,53.0617849532",
     "geom:latitude":53.0491,
     "geom:longitude":-3.05231,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.049562,
     "lbl:longitude":-3.055132,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coedpoeth Community"
@@ -40,12 +46,15 @@
         1360698743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000894"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871911
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c324a9660407517b9b0076eae8eb3660",
+    "wof:geomhash":"0a9c894ac9ab4eb1e8c5167775764f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404451749,
-    "wof:lastmodified":1566633471,
+    "wof:lastmodified":1695877668,
     "wof:name":"Coedpoeth Community",
     "wof:parent_id":1360698743,
     "wof:placetype":"localadmin",

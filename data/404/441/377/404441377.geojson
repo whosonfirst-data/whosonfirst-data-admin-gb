@@ -10,12 +10,18 @@
     "geom:latitude":52.009219,
     "geom:longitude":-1.013703,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.008824,
     "lbl:longitude":-1.013429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Radclive-Cum-Chackmore"
@@ -40,12 +46,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001526"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756951
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e48d7dd50a5bcdc60a1eaa0975dd51b0",
+    "wof:geomhash":"9f000b004caaf7a78a8d3b71945cbed9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404441377,
     "wof:label":"Radclive-Cum-Chackmore Civil Parish",
-    "wof:lastmodified":1566631758,
+    "wof:lastmodified":1695876908,
     "wof:name":"Radclive-Cum-Chackmore",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002711,
-    "geom:area_square_m":20999201.879364,
+    "geom:area_square_m":20999201.879362,
     "geom:bbox":"-3.68597161079,51.1682487888,-3.58563104101,51.2253211309",
     "geom:latitude":51.204544,
     "geom:longitude":-3.637303,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.20618,
     "lbl:longitude":-3.644856,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Porlock"
@@ -66,12 +72,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008852"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125771445
     ],
     "wof:country":"GB",
-    "wof:geomhash":"08f9ae56bcb60ceb05ad6f13b647e06f",
+    "wof:geomhash":"d4e0bf54b6ab9718d731f2a519aa62ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404447657,
     "wof:label":"Porlock Civil Parish",
-    "wof:lastmodified":1566631277,
+    "wof:lastmodified":1695878284,
     "wof:name":"Porlock",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

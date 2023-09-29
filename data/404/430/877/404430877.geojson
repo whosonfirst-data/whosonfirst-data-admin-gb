@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000399,
-    "geom:area_square_m":2958492.854028,
+    "geom:area_square_m":2958492.854027,
     "geom:bbox":"-1.6596179624,53.1463982461,-1.6166491146,53.1630238763",
     "geom:latitude":53.154751,
     "geom:longitude":-1.638866,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.155571,
     "lbl:longitude":-1.642443,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Birchover"
@@ -63,12 +69,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002725"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125984809
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f66e0f5fd0fa1a608394f9be6049b3fc",
+    "wof:geomhash":"1dacfd1afe0e4d752c2a88152c6c0e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404430877,
     "wof:label":"Birchover Civil Parish",
-    "wof:lastmodified":1566632010,
+    "wof:lastmodified":1695877019,
     "wof:name":"Birchover",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001424,
-    "geom:area_square_m":10844629.779414,
+    "geom:area_square_m":10844629.779415,
     "geom:bbox":"1.05400733104,51.973277968,1.11522424772,52.0181842618",
     "geom:latitude":51.998566,
     "geom:longitude":1.080454,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.001371,
     "lbl:longitude":1.077448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bentley"
@@ -189,12 +195,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009070"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125929917
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1a52bd30abfa1896c30f4d4be555a487",
+    "wof:geomhash":"37636fac0a5ac0b0865daff4ae24cefb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,7 +216,7 @@
     ],
     "wof:id":404441173,
     "wof:label":"Bentley Civil Parish",
-    "wof:lastmodified":1566631757,
+    "wof:lastmodified":1695876907,
     "wof:name":"Bentley",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.330118,
     "geom:longitude":-2.141816,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.328643,
     "lbl:longitude":-2.138794,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Hinton"
@@ -58,12 +64,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011724"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757099
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b926b665132bf2c952e204e7f6c57e36",
+    "wof:geomhash":"f975b1adb0954c024ac184a4001d97cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404432173,
     "wof:label":"Great Hinton Civil Parish",
-    "wof:lastmodified":1566633908,
+    "wof:lastmodified":1695877854,
     "wof:name":"Great Hinton",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
-    "geom:area_square_m":3350086.976494,
+    "geom:area_square_m":3350086.976493,
     "geom:bbox":"-1.70730594356,54.55312472,-1.67526580971,54.5861743608",
     "geom:latitude":54.567562,
     "geom:longitude":-1.686104,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.566946,
     "lbl:longitude":-1.684523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Summerhouse"
@@ -42,12 +48,15 @@
         1360698889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000310"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343496589
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d3a3acb7109899b5b798cdc133a36e28",
+    "wof:geomhash":"535235ae14d22bec419ceb923e044e67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404433483,
     "wof:label":"Summerhouse Civil Parish",
-    "wof:lastmodified":1566633656,
+    "wof:lastmodified":1695877755,
     "wof:name":"Summerhouse",
     "wof:parent_id":1360698889,
     "wof:placetype":"localadmin",

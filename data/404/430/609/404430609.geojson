@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
-    "geom:area_square_m":2598297.907637,
+    "geom:area_square_m":2598297.907636,
     "geom:bbox":"-0.210210206589,53.7306111329,-0.178310830715,53.7499734151",
     "geom:latitude":53.739701,
     "geom:longitude":-0.1953,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.73948,
     "lbl:longitude":-0.195543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u062f\u0648\u0646"
@@ -84,12 +90,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000409"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101874161
     ],
     "wof:country":"GB",
-    "wof:geomhash":"44fc003616158a304ce1302f7a7f9b9c",
+    "wof:geomhash":"d59fee94165cb86c140e41eb1052d4c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404430609,
     "wof:label":"Hedon Civil Parish",
-    "wof:lastmodified":1566632033,
+    "wof:lastmodified":1695877030,
     "wof:name":"Hedon",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.18395,
     "geom:longitude":-1.246843,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.18173,
     "lbl:longitude":-1.255369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pleasley"
@@ -63,12 +69,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002706"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881107
     ],
     "wof:country":"GB",
-    "wof:geomhash":"01cdc0d4c203f7b6ce32fb801d955c23",
+    "wof:geomhash":"b600d5684f06be013edd44d384c461f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404447977,
     "wof:label":"Pleasley Civil Parish",
-    "wof:lastmodified":1566631277,
+    "wof:lastmodified":1695878284,
     "wof:name":"Pleasley",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":1625989.637223,
+    "geom:area_square_m":1625989.637224,
     "geom:bbox":"-3.39416603893,51.5982459828,-3.37636654667,51.6270945969",
     "geom:latitude":51.610957,
     "geom:longitude":-3.383954,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.605403,
     "lbl:longitude":-3.383346,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trehafod Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000705"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869551
     ],
     "wof:country":"GB",
-    "wof:geomhash":"145530bc734f980adb3c463822a6bf6b",
+    "wof:geomhash":"8aecff8b67f17d915c60ad27d09781b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453837,
-    "wof:lastmodified":1566632837,
+    "wof:lastmodified":1695877390,
     "wof:name":"Trehafod Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

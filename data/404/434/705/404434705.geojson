@@ -10,12 +10,18 @@
     "geom:latitude":50.974668,
     "geom:longitude":-2.774408,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.970908,
     "lbl:longitude":-2.774953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Martock"
@@ -66,12 +72,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008729"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852493
     ],
     "wof:country":"GB",
-    "wof:geomhash":"69088a3aae2e8427e854dd9a81347f61",
+    "wof:geomhash":"97ef51fd5fea40840e406a9b246a63c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404434705,
     "wof:label":"Martock Civil Parish",
-    "wof:lastmodified":1566633585,
+    "wof:lastmodified":1695877725,
     "wof:name":"Martock",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.333945,
     "geom:longitude":-2.944162,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.33426,
     "lbl:longitude":-2.943502,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brampton Bryan"
@@ -57,12 +63,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000704"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125856333
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5e1327884f7134043dc52d9a5ef82f7b",
+    "wof:geomhash":"2424a513e3967d45dc824a61f65b9003",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454853,
     "wof:label":"Brampton Bryan Civil Parish",
-    "wof:lastmodified":1566632725,
+    "wof:lastmodified":1695877339,
     "wof:name":"Brampton Bryan",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

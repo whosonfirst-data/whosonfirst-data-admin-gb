@@ -10,12 +10,18 @@
     "geom:latitude":53.639663,
     "geom:longitude":-2.838069,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.638086,
     "lbl:longitude":-2.837364,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rufford"
@@ -54,12 +60,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005313"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125802833
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f5867379e7ed8fe91965078baa8abc1",
+    "wof:geomhash":"ee0be4ae79e0faaf870add473ddae573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404446159,
     "wof:label":"Rufford Civil Parish",
-    "wof:lastmodified":1566631601,
+    "wof:lastmodified":1695876848,
     "wof:name":"Rufford",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

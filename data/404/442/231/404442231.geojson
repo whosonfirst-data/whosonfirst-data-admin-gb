@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005114,
-    "geom:area_square_m":36389063.750788,
+    "geom:area_square_m":36389063.750786,
     "geom:bbox":"-1.7740296326,54.8404819985,-1.65347252241,54.9095730436",
     "geom:latitude":54.870996,
     "geom:longitude":-1.707778,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.872006,
     "lbl:longitude":-1.706615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u044d\u043d\u043b\u0456"
@@ -150,12 +156,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010699"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259512601
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3a21977b3ee8530999eaeae9f538877c",
+    "wof:geomhash":"c3e25a1f8f830567825c7cb422c02327",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +177,7 @@
     ],
     "wof:id":404442231,
     "wof:label":"Stanley Civil Parish",
-    "wof:lastmodified":1566633278,
+    "wof:lastmodified":1695877586,
     "wof:name":"Stanley",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

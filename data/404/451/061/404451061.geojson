@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000729,
-    "geom:area_square_m":5616264.849975,
+    "geom:area_square_m":5616264.849976,
     "geom:bbox":"-0.549323509074,51.4679305792,-0.490031817706,51.4953204239",
     "geom:latitude":51.484379,
     "geom:longitude":-0.516615,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.4821,
     "lbl:longitude":-0.514609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0646\u0628\u0631\u0648\u0643 \u0648\u064a\u062f \u0628\u064a\u0644"
@@ -64,12 +70,15 @@
         1360699061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001210"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756131
     ],
     "wof:country":"GB",
-    "wof:geomhash":"227ec7c1ce66f04921fecc6b74a76892",
+    "wof:geomhash":"06b9ee4633a817be161129a9793b8d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404451061,
     "wof:label":"Colnbrook with Poyle Civil Parish",
-    "wof:lastmodified":1566633512,
+    "wof:lastmodified":1695877688,
     "wof:name":"Colnbrook with Poyle",
     "wof:parent_id":1360699061,
     "wof:placetype":"localadmin",

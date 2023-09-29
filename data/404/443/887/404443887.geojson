@@ -10,12 +10,18 @@
     "geom:latitude":52.179364,
     "geom:longitude":1.037558,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.179626,
     "lbl:longitude":1.037862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Creeting St. Peter Or West Creeting"
@@ -40,12 +46,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009190"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758585
     ],
     "wof:country":"GB",
-    "wof:geomhash":"247f27bfea98617467cad19b9958d212",
+    "wof:geomhash":"9ffee857a1fb94f0bb4c48a49a2e4f41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404443887,
     "wof:label":"Creeting St. Peter Or West Creeting Civil Parish",
-    "wof:lastmodified":1566633003,
+    "wof:lastmodified":1695877460,
     "wof:name":"Creeting St. Peter Or West Creeting",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001545,
-    "geom:area_square_m":11716360.844044,
+    "geom:area_square_m":11716360.844043,
     "geom:bbox":"1.50564690798,52.1563214839,1.57321838529,52.2004838794",
     "geom:latitude":52.177689,
     "geom:longitude":1.541078,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.175666,
     "lbl:longitude":1.541598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Friston"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009408"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125783825
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9f857b934be40906b6be5e8fa85c7a30",
+    "wof:geomhash":"a66b3033bd8298e6c0c4557c033b01a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404433029,
     "wof:label":"Friston Civil Parish",
-    "wof:lastmodified":1566633709,
+    "wof:lastmodified":1695877778,
     "wof:name":"Friston",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

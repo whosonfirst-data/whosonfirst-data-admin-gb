@@ -10,12 +10,18 @@
     "geom:latitude":51.975521,
     "geom:longitude":-3.031155,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.97046,
     "lbl:longitude":-3.027787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Llanveynoe"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000814"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125994451
     ],
     "wof:country":"GB",
-    "wof:geomhash":"16fd6ddc417d42582a57d52f658a3c41",
+    "wof:geomhash":"1c75eacfb97196f95d71e932ec186ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404449619,
     "wof:label":"Llanveynoe Civil Parish",
-    "wof:lastmodified":1566631369,
+    "wof:lastmodified":1695878325,
     "wof:name":"Llanveynoe",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

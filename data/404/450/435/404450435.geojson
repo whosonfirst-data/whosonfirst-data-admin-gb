@@ -10,12 +10,18 @@
     "geom:latitude":52.767142,
     "geom:longitude":-1.879997,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.766428,
     "lbl:longitude":-1.88047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mavesyn Ridware"
@@ -54,12 +60,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008934"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125791221
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f665cf3241976874fa19e704b889b32d",
+    "wof:geomhash":"205429063c622050bb2801fea3226e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404450435,
     "wof:label":"Mavesyn Ridware Civil Parish",
-    "wof:lastmodified":1566633832,
+    "wof:lastmodified":1695877830,
     "wof:name":"Mavesyn Ridware",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

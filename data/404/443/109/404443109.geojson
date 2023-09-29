@@ -10,12 +10,18 @@
     "geom:latitude":52.246823,
     "geom:longitude":-1.326038,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.247636,
     "lbl:longitude":-1.326735,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Napton on the Hill"
@@ -61,12 +67,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009761"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126058669
     ],
     "wof:country":"GB",
-    "wof:geomhash":"37126fe3e7801d168c2b51d676f85141",
+    "wof:geomhash":"ac06ce64699832d40608b9302278a59f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404443109,
     "wof:label":"Napton on the Hill Civil Parish",
-    "wof:lastmodified":1566633041,
+    "wof:lastmodified":1695877478,
     "wof:name":"Napton on the Hill",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

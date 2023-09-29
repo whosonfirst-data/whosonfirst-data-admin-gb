@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007829,
-    "geom:area_square_m":56532902.743981,
+    "geom:area_square_m":56532902.743979,
     "geom:bbox":"-2.22269969186,54.2252897087,-2.0482346191,54.3126827134",
     "geom:latitude":54.269341,
     "geom:longitude":-2.135354,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.266697,
     "lbl:longitude":-2.128105,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bainbridge"
@@ -90,12 +96,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007450"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878603
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c4b9aad60f57fe094af68a5f63c73c6c",
+    "wof:geomhash":"0db4190fccca524d0744c415356f44d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404445179,
     "wof:label":"Bainbridge Civil Parish",
-    "wof:lastmodified":1566633409,
+    "wof:lastmodified":1695877644,
     "wof:name":"Bainbridge",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

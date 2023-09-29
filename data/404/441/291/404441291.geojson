@@ -10,12 +10,18 @@
     "geom:latitude":51.916083,
     "geom:longitude":0.843105,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.916589,
     "lbl:longitude":0.843556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Bergholt"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004008"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853521
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6ec8fd498bb8d8433f7e60b8ea8292fb",
+    "wof:geomhash":"39418912d7a4c46d87a73cb39e8250c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404441291,
     "wof:label":"West Bergholt Civil Parish",
-    "wof:lastmodified":1566631808,
+    "wof:lastmodified":1695876929,
     "wof:name":"West Bergholt",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

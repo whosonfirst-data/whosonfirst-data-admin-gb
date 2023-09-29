@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001229,
-    "geom:area_square_m":9438371.784505,
+    "geom:area_square_m":9438371.784506,
     "geom:bbox":"-0.950140281357,51.5938256925,-0.887911473541,51.6356050146",
     "geom:latitude":51.613769,
     "geom:longitude":-0.922723,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.614685,
     "lbl:longitude":-0.928384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0648\u064a\u0644"
@@ -69,12 +75,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001616"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125995227
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0abbd436656d74f8eea17f8401433b18",
+    "wof:geomhash":"759d319b072cad5bc30c16cbc6e96615",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404439845,
     "wof:label":"Turville Civil Parish",
-    "wof:lastmodified":1566631845,
+    "wof:lastmodified":1695876947,
     "wof:name":"Turville",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

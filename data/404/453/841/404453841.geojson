@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00677,
-    "geom:area_square_m":47829228.486472,
+    "geom:area_square_m":47829228.486471,
     "geom:bbox":"-2.11323380818,55.1106458319,-1.95353000192,55.1956939846",
     "geom:latitude":55.153782,
     "geom:longitude":-2.02521,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.160927,
     "lbl:longitude":-2.019784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirkwhelpington"
@@ -63,12 +69,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010817"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125788577
     ],
     "wof:country":"GB",
-    "wof:geomhash":"46af2794915c74b9e6a15dc40656052b",
+    "wof:geomhash":"eb86dce6c811387aea020bc647150c0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404453841,
     "wof:label":"Kirkwhelpington Civil Parish",
-    "wof:lastmodified":1566632819,
+    "wof:lastmodified":1695877382,
     "wof:name":"Kirkwhelpington",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

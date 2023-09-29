@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001199,
-    "geom:area_square_m":9137517.803323,
+    "geom:area_square_m":9137517.803321,
     "geom:bbox":"-3.39416829536,51.9526901648,-3.33083079143,51.9837578671",
     "geom:latitude":51.968389,
     "geom:longitude":-3.364035,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.968787,
     "lbl:longitude":-3.364034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llanddew Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000290"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711673
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7b33fdbe8d80c117b6039712bf29c603",
+    "wof:geomhash":"c12c52ba7afbfef95e6e5cbdf2423713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404439125,
-    "wof:lastmodified":1566631926,
+    "wof:lastmodified":1695876986,
     "wof:name":"Llanddew Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

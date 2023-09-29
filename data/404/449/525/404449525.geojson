@@ -10,12 +10,18 @@
     "geom:latitude":51.660859,
     "geom:longitude":-3.004553,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.660682,
     "lbl:longitude":-3.004338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Croesyceiliog Community"
@@ -40,12 +46,15 @@
         1360698919
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000761"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125858433
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fe77f437ac8cdefeeab9b93f42dc3c20",
+    "wof:geomhash":"eed9fe2cf0ebd64997f03a6ae78ec65f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449525,
-    "wof:lastmodified":1566631450,
+    "wof:lastmodified":1695876792,
     "wof:name":"Croesyceiliog Community",
     "wof:parent_id":1360698919,
     "wof:placetype":"localadmin",

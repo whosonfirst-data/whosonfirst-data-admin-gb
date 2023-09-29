@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001502,
-    "geom:area_square_m":11756389.698394,
+    "geom:area_square_m":11756389.698395,
     "geom:bbox":"-1.20765892976,50.7056073633,-1.13284089903,50.7425359608",
     "geom:latitude":50.724398,
     "geom:longitude":-1.165183,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.722598,
     "lbl:longitude":-1.15958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0627\u06cc\u062f"
@@ -99,12 +105,15 @@
         1360699089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001325"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852319
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c424220040b7caa34580ea1754bf2a1",
+    "wof:geomhash":"efb272c3ce1a9c27be8f1bccc51c5642",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404442139,
     "wof:label":"Ryde Civil Parish",
-    "wof:lastmodified":1566633260,
+    "wof:lastmodified":1695877577,
     "wof:name":"Ryde",
     "wof:parent_id":1360699089,
     "wof:placetype":"localadmin",

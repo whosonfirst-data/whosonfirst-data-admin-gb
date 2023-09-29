@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002325,
-    "geom:area_square_m":16956293.033375,
+    "geom:area_square_m":16956293.033377,
     "geom:bbox":"-2.14298991695,53.8388809917,-2.04507707655,53.891878846",
     "geom:latitude":53.865128,
     "geom:longitude":-2.096622,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.873201,
     "lbl:longitude":-2.10555,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laneshaw Bridge"
@@ -54,12 +60,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005231"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125766183
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1fbd05ef92ef16dccc0593d4e512edc1",
+    "wof:geomhash":"9da12e73d89aa99f9030c45b068da1e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404435543,
     "wof:label":"Laneshaw Bridge Civil Parish",
-    "wof:lastmodified":1566634027,
+    "wof:lastmodified":1695877910,
     "wof:name":"Laneshaw Bridge",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

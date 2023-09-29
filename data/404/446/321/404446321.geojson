@@ -10,12 +10,18 @@
     "geom:latitude":53.316702,
     "geom:longitude":-0.822789,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.316789,
     "lbl:longitude":-0.821901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Leverton"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007837"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293716517
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eb19d9b19ef0392d789e3717ff191079",
+    "wof:geomhash":"48c4df4322bc2f673a1ac54c2f0b9707",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404446321,
     "wof:label":"South Leverton Civil Parish",
-    "wof:lastmodified":1566631709,
+    "wof:lastmodified":1695876889,
     "wof:name":"South Leverton",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

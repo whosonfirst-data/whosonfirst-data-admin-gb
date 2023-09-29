@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002681,
-    "geom:area_square_m":20970733.466866,
+    "geom:area_square_m":20970733.466865,
     "geom:bbox":"-1.69256999274,50.7288123621,-1.61967814428,50.7918754896",
     "geom:latitude":50.756987,
     "geom:longitude":-1.656768,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.755994,
     "lbl:longitude":-1.65732,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u06cc\u0648 \u0645\u06cc\u0644\u062a\u0646"
@@ -84,12 +90,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004581"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125846185
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8527934a37558890c825adb10ea248ee",
+    "wof:geomhash":"6e873c0361386d553d7a7acdbb6bb38d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404441909,
     "wof:label":"New Milton Civil Parish",
-    "wof:lastmodified":1566631713,
+    "wof:lastmodified":1695876890,
     "wof:name":"New Milton",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

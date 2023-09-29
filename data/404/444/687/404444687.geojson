@@ -10,12 +10,18 @@
     "geom:latitude":52.903087,
     "geom:longitude":-2.49178,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.903554,
     "lbl:longitude":-2.494777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u0631\u06a9\u062a \u062f\u0631\u0627\u06cc\u062a\u0648\u0646"
@@ -93,12 +99,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011313"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226681525
     ],
     "wof:country":"GB",
-    "wof:geomhash":"34b323924682f8773c0fd21551c95576",
+    "wof:geomhash":"70ec2fb7771c2790b258d4769f21c4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404444687,
     "wof:label":"Market Drayton Civil Parish",
-    "wof:lastmodified":1566632893,
+    "wof:lastmodified":1695877411,
     "wof:name":"Market Drayton",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.87275,
     "geom:longitude":-0.403701,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.873263,
     "lbl:longitude":-0.395335,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Findon"
@@ -48,12 +54,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009863"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310034885
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1fe3a421c4d0d9b9d538b06a5fc6bd5e",
+    "wof:geomhash":"9236e563f596fe07a184adcef1c8d050",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404431301,
     "wof:label":"Findon Civil Parish",
-    "wof:lastmodified":1566632439,
+    "wof:lastmodified":1695877204,
     "wof:name":"Findon",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.632618,
     "geom:longitude":-1.276083,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.633701,
     "lbl:longitude":-1.272459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Newton Bewley"
@@ -52,12 +58,15 @@
         1360698981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000259"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758453
     ],
     "wof:country":"GB",
-    "wof:geomhash":"955134e24f64740f26fd251701ddf3b4",
+    "wof:geomhash":"7eadc95def1eb128dd3263f3432702c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404436317,
     "wof:label":"Newton Bewley Civil Parish",
-    "wof:lastmodified":1566632422,
+    "wof:lastmodified":1695877196,
     "wof:name":"Newton Bewley",
     "wof:parent_id":1360698981,
     "wof:placetype":"localadmin",

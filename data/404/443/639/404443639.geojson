@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0065,
-    "geom:area_square_m":49021702.149834,
+    "geom:area_square_m":49021702.149836,
     "geom:bbox":"0.423220894568,52.3856560769,0.635778822941,52.4535575173",
     "geom:latitude":52.419466,
     "geom:longitude":0.509473,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.424932,
     "lbl:longitude":0.507846,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lakenheath"
@@ -63,12 +69,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009152"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854843
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d4b786d4b42daabce43363f9132f0cd",
+    "wof:geomhash":"90b8b3178832849dcba1495017c507c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404443639,
     "wof:label":"Lakenheath Civil Parish",
-    "wof:lastmodified":1566633069,
+    "wof:lastmodified":1695877491,
     "wof:name":"Lakenheath",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.643245,
     "geom:longitude":1.44583,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.644661,
     "lbl:longitude":1.441032,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Blofield"
@@ -69,12 +75,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006205"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972215
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cf886d90bbf7034fb7b9f18f432c9571",
+    "wof:geomhash":"c3112c78fa745be49d6a233de41bb62e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404434419,
     "wof:label":"Blofield Civil Parish",
-    "wof:lastmodified":1566633597,
+    "wof:lastmodified":1695877730,
     "wof:name":"Blofield",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

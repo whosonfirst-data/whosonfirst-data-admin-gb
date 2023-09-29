@@ -10,12 +10,18 @@
     "geom:latitude":52.641286,
     "geom:longitude":-0.880607,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.644373,
     "lbl:longitude":-0.8812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tilton"
@@ -67,12 +73,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005480"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757739
     ],
     "wof:country":"GB",
-    "wof:geomhash":"603907e1dd4c45d497298887b287900c",
+    "wof:geomhash":"c5a2c18b02d90d1b95e7ba557cf80a09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +94,7 @@
     ],
     "wof:id":404442347,
     "wof:label":"Tilton Civil Parish",
-    "wof:lastmodified":1566633246,
+    "wof:lastmodified":1695877572,
     "wof:name":"Tilton",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

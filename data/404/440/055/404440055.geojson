@@ -10,12 +10,18 @@
     "geom:latitude":53.38116,
     "geom:longitude":-0.254267,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.382633,
     "lbl:longitude":-0.254265,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Willingham"
@@ -63,12 +69,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006028"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226072425
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fdd058dc11d3de21045e11dcac0244b0",
+    "wof:geomhash":"fdb67a6bad85cb1d6e4eaa860d1e1d73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404440055,
     "wof:label":"North Willingham Civil Parish",
-    "wof:lastmodified":1566631160,
+    "wof:lastmodified":1695878230,
     "wof:name":"North Willingham",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

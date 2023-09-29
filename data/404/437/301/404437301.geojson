@@ -10,12 +10,18 @@
     "geom:latitude":51.946322,
     "geom:longitude":-2.036357,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.947457,
     "lbl:longitude":-2.036356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Woodmancote"
@@ -57,12 +63,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004433"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125881095
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b1964b04a3829ba4f41d3493081301ae",
+    "wof:geomhash":"883dd493e690964dd7d2ecae68fbd925",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404437301,
     "wof:label":"Woodmancote Civil Parish",
-    "wof:lastmodified":1566632059,
+    "wof:lastmodified":1695877040,
     "wof:name":"Woodmancote",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

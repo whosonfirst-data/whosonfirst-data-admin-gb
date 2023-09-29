@@ -10,12 +10,18 @@
     "geom:latitude":51.770032,
     "geom:longitude":-1.568322,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.767602,
     "lbl:longitude":-1.565218,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brize Norton"
@@ -63,12 +69,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012209"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878865
     ],
     "wof:country":"GB",
-    "wof:geomhash":"39dae725375d0277e58abd145b269161",
+    "wof:geomhash":"24c5cbe4cccad17397125cb9933b057a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404444039,
     "wof:label":"Brize Norton Civil Parish",
-    "wof:lastmodified":1566632910,
+    "wof:lastmodified":1695877418,
     "wof:name":"Brize Norton",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

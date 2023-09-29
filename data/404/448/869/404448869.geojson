@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001323,
-    "geom:area_square_m":9964858.531257,
+    "geom:area_square_m":9964858.531256,
     "geom:bbox":"-1.19859725775,52.4656217053,-1.13338203198,52.4967492985",
     "geom:latitude":52.482534,
     "geom:longitude":-1.167068,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.48186,
     "lbl:longitude":-1.167678,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gilmorton"
@@ -60,12 +66,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005427"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977341
     ],
     "wof:country":"GB",
-    "wof:geomhash":"573b2c66b774e9dbeed5d3240cb768b0",
+    "wof:geomhash":"84c8646865cb8f97393bd949c33e6e73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448869,
     "wof:label":"Gilmorton Civil Parish",
-    "wof:lastmodified":1566631496,
+    "wof:lastmodified":1695876813,
     "wof:name":"Gilmorton",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

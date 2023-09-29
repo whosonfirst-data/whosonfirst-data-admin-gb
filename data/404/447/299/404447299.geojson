@@ -10,12 +10,18 @@
     "geom:latitude":53.60939,
     "geom:longitude":-2.85758,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.611502,
     "lbl:longitude":-2.865451,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burscough"
@@ -72,12 +78,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005303"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872275
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c6b21cf891562b90dfc23685a702d35c",
+    "wof:geomhash":"f4e7c1ccce54d3d5c63d12046c7b15f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404447299,
     "wof:label":"Burscough Civil Parish",
-    "wof:lastmodified":1566631331,
+    "wof:lastmodified":1695878309,
     "wof:name":"Burscough",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

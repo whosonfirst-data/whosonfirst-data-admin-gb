@@ -10,12 +10,18 @@
     "geom:latitude":50.765413,
     "geom:longitude":-0.834249,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.764202,
     "lbl:longitude":-0.83758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Earnley"
@@ -57,12 +63,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009894"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125801057
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ee72e5c71d3ac20c10abc897feb891a4",
+    "wof:geomhash":"5e342a994268f242787181f1a94674bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404438815,
     "wof:label":"Earnley Civil Parish",
-    "wof:lastmodified":1566632607,
+    "wof:lastmodified":1695877281,
     "wof:name":"Earnley",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

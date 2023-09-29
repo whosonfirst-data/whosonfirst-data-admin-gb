@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000917,
-    "geom:area_square_m":7071565.426677,
+    "geom:area_square_m":7071565.426676,
     "geom:bbox":"-1.10930242168,51.3870763468,-1.05767413638,51.4308479029",
     "geom:latitude":51.412045,
     "geom:longitude":-1.081371,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.412175,
     "lbl:longitude":-1.077135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u0647\u0645\u0633\u062a\u064a\u062f"
@@ -66,12 +72,15 @@
         1360698857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001193"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126052387
     ],
     "wof:country":"GB",
-    "wof:geomhash":"55004deb8e66e4ce530ab281a1bcb1e3",
+    "wof:geomhash":"ed423bb2e88e2f09ffaa9668e9d61b32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404445399,
     "wof:label":"Sulhamstead Civil Parish",
-    "wof:lastmodified":1566633314,
+    "wof:lastmodified":1695877600,
     "wof:name":"Sulhamstead",
     "wof:parent_id":1360698857,
     "wof:placetype":"localadmin",

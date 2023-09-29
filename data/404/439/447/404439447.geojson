@@ -10,12 +10,18 @@
     "geom:latitude":52.598443,
     "geom:longitude":1.185419,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.599908,
     "lbl:longitude":1.184889,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0633\u0631\u0633\u062a"
@@ -72,12 +78,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006559"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854977
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9646a527ca77aeedb72dd467b8e545f4",
+    "wof:geomhash":"dadcc3daa0b8c9836b469e6225466901",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404439447,
     "wof:label":"Hethersett Civil Parish",
-    "wof:lastmodified":1566631842,
+    "wof:lastmodified":1695876946,
     "wof:name":"Hethersett",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

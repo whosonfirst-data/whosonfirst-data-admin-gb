@@ -10,12 +10,18 @@
     "geom:latitude":52.725115,
     "geom:longitude":0.741591,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.725576,
     "lbl:longitude":0.741593,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lexham"
@@ -58,12 +64,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006136"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758561
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6bc0eab9166fff2207abe2ca6f190ccf",
+    "wof:geomhash":"ba881e9252bec193abe2d0f119e968da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404436409,
     "wof:label":"Lexham Civil Parish",
-    "wof:lastmodified":1566632352,
+    "wof:lastmodified":1695877165,
     "wof:name":"Lexham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

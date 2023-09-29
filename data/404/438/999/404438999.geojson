@@ -10,12 +10,18 @@
     "geom:latitude":53.993354,
     "geom:longitude":-1.29152,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.993633,
     "lbl:longitude":-1.291518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirk Hammerton"
@@ -63,12 +69,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007371"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125837617
     ],
     "wof:country":"GB",
-    "wof:geomhash":"757c5a31303dc1a00ef16e4dda189d3a",
+    "wof:geomhash":"4f8a88569bb1525c770c9d83e795c99f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404438999,
     "wof:label":"Kirk Hammerton Civil Parish",
-    "wof:lastmodified":1566632548,
+    "wof:lastmodified":1695877255,
     "wof:name":"Kirk Hammerton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

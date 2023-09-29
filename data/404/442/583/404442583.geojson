@@ -10,12 +10,18 @@
     "geom:latitude":51.557235,
     "geom:longitude":-1.447538,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.554724,
     "lbl:longitude":-1.444064,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Letcombe Regis"
@@ -57,12 +63,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008225"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125838921
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ead612597ac68a8e7024c8b99dc185b0",
+    "wof:geomhash":"a9d091895065a3c7ba19df192f3c83d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404442583,
     "wof:label":"Letcombe Regis Civil Parish",
-    "wof:lastmodified":1566633302,
+    "wof:lastmodified":1695877595,
     "wof:name":"Letcombe Regis",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

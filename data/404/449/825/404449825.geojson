@@ -10,12 +10,18 @@
     "geom:latitude":51.161522,
     "geom:longitude":-1.386926,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.163641,
     "lbl:longitude":-1.387501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barton Stacey"
@@ -60,12 +66,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004597"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125909219
     ],
     "wof:country":"GB",
-    "wof:geomhash":"13d989f435dc6b0f1cb1e10ac2f40bb9",
+    "wof:geomhash":"0b66789180ca6baa424a9f2c419b1e92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404449825,
     "wof:label":"Barton Stacey Civil Parish",
-    "wof:lastmodified":1566631427,
+    "wof:lastmodified":1695876782,
     "wof:name":"Barton Stacey",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

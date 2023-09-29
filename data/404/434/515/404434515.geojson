@@ -10,12 +10,18 @@
     "geom:latitude":53.166074,
     "geom:longitude":-2.803875,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.166588,
     "lbl:longitude":-2.804295,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Waverton"
@@ -54,12 +60,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011184"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126053763
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2b201362673e7eba6fd6b5482f1f879b",
+    "wof:geomhash":"7e8be6cc61f3b0ab494b758e714d2093",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404434515,
     "wof:label":"Waverton Civil Parish",
-    "wof:lastmodified":1566633636,
+    "wof:lastmodified":1695877746,
     "wof:name":"Waverton",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

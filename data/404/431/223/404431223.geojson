@@ -10,12 +10,18 @@
     "geom:latitude":50.956083,
     "geom:longitude":-0.721774,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.954492,
     "lbl:longitude":-0.721273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Heyshott"
@@ -57,12 +63,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009907"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903821
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3440de524abe14433244761eae0f0d3a",
+    "wof:geomhash":"25e5e0aabcf64f23d8f9330dfbc96a38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404431223,
     "wof:label":"Heyshott Civil Parish",
-    "wof:lastmodified":1566632502,
+    "wof:lastmodified":1695877232,
     "wof:name":"Heyshott",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

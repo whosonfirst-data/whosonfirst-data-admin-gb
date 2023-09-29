@@ -10,12 +10,18 @@
     "geom:latitude":53.221886,
     "geom:longitude":-1.727772,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.227434,
     "lbl:longitude":-1.711294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ashford in the Water"
@@ -46,12 +52,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002718"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125781631
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a3f30f452735914588970da3a778c341",
+    "wof:geomhash":"206995e06bcb3211a60255f7def07fbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,7 @@
     ],
     "wof:id":404433715,
     "wof:label":"Ashford in the Water Civil Parish",
-    "wof:lastmodified":1566633682,
+    "wof:lastmodified":1695877767,
     "wof:name":"Ashford in the Water",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

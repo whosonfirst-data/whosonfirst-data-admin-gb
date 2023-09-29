@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000648,
-    "geom:area_square_m":5065504.969537,
+    "geom:area_square_m":5065504.969536,
     "geom:bbox":"-2.68892713127,50.7870661716,-2.65128716628,50.8179199475",
     "geom:latitude":50.800553,
     "geom:longitude":-2.668516,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.802551,
     "lbl:longitude":-2.666666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hooke"
@@ -63,12 +69,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003549"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1276903515
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0d48a75efa89c61b59373f4a5ab6e7f8",
+    "wof:geomhash":"280c6231411136a39ef52b7ec23279b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404431845,
     "wof:label":"Hooke Civil Parish",
-    "wof:lastmodified":1566632447,
+    "wof:lastmodified":1695877208,
     "wof:name":"Hooke",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

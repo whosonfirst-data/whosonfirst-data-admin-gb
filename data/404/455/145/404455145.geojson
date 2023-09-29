@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000573,
-    "geom:area_square_m":4333387.632907,
+    "geom:area_square_m":4333387.632908,
     "geom:bbox":"-0.749537873714,52.3182984833,-0.679557908802,52.3359914425",
     "geom:latitude":52.327511,
     "geom:longitude":-0.711454,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.327104,
     "lbl:longitude":-0.716761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Great Harrowden"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006883"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903713
     ],
     "wof:country":"GB",
-    "wof:geomhash":"890cc2f996da2d283ef9beb11f979f08",
+    "wof:geomhash":"3d9571fb6d5df0456a764799e9e7401b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404455145,
     "wof:label":"Great Harrowden Civil Parish",
-    "wof:lastmodified":1566632286,
+    "wof:lastmodified":1695877135,
     "wof:name":"Great Harrowden",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

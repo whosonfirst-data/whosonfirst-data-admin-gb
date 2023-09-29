@@ -10,12 +10,18 @@
     "geom:latitude":51.854115,
     "geom:longitude":-0.159976,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.854422,
     "lbl:longitude":-0.158763,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Datchworth"
@@ -60,12 +66,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004728"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125904919
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db76bb2ba0deb4c9e2c42627a6c4f446",
+    "wof:geomhash":"313272e9c1a4250f0625f364205ae3bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404431565,
     "wof:label":"Datchworth Civil Parish",
-    "wof:lastmodified":1566632493,
+    "wof:lastmodified":1695877229,
     "wof:name":"Datchworth",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

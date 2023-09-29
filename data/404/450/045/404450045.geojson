@@ -10,12 +10,18 @@
     "geom:latitude":51.824418,
     "geom:longitude":-2.19163,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.823478,
     "lbl:longitude":-2.192129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upton St. Leonards"
@@ -42,12 +48,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004383"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344085387
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2975de93cc3b61fae9173cbfff645979",
+    "wof:geomhash":"628ce423834c9c188848c581554f03e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404450045,
     "wof:label":"Upton St. Leonards Civil Parish",
-    "wof:lastmodified":1566633808,
+    "wof:lastmodified":1695877821,
     "wof:name":"Upton St. Leonards",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.838743,
     "geom:longitude":-1.274108,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.842656,
     "lbl:longitude":-1.276358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hampton Gay and Poyle"
@@ -49,12 +55,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008048"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759103
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a042a8820f2cf22f1275ac968375f340",
+    "wof:geomhash":"b6e8fca999dbc4fc6a04a6009c40d256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404444931,
     "wof:label":"Hampton Gay and Poyle Civil Parish",
-    "wof:lastmodified":1566632862,
+    "wof:lastmodified":1695877400,
     "wof:name":"Hampton Gay and Poyle",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

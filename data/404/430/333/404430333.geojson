@@ -10,12 +10,18 @@
     "geom:latitude":51.624915,
     "geom:longitude":-1.457673,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.62332,
     "lbl:longitude":-1.457991,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Denchworth"
@@ -54,12 +60,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008204"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243582745
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8bfef5c226a44d7255e09fabb71bdf4a",
+    "wof:geomhash":"fb601f5d918594f9539c349495d78098",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404430333,
     "wof:label":"Denchworth Civil Parish",
-    "wof:lastmodified":1566632006,
+    "wof:lastmodified":1695877017,
     "wof:name":"Denchworth",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

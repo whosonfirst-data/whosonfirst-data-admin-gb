@@ -10,12 +10,18 @@
     "geom:latitude":51.839595,
     "geom:longitude":-0.464764,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.83931,
     "lbl:longitude":-0.461826,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Markyate"
@@ -63,12 +69,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004705"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126013267
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4be660892f896428f178324616e2d8be",
+    "wof:geomhash":"280243b8638cba4733436291bb83b57d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439419,
     "wof:label":"Markyate Civil Parish",
-    "wof:lastmodified":1566631895,
+    "wof:lastmodified":1695876971,
     "wof:name":"Markyate",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

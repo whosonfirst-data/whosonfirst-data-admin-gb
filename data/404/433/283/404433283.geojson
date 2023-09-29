@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000973,
-    "geom:area_square_m":7521558.146206,
+    "geom:area_square_m":7521558.146205,
     "geom:bbox":"1.00406159577,51.2696720871,1.06337400113,51.2965328979",
     "geom:latitude":51.285012,
     "geom:longitude":1.033322,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.284584,
     "lbl:longitude":1.032766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Harbledown and Rough Common"
@@ -43,12 +49,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004876"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754045
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c36f6371c02b89b3ac06ed9d06fd74f6",
+    "wof:geomhash":"6f9bea047b09f2abc290e973c176bfc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404433283,
     "wof:label":"Harbledown and Rough Common Civil Parish",
-    "wof:lastmodified":1566633703,
+    "wof:lastmodified":1695877776,
     "wof:name":"Harbledown and Rough Common",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005009,
-    "geom:area_square_m":38335742.005614,
+    "geom:area_square_m":38335742.005615,
     "geom:bbox":"-4.15649730663,51.7254785997,-4.05828449457,51.8009082722",
     "geom:latitude":51.763418,
     "geom:longitude":-4.10589,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.762807,
     "lbl:longitude":-4.104957,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llannon Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000537"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310233659
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bf0f0419e0616686fe4081f06f2d45fe",
+    "wof:geomhash":"06c6a3470631806dc5c4c481aebc23eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404447213,
-    "wof:lastmodified":1566631316,
+    "wof:lastmodified":1695878303,
     "wof:name":"Llannon Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

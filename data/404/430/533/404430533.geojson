@@ -10,12 +10,18 @@
     "geom:latitude":51.230901,
     "geom:longitude":-2.192734,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.226772,
     "lbl:longitude":-2.196137,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upton Scudamore"
@@ -60,12 +66,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011845"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030611
     ],
     "wof:country":"GB",
-    "wof:geomhash":"40dbfe377bf90177a710ae7ebd6f81ff",
+    "wof:geomhash":"4e7ba4a8d7a6a7cc54f094e21ef46728",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430533,
     "wof:label":"Upton Scudamore Civil Parish",
-    "wof:lastmodified":1566631936,
+    "wof:lastmodified":1695876990,
     "wof:name":"Upton Scudamore",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

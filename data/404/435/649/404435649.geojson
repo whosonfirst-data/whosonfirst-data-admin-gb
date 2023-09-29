@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000979,
-    "geom:area_square_m":7436255.586573,
+    "geom:area_square_m":7436255.586571,
     "geom:bbox":"-1.57904189916,52.1008990257,-1.5020087456,52.1357029745",
     "geom:latitude":52.115552,
     "geom:longitude":-1.539006,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.115496,
     "lbl:longitude":-1.525619,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oxhill"
@@ -48,12 +54,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009765"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125831497
     ],
     "wof:country":"GB",
-    "wof:geomhash":"59689316ef0f50da7ac343259ca29d4a",
+    "wof:geomhash":"dae6f575e3b69369fae7b6632b41e808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404435649,
     "wof:label":"Oxhill Civil Parish",
-    "wof:lastmodified":1566634052,
+    "wof:lastmodified":1695877925,
     "wof:name":"Oxhill",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

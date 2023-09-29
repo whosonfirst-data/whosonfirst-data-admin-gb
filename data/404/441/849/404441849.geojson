@@ -10,12 +10,18 @@
     "geom:latitude":52.627384,
     "geom:longitude":-2.56793,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.627782,
     "lbl:longitude":-2.567926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sheinton"
@@ -54,12 +60,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011354"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126031201
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ba192b5ea21be8fe590ef4c6c9997e38",
+    "wof:geomhash":"20cd725c09a79668994d749626b9a0e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404441849,
     "wof:label":"Sheinton Civil Parish",
-    "wof:lastmodified":1566631795,
+    "wof:lastmodified":1695876923,
     "wof:name":"Sheinton",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

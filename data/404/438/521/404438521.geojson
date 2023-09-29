@@ -10,12 +10,18 @@
     "geom:latitude":52.574853,
     "geom:longitude":1.380169,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.575475,
     "lbl:longitude":1.380411,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yelverton"
@@ -51,12 +57,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006623"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125982285
     ],
     "wof:country":"GB",
-    "wof:geomhash":"49632a80875a7302d571b22fa5bc51b6",
+    "wof:geomhash":"98d42d8fe1209764323c6c27fd91430b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404438521,
     "wof:label":"Yelverton Civil Parish",
-    "wof:lastmodified":1566632578,
+    "wof:lastmodified":1695877268,
     "wof:name":"Yelverton",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

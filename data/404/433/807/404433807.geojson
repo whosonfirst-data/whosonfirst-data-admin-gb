@@ -10,12 +10,18 @@
     "geom:latitude":51.877193,
     "geom:longitude":-1.802772,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.875938,
     "lbl:longitude":-1.802282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cold Aston"
@@ -60,12 +66,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004209"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800269
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2d3a6ec7e6c00142ed2126dd2bf4317e",
+    "wof:geomhash":"d50ebafffe1a26dcb246d1e8ed77c311",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404433807,
     "wof:label":"Cold Aston Civil Parish",
-    "wof:lastmodified":1566633718,
+    "wof:lastmodified":1695877783,
     "wof:name":"Cold Aston",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

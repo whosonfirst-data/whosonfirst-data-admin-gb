@@ -10,12 +10,18 @@
     "geom:latitude":53.247262,
     "geom:longitude":-1.947594,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.271323,
     "lbl:longitude":-1.979379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hartington Upper Quarter"
@@ -49,12 +55,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002850"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754157
     ],
     "wof:country":"GB",
-    "wof:geomhash":"09ca3bc50ccd9b0d002c313cf39a9f40",
+    "wof:geomhash":"b01a6b5210d8c434dad4b1e7a0aae76b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404433359,
     "wof:label":"Hartington Upper Quarter Civil Parish",
-    "wof:lastmodified":1566633689,
+    "wof:lastmodified":1695877770,
     "wof:name":"Hartington Upper Quarter",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

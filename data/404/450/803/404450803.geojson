@@ -10,12 +10,18 @@
     "geom:latitude":54.140999,
     "geom:longitude":-0.683694,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.140536,
     "lbl:longitude":-0.683695,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thorpe Bassett"
@@ -54,12 +60,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007642"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243102723
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cc67feaa07427b1a1f7a97630f326090",
+    "wof:geomhash":"f6ab322d5661b93a2a38905c0a640c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404450803,
     "wof:label":"Thorpe Bassett Civil Parish",
-    "wof:lastmodified":1566633772,
+    "wof:lastmodified":1695877806,
     "wof:name":"Thorpe Bassett",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

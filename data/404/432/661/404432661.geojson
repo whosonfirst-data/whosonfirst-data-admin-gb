@@ -10,12 +10,18 @@
     "geom:latitude":52.133085,
     "geom:longitude":0.725308,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.1314,
     "lbl:longitude":0.717592,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shimpling"
@@ -63,12 +69,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009121"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125877659
     ],
     "wof:country":"GB",
-    "wof:geomhash":"dc75c3bb93fe10f7861cde2f6d670941",
+    "wof:geomhash":"1b38c41cd1c0ce7bb529ea8ee0077de9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404432661,
     "wof:label":"Shimpling Civil Parish",
-    "wof:lastmodified":1566633905,
+    "wof:lastmodified":1695877852,
     "wof:name":"Shimpling",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

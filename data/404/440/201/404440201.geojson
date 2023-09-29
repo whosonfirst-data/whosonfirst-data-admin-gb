@@ -10,12 +10,18 @@
     "geom:latitude":50.8697,
     "geom:longitude":0.360426,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.871027,
     "lbl:longitude":0.362276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wartling"
@@ -63,12 +69,15 @@
         1360698815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003866"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125913391
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aea5b3c6676831eabc39e375ff771444",
+    "wof:geomhash":"75f7c7d08094c6f39e3211f995083901",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404440201,
     "wof:label":"Wartling Civil Parish",
-    "wof:lastmodified":1566631214,
+    "wof:lastmodified":1695878256,
     "wof:name":"Wartling",
     "wof:parent_id":1360698815,
     "wof:placetype":"localadmin",

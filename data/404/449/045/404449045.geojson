@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00068,
-    "geom:area_square_m":5320335.812234,
+    "geom:area_square_m":5320335.812233,
     "geom:bbox":"-2.61430760042,50.7249758181,-2.5611035053,50.7495130848",
     "geom:latitude":50.738067,
     "geom:longitude":-2.580051,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.736862,
     "lbl:longitude":-2.575201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Compton Valence"
@@ -55,12 +61,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003529"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360752961
     ],
     "wof:country":"GB",
-    "wof:geomhash":"02eff00ac779b50c1cbed9404934aa2a",
+    "wof:geomhash":"87eeaa0ea077598e5878907fb7a4b252",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404449045,
     "wof:label":"Compton Valence Civil Parish",
-    "wof:lastmodified":1566631417,
+    "wof:lastmodified":1695876778,
     "wof:name":"Compton Valence",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

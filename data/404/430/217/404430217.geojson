@@ -10,12 +10,18 @@
     "geom:latitude":53.11084,
     "geom:longitude":-1.624179,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.112484,
     "lbl:longitude":-1.626567,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ible"
@@ -52,12 +58,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002774"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754099
     ],
     "wof:country":"GB",
-    "wof:geomhash":"794c2a33f1c7c896ab0ace2700417d36",
+    "wof:geomhash":"571ea881544fb6364965eedda55a59e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404430217,
     "wof:label":"Ible Civil Parish",
-    "wof:lastmodified":1566631956,
+    "wof:lastmodified":1695876998,
     "wof:name":"Ible",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

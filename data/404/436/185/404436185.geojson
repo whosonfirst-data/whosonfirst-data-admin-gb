@@ -10,12 +10,18 @@
     "geom:latitude":51.347312,
     "geom:longitude":1.135459,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.347011,
     "lbl:longitude":1.135462,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Herne and Broomfield"
@@ -55,12 +61,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004891"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758325
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2e13801d9daf3a72720dad799b2f2d3e",
+    "wof:geomhash":"5147f99bd3f4d1d6d576b89baf07cedf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404436185,
     "wof:label":"Herne and Broomfield Civil Parish",
-    "wof:lastmodified":1566632428,
+    "wof:lastmodified":1695877199,
     "wof:name":"Herne and Broomfield",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

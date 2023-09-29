@@ -10,12 +10,18 @@
     "geom:latitude":51.609618,
     "geom:longitude":-3.452932,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.610305,
     "lbl:longitude":-3.45234,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pen-y-Graig Community"
@@ -40,12 +46,15 @@
         1360699025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000696"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125864725
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c23c51b8cd0608a2127d9f326dd87db6",
+    "wof:geomhash":"ca019e1a3ccd2bcf1cf8e5f9a928d4d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440725,
-    "wof:lastmodified":1566631165,
+    "wof:lastmodified":1695878233,
     "wof:name":"Pen-y-Graig Community",
     "wof:parent_id":1360699025,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000844,
-    "geom:area_square_m":6348809.52272,
+    "geom:area_square_m":6348809.522721,
     "geom:bbox":"0.859566981971,52.5308612081,0.913936722699,52.5535902957",
     "geom:latitude":52.541167,
     "geom:longitude":0.887397,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.542136,
     "lbl:longitude":0.886883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Caston"
@@ -57,12 +63,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006101"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293716175
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fd3690ae694c8a072f7d6fe68bb47723",
+    "wof:geomhash":"22cc4e6d0020fa271d12f74313a652f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404434499,
     "wof:label":"Caston Civil Parish",
-    "wof:lastmodified":1566633564,
+    "wof:lastmodified":1695877715,
     "wof:name":"Caston",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

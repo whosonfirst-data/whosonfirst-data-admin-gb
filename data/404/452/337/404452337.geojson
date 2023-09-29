@@ -10,12 +10,18 @@
     "geom:latitude":50.903533,
     "geom:longitude":-4.100144,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.902564,
     "lbl:longitude":-4.108259,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Merton"
@@ -93,12 +99,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003277"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125894361
     ],
     "wof:country":"GB",
-    "wof:geomhash":"610dc46289dc23710fe4c368b596c26a",
+    "wof:geomhash":"3249c3bd95af3377d7618ef5fc0e98e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404452337,
     "wof:label":"Merton Civil Parish",
-    "wof:lastmodified":1566632170,
+    "wof:lastmodified":1695877087,
     "wof:name":"Merton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

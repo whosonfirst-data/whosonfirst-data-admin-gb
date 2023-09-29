@@ -10,12 +10,18 @@
     "geom:latitude":52.079291,
     "geom:longitude":-4.60234,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.077512,
     "lbl:longitude":-4.605479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangoedmor Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000381"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326865411
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5dec0a1f20c0cbc960cb55ad776c58ac",
+    "wof:geomhash":"7595504a4122fdc27e9cdc41230671b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438789,
-    "wof:lastmodified":1566632637,
+    "wof:lastmodified":1695877295,
     "wof:name":"Llangoedmor Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

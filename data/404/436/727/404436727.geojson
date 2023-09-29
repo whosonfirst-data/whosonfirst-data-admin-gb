@@ -10,12 +10,18 @@
     "geom:latitude":52.916139,
     "geom:longitude":-3.079093,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.914354,
     "lbl:longitude":-3.08196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Weston Rhyn"
@@ -60,12 +66,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011384"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1344192739
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c03377c0663dd45bac41210f5c470ba4",
+    "wof:geomhash":"d830bc1bfd98cf422b2a5231bb20a044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404436727,
     "wof:label":"Weston Rhyn Civil Parish",
-    "wof:lastmodified":1566632428,
+    "wof:lastmodified":1695877200,
     "wof:name":"Weston Rhyn",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

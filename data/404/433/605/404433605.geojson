@@ -10,12 +10,18 @@
     "geom:latitude":52.15015,
     "geom:longitude":1.056275,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.150052,
     "lbl:longitude":1.054435,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u06cc\u062f\u0647\u0627\u0645 \u0645\u0627\u0631\u06a9\u062a"
@@ -90,12 +96,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010558"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854855
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1444f7a26e2f3c67535ed3380331ba95",
+    "wof:geomhash":"a0ca8436db0b3f08fc683d63cfe74942",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404433605,
     "wof:label":"Needham Market Civil Parish",
-    "wof:lastmodified":1566633665,
+    "wof:lastmodified":1695877759,
     "wof:name":"Needham Market",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

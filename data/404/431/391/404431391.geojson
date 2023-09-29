@@ -10,12 +10,18 @@
     "geom:latitude":54.208976,
     "geom:longitude":-0.953139,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.210041,
     "lbl:longitude":-0.943785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nunnington"
@@ -51,12 +57,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007612"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125770431
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6d6088f1cec058fb13a3a1159d45d79d",
+    "wof:geomhash":"01f446b3c3c31a593def46c7c8ac04d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404431391,
     "wof:label":"Nunnington Civil Parish",
-    "wof:lastmodified":1566632433,
+    "wof:lastmodified":1695877201,
     "wof:name":"Nunnington",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

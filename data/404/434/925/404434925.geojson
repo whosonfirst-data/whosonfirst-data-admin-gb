@@ -10,12 +10,18 @@
     "geom:latitude":52.2254,
     "geom:longitude":0.224092,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.223692,
     "lbl:longitude":0.217923,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stow Cum Quy"
@@ -42,12 +48,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001842"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125818159
     ],
     "wof:country":"GB",
-    "wof:geomhash":"90a80eeae083b1ebbf3d3fd9c40d10e3",
+    "wof:geomhash":"4bd6069a7d5e51e2d10ab4a053117b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404434925,
     "wof:label":"Stow Cum Quy Civil Parish",
-    "wof:lastmodified":1566633582,
+    "wof:lastmodified":1695877723,
     "wof:name":"Stow Cum Quy",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

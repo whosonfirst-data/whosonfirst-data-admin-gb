@@ -10,12 +10,18 @@
     "geom:latitude":52.096687,
     "geom:longitude":0.461551,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.095567,
     "lbl:longitude":0.459409,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Wratting"
@@ -52,12 +58,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009339"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759547
     ],
     "wof:country":"GB",
-    "wof:geomhash":"17c5bb5a47fca3fb4ca80b290cd29a6a",
+    "wof:geomhash":"95a89aeb0dfad93fd6c2f452e738c63e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404445639,
     "wof:label":"Little Wratting Civil Parish",
-    "wof:lastmodified":1566633396,
+    "wof:lastmodified":1695877637,
     "wof:name":"Little Wratting",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

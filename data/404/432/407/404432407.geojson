@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001855,
-    "geom:area_square_m":13978566.226354,
+    "geom:area_square_m":13978566.226353,
     "geom:bbox":"-0.481484149869,52.4133215223,-0.403424531654,52.4783548156",
     "geom:latitude":52.445511,
     "geom:longitude":-0.443572,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.44119,
     "lbl:longitude":-0.437119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barnwell"
@@ -75,12 +81,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006710"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126008029
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2a5e1564b856765b9d6d80b5ff2d00db",
+    "wof:geomhash":"5266838ff4fbdb2d27d16c38a3d792ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404432407,
     "wof:label":"Barnwell Civil Parish",
-    "wof:lastmodified":1566633902,
+    "wof:lastmodified":1695877851,
     "wof:name":"Barnwell",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

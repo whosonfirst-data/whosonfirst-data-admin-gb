@@ -10,12 +10,18 @@
     "geom:latitude":52.83833,
     "geom:longitude":0.95721,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.837138,
     "lbl:longitude":0.956545,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fulmodeston"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006416"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310041145
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8699e6c0cb2bdc4694dec7fcffaaa6df",
+    "wof:geomhash":"5dac641563aa843d3af0baf148fdc268",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404454327,
     "wof:label":"Fulmodeston Civil Parish",
-    "wof:lastmodified":1566632735,
+    "wof:lastmodified":1695877343,
     "wof:name":"Fulmodeston",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

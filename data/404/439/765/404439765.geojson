@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00288,
-    "geom:area_square_m":20237562.145006,
+    "geom:area_square_m":20237562.145005,
     "geom:bbox":"-1.80001851931,55.3428845338,-1.66349959429,55.4057540247",
     "geom:latitude":55.37622,
     "geom:longitude":-1.735797,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.390672,
     "lbl:longitude":-1.712043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Denwick (Det)"
@@ -40,12 +46,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010768"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755699
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4dbd929df16413b85a0404f3d4806171",
+    "wof:geomhash":"f45638bbda6a93d617938fe5eece4e59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404439765,
     "wof:label":"Denwick (Det) Civil Parish",
-    "wof:lastmodified":1566631837,
+    "wof:lastmodified":1695876943,
     "wof:name":"Denwick (Det)",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

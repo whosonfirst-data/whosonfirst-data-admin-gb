@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000726,
-    "geom:area_square_m":5587235.408223,
+    "geom:area_square_m":5587235.408224,
     "geom:bbox":"-0.930609250576,51.5223557778,-0.883921238185,51.5551849655",
     "geom:latitude":51.535782,
     "geom:longitude":-0.910564,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.535118,
     "lbl:longitude":-0.91022,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Henley-On-Thames"
@@ -42,12 +48,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008136"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125953269
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c42d046d799b64a1ec9d22b9a8adcd5f",
+    "wof:geomhash":"39fbfc61e3ea4267c070fa9a1feb1864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404431153,
     "wof:label":"Henley-On-Thames Civil Parish",
-    "wof:lastmodified":1566632483,
+    "wof:lastmodified":1695877224,
     "wof:name":"Henley-On-Thames",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

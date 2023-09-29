@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00196,
-    "geom:area_square_m":14752083.074272,
+    "geom:area_square_m":14752083.074271,
     "geom:bbox":"1.25811994975,52.4603272176,1.33880690722,52.516090822",
     "geom:latitude":52.493961,
     "geom:longitude":1.305223,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.491169,
     "lbl:longitude":1.30916,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hempnall"
@@ -66,12 +72,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006558"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326759743
     ],
     "wof:country":"GB",
-    "wof:geomhash":"44fd64746e2ba20568cb72fd93d5727d",
+    "wof:geomhash":"e53f2b7aeeb2893d42bd3033ecdfc131",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404444883,
     "wof:label":"Hempnall Civil Parish",
-    "wof:lastmodified":1566632945,
+    "wof:lastmodified":1695877432,
     "wof:name":"Hempnall",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

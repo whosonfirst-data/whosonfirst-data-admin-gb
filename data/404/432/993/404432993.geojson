@@ -10,12 +10,18 @@
     "geom:latitude":50.780127,
     "geom:longitude":-1.83062,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.778198,
     "lbl:longitude":-1.82636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hurn"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003361"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882885
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cc6a1b5a24012d75b3c4e7b6bf691a71",
+    "wof:geomhash":"dd018f197aff75835a4372923917a651",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404432993,
     "wof:label":"Hurn Civil Parish",
-    "wof:lastmodified":1566633927,
+    "wof:lastmodified":1695877864,
     "wof:name":"Hurn",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

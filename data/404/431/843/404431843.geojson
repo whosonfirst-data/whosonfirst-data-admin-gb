@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00623,
-    "geom:area_square_m":47540522.447572,
+    "geom:area_square_m":47540522.447573,
     "geom:bbox":"-3.66365263158,51.8361153284,-3.56687123225,51.9505739227",
     "geom:latitude":51.895372,
     "geom:longitude":-3.612971,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.892921,
     "lbl:longitude":-3.617738,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cray Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000266"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209250097
     ],
     "wof:country":"GB",
-    "wof:geomhash":"421f49b23bcdc7c94ea0ddd0300d6188",
+    "wof:geomhash":"21ce8b5794acf869874284d731bc148c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404431843,
-    "wof:lastmodified":1566632455,
+    "wof:lastmodified":1695877212,
     "wof:name":"Cray Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

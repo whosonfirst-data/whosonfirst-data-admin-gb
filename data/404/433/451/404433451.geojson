@@ -10,12 +10,18 @@
     "geom:latitude":52.042811,
     "geom:longitude":-2.655829,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.033984,
     "lbl:longitude":-2.64829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hampton Bishop"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000768"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126001973
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5d741f58728376994ce54af92ebec672",
+    "wof:geomhash":"a7f0bdb9e743d143532e0ba5be29fb78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404433451,
     "wof:label":"Hampton Bishop Civil Parish",
-    "wof:lastmodified":1566633719,
+    "wof:lastmodified":1695877783,
     "wof:name":"Hampton Bishop",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

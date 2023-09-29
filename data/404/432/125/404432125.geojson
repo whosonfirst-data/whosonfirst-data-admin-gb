@@ -10,12 +10,18 @@
     "geom:latitude":50.867041,
     "geom:longitude":-3.545943,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.866159,
     "lbl:longitude":-3.546408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cadeleigh"
@@ -60,12 +66,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003012"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1259612567
     ],
     "wof:country":"GB",
-    "wof:geomhash":"58c882550dc666b821807a10ffb60291",
+    "wof:geomhash":"601e150092633bc8129ef36b51aed608",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404432125,
     "wof:label":"Cadeleigh Civil Parish",
-    "wof:lastmodified":1566633971,
+    "wof:lastmodified":1695877882,
     "wof:name":"Cadeleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

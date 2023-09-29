@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001631,
-    "geom:area_square_m":12849786.273641,
+    "geom:area_square_m":12849786.273643,
     "geom:bbox":"-4.70693710044,50.3882925384,-4.64363325437,50.4359140051",
     "geom:latitude":50.412156,
     "geom:longitude":-4.672452,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.409334,
     "lbl:longitude":-4.671972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0633\u062a\u0648\u064a\u0632\u064a\u0644"
@@ -105,12 +111,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011474"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852387
     ],
     "wof:country":"GB",
-    "wof:geomhash":"aaf86d8798a32fbf28e151a470dff4e6",
+    "wof:geomhash":"621d78c04713e1038d22c4d44de46c1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404452531,
     "wof:label":"Lostwithiel Civil Parish",
-    "wof:lastmodified":1566632224,
+    "wof:lastmodified":1695877109,
     "wof:name":"Lostwithiel",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

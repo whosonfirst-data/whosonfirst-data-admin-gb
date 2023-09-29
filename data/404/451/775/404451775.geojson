@@ -10,12 +10,18 @@
     "geom:latitude":52.562575,
     "geom:longitude":-1.266151,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.56364,
     "lbl:longitude":-1.263301,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Potters Marston"
@@ -54,12 +60,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005358"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125783007
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2138da45024519952c9def7ee8d66850",
+    "wof:geomhash":"25da81055c1ad80fc02bc097f449656f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451775,
     "wof:label":"Potters Marston Civil Parish",
-    "wof:lastmodified":1566633522,
+    "wof:lastmodified":1695877693,
     "wof:name":"Potters Marston",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

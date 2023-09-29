@@ -10,12 +10,18 @@
     "geom:latitude":51.148104,
     "geom:longitude":-2.700034,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.149951,
     "lbl:longitude":-2.699232,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0644\u0627\u0633\u062a\u0648\u0646\u0628\u0648\u0631\u06cc"
@@ -153,12 +159,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008561"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125971765
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5c7a5684481487f5848903fdde03ffbf",
+    "wof:geomhash":"aa87f4d33d2f66a691c8c6c5f381d7d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +180,7 @@
     ],
     "wof:id":404429335,
     "wof:label":"Glastonbury Civil Parish",
-    "wof:lastmodified":1566633146,
+    "wof:lastmodified":1695877526,
     "wof:name":"Glastonbury",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

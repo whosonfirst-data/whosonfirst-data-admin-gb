@@ -10,12 +10,18 @@
     "geom:latitude":50.512513,
     "geom:longitude":-4.099586,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.513353,
     "lbl:longitude":-4.100852,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Horrabridge"
@@ -66,12 +72,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003325"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126035267
     ],
     "wof:country":"GB",
-    "wof:geomhash":"395de939e0e6204b81447428001e2d64",
+    "wof:geomhash":"da865c1f95f2bfdfa19c1b847702e400",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404436457,
     "wof:label":"Horrabridge Civil Parish",
-    "wof:lastmodified":1566632410,
+    "wof:lastmodified":1695877191,
     "wof:name":"Horrabridge",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002627,
-    "geom:area_square_m":19401254.799446,
+    "geom:area_square_m":19401254.799445,
     "geom:bbox":"-2.28796241901,53.3056174021,-2.18470909917,53.3478510471",
     "geom:latitude":53.327628,
     "geom:longitude":-2.233384,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.325673,
     "lbl:longitude":-2.219004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Wilmslow"
@@ -88,12 +94,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012173"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101751621
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8eb05a88b2e3dc0a63a6d1f8f77a8d55",
+    "wof:geomhash":"0b143160d1bfb23286c293119c62089a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +115,7 @@
     ],
     "wof:id":404439479,
     "wof:label":"Wilmslow Civil Parish",
-    "wof:lastmodified":1566631852,
+    "wof:lastmodified":1695876950,
     "wof:name":"Wilmslow",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

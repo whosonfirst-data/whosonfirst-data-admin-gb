@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000601,
-    "geom:area_square_m":4568891.914463,
+    "geom:area_square_m":4568891.914462,
     "geom:bbox":"1.36101891624,52.0352127043,1.41496382369,52.0656496689",
     "geom:latitude":52.049456,
     "geom:longitude":1.387952,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.047552,
     "lbl:longitude":1.385299,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shottisham"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009453"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126012503
     ],
     "wof:country":"GB",
-    "wof:geomhash":"05fbb7173eb5015f7f6fa670257b2e6f",
+    "wof:geomhash":"2f200fd7cfe49de21fe9ef6f9741d058",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454191,
     "wof:label":"Shottisham Civil Parish",
-    "wof:lastmodified":1566632696,
+    "wof:lastmodified":1695877324,
     "wof:name":"Shottisham",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00071,
-    "geom:area_square_m":5261090.922518,
+    "geom:area_square_m":5261090.922517,
     "geom:bbox":"-2.27902315089,53.1809658824,-2.23108570849,53.2048280192",
     "geom:latitude":53.192587,
     "geom:longitude":-2.254547,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.193907,
     "lbl:longitude":-2.254087,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0645\u0631\u0641\u0631\u062f \u0628\u0648\u062b\u0633"
@@ -66,12 +72,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011007"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126018285
     ],
     "wof:country":"GB",
-    "wof:geomhash":"00478a917c5715d900a21d2bc418aeca",
+    "wof:geomhash":"22c8d981f96afc9c56e0c588de3c2467",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404436995,
     "wof:label":"Somerford Booths Civil Parish",
-    "wof:lastmodified":1566632377,
+    "wof:lastmodified":1695877177,
     "wof:name":"Somerford Booths",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

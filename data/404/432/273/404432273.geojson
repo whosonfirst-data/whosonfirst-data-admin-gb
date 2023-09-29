@@ -10,12 +10,18 @@
     "geom:latitude":51.180982,
     "geom:longitude":-0.680007,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.189335,
     "lbl:longitude":-0.678169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Peper Harow"
@@ -51,12 +57,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009620"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125912333
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4c2b4708afee7c0ba9cbae5d14c4f2fd",
+    "wof:geomhash":"746f78b8b85841a484e08b6e4c06c3f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404432273,
     "wof:label":"Peper Harow Civil Parish",
-    "wof:lastmodified":1566633866,
+    "wof:lastmodified":1695877843,
     "wof:name":"Peper Harow",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

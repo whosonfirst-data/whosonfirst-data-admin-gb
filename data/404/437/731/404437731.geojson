@@ -10,12 +10,18 @@
     "geom:latitude":51.096038,
     "geom:longitude":-4.067421,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.097124,
     "lbl:longitude":-4.073018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pilton West"
@@ -40,12 +46,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003127"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753077
     ],
     "wof:country":"GB",
-    "wof:geomhash":"242d8eb64c88ca341b84a0118abe7104",
+    "wof:geomhash":"25642e61dc143b59625ad76b8f28c2b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404437731,
     "wof:label":"Pilton West Civil Parish",
-    "wof:lastmodified":1566632061,
+    "wof:lastmodified":1695877041,
     "wof:name":"Pilton West",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

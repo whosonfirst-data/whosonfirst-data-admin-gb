@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001757,
-    "geom:area_square_m":13230815.539003,
+    "geom:area_square_m":13230815.539002,
     "geom:bbox":"-2.43255463075,52.4578636556,-2.37397411929,52.5067207624",
     "geom:latitude":52.48199,
     "geom:longitude":-2.403525,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.478713,
     "lbl:longitude":-2.403529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chelmarsh"
@@ -57,12 +63,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011237"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125914129
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bfe6aae6ffd65963d37490e9300d0b49",
+    "wof:geomhash":"473a9dce39edfe1f9cf1fca55656778c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440367,
     "wof:label":"Chelmarsh Civil Parish",
-    "wof:lastmodified":1566631187,
+    "wof:lastmodified":1695878243,
     "wof:name":"Chelmarsh",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

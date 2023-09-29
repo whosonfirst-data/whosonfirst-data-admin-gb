@@ -10,12 +10,18 @@
     "geom:latitude":51.682057,
     "geom:longitude":0.663442,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.68485,
     "lbl:longitude":0.65953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Purleigh"
@@ -66,12 +72,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004060"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125996859
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8a7e87e7b065e2b5947a76dfbf452d68",
+    "wof:geomhash":"0a408a82421ff4e8cf08447d620e60ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404430999,
     "wof:label":"Purleigh Civil Parish",
-    "wof:lastmodified":1566631945,
+    "wof:lastmodified":1695876994,
     "wof:name":"Purleigh",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

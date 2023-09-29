@@ -10,12 +10,18 @@
     "geom:latitude":53.666897,
     "geom:longitude":-0.279384,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.667934,
     "lbl:longitude":-0.278895,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "East Halton"
@@ -66,12 +72,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000552"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879329
     ],
     "wof:country":"GB",
-    "wof:geomhash":"65e2def26ce3d9ad2843303c89453911",
+    "wof:geomhash":"afc7bb26a235c3451ad5d8c2f9765e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404453525,
     "wof:label":"East Halton Civil Parish",
-    "wof:lastmodified":1566632851,
+    "wof:lastmodified":1695877396,
     "wof:name":"East Halton",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

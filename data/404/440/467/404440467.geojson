@@ -10,12 +10,18 @@
     "geom:latitude":52.904024,
     "geom:longitude":0.675593,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.904607,
     "lbl:longitude":0.67519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stanhoe"
@@ -57,12 +63,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006354"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125884695
     ],
     "wof:country":"GB",
-    "wof:geomhash":"01c0d87714ae63176f0783c309891132",
+    "wof:geomhash":"9a3fa2a0aa93c1a862fded01db5f414b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404440467,
     "wof:label":"Stanhoe Civil Parish",
-    "wof:lastmodified":1566631207,
+    "wof:lastmodified":1695878253,
     "wof:name":"Stanhoe",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

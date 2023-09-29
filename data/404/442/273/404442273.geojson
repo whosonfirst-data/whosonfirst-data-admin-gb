@@ -10,12 +10,18 @@
     "geom:latitude":52.098694,
     "geom:longitude":-1.981875,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.109091,
     "lbl:longitude":-1.980646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Charlton"
@@ -87,12 +93,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010372"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782727
     ],
     "wof:country":"GB",
-    "wof:geomhash":"de5b6ffa98fec6a6a232eec2f2d45ae8",
+    "wof:geomhash":"efb87ae33f6a5b1ca665dcd9507cba6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404442273,
     "wof:label":"Charlton Civil Parish",
-    "wof:lastmodified":1566633212,
+    "wof:lastmodified":1695877556,
     "wof:name":"Charlton",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

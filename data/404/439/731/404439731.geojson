@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000928,
-    "geom:area_square_m":6835228.919603,
+    "geom:area_square_m":6835228.919602,
     "geom:bbox":"-0.360256849959,53.4192722898,-0.30223444854,53.4574983393",
     "geom:latitude":53.44035,
     "geom:longitude":-0.33451,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.440797,
     "lbl:longitude":-0.336477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Claxby"
@@ -45,12 +51,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005977"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977315
     ],
     "wof:country":"GB",
-    "wof:geomhash":"143f92ce2e148006a612065bf67f961f",
+    "wof:geomhash":"619b0f21bde883c57de76a73b33b5873",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404439731,
     "wof:label":"Claxby Civil Parish",
-    "wof:lastmodified":1566631840,
+    "wof:lastmodified":1695876945,
     "wof:name":"Claxby",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

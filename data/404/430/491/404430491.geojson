@@ -10,12 +10,18 @@
     "geom:latitude":52.510963,
     "geom:longitude":-0.586746,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.511193,
     "lbl:longitude":-0.586745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deenethorpe"
@@ -57,12 +63,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006720"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326865371
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3549b5ab11f80c0772936780a91c588f",
+    "wof:geomhash":"2ac3a2bb1b10d1bdadff4960730f6faf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404430491,
     "wof:label":"Deenethorpe Civil Parish",
-    "wof:lastmodified":1566631976,
+    "wof:lastmodified":1695877006,
     "wof:name":"Deenethorpe",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

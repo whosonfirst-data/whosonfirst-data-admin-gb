@@ -10,12 +10,18 @@
     "geom:latitude":52.311412,
     "geom:longitude":-1.498324,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.311953,
     "lbl:longitude":-1.497908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cubbington"
@@ -57,12 +63,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009824"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125924773
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6892d1824ea4a6565cf4d251bd4fc3af",
+    "wof:geomhash":"eb898d5975b7d3d84d12453219c847ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404430983,
     "wof:label":"Cubbington Civil Parish",
-    "wof:lastmodified":1566631977,
+    "wof:lastmodified":1695877007,
     "wof:name":"Cubbington",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

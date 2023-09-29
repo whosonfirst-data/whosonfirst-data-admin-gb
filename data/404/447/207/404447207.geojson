@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001731,
-    "geom:area_square_m":13574427.868872,
+    "geom:area_square_m":13574427.868871,
     "geom:bbox":"-2.16504014253,50.6099028953,-2.10443885278,50.6622754713",
     "geom:latitude":50.637727,
     "geom:longitude":-2.133911,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.63706,
     "lbl:longitude":-2.131852,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09b0\u09cd\u099c\u09be \u09ac\u09c1\u09b0\u09c2\u099c"
@@ -60,12 +66,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003481"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060085
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8c89783a5cd5401c19a6f7c68e0919af",
+    "wof:geomhash":"75c09bf525444121eb792333e76ca3aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404447207,
     "wof:label":"Steeple Civil Parish",
-    "wof:lastmodified":1566631319,
+    "wof:lastmodified":1695878304,
     "wof:name":"Steeple",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

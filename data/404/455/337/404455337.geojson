@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000531,
-    "geom:area_square_m":4154080.675269,
+    "geom:area_square_m":4154080.675268,
     "geom:bbox":"-3.40443944333,50.778157682,-3.35997435806,50.8008284101",
     "geom:latitude":50.791506,
     "geom:longitude":-3.379082,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.793269,
     "lbl:longitude":-3.37942,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clyst St. Lawrence"
@@ -42,12 +48,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002952"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843217
     ],
     "wof:country":"GB",
-    "wof:geomhash":"53176cd337863fb5388ae16194e5e53d",
+    "wof:geomhash":"4c74a4517029dddd5516b33a9b05b5a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404455337,
     "wof:label":"Clyst St. Lawrence Civil Parish",
-    "wof:lastmodified":1566632271,
+    "wof:lastmodified":1695877130,
     "wof:name":"Clyst St. Lawrence",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

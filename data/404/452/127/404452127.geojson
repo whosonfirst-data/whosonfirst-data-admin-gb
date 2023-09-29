@@ -10,12 +10,18 @@
     "geom:latitude":53.302963,
     "geom:longitude":-2.365518,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.301444,
     "lbl:longitude":-2.361608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0627\u062a\u0633\u0641\u0648\u0631\u062f"
@@ -96,12 +102,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010960"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871983
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e96ceee7bcedcf9007173503e80c63d8",
+    "wof:geomhash":"6e39869fee5637683c4536ee0df5986a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +123,7 @@
     ],
     "wof:id":404452127,
     "wof:label":"Knutsford Civil Parish",
-    "wof:lastmodified":1566632209,
+    "wof:lastmodified":1695877103,
     "wof:name":"Knutsford",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003314,
-    "geom:area_square_m":25254527.666862,
+    "geom:area_square_m":25254527.666863,
     "geom:bbox":"-3.01183091896,51.9231855058,-2.92345441649,51.9882850267",
     "geom:latitude":51.952058,
     "geom:longitude":-2.97023,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.948487,
     "lbl:longitude":-2.965881,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longtown"
@@ -70,12 +76,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000816"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754805
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b2e8901b06c3e96925a433a508fca0f2",
+    "wof:geomhash":"7dbd259fff3981d4732845c667365293",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +97,7 @@
     ],
     "wof:id":404450201,
     "wof:label":"Longtown Civil Parish",
-    "wof:lastmodified":1566633828,
+    "wof:lastmodified":1695877828,
     "wof:name":"Longtown",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001822,
-    "geom:area_square_m":13480570.160844,
+    "geom:area_square_m":13480570.160845,
     "geom:bbox":"-3.5333485479,53.2207541416,-3.43754965719,53.2532820721",
     "geom:latitude":53.240342,
     "geom:longitude":-3.479126,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.238131,
     "lbl:longitude":-3.471868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cefnmeiriadog Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000145"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711885
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db8c6ed256fd4e8a5b4ec4a35af63d62",
+    "wof:geomhash":"56d5fa5381bbab888fe3be061634819e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404453957,
-    "wof:lastmodified":1566632806,
+    "wof:lastmodified":1695877376,
     "wof:name":"Cefnmeiriadog Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

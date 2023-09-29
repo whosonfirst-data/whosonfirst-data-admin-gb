@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000472,
-    "geom:area_square_m":3605371.148169,
+    "geom:area_square_m":3605371.14817,
     "geom:bbox":"-2.6288417259,51.8388251791,-2.57876689683,51.8639315192",
     "geom:latitude":51.854217,
     "geom:longitude":-2.605117,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.855321,
     "lbl:longitude":-2.611758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Welsh Bicknor"
@@ -63,12 +69,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000901"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125999373
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db9ddb6c257119dfdec86369c55e3082",
+    "wof:geomhash":"5db0ef4c4788f826740b11f644bd3e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404448461,
     "wof:label":"Welsh Bicknor Civil Parish",
-    "wof:lastmodified":1566631556,
+    "wof:lastmodified":1695876838,
     "wof:name":"Welsh Bicknor",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

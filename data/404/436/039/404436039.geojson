@@ -10,12 +10,18 @@
     "geom:latitude":51.083183,
     "geom:longitude":-2.444613,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.081677,
     "lbl:longitude":-2.464606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shepton Montague"
@@ -63,12 +69,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008751"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1343596679
     ],
     "wof:country":"GB",
-    "wof:geomhash":"479a7648a92549f0615e5a9ebfe9bac5",
+    "wof:geomhash":"dbfa4cc976f25a2cfae1ceceaa7727f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404436039,
     "wof:label":"Shepton Montague Civil Parish",
-    "wof:lastmodified":1566632358,
+    "wof:lastmodified":1695877168,
     "wof:name":"Shepton Montague",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002788,
-    "geom:area_square_m":21170052.950047,
+    "geom:area_square_m":21170052.950048,
     "geom:bbox":"1.5072854933,52.0967411692,1.59754748232,52.1434023858",
     "geom:latitude":52.121122,
     "geom:longitude":1.554903,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.121159,
     "lbl:longitude":1.554895,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sudbourne"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009459"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125930325
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e47fa86a64bafc357f1adf4f6e1515f3",
+    "wof:geomhash":"8d2331d12e5a68f04f6a15f7748d2430",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404453611,
     "wof:label":"Sudbourne Civil Parish",
-    "wof:lastmodified":1566632775,
+    "wof:lastmodified":1695877363,
     "wof:name":"Sudbourne",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

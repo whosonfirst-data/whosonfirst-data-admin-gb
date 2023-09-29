@@ -10,12 +10,18 @@
     "geom:latitude":51.317763,
     "geom:longitude":-1.79231,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.320211,
     "lbl:longitude":-1.799326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manningford"
@@ -55,12 +61,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011766"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758751
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e9b86f9e07374dd8d5a631c5d27c2c01",
+    "wof:geomhash":"5ceb863594abe19b838f6b45789dbdaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404436615,
     "wof:label":"Manningford Civil Parish",
-    "wof:lastmodified":1566632399,
+    "wof:lastmodified":1695877186,
     "wof:name":"Manningford",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.346399,
     "geom:longitude":-1.209642,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.34611,
     "lbl:longitude":-1.210389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North and South Anston"
@@ -43,12 +49,15 @@
         1360698851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000113"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757501
     ],
     "wof:country":"GB",
-    "wof:geomhash":"67221b8688e38edbc1bb1f0fb37281c4",
+    "wof:geomhash":"e481f9c524fdd988a8748b21f0bfb47f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404451931,
     "wof:label":"North and South Anston Civil Parish",
-    "wof:lastmodified":1566633418,
+    "wof:lastmodified":1695877648,
     "wof:name":"North and South Anston",
     "wof:parent_id":1360698851,
     "wof:placetype":"localadmin",

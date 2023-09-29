@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005957,
-    "geom:area_square_m":46277833.05001,
+    "geom:area_square_m":46277833.050011,
     "geom:bbox":"-3.54031515123,51.0253448475,-3.38096084529,51.1124324288",
     "geom:latitude":51.074773,
     "geom:longitude":-3.478439,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.068395,
     "lbl:longitude":-3.4929,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brompton Regis"
@@ -51,12 +57,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008828"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125844505
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9b295f1150a0bb7d63898b8f7ebe2cb5",
+    "wof:geomhash":"d7632d218833e1c3e3ab965075530113",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404443491,
     "wof:label":"Brompton Regis Civil Parish",
-    "wof:lastmodified":1566633024,
+    "wof:lastmodified":1695877470,
     "wof:name":"Brompton Regis",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

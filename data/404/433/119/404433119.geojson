@@ -10,12 +10,18 @@
     "geom:latitude":51.914384,
     "geom:longitude":-0.829981,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.911107,
     "lbl:longitude":-0.835674,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u063a\u0633\u062a\u0648\u0646"
@@ -66,12 +72,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001494"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126041983
     ],
     "wof:country":"GB",
-    "wof:geomhash":"21f1342a612ca8c715b6dd19da8bd1c8",
+    "wof:geomhash":"5cac748ae1b5c88815605a859ce8a636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404433119,
     "wof:label":"Hoggeston Civil Parish",
-    "wof:lastmodified":1566633686,
+    "wof:lastmodified":1695877769,
     "wof:name":"Hoggeston",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

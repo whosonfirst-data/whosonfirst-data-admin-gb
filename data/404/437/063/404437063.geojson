@@ -10,12 +10,18 @@
     "geom:latitude":53.191657,
     "geom:longitude":-1.656012,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.189851,
     "lbl:longitude":-1.658045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nether Haddon"
@@ -49,12 +55,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002790"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759213
     ],
     "wof:country":"GB",
-    "wof:geomhash":"539ee4009e7b42ff1ff4de895be7d253",
+    "wof:geomhash":"c427ea4e28d7b3f6a7086d17b0ccf060",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404437063,
     "wof:label":"Nether Haddon Civil Parish",
-    "wof:lastmodified":1566632086,
+    "wof:lastmodified":1695877052,
     "wof:name":"Nether Haddon",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

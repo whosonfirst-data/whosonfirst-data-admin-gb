@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002139,
-    "geom:area_square_m":16415275.141352,
+    "geom:area_square_m":16415275.141353,
     "geom:bbox":"-0.697328193524,51.6078033905,-0.63849968001,51.661741624",
     "geom:latitude":51.637279,
     "geom:longitude":-0.668184,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.63883,
     "lbl:longitude":-0.668186,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Penn"
@@ -84,12 +90,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001576"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125870559
     ],
     "wof:country":"GB",
-    "wof:geomhash":"42704ae150dc116e23b4c56f720b2dc1",
+    "wof:geomhash":"fd0cd9de38ebf39f058260215e31dbdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404444319,
     "wof:label":"Penn Civil Parish",
-    "wof:lastmodified":1566632980,
+    "wof:lastmodified":1695877448,
     "wof:name":"Penn",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

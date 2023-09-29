@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000903,
-    "geom:area_square_m":6875529.607367,
+    "geom:area_square_m":6875529.607366,
     "geom:bbox":"-1.74540573682,51.9922563038,-1.67027806309,52.0253126773",
     "geom:latitude":52.0054,
     "geom:longitude":-1.702309,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.999462,
     "lbl:longitude":-1.711102,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Batsford"
@@ -55,12 +61,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004191"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758389
     ],
     "wof:country":"GB",
-    "wof:geomhash":"467c0de38e29f201d2b59806fc0c41ca",
+    "wof:geomhash":"bc7a4a9dd39063f8bdc2a16cb815197c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404443513,
     "wof:label":"Batsford Civil Parish",
-    "wof:lastmodified":1566633083,
+    "wof:lastmodified":1695877497,
     "wof:name":"Batsford",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

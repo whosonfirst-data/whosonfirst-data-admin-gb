@@ -10,12 +10,18 @@
     "geom:latitude":52.559431,
     "geom:longitude":0.764403,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.557655,
     "lbl:longitude":0.758564,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Little Cressingham"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006138"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125787993
     ],
     "wof:country":"GB",
-    "wof:geomhash":"15852db6c9ca7b1ecd7e1b32dae6f092",
+    "wof:geomhash":"6f042529d73e1215557e9f7c99bff494",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404452185,
     "wof:label":"Little Cressingham Civil Parish",
-    "wof:lastmodified":1566632268,
+    "wof:lastmodified":1695877129,
     "wof:name":"Little Cressingham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

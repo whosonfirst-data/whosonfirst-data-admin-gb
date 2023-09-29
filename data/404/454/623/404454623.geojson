@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001352,
-    "geom:area_square_m":10176036.718969,
+    "geom:area_square_m":10176036.718968,
     "geom:bbox":"1.09255096788,52.4655255752,1.16376323295,52.5185608371",
     "geom:latitude":52.493343,
     "geom:longitude":1.133145,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.485552,
     "lbl:longitude":1.138537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bunwell"
@@ -60,12 +66,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006524"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125869603
     ],
     "wof:country":"GB",
-    "wof:geomhash":"427b44302b586f5be3f62bb4979b9510",
+    "wof:geomhash":"1da7e307b725d9f896e933a4e63ca0ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404454623,
     "wof:label":"Bunwell Civil Parish",
-    "wof:lastmodified":1566632714,
+    "wof:lastmodified":1695877334,
     "wof:name":"Bunwell",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

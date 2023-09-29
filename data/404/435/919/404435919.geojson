@@ -10,12 +10,18 @@
     "geom:latitude":51.762396,
     "geom:longitude":-2.234534,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.763345,
     "lbl:longitude":-2.234537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whiteshill and Ruscombe"
@@ -43,12 +49,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004384"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758023
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7b486c4216516c487ac2b9ee49520380",
+    "wof:geomhash":"ca12143674d50a269e039fcf65560a7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404435919,
     "wof:label":"Whiteshill and Ruscombe Civil Parish",
-    "wof:lastmodified":1566634083,
+    "wof:lastmodified":1695877942,
     "wof:name":"Whiteshill and Ruscombe",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

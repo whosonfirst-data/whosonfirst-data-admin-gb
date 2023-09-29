@@ -10,12 +10,18 @@
     "geom:latitude":51.348377,
     "geom:longitude":-2.446881,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.346664,
     "lbl:longitude":-2.446882,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Priston"
@@ -57,12 +63,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000985"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125926565
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d5cd2ef19341d6bc0b1705633b0af3d7",
+    "wof:geomhash":"465ed67a7e71dcddd4f4c1457abef11b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404443221,
     "wof:label":"Priston Civil Parish",
-    "wof:lastmodified":1566633004,
+    "wof:lastmodified":1695877460,
     "wof:name":"Priston",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

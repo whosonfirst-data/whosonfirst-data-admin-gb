@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001861,
-    "geom:area_square_m":14275695.750837,
+    "geom:area_square_m":14275695.750836,
     "geom:bbox":"-1.62617206596,51.6364847891,-1.56007846847,51.7003154649",
     "geom:latitude":51.665758,
     "geom:longitude":-1.589116,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.664308,
     "lbl:longitude":-1.592367,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Great Faringdon"
@@ -40,12 +46,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008216"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754159
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f7776fbcccb8dc0316fdc5b2024d9c04",
+    "wof:geomhash":"51a02de9c95cd5fc7ffcbf66c31c6f27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404438375,
     "wof:label":"Great Faringdon Civil Parish",
-    "wof:lastmodified":1566632638,
+    "wof:lastmodified":1695877295,
     "wof:name":"Great Faringdon",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

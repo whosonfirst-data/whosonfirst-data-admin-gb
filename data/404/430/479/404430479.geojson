@@ -10,12 +10,18 @@
     "geom:latitude":53.630997,
     "geom:longitude":-0.594941,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.629069,
     "lbl:longitude":-0.598863,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Roxby Cum Risby"
@@ -40,12 +46,15 @@
         1360698901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000575"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754473
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7ff778348f3520f08c939c7a4e6713a1",
+    "wof:geomhash":"d6214c85bae4a905ad42ab1f22fbafe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404430479,
     "wof:label":"Roxby Cum Risby Civil Parish",
-    "wof:lastmodified":1566631956,
+    "wof:lastmodified":1695876998,
     "wof:name":"Roxby Cum Risby",
     "wof:parent_id":1360698901,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.939513,
     "geom:longitude":-0.895425,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.938933,
     "lbl:longitude":-0.895931,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whatton-In-The-Vale"
@@ -40,12 +46,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008013"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757507
     ],
     "wof:country":"GB",
-    "wof:geomhash":"027b2dc29c283220c9b6fdacc1f38c61",
+    "wof:geomhash":"27b0409f4001a1df962c15a8bca4f41c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404442077,
     "wof:label":"Whatton-In-The-Vale Civil Parish",
-    "wof:lastmodified":1566633213,
+    "wof:lastmodified":1695877556,
     "wof:name":"Whatton-In-The-Vale",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

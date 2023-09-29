@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004545,
-    "geom:area_square_m":32969889.401588,
+    "geom:area_square_m":32969889.401587,
     "geom:bbox":"-0.475265491551,54.0429824409,-0.33442410158,54.111854394",
     "geom:latitude":54.076961,
     "geom:longitude":-0.401964,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.079101,
     "lbl:longitude":-0.401962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kilham"
@@ -57,12 +63,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000423"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125954455
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cb6b06092bd1901b99ae4bdccea5c6d0",
+    "wof:geomhash":"3bddbe7ddd80b1f4855b1bcf4dde3835",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404441833,
     "wof:label":"Kilham Civil Parish",
-    "wof:lastmodified":1566631753,
+    "wof:lastmodified":1695876906,
     "wof:name":"Kilham",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001646,
-    "geom:area_square_m":12771439.783071,
+    "geom:area_square_m":12771439.783072,
     "geom:bbox":"-1.2409736132,51.1145267191,-1.15362628592,51.1503425838",
     "geom:latitude":51.131463,
     "geom:longitude":-1.203573,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.130156,
     "lbl:longitude":-1.203584,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Northington"
@@ -54,12 +60,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004677"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126022519
     ],
     "wof:country":"GB",
-    "wof:geomhash":"416145f1fdc8f617dfc5c716898739f0",
+    "wof:geomhash":"10b7066b67dbdedc90a60325def96dbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404437331,
     "wof:label":"Northington Civil Parish",
-    "wof:lastmodified":1566632052,
+    "wof:lastmodified":1695877037,
     "wof:name":"Northington",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

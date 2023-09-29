@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000581,
-    "geom:area_square_m":4351190.206736,
+    "geom:area_square_m":4351190.206737,
     "geom:bbox":"1.11448704544,52.7449608733,1.16594622345,52.7666315569",
     "geom:latitude":52.756148,
     "geom:longitude":1.139445,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.756356,
     "lbl:longitude":1.141967,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Booton"
@@ -42,12 +48,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006206"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125790243
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a2ee432dd2945973f65ffb099c41fa7e",
+    "wof:geomhash":"54b237f70eefcf9fdc55d8d566b76ca8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404445607,
     "wof:label":"Booton Civil Parish",
-    "wof:lastmodified":1566633401,
+    "wof:lastmodified":1695877640,
     "wof:name":"Booton",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

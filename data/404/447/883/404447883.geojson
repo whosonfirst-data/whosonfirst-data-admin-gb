@@ -10,12 +10,18 @@
     "geom:latitude":50.86556,
     "geom:longitude":-0.745585,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.86033,
     "lbl:longitude":-0.750111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Westhampnett"
@@ -60,12 +66,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009939"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125884531
     ],
     "wof:country":"GB",
-    "wof:geomhash":"41d3334b71dd17067749568eb68a8cbf",
+    "wof:geomhash":"2ade6de91baaa2ea5cfedd4490584c50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404447883,
     "wof:label":"Westhampnett Civil Parish",
-    "wof:lastmodified":1566631306,
+    "wof:lastmodified":1695878298,
     "wof:name":"Westhampnett",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

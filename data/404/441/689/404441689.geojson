@@ -10,12 +10,18 @@
     "geom:latitude":53.291735,
     "geom:longitude":-3.205148,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.289665,
     "lbl:longitude":-3.209546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Holywell Community"
@@ -40,12 +46,15 @@
         1360698799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000192"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1210045845
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d76a86a431b3cdadafb4e06e789105ac",
+    "wof:geomhash":"8141d920bb44801f66f337e166e95e1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404441689,
-    "wof:lastmodified":1566631737,
+    "wof:lastmodified":1695876900,
     "wof:name":"Holywell Community",
     "wof:parent_id":1360698799,
     "wof:placetype":"localadmin",

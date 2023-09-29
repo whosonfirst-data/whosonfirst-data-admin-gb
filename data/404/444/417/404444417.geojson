@@ -10,12 +10,18 @@
     "geom:latitude":52.53382,
     "geom:longitude":-1.228766,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.535335,
     "lbl:longitude":-1.228322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Broughton Astley"
@@ -60,12 +66,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005408"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310034377
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3ed72fe0f849ba60adeafead9da6af5d",
+    "wof:geomhash":"6d9b754577205b9ec418ad57dad22bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404444417,
     "wof:label":"Broughton Astley Civil Parish",
-    "wof:lastmodified":1566632944,
+    "wof:lastmodified":1695877431,
     "wof:name":"Broughton Astley",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

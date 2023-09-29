@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000803,
-    "geom:area_square_m":6249887.430526,
+    "geom:area_square_m":6249887.430527,
     "geom:bbox":"-2.71710507485,50.9788073126,-2.67175818922,51.0221590043",
     "geom:latitude":51.000285,
     "geom:longitude":-2.689938,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.996293,
     "lbl:longitude":-2.688388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644\u0634\u064a\u0633\u062a\u0631"
@@ -87,12 +93,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008710"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101852511
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0dcd0e07df5c7a55b53603aea3ca9efb",
+    "wof:geomhash":"378cec53cd65d02600d46a21f461fe9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404449041,
     "wof:label":"Ilchester Civil Parish",
-    "wof:lastmodified":1566631367,
+    "wof:lastmodified":1695878324,
     "wof:name":"Ilchester",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003137,
-    "geom:area_square_m":23921025.858609,
+    "geom:area_square_m":23921025.858607,
     "geom:bbox":"-1.51723025666,51.8958057944,-1.38411428512,51.9436129186",
     "geom:latitude":51.92163,
     "geom:longitude":-1.454273,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.919392,
     "lbl:longitude":-1.444234,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Enstone"
@@ -75,12 +81,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008283"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125783341
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7610c14b8b6e6062aece0f90f65667a9",
+    "wof:geomhash":"2c05b3c7ce31f99cc444398ca2883ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404437571,
     "wof:label":"Enstone Civil Parish",
-    "wof:lastmodified":1566632149,
+    "wof:lastmodified":1695877078,
     "wof:name":"Enstone",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

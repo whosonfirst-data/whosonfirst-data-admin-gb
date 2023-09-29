@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011893,
-    "geom:area_square_m":84907539.060407,
+    "geom:area_square_m":84907539.060406,
     "geom:bbox":"-1.95458019486,54.6760114398,-1.78384424401,54.7970923764",
     "geom:latitude":54.733716,
     "geom:longitude":-1.881585,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.736531,
     "lbl:longitude":-1.880277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0648\u0644\u0633\u06cc\u0646\u0642\u0647\u0627\u0645"
@@ -66,12 +72,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010719"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873341
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc6527f61953764778d1b4b4b57cbae6",
+    "wof:geomhash":"5d5f1f2b1c26283f744ec53daac7b625",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404431365,
     "wof:label":"Wolsingham Civil Parish",
-    "wof:lastmodified":1566632433,
+    "wof:lastmodified":1695877201,
     "wof:name":"Wolsingham",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

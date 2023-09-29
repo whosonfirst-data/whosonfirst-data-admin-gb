@@ -10,12 +10,18 @@
     "geom:latitude":52.995327,
     "geom:longitude":-2.753495,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.994647,
     "lbl:longitude":-2.753712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u063a\u0644\u0646\u062f"
@@ -64,12 +70,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011189"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753437
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a9c0fd9115d28b02cf8a2be07f678290",
+    "wof:geomhash":"55338cfc596fffbaeb806441b956f26f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404429803,
     "wof:label":"Wigland Civil Parish",
-    "wof:lastmodified":1566633122,
+    "wof:lastmodified":1695877515,
     "wof:name":"Wigland",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

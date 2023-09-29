@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007044,
-    "geom:area_square_m":53798798.999354,
+    "geom:area_square_m":53798798.999353,
     "geom:bbox":"-2.88395522957,51.8022403376,-2.7375331138,51.8988521588",
     "geom:latitude":51.855567,
     "geom:longitude":-2.807412,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.858829,
     "lbl:longitude":-2.806304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangattock-Vibon-Avel Community"
@@ -40,12 +46,15 @@
         1360699109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000788"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711911
     ],
     "wof:country":"GB",
-    "wof:geomhash":"eedf553a42a6a8536aee5f85ef6e998e",
+    "wof:geomhash":"2c73f671dfd092cdfafb7808e1cb3581",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449095,
-    "wof:lastmodified":1566631433,
+    "wof:lastmodified":1695876785,
     "wof:name":"Llangattock-Vibon-Avel Community",
     "wof:parent_id":1360699109,
     "wof:placetype":"localadmin",

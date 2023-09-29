@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001406,
-    "geom:area_square_m":10526839.356472,
+    "geom:area_square_m":10526839.356471,
     "geom:bbox":"-0.95838406203,52.7169900967,-0.908583201142,52.7633337962",
     "geom:latitude":52.739562,
     "geom:longitude":-0.934522,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.737819,
     "lbl:longitude":-0.932521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kirby Bellars"
@@ -61,12 +67,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005540"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759529
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2d7a6111368d92d7abd27af16e33176e",
+    "wof:geomhash":"e2cdefc68a26681e68863ae10d841ee8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404453749,
     "wof:label":"Kirby Bellars Civil Parish",
-    "wof:lastmodified":1566632798,
+    "wof:lastmodified":1695877372,
     "wof:name":"Kirby Bellars",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

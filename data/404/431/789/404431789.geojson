@@ -10,12 +10,18 @@
     "geom:latitude":53.945603,
     "geom:longitude":-1.742282,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.944413,
     "lbl:longitude":-1.742277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Askwith"
@@ -55,12 +61,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007308"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756471
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4b8cd5d6c59e744f04ec6a7d453ea86c",
+    "wof:geomhash":"3da1d05d8f280c36d34da75fa0531023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404431789,
     "wof:label":"Askwith Civil Parish",
-    "wof:lastmodified":1566632531,
+    "wof:lastmodified":1695877246,
     "wof:name":"Askwith",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

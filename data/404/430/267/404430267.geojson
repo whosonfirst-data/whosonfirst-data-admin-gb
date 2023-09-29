@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002601,
-    "geom:area_square_m":19950197.286934,
+    "geom:area_square_m":19950197.286937,
     "geom:bbox":"-3.77830134212,51.6277741927,-3.66688020194,51.6844540976",
     "geom:latitude":51.656139,
     "geom:longitude":-3.727832,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.648325,
     "lbl:longitude":-3.740906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pelenna Community"
@@ -40,12 +46,15 @@
         1360698825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000620"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711921
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2fe09ee4837ba4e1a18bd820e40d5e1e",
+    "wof:geomhash":"11886f9a3d4c78ce7d1888bb9106d0d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404430267,
-    "wof:lastmodified":1566631970,
+    "wof:lastmodified":1695877004,
     "wof:name":"Pelenna Community",
     "wof:parent_id":1360698825,
     "wof:placetype":"localadmin",

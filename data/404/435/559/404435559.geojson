@@ -10,12 +10,18 @@
     "geom:latitude":51.729707,
     "geom:longitude":-3.949718,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.728806,
     "lbl:longitude":-3.948388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mawr Community"
@@ -40,12 +46,15 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000581"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711577
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fbd5265b0b9e4f8ffa6f28e06f59dfe6",
+    "wof:geomhash":"edd5a770bce40fc7be9b0332e39aa4ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404435559,
-    "wof:lastmodified":1566633985,
+    "wof:lastmodified":1695877888,
     "wof:name":"Mawr Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

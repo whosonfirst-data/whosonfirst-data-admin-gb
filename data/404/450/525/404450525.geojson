@@ -10,12 +10,18 @@
     "geom:latitude":53.631268,
     "geom:longitude":-1.476604,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.630639,
     "lbl:longitude":-1.476248,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chevet"
@@ -40,12 +46,15 @@
         1360698945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000225"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755289
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cd05ff109f880306711a3d97b45ccdae",
+    "wof:geomhash":"e22efe2533f4268789c05bf0a5563b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404450525,
     "wof:label":"Chevet Civil Parish",
-    "wof:lastmodified":1566633840,
+    "wof:lastmodified":1695877833,
     "wof:name":"Chevet",
     "wof:parent_id":1360698945,
     "wof:placetype":"localadmin",

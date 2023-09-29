@@ -10,12 +10,18 @@
     "geom:latitude":51.84807,
     "geom:longitude":-0.532831,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.846693,
     "lbl:longitude":-0.542891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0647\u064a\u0628\u0633\u0646\u062f"
@@ -75,12 +81,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011999"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033665
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f58febce7ae901839f73da18e27f9aca",
+    "wof:geomhash":"0b93ca6e72f37f6cd509a640efba0f3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404443819,
     "wof:label":"Whipsnade Civil Parish",
-    "wof:lastmodified":1566633007,
+    "wof:lastmodified":1695877462,
     "wof:name":"Whipsnade",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

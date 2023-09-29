@@ -10,12 +10,18 @@
     "geom:latitude":51.354075,
     "geom:longitude":0.313329,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.352963,
     "lbl:longitude":0.322561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ash-Cum-Ridley"
@@ -40,12 +46,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004982"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759675
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8c03696f26c5d99185af3fd0d716ccc8",
+    "wof:geomhash":"71d807e9788899b91b18cbbd39866d49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404445757,
     "wof:label":"Ash-Cum-Ridley Civil Parish",
-    "wof:lastmodified":1566633375,
+    "wof:lastmodified":1695877628,
     "wof:name":"Ash-Cum-Ridley",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

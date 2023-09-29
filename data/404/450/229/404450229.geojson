@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001623,
-    "geom:area_square_m":12406863.4345,
+    "geom:area_square_m":12406863.434499,
     "geom:bbox":"-1.1406945585,51.7991030801,-1.05916975591,51.8452912269",
     "geom:latitude":51.82399,
     "geom:longitude":-1.102027,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.822642,
     "lbl:longitude":-1.098012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0633\u062a\u0644"
@@ -60,12 +66,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001463"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125770567
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c410580a12a361cac612201559a0b03e",
+    "wof:geomhash":"8d116c59ba4533b31d135582ff52c76d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404450229,
     "wof:label":"Boarstall Civil Parish",
-    "wof:lastmodified":1566633756,
+    "wof:lastmodified":1695877799,
     "wof:name":"Boarstall",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

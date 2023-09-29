@@ -10,12 +10,18 @@
     "geom:latitude":54.34746,
     "geom:longitude":-1.741582,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.346194,
     "lbl:longitude":-1.739869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Hauxwell"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007476"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126045853
     ],
     "wof:country":"GB",
-    "wof:geomhash":"87f25b55c8b19acd28eb4f1dcd729c10",
+    "wof:geomhash":"d730ece94e09be191ef8b6bbd3382e79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404453587,
     "wof:label":"East Hauxwell Civil Parish",
-    "wof:lastmodified":1566632803,
+    "wof:lastmodified":1695877375,
     "wof:name":"East Hauxwell",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

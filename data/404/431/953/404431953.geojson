@@ -10,12 +10,18 @@
     "geom:latitude":51.707712,
     "geom:longitude":-1.82942,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.703624,
     "lbl:longitude":-1.828196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maiseyhampton"
@@ -40,12 +46,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004246"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756745
     ],
     "wof:country":"GB",
-    "wof:geomhash":"91b10e4bcf94e090ed8dc02dfd5a799f",
+    "wof:geomhash":"eaedc76109e1232e0ff20c3e2eb5e1c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404431953,
     "wof:label":"Maiseyhampton Civil Parish",
-    "wof:lastmodified":1566632434,
+    "wof:lastmodified":1695877202,
     "wof:name":"Maiseyhampton",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

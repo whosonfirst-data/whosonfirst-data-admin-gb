@@ -10,12 +10,18 @@
     "geom:latitude":52.110495,
     "geom:longitude":0.58583,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.109984,
     "lbl:longitude":0.586173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Poslingford"
@@ -57,12 +63,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009344"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327269283
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0e8310bd03724e90e901db460d82564f",
+    "wof:geomhash":"9ea4960f14ac004e1e552fd607fea472",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404455083,
     "wof:label":"Poslingford Civil Parish",
-    "wof:lastmodified":1566632276,
+    "wof:lastmodified":1695877132,
     "wof:name":"Poslingford",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00361,
-    "geom:area_square_m":26787894.147532,
+    "geom:area_square_m":26787894.147533,
     "geom:bbox":"-2.21132742141,53.0897432707,-2.12278311525,53.1597392151",
     "geom:latitude":53.121557,
     "geom:longitude":-2.16185,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.120782,
     "lbl:longitude":-2.162698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u062f\u0648\u0644\u0641"
@@ -90,12 +96,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009025"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871901
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b5484ce1abfba83d7f409f6acc9e259d",
+    "wof:geomhash":"56939c48220a7b5dbfcfe123ebb2ad37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404451293,
     "wof:label":"Biddulph Civil Parish",
-    "wof:lastmodified":1566633457,
+    "wof:lastmodified":1695877662,
     "wof:name":"Biddulph",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

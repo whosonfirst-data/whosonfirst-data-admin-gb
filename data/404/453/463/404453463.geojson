@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000511,
-    "geom:area_square_m":3868088.258777,
+    "geom:area_square_m":3868088.258776,
     "geom:bbox":"-2.93856311468,52.2540438009,-2.91075389853,52.2819428759",
     "geom:latitude":52.267421,
     "geom:longitude":-2.923653,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.269141,
     "lbl:longitude":-2.92339,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Byton"
@@ -51,12 +57,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000721"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1310530661
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e6b0424c1f41720031cff14fd38ed7a0",
+    "wof:geomhash":"460d978bea291997aa105d31d07f30ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404453463,
     "wof:label":"Byton Civil Parish",
-    "wof:lastmodified":1566632779,
+    "wof:lastmodified":1695877365,
     "wof:name":"Byton",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

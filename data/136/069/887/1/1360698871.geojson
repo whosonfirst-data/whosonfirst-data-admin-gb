@@ -441,13 +441,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25443,
         "fips:code":"UKH5",
+        "gbr-ons:gss_code":"1231",
         "gn:id":2644667,
         "gp:id":12602144,
         "hasc:id":"GB.LE",
+        "iso:code":"GB-LEC",
         "iso:id":"GB-LEC",
         "unlc:id":"GB-LEC",
         "wd:id":"Q23106"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698569
     ],
@@ -472,7 +478,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495388,
+    "wof:lastmodified":1695886405,
     "wof:name":"Leicestershire",
     "wof:parent_id":1360698569,
     "wof:placetype":"county",

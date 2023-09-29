@@ -10,12 +10,18 @@
     "geom:latitude":54.054143,
     "geom:longitude":-0.967182,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.056255,
     "lbl:longitude":-0.959916,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Flaxton"
@@ -63,12 +69,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007573"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977131
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f4f2be1afce086dc3b85e93b4dac56fe",
+    "wof:geomhash":"e9049d06c5f41a203344a9def8043c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454601,
     "wof:label":"Flaxton Civil Parish",
-    "wof:lastmodified":1566632726,
+    "wof:lastmodified":1695877340,
     "wof:name":"Flaxton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

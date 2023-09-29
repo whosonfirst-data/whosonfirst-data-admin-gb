@@ -10,12 +10,18 @@
     "geom:latitude":52.950697,
     "geom:longitude":-2.149918,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.95267,
     "lbl:longitude":-2.140805,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barlaston"
@@ -63,12 +69,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008984"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125947101
     ],
     "wof:country":"GB",
-    "wof:geomhash":"17057be63dac58e5951ea35fc3116f57",
+    "wof:geomhash":"5b00f31f339493dde9a46e31dcb03819",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404446713,
     "wof:label":"Barlaston Civil Parish",
-    "wof:lastmodified":1566631640,
+    "wof:lastmodified":1695876864,
     "wof:name":"Barlaston",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.066355,
     "geom:longitude":-1.146349,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.079415,
     "lbl:longitude":-1.144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huby"
@@ -63,12 +69,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007195"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126052895
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1c6aa76b6a7bc4f68432118fd9a850c8",
+    "wof:geomhash":"54a7fb689978a873978cee15b556a738",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404431831,
     "wof:label":"Huby Civil Parish",
-    "wof:lastmodified":1566632510,
+    "wof:lastmodified":1695877236,
     "wof:name":"Huby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

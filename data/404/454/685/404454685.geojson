@@ -10,12 +10,18 @@
     "geom:latitude":52.882756,
     "geom:longitude":-1.593093,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.881958,
     "lbl:longitude":-1.593407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Etwall"
@@ -69,12 +75,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002902"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125970275
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5666abd08e85d193fd04f5a799fad823",
+    "wof:geomhash":"4a19d016d1e8abb266cd3c2e6363fb43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404454685,
     "wof:label":"Etwall Civil Parish",
-    "wof:lastmodified":1566632710,
+    "wof:lastmodified":1695877332,
     "wof:name":"Etwall",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

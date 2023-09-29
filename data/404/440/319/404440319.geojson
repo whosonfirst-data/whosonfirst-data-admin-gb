@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003408,
-    "geom:area_square_m":25195470.618433,
+    "geom:area_square_m":25195470.618435,
     "geom:bbox":"-4.47053278029,53.249682731,-4.33099276242,53.309928222",
     "geom:latitude":53.279575,
     "geom:longitude":-4.396499,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.290791,
     "lbl:longitude":-4.390661,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bodffordd Community"
@@ -40,12 +46,15 @@
         1360698787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000005"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711571
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c72d131dc8585b4be8aed6cc6af068b3",
+    "wof:geomhash":"2d89827c34a41a8942bb72893436719e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404440319,
-    "wof:lastmodified":1566631230,
+    "wof:lastmodified":1695878262,
     "wof:name":"Bodffordd Community",
     "wof:parent_id":1360698787,
     "wof:placetype":"localadmin",

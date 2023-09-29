@@ -10,12 +10,18 @@
     "geom:latitude":52.18168,
     "geom:longitude":-1.072468,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.182874,
     "lbl:longitude":-1.072464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Litchborough"
@@ -69,12 +75,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006837"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225973665
     ],
     "wof:country":"GB",
-    "wof:geomhash":"29be0981227798cb527f1a7ba7f5cc6f",
+    "wof:geomhash":"5e9b6c6ca93844dd263f2f0b3f12d598",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404454637,
     "wof:label":"Litchborough Civil Parish",
-    "wof:lastmodified":1566632723,
+    "wof:lastmodified":1695877339,
     "wof:name":"Litchborough",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

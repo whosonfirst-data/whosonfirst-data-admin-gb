@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002669,
-    "geom:area_square_m":21204989.155438,
+    "geom:area_square_m":21204989.155435,
     "geom:bbox":"-5.22498605605,49.9744395115,-5.15589288454,50.0479786889",
     "geom:latitude":50.011645,
     "geom:longitude":-5.188182,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.010745,
     "lbl:longitude":-5.190523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grade-Ruan"
@@ -40,12 +46,15 @@
         1360699085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011439"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754457
     ],
     "wof:country":"GB",
-    "wof:geomhash":"897bc0fedb5549863c8cfa9ee5762bb2",
+    "wof:geomhash":"7ddb66f6ba65cfe6b0b8e69e024326bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404454977,
     "wof:label":"Grade-Ruan Civil Parish",
-    "wof:lastmodified":1566632681,
+    "wof:lastmodified":1695877317,
     "wof:name":"Grade-Ruan",
     "wof:parent_id":1360699085,
     "wof:placetype":"localadmin",

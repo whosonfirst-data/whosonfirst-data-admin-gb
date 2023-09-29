@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001794,
-    "geom:area_square_m":13567499.951735,
+    "geom:area_square_m":13567499.951736,
     "geom:bbox":"-1.36065770307,52.2711893687,-1.2858617288,52.3143425326",
     "geom:latitude":52.296211,
     "geom:longitude":-1.331735,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.294192,
     "lbl:longitude":-1.338537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leamington Hastings"
@@ -60,12 +66,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009679"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125806379
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c1e2ce2af6ebaf2dbd3c3fdefe91734e",
+    "wof:geomhash":"3c25fa08d67f740528161dd611611920",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404446555,
     "wof:label":"Leamington Hastings Civil Parish",
-    "wof:lastmodified":1566631655,
+    "wof:lastmodified":1695876869,
     "wof:name":"Leamington Hastings",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

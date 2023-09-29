@@ -10,12 +10,18 @@
     "geom:latitude":53.238949,
     "geom:longitude":-0.616415,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.239665,
     "lbl:longitude":-0.617043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skellingthorpe"
@@ -57,12 +63,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005831"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125874363
     ],
     "wof:country":"GB",
-    "wof:geomhash":"60810f6dda942c20f5d6c5fe0b0a6691",
+    "wof:geomhash":"eca52fddce33b4d4d1fc274891ccb85d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404439699,
     "wof:label":"Skellingthorpe Civil Parish",
-    "wof:lastmodified":1566631909,
+    "wof:lastmodified":1695876978,
     "wof:name":"Skellingthorpe",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

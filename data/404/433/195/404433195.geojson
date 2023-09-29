@@ -10,12 +10,18 @@
     "geom:latitude":52.990055,
     "geom:longitude":-2.731392,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.989608,
     "lbl:longitude":-2.731678,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Agden"
@@ -49,12 +55,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011033"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753909
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b731fd99e0623d3791f7fbc8ebabe4f1",
+    "wof:geomhash":"08cbee37cafd60b44888fe6193d8ab5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404433195,
     "wof:label":"Agden Civil Parish",
-    "wof:lastmodified":1566633642,
+    "wof:lastmodified":1695877748,
     "wof:name":"Agden",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

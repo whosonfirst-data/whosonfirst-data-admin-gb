@@ -10,12 +10,18 @@
     "geom:latitude":53.097653,
     "geom:longitude":-3.425465,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.102353,
     "lbl:longitude":-3.413725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cyffylliog Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000149"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327065373
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3249c19186812fcb8b24dab04ef15abe",
+    "wof:geomhash":"a7a78a543af31be1f79da926460bfe2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449765,
-    "wof:lastmodified":1566631358,
+    "wof:lastmodified":1695878320,
     "wof:name":"Cyffylliog Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.545057,
     "geom:longitude":-0.327859,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.549585,
     "lbl:longitude":-0.331835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0648\u0644\u062a\u0648\u0646"
@@ -63,12 +69,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001675"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1210045879
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7e269c2db17f05c503f78047699576e3",
+    "wof:geomhash":"31e2e6e565ec8d7fd479446bd01b5eb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404452711,
     "wof:label":"Alwalton Civil Parish",
-    "wof:lastmodified":1566632266,
+    "wof:lastmodified":1695877128,
     "wof:name":"Alwalton",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

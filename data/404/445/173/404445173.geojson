@@ -10,12 +10,18 @@
     "geom:latitude":52.058051,
     "geom:longitude":-0.418484,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.055203,
     "lbl:longitude":-0.425872,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Haynes"
@@ -78,12 +84,15 @@
         1360698767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011954"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125962683
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d3d66743a1a9d49a425f3321ca6f2c51",
+    "wof:geomhash":"05a37ee5626c531e05f6f0281acbfa7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404445173,
     "wof:label":"Haynes Civil Parish",
-    "wof:lastmodified":1566633350,
+    "wof:lastmodified":1695877617,
     "wof:name":"Haynes",
     "wof:parent_id":1360698767,
     "wof:placetype":"localadmin",

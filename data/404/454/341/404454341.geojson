@@ -10,12 +10,18 @@
     "geom:latitude":51.333673,
     "geom:longitude":-1.002637,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.338966,
     "lbl:longitude":-1.000129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stratfield Turgis"
@@ -54,12 +60,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004480"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126037507
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c95beada45913f15821655a3dc78fe39",
+    "wof:geomhash":"6d1ce201f896b9b409bc5aeb02cfa474",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454341,
     "wof:label":"Stratfield Turgis Civil Parish",
-    "wof:lastmodified":1566632682,
+    "wof:lastmodified":1695877317,
     "wof:name":"Stratfield Turgis",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

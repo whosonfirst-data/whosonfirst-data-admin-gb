@@ -10,12 +10,18 @@
     "geom:latitude":51.176657,
     "geom:longitude":-1.87982,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.176899,
     "lbl:longitude":-1.874917,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winterbourne Stoke"
@@ -54,12 +60,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011866"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126060289
     ],
     "wof:country":"GB",
-    "wof:geomhash":"36432324c07a5c18d1ff4ec7ef6c0c9c",
+    "wof:geomhash":"cd2526f9236446efe16fa90ccaa37590",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404453265,
     "wof:label":"Winterbourne Stoke Civil Parish",
-    "wof:lastmodified":1566632836,
+    "wof:lastmodified":1695877389,
     "wof:name":"Winterbourne Stoke",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

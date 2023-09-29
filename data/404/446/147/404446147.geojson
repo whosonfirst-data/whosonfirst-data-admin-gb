@@ -10,12 +10,18 @@
     "geom:latitude":52.6504,
     "geom:longitude":-1.36286,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.650338,
     "lbl:longitude":-1.365155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barlestone"
@@ -60,12 +66,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005492"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853627
     ],
     "wof:country":"GB",
-    "wof:geomhash":"11b3b7072aa01bff40b02f2376e2857e",
+    "wof:geomhash":"9b913b853488569948eceb48698f70ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404446147,
     "wof:label":"Barlestone Civil Parish",
-    "wof:lastmodified":1566631710,
+    "wof:lastmodified":1695876889,
     "wof:name":"Barlestone",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

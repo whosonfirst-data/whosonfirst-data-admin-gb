@@ -10,12 +10,18 @@
     "geom:latitude":53.521247,
     "geom:longitude":-1.522444,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.520595,
     "lbl:longitude":-1.522452,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stainborough"
@@ -54,12 +60,15 @@
         1360699091
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000053"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225979889
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1b90a5a7c4d08f1a1e064ceeb3d0e0b8",
+    "wof:geomhash":"380aaf3c9cd1d8ad3e5e58b4d17b7604",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404451247,
     "wof:label":"Stainborough Civil Parish",
-    "wof:lastmodified":1566633502,
+    "wof:lastmodified":1695877682,
     "wof:name":"Stainborough",
     "wof:parent_id":1360699091,
     "wof:placetype":"localadmin",

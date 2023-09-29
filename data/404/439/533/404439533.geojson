@@ -10,12 +10,18 @@
     "geom:latitude":52.17799,
     "geom:longitude":-1.759287,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.180133,
     "lbl:longitude":-1.757478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Luddington"
@@ -60,12 +66,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009758"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030683
     ],
     "wof:country":"GB",
-    "wof:geomhash":"46a837e6168d436f2f03a69127669b3a",
+    "wof:geomhash":"6e02a23975dc86d763839bd8698fc4da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404439533,
     "wof:label":"Luddington Civil Parish",
-    "wof:lastmodified":1566631833,
+    "wof:lastmodified":1695876941,
     "wof:name":"Luddington",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

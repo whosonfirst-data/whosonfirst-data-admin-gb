@@ -10,12 +10,18 @@
     "geom:latitude":51.855907,
     "geom:longitude":0.595805,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.859847,
     "lbl:longitude":0.591207,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cressing"
@@ -60,12 +66,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003892"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800507
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d1d3c216b3c19280d7d842bcc27f9f0f",
+    "wof:geomhash":"dbc4d6f1e9248aa0d82df818381310f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404452747,
     "wof:label":"Cressing Civil Parish",
-    "wof:lastmodified":1566632208,
+    "wof:lastmodified":1695877103,
     "wof:name":"Cressing",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

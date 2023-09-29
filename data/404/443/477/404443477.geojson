@@ -10,12 +10,18 @@
     "geom:latitude":52.303003,
     "geom:longitude":-2.420385,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.302871,
     "lbl:longitude":-2.420599,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stockton on Teme"
@@ -57,12 +63,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010343"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326465771
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a57dd774bfb53089c3c334a51b44f122",
+    "wof:geomhash":"282069102db010c5c8608136158c8c26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404443477,
     "wof:label":"Stockton on Teme Civil Parish",
-    "wof:lastmodified":1566633004,
+    "wof:lastmodified":1695877460,
     "wof:name":"Stockton on Teme",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

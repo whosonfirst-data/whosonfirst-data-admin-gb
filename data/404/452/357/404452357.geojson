@@ -10,12 +10,18 @@
     "geom:latitude":50.636242,
     "geom:longitude":-4.171537,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.636609,
     "lbl:longitude":-4.170941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coryton"
@@ -51,12 +57,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003315"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977369
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9c149fc16bb97c92777698e73528c100",
+    "wof:geomhash":"4c58bfa6fc8945f2105febe90a1b3ca8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404452357,
     "wof:label":"Coryton Civil Parish",
-    "wof:lastmodified":1566632219,
+    "wof:lastmodified":1695877107,
     "wof:name":"Coryton",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

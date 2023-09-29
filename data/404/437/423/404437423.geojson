@@ -10,12 +10,18 @@
     "geom:latitude":52.646054,
     "geom:longitude":0.676776,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.644325,
     "lbl:longitude":0.676784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u0648\u0627\u0641\u0647\u0627\u0645"
@@ -93,12 +99,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006180"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854957
     ],
     "wof:country":"GB",
-    "wof:geomhash":"545d759ff18861fc618f041d143c8b3e",
+    "wof:geomhash":"d725fa2a7193b7e69e9a1d8667e6234d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404437423,
     "wof:label":"Swaffham Civil Parish",
-    "wof:lastmodified":1566632078,
+    "wof:lastmodified":1695877048,
     "wof:name":"Swaffham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

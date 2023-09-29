@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001368,
-    "geom:area_square_m":10225265.234731,
+    "geom:area_square_m":10225265.234732,
     "geom:bbox":"0.500052364548,52.7881558975,0.623814246552,52.8077524013",
     "geom:latitude":52.797437,
     "geom:longitude":0.569072,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.798539,
     "lbl:longitude":0.574214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hillington"
@@ -45,12 +51,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006321"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125793129
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cc06f5eff356e9d541892e417972f8ac",
+    "wof:geomhash":"fefcb56bb0274d1dbaabd7c5ddcc1442",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404439407,
     "wof:label":"Hillington Civil Parish",
-    "wof:lastmodified":1566631866,
+    "wof:lastmodified":1695876957,
     "wof:name":"Hillington",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

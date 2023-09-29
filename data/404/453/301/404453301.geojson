@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000352,
-    "geom:area_square_m":2594724.112314,
+    "geom:area_square_m":2594724.112313,
     "geom:bbox":"-0.879139073959,53.345910661,-0.833607107468,53.3639143391",
     "geom:latitude":53.356284,
     "geom:longitude":-0.85855,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.356817,
     "lbl:longitude":-0.858199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Wheatley"
@@ -42,12 +48,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007838"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326859467
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1e10a82a4f989a4a3916c0d3b4aa39f3",
+    "wof:geomhash":"aa1d0443dff9d6bdca0320261ecad913",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404453301,
     "wof:label":"South Wheatley Civil Parish",
-    "wof:lastmodified":1566632759,
+    "wof:lastmodified":1695877355,
     "wof:name":"South Wheatley",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

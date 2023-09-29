@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001053,
-    "geom:area_square_m":7987399.76388,
+    "geom:area_square_m":7987399.763878,
     "geom:bbox":"-3.12246280729,52.1546913928,-3.05761847344,52.184185722",
     "geom:latitude":52.168706,
     "geom:longitude":-3.090758,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.16992,
     "lbl:longitude":-3.093449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0425\u0430\u043d\u0442\u044b\u043d\u0433\u0442\u0430\u043d"
@@ -124,12 +130,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000780"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756405
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc94987e7e11a85baabce65a60ea8497",
+    "wof:geomhash":"0e058e33ccc3636bea70995d2de6e28a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +151,7 @@
     ],
     "wof:id":404434835,
     "wof:label":"Huntington Civil Parish",
-    "wof:lastmodified":1566633564,
+    "wof:lastmodified":1695877715,
     "wof:name":"Huntington",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":54.130815,
     "geom:longitude":-1.030642,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.130873,
     "lbl:longitude":-1.029128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dalby-Cum-Skewsby"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007162"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753751
     ],
     "wof:country":"GB",
-    "wof:geomhash":"db6336c1c36ef322066b0df9dc3da561",
+    "wof:geomhash":"88fa0dd8f462dcc13a683e0626438d24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404454533,
     "wof:label":"Dalby-Cum-Skewsby Civil Parish",
-    "wof:lastmodified":1566632646,
+    "wof:lastmodified":1695877299,
     "wof:name":"Dalby-Cum-Skewsby",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

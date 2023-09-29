@@ -10,12 +10,18 @@
     "geom:latitude":54.628896,
     "geom:longitude":-1.654176,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.630056,
     "lbl:longitude":-1.658222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u06cc\u0644\u062f\u0648\u0646"
@@ -78,12 +84,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010691"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873329
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c0fc3d4c1fdfaa3c930e1b5324fab96d",
+    "wof:geomhash":"263ad9815c9ddc91bfb0a2ccc851ee00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404452391,
     "wof:label":"Shildon Civil Parish",
-    "wof:lastmodified":1566632166,
+    "wof:lastmodified":1695877085,
     "wof:name":"Shildon",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

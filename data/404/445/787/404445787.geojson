@@ -10,12 +10,18 @@
     "geom:latitude":51.393403,
     "geom:longitude":-0.881304,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.394271,
     "lbl:longitude":-0.881606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0647\u0645"
@@ -66,12 +72,15 @@
         1360698967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012088"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293418645
     ],
     "wof:country":"GB",
-    "wof:geomhash":"13a7c248e2dd8d3f7e63acfb67c4bc75",
+    "wof:geomhash":"37e494413007aea83e3011b2419812c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404445787,
     "wof:label":"Barkham Civil Parish",
-    "wof:lastmodified":1566633411,
+    "wof:lastmodified":1695877645,
     "wof:name":"Barkham",
     "wof:parent_id":1360698967,
     "wof:placetype":"localadmin",

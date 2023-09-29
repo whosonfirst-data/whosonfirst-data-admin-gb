@@ -10,12 +10,18 @@
     "geom:latitude":52.674971,
     "geom:longitude":-0.806261,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.675948,
     "lbl:longitude":-0.804438,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Knossington and Cold Overton"
@@ -43,12 +49,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005530"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758707
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7fadab9fe6bd799df25db77f8565cad1",
+    "wof:geomhash":"19935bbbd35e5dd99ee09d5caed6d8c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404452969,
     "wof:label":"Knossington and Cold Overton Civil Parish",
-    "wof:lastmodified":1566632225,
+    "wof:lastmodified":1695877110,
     "wof:name":"Knossington and Cold Overton",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

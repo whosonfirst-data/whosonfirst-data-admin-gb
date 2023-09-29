@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00109,
-    "geom:area_square_m":8194918.729542,
+    "geom:area_square_m":8194918.729541,
     "geom:bbox":"-1.57241074447,52.5426839195,-1.50271586864,52.5739804244",
     "geom:latitude":52.558703,
     "geom:longitude":-1.538971,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.560904,
     "lbl:longitude":-1.536072,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Mancetter"
@@ -63,12 +69,15 @@
         1360698891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009647"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125988613
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d4858aca4b019fe95030aea06e5481b3",
+    "wof:geomhash":"7ed810f651fbe6e6440fd94805f73af5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439041,
     "wof:label":"Mancetter Civil Parish",
-    "wof:lastmodified":1566631845,
+    "wof:lastmodified":1695876947,
     "wof:name":"Mancetter",
     "wof:parent_id":1360698891,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005927,
-    "geom:area_square_m":44576045.577276,
+    "geom:area_square_m":44576045.577277,
     "geom:bbox":"-3.51384851687,52.5029564216,-3.38698700934,52.5790382344",
     "geom:latitude":52.539037,
     "geom:longitude":-3.456132,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.539041,
     "lbl:longitude":-3.457331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Caersws Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000259"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800339
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cae834eb9e1c2cefa1f98404637c3689",
+    "wof:geomhash":"474a2d26f6c78d2205b67ee99f5fd106",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404449351,
-    "wof:lastmodified":1566631408,
+    "wof:lastmodified":1695878342,
     "wof:name":"Caersws Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

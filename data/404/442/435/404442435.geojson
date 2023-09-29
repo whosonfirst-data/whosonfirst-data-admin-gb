@@ -10,12 +10,18 @@
     "geom:latitude":53.984568,
     "geom:longitude":-1.455611,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.983002,
     "lbl:longitude":-1.455618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Plompton"
@@ -52,12 +58,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007406"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757811
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a71bd1696eba796ede3fc738aba642e2",
+    "wof:geomhash":"119bc13d5dffd6ae4494f90ee6808fac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404442435,
     "wof:label":"Plompton Civil Parish",
-    "wof:lastmodified":1566633288,
+    "wof:lastmodified":1695877589,
     "wof:name":"Plompton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

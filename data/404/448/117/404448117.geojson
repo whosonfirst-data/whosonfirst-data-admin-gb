@@ -10,12 +10,18 @@
     "geom:latitude":51.749106,
     "geom:longitude":-4.659811,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.749558,
     "lbl:longitude":-4.652605,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Amroth Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000933"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125878505
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6daa5074003afeffac846d9a8669e0fe",
+    "wof:geomhash":"ff6ecab6de0d5f65c876375aab5a8271",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404448117,
-    "wof:lastmodified":1566631521,
+    "wof:lastmodified":1695876821,
     "wof:name":"Amroth Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

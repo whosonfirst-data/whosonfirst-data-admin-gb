@@ -10,12 +10,18 @@
     "geom:latitude":51.331893,
     "geom:longitude":0.691499,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.331584,
     "lbl:longitude":0.691499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Borden"
@@ -90,12 +96,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005045"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125987583
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1e23b715f7076e8292e54f2249b78df7",
+    "wof:geomhash":"35ddab055db564f2d6e37f504cd46de8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
     ],
     "wof:id":404446747,
     "wof:label":"Borden Civil Parish",
-    "wof:lastmodified":1566631643,
+    "wof:lastmodified":1695876865,
     "wof:name":"Borden",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

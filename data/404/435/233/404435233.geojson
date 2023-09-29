@@ -10,12 +10,18 @@
     "geom:latitude":54.526478,
     "geom:longitude":-1.910793,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.526193,
     "lbl:longitude":-1.911255,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Egglestone Abbey"
@@ -43,12 +49,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010623"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757039
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5edbe1e3130092eca1cea7142616c9c4",
+    "wof:geomhash":"3c485e5ae62a8b4db4be881fcfb1be42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404435233,
     "wof:label":"Egglestone Abbey Civil Parish",
-    "wof:lastmodified":1566634019,
+    "wof:lastmodified":1695877906,
     "wof:name":"Egglestone Abbey",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.779166,
     "geom:longitude":-2.563813,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.772694,
     "lbl:longitude":-2.5628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "West Dean"
@@ -58,12 +64,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004332"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753113
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32e831086b00ce9747197cc0c9b166d6",
+    "wof:geomhash":"a44bbc9a4ca85407199bbc72d279430d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404437749,
     "wof:label":"West Dean Civil Parish",
-    "wof:lastmodified":1566632096,
+    "wof:lastmodified":1695877058,
     "wof:name":"West Dean",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

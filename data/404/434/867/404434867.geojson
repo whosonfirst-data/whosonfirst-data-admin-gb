@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000718,
-    "geom:area_square_m":5211778.585161,
+    "geom:area_square_m":5211778.58516,
     "geom:bbox":"-0.833414592605,54.0492685848,-0.775592318697,54.0692663253",
     "geom:latitude":54.058868,
     "geom:longitude":-0.803925,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.059774,
     "lbl:longitude":-0.806246,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leavening"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007599"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360213853
     ],
     "wof:country":"GB",
-    "wof:geomhash":"43c583c2a9dbc9f7be5bd029804df156",
+    "wof:geomhash":"edc71f22ae67dda44c9cc18ab7d934aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404434867,
     "wof:label":"Leavening Civil Parish",
-    "wof:lastmodified":1566633568,
+    "wof:lastmodified":1695877717,
     "wof:name":"Leavening",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

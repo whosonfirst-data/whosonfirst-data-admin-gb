@@ -10,12 +10,18 @@
     "geom:latitude":53.112091,
     "geom:longitude":-3.31195,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.115214,
     "lbl:longitude":-3.309854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ruthin Community"
@@ -40,12 +46,15 @@
         1360698781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000174"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872007
     ],
     "wof:country":"GB",
-    "wof:geomhash":"551811747cf536d39ede692ef3f012fd",
+    "wof:geomhash":"f311216427992b8e1edc5691d5c637fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404454873,
-    "wof:lastmodified":1566632662,
+    "wof:lastmodified":1695877307,
     "wof:name":"Ruthin Community",
     "wof:parent_id":1360698781,
     "wof:placetype":"localadmin",

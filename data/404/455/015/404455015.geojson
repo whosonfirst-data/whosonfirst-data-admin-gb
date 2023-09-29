@@ -10,12 +10,18 @@
     "geom:latitude":54.359884,
     "geom:longitude":-1.815469,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.358292,
     "lbl:longitude":-1.817553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Walburn"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007534"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754525
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6087334efc1442ec076a7d8838f50f24",
+    "wof:geomhash":"669ba9a0d045f84d45a0f9098821b982",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404455015,
     "wof:label":"Walburn Civil Parish",
-    "wof:lastmodified":1566632275,
+    "wof:lastmodified":1695877131,
     "wof:name":"Walburn",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

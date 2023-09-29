@@ -10,12 +10,18 @@
     "geom:latitude":51.860654,
     "geom:longitude":-2.718635,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.855131,
     "lbl:longitude":-2.710956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Welsh Newton"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000902"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125857897
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9780f9ac363f77a93a8e39042d1cf562",
+    "wof:geomhash":"a7e6037e9c34c78229776a44343b29fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404433813,
     "wof:label":"Welsh Newton Civil Parish",
-    "wof:lastmodified":1566633714,
+    "wof:lastmodified":1695877781,
     "wof:name":"Welsh Newton",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.217743,
     "geom:longitude":-1.498161,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.217865,
     "lbl:longitude":-1.498953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Holymoorside and Walton"
@@ -43,12 +49,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002872"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757065
     ],
     "wof:country":"GB",
-    "wof:geomhash":"40424132e1faebfb8346a40424e5794e",
+    "wof:geomhash":"d8fd395e85065d46604a91601fa9606a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404448557,
     "wof:label":"Holymoorside and Walton Civil Parish",
-    "wof:lastmodified":1566631469,
+    "wof:lastmodified":1695876801,
     "wof:name":"Holymoorside and Walton",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

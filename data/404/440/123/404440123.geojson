@@ -10,12 +10,18 @@
     "geom:latitude":52.990142,
     "geom:longitude":-1.710708,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.99134,
     "lbl:longitude":-1.708263,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osmaston"
@@ -45,12 +51,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002796"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882787
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c1c77bf5bd7e84aa4afca29da040336",
+    "wof:geomhash":"c0011b5b48ec0ed838148bd6bbc58a42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404440123,
     "wof:label":"Osmaston Civil Parish",
-    "wof:lastmodified":1566631223,
+    "wof:lastmodified":1695878259,
     "wof:name":"Osmaston",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.556176,
     "geom:longitude":-2.466173,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.554421,
     "lbl:longitude":-2.459949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Iron Acton"
@@ -63,12 +69,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001058"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125953431
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f5877214a3d2216993dc523841333411",
+    "wof:geomhash":"b7dba9cd0a2db83d59bd1d0c10e97624",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404437061,
     "wof:label":"Iron Acton Civil Parish",
-    "wof:lastmodified":1566632138,
+    "wof:lastmodified":1695877073,
     "wof:name":"Iron Acton",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

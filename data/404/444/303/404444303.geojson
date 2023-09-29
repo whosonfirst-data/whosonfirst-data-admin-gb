@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003072,
-    "geom:area_square_m":23316466.720369,
+    "geom:area_square_m":23316466.72037,
     "geom:bbox":"-2.45481435867,52.106333831,-2.34463198262,52.1550647255",
     "geom:latitude":52.131374,
     "geom:longitude":-2.398006,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.131313,
     "lbl:longitude":-2.397996,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cradley"
@@ -51,12 +57,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000732"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125879139
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ae72b9af0b7ed11aa95793214c572a81",
+    "wof:geomhash":"2a4f63163feffd2df7ec455e63b33fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404444303,
     "wof:label":"Cradley Civil Parish",
-    "wof:lastmodified":1566632929,
+    "wof:lastmodified":1695877426,
     "wof:name":"Cradley",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

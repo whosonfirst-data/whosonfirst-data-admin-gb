@@ -10,12 +10,18 @@
     "geom:latitude":51.535984,
     "geom:longitude":-2.364378,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.532893,
     "lbl:longitude":-2.367704,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sodbury"
@@ -40,12 +46,15 @@
         1360698895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001071"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754827
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a890453d3dfcff3b3c4b39183b588e23",
+    "wof:geomhash":"4e2e80a9a49199f47add2857e6631cb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404447113,
     "wof:label":"Sodbury Civil Parish",
-    "wof:lastmodified":1566631342,
+    "wof:lastmodified":1695878315,
     "wof:name":"Sodbury",
     "wof:parent_id":1360698895,
     "wof:placetype":"localadmin",

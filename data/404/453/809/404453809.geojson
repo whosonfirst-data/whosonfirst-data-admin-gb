@@ -10,12 +10,18 @@
     "geom:latitude":51.149863,
     "geom:longitude":-0.058376,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.150095,
     "lbl:longitude":-0.053496,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Felbridge"
@@ -54,12 +60,15 @@
         1360698887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009587"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125817413
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e78faf9a745df24577e169c21e9f2e82",
+    "wof:geomhash":"22e79d3d29071b0ce9adb334bf4dc9ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404453809,
     "wof:label":"Felbridge Civil Parish",
-    "wof:lastmodified":1566632834,
+    "wof:lastmodified":1695877389,
     "wof:name":"Felbridge",
     "wof:parent_id":1360698887,
     "wof:placetype":"localadmin",

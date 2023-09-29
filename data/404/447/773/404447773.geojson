@@ -10,12 +10,18 @@
     "geom:latitude":53.914349,
     "geom:longitude":-0.821153,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.914788,
     "lbl:longitude":-0.818318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Allerthorpe"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000345"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125799319
     ],
     "wof:country":"GB",
-    "wof:geomhash":"99bdd7e5c84a692dc14857258a0f1fea",
+    "wof:geomhash":"692f4ce99c6b4a04980b642b1ae584dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404447773,
     "wof:label":"Allerthorpe Civil Parish",
-    "wof:lastmodified":1566631340,
+    "wof:lastmodified":1695878314,
     "wof:name":"Allerthorpe",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

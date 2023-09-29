@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002271,
-    "geom:area_square_m":16560816.664911,
+    "geom:area_square_m":16560816.664912,
     "geom:bbox":"-0.798578404539,53.8475203947,-0.723377668776,53.8886717267",
     "geom:latitude":53.866931,
     "geom:longitude":-0.761031,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.869067,
     "lbl:longitude":-0.760313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Everingham"
@@ -51,12 +57,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000390"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125903457
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bc0f55b0024387581f20873809ac3d23",
+    "wof:geomhash":"bb34388a6417a82536bcd4af28dbd98a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404435689,
     "wof:label":"Everingham Civil Parish",
-    "wof:lastmodified":1566634000,
+    "wof:lastmodified":1695877897,
     "wof:name":"Everingham",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

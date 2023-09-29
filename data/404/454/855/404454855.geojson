@@ -10,12 +10,18 @@
     "geom:latitude":51.452053,
     "geom:longitude":-1.946219,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.452295,
     "lbl:longitude":-1.953949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Compton Bassett"
@@ -57,12 +63,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011686"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126000797
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c2f36cb6b10ed1d784e668b697432219",
+    "wof:geomhash":"3cc6626753caf393a67543a7567c8e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404454855,
     "wof:label":"Compton Bassett Civil Parish",
-    "wof:lastmodified":1566632730,
+    "wof:lastmodified":1695877341,
     "wof:name":"Compton Bassett",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

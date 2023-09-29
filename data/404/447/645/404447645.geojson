@@ -10,12 +10,18 @@
     "geom:latitude":50.992994,
     "geom:longitude":-0.208861,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.993483,
     "lbl:longitude":-0.20945,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bolney"
@@ -57,12 +63,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009982"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125950979
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e3e23470d952389c056be10c5f4cdb4d",
+    "wof:geomhash":"67ede0cd3aca9b68dfe499b75e4b9b79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404447645,
     "wof:label":"Bolney Civil Parish",
-    "wof:lastmodified":1566631257,
+    "wof:lastmodified":1695878275,
     "wof:name":"Bolney",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

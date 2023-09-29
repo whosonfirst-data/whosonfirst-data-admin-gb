@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001396,
-    "geom:area_square_m":10713609.942994,
+    "geom:area_square_m":10713609.942993,
     "geom:bbox":"-3.1026498248,51.6066270679,-3.0368418214,51.6600998624",
     "geom:latitude":51.630381,
     "geom:longitude":-3.068897,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.630978,
     "lbl:longitude":-3.06938,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Henllys Community"
@@ -40,12 +46,15 @@
         1360698919
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000764"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125906791
     ],
     "wof:country":"GB",
-    "wof:geomhash":"773361a0482805bea05b549a774b8ea0",
+    "wof:geomhash":"b203b160b27e9ad495aef13a8d0cbb67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404444621,
-    "wof:lastmodified":1566632880,
+    "wof:lastmodified":1695877409,
     "wof:name":"Henllys Community",
     "wof:parent_id":1360698919,
     "wof:placetype":"localadmin",

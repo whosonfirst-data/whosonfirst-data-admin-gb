@@ -10,12 +10,18 @@
     "geom:latitude":54.067051,
     "geom:longitude":-0.256524,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.069216,
     "lbl:longitude":-0.266834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carnaby"
@@ -48,12 +54,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000372"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972103
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a35883ec8cb209c9a2cecc010fb168b4",
+    "wof:geomhash":"9ac8cfe80ae434787f8fd986d57502a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404451311,
     "wof:label":"Carnaby Civil Parish",
-    "wof:lastmodified":1566633521,
+    "wof:lastmodified":1695877692,
     "wof:name":"Carnaby",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

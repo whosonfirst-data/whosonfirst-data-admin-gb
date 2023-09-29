@@ -10,12 +10,18 @@
     "geom:latitude":52.510906,
     "geom:longitude":-2.409837,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.512317,
     "lbl:longitude":-2.409464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eardington"
@@ -63,12 +69,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011265"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125935025
     ],
     "wof:country":"GB",
-    "wof:geomhash":"2f91efce497fe9cbf7d072390503db42",
+    "wof:geomhash":"dd9cf63d6163194a2426e3934fcfc713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404436997,
     "wof:label":"Eardington Civil Parish",
-    "wof:lastmodified":1566632328,
+    "wof:lastmodified":1695877154,
     "wof:name":"Eardington",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

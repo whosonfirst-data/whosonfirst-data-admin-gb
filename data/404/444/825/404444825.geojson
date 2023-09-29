@@ -10,12 +10,18 @@
     "geom:latitude":53.820109,
     "geom:longitude":-1.327876,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.821226,
     "lbl:longitude":-1.328268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lotherton Cum Aberford"
@@ -40,12 +46,15 @@
         1360698749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000202"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759045
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9556cd7215daaa0e689fdcdc260c193d",
+    "wof:geomhash":"ae99a100020668abe6cad7f679cee12b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404444825,
     "wof:label":"Lotherton Cum Aberford Civil Parish",
-    "wof:lastmodified":1566632954,
+    "wof:lastmodified":1695877436,
     "wof:name":"Lotherton Cum Aberford",
     "wof:parent_id":1360698749,
     "wof:placetype":"localadmin",

@@ -405,13 +405,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25472,
         "fips:code":"UKJ1",
+        "gbr-ons:gss_code":"1234",
         "gn:id":2641429,
         "gp:id":12602146,
         "hasc:id":"GB.NA",
+        "iso:code":"GB-NTH",
         "iso:id":"GB-NTH",
         "unlc:id":"GB-NTH",
         "wd:id":"Q23115"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1360698577
     ],
@@ -436,7 +442,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495384,
+    "wof:lastmodified":1695886278,
     "wof:name":"Northamptonshire",
     "wof:parent_id":1360698577,
     "wof:placetype":"county",

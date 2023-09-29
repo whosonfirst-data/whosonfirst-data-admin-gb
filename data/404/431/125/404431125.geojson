@@ -10,12 +10,18 @@
     "geom:latitude":51.402934,
     "geom:longitude":-2.761713,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.401523,
     "lbl:longitude":-2.761371,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u0648\u06a9\u0644\u06cc"
@@ -63,12 +69,15 @@
         1360699111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001005"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1327058779
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fdbb94bdedea458fdb78a4b1f2dcff4e",
+    "wof:geomhash":"1b73c27f150d7d45f55186000df8c81d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404431125,
     "wof:label":"Brockley Civil Parish",
-    "wof:lastmodified":1566632530,
+    "wof:lastmodified":1695877245,
     "wof:name":"Brockley",
     "wof:parent_id":1360699111,
     "wof:placetype":"localadmin",

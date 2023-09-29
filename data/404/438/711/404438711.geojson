@@ -10,12 +10,18 @@
     "geom:latitude":52.4996,
     "geom:longitude":-1.106282,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.500365,
     "lbl:longitude":-1.108283,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bruntingthorpe"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005409"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125804977
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e507fffc33f574288325895a58ebd5fc",
+    "wof:geomhash":"744655efe35df6be61402b0b110a810b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404438711,
     "wof:label":"Bruntingthorpe Civil Parish",
-    "wof:lastmodified":1566632638,
+    "wof:lastmodified":1695877296,
     "wof:name":"Bruntingthorpe",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001573,
-    "geom:area_square_m":11513083.307066,
+    "geom:area_square_m":11513083.307067,
     "geom:bbox":"-0.951497295842,53.6734871526,-0.876731437463,53.7275617953",
     "geom:latitude":53.704794,
     "geom:longitude":-0.913091,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.705386,
     "lbl:longitude":-0.921825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Airmyn"
@@ -60,12 +66,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000343"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125908093
     ],
     "wof:country":"GB",
-    "wof:geomhash":"729fe2a57f3e61892f4c69184bb3ea4c",
+    "wof:geomhash":"900c39779e0de70ff75832548ff2c64d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404448285,
     "wof:label":"Airmyn Civil Parish",
-    "wof:lastmodified":1566631544,
+    "wof:lastmodified":1695876833,
     "wof:name":"Airmyn",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

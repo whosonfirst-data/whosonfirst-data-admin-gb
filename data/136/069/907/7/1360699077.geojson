@@ -497,12 +497,18 @@
     "wof:concordances":{
         "digitalenvoy:region_code":25352,
         "fips:code":"UKA7",
+        "gbr-ons:gss_code":"12CN",
         "gn:id":3333125,
         "gp:id":-12602191,
         "hasc:id":"GB.BI",
+        "iso:code":"GB-BIR",
         "iso:id":"GB-BIR",
         "unlc:id":"GB-BIR"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101750467
     ],
@@ -527,7 +533,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1694495389,
+    "wof:lastmodified":1695886408,
     "wof:name":"Birmingham",
     "wof:parent_id":1360698605,
     "wof:placetype":"county",

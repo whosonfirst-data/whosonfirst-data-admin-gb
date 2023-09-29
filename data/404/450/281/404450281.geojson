@@ -10,12 +10,18 @@
     "geom:latitude":52.132364,
     "geom:longitude":-2.491265,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.136289,
     "lbl:longitude":-2.495405,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bishop's Frome"
@@ -57,12 +63,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000697"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243582701
     ],
     "wof:country":"GB",
-    "wof:geomhash":"77a86f60ba45b00f5eaab286a90b1dc7",
+    "wof:geomhash":"bc0bbad2b4a41c2bfa924eb298cdbb2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404450281,
     "wof:label":"Bishop's Frome Civil Parish",
-    "wof:lastmodified":1566633768,
+    "wof:lastmodified":1695877805,
     "wof:name":"Bishop's Frome",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

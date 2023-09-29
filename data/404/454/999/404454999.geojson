@@ -10,12 +10,18 @@
     "geom:latitude":51.044453,
     "geom:longitude":-1.179756,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.050341,
     "lbl:longitude":-1.174276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cheriton"
@@ -63,12 +69,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004656"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125800161
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f394d7e9c7d2d2e3e9101acd8ca3ca08",
+    "wof:geomhash":"68070e96e7290bdb73fb3bece346e095",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404454999,
     "wof:label":"Cheriton Civil Parish",
-    "wof:lastmodified":1566632653,
+    "wof:lastmodified":1695877303,
     "wof:name":"Cheriton",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

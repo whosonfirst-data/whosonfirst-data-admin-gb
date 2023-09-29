@@ -10,12 +10,18 @@
     "geom:latitude":54.314325,
     "geom:longitude":-1.840793,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.311954,
     "lbl:longitude":-1.840243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0628\u0648\u0631\u0646"
@@ -84,12 +90,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007497"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101873299
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c74f33c190fa99b9a91bad158fca6285",
+    "wof:geomhash":"c387157b1cdec0680b7a36955212edd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404432753,
     "wof:label":"Leyburn Civil Parish",
-    "wof:lastmodified":1566633857,
+    "wof:lastmodified":1695877839,
     "wof:name":"Leyburn",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

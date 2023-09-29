@@ -10,12 +10,18 @@
     "geom:latitude":52.912309,
     "geom:longitude":1.002388,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.913006,
     "lbl:longitude":1.013536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Field Dalling"
@@ -58,12 +64,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006415"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754071
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f38e1b4304c779118fb662906edc5fb7",
+    "wof:geomhash":"b68363af0f0535d4680a785cb50938ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404449707,
     "wof:label":"Field Dalling Civil Parish",
-    "wof:lastmodified":1566631362,
+    "wof:lastmodified":1695878322,
     "wof:name":"Field Dalling",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

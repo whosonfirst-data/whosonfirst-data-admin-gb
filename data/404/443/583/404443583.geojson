@@ -10,12 +10,18 @@
     "geom:latitude":53.061106,
     "geom:longitude":-1.55114,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.063205,
     "lbl:longitude":-1.546779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ashleyhay"
@@ -55,12 +61,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002666"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758425
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0cb8f61e7f7b5385e5391e794f416a04",
+    "wof:geomhash":"94718dee711e70ae8b5a614fd39078b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404443583,
     "wof:label":"Ashleyhay Civil Parish",
-    "wof:lastmodified":1566633089,
+    "wof:lastmodified":1695877500,
     "wof:name":"Ashleyhay",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.073945,
     "geom:longitude":-1.475662,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.063398,
     "lbl:longitude":-1.489618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kings Somborne"
@@ -42,12 +48,15 @@
         1360698827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004616"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126012817
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e8edcf6505cf34605fa96d0c0dbf7df4",
+    "wof:geomhash":"0817bd081c87ed8550b0de92f0399f67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404438893,
     "wof:label":"Kings Somborne Civil Parish",
-    "wof:lastmodified":1566632572,
+    "wof:lastmodified":1695877265,
     "wof:name":"Kings Somborne",
     "wof:parent_id":1360698827,
     "wof:placetype":"localadmin",

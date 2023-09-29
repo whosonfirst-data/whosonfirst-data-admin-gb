@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010563,
-    "geom:area_square_m":80745551.839642,
+    "geom:area_square_m":80745551.839641,
     "geom:bbox":"-3.64172467158,51.7545661619,-3.46852309836,51.8639199157",
     "geom:latitude":51.81415,
     "geom:longitude":-3.556542,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.810576,
     "lbl:longitude":-3.557869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ystradfellte Community"
@@ -40,12 +46,15 @@
         1360698985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000355"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803517
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4e2d00a3595ab2fee9928046f056a1cc",
+    "wof:geomhash":"57ea6473b2c56bb79b7c562b9d6eaf00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443153,
-    "wof:lastmodified":1566633038,
+    "wof:lastmodified":1695877477,
     "wof:name":"Ystradfellte Community",
     "wof:parent_id":1360698985,
     "wof:placetype":"localadmin",

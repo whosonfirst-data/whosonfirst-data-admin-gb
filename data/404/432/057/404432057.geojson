@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":438948.251981,
+    "geom:area_square_m":438948.251982,
     "geom:bbox":"0.410714328844,51.8562556003,0.42131883005,51.8645052362",
     "geom:latitude":51.860261,
     "geom:longitude":0.415653,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.860087,
     "lbl:longitude":0.415553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Flitch Green"
@@ -58,12 +64,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010507"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756919
     ],
     "wof:country":"GB",
-    "wof:geomhash":"faee27332db2155adfabca1f89d637db",
+    "wof:geomhash":"d007e7ce563b2ce241407293fa4f2ac2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404432057,
     "wof:label":"Flitch Green Civil Parish",
-    "wof:lastmodified":1566633953,
+    "wof:lastmodified":1695877875,
     "wof:name":"Flitch Green",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

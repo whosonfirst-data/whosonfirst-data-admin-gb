@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
-    "geom:area_square_m":3014981.257773,
+    "geom:area_square_m":3014988.047922,
     "geom:bbox":"-3.013344,51.63759,-2.976359,51.658155",
     "geom:latitude":51.649141,
     "geom:longitude":-2.996208,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.648744,
     "lbl:longitude":-2.999282,
     "lbl:max_zoom":18.0,
@@ -134,10 +140,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"W04000766",
         "gn:id":7301605,
         "qs_pg:id":1040992,
         "wd:id":"Q6661924"
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711807
     ],
@@ -145,7 +153,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05776dbbb729fd06ad4bb5a3efb5b098",
+    "wof:geomhash":"b74e921c3cbfb7349fda2afb81c06b79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":404438493,
-    "wof:lastmodified":1690918345,
+    "wof:lastmodified":1695878008,
     "wof:name":"Llanyrafon Community",
     "wof:parent_id":1360698919,
     "wof:placetype":"localadmin",

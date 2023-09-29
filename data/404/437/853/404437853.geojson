@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001151,
-    "geom:area_square_m":8645983.367197,
+    "geom:area_square_m":8645983.367196,
     "geom:bbox":"0.305017164973,52.5750316287,0.366910019641,52.6271000633",
     "geom:latitude":52.5991,
     "geom:longitude":0.338737,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.594529,
     "lbl:longitude":0.333112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Downham West"
@@ -55,12 +61,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006305"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753305
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c69d2b7f215366ba626a3b55d93c85ef",
+    "wof:geomhash":"ef45e63a8f1c99c4c1bd4c5566132398",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404437853,
     "wof:label":"Downham West Civil Parish",
-    "wof:lastmodified":1566632139,
+    "wof:lastmodified":1695877074,
     "wof:name":"Downham West",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

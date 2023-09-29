@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003698,
-    "geom:area_square_m":28892172.291886,
+    "geom:area_square_m":28892172.291885,
     "geom:bbox":"-4.11398366706,50.7852498583,-4.01104459866,50.8461297082",
     "geom:latitude":50.815856,
     "geom:longitude":-4.064725,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.817539,
     "lbl:longitude":-4.068892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u062a\u0631\u0644\u06cc"
@@ -78,12 +84,15 @@
         1360699081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003323"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125952997
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d7ad4cf19ca3a3d123861958dd6c7aaf",
+    "wof:geomhash":"8c73a80ed1fdd4fe451802cc06ecadbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404429341,
     "wof:label":"Hatherleigh Civil Parish",
-    "wof:lastmodified":1566633130,
+    "wof:lastmodified":1695877519,
     "wof:name":"Hatherleigh",
     "wof:parent_id":1360699081,
     "wof:placetype":"localadmin",

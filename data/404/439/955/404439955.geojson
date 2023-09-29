@@ -10,12 +10,18 @@
     "geom:latitude":54.627815,
     "geom:longitude":-2.149361,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.633667,
     "lbl:longitude":-2.157489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Holwick"
@@ -63,12 +69,15 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010645"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125907395
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b3a7f2e0f328e8282f16201b53b7d409",
+    "wof:geomhash":"5d28b94a0baa6847a3a28fb65fe8718d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404439955,
     "wof:label":"Holwick Civil Parish",
-    "wof:lastmodified":1566631841,
+    "wof:lastmodified":1695876945,
     "wof:name":"Holwick",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

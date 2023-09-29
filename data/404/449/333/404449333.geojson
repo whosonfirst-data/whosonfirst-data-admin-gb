@@ -10,12 +10,18 @@
     "geom:latitude":53.869338,
     "geom:longitude":-0.344238,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.869868,
     "lbl:longitude":-0.344244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Routh"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000461"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125781627
     ],
     "wof:country":"GB",
-    "wof:geomhash":"de47a123e45cc3de3c3b56bcdf1938ab",
+    "wof:geomhash":"15f357941dfd2b06890833af60bfdd68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404449333,
     "wof:label":"Routh Civil Parish",
-    "wof:lastmodified":1566631412,
+    "wof:lastmodified":1695876776,
     "wof:name":"Routh",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.211876,
     "geom:longitude":-2.809322,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.211315,
     "lbl:longitude":-2.813035,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Monkland and Stretford"
@@ -49,12 +55,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000832"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756635
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0294b64ab1242be6f719cd0007a0e5de",
+    "wof:geomhash":"d164a65672d4e69266c215877f779c04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404431885,
     "wof:label":"Monkland and Stretford Civil Parish",
-    "wof:lastmodified":1566632504,
+    "wof:lastmodified":1695877234,
     "wof:name":"Monkland and Stretford",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

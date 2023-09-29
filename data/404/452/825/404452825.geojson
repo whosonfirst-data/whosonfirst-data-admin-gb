@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002156,
-    "geom:area_square_m":16482349.142692,
+    "geom:area_square_m":16482349.142691,
     "geom:bbox":"-4.15642913015,51.7899214842,-4.06370015192,51.8347050625",
     "geom:latitude":51.810486,
     "geom:longitude":-4.106764,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.815886,
     "lbl:longitude":-4.098337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gorslas Community"
@@ -40,12 +46,15 @@
         1360698785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000504"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125977485
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a949fb144c114513c3da64870ef8a6e9",
+    "wof:geomhash":"48ac3db2d900d7882112d0a1313279aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404452825,
-    "wof:lastmodified":1566632241,
+    "wof:lastmodified":1695877117,
     "wof:name":"Gorslas Community",
     "wof:parent_id":1360698785,
     "wof:placetype":"localadmin",

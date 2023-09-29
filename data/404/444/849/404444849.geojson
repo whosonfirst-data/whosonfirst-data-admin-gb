@@ -10,12 +10,18 @@
     "geom:latitude":53.138893,
     "geom:longitude":-1.645751,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.137942,
     "lbl:longitude":-1.644205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Winster"
@@ -66,12 +72,15 @@
         1360698765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04002819"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125876743
     ],
     "wof:country":"GB",
-    "wof:geomhash":"37f882ea01391f43e5b574ba8831aeae",
+    "wof:geomhash":"2b50623c9226a346809c736055666a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404444849,
     "wof:label":"Winster Civil Parish",
-    "wof:lastmodified":1566632950,
+    "wof:lastmodified":1695877434,
     "wof:name":"Winster",
     "wof:parent_id":1360698765,
     "wof:placetype":"localadmin",

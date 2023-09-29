@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002858,
-    "geom:area_square_m":21423304.845597,
+    "geom:area_square_m":21423304.845598,
     "geom:bbox":"0.906771464422,52.656175063,1.00703302986,52.7105406117",
     "geom:latitude":52.681662,
     "geom:longitude":0.957132,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.678939,
     "lbl:longitude":0.95789,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dereham"
@@ -99,12 +105,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006108"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854947
     ],
     "wof:country":"GB",
-    "wof:geomhash":"52b029cc8faadf2d0ff316a2351d3223",
+    "wof:geomhash":"24bed135e9c74e6c890d5cefd402c8ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +126,7 @@
     ],
     "wof:id":404433001,
     "wof:label":"Dereham Civil Parish",
-    "wof:lastmodified":1566633674,
+    "wof:lastmodified":1695877763,
     "wof:name":"Dereham",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

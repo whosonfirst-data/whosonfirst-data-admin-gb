@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001415,
-    "geom:area_square_m":10465444.533766,
+    "geom:area_square_m":10465444.533765,
     "geom:bbox":"-0.282737529489,53.2375889288,-0.204392737291,53.2653395736",
     "geom:latitude":53.249596,
     "geom:longitude":-0.239235,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.252006,
     "lbl:longitude":-0.234567,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Minting"
@@ -64,12 +70,15 @@
         1360699067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005697"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757413
     ],
     "wof:country":"GB",
-    "wof:geomhash":"180e65d97cbce999e21da7757c03a8d8",
+    "wof:geomhash":"69f40f4dbbcf8c386264dd0ab15423f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +91,7 @@
     ],
     "wof:id":404448773,
     "wof:label":"Minting Civil Parish",
-    "wof:lastmodified":1566631567,
+    "wof:lastmodified":1695876843,
     "wof:name":"Minting",
     "wof:parent_id":1360699067,
     "wof:placetype":"localadmin",

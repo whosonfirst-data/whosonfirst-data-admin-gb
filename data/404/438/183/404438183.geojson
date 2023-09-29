@@ -10,12 +10,18 @@
     "geom:latitude":53.816833,
     "geom:longitude":-0.685123,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.817739,
     "lbl:longitude":-0.68513,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Cliffe"
@@ -45,12 +51,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000478"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125954921
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a3dac109c2b5b960c5c04e781b1bc665",
+    "wof:geomhash":"d930bd56f9cad87564b0b267f0014c77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,7 @@
     ],
     "wof:id":404438183,
     "wof:label":"South Cliffe Civil Parish",
-    "wof:lastmodified":1566632632,
+    "wof:lastmodified":1695877292,
     "wof:name":"South Cliffe",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

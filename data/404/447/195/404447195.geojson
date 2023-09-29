@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001793,
-    "geom:area_square_m":13454872.323157,
+    "geom:area_square_m":13454872.323156,
     "geom:bbox":"-0.57850684672,52.6058826544,-0.520720253563,52.6572580121",
     "geom:latitude":52.631782,
     "geom:longitude":-0.553964,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.631599,
     "lbl:longitude":-0.556283,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ketton"
@@ -69,12 +75,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000649"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854933
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7cc93977e1ef76987c8f8d9a45aaf77f",
+    "wof:geomhash":"ff5eaee489d3883ae137cf21dfc63108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404447195,
     "wof:label":"Ketton Civil Parish",
-    "wof:lastmodified":1566631241,
+    "wof:lastmodified":1695878267,
     "wof:name":"Ketton",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

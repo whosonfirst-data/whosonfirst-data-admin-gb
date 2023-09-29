@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000848,
-    "geom:area_square_m":6608814.398654,
+    "geom:area_square_m":6608814.398653,
     "geom:bbox":"-0.868652847349,50.9133106335,-0.823041456578,50.9531079796",
     "geom:latitude":50.930863,
     "geom:longitude":-0.851016,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.932331,
     "lbl:longitude":-0.858268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marden"
@@ -58,12 +64,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009916"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753105
     ],
     "wof:country":"GB",
-    "wof:geomhash":"32fb105e8972ec51bd0d9ae7e46f7aa7",
+    "wof:geomhash":"52a5a53e5d018e43b6860343c0dfd4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +85,7 @@
     ],
     "wof:id":404446019,
     "wof:label":"Marden Civil Parish",
-    "wof:lastmodified":1566631680,
+    "wof:lastmodified":1695876878,
     "wof:name":"Marden",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

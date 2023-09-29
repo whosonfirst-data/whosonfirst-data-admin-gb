@@ -10,12 +10,18 @@
     "geom:latitude":52.02289,
     "geom:longitude":0.858075,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.02153,
     "lbl:longitude":0.859999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Boxford"
@@ -75,12 +81,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009072"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125885337
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6e86a49864376ebd2617e94741355dc7",
+    "wof:geomhash":"1e1a9708c5ccea312bca3b178462f951",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404446665,
     "wof:label":"Boxford Civil Parish",
-    "wof:lastmodified":1566631692,
+    "wof:lastmodified":1695876882,
     "wof:name":"Boxford",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

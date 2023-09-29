@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002687,
-    "geom:area_square_m":20919395.529044,
+    "geom:area_square_m":20919395.529043,
     "geom:bbox":"-0.535365113472,50.9471683054,-0.456993926109,50.9991408427",
     "geom:latitude":50.972112,
     "geom:longitude":-0.494269,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.975088,
     "lbl:longitude":-0.493526,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pulborough"
@@ -63,12 +69,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009962"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854603
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5ad08b431729283e2eb4db9e28385c8c",
+    "wof:geomhash":"5085ef80c78e41207c11537d9ba19b9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404450787,
     "wof:label":"Pulborough Civil Parish",
-    "wof:lastmodified":1566633843,
+    "wof:lastmodified":1695877834,
     "wof:name":"Pulborough",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

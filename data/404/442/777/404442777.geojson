@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004383,
-    "geom:area_square_m":33656998.539564,
+    "geom:area_square_m":33656998.539563,
     "geom:bbox":"-4.31660837326,51.5836004291,-4.20410110321,51.6590684581",
     "geom:latitude":51.612823,
     "geom:longitude":-4.255293,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.608938,
     "lbl:longitude":-4.255298,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llangennith, Llanmadoc and Cheriton Community"
@@ -40,9 +46,12 @@
         1360699095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000575"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:country":"GB",
-    "wof:geomhash":"3bbf9449dcbe190df20993f917c01159",
+    "wof:geomhash":"164703b452592bcb6ee13bf4285e1d37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":404442777,
-    "wof:lastmodified":1566633247,
+    "wof:lastmodified":1695877573,
     "wof:name":"Llangennith, Llanmadoc and Cheriton Community",
     "wof:parent_id":1360699095,
     "wof:placetype":"localadmin",

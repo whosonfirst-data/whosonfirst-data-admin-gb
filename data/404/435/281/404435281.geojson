@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001246,
-    "geom:area_square_m":9451382.281473,
+    "geom:area_square_m":9451382.281474,
     "geom:bbox":"-0.687790958517,52.1593928428,-0.627451096034,52.1960904513",
     "geom:latitude":52.178245,
     "geom:longitude":-0.661677,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.17911,
     "lbl:longitude":-0.66463,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0646\u062f\u0646"
@@ -72,12 +78,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012187"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125993649
     ],
     "wof:country":"GB",
-    "wof:geomhash":"70478bcf4bae588cea5a92a8cb8af609",
+    "wof:geomhash":"c1468471006132dac4a3e19ab9e171c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404435281,
     "wof:label":"Lavendon Civil Parish",
-    "wof:lastmodified":1566634006,
+    "wof:lastmodified":1695877900,
     "wof:name":"Lavendon",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

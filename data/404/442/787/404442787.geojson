@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002471,
-    "geom:area_square_m":18237912.310842,
+    "geom:area_square_m":18237912.31084,
     "geom:bbox":"-2.52106778358,53.3276011134,-2.41766304805,53.3682651025",
     "geom:latitude":53.34953,
     "geom:longitude":-2.466408,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.346298,
     "lbl:longitude":-2.466403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u064a \u0644\u064a"
@@ -75,12 +81,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010952"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125991137
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e30b6a3e039e5da1f6962728d281a60b",
+    "wof:geomhash":"d512c0b25f3d510983419f0cb6957912",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404442787,
     "wof:label":"High Legh Civil Parish",
-    "wof:lastmodified":1566633299,
+    "wof:lastmodified":1695877594,
     "wof:name":"High Legh",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

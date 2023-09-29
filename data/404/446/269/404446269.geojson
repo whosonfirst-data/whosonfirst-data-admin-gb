@@ -10,12 +10,18 @@
     "geom:latitude":53.609709,
     "geom:longitude":-2.613178,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.611932,
     "lbl:longitude":-2.612868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Adlington"
@@ -60,12 +66,15 @@
         1360698817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005139"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309941299
     ],
     "wof:country":"GB",
-    "wof:geomhash":"566d2df8694dc0676faa65a04dc4803e",
+    "wof:geomhash":"8b1fe1dfbf5427a33feab5061c2b5ef7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404446269,
     "wof:label":"Adlington Civil Parish",
-    "wof:lastmodified":1566631635,
+    "wof:lastmodified":1695876861,
     "wof:name":"Adlington",
     "wof:parent_id":1360698817,
     "wof:placetype":"localadmin",

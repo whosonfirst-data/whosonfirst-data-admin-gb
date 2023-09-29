@@ -10,12 +10,18 @@
     "geom:latitude":51.920141,
     "geom:longitude":-1.19036,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.920717,
     "lbl:longitude":-1.189937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bucknell"
@@ -60,12 +66,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008031"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126014519
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8a485ff2faa00d2fb4d6100a1ddd5def",
+    "wof:geomhash":"deffb6aa40e8206c35ceadb76063c598",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404450527,
     "wof:label":"Bucknell Civil Parish",
-    "wof:lastmodified":1566633788,
+    "wof:lastmodified":1695877813,
     "wof:name":"Bucknell",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

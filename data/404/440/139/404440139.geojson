@@ -10,12 +10,18 @@
     "geom:latitude":50.910384,
     "geom:longitude":-2.89618,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.910349,
     "lbl:longitude":-2.895786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dowlish Wake"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008696"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125976845
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a981d836250fafad8db294aacaa7c5f7",
+    "wof:geomhash":"16ebffdd9ec9a1e1f1f369eb3d9d8fde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404440139,
     "wof:label":"Dowlish Wake Civil Parish",
-    "wof:lastmodified":1566631189,
+    "wof:lastmodified":1695878244,
     "wof:name":"Dowlish Wake",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

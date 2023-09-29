@@ -10,12 +10,18 @@
     "geom:latitude":52.560912,
     "geom:longitude":1.272531,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.560515,
     "lbl:longitude":1.268137,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Swainsthorpe"
@@ -63,12 +69,15 @@
         1360698955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006600"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125877471
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0b6b7aca178992fd5ddacb6d537d9c1d",
+    "wof:geomhash":"301d217e3a47d2ae37df239391972a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404444365,
     "wof:label":"Swainsthorpe Civil Parish",
-    "wof:lastmodified":1566632865,
+    "wof:lastmodified":1695877402,
     "wof:name":"Swainsthorpe",
     "wof:parent_id":1360698955,
     "wof:placetype":"localadmin",

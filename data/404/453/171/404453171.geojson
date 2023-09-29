@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000584,
-    "geom:area_square_m":4529166.498262,
+    "geom:area_square_m":4529166.498261,
     "geom:bbox":"1.22505858661,51.1455610605,1.28695141282,51.1668687921",
     "geom:latitude":51.153174,
     "geom:longitude":1.25841,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.154494,
     "lbl:longitude":1.266127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Temple Ewell"
@@ -66,12 +72,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004925"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125837721
     ],
     "wof:country":"GB",
-    "wof:geomhash":"048d67179ddb205eb9fe803ad3883c24",
+    "wof:geomhash":"d5ab42fbb9d2ac12d3db5013c4ae45d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404453171,
     "wof:label":"Temple Ewell Civil Parish",
-    "wof:lastmodified":1566632860,
+    "wof:lastmodified":1695877399,
     "wof:name":"Temple Ewell",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

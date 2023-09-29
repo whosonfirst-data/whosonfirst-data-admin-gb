@@ -10,12 +10,18 @@
     "geom:latitude":52.333944,
     "geom:longitude":-0.65481,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.329475,
     "lbl:longitude":-0.654802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Finedon"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006881"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853579
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1ed29eb4d09cbcc7d3acef20aa5070ac",
+    "wof:geomhash":"96b86d621e62e451f594aacdba80eaf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404436473,
     "wof:label":"Finedon Civil Parish",
-    "wof:lastmodified":1566632400,
+    "wof:lastmodified":1695877186,
     "wof:name":"Finedon",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

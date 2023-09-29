@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001912,
-    "geom:area_square_m":14550763.575763,
+    "geom:area_square_m":14550763.575765,
     "geom:bbox":"-4.9579140092,51.9867782378,-4.87625536556,52.0349202091",
     "geom:latitude":52.007891,
     "geom:longitude":-4.910161,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.009806,
     "lbl:longitude":-4.899995,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dinas Cross Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000424"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125851909
     ],
     "wof:country":"GB",
-    "wof:geomhash":"981b1d8d50f5a69ffa65c2987144ddea",
+    "wof:geomhash":"edccdd7f2c84e9ce716a9765a0b2b189",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404446305,
-    "wof:lastmodified":1566631664,
+    "wof:lastmodified":1695876872,
     "wof:name":"Dinas Cross Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.388021,
     "geom:longitude":-0.812165,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.387973,
     "lbl:longitude":-0.812623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wokingham Without"
@@ -52,12 +58,15 @@
         1360698967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001242"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757491
     ],
     "wof:country":"GB",
-    "wof:geomhash":"de8267f11804f74b8949901b4cc6162b",
+    "wof:geomhash":"b6ae2470a2eaa8570492e059b56b5ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
     ],
     "wof:id":404442055,
     "wof:label":"Wokingham Without Civil Parish",
-    "wof:lastmodified":1566633229,
+    "wof:lastmodified":1695877563,
     "wof:name":"Wokingham Without",
     "wof:parent_id":1360698967,
     "wof:placetype":"localadmin",

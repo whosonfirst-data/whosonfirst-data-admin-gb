@@ -10,12 +10,18 @@
     "geom:latitude":55.310922,
     "geom:longitude":-1.915278,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.310156,
     "lbl:longitude":-1.918648,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0648\u062a\u0628\u0648\u0631\u06cc"
@@ -87,12 +93,15 @@
         1360698769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010856"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872381
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0075140304d26868ca0bdfe212a97773",
+    "wof:geomhash":"b16018be55a205bddac287ab00bf55f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404454491,
     "wof:label":"Rothbury Civil Parish",
-    "wof:lastmodified":1566632681,
+    "wof:lastmodified":1695877316,
     "wof:name":"Rothbury",
     "wof:parent_id":1360698769,
     "wof:placetype":"localadmin",

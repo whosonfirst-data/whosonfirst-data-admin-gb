@@ -10,12 +10,18 @@
     "geom:latitude":54.001217,
     "geom:longitude":-1.414955,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.999936,
     "lbl:longitude":-1.414552,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Goldsborough"
@@ -48,12 +54,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007348"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125924259
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f736bb3418b76dc1ccc0f6c61145bc80",
+    "wof:geomhash":"2cba5d7f9b827c6597d8e24249e0a570",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404433503,
     "wof:label":"Goldsborough Civil Parish",
-    "wof:lastmodified":1566633647,
+    "wof:lastmodified":1695877750,
     "wof:name":"Goldsborough",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

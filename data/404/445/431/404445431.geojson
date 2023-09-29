@@ -10,12 +10,18 @@
     "geom:latitude":52.370305,
     "geom:longitude":-2.205928,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.366921,
     "lbl:longitude":-2.209441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Steen"
@@ -177,12 +183,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010454"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225879935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"529057c39c0455c34599ced2d331d0a0",
+    "wof:geomhash":"31d61b45c625e42b26a816649d2a4cba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,7 +204,7 @@
     ],
     "wof:id":404445431,
     "wof:label":"Stone Civil Parish",
-    "wof:lastmodified":1566633343,
+    "wof:lastmodified":1695877614,
     "wof:name":"Stone",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

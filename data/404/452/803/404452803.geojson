@@ -10,12 +10,18 @@
     "geom:latitude":52.677788,
     "geom:longitude":-0.753022,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.676695,
     "lbl:longitude":-0.753507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barleythorpe"
@@ -62,9 +68,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04000626",
         "gn:id":7300900,
         "qs_pg:id":904193
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360758541
     ],
@@ -72,7 +80,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec26a80ca4821c848f561ea484be7215",
+    "wof:geomhash":"f6332f3c2903f4444e90aa7b5bdaae43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +93,7 @@
     ],
     "wof:id":404452803,
     "wof:label":"Barleythorpe Civil Parish",
-    "wof:lastmodified":1582311090,
+    "wof:lastmodified":1695877964,
     "wof:name":"Barleythorpe",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

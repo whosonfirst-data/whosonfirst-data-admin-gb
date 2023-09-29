@@ -10,12 +10,18 @@
     "geom:latitude":52.155371,
     "geom:longitude":-1.165768,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.157011,
     "lbl:longitude":-1.167869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Canons Ashby"
@@ -60,12 +66,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006643"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782441
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c5ce4f23a65dc95ea77aa059f15b6560",
+    "wof:geomhash":"c30b82c3f249187cab48279d57cadbea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404430755,
     "wof:label":"Canons Ashby Civil Parish",
-    "wof:lastmodified":1566631935,
+    "wof:lastmodified":1695876990,
     "wof:name":"Canons Ashby",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.047659,
     "geom:longitude":-2.817436,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.04686,
     "lbl:longitude":-2.814998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eaton Bishop"
@@ -42,12 +48,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000750"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226080517
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4bfb13e5289390fea6501b62e90c1228",
+    "wof:geomhash":"bcebbd178760e6f9a2d0520451dfd0ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404435697,
     "wof:label":"Eaton Bishop Civil Parish",
-    "wof:lastmodified":1566634065,
+    "wof:lastmodified":1695877932,
     "wof:name":"Eaton Bishop",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

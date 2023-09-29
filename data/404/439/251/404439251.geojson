@@ -10,12 +10,18 @@
     "geom:latitude":52.137802,
     "geom:longitude":-1.839331,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.137228,
     "lbl:longitude":-1.837356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bickmarsh"
@@ -55,12 +61,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010362"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755299
     ],
     "wof:country":"GB",
-    "wof:geomhash":"25a10680bd533809be7e2dd7ee475591",
+    "wof:geomhash":"8c47e936647667f93d4efc193b567987",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404439251,
     "wof:label":"Bickmarsh Civil Parish",
-    "wof:lastmodified":1566631866,
+    "wof:lastmodified":1695876957,
     "wof:name":"Bickmarsh",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

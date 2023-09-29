@@ -10,12 +10,18 @@
     "geom:latitude":51.641449,
     "geom:longitude":0.488264,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.640284,
     "lbl:longitude":0.494888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "South Hanningfield"
@@ -63,12 +69,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003971"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803017
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5f651389f630914f1787aefe088c6f74",
+    "wof:geomhash":"6d9366d6665daceff6b8663d04c1ee43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404434699,
     "wof:label":"South Hanningfield Civil Parish",
-    "wof:lastmodified":1566633613,
+    "wof:lastmodified":1695877737,
     "wof:name":"South Hanningfield",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

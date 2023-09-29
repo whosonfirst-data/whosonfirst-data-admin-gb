@@ -10,12 +10,18 @@
     "geom:latitude":51.134578,
     "geom:longitude":1.215389,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.133587,
     "lbl:longitude":1.214703,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alkham"
@@ -60,12 +66,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004900"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125960019
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b92f721044d07a9f745a63acc9402830",
+    "wof:geomhash":"7357c2b8a9cf2942a0728c7b5ef8c3c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404435635,
     "wof:label":"Alkham Civil Parish",
-    "wof:lastmodified":1566634016,
+    "wof:lastmodified":1695877905,
     "wof:name":"Alkham",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

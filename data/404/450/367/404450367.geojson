@@ -10,12 +10,18 @@
     "geom:latitude":51.69901,
     "geom:longitude":-1.605956,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.699538,
     "lbl:longitude":-1.613276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grafton and Radcot"
@@ -49,12 +55,15 @@
         1360698839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008292"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755053
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c5a42f5a7d23fc3ebfc0d9df5aac6493",
+    "wof:geomhash":"7ceb2b7e11a474d42b8e1a3106d7e404",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404450367,
     "wof:label":"Grafton and Radcot Civil Parish",
-    "wof:lastmodified":1566633802,
+    "wof:lastmodified":1695877818,
     "wof:name":"Grafton and Radcot",
     "wof:parent_id":1360698839,
     "wof:placetype":"localadmin",

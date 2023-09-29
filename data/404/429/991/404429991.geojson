@@ -10,12 +10,18 @@
     "geom:latitude":52.817829,
     "geom:longitude":-2.610113,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.813721,
     "lbl:longitude":-2.611001,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanton Upon Hine Heath"
@@ -42,12 +48,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011365"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1193165963
     ],
     "wof:country":"GB",
-    "wof:geomhash":"a8c5a5648b3f613b9c01c69648aff6e1",
+    "wof:geomhash":"a55fbf82a2a7fce35b923a5b5605a113",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404429991,
     "wof:label":"Stanton Upon Hine Heath Civil Parish",
-    "wof:lastmodified":1566633097,
+    "wof:lastmodified":1695877503,
     "wof:name":"Stanton Upon Hine Heath",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":51.8939,
     "geom:longitude":-1.725361,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.894573,
     "lbl:longitude":-1.727113,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wick Rissington"
@@ -42,12 +48,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004286"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125882223
     ],
     "wof:country":"GB",
-    "wof:geomhash":"50c2277d758bbd52a7c384f4cc9fe636",
+    "wof:geomhash":"8b14d13df10121a88426ef4aa7fe650b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404438873,
     "wof:label":"Wick Rissington Civil Parish",
-    "wof:lastmodified":1566632555,
+    "wof:lastmodified":1695877258,
     "wof:name":"Wick Rissington",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

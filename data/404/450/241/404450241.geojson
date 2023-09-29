@@ -10,12 +10,18 @@
     "geom:latitude":53.24481,
     "geom:longitude":-2.890848,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.241661,
     "lbl:longitude":-2.889636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chorlton-By-Backford"
@@ -40,12 +46,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011065"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754869
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9f1c0ca83acf7a327e3f9e0f8bae0b86",
+    "wof:geomhash":"223efa4a7e6402c56ef8be76ff103f7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404450241,
     "wof:label":"Chorlton-By-Backford Civil Parish",
-    "wof:lastmodified":1566633808,
+    "wof:lastmodified":1695877821,
     "wof:name":"Chorlton-By-Backford",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

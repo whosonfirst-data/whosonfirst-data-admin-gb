@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000492,
-    "geom:area_square_m":3834826.009222,
+    "geom:area_square_m":3834826.009223,
     "geom:bbox":"-2.46735642556,50.9083824418,-2.44202797392,50.9383840061",
     "geom:latitude":50.924205,
     "geom:longitude":-2.455227,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.924657,
     "lbl:longitude":-2.455469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Caundle Marsh"
@@ -55,12 +61,15 @@
         1360698745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003517"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755913
     ],
     "wof:country":"GB",
-    "wof:geomhash":"710f535d089e5cad37e3cdefb7c4591e",
+    "wof:geomhash":"ecfe1ed571aa929cc801bb430d21ec98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404450923,
     "wof:label":"Caundle Marsh Civil Parish",
-    "wof:lastmodified":1566633787,
+    "wof:lastmodified":1695877812,
     "wof:name":"Caundle Marsh",
     "wof:parent_id":1360698745,
     "wof:placetype":"localadmin",

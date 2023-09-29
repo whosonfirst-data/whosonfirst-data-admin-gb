@@ -10,12 +10,18 @@
     "geom:latitude":52.099129,
     "geom:longitude":1.224634,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.099655,
     "lbl:longitude":1.224347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Culpho"
@@ -54,12 +60,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009394"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126053885
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bcf71e3e28efd324df63db5d92d8fc47",
+    "wof:geomhash":"4cc267db7d0a5f2bfa1b50ddb2ba88c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404454893,
     "wof:label":"Culpho Civil Parish",
-    "wof:lastmodified":1566632677,
+    "wof:lastmodified":1695877315,
     "wof:name":"Culpho",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

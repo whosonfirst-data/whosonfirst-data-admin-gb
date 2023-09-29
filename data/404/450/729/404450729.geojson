@@ -10,12 +10,18 @@
     "geom:latitude":53.25842,
     "geom:longitude":-2.513978,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.259381,
     "lbl:longitude":-2.517527,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0631\u062a\u0648\u06cc\u0686"
@@ -105,12 +111,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012167"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871967
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7f997a92408589917da7796b1706ccac",
+    "wof:geomhash":"31dd645c6bdae28a70c735d760ccb3b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +132,7 @@
     ],
     "wof:id":404450729,
     "wof:label":"Northwich Civil Parish",
-    "wof:lastmodified":1566633847,
+    "wof:lastmodified":1695877835,
     "wof:name":"Northwich",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

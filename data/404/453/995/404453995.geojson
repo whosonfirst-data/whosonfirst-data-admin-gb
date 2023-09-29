@@ -10,12 +10,18 @@
     "geom:latitude":51.752594,
     "geom:longitude":-1.718899,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.756573,
     "lbl:longitude":-1.719502,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eastleach"
@@ -63,12 +69,15 @@
         1360698927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004225"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1209844903
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b2338c2ddab6cee9e32301de3d91d89f",
+    "wof:geomhash":"f8a0e72cc9b4c8be27da855a87c99068",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404453995,
     "wof:label":"Eastleach Civil Parish",
-    "wof:lastmodified":1566632806,
+    "wof:lastmodified":1695877376,
     "wof:name":"Eastleach",
     "wof:parent_id":1360698927,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000532,
-    "geom:area_square_m":4028910.642302,
+    "geom:area_square_m":4028910.642303,
     "geom:bbox":"-2.53131229972,52.2245501794,-2.49344973056,52.2509857598",
     "geom:latitude":52.236962,
     "geom:longitude":-2.512172,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.235375,
     "lbl:longitude":-2.51246,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Collington"
@@ -42,12 +48,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000729"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1242807073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e81ec982372b0385fd3cff0cc3f6ca1b",
+    "wof:geomhash":"13c392a8d515fa9f84fdb468db997976",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404432095,
     "wof:label":"Collington Civil Parish",
-    "wof:lastmodified":1566633951,
+    "wof:lastmodified":1695877874,
     "wof:name":"Collington",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000335,
-    "geom:area_square_m":2547163.805282,
+    "geom:area_square_m":2547163.805281,
     "geom:bbox":"-2.74165281751,51.9960686957,-2.708393295,52.0150175845",
     "geom:latitude":52.005639,
     "geom:longitude":-2.72605,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.004847,
     "lbl:longitude":-2.726044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Callow"
@@ -63,12 +69,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000722"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243000495
     ],
     "wof:country":"GB",
-    "wof:geomhash":"37052ed4fcbc4131b97c0a00337f44bb",
+    "wof:geomhash":"f7966a6db27eb862b19fa661472f1e28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404446637,
     "wof:label":"Callow Civil Parish",
-    "wof:lastmodified":1566631688,
+    "wof:lastmodified":1695876880,
     "wof:name":"Callow",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000875,
-    "geom:area_square_m":6586967.560668,
+    "geom:area_square_m":6586967.560667,
     "geom:bbox":"-0.320367410984,52.4813840168,-0.227830673279,52.4991562234",
     "geom:latitude":52.490083,
     "geom:longitude":-0.280633,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.489772,
     "lbl:longitude":-0.288343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u064a\u0644\u062a\u0648\u0646"
@@ -78,12 +84,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001739"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125960855
     ],
     "wof:country":"GB",
-    "wof:geomhash":"5ec08faed99c60ac29562522e0bc0ec3",
+    "wof:geomhash":"a646763133efb30c5c422214c2bfa696",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,7 @@
     ],
     "wof:id":404448041,
     "wof:label":"Stilton Civil Parish",
-    "wof:lastmodified":1566631478,
+    "wof:lastmodified":1695876805,
     "wof:name":"Stilton",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

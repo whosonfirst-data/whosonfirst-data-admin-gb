@@ -10,12 +10,18 @@
     "geom:latitude":51.600836,
     "geom:longitude":-2.998881,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.601035,
     "lbl:longitude":-2.998704,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shaftesbury Community"
@@ -40,12 +46,15 @@
         1360698735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000832"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360711877
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1a3da89c9640437b26cf6d24eaac3210",
+    "wof:geomhash":"7e58c30fd371fb1106ffd0c0da23eddc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404451473,
-    "wof:lastmodified":1566633505,
+    "wof:lastmodified":1695877684,
     "wof:name":"Shaftesbury Community",
     "wof:parent_id":1360698735,
     "wof:placetype":"localadmin",

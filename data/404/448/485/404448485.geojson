@@ -10,12 +10,18 @@
     "geom:latitude":54.577699,
     "geom:longitude":-1.401913,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.576991,
     "lbl:longitude":-1.403861,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Redmarshall"
@@ -51,12 +57,15 @@
         1360699087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012072"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1243483599
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bf75e8765ae71b3f9db7d6a74e0ddd46",
+    "wof:geomhash":"f1fc76dd9d549f8578ba06bac3077c7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404448485,
     "wof:label":"Redmarshall Civil Parish",
-    "wof:lastmodified":1566631477,
+    "wof:lastmodified":1695876804,
     "wof:name":"Redmarshall",
     "wof:parent_id":1360699087,
     "wof:placetype":"localadmin",

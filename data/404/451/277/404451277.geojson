@@ -10,12 +10,18 @@
     "geom:latitude":52.121728,
     "geom:longitude":-2.96422,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.118401,
     "lbl:longitude":-2.972247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Letton"
@@ -51,12 +57,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000801"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126042121
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f36b91b1b15c3627c9e4cb26084bd69d",
+    "wof:geomhash":"14b208d83aabe3ac8da843c8eb88c199",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404451277,
     "wof:label":"Letton Civil Parish",
-    "wof:lastmodified":1566633495,
+    "wof:lastmodified":1695877679,
     "wof:name":"Letton",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",

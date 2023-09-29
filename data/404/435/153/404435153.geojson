@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":1386648.377896,
+    "geom:area_square_m":1386648.377897,
     "geom:bbox":"-2.7891598502,53.1802496566,-2.7630788697,53.1945021929",
     "geom:latitude":53.187096,
     "geom:longitude":-2.776482,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.18702,
     "lbl:longitude":-2.776285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0643\u0646\u0647\u0648\u0644\u0644"
@@ -61,12 +67,15 @@
         1360698923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011113"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360756923
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3116373d411ad1098a6a3517f2aebfb6",
+    "wof:geomhash":"570af83a182ae6bfb04a02bd542070d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404435153,
     "wof:label":"Hockenhull Civil Parish",
-    "wof:lastmodified":1566634034,
+    "wof:lastmodified":1695877914,
     "wof:name":"Hockenhull",
     "wof:parent_id":1360698923,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.109998,
     "geom:longitude":-2.086685,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.109976,
     "lbl:longitude":-2.086679,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0631\u0634\u0648\u0631"
@@ -93,12 +99,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010425"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101853037
     ],
     "wof:country":"GB",
-    "wof:geomhash":"9f5ff8890b60dc5eece3ca1633efa7f7",
+    "wof:geomhash":"2e38f0c9d3a7071894553af95fc43c25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +120,7 @@
     ],
     "wof:id":404452947,
     "wof:label":"Pershore Civil Parish",
-    "wof:lastmodified":1566632211,
+    "wof:lastmodified":1695877104,
     "wof:name":"Pershore",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

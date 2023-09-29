@@ -10,12 +10,18 @@
     "geom:latitude":51.835579,
     "geom:longitude":0.745919,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.837612,
     "lbl:longitude":0.752216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Messing-Cum-Inworth"
@@ -40,12 +46,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004000"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360759823
     ],
     "wof:country":"GB",
-    "wof:geomhash":"38792bbeba7a7badfd3e239b2da580b2",
+    "wof:geomhash":"7dae1a7c7b4ba43cf498fd1f7815d3de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404437623,
     "wof:label":"Messing-Cum-Inworth Civil Parish",
-    "wof:lastmodified":1566632124,
+    "wof:lastmodified":1695877068,
     "wof:name":"Messing-Cum-Inworth",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

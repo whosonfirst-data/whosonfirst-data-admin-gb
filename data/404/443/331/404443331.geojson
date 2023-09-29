@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005209,
-    "geom:area_square_m":39474659.907674,
+    "geom:area_square_m":39474659.907679,
     "geom:bbox":"-4.15524664454,52.1690301775,-4.02100249947,52.2511562208",
     "geom:latitude":52.20543,
     "geom:longitude":-4.089876,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.205662,
     "lbl:longitude":-4.083277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nantcwnlle Community"
@@ -40,12 +46,15 @@
         1360699113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000394"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1326765903
     ],
     "wof:country":"GB",
-    "wof:geomhash":"476eefc45eaa45133e2c18878c1d39de",
+    "wof:geomhash":"2afe0fc3ed80a18af2453c4cfe0a290c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404443331,
-    "wof:lastmodified":1566632988,
+    "wof:lastmodified":1695877452,
     "wof:name":"Nantcwnlle Community",
     "wof:parent_id":1360699113,
     "wof:placetype":"localadmin",

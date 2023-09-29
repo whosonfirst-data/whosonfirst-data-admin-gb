@@ -10,12 +10,18 @@
     "geom:latitude":51.693297,
     "geom:longitude":-0.275509,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.695396,
     "lbl:longitude":-0.278195,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shenley"
@@ -73,9 +79,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04004765",
         "gn:id":7291310,
         "qs_pg:id":904151
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125995803
     ],
@@ -83,7 +91,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"775fce82dfcae5690ac9e9602544f7d2",
+    "wof:geomhash":"5a93641f235ed3cd038c53d1bec3efcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +104,7 @@
     ],
     "wof:id":404432431,
     "wof:label":"Shenley Civil Parish",
-    "wof:lastmodified":1582311156,
+    "wof:lastmodified":1695877989,
     "wof:name":"Shenley",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

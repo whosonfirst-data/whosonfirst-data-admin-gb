@@ -10,12 +10,18 @@
     "geom:latitude":51.783015,
     "geom:longitude":-0.009483,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.782706,
     "lbl:longitude":-0.009477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanstead St. Margarets"
@@ -40,12 +46,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004749"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753203
     ],
     "wof:country":"GB",
-    "wof:geomhash":"04a3b9572723468be7e8915f27dc9f6d",
+    "wof:geomhash":"eb0c5292e52805f17e77d03617c357e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404432759,
     "wof:label":"Stanstead St. Margarets Civil Parish",
-    "wof:lastmodified":1566633933,
+    "wof:lastmodified":1695877866,
     "wof:name":"Stanstead St. Margarets",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

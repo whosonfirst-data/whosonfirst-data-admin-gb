@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003446,
-    "geom:area_square_m":24820225.453011,
+    "geom:area_square_m":24820225.45301,
     "geom:bbox":"-1.04836000989,54.3088743068,-0.933622251978,54.4153401314",
     "geom:latitude":54.371614,
     "geom:longitude":-0.973361,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.375013,
     "lbl:longitude":-0.963808,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Farndale East"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007571"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360753277
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3db83bae3d449f7326a8f71617358820",
+    "wof:geomhash":"179398c6f523a40e562024896892bc6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404449207,
     "wof:label":"Farndale East Civil Parish",
-    "wof:lastmodified":1566631432,
+    "wof:lastmodified":1695876784,
     "wof:name":"Farndale East",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

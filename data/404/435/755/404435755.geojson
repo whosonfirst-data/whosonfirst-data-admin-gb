@@ -10,12 +10,18 @@
     "geom:latitude":52.110685,
     "geom:longitude":0.138149,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.111258,
     "lbl:longitude":0.135192,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0647\u064a\u062a\u0644\u0633\u0641\u0631\u062f"
@@ -66,12 +72,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012082"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125898949
     ],
     "wof:country":"GB",
-    "wof:geomhash":"345a7f4e50dee40e4b1959023c78e83f",
+    "wof:geomhash":"76da88f3ca28a87b0ceed0aa3f9d3555",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404435755,
     "wof:label":"Whittlesford Civil Parish",
-    "wof:lastmodified":1566633980,
+    "wof:lastmodified":1695877886,
     "wof:name":"Whittlesford",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

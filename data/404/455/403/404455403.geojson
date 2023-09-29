@@ -10,12 +10,18 @@
     "geom:latitude":51.339824,
     "geom:longitude":-1.699123,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.339994,
     "lbl:longitude":-1.700908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Easton"
@@ -102,12 +108,15 @@
         1360698937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011706"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125871309
     ],
     "wof:country":"GB",
-    "wof:geomhash":"edd5fa4578ccf2612f8640113ecc6ee7",
+    "wof:geomhash":"db6631dd39b7b2e9fed84035e4f6ba6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
     ],
     "wof:id":404455403,
     "wof:label":"Easton Civil Parish",
-    "wof:lastmodified":1566632311,
+    "wof:lastmodified":1695877146,
     "wof:name":"Easton",
     "wof:parent_id":1360698937,
     "wof:placetype":"localadmin",

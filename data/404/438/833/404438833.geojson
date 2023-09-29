@@ -10,12 +10,18 @@
     "geom:latitude":53.058641,
     "geom:longitude":-2.674032,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.05806,
     "lbl:longitude":-2.67346,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cholmondeley"
@@ -48,12 +54,15 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010924"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125782915
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ccc234920f71e9bea8d8cda38a787305",
+    "wof:geomhash":"887be5a097b9f0b9d651efbd67913f1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404438833,
     "wof:label":"Cholmondeley Civil Parish",
-    "wof:lastmodified":1566632573,
+    "wof:lastmodified":1695877266,
     "wof:name":"Cholmondeley",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

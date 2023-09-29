@@ -10,12 +10,18 @@
     "geom:latitude":51.403184,
     "geom:longitude":-2.554878,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.4015,
     "lbl:longitude":-2.552266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Whitchurch"
@@ -75,12 +81,15 @@
         1360698775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000998"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1225879917
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f54dfe096852c54f27ca77fbb81d4155",
+    "wof:geomhash":"1e787e8305ddc8569e7b29e03d3a7c07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
     ],
     "wof:id":404439701,
     "wof:label":"Whitchurch Civil Parish",
-    "wof:lastmodified":1566631833,
+    "wof:lastmodified":1695876941,
     "wof:name":"Whitchurch",
     "wof:parent_id":1360698775,
     "wof:placetype":"localadmin",

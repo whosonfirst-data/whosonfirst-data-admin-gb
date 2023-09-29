@@ -10,12 +10,18 @@
     "geom:latitude":53.368294,
     "geom:longitude":-1.022489,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.368728,
     "lbl:longitude":-1.022477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Torworth"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007843"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126026285
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bfbdf2f62ddfec7f45d7ce513ef81c11",
+    "wof:geomhash":"c059fe9099b23b20fb6b7fc2f9e2c19d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404439639,
     "wof:label":"Torworth Civil Parish",
-    "wof:lastmodified":1566631913,
+    "wof:lastmodified":1695876980,
     "wof:name":"Torworth",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

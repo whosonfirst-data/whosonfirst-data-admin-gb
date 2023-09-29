@@ -10,12 +10,18 @@
     "geom:latitude":54.033468,
     "geom:longitude":-2.130737,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.029685,
     "lbl:longitude":-2.135832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Calton"
@@ -49,12 +55,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007069"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757589
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0777665b185ab681952648dee7277a80",
+    "wof:geomhash":"4dbbbc20585f1b66a227211ee4d7248f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +76,7 @@
     ],
     "wof:id":404448877,
     "wof:label":"Calton Civil Parish",
-    "wof:lastmodified":1566631539,
+    "wof:lastmodified":1695876831,
     "wof:name":"Calton",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

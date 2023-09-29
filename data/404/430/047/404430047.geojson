@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000757,
-    "geom:area_square_m":5750146.882886,
+    "geom:area_square_m":5750146.882885,
     "geom:bbox":"-0.928205100325,52.0868225336,-0.865278205852,52.1121444261",
     "geom:latitude":52.097775,
     "geom:longitude":-0.892733,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.100917,
     "lbl:longitude":-0.879168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yardley Gobion"
@@ -66,12 +72,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006872"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126051195
     ],
     "wof:country":"GB",
-    "wof:geomhash":"91524b5e6d23ace164954d5ec5f4ea05",
+    "wof:geomhash":"cc7dd96277744a0ce292b433c3bdfeec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +93,7 @@
     ],
     "wof:id":404430047,
     "wof:label":"Yardley Gobion Civil Parish",
-    "wof:lastmodified":1566631960,
+    "wof:lastmodified":1695877000,
     "wof:name":"Yardley Gobion",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

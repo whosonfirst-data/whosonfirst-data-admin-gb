@@ -10,12 +10,18 @@
     "geom:latitude":52.816184,
     "geom:longitude":-1.140075,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.814679,
     "lbl:longitude":-1.139616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rempstone"
@@ -54,12 +60,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007995"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125972425
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1b8d398bae9c65d1a622f513b80c7e4d",
+    "wof:geomhash":"ccb7b152d4b007cca1a7b3beda139aae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404453401,
     "wof:label":"Rempstone Civil Parish",
-    "wof:lastmodified":1566632777,
+    "wof:lastmodified":1695877364,
     "wof:name":"Rempstone",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

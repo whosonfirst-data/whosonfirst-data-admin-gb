@@ -10,12 +10,18 @@
     "geom:latitude":52.021251,
     "geom:longitude":0.3953,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.021408,
     "lbl:longitude":0.384279,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hempstead"
@@ -84,12 +90,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004139"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1226471183
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4165fbd24f163f0a648af49c0c8508c9",
+    "wof:geomhash":"faadbc62d23ce7611248f1603ec737dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404449501,
     "wof:label":"Hempstead Civil Parish",
-    "wof:lastmodified":1566631402,
+    "wof:lastmodified":1695878339,
     "wof:name":"Hempstead",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002887,
-    "geom:area_square_m":22203414.927764,
+    "geom:area_square_m":22203414.927765,
     "geom:bbox":"-2.89571254922,51.5104007249,-2.80871739383,51.5798853247",
     "geom:latitude":51.547103,
     "geom:longitude":-2.854694,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.557672,
     "lbl:longitude":-2.862588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Redwick Community"
@@ -40,12 +46,15 @@
         1360698735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000828"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126033529
     ],
     "wof:country":"GB",
-    "wof:geomhash":"035abb154b82a761675f7530f789a467",
+    "wof:geomhash":"867aecc91d5e51004d6e0c8dd7dfe494",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404438791,
-    "wof:lastmodified":1566632544,
+    "wof:lastmodified":1695877253,
     "wof:name":"Redwick Community",
     "wof:parent_id":1360698735,
     "wof:placetype":"localadmin",

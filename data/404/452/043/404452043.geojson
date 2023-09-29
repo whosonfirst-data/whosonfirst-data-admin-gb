@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1403634.706499,
+    "geom:area_square_m":1403634.706498,
     "geom:bbox":"-1.21192681612,54.6918276521,-1.17380618187,54.709897977",
     "geom:latitude":54.700845,
     "geom:longitude":-1.189381,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.698364,
     "lbl:longitude":-1.184345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Penrhyn"
@@ -82,12 +88,15 @@
         1360698981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000260"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757685
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1c75fd6e911b45111979557fc1411a5f",
+    "wof:geomhash":"fd9f9cd2c1cfabb294671c2041bb1755",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +109,7 @@
     ],
     "wof:id":404452043,
     "wof:label":"Headland Civil Parish",
-    "wof:lastmodified":1566632239,
+    "wof:lastmodified":1695877116,
     "wof:name":"Headland",
     "wof:parent_id":1360698981,
     "wof:placetype":"localadmin",

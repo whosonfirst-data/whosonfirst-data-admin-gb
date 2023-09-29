@@ -10,12 +10,18 @@
     "geom:latitude":53.974426,
     "geom:longitude":-1.74795,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.976358,
     "lbl:longitude":-1.744471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Great Timble"
@@ -40,12 +46,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007352"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754749
     ],
     "wof:country":"GB",
-    "wof:geomhash":"24e32a612feb257deb9c410f3c718bb5",
+    "wof:geomhash":"1a9f205251ac86059d536d2c8038114e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
     ],
     "wof:id":404450155,
     "wof:label":"Great Timble Civil Parish",
-    "wof:lastmodified":1566633802,
+    "wof:lastmodified":1695877818,
     "wof:name":"Great Timble",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

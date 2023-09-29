@@ -10,12 +10,18 @@
     "geom:latitude":52.451489,
     "geom:longitude":-2.317802,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.446791,
     "lbl:longitude":-2.318214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Romsley"
@@ -55,12 +61,15 @@
         1360698821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04011346"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757163
     ],
     "wof:country":"GB",
-    "wof:geomhash":"460af11f79653343a4b3fb4b37731df7",
+    "wof:geomhash":"936eb6aa8101249d841159e42a509f19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
     ],
     "wof:id":404432213,
     "wof:label":"Romsley Civil Parish",
-    "wof:lastmodified":1566633946,
+    "wof:lastmodified":1695877872,
     "wof:name":"Romsley",
     "wof:parent_id":1360698821,
     "wof:placetype":"localadmin",

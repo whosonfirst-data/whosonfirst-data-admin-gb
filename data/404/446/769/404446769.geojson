@@ -10,12 +10,18 @@
     "geom:latitude":52.947212,
     "geom:longitude":-1.846838,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.947174,
     "lbl:longitude":-1.846833,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rocester"
@@ -63,12 +69,15 @@
         1360698947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008897"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101871899
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d9527656788d12c340c193ecc10e700c",
+    "wof:geomhash":"0ccb12dd2787d30945ed6ef03c642634",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404446769,
     "wof:label":"Rocester Civil Parish",
-    "wof:lastmodified":1566631659,
+    "wof:lastmodified":1695876870,
     "wof:name":"Rocester",
     "wof:parent_id":1360698947,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":52.016724,
     "geom:longitude":-0.082761,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.021545,
     "lbl:longitude":-0.088224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kelshall"
@@ -57,12 +63,15 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004780"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126022433
     ],
     "wof:country":"GB",
-    "wof:geomhash":"1966add7c75c23d4cf952d0417453d0e",
+    "wof:geomhash":"c84ef9e66cb7a7cfa9fd8d90d31fb56d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404445165,
     "wof:label":"Kelshall Civil Parish",
-    "wof:lastmodified":1566633366,
+    "wof:lastmodified":1695877625,
     "wof:name":"Kelshall",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",

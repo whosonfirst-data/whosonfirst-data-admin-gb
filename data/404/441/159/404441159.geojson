@@ -10,12 +10,18 @@
     "geom:latitude":53.98876,
     "geom:longitude":-0.897445,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.989028,
     "lbl:longitude":-0.891489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Stamford Bridge"
@@ -84,12 +90,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000481"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101872263
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fe82071220e4ee0959565e1539407766",
+    "wof:geomhash":"e93c9f55f6132a0e3dc14d922f8792db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
     ],
     "wof:id":404441159,
     "wof:label":"Stamford Bridge Civil Parish",
-    "wof:lastmodified":1566631718,
+    "wof:lastmodified":1695876892,
     "wof:name":"Stamford Bridge",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001711,
-    "geom:area_square_m":12997711.269399,
+    "geom:area_square_m":12997711.269398,
     "geom:bbox":"-0.676802172453,52.0735560692,-0.596756739366,52.1097449845",
     "geom:latitude":52.092859,
     "geom:longitude":-0.643197,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.091874,
     "lbl:longitude":-0.651926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062b \u0643\u0631\u0648\u0644\u064a"
@@ -72,12 +78,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001267"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126059825
     ],
     "wof:country":"GB",
-    "wof:geomhash":"fa5366b3636732c8f6f9e05d5463ba35",
+    "wof:geomhash":"f70560ad16126189d03d707760dbd951",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +99,7 @@
     ],
     "wof:id":404447151,
     "wof:label":"North Crawley Civil Parish",
-    "wof:lastmodified":1566631249,
+    "wof:lastmodified":1695878270,
     "wof:name":"North Crawley",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

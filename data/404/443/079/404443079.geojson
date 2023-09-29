@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001275,
-    "geom:area_square_m":9620019.310112,
+    "geom:area_square_m":9620019.310113,
     "geom:bbox":"1.66502345923,52.3811185856,1.72885095713,52.4160206488",
     "geom:latitude":52.397219,
     "geom:longitude":1.695659,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.39667,
     "lbl:longitude":1.693488,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Benacre"
@@ -42,12 +48,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009486"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126046787
     ],
     "wof:country":"GB",
-    "wof:geomhash":"024a155ee1402bd2d4b18fee65177f63",
+    "wof:geomhash":"ace9d3d36c9a25000d0c2f892c112895",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404443079,
     "wof:label":"Benacre Civil Parish",
-    "wof:lastmodified":1566633000,
+    "wof:lastmodified":1695877458,
     "wof:name":"Benacre",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":53.870317,
     "geom:longitude":-0.143607,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.868317,
     "lbl:longitude":-0.139572,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mappleton"
@@ -54,12 +60,15 @@
         1360699001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000434"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126030935
     ],
     "wof:country":"GB",
-    "wof:geomhash":"bb42eacfa2969b8537978a445b8b4628",
+    "wof:geomhash":"3687d899e6f09e3cc7cd4b8eb0f29b89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404439403,
     "wof:label":"Mappleton Civil Parish",
-    "wof:lastmodified":1566631917,
+    "wof:lastmodified":1695876983,
     "wof:name":"Mappleton",
     "wof:parent_id":1360699001,
     "wof:placetype":"localadmin",

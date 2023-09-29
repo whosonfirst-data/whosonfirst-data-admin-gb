@@ -10,12 +10,18 @@
     "geom:latitude":52.378146,
     "geom:longitude":-0.523886,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.379524,
     "lbl:longitude":-0.523891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Denford"
@@ -57,12 +63,15 @@
         1360698755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04006721"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125909017
     ],
     "wof:country":"GB",
-    "wof:geomhash":"8e04f05e43f9e7a9f97bf9ab377eedbc",
+    "wof:geomhash":"9d8e3eaa7d7431194206c7bc7f86d649",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404446837,
     "wof:label":"Denford Civil Parish",
-    "wof:lastmodified":1566631691,
+    "wof:lastmodified":1695876881,
     "wof:name":"Denford",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

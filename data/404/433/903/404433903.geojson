@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001426,
-    "geom:area_square_m":11081943.766912,
+    "geom:area_square_m":11081943.766911,
     "geom:bbox":"0.877510814881,51.0490118345,0.930167898376,51.1019565745",
     "geom:latitude":51.074697,
     "geom:longitude":0.907175,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.077788,
     "lbl:longitude":0.907571,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bilsington"
@@ -63,12 +69,15 @@
         1360698811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04004828"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125912075
     ],
     "wof:country":"GB",
-    "wof:geomhash":"61e6abc60da8535b9ce275ab031dac2e",
+    "wof:geomhash":"fac0230cccc83c90b8c051adb9385a6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
     ],
     "wof:id":404433903,
     "wof:label":"Bilsington Civil Parish",
-    "wof:lastmodified":1566633694,
+    "wof:lastmodified":1695877773,
     "wof:name":"Bilsington",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

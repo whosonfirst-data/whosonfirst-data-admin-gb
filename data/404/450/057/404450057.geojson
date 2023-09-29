@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004769,
-    "geom:area_square_m":36024526.345763,
+    "geom:area_square_m":36024526.34576,
     "geom:bbox":"-2.43653468537,52.3148056154,-2.31095444852,52.388199603",
     "geom:latitude":52.347168,
     "geom:longitude":-2.378219,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.350822,
     "lbl:longitude":-2.384375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Rock"
@@ -120,12 +126,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010452"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1309935017
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3550b65173c960d44a1281c69ba71596",
+    "wof:geomhash":"98bed1a57b163a21fe99ce32a51a4a18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +147,7 @@
     ],
     "wof:id":404450057,
     "wof:label":"Rock Civil Parish",
-    "wof:lastmodified":1566633827,
+    "wof:lastmodified":1695877828,
     "wof:name":"Rock",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

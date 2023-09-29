@@ -10,12 +10,18 @@
     "geom:latitude":52.600862,
     "geom:longitude":-0.729307,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.599936,
     "lbl:longitude":-0.729732,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u06cc\u0633\u062a\u0648\u0646"
@@ -70,12 +76,15 @@
         1360699103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000625"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757829
     ],
     "wof:country":"GB",
-    "wof:geomhash":"89f515da084749b962e77714c16b7c5c",
+    "wof:geomhash":"855a4b7b66c1c4ed4fb226a7d9a85a86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +97,7 @@
     ],
     "wof:id":404452117,
     "wof:label":"Ayston Civil Parish",
-    "wof:lastmodified":1566632216,
+    "wof:lastmodified":1695877106,
     "wof:name":"Ayston",
     "wof:parent_id":1360699103,
     "wof:placetype":"localadmin",

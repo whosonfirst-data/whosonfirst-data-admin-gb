@@ -10,12 +10,18 @@
     "geom:latitude":52.133542,
     "geom:longitude":-2.126886,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.127752,
     "lbl:longitude":-2.123573,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Drakes Broughton and Wadborough"
@@ -43,12 +49,15 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04010385"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360754889
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6a2e4413345bf303508987822758d95f",
+    "wof:geomhash":"47d3950ceaff088f5ff17adfa039a854",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404430747,
     "wof:label":"Drakes Broughton and Wadborough Civil Parish",
-    "wof:lastmodified":1566631982,
+    "wof:lastmodified":1695877009,
     "wof:name":"Drakes Broughton and Wadborough",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

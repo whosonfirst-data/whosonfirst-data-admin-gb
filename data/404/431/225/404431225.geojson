@@ -10,12 +10,18 @@
     "geom:latitude":52.378232,
     "geom:longitude":-0.307901,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.377458,
     "lbl:longitude":-0.307907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0648\u0631\u062a"
@@ -61,12 +67,15 @@
         1360698845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001682"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360755591
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3c895d4d2fddc0cfb08027c662d370e0",
+    "wof:geomhash":"365644148b72e9142a99f0fdc7719e25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,7 @@
     ],
     "wof:id":404431225,
     "wof:label":"Buckworth Civil Parish",
-    "wof:lastmodified":1566632506,
+    "wof:lastmodified":1695877234,
     "wof:name":"Buckworth",
     "wof:parent_id":1360698845,
     "wof:placetype":"localadmin",

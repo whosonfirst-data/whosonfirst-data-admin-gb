@@ -10,12 +10,18 @@
     "geom:latitude":53.925899,
     "geom:longitude":-1.183689,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.927333,
     "lbl:longitude":-1.183407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Askham Richard"
@@ -60,12 +66,15 @@
         1360698977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000594"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125834973
     ],
     "wof:country":"GB",
-    "wof:geomhash":"925a37fac5c6b9aeeccb220a07cc0947",
+    "wof:geomhash":"b22095f30bff7f0740968814a42ae900",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,7 @@
     ],
     "wof:id":404447555,
     "wof:label":"Askham Richard Civil Parish",
-    "wof:lastmodified":1566631293,
+    "wof:lastmodified":1695878293,
     "wof:name":"Askham Richard",
     "wof:parent_id":1360698977,
     "wof:placetype":"localadmin",

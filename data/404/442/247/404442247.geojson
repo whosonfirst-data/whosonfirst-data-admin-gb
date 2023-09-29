@@ -10,12 +10,18 @@
     "geom:latitude":52.722151,
     "geom:longitude":-1.030301,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.722318,
     "lbl:longitude":-1.029862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rearsby"
@@ -57,12 +63,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005383"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125973997
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c1c4e1241d2caf0f183932755edcb674",
+    "wof:geomhash":"9a53934575a4c9f19da6f607059c23e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
     ],
     "wof:id":404442247,
     "wof:label":"Rearsby Civil Parish",
-    "wof:lastmodified":1566633272,
+    "wof:lastmodified":1695877582,
     "wof:name":"Rearsby",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

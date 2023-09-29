@@ -10,12 +10,18 @@
     "geom:latitude":52.276911,
     "geom:longitude":-1.0776,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.277005,
     "lbl:longitude":-1.077106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whilton"
@@ -61,9 +67,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04010522",
         "gn:id":7299536,
         "qs_pg:id":380386
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125920653
     ],
@@ -71,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a2ef8df995489063d1acbf499b4dcda",
+    "wof:geomhash":"16c00411d2200ff70df5b7aecfe1dfa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +92,7 @@
     ],
     "wof:id":404440597,
     "wof:label":"Whilton Civil Parish",
-    "wof:lastmodified":1582311049,
+    "wof:lastmodified":1695877947,
     "wof:name":"Whilton",
     "wof:parent_id":1360698755,
     "wof:placetype":"localadmin",

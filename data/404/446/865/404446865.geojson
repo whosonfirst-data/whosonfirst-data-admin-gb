@@ -10,12 +10,18 @@
     "geom:latitude":52.068741,
     "geom:longitude":-0.681365,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.069724,
     "lbl:longitude":-0.680683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0644\u0633"
@@ -69,12 +75,15 @@
         1360698913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001264"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293524713
     ],
     "wof:country":"GB",
-    "wof:geomhash":"59732fe1872a07ecf5477b85c2a0510c",
+    "wof:geomhash":"e180094bf9bcaa1c9c200dda95925dde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404446865,
     "wof:label":"Moulsoe Civil Parish",
-    "wof:lastmodified":1566631689,
+    "wof:lastmodified":1695876881,
     "wof:name":"Moulsoe",
     "wof:parent_id":1360698913,
     "wof:placetype":"localadmin",

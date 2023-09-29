@@ -10,12 +10,18 @@
     "geom:latitude":51.007901,
     "geom:longitude":-2.776884,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.007667,
     "lbl:longitude":-2.777259,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Long Load"
@@ -54,12 +60,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008723"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1293229815
     ],
     "wof:country":"GB",
-    "wof:geomhash":"f1d20bebe6dbf0158ce0c3308baad340",
+    "wof:geomhash":"916fbe0ebab2a6b889f830b1956c5184",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404441533,
     "wof:label":"Long Load Civil Parish",
-    "wof:lastmodified":1566631717,
+    "wof:lastmodified":1695876892,
     "wof:name":"Long Load",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

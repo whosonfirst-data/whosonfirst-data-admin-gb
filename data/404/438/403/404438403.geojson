@@ -10,12 +10,18 @@
     "geom:latitude":51.306599,
     "geom:longitude":1.152205,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.306129,
     "lbl:longitude":1.152602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Westbere"
@@ -70,9 +76,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gbr-ons:gss_code":"E04004888",
         "gn:id":7294679,
         "qs_pg:id":1040772
     },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125863635
     ],
@@ -80,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"724f28e5c2fe6782868725ec8ac3e41c",
+    "wof:geomhash":"cb5e1b4a4cc14a726cc31fa0aa759158",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +101,7 @@
     ],
     "wof:id":404438403,
     "wof:label":"Westbere Civil Parish",
-    "wof:lastmodified":1582311106,
+    "wof:lastmodified":1695877970,
     "wof:name":"Westbere",
     "wof:parent_id":1360698811,
     "wof:placetype":"localadmin",

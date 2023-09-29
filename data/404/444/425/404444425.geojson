@@ -10,12 +10,18 @@
     "geom:latitude":51.987146,
     "geom:longitude":0.908046,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.988427,
     "lbl:longitude":0.917387,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stoke-By-Nayland"
@@ -42,12 +48,15 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009126"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125803437
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c939a6af7f28ae0132091ce6afc580f3",
+    "wof:geomhash":"64d4701eb7c883cf4ed5c5fee88f3d74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404444425,
     "wof:label":"Stoke-By-Nayland Civil Parish",
-    "wof:lastmodified":1566632879,
+    "wof:lastmodified":1695877408,
     "wof:name":"Stoke-By-Nayland",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

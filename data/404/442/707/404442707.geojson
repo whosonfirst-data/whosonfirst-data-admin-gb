@@ -10,12 +10,18 @@
     "geom:latitude":53.337632,
     "geom:longitude":-0.895955,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":53.337121,
     "lbl:longitude":-0.895961,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clarborough and Welham"
@@ -43,12 +49,15 @@
         1360698809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007797"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1360757939
     ],
     "wof:country":"GB",
-    "wof:geomhash":"46b34cc807c9dedaded7a77453d33590",
+    "wof:geomhash":"20b10bb05e22ee794c713fd2cf613743",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,7 @@
     ],
     "wof:id":404442707,
     "wof:label":"Clarborough and Welham Civil Parish",
-    "wof:lastmodified":1566633207,
+    "wof:lastmodified":1695877554,
     "wof:name":"Clarborough and Welham",
     "wof:parent_id":1360698809,
     "wof:placetype":"localadmin",

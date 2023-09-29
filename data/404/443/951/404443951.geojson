@@ -10,12 +10,18 @@
     "geom:latitude":51.843342,
     "geom:longitude":-0.851924,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.83915,
     "lbl:longitude":-0.85232,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Quarrendon"
@@ -51,12 +57,15 @@
         1360698997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04001525"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125853415
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ff7181842e56d621ca77f84456ce7db5",
+    "wof:geomhash":"18bb1cc81018f3fff1065eb0c07be6a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
     ],
     "wof:id":404443951,
     "wof:label":"Quarrendon Civil Parish",
-    "wof:lastmodified":1566633046,
+    "wof:lastmodified":1695877481,
     "wof:name":"Quarrendon",
     "wof:parent_id":1360698997,
     "wof:placetype":"localadmin",

@@ -10,12 +10,18 @@
     "geom:latitude":50.867215,
     "geom:longitude":-0.909546,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.868786,
     "lbl:longitude":-0.911654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Westbourne"
@@ -48,12 +54,15 @@
         1360698757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04009937"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125863853
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3fc0fe80b6063df200c10212960000bb",
+    "wof:geomhash":"017a27bf451d9b0637bcd9886bc1e404",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
     ],
     "wof:id":404453483,
     "wof:label":"Westbourne Civil Parish",
-    "wof:lastmodified":1566632770,
+    "wof:lastmodified":1695877360,
     "wof:name":"Westbourne",
     "wof:parent_id":1360698757,
     "wof:placetype":"localadmin",

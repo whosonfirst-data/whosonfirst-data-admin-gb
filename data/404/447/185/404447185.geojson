@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001182,
-    "geom:area_square_m":8849926.717435,
+    "geom:area_square_m":8849926.717436,
     "geom:bbox":"-1.19908690913,52.7226235756,-1.15123032481,52.7669105006",
     "geom:latitude":52.744254,
     "geom:longitude":-1.17463,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.745907,
     "lbl:longitude":-1.176616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Quorndon"
@@ -42,12 +48,15 @@
         1360698871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04005381"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125884109
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6b03ec0c0668cc24b25d0069f4dbc033",
+    "wof:geomhash":"15d0028db925767bba91ca77b3781e03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404447185,
     "wof:label":"Quorndon Civil Parish",
-    "wof:lastmodified":1566631345,
+    "wof:lastmodified":1695878316,
     "wof:name":"Quorndon",
     "wof:parent_id":1360698871,
     "wof:placetype":"localadmin",

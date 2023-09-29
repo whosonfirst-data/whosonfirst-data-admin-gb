@@ -10,12 +10,18 @@
     "geom:latitude":54.071024,
     "geom:longitude":-0.966972,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.07285,
     "lbl:longitude":-0.967289,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thornton-Le-Clay"
@@ -42,12 +48,15 @@
         1360698753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04007640"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125877243
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e1a513e6ff9ba56c5a7ab461eff72753",
+    "wof:geomhash":"d630ed377e4eecbbb56176fdb6f2f1ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
     ],
     "wof:id":404436683,
     "wof:label":"Thornton-Le-Clay Civil Parish",
-    "wof:lastmodified":1566632401,
+    "wof:lastmodified":1695877187,
     "wof:name":"Thornton-Le-Clay",
     "wof:parent_id":1360698753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002487,
-    "geom:area_square_m":19030571.632856,
+    "geom:area_square_m":19030571.632855,
     "geom:bbox":"0.551229901431,51.7503585932,0.648323500444,51.7960034165",
     "geom:latitude":51.772938,
     "geom:longitude":0.595572,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.772382,
     "lbl:longitude":0.594841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hatfield Peverel"
@@ -69,12 +75,15 @@
         1360698979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04003908"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         101854715
     ],
     "wof:country":"GB",
-    "wof:geomhash":"59483d240aa2b83ff312210a92db9d31",
+    "wof:geomhash":"566e5b589c70af4aa4c76097ae3bae00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
     ],
     "wof:id":404430661,
     "wof:label":"Hatfield Peverel Civil Parish",
-    "wof:lastmodified":1566631973,
+    "wof:lastmodified":1695877005,
     "wof:name":"Hatfield Peverel",
     "wof:parent_id":1360698979,
     "wof:placetype":"localadmin",

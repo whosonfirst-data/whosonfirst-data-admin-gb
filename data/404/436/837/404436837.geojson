@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001811,
-    "geom:area_square_m":14107056.069596,
+    "geom:area_square_m":14107056.069595,
     "geom:bbox":"-2.8424300615,50.9241136006,-2.77104273915,50.9703829827",
     "geom:latitude":50.945612,
     "geom:longitude":-2.806781,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":50.947682,
     "lbl:longitude":-2.80731,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0648\u062a \u067e\u062a\u0631\u062a\u0648\u0646"
@@ -87,12 +93,15 @@
         1360699059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04008755"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125843711
     ],
     "wof:country":"GB",
-    "wof:geomhash":"4bdffe8a7c4ba28f0d4a9eedbbcdadc9",
+    "wof:geomhash":"953c505e4274ebca719ab76f566a9797",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
     ],
     "wof:id":404436837,
     "wof:label":"South Petherton Civil Parish",
-    "wof:lastmodified":1566632408,
+    "wof:lastmodified":1695877190,
     "wof:name":"South Petherton",
     "wof:parent_id":1360699059,
     "wof:placetype":"localadmin",

@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001855,
-    "geom:area_square_m":14193225.906297,
+    "geom:area_square_m":14193225.906296,
     "geom:bbox":"-4.7912270221,51.7568718591,-4.70849426104,51.7888683566",
     "geom:latitude":51.773896,
     "geom:longitude":-4.749176,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "community"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":51.773731,
     "lbl:longitude":-4.748384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Templeton Community"
@@ -40,12 +46,15 @@
         1360698843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"W04000477"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1126002041
     ],
     "wof:country":"GB",
-    "wof:geomhash":"ed29352111a7f9e3c5755a777a83e135",
+    "wof:geomhash":"9b36814ceaa10eaab60644afaea67428",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":404436149,
-    "wof:lastmodified":1566632427,
+    "wof:lastmodified":1695877198,
     "wof:name":"Templeton Community",
     "wof:parent_id":1360698843,
     "wof:placetype":"localadmin",

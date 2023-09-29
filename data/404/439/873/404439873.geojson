@@ -10,12 +10,18 @@
     "geom:latitude":52.0734,
     "geom:longitude":-2.79092,
     "iso:country":"GB",
+    "label:eng_x_preferred_placetype":[
+        "civil parish"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":52.072396,
     "lbl:longitude":-2.792689,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stretton Sugwas"
@@ -54,12 +60,15 @@
         1360699053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04000879"
+    },
+    "wof:concordances_official":"gbr-ons:gss_code",
     "wof:coterminous":[
         1125969567
     ],
     "wof:country":"GB",
-    "wof:geomhash":"e02a7bab0e601004c475760429cea3b7",
+    "wof:geomhash":"e06873d356016c77bc88111c5f679131",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
     ],
     "wof:id":404439873,
     "wof:label":"Stretton Sugwas Civil Parish",
-    "wof:lastmodified":1566631850,
+    "wof:lastmodified":1695876949,
     "wof:name":"Stretton Sugwas",
     "wof:parent_id":1360699053,
     "wof:placetype":"localadmin",
