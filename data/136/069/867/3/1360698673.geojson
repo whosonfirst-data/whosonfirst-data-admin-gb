@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-24",
     "geom:area":0.039314,
     "geom:area_square_m":272355752.446934,
     "geom:bbox":"-3.453919,55.818794,-3.074951,56.01263",
@@ -22,7 +23,7 @@
     "mps:latitude":55.92947,
     "mps:longitude":-3.307252,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:eng_x_preferred":[
         "City of Edinburgh"
@@ -67,12 +68,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884740,
+    "wof:lastmodified":1698206146,
     "wof:name":"City of Edinburgh",
     "wof:parent_id":404227471,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880753483
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

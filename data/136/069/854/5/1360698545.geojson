@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-24",
     "geom:area":0.343881,
     "geom:area_square_m":2687341124.33216,
     "geom:bbox":"-2.961595,50.512863,-1.681663,51.080998",
@@ -22,7 +23,7 @@
     "mps:latitude":50.794363,
     "mps:longitude":-2.304599,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Dorset"
@@ -270,12 +271,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884556,
+    "wof:lastmodified":1698206258,
     "wof:name":"Dorset",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880753569
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

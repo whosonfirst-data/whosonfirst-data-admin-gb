@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-24",
     "geom:area":0.286717,
     "geom:area_square_m":2150052843.499152,
     "geom:bbox":"-1.597547,52.392154,-0.664111,52.977657",
@@ -22,7 +23,7 @@
     "mps:latitude":52.620632,
     "mps:longitude":-1.113981,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Leicestershire"
@@ -252,12 +253,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884465,
+    "wof:lastmodified":1698206102,
     "wof:name":"Leicestershire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880753443
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

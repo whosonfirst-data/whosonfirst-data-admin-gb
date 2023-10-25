@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-24",
     "geom:area":0.172956,
     "geom:area_square_m":1271654747.987445,
     "geom:bbox":"-2.730521,53.327298,-1.909622,53.685719",
@@ -22,7 +23,7 @@
     "mps:latitude":53.486278,
     "mps:longitude":-2.284169,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Groter Manchester"
@@ -264,12 +265,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884563,
+    "wof:lastmodified":1698206272,
     "wof:name":"Greater Manchester",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880753581
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

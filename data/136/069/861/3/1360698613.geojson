@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-24",
     "geom:area":0.229071,
     "geom:area_square_m":1735129730.539757,
     "geom:bbox":"-2.66321,51.966557,-1.757409,52.455303",
@@ -22,7 +23,7 @@
     "mps:latitude":52.236383,
     "mps:longitude":-2.169111,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Worcestershire"
@@ -252,12 +253,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884622,
+    "wof:lastmodified":1698206030,
     "wof:name":"Worcestershire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880753413
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

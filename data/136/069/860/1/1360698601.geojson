@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-24",
     "geom:area":0.077334,
     "geom:area_square_m":549107374.611275,
     "geom:bbox":"-1.852717,54.799043,-1.345665,55.079382",
@@ -22,7 +23,7 @@
     "mps:latitude":54.967341,
     "mps:longitude":-1.539488,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:cat_x_preferred":[
         "Tyne"
@@ -75,12 +76,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884753,
+    "wof:lastmodified":1698206115,
     "wof:name":"Tyne & Wear",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880753457
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

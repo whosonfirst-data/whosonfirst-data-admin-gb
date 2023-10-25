@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-24",
     "geom:area":0.422402,
     "geom:area_square_m":3231450868.266589,
     "geom:bbox":"-2.710695,51.415904,-1.615202,52.11258",
@@ -22,7 +23,7 @@
     "mps:latitude":51.792969,
     "mps:longitude":-2.191374,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Gloucestershire"
@@ -258,12 +259,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884422,
+    "wof:lastmodified":1698206269,
     "wof:name":"Gloucestershire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880753579
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

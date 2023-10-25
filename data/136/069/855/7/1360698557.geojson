@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-24",
     "geom:area":0.494503,
     "geom:area_square_m":3843215856.265414,
     "geom:bbox":"-1.957277,50.705743,-0.729344,51.383915",
@@ -22,7 +23,7 @@
     "mps:latitude":51.090259,
     "mps:longitude":-1.2241,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Hampshire"
@@ -279,12 +280,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884564,
+    "wof:lastmodified":1698206263,
     "wof:name":"Hampshire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880753575
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

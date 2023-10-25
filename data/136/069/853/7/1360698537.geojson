@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-24",
     "geom:area":0.320361,
     "geom:area_square_m":2372302142.827055,
     "geom:bbox":"-3.128278,52.94715,-1.97479,53.480914",
@@ -22,7 +23,7 @@
     "mps:latitude":53.208788,
     "mps:longitude":-2.571892,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Cheshire"
@@ -258,12 +259,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884651,
+    "wof:lastmodified":1698206240,
     "wof:name":"Cheshire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880753555
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

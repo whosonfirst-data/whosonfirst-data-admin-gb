@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-24",
     "geom:area":0.459673,
     "geom:area_square_m":3622825843.38006,
     "geom:bbox":"-6.418942,49.864636,-4.164943,50.931272",
@@ -22,7 +23,7 @@
     "mps:latitude":50.558244,
     "mps:longitude":-4.514878,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Cornwall"
@@ -345,12 +346,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884588,
+    "wof:lastmodified":1698206214,
     "wof:name":"Cornwall",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880753539
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
