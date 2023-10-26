@@ -7,6 +7,7 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.479723,
     "geom:area_square_m":3727874864.652074,
     "geom:bbox":"-1.957211,50.70528,-0.729367,51.383915",
@@ -26,7 +27,7 @@
     "mps:latitude":51.099212,
     "mps:longitude":-1.144642,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
@@ -476,7 +477,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279198,
+    "wof:lastmodified":1698303425,
     "wof:name":"Hampshire",
     "wof:parent_id":1360698557,
     "wof:placetype":"county",
@@ -486,7 +487,9 @@
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"HAM",
     "wof:subdivision":"GB-HAM",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762717
+    ],
     "wof:supersedes":[
         85684375
     ],

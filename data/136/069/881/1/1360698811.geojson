@@ -7,6 +7,7 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.468434,
     "geom:area_square_m":3627663163.781381,
     "geom:bbox":"0.033583,50.911844,1.451863,51.482269",
@@ -26,7 +27,7 @@
     "mps:latitude":51.208966,
     "mps:longitude":0.78391,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
@@ -473,7 +474,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279078,
+    "wof:lastmodified":1698303413,
     "wof:name":"Kent",
     "wof:parent_id":1360698565,
     "wof:placetype":"county",
@@ -483,7 +484,9 @@
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"KEN",
     "wof:subdivision":"GB-KEN",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762705
+    ],
     "wof:supersedes":[
         85684363
     ],

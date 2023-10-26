@@ -7,6 +7,7 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.214272,
     "geom:area_square_m":1637398471.113916,
     "geom:bbox":"-0.74565,51.599663,0.195639,52.080547",
@@ -26,7 +27,7 @@
     "mps:latitude":51.846273,
     "mps:longitude":-0.145641,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
@@ -443,7 +444,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279196,
+    "wof:lastmodified":1698303431,
     "wof:name":"Hertfordshire",
     "wof:parent_id":1360698559,
     "wof:placetype":"county",
@@ -453,7 +454,9 @@
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"HRT",
     "wof:subdivision":"GB-HRT",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762721
+    ],
     "wof:supersedes":[
         85684331
     ],

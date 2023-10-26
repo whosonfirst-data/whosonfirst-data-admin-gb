@@ -7,6 +7,7 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.402827,
     "geom:area_square_m":3043284690.70076,
     "geom:bbox":"-0.499841,52.005787,0.514241,52.740005",
@@ -26,7 +27,7 @@
     "mps:latitude":52.336475,
     "mps:longitude":0.025778,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
@@ -481,7 +482,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279179,
+    "wof:lastmodified":1698303395,
     "wof:name":"Cambridgeshire",
     "wof:parent_id":1360698535,
     "wof:placetype":"county",
@@ -491,7 +492,9 @@
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"CAM",
     "wof:subdivision":"GB-CAM",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762687
+    ],
     "wof:supersedes":[
         85683871
     ],

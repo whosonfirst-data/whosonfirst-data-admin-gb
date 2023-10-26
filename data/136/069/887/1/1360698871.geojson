@@ -7,6 +7,7 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.276979,
     "geom:area_square_m":2076985492.992398,
     "geom:bbox":"-1.597507,52.392174,-0.664051,52.977627",
@@ -26,7 +27,7 @@
     "mps:latitude":52.672084,
     "mps:longitude":-0.9275,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
@@ -476,7 +477,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279071,
+    "wof:lastmodified":1698303422,
     "wof:name":"Leicestershire",
     "wof:parent_id":1360698569,
     "wof:placetype":"county",
@@ -486,7 +487,9 @@
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"LEC",
     "wof:subdivision":"GB-LEC",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762713
+    ],
     "wof:supersedes":[
         85683891
     ],
