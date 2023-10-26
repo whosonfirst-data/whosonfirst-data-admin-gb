@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.992279,
     "geom:area_square_m":7111183413.09358,
     "geom:bbox":"-3.639329,54.041879,-2.158979,55.189064",
@@ -23,7 +24,7 @@
     "mps:latitude":54.625589,
     "mps:longitude":-2.909677,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
@@ -446,7 +447,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698278921,
+    "wof:lastmodified":1698362494,
     "wof:name":"Cumbria",
     "wof:parent_id":1360698721,
     "wof:placetype":"county",
@@ -456,7 +457,10 @@
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"CU",
     "wof:subdivision":"GB-CMA",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880773235,
+        1880773239
+    ],
     "wof:supersedes":[
         85683641
     ],
