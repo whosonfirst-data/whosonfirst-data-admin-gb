@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.290338,
     "geom:area_square_m":2154159337.185743,
     "geom:bbox":"-1.344593,52.789391,-0.666263,53.502503",
@@ -22,7 +23,7 @@
     "mps:latitude":53.126258,
     "mps:longitude":-0.984843,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Nottinghamshire"
@@ -258,12 +259,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884464,
+    "wof:lastmodified":1698279100,
     "wof:name":"Nottinghamshire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

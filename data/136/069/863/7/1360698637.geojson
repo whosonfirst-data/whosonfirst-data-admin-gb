@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.401863,
     "geom:area_square_m":2982549402.726004,
     "geom:bbox":"-4.031332,52.861925,-2.724134,53.361893",
@@ -22,7 +23,7 @@
     "mps:latitude":53.097761,
     "mps:longitude":-3.270904,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:bre_x_preferred":[
         "Kontelezh Clwyd"
@@ -111,12 +112,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884562,
+    "wof:lastmodified":1698279229,
     "wof:name":"Clwyd",
     "wof:parent_id":404227475,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762183
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

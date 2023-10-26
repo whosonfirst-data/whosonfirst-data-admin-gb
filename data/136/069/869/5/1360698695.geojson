@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.976832,
     "geom:area_square_m":6732521001.069318,
     "geom:bbox":"-7.112458,55.27448,-4.559852,56.705082",
@@ -22,7 +23,7 @@
     "mps:latitude":56.287053,
     "mps:longitude":-5.302487,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:ast_x_preferred":[
         "Argyll y Bute"
@@ -191,12 +192,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884468,
+    "wof:lastmodified":1698279057,
     "wof:name":"Argyll and Bute",
     "wof:parent_id":404227471,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

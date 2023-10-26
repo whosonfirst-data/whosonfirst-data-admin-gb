@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.77145,
     "geom:area_square_m":5873264612.866881,
     "geom:bbox":"-5.670303,51.595975,-3.647125,52.562405",
@@ -22,7 +23,7 @@
     "mps:latitude":51.963861,
     "mps:longitude":-4.209996,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u064a\u0641\u062f"
@@ -108,12 +109,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884574,
+    "wof:lastmodified":1698279223,
     "wof:name":"Dyfed",
     "wof:parent_id":404227475,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762181
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

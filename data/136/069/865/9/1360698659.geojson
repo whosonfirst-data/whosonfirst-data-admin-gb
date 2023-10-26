@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.199057,
     "geom:area_square_m":1368213226.066334,
     "geom:bbox":"-3.739918,56.005832,-2.544237,56.453497",
@@ -22,7 +23,7 @@
     "mps:latitude":56.253073,
     "mps:longitude":-3.132502,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:ang_x_preferred":[
         "Fif Sc\u012br"
@@ -193,12 +194,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884398,
+    "wof:lastmodified":1698279161,
     "wof:name":"Fife",
     "wof:parent_id":404227471,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762125
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

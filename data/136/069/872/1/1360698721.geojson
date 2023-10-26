@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.998451,
     "geom:area_square_m":7155839167.594893,
     "geom:bbox":"-3.640621,54.039628,-2.158991,55.188981",
@@ -22,7 +23,7 @@
     "mps:latitude":54.576531,
     "mps:longitude":-2.911846,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Cumbria"
@@ -267,12 +268,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884610,
+    "wof:lastmodified":1698278920,
     "wof:name":"Cumbria",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880761989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

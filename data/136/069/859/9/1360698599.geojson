@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.215088,
     "geom:area_square_m":1664781939.837391,
     "geom:bbox":"-0.848929,51.071497,0.058216,51.471564",
@@ -22,7 +23,7 @@
     "mps:latitude":51.252334,
     "mps:longitude":-0.474589,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Surrey"
@@ -285,12 +286,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884586,
+    "wof:lastmodified":1698278925,
     "wof:name":"Surrey",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880761993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

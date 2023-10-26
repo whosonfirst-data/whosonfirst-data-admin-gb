@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.312061,
     "geom:area_square_m":2359276743.406119,
     "geom:bbox":"-1.332346,51.977268,-0.341608,52.643601",
@@ -22,7 +23,7 @@
     "mps:latitude":52.289802,
     "mps:longitude":-0.913396,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Northamptonshire"
@@ -270,12 +271,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884414,
+    "wof:lastmodified":1698279037,
     "wof:name":"Northamptonshire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

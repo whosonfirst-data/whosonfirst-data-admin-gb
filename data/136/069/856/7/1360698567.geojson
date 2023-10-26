@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.445727,
     "geom:area_square_m":3251747847.226994,
     "geom:bbox":"-3.084548,53.482766,-2.045073,54.239557",
@@ -22,7 +23,7 @@
     "mps:latitude":53.857447,
     "mps:longitude":-2.637885,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Lancashire"
@@ -261,12 +262,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884577,
+    "wof:lastmodified":1698279073,
     "wof:name":"Lancashire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

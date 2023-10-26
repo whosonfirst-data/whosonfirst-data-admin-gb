@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.110626,
     "geom:area_square_m":814740664.160046,
     "geom:bbox":"-3.263757,53.286361,-2.576743,53.704333",
@@ -22,7 +23,7 @@
     "mps:latitude":53.419592,
     "mps:longitude":-2.932188,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Merseyside"
@@ -255,12 +256,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884415,
+    "wof:lastmodified":1698279042,
     "wof:name":"Merseyside",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762035
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

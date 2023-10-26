@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.50657,
     "geom:area_square_m":3837500923.920864,
     "geom:bbox":"0.339975,51.931742,1.768912,52.550222",
@@ -22,7 +23,7 @@
     "mps:latitude":52.166889,
     "mps:longitude":1.052266,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Suffolk"
@@ -270,12 +271,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884406,
+    "wof:lastmodified":1698278931,
     "wof:name":"Suffolk",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

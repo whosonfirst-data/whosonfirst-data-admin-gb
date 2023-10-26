@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.685191,
     "geom:area_square_m":5178102642.083219,
     "geom:bbox":"-3.929353,51.752746,-2.949621,52.901561",
@@ -22,7 +23,7 @@
     "mps:latitude":52.212304,
     "mps:longitude":-3.419105,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0648\u064a\u0633"
@@ -180,12 +181,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884586,
+    "wof:lastmodified":1698279157,
     "wof:name":"Powys",
     "wof:parent_id":404227475,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
