@@ -79,15 +79,15 @@
     "woe:name_adm1":"Wales",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880773115,
         102191581,
+        1880762185,
         404446381,
         85633159,
         404227475,
         1125907579,
-        1360699025,
-        1360698631,
-        404439427,
-        101750429
+        136253055,
+        1360699025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,27 +103,19 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699025,
+            "empire_id":136253055,
             "localadmin_id":404446381,
             "locality_id":1125907579,
+            "macrocounty_id":1880762185,
             "macroregion_id":404227475,
             "neighbourhood_id":1360713309,
-            "region_id":1360698631
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360699025,
-            "localadmin_id":404439427,
-            "locality_id":101750429,
-            "macroregion_id":404227475,
-            "neighbourhood_id":1360713309,
-            "region_id":1360698631
+            "region_id":1880773115
         }
     ],
     "wof:id":1360713309,
-    "wof:lastmodified":1690916792,
+    "wof:lastmodified":1699916929,
     "wof:name":"Blaencwm",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125907579,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

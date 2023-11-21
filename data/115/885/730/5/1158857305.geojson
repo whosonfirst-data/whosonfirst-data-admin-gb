@@ -98,11 +98,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1360698645,
+        1880762729,
         102191581,
         85633159,
+        1880762179,
         404227469,
-        101750367
+        101750367,
+        136253055,
+        1880771825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,19 +120,22 @@
     "wof:geom_alt":[
         "gbr-datalondon"
     ],
-    "wof:geomhash":"3b82b46f4808d7f34b6708258e6b1d66",
+    "wof:geomhash":"236fb1940e1bff60191791a3384429b6",
     "wof:hierarchy":[
         {
             "borough_id":1158857305,
             "continent_id":102191581,
             "country_id":85633159,
+            "county_id":1880771825,
+            "empire_id":136253055,
             "locality_id":101750367,
+            "macrocounty_id":1880762179,
             "macroregion_id":404227469,
-            "region_id":1360698645
+            "region_id":1880762729
         }
     ],
     "wof:id":1158857305,
-    "wof:lastmodified":1698339435,
+    "wof:lastmodified":1699951697,
     "wof:name":"Merton",
     "wof:parent_id":101750367,
     "wof:placetype":"borough",
@@ -143,8 +149,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.254238751219952,
-    51.380182343906746,
+    -0.25423875121995,
+    51.38018234390675,
     -0.12413982069421,
     51.44146456100515
 ],

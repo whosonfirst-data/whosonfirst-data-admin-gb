@@ -129,13 +129,28 @@
         "\u8fbe\u52d2\u59c6"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880773141,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"804c7103dcf93fa6f846dd18c2740254",
-    "wof:hierarchy":[],
+    "wof:geomhash":"859ed03b3499a4555f6be642ba4eb13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762117,
+            "macroregion_id":404227469,
+            "region_id":1880773141
+        }
+    ],
     "wof:id":1880762117,
     "wof:lang_x_official":[
         "eng"
@@ -146,9 +161,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279143,
+    "wof:lastmodified":1699941747,
     "wof:name":"Durham",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880773141,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

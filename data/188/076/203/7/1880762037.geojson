@@ -249,13 +249,28 @@
         "\u8bfa\u798f\u514b\u90e1"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762699,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"d174ecfd43447abc5a7da967e7b7defc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ccee211c90c79393becd2bb851ae399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762037,
+            "macroregion_id":404227469,
+            "region_id":1880762699
+        }
+    ],
     "wof:id":1880762037,
     "wof:lang_x_official":[
         "eng"
@@ -266,9 +281,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279045,
+    "wof:lastmodified":1699941773,
     "wof:name":"Norfolk",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762699,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

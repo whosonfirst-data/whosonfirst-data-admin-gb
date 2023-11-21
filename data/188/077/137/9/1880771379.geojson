@@ -32,7 +32,14 @@
     "os:wof_type":"E - District",
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762707,
+        102191581,
+        85633159,
+        1880762133,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "os:census_code":"E07000039"
@@ -40,12 +47,22 @@
     "wof:concordances_official":"os:census_code",
     "wof:country":"GB",
     "wof:geom":"os",
-    "wof:geomhash":"62c28ef109f9a601444e514f4a5be4d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e93683e58e05fba4d31945b86d6b18cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880771379,
+            "empire_id":136253055,
+            "macrocounty_id":1880762133,
+            "macroregion_id":404227469,
+            "region_id":1880762707
+        }
+    ],
     "wof:id":1880771379,
-    "wof:lastmodified":1698338281,
+    "wof:lastmodified":1699942882,
     "wof:name":"South Derbyshire",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762133,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -53,7 +70,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.749652391585727,
+    -1.74965239158573,
     52.69650093690093,
     -1.31902302933985,
     52.94816227770184

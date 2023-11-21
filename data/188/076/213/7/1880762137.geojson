@@ -335,13 +335,28 @@
     "reversegeo:latitude":51.473415,
     "reversegeo:longitude":-2.603298,
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880772883,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"777e45d2c13e50cb3a2bf16fca235373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e3ba6a3774547e38498c073803ef8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762137,
+            "macroregion_id":404227469,
+            "region_id":1880772883
+        }
+    ],
     "wof:id":1880762137,
     "wof:lang_x_official":[
         "eng"
@@ -352,9 +367,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279175,
+    "wof:lastmodified":1699941800,
     "wof:name":"Bristol",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880772883,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

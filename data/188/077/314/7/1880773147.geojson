@@ -271,7 +271,12 @@
     "statoids:timezone":"+0~",
     "statoids:type":"unitary authority",
     "unlc:subdivision":"GB-SLG",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633159,
+        136253055,
+        404227469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":25511,
@@ -294,8 +299,16 @@
         1360699061
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b75e090799efedd06b2fc4be1ac63baa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5d17e452d5183b3cdfd7c51dde0262c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macroregion_id":404227469,
+            "region_id":1880773147
+        }
+    ],
     "wof:id":1880773147,
     "wof:lang_x_official":[
         "eng"
@@ -306,9 +319,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698360292,
+    "wof:lastmodified":1699938742,
     "wof:name":"Slough",
-    "wof:parent_id":-1,
+    "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:placetype_local":"unitary authority",
     "wof:population":140205,
@@ -322,7 +335,7 @@
 },
   "bbox": [
     -0.66014674107022,
-    51.467984923548045,
+    51.46798492354804,
     -0.49002492446,
     51.53889517504105
 ],

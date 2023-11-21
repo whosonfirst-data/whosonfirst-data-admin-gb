@@ -81,13 +81,26 @@
         "\u4f2f\u7acb\u514b\u90e1"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633159,
+        1880773105,
+        404227471
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"daf89c673001e607505807fb517fb583",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebe1ad595472bb88967944cc7cbcf7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "macrocounty_id":1880761985,
+            "macroregion_id":404227471,
+            "region_id":1880773105
+        }
+    ],
     "wof:id":1880761985,
     "wof:lang_x_official":[
         "eng"
@@ -98,9 +111,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698278915,
+    "wof:lastmodified":1699941753,
     "wof:name":"Berwickshire",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880773105,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

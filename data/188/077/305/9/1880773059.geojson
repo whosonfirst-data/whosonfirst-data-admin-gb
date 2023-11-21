@@ -211,7 +211,12 @@
     "statoids:timezone":"+0~",
     "statoids:type":"unitary authority",
     "unlc:subdivision":"GB-WOK",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633159,
+        136253055,
+        404227469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":25547,
@@ -235,8 +240,16 @@
         1360698967
     ],
     "wof:country":"GB",
-    "wof:geomhash":"6c78a1558d426e7d80f5839b34d1f400",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20142bc63bba34f85e2c27815fc46a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macroregion_id":404227469,
+            "region_id":1880773059
+        }
+    ],
     "wof:id":1880773059,
     "wof:lang_x_official":[
         "eng"
@@ -247,9 +260,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698360129,
+    "wof:lastmodified":1699938611,
     "wof:name":"Wokingham",
-    "wof:parent_id":-1,
+    "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:placetype_local":"unitary authority",
     "wof:population":154380,
@@ -262,8 +275,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.011884238563062,
-    51.352070478058714,
+    -1.01188423856306,
+    51.35207047805871,
     -0.78884019377725,
     51.56212755141474
 ],

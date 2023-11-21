@@ -174,13 +174,28 @@
         "\u05de\u05d6\u05e8\u05d7 \u05e8\u05d9\u05d9\u05d3\u05d9\u05e0\u05d2 \u05e4\u05d5\u05df \u05d9\u05d0\u05e8\u05e7\u05e9\u05d9\u05e8"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880773091,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"b1acef22c10cdc241bf1a5d77b862e66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"add7d99f1a1eacecb6b03b697a70370d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762147,
+            "macroregion_id":404227469,
+            "region_id":1880773091
+        }
+    ],
     "wof:id":1880762147,
     "wof:lang_x_official":[
         "eng"
@@ -191,9 +206,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279184,
+    "wof:lastmodified":1699941808,
     "wof:name":"East Riding of Yorkshire",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880773091,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

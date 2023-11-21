@@ -121,13 +121,14 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":313,
     "wof:belongsto":[
+        1880773035,
         102191581,
         85633159,
+        1880762017,
         404227469,
-        101750393,
-        1360699033,
-        1360698611,
-        1126049293
+        1126049293,
+        136253055,
+        1360699033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,28 +147,21 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699033,
-            "locality_id":101750393,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85790253,
-            "region_id":1360698611
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360699033,
+            "empire_id":136253055,
             "locality_id":1126049293,
+            "macrocounty_id":1880762017,
             "macroregion_id":404227469,
             "neighbourhood_id":85790253,
-            "region_id":1360698611
+            "region_id":1880773035
         }
     ],
     "wof:id":85790253,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582310650,
+    "wof:lastmodified":1699953547,
     "wof:name":"Shaw",
-    "wof:parent_id":-1,
+    "wof:parent_id":1126049293,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

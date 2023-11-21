@@ -227,7 +227,12 @@
     "statoids:timezone":"+0~",
     "statoids:type":"unitary authority",
     "unlc:subdivision":"GB-PTE",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633159,
+        136253055,
+        404227469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":25490,
@@ -251,8 +256,16 @@
         1360698773
     ],
     "wof:country":"GB",
-    "wof:geomhash":"c277c11b68ee4b731634c382bc2c9fc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc7c9374c3391cb7d5509756cf5feb90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macroregion_id":404227469,
+            "region_id":1880772901
+        }
+    ],
     "wof:id":1880772901,
     "wof:lang_x_official":[
         "eng"
@@ -263,9 +276,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698359931,
+    "wof:lastmodified":1699938307,
     "wof:name":"Peterborough",
-    "wof:parent_id":-1,
+    "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:placetype_local":"unitary authority",
     "wof:population":183631,
@@ -278,8 +291,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.497651636084652,
-    52.506113038307674,
+    -0.49765163608465,
+    52.50611303830767,
     -0.01275202833445,
     52.67523306588086
 ],

@@ -32,7 +32,14 @@
     "os:wof_type":"E - District",
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762695,
+        102191581,
+        85633159,
+        1880762079,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "os:census_code":"E07000179"
@@ -40,12 +47,22 @@
     "wof:concordances_official":"os:census_code",
     "wof:country":"GB",
     "wof:geom":"os",
-    "wof:geomhash":"99132780e3b072be9fa8d3a9eb093d83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba82b1ddaae28a74ce4aef977e0ae21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880771611,
+            "empire_id":136253055,
+            "macrocounty_id":1880762079,
+            "macroregion_id":404227469,
+            "region_id":1880762695
+        }
+    ],
     "wof:id":1880771611,
-    "wof:lastmodified":1698338411,
+    "wof:lastmodified":1699942903,
     "wof:name":"South Oxfordshire",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762079,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -53,8 +70,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.290225157833524,
-    51.459414194866945,
+    -1.29022515783352,
+    51.45941419486694,
     -0.87002535968903,
     51.81377750382591
 ],

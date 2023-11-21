@@ -61,14 +61,15 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880762707,
         102191581,
+        1880762133,
         404445045,
         85633159,
         404227469,
         1360759169,
-        1360698765,
-        1360698539,
-        101878287
+        136253055,
+        1880771387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,28 +84,20 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "county_id":1360698765,
+            "county_id":1880771387,
+            "empire_id":136253055,
             "localadmin_id":404445045,
             "locality_id":1360759169,
+            "macrocounty_id":1880762133,
             "macroregion_id":404227469,
             "neighbourhood_id":1360805419,
-            "region_id":1360698539
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698765,
-            "localadmin_id":404445045,
-            "locality_id":101878287,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360805419,
-            "region_id":1360698539
+            "region_id":1880762707
         }
     ],
     "wof:id":1360805419,
-    "wof:lastmodified":1690917525,
+    "wof:lastmodified":1699953759,
     "wof:name":"Carr Vale",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360759169,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

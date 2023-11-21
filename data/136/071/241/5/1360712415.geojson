@@ -32,14 +32,15 @@
     "mz:min_zoom":15.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        1880773189,
         102191581,
+        1880762173,
         404435735,
         85633159,
         404227475,
-        1360711709,
-        1360699009,
-        1360698641,
-        101875461
+        101875461,
+        136253055,
+        1360699009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,27 +53,19 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699009,
-            "localadmin_id":404435735,
-            "locality_id":1360711709,
-            "macroregion_id":404227475,
-            "neighbourhood_id":1360712415,
-            "region_id":1360698641
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360699009,
+            "empire_id":136253055,
             "localadmin_id":404435735,
             "locality_id":101875461,
+            "macrocounty_id":1880762173,
             "macroregion_id":404227475,
             "neighbourhood_id":1360712415,
-            "region_id":1360698641
+            "region_id":1880773189
         }
     ],
     "wof:id":1360712415,
-    "wof:lastmodified":1566629037,
+    "wof:lastmodified":1699916852,
     "wof:name":"Sirhowy",
-    "wof:parent_id":-1,
+    "wof:parent_id":101875461,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

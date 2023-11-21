@@ -197,10 +197,12 @@
     "statoids:type":"metropolitan borough",
     "unlc:subdivision":"GB-BUR",
     "wof:belongsto":[
+        1880773095,
         102191581,
         85633159,
-        1360698555,
-        404227469
+        1880762163,
+        404227469,
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -229,14 +231,16 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c03945b54f5eb1c1a6b1fbd0609c2e5",
+    "wof:geomhash":"fefef6d7490bdbc48c6c5d3ff785eb88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698847,
+            "empire_id":136253055,
+            "macrocounty_id":1880762163,
             "macroregion_id":404227469,
-            "region_id":1360698555
+            "region_id":1880773095
         }
     ],
     "wof:id":1360698847,
@@ -249,9 +253,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698360004,
+    "wof:lastmodified":1699943020,
     "wof:name":"Bury",
-    "wof:parent_id":1360698555,
+    "wof:parent_id":1880762163,
     "wof:placetype":"county",
     "wof:placetype_local":"metropolitan borough",
     "wof:population":185060,
@@ -266,7 +270,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.383455665269201,
+    -2.3834556652692,
     53.51202112766049,
     -2.23415864999792,
     53.66708062191969

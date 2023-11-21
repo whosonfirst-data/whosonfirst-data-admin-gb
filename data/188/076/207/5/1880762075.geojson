@@ -201,13 +201,28 @@
         "\u62c9\u7279\u862d"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880773183,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"dd8053d1212c74208707390e096f26b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f27c18a1eb566ee604efb3007865f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762075,
+            "macroregion_id":404227469,
+            "region_id":1880773183
+        }
+    ],
     "wof:id":1880762075,
     "wof:lang_x_official":[
         "eng"
@@ -218,9 +233,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279099,
+    "wof:lastmodified":1699941748,
     "wof:name":"Rutland",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880773183,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

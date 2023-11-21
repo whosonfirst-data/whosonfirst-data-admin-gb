@@ -71,10 +71,13 @@
     "qs:type":"Civil Parish or Community",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        1880762685,
         102191581,
         85633159,
-        1360698595,
-        404227469
+        1880762001,
+        404227469,
+        136253055,
+        1880771635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,21 +88,24 @@
         1126014713
     ],
     "wof:country":"GB",
-    "wof:geomhash":"195d3ed3ef4ab061492cd4466afbba53",
+    "wof:geomhash":"a24627bae00bd0c21e55eb979c4a59d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
+            "county_id":1880771635,
+            "empire_id":136253055,
             "localadmin_id":404430901,
+            "macrocounty_id":1880762001,
             "macroregion_id":404227469,
-            "region_id":1360698595
+            "region_id":1880762685
         }
     ],
     "wof:id":404430901,
     "wof:label":"Orford Civil Parish",
-    "wof:lastmodified":1695876992,
+    "wof:lastmodified":1699946928,
     "wof:name":"Orford",
-    "wof:parent_id":1360698595,
+    "wof:parent_id":1880771635,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

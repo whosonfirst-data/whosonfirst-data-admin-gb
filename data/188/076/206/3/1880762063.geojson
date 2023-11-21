@@ -48,13 +48,28 @@
         "Tyne"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880773053,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"1220d2e21f21c2332a8dbe1c23f79bb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f775020105e5b47aa9fba04ebdc11ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762063,
+            "macroregion_id":404227469,
+            "region_id":1880773053
+        }
+    ],
     "wof:id":1880762063,
     "wof:lang_x_official":[
         "eng"
@@ -65,9 +80,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279084,
+    "wof:lastmodified":1699941780,
     "wof:name":"Tyne & Wear",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880773053,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

@@ -57,14 +57,10 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
         404452549,
-        85633159,
-        404227469,
+        1880762073,
         1125816703,
-        1360698911,
-        1360698587,
-        101751611
+        1360698911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,30 +74,20 @@
     "wof:geomhash":"a87c6d894fe0c8a6de0055397e1394e3",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633159,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1360698911,
             "localadmin_id":404452549,
             "locality_id":1125816703,
-            "macroregion_id":404227469,
+            "macrocounty_id":1880762073,
             "neighbourhood_id":1360801201,
-            "region_id":1360698587
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698911,
-            "localadmin_id":404452549,
-            "locality_id":101751611,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360801201,
-            "region_id":1360698587
+            "region_id":-1
         }
     ],
     "wof:id":1360801201,
-    "wof:lastmodified":1566629384,
+    "wof:lastmodified":1699375277,
     "wof:name":"Wombridge",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125816703,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

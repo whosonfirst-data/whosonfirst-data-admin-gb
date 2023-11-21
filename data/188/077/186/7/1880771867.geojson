@@ -118,7 +118,14 @@
     "reversegeo:longitude":-0.110257,
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762729,
+        102191581,
+        85633159,
+        1880762179,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":25432,
@@ -129,12 +136,22 @@
         1158857275
     ],
     "wof:country":"GB",
-    "wof:geomhash":"cdc53c389a6f0e5794fa07547b0068cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d36b34f3190885cc5883ae0d7595d6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880771867,
+            "empire_id":136253055,
+            "macrocounty_id":1880762179,
+            "macroregion_id":404227469,
+            "region_id":1880762729
+        }
+    ],
     "wof:id":1880771867,
-    "wof:lastmodified":1698339472,
+    "wof:lastmodified":1699943063,
     "wof:name":"Islington",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762179,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -142,7 +159,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.142482772261093,
+    -0.14248277226109,
     51.51855483148738,
     -0.07630513709641,
     51.5755067402588

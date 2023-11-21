@@ -32,7 +32,14 @@
     "os:wof_type":"E - District",
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762723,
+        102191581,
+        85633159,
+        1880762159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "os:census_code":"E07000073"
@@ -40,12 +47,22 @@
     "wof:concordances_official":"os:census_code",
     "wof:country":"GB",
     "wof:geom":"os",
-    "wof:geomhash":"f808a3d45bdbce5db27af2c9c569a5e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bad7b6202927899f587c1823b11f3124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880771439,
+            "empire_id":136253055,
+            "macrocounty_id":1880762159,
+            "macroregion_id":404227469,
+            "region_id":1880762723
+        }
+    ],
     "wof:id":1880771439,
-    "wof:lastmodified":1698338319,
+    "wof:lastmodified":1699942957,
     "wof:name":"Harlow",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762159,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -53,7 +70,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.054068616636556,
+    0.05406861663656,
     51.73468705695043,
     0.16801876356456,
     51.79723298113841

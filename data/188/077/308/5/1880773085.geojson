@@ -134,7 +134,12 @@
     "statoids:timezone":"+0~",
     "statoids:type":"unitary authority",
     "unlc:subdivision":"GB-LCE",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633159,
+        136253055,
+        404227469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":25441,
@@ -157,8 +162,16 @@
         1360698995
     ],
     "wof:country":"GB",
-    "wof:geomhash":"72851e5550f124deb6dca665d1c0b81b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0d4378bfa20fa4d65bbe7435180c130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macroregion_id":404227469,
+            "region_id":1880773085
+        }
+    ],
     "wof:id":1880773085,
     "wof:lang_x_official":[
         "eng"
@@ -169,9 +182,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698360152,
+    "wof:lastmodified":1699938785,
     "wof:name":"Leicester",
-    "wof:parent_id":-1,
+    "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:placetype_local":"unitary authority",
     "wof:population":329839,
@@ -184,8 +197,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.215980952923869,
-    52.580668715647796,
+    -1.21598095292387,
+    52.5806687156478,
     -1.04620449047498,
     52.69152299363941
 ],

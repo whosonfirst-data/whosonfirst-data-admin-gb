@@ -252,7 +252,13 @@
         "\u5927\u502b\u6566"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762729,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:capital":[
         101750367
@@ -260,8 +266,17 @@
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"703888a35828f056e04b1545ea9ad6e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c664db27ccb9bf8b51a9500dd241983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762179,
+            "macroregion_id":404227469,
+            "region_id":1880762729
+        }
+    ],
     "wof:id":1880762179,
     "wof:lang_x_official":[
         "eng"
@@ -272,9 +287,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279221,
+    "wof:lastmodified":1699941807,
     "wof:name":"Greater London",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762729,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

@@ -160,13 +160,16 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880773053,
         102191581,
+        1880762063,
         1360817213,
         85633159,
         404227469,
         1259612545,
+        136253055,
         1360698987,
-        1360698601
+        101751645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,17 +184,31 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698987,
+            "empire_id":136253055,
             "localadmin_id":1360817213,
             "locality_id":1259612545,
+            "macrocounty_id":1880762063,
             "macroregion_id":404227469,
             "neighbourhood_id":1360803039,
-            "region_id":1360698601
+            "region_id":1880773053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698987,
+            "empire_id":136253055,
+            "localadmin_id":1360817213,
+            "locality_id":101751645,
+            "macrocounty_id":1880762063,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1360803039,
+            "region_id":1880773053
         }
     ],
     "wof:id":1360803039,
-    "wof:lastmodified":1566629437,
+    "wof:lastmodified":1699952108,
     "wof:name":"Armstrong",
-    "wof:parent_id":1259612545,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

@@ -231,13 +231,28 @@
         "\u05d8\u05e9\u05e2\u05e9\u05d9\u05e8"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880773021,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"b1365c3d48a5c7d707b957ee4998d0d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"281751b9b46a6246dcb67f6fbfb2e206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762135,
+            "macroregion_id":404227469,
+            "region_id":1880773021
+        }
+    ],
     "wof:id":1880762135,
     "wof:lang_x_official":[
         "eng"
@@ -248,9 +263,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279173,
+    "wof:lastmodified":1699941797,
     "wof:name":"Cheshire",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880773021,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

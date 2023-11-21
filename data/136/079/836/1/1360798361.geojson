@@ -43,15 +43,15 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880773087,
         102191581,
-        404450651,
+        1880762141,
+        404430619,
         85633159,
         404227469,
-        101750433,
-        1360698913,
-        1360698533,
-        404430619,
-        1125909375
+        1125909375,
+        136253055,
+        1360698913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,27 +66,19 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698913,
-            "localadmin_id":404450651,
-            "locality_id":101750433,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360798361,
-            "region_id":1360698533
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698913,
+            "empire_id":136253055,
             "localadmin_id":404430619,
             "locality_id":1125909375,
+            "macrocounty_id":1880762141,
             "macroregion_id":404227469,
             "neighbourhood_id":1360798361,
-            "region_id":1360698533
+            "region_id":1880773087
         }
     ],
     "wof:id":1360798361,
-    "wof:lastmodified":1566628745,
+    "wof:lastmodified":1699951969,
     "wof:name":"Conniburrow",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125909375,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

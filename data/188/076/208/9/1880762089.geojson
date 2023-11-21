@@ -33,7 +33,9 @@
         "\u00c9dimbourg"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880772893
+    ],
     "wof:breaches":[],
     "wof:capital":[
         101750629
@@ -41,8 +43,15 @@
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"f5e96fb278f1455e3e49f4c04519121b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3a32b2f001b817384f90145b8bfac66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "macrocounty_id":1880762089,
+            "region_id":-1
+        }
+    ],
     "wof:id":1880762089,
     "wof:lang_x_official":[
         "eng"
@@ -53,9 +62,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279118,
+    "wof:lastmodified":1699460053,
     "wof:name":"City of Edinburgh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880772893,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

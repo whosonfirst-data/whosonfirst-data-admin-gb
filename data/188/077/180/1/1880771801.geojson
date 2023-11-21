@@ -94,7 +94,14 @@
     "reversegeo:longitude":-0.208979,
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762729,
+        102191581,
+        85633159,
+        1880762179,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":25456,
@@ -105,12 +112,22 @@
         1158857305
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3b82b46f4808d7f34b6708258e6b1d66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"236fb1940e1bff60191791a3384429b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880771801,
+            "empire_id":136253055,
+            "macrocounty_id":1880762179,
+            "macroregion_id":404227469,
+            "region_id":1880762729
+        }
+    ],
     "wof:id":1880771801,
-    "wof:lastmodified":1698339435,
+    "wof:lastmodified":1699943048,
     "wof:name":"Merton",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762179,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -118,8 +135,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.254238751219952,
-    51.380182343906746,
+    -0.25423875121995,
+    51.38018234390675,
     -0.12413982069421,
     51.44146456100515
 ],

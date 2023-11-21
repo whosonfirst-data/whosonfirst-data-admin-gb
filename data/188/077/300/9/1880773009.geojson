@@ -227,7 +227,12 @@
     "statoids:type":"unitary authority",
     "unlc:subdivision":"GB-TFW",
     "wd:wordcount":601,
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633159,
+        136253055,
+        404227469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":25529,
@@ -251,8 +256,16 @@
         1360698911
     ],
     "wof:country":"GB",
-    "wof:geomhash":"babdd9ae8d8272f6fed725b3867933ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea8cc2e410d10e9a23239af5501b5de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macroregion_id":404227469,
+            "region_id":1880773009
+        }
+    ],
     "wof:id":1880773009,
     "wof:lang_x_official":[
         "eng"
@@ -263,9 +276,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698360089,
+    "wof:lastmodified":1699938567,
     "wof:name":"Telford and Wrekin",
-    "wof:parent_id":-1,
+    "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:placetype_local":"unitary authority",
     "wof:population":166641,
@@ -278,7 +291,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.667362308497291,
+    -2.66736230849729,
     52.61456830920622,
     -2.31220815890572,
     52.82838714438474

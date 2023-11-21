@@ -60,15 +60,10 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
         404446961,
-        85633159,
-        404227469,
+        1880762073,
         1360754599,
-        1360698911,
-        1360698587,
-        404452549,
-        101751611
+        1360698911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,30 +77,20 @@
     "wof:geomhash":"4ed3592b1646287277ff89c0846f876b",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633159,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1360698911,
             "localadmin_id":404446961,
             "locality_id":1360754599,
-            "macroregion_id":404227469,
+            "macrocounty_id":1880762073,
             "neighbourhood_id":1360801553,
-            "region_id":1360698587
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698911,
-            "localadmin_id":404452549,
-            "locality_id":101751611,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360801553,
-            "region_id":1360698587
+            "region_id":-1
         }
     ],
     "wof:id":1360801553,
-    "wof:lastmodified":1566629462,
+    "wof:lastmodified":1699375270,
     "wof:name":"Trench",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360754599,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

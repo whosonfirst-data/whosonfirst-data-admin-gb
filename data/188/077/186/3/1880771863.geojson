@@ -139,7 +139,14 @@
     "reversegeo:longitude":-0.157412,
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762729,
+        102191581,
+        85633159,
+        1880762179,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":25379,
@@ -150,12 +157,22 @@
         1158857277
     ],
     "wof:country":"GB",
-    "wof:geomhash":"3819d26b5e6d70eca38218f18fc698fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d3b1a732e01a2304b49c0646ae7ff02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880771863,
+            "empire_id":136253055,
+            "macrocounty_id":1880762179,
+            "macroregion_id":404227469,
+            "region_id":1880762729
+        }
+    ],
     "wof:id":1880771863,
-    "wof:lastmodified":1698339470,
+    "wof:lastmodified":1699943055,
     "wof:name":"Camden",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762179,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -163,8 +180,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.213486868307425,
-    51.512660654975896,
+    -0.21348686830742,
+    51.5126606549759,
     -0.10529052274065,
     51.57296278940324
 ],

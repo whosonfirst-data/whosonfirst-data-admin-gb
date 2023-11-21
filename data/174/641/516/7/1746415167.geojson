@@ -63,10 +63,15 @@
     "uk-dgnp:desig_date":"2016-08-01",
     "uk-dgnp:status":"Designated",
     "wof:belongsto":[
+        1880772891,
         102191581,
+        1880762011,
+        404449523,
         85633159,
+        404227469,
+        1126037595,
         136253055,
-        404227469
+        1360698753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,20 +80,26 @@
     },
     "wof:country":"GB",
     "wof:created":1633031167,
-    "wof:geomhash":"612a88f0d6a4e6d51f3e77f54d108de5",
+    "wof:geomhash":"b0cae54cdeeb1c9aa3f6cff965c08b67",
     "wof:hierarchy":[
         {
             "campus_id":1746415167,
             "continent_id":102191581,
             "country_id":85633159,
+            "county_id":1360698753,
             "empire_id":136253055,
-            "macroregion_id":404227469
+            "localadmin_id":404449523,
+            "locality_id":1126037595,
+            "macrocounty_id":1880762011,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1880772891
         }
     ],
     "wof:id":1746415167,
-    "wof:lastmodified":1633130034,
+    "wof:lastmodified":1699951778,
     "wof:name":"Yorkshire Dales National Park",
-    "wof:parent_id":85633159,
+    "wof:parent_id":1126037595,
     "wof:placetype":"campus",
     "wof:placetype_local":"National Park",
     "wof:repo":"whosonfirst-data-admin-gb",
@@ -97,7 +108,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.647804009991688,
+    -2.64780400999169,
     53.95412099000521,
     -1.76083799,
     54.56900900999855

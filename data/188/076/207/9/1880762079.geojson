@@ -237,13 +237,28 @@
         "\u725b\u6d25\u90e1"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762695,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"b92a0ba30a48795c549b40bea414bddb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a16ee3e9d961d5837c446f68a90cc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762079,
+            "macroregion_id":404227469,
+            "region_id":1880762695
+        }
+    ],
     "wof:id":1880762079,
     "wof:lang_x_official":[
         "eng"
@@ -254,9 +269,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279103,
+    "wof:lastmodified":1699941774,
     "wof:name":"Oxfordshire",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762695,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

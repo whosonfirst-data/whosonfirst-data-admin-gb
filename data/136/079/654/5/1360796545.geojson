@@ -66,13 +66,14 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880762711,
         102191581,
         85633159,
+        1880762053,
         404227469,
-        1360832473,
-        1360698817,
-        1360698567,
-        101750585
+        101750585,
+        136253055,
+        1880771551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,26 +89,19 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "county_id":1360698817,
-            "locality_id":1360832473,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360796545,
-            "region_id":1360698567
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698817,
+            "county_id":1880771551,
+            "empire_id":136253055,
             "locality_id":101750585,
+            "macrocounty_id":1880762053,
             "macroregion_id":404227469,
             "neighbourhood_id":1360796545,
-            "region_id":1360698567
+            "region_id":1880762711
         }
     ],
     "wof:id":1360796545,
-    "wof:lastmodified":1690916626,
+    "wof:lastmodified":1699952814,
     "wof:name":"Baxenden",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750585,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

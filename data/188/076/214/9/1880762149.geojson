@@ -270,13 +270,28 @@
         "\u5fb7\u6587\u90e1"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762683,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"dcfd34cd5463011a9a2f1002ee04d864",
-    "wof:hierarchy":[],
+    "wof:geomhash":"975910b1fc172fe5702eed4d0aca75a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762149,
+            "macroregion_id":404227469,
+            "region_id":1880762683
+        }
+    ],
     "wof:id":1880762149,
     "wof:lang_x_official":[
         "eng"
@@ -287,9 +302,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279189,
+    "wof:lastmodified":1699941811,
     "wof:name":"Devon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762683,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

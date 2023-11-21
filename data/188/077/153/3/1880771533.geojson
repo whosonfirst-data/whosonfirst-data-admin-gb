@@ -32,7 +32,14 @@
     "os:wof_type":"E - District",
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762711,
+        102191581,
+        85633159,
+        1880762053,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "os:census_code":"E07000118"
@@ -40,12 +47,22 @@
     "wof:concordances_official":"os:census_code",
     "wof:country":"GB",
     "wof:geom":"os",
-    "wof:geomhash":"0bf3758820414a50e671fd01678f455f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df9b40cf0d984b964bbe5adf20693257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880771533,
+            "empire_id":136253055,
+            "macrocounty_id":1880762053,
+            "macroregion_id":404227469,
+            "region_id":1880762711
+        }
+    ],
     "wof:id":1880771533,
-    "wof:lastmodified":1698338367,
+    "wof:lastmodified":1699942940,
     "wof:name":"Chorley",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762053,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -53,7 +70,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.824259003736653,
+    -2.82425900373665,
     53.59360092269949,
     -2.51132312887314,
     53.75141146953454

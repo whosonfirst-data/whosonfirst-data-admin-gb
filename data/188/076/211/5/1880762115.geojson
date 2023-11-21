@@ -81,7 +81,13 @@
         "\u5357\u683c\u62c9\u6469\u6839\u90e1"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880773187,
+        102191581,
+        85633159,
+        404227475,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:capital":[
         101750397
@@ -89,8 +95,17 @@
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"63700a9fed8907759485061312a860e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5c5df500f89ee87883c17b524e65069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762115,
+            "macroregion_id":404227475,
+            "region_id":1880773187
+        }
+    ],
     "wof:id":1880762115,
     "wof:lang_x_official":[
         "eng"
@@ -101,9 +116,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279141,
+    "wof:lastmodified":1699909013,
     "wof:name":"South Glamorgan",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880773187,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

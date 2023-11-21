@@ -143,11 +143,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1360698645,
+        1880762729,
         102191581,
         85633159,
+        1880762179,
         404227469,
-        101750367
+        101750367,
+        136253055,
+        1880771825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,19 +165,22 @@
     "wof:geom_alt":[
         "gbr-datalondon"
     ],
-    "wof:geomhash":"3819d26b5e6d70eca38218f18fc698fd",
+    "wof:geomhash":"1d3b1a732e01a2304b49c0646ae7ff02",
     "wof:hierarchy":[
         {
             "borough_id":1158857277,
             "continent_id":102191581,
             "country_id":85633159,
+            "county_id":1880771825,
+            "empire_id":136253055,
             "locality_id":101750367,
+            "macrocounty_id":1880762179,
             "macroregion_id":404227469,
-            "region_id":1360698645
+            "region_id":1880762729
         }
     ],
     "wof:id":1158857277,
-    "wof:lastmodified":1698339470,
+    "wof:lastmodified":1699951703,
     "wof:name":"Camden",
     "wof:parent_id":101750367,
     "wof:placetype":"borough",
@@ -188,8 +194,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.213486868307425,
-    51.512660654975896,
+    -0.21348686830742,
+    51.5126606549759,
     -0.10529052274065,
     51.57296278940324
 ],

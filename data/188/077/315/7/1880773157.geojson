@@ -219,7 +219,12 @@
     "statoids:type":"unitary authority",
     "unlc:subdivision":"GB-BDF",
     "wd:wordcount":4617,
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633159,
+        136253055,
+        404227469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "fips:code":"UKZ5",
@@ -242,8 +247,16 @@
         1360699073
     ],
     "wof:country":"GB",
-    "wof:geomhash":"7f369ea5668d2882e6fe820797469a76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0232ec4fecfd9c29d0c4f6a6ca4caec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macroregion_id":404227469,
+            "region_id":1880773157
+        }
+    ],
     "wof:id":1880773157,
     "wof:lang_x_official":[
         "eng"
@@ -254,9 +267,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698360298,
+    "wof:lastmodified":1699938788,
     "wof:name":"Bedford",
-    "wof:parent_id":-1,
+    "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:placetype_local":"unitary authority",
     "wof:population":157479,
@@ -269,7 +282,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.668756913842649,
+    -0.66875691384265,
     52.0545431476933,
     -0.2407231957487,
     52.32295325385012

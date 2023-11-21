@@ -150,13 +150,28 @@
         "\u6ce2\u4f0a\u65af"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880773075,
+        102191581,
+        85633159,
+        404227475,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"24e02524cf170d44a66744cc87b1d24a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"643d5146f5e949dc353019b574176808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762123,
+            "macroregion_id":404227475,
+            "region_id":1880773075
+        }
+    ],
     "wof:id":1880762123,
     "wof:lang_x_official":[
         "eng"
@@ -167,9 +182,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279159,
+    "wof:lastmodified":1699909029,
     "wof:name":"Powys",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880773075,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

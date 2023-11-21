@@ -197,10 +197,12 @@
     "statoids:type":"metropolitan borough",
     "unlc:subdivision":"GB-BNS",
     "wof:belongsto":[
+        1880772963,
         102191581,
         85633159,
-        1360698591,
-        404227469
+        1880761997,
+        404227469,
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -228,14 +230,16 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"895e1e918726e1a98d8209a86b1a1396",
+    "wof:geomhash":"1efd955547cceb669b15655cd67ed406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699091,
+            "empire_id":136253055,
+            "macrocounty_id":1880761997,
             "macroregion_id":404227469,
-            "region_id":1360698591
+            "region_id":1880772963
         }
     ],
     "wof:id":1360699091,
@@ -248,9 +252,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698360319,
+    "wof:lastmodified":1699942797,
     "wof:name":"Barnsley",
-    "wof:parent_id":1360698591,
+    "wof:parent_id":1880761997,
     "wof:placetype":"county",
     "wof:placetype_local":"metropolitan borough",
     "wof:population":231221,
@@ -265,7 +269,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.822589474302985,
+    -1.82258947430298,
     53.43831490095487,
     -1.27571222343177,
     53.6127387904526

@@ -84,13 +84,14 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880762717,
         102191581,
         85633159,
+        1880762155,
         404227469,
-        1360832437,
-        1360698827,
-        1360698557,
-        101750359
+        101750359,
+        136253055,
+        1880771473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,26 +107,19 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "county_id":1360698827,
-            "locality_id":1360832437,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360797185,
-            "region_id":1360698557
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698827,
+            "county_id":1880771473,
+            "empire_id":136253055,
             "locality_id":101750359,
+            "macrocounty_id":1880762155,
             "macroregion_id":404227469,
             "neighbourhood_id":1360797185,
-            "region_id":1360698557
+            "region_id":1880762717
         }
     ],
     "wof:id":1360797185,
-    "wof:lastmodified":1690916774,
+    "wof:lastmodified":1699951977,
     "wof:name":"Alverstoke",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750359,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

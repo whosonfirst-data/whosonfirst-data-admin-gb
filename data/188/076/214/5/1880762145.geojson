@@ -219,13 +219,28 @@
         "\u6771\u85a9\u585e\u514b\u65af\u90e1"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762703,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"28fb3acedcca9e676452bbd2e8ee6c61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf38fb329e404b3689e61cb439b546fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762145,
+            "macroregion_id":404227469,
+            "region_id":1880762703
+        }
+    ],
     "wof:id":1880762145,
     "wof:lang_x_official":[
         "eng"
@@ -236,9 +251,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279182,
+    "wof:lastmodified":1699941791,
     "wof:name":"East Sussex",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762703,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

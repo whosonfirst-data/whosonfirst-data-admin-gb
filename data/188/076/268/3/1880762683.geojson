@@ -419,7 +419,12 @@
     "statoids:type":"administrative county",
     "unlc:subdivision":"GB-DEV",
     "wd:wordcount":7148,
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633159,
+        136253055,
+        404227469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":826046,
@@ -441,8 +446,16 @@
         "gbr-ons:gss_code"
     ],
     "wof:country":"GB",
-    "wof:geomhash":"beaf521086a01c16002746f85b545df1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccb64dba60eb80682dcc2d39e12aebed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macroregion_id":404227469,
+            "region_id":1880762683
+        }
+    ],
     "wof:id":1880762683,
     "wof:lang_x_official":[
         "eng"
@@ -453,9 +466,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698303387,
+    "wof:lastmodified":1699938265,
     "wof:name":"Devon",
-    "wof:parent_id":-1,
+    "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:placetype_local":"administrative county",
     "wof:population":746399,
@@ -470,7 +483,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.680995880436623,
+    -4.68099588043662,
     50.20142901935206,
     -2.88664451828852,
     51.24683695101859

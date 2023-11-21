@@ -32,7 +32,14 @@
     "os:wof_type":"E - Unitary Authority",
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880773269,
+        102191581,
+        85633159,
+        1880761989,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:metro_code":826037,
@@ -54,12 +61,22 @@
     ],
     "wof:country":"GB",
     "wof:geom":"os",
-    "wof:geomhash":"a08e58d673c9c01092c22f2e84e79577",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb507cfe0a99132be09e363522337b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880773235,
+            "empire_id":136253055,
+            "macrocounty_id":1880761989,
+            "macroregion_id":404227469,
+            "region_id":1880773269
+        }
+    ],
     "wof:id":1880773235,
-    "wof:lastmodified":1698362490,
+    "wof:lastmodified":1699943097,
     "wof:name":"Westmorland and Furness",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880761989,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -69,8 +86,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.324819377940451,
-    54.039635425538826,
+    -3.32481937794045,
+    54.03963542553883,
     -2.15899737357409,
     54.85645445722044
 ],

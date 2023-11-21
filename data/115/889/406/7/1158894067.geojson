@@ -329,11 +329,15 @@
     "src:geom":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        1880762729,
         102191581,
+        1880762179,
         85633159,
         404227469,
         101750367,
-        1360698645
+        136253055,
+        1158857293,
+        1880771825
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -341,18 +345,22 @@
     "wof:geomhash":"03538b79c2662aeeed49a9b1f4515c56",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
             "continent_id":102191581,
             "country_id":85633159,
+            "county_id":1880771825,
+            "empire_id":136253055,
             "locality_id":101750367,
+            "macrocounty_id":1880762179,
             "macroregion_id":404227469,
             "neighbourhood_id":1158894067,
-            "region_id":1360698645
+            "region_id":1880762729
         }
     ],
     "wof:id":1158894067,
-    "wof:lastmodified":1566636425,
+    "wof:lastmodified":1699953197,
     "wof:name":"River Thames",
-    "wof:parent_id":101750367,
+    "wof:parent_id":1158857293,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

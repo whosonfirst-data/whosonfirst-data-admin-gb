@@ -32,7 +32,14 @@
     "os:wof_type":"E - District",
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762723,
+        102191581,
+        85633159,
+        1880762159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "os:census_code":"E07000072"
@@ -40,12 +47,22 @@
     "wof:concordances_official":"os:census_code",
     "wof:country":"GB",
     "wof:geom":"os",
-    "wof:geomhash":"b31f596bc9b5cfd84ab5e4f0ab573d02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74368880047e4931c4080305420b7f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880771423,
+            "empire_id":136253055,
+            "macrocounty_id":1880762159,
+            "macroregion_id":404227469,
+            "region_id":1880762723
+        }
+    ],
     "wof:id":1880771423,
-    "wof:lastmodified":1698338310,
+    "wof:lastmodified":1699942824,
     "wof:name":"Epping Forest",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762159,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

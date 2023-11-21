@@ -46,15 +46,10 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        404450651,
-        85633159,
-        404227469,
-        101750433,
-        1360698913,
-        1360698533,
         404433519,
-        1125913755
+        1880762141,
+        1125913755,
+        1360698913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,30 +62,20 @@
     "wof:geomhash":"87f71c913f85a661da60820b4f7210c8",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698913,
-            "localadmin_id":404450651,
-            "locality_id":101750433,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360791833,
-            "region_id":1360698533
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1360698913,
             "localadmin_id":404433519,
             "locality_id":1125913755,
-            "macroregion_id":404227469,
+            "macrocounty_id":1880762141,
             "neighbourhood_id":1360791833,
-            "region_id":1360698533
+            "region_id":-1
         }
     ],
     "wof:id":1360791833,
-    "wof:lastmodified":1566628825,
+    "wof:lastmodified":1699341691,
     "wof:name":"Bradville",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125913755,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

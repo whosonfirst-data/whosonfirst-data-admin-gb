@@ -32,7 +32,14 @@
     "os:wof_type":"E - District",
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762695,
+        102191581,
+        85633159,
+        1880762079,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "os:census_code":"E07000178"
@@ -40,12 +47,22 @@
     "wof:concordances_official":"os:census_code",
     "wof:country":"GB",
     "wof:geom":"os",
-    "wof:geomhash":"c94bd3ee32adfcca04557ceab43fd05c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e4eea1a6a9bdebe50090c176135edff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880771363,
+            "empire_id":136253055,
+            "macrocounty_id":1880762079,
+            "macroregion_id":404227469,
+            "region_id":1880762695
+        }
+    ],
     "wof:id":1880771363,
-    "wof:lastmodified":1698338274,
+    "wof:lastmodified":1699942875,
     "wof:name":"Oxford",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762079,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -53,8 +70,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.304229821432289,
-    51.710983678706626,
+    -1.30422982143229,
+    51.71098367870663,
     -1.17579389699618,
     51.79627183552746
 ],

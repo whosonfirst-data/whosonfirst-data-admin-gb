@@ -32,7 +32,14 @@
     "os:wof_type":"E - District",
     "src:geom":"os",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762709,
+        102191581,
+        85633159,
+        1880762061,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "os:census_code":"E07000227"
@@ -40,12 +47,22 @@
     "wof:concordances_official":"os:census_code",
     "wof:country":"GB",
     "wof:geom":"os",
-    "wof:geomhash":"02f66c3cfdb42788c66d8872051ae6de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a3f0bff83c82dcbc8de05532c051a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1880771689,
+            "empire_id":136253055,
+            "macrocounty_id":1880762061,
+            "macroregion_id":404227469,
+            "region_id":1880762709
+        }
+    ],
     "wof:id":1880771689,
-    "wof:lastmodified":1698338456,
+    "wof:lastmodified":1699942961,
     "wof:name":"Horsham",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762061,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -53,7 +70,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.569019926580013,
+    -0.56901992658001,
     50.86215516458048,
     -0.19999973342004,
     51.14311435430598

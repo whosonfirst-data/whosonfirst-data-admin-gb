@@ -231,13 +231,28 @@
         "\u862d\u958b\u590f"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880762711,
+        102191581,
+        85633159,
+        404227469,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"f7bfedc4b0fdc40dd83a2b0ea8435298",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c2c43726e07b4f527b0852e610b50b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762053,
+            "macroregion_id":404227469,
+            "region_id":1880762711
+        }
+    ],
     "wof:id":1880762053,
     "wof:lang_x_official":[
         "eng"
@@ -248,9 +263,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279074,
+    "wof:lastmodified":1699941743,
     "wof:name":"Lancashire",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880762711,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
