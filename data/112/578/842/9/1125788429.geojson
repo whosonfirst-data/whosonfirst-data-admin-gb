@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.4029535,57.131954,-7.4029535,57.131954",
+    "geom:bbox":"-7.402953,57.131954,-7.402953,57.131954",
     "geom:latitude":57.131954,
     "geom:longitude":-7.402953,
     "gn:country":"GB",
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497290769,
-    "wof:geomhash":"d71be4a1f1f4c55383aeb2df4c4bf99b",
+    "wof:geomhash":"91d866720e499d3e05b61510d451fb6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1125788429,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1125788429,
-    "wof:lastmodified":1566636098,
+    "wof:lastmodified":1700723186,
     "wof:name":"North Boisdale",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.4029535,
+    -7.402953,
     57.131954,
-    -7.4029535,
+    -7.402953,
     57.131954
 ],
-  "geometry": {"coordinates":[-7.4029535,57.131954],"type":"Point"}
+  "geometry": {"coordinates":[-7.402953,57.131954],"type":"Point"}
 }

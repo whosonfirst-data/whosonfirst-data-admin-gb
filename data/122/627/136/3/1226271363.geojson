@@ -35,11 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -48,22 +49,23 @@
         "wk:page":"Clachaig"
     },
     "wof:country":"GB",
-    "wof:geomhash":"9fb9a26739b53744d0d894a1c4d9419e",
+    "wof:geomhash":"e0da161049d612662eae91a94b1c2a56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1226271363,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1226271363,
-    "wof:lastmodified":1566636598,
+    "wof:lastmodified":1700723781,
     "wof:name":"Clachaig",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -5.0183,
-    55.98954000000001,
+    55.98954,
     -5.0183,
-    55.98954000000001
+    55.98954
 ],
-  "geometry": {"coordinates":[-5.0183,55.98954000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.0183,55.98954],"type":"Point"}
 }

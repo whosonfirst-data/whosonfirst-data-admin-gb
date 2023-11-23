@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683863,
+        1880772947,
         102191581,
-        404451983,
         85633159,
-        404227471
+        1880762043,
+        404227471,
+        136253055,
+        1360698829
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11071804
     },
     "wof:country":"GB",
-    "wof:geomhash":"def9c22591d8cfd53a013a75f351125e",
+    "wof:geomhash":"7819488b36e0ff1bff02f436767d1789",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404451983,
+            "county_id":1360698829,
+            "empire_id":136253055,
             "locality_id":1327163039,
+            "macrocounty_id":1880762043,
             "macroregion_id":404227471,
-            "region_id":85683863
+            "region_id":1880772947
         }
     ],
     "wof:id":1327163039,
-    "wof:lastmodified":1566627410,
+    "wof:lastmodified":1700724149,
     "wof:name":"Bolfracks",
-    "wof:parent_id":404451983,
+    "wof:parent_id":1360698829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -3.92195,
-    56.61358000000001,
+    56.61358,
     -3.92195,
-    56.61358000000001
+    56.61358
 ],
-  "geometry": {"coordinates":[-3.92195,56.61358000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.92195,56.61358],"type":"Point"}
 }

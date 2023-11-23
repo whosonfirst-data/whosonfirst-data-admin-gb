@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.1495,57.1774355,-2.1495,57.1774355",
+    "geom:bbox":"-2.1495,57.177436,-2.1495,57.177436",
     "geom:latitude":57.177436,
     "geom:longitude":-2.1495,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698709,
+        1880773079,
         102191581,
-        404429183,
         85633159,
+        1880762093,
         404227471,
+        136253055,
         1360698989
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497293311,
-    "wof:geomhash":"2b6b0145013f15b38086a72ffa90ab2f",
+    "wof:geomhash":"6d0ddf670dcba8f975c7eff8e2c00e17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698989,
-            "localadmin_id":404429183,
+            "empire_id":136253055,
             "locality_id":1125849215,
+            "macrocounty_id":1880762093,
             "macroregion_id":404227471,
-            "region_id":1360698709
+            "region_id":1880773079
         }
     ],
     "wof:id":1125849215,
-    "wof:lastmodified":1566636332,
+    "wof:lastmodified":1700724195,
     "wof:name":"Persley",
-    "wof:parent_id":404429183,
+    "wof:parent_id":1360698989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -2.1495,
-    57.1774355,
+    57.177436,
     -2.1495,
-    57.1774355
+    57.177436
 ],
-  "geometry": {"coordinates":[-2.1495,57.1774355],"type":"Point"}
+  "geometry": {"coordinates":[-2.1495,57.177436],"type":"Point"}
 }

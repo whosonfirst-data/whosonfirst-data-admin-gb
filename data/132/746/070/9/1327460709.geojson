@@ -44,11 +44,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683887,
+        1880772981,
         102191581,
-        404446793,
         85633159,
-        404227471
+        1880762111,
+        404227471,
+        136253055,
+        1360698869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,21 +58,23 @@
         "wk:page":"Rafford"
     },
     "wof:country":"GB",
-    "wof:geomhash":"afb502390e928ecc07a64f88d79f83a8",
+    "wof:geomhash":"e0846c568539a95dc82183f992f326c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404446793,
+            "county_id":1360698869,
+            "empire_id":136253055,
             "locality_id":1327460709,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":85683887
+            "region_id":1880772981
         }
     ],
     "wof:id":1327460709,
-    "wof:lastmodified":1566627369,
+    "wof:lastmodified":1700723371,
     "wof:name":"Rafford",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -79,9 +83,9 @@
 },
   "bbox": [
     -3.57353,
-    57.58593000000001,
+    57.58593,
     -3.57353,
-    57.58593000000001
+    57.58593
 ],
-  "geometry": {"coordinates":[-3.57353,57.58593000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.57353,57.58593],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.1374495,57.179298,-2.1374495,57.179298",
+    "geom:bbox":"-2.137449,57.179298,-2.137449,57.179298",
     "geom:latitude":57.179298,
     "geom:longitude":-2.137449,
     "gn:country":null,
@@ -47,11 +47,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698709,
+        1880773079,
         102191581,
-        404429183,
         85633159,
+        1880762093,
         404227471,
+        136253055,
         1360698989
     ],
     "wof:breaches":[],
@@ -61,22 +62,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497300637,
-    "wof:geomhash":"288de73f73440da98c81a9cb899ef8f7",
+    "wof:geomhash":"390ea338c8c8e66be1de263c5921be0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698989,
-            "localadmin_id":404429183,
+            "empire_id":136253055,
             "locality_id":1126017483,
+            "macrocounty_id":1880762093,
             "macroregion_id":404227471,
-            "region_id":1360698709
+            "region_id":1880773079
         }
     ],
     "wof:id":1126017483,
-    "wof:lastmodified":1566635879,
+    "wof:lastmodified":1700724195,
     "wof:name":"Danestone",
-    "wof:parent_id":404429183,
+    "wof:parent_id":1360698989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -84,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.1374495,
+    -2.137449,
     57.179298,
-    -2.1374495,
+    -2.137449,
     57.179298
 ],
-  "geometry": {"coordinates":[-2.1374495,57.179298],"type":"Point"}
+  "geometry": {"coordinates":[-2.137449,57.179298],"type":"Point"}
 }

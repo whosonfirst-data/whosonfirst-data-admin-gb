@@ -41,11 +41,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698661,
+        1880773131,
         102191581,
-        404436073,
         85633159,
+        1880762005,
         404227471,
+        136253055,
         1360699045
     ],
     "wof:breaches":[],
@@ -54,22 +55,23 @@
         "wk:page":"Achriesgill"
     },
     "wof:country":"GB",
-    "wof:geomhash":"a2d260aa39dea70bab4491452063783c",
+    "wof:geomhash":"58e8caacdd4241c49bd3873f06404fef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699045,
-            "localadmin_id":404436073,
+            "empire_id":136253055,
             "locality_id":1209135149,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":1360698661
+            "region_id":1880773131
         }
     ],
     "wof:id":1209135149,
-    "wof:lastmodified":1566628089,
+    "wof:lastmodified":1700723940,
     "wof:name":"Achriesgill",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -78,9 +80,9 @@
 },
   "bbox": [
     -4.98333,
-    58.43333000000001,
+    58.43333,
     -4.98333,
-    58.43333000000001
+    58.43333
 ],
-  "geometry": {"coordinates":[-4.98333,58.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.98333,58.43333],"type":"Point"}
 }

@@ -41,11 +41,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684253,
+        1880773121,
         102191581,
-        404448747,
         85633159,
-        404227471
+        1880762109,
+        404227471,
+        136253055,
+        1360699031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,21 +55,23 @@
         "wk:page":"Birse"
     },
     "wof:country":"GB",
-    "wof:geomhash":"cf8e71dd95ef71fa2bf6e8c596d1e3f1",
+    "wof:geomhash":"2e582c3e31a15eabdb9a00775418a8ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404448747,
+            "county_id":1360699031,
+            "empire_id":136253055,
             "locality_id":1293425231,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":85684253
+            "region_id":1880773121
         }
     ],
     "wof:id":1293425231,
-    "wof:lastmodified":1566627971,
+    "wof:lastmodified":1700723811,
     "wof:name":"Birse",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -76,9 +80,9 @@
 },
   "bbox": [
     -2.73165,
-    57.06248000000001,
+    57.06248,
     -2.73165,
-    57.06248000000001
+    57.06248
 ],
-  "geometry": {"coordinates":[-2.73165,57.06248000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.73165,57.06248],"type":"Point"}
 }

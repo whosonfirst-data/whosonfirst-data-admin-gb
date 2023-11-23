@@ -51,11 +51,13 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85683729,
+        1880773107,
         102191581,
-        404447595,
         85633159,
-        404227471
+        1880762091,
+        404227471,
+        136253055,
+        1360699017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,21 +65,23 @@
         "wk:page":"Elphinstone,_East_Lothian"
     },
     "wof:country":"GB",
-    "wof:geomhash":"1be5e5b3990f8915137c7e322885c296",
+    "wof:geomhash":"64e04356cb0753a95e27c5235f84697a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404447595,
+            "county_id":1360699017,
+            "empire_id":136253055,
             "locality_id":1293135989,
+            "macrocounty_id":1880762091,
             "macroregion_id":404227471,
-            "region_id":85683729
+            "region_id":1880773107
         }
     ],
     "wof:id":1293135989,
-    "wof:lastmodified":1566627940,
+    "wof:lastmodified":1700723237,
     "wof:name":"Elphinstone",
-    "wof:parent_id":404447595,
+    "wof:parent_id":1360699017,
     "wof:placetype":"locality",
     "wof:population":540,
     "wof:population_rank":2,
@@ -88,9 +92,9 @@
 },
   "bbox": [
     -2.96755,
-    55.92256999999999,
+    55.92257,
     -2.96755,
-    55.92256999999999
+    55.92257
 ],
-  "geometry": {"coordinates":[-2.96755,55.92256999999999],"type":"Point"}
+  "geometry": {"coordinates":[-2.96755,55.92257],"type":"Point"}
 }

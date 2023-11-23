@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.2034905,57.7108415,-7.2034905,57.7108415",
+    "geom:bbox":"-7.203491,57.710842,-7.203491,57.710842",
     "geom:latitude":57.710842,
     "geom:longitude":-7.203491,
     "gn:country":null,
@@ -50,11 +50,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -64,22 +65,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497298077,
-    "wof:geomhash":"005e60251bd00a3c891a7d1ae705b102",
+    "wof:geomhash":"c3b7a784d60d1878cbc795a3771bd078",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1125968737,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1125968737,
-    "wof:lastmodified":1566635601,
+    "wof:lastmodified":1700723128,
     "wof:name":"Berneray",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -87,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.2034905,
-    57.7108415,
-    -7.2034905,
-    57.7108415
+    -7.203491,
+    57.710842,
+    -7.203491,
+    57.710842
 ],
-  "geometry": {"coordinates":[-7.2034905,57.7108415],"type":"Point"}
+  "geometry": {"coordinates":[-7.203491,57.710842],"type":"Point"}
 }

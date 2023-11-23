@@ -59,11 +59,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -71,22 +72,23 @@
         "gn:id":2645819
     },
     "wof:country":"GB",
-    "wof:geomhash":"b606768bdc135db7a02f4aad64a9eda2",
+    "wof:geomhash":"d347664c5a5a9ec6a2ed8ca94c957d56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1209443791,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1209443791,
-    "wof:lastmodified":1566628123,
+    "wof:lastmodified":1700723437,
     "wof:name":"Kenmore",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -95,9 +97,9 @@
 },
   "bbox": [
     -5.11917,
-    56.17138000000001,
+    56.17138,
     -5.11917,
-    56.17138000000001
+    56.17138
 ],
-  "geometry": {"coordinates":[-5.11917,56.17138000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.11917,56.17138],"type":"Point"}
 }

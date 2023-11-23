@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.2857835,56.837705,-4.2857835,56.837705",
+    "geom:bbox":"-4.285783,56.837705,-4.285783,56.837705",
     "geom:latitude":56.837705,
     "geom:longitude":-4.285783,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698691,
+        1880772947,
         102191581,
-        404451983,
         85633159,
+        1880762043,
         404227471,
+        136253055,
         1360698829
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302572,
-    "wof:geomhash":"ad9aa13090abf776f7800a2e1bee8153",
+    "wof:geomhash":"cba9ad05f96963ac15098f2fb220d262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698829,
-            "localadmin_id":404451983,
+            "empire_id":136253055,
             "locality_id":1126048411,
+            "macrocounty_id":1880762043,
             "macroregion_id":404227471,
-            "region_id":1360698691
+            "region_id":1880772947
         }
     ],
     "wof:id":1126048411,
-    "wof:lastmodified":1566634554,
+    "wof:lastmodified":1700724157,
     "wof:name":"Dalnaspidal Lodge",
-    "wof:parent_id":404451983,
+    "wof:parent_id":1360698829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.2857835,
+    -4.285783,
     56.837705,
-    -4.2857835,
+    -4.285783,
     56.837705
 ],
-  "geometry": {"coordinates":[-4.2857835,56.837705],"type":"Point"}
+  "geometry": {"coordinates":[-4.285783,56.837705],"type":"Point"}
 }

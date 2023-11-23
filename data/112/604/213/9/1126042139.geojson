@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.0124525,57.894052,-7.0124525,57.894052",
+    "geom:bbox":"-7.012453,57.894052,-7.012453,57.894052",
     "geom:latitude":57.894052,
     "geom:longitude":-7.012453,
     "gn:country":null,
@@ -80,11 +80,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -94,22 +95,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302218,
-    "wof:geomhash":"5ef9a3eb9803280bf6849ffd6860a08c",
+    "wof:geomhash":"ecc080fb29cfc18f4e2bb62a91adfcee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1126042139,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1126042139,
-    "wof:lastmodified":1566634563,
+    "wof:lastmodified":1700723043,
     "wof:name":"Taransay",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -117,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.0124525,
+    -7.012453,
     57.894052,
-    -7.0124525,
+    -7.012453,
     57.894052
 ],
-  "geometry": {"coordinates":[-7.0124525,57.894052],"type":"Point"}
+  "geometry": {"coordinates":[-7.012453,57.894052],"type":"Point"}
 }

@@ -32,29 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        1880773097,
         102191581,
-        404429199,
-        85633159
+        85633159,
+        1880762027,
+        404227471,
+        136253055,
+        1360699007
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10110024
     },
     "wof:country":"GB",
-    "wof:geomhash":"9d7ca5146d1e8597330d18eba96a16c8",
+    "wof:geomhash":"44b63575d5e5337f6df6ce3b39d519cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404429199,
+            "county_id":1360699007,
+            "empire_id":136253055,
             "locality_id":1343496583,
-            "region_id":-1
+            "macrocounty_id":1880762027,
+            "macroregion_id":404227471,
+            "region_id":1880773097
         }
     ],
     "wof:id":1343496583,
-    "wof:lastmodified":1566627451,
+    "wof:lastmodified":1700722916,
     "wof:name":"Ath Linne",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -63,9 +70,9 @@
 },
   "bbox": [
     -6.7487,
-    58.00816999999999,
+    58.00817,
     -6.7487,
-    58.00816999999999
+    58.00817
 ],
-  "geometry": {"coordinates":[-6.7487,58.00816999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.7487,58.00817],"type":"Point"}
 }

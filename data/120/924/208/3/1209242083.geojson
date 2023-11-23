@@ -38,11 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698661,
+        1880773131,
         102191581,
-        404436073,
         85633159,
+        1880762005,
         404227471,
+        136253055,
         1360699045
     ],
     "wof:breaches":[],
@@ -50,22 +51,23 @@
         "gn:id":11071762
     },
     "wof:country":"GB",
-    "wof:geomhash":"f72099c60ef4df24cbb5371e14cf3388",
+    "wof:geomhash":"da43450b87baafed5c73e2cc6b2a4e26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699045,
-            "localadmin_id":404436073,
+            "empire_id":136253055,
             "locality_id":1209242083,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":1360698661
+            "region_id":1880773131
         }
     ],
     "wof:id":1209242083,
-    "wof:lastmodified":1566628080,
+    "wof:lastmodified":1700723938,
     "wof:name":"Camore",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -74,9 +76,9 @@
 },
   "bbox": [
     -4.0643,
-    57.88518000000001,
+    57.88518,
     -4.0643,
-    57.88518000000001
+    57.88518
 ],
-  "geometry": {"coordinates":[-4.0643,57.88518000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.0643,57.88518],"type":"Point"}
 }

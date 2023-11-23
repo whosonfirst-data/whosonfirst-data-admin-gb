@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.878342,56.5173125,-6.878342,56.5173125",
+    "geom:bbox":"-6.878342,56.517313,-6.878342,56.517313",
     "geom:latitude":56.517313,
     "geom:longitude":-6.878342,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497296899,
-    "wof:geomhash":"428c94a599eb5578b391b10225cbde85",
+    "wof:geomhash":"fd871500cb629378d6489e370d5a9c29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1125933855,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1125933855,
-    "wof:lastmodified":1566634172,
+    "wof:lastmodified":1700723481,
     "wof:name":"Kenovay",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -6.878342,
-    56.5173125,
+    56.517313,
     -6.878342,
-    56.5173125
+    56.517313
 ],
-  "geometry": {"coordinates":[-6.878342,56.5173125],"type":"Point"}
+  "geometry": {"coordinates":[-6.878342,56.517313],"type":"Point"}
 }

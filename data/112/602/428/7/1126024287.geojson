@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.5150605,58.354009,-6.5150605,58.354009",
+    "geom:bbox":"-6.51506,58.354009,-6.51506,58.354009",
     "geom:latitude":58.354009,
     "geom:longitude":-6.51506,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497301030,
-    "wof:geomhash":"b2b09c952a0deb56b223976a0d4ce0b8",
+    "wof:geomhash":"17c18cecd4baaebd4a89cea9cdfe3df1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1126024287,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1126024287,
-    "wof:lastmodified":1566634360,
+    "wof:lastmodified":1700722991,
     "wof:name":"Barabhas",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.5150605,
+    -6.51506,
     58.354009,
-    -6.5150605,
+    -6.51506,
     58.354009
 ],
-  "geometry": {"coordinates":[-6.5150605,58.354009],"type":"Point"}
+  "geometry": {"coordinates":[-6.51506,58.354009],"type":"Point"}
 }

@@ -35,11 +35,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683863,
+        1880772947,
         102191581,
-        404451983,
         85633159,
-        404227471
+        1880762043,
+        404227471,
+        136253055,
+        1360698829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,21 +49,23 @@
         "wk:page":"Madderty"
     },
     "wof:country":"GB",
-    "wof:geomhash":"940c3756775d71a685e403d379244126",
+    "wof:geomhash":"6ab24fdb6ef92d0bcce6c568b94246bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404451983,
+            "county_id":1360698829,
+            "empire_id":136253055,
             "locality_id":1260115589,
+            "macrocounty_id":1880762043,
             "macroregion_id":404227471,
-            "region_id":85683863
+            "region_id":1880772947
         }
     ],
     "wof:id":1260115589,
-    "wof:lastmodified":1566628176,
+    "wof:lastmodified":1700724151,
     "wof:name":"Madderty",
-    "wof:parent_id":404451983,
+    "wof:parent_id":1360698829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -70,9 +74,9 @@
 },
   "bbox": [
     -3.69641,
-    56.37974000000001,
+    56.37974,
     -3.69641,
-    56.37974000000001
+    56.37974
 ],
-  "geometry": {"coordinates":[-3.69641,56.37974000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.69641,56.37974],"type":"Point"}
 }

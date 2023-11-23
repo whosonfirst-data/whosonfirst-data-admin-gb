@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.4006265,57.012585,-2.4006265,57.012585",
+    "geom:bbox":"-2.400626,57.012585,-2.400626,57.012585",
     "geom:latitude":57.012585,
     "geom:longitude":-2.400626,
     "gn:country":null,
@@ -56,11 +56,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698713,
+        1880773121,
         102191581,
-        404448747,
         85633159,
+        1880762109,
         404227471,
+        136253055,
         1360699031
     ],
     "wof:breaches":[],
@@ -71,22 +72,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497295069,
-    "wof:geomhash":"091b155a19564f9715402221f88494b6",
+    "wof:geomhash":"9ffdaddb19626461b6e34db6b616baee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699031,
-            "localadmin_id":404448747,
+            "empire_id":136253055,
             "locality_id":1125885779,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":1360698713
+            "region_id":1880773121
         }
     ],
     "wof:id":1125885779,
-    "wof:lastmodified":1566634898,
+    "wof:lastmodified":1700723850,
     "wof:name":"Lochton",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -94,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.4006265,
+    -2.400626,
     57.012585,
-    -2.4006265,
+    -2.400626,
     57.012585
 ],
-  "geometry": {"coordinates":[-2.4006265,57.012585],"type":"Point"}
+  "geometry": {"coordinates":[-2.400626,57.012585],"type":"Point"}
 }

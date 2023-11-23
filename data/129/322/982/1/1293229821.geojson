@@ -35,32 +35,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684253,
+        1880773121,
         102191581,
-        404448747,
         85633159,
-        404227471
+        1880762109,
+        404227471,
+        136253055,
+        1360699031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2635831
     },
     "wof:country":"GB",
-    "wof:geomhash":"47814e659b92ba070ff17bc68f8c1d3c",
+    "wof:geomhash":"9bfac5382fdd8f7e4d5716c56b986cde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404448747,
+            "county_id":1360699031,
+            "empire_id":136253055,
             "locality_id":1293229821,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":85684253
+            "region_id":1880773121
         }
     ],
     "wof:id":1293229821,
-    "wof:lastmodified":1566627944,
+    "wof:lastmodified":1700723810,
     "wof:name":"Tillery",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -69,9 +73,9 @@
 },
   "bbox": [
     -2.13333,
-    57.28333000000001,
+    57.28333,
     -2.13333,
-    57.28333000000001
+    57.28333
 ],
-  "geometry": {"coordinates":[-2.13333,57.28333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.13333,57.28333],"type":"Point"}
 }

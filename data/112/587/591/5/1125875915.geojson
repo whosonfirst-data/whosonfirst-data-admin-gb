@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.8128185,57.44324,-1.8128185,57.44324",
+    "geom:bbox":"-1.812819,57.44324,-1.812819,57.44324",
     "geom:latitude":57.44324,
     "geom:longitude":-1.812819,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698713,
+        1880773121,
         102191581,
-        404448747,
         85633159,
+        1880762109,
         404227471,
+        136253055,
         1360699031
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497294538,
-    "wof:geomhash":"ae3970c4699d1afe728bdcf9479f4af0",
+    "wof:geomhash":"9c0c859ba16ee57d580585a04a2d2afb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699031,
-            "localadmin_id":404448747,
+            "empire_id":136253055,
             "locality_id":1125875915,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":1360698713
+            "region_id":1880773121
         }
     ],
     "wof:id":1125875915,
-    "wof:lastmodified":1566635140,
+    "wof:lastmodified":1700723857,
     "wof:name":"Longhaven",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.8128185,
+    -1.812819,
     57.44324,
-    -1.8128185,
+    -1.812819,
     57.44324
 ],
-  "geometry": {"coordinates":[-1.8128185,57.44324],"type":"Point"}
+  "geometry": {"coordinates":[-1.812819,57.44324],"type":"Point"}
 }

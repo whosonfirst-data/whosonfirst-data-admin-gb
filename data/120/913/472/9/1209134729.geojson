@@ -50,11 +50,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698661,
+        1880773131,
         102191581,
-        404436073,
         85633159,
+        1880762005,
         404227471,
+        136253055,
         1360699045
     ],
     "wof:breaches":[],
@@ -62,22 +63,23 @@
         "gn:id":2652930
     },
     "wof:country":"GB",
-    "wof:geomhash":"e8ed25af6afe2de0b4af4c1e62cff9bf",
+    "wof:geomhash":"7a5e809735baff9d27db1e42e5e564f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699045,
-            "localadmin_id":404436073,
+            "empire_id":136253055,
             "locality_id":1209134729,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":1360698661
+            "region_id":1880773131
         }
     ],
     "wof:id":1209134729,
-    "wof:lastmodified":1566628088,
+    "wof:lastmodified":1700723939,
     "wof:name":"Clashmore",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -86,9 +88,9 @@
 },
   "bbox": [
     -4.1152,
-    57.87728000000001,
+    57.87728,
     -4.1152,
-    57.87728000000001
+    57.87728
 ],
-  "geometry": {"coordinates":[-4.1152,57.87728000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.1152,57.87728],"type":"Point"}
 }

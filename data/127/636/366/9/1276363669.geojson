@@ -45,11 +45,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683887,
+        1880772981,
         102191581,
-        404446793,
         85633159,
-        404227471
+        1880762111,
+        404227471,
+        136253055,
+        1360698869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,21 +59,23 @@
         "wk:page":"Deskford"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fa61be13d4a8d183e35e7b5dd78fe37d",
+    "wof:geomhash":"5dfdcd82184f9c463e6dd7d984a145a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404446793,
+            "county_id":1360698869,
+            "empire_id":136253055,
             "locality_id":1276363669,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":85683887
+            "region_id":1880772981
         }
     ],
     "wof:id":1276363669,
-    "wof:lastmodified":1566628046,
+    "wof:lastmodified":1700723374,
     "wof:name":"Kirktown of Deskford",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -80,9 +84,9 @@
 },
   "bbox": [
     -2.81667,
-    57.63333000000001,
+    57.63333,
     -2.81667,
-    57.63333000000001
+    57.63333
 ],
-  "geometry": {"coordinates":[-2.81667,57.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.81667,57.63333],"type":"Point"}
 }

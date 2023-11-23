@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.9905525,56.392544,-5.9905525,56.392544",
+    "geom:bbox":"-5.990552,56.392544,-5.990552,56.392544",
     "geom:latitude":56.392544,
     "geom:longitude":-5.990552,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497303968,
-    "wof:geomhash":"7e3b030316761a2809dfde30a983a866",
+    "wof:geomhash":"83308b333f9ccd9562b574d7baf85954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1126059727,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1126059727,
-    "wof:lastmodified":1566634501,
+    "wof:lastmodified":1700723530,
     "wof:name":"Kinloch Hotel",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.9905525,
+    -5.990552,
     56.392544,
-    -5.9905525,
+    -5.990552,
     56.392544
 ],
-  "geometry": {"coordinates":[-5.9905525,56.392544],"type":"Point"}
+  "geometry": {"coordinates":[-5.990552,56.392544],"type":"Point"}
 }

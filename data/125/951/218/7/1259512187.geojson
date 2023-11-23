@@ -92,32 +92,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683955,
+        1880773061,
         102191581,
-        404453929,
         85633159,
-        404227471
+        1880762099,
+        404227471,
+        136253055,
+        1360698969
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2652214
     },
     "wof:country":"GB",
-    "wof:geomhash":"55c5769a9b211a542b99cfd0e6d7a161",
+    "wof:geomhash":"d96edb2f74d8601fe5ebd221decf67c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404453929,
+            "county_id":1360698969,
+            "empire_id":136253055,
             "locality_id":1259512187,
+            "macrocounty_id":1880762099,
             "macroregion_id":404227471,
-            "region_id":85683955
+            "region_id":1880773061
         }
     ],
     "wof:id":1259512187,
-    "wof:lastmodified":1566636576,
+    "wof:lastmodified":1700724193,
     "wof:name":"Covington",
-    "wof:parent_id":404453929,
+    "wof:parent_id":1360698969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -126,9 +130,9 @@
 },
   "bbox": [
     -3.63333,
-    55.63333000000001,
+    55.63333,
     -3.63333,
-    55.63333000000001
+    55.63333
 ],
-  "geometry": {"coordinates":[-3.63333,55.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.63333,55.63333],"type":"Point"}
 }

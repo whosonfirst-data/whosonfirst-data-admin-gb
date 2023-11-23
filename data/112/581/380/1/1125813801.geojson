@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.75377,56.2597125,-4.75377,56.2597125",
+    "geom:bbox":"-4.75377,56.259712,-4.75377,56.259712",
     "geom:latitude":56.259712,
     "geom:longitude":-4.75377,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497291759,
-    "wof:geomhash":"cf4aa820e36a54ff746818c7107f6429",
+    "wof:geomhash":"a6adfd4cb93f90300706daaac851059a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1125813801,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1125813801,
-    "wof:lastmodified":1566634785,
+    "wof:lastmodified":1700723557,
     "wof:name":"Inveruglas",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -4.75377,
-    56.2597125,
+    56.259712,
     -4.75377,
-    56.2597125
+    56.259712
 ],
-  "geometry": {"coordinates":[-4.75377,56.2597125],"type":"Point"}
+  "geometry": {"coordinates":[-4.75377,56.259712],"type":"Point"}
 }

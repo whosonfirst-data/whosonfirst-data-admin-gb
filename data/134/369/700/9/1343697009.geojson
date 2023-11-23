@@ -37,32 +37,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683747,
+        1880773131,
         102191581,
-        404436073,
         85633159,
-        404227471
+        1880762005,
+        404227471,
+        136253055,
+        1360699045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2643522
     },
     "wof:country":"GB",
-    "wof:geomhash":"637987f86e6e3c80dee264ce005c8ffd",
+    "wof:geomhash":"a6cac147624718926d6b3aff7dd03f77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404436073,
+            "county_id":1360699045,
+            "empire_id":136253055,
             "locality_id":1343697009,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":85683747
+            "region_id":1880773131
         }
     ],
     "wof:id":1343697009,
-    "wof:lastmodified":1566627464,
+    "wof:lastmodified":1700723913,
     "wof:name":"Lower Gledfield",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -71,9 +75,9 @@
 },
   "bbox": [
     -4.36667,
-    57.88333000000001,
+    57.88333,
     -4.36667,
-    57.88333000000001
+    57.88333
 ],
-  "geometry": {"coordinates":[-4.36667,57.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.36667,57.88333],"type":"Point"}
 }

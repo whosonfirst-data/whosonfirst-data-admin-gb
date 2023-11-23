@@ -37,29 +37,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        1880773097,
         102191581,
-        404429199,
-        85633159
+        85633159,
+        1880762027,
+        404227471,
+        136253055,
+        1360699007
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2636441
     },
     "wof:country":"GB",
-    "wof:geomhash":"5aa6dfc8dc68aa6915a6bee5ebe8861f",
+    "wof:geomhash":"b1b332bd252fd2942faf8b1822fb6298",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404429199,
+            "county_id":1360699007,
+            "empire_id":136253055,
             "locality_id":1326659341,
-            "region_id":-1
+            "macrocounty_id":1880762027,
+            "macroregion_id":404227471,
+            "region_id":1880773097
         }
     ],
     "wof:id":1326659341,
-    "wof:lastmodified":1566627397,
+    "wof:lastmodified":1700722910,
     "wof:name":"Swanibost",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +75,9 @@
 },
   "bbox": [
     -6.26667,
-    58.46666999999999,
+    58.46667,
     -6.26667,
-    58.46666999999999
+    58.46667
 ],
-  "geometry": {"coordinates":[-6.26667,58.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.26667,58.46667],"type":"Point"}
 }

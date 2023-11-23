@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.3294575,57.3951495,-7.3294575,57.3951495",
+    "geom:bbox":"-7.329458,57.39515,-7.329458,57.39515",
     "geom:latitude":57.39515,
     "geom:longitude":-7.329458,
     "gn:country":null,
@@ -95,11 +95,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -109,22 +110,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302519,
-    "wof:geomhash":"b03e6d6a12fc43fd2f0acdce21bc0f88",
+    "wof:geomhash":"cffd123bdef182ddbb6838eb630f845c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1126047435,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1126047435,
-    "wof:lastmodified":1566634574,
+    "wof:lastmodified":1700723045,
     "wof:name":"Ardmore",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -132,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.3294575,
-    57.3951495,
-    -7.3294575,
-    57.3951495
+    -7.329458,
+    57.39515,
+    -7.329458,
+    57.39515
 ],
-  "geometry": {"coordinates":[-7.3294575,57.3951495],"type":"Point"}
+  "geometry": {"coordinates":[-7.329458,57.39515],"type":"Point"}
 }

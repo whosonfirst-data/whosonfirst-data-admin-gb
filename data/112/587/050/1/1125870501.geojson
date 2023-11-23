@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.9465775,58.1936925,-6.9465775,58.1936925",
+    "geom:bbox":"-6.946578,58.193692,-6.946578,58.193692",
     "geom:latitude":58.193692,
     "geom:longitude":-6.946578,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497294273,
-    "wof:geomhash":"591365be07ca21da39ac79f695ee8014",
+    "wof:geomhash":"4d8584584bcb52da60c00c2ec39f5ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1125870501,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1125870501,
-    "wof:lastmodified":1566635160,
+    "wof:lastmodified":1700723092,
     "wof:name":"Carishader",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.9465775,
-    58.1936925,
-    -6.9465775,
-    58.1936925
+    -6.946578,
+    58.193692,
+    -6.946578,
+    58.193692
 ],
-  "geometry": {"coordinates":[-6.9465775,58.1936925],"type":"Point"}
+  "geometry": {"coordinates":[-6.946578,58.193692],"type":"Point"}
 }

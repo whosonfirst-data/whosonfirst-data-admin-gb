@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.887451,56.6451435,-2.887451,56.6451435",
+    "geom:bbox":"-2.887451,56.645144,-2.887451,56.645144",
     "geom:latitude":56.645144,
     "geom:longitude":-2.887451,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698689,
+        1880772935,
         102191581,
-        404446035,
         85633159,
+        1880762021,
         404227471,
+        136253055,
         1360698807
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497300827,
-    "wof:geomhash":"94d8d0cf8a8d6a19c20b3f70a090f6ea",
+    "wof:geomhash":"85d695e5512d99f3b6cff785c78121eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698807,
-            "localadmin_id":404446035,
+            "empire_id":136253055,
             "locality_id":1126020941,
+            "macrocounty_id":1880762021,
             "macroregion_id":404227471,
-            "region_id":1360698689
+            "region_id":1880772935
         }
     ],
     "wof:id":1126020941,
-    "wof:lastmodified":1566634376,
+    "wof:lastmodified":1700723362,
     "wof:name":"Gowanbank",
-    "wof:parent_id":404446035,
+    "wof:parent_id":1360698807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -2.887451,
-    56.6451435,
+    56.645144,
     -2.887451,
-    56.6451435
+    56.645144
 ],
-  "geometry": {"coordinates":[-2.887451,56.6451435],"type":"Point"}
+  "geometry": {"coordinates":[-2.887451,56.645144],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.9743715,57.743541,-6.9743715,57.743541",
+    "geom:bbox":"-6.974372,57.743541,-6.974372,57.743541",
     "geom:latitude":57.743541,
     "geom:longitude":-6.974372,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302961,
-    "wof:geomhash":"291b1a8539769485b212180e1b87d3af",
+    "wof:geomhash":"27ed516346231e8c974c95e645ecfda4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1126053867,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1126053867,
-    "wof:lastmodified":1566634499,
+    "wof:lastmodified":1700723030,
     "wof:name":"Borrisdale",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.9743715,
+    -6.974372,
     57.743541,
-    -6.9743715,
+    -6.974372,
     57.743541
 ],
-  "geometry": {"coordinates":[-6.9743715,57.743541],"type":"Point"}
+  "geometry": {"coordinates":[-6.974372,57.743541],"type":"Point"}
 }

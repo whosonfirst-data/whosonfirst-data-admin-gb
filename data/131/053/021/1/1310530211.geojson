@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683747,
+        1880773131,
         102191581,
-        404436073,
         85633159,
-        404227471
+        1880762005,
+        404227471,
+        136253055,
+        1360699045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11071783
     },
     "wof:country":"GB",
-    "wof:geomhash":"4e0b13297bebe7cd5e77d3cfa43be084",
+    "wof:geomhash":"2d4585352a1ce844ea2d99229d7ca182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404436073,
+            "county_id":1360699045,
+            "empire_id":136253055,
             "locality_id":1310530211,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":85683747
+            "region_id":1880773131
         }
     ],
     "wof:id":1310530211,
-    "wof:lastmodified":1566628286,
+    "wof:lastmodified":1700723946,
     "wof:name":"Wester Gruinards",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -4.5074,
-    57.89718000000001,
+    57.89718,
     -4.5074,
-    57.89718000000001
+    57.89718
 ],
-  "geometry": {"coordinates":[-4.5074,57.89718000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.5074,57.89718],"type":"Point"}
 }

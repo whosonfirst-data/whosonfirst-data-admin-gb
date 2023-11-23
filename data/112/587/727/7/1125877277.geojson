@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.8914045,58.460886,-4.8914045,58.460886",
+    "geom:bbox":"-4.891405,58.460886,-4.891405,58.460886",
     "geom:latitude":58.460886,
     "geom:longitude":-4.891405,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698661,
+        1880773131,
         102191581,
-        404436073,
         85633159,
+        1880762005,
         404227471,
+        136253055,
         1360699045
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497294604,
-    "wof:geomhash":"fd03672fb8ddb7cdac97e1630d0373f1",
+    "wof:geomhash":"43e77a2eeeb960930cc82f3457369cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699045,
-            "localadmin_id":404436073,
+            "empire_id":136253055,
             "locality_id":1125877277,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":1360698661
+            "region_id":1880773131
         }
     ],
     "wof:id":1125877277,
-    "wof:lastmodified":1566635185,
+    "wof:lastmodified":1700724027,
     "wof:name":"Gualin Ho",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.8914045,
+    -4.891405,
     58.460886,
-    -4.8914045,
+    -4.891405,
     58.460886
 ],
-  "geometry": {"coordinates":[-4.8914045,58.460886],"type":"Point"}
+  "geometry": {"coordinates":[-4.891405,58.460886],"type":"Point"}
 }

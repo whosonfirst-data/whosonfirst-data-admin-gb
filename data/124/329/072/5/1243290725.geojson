@@ -37,32 +37,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683747,
+        1880773131,
         102191581,
-        404436073,
         85633159,
-        404227471
+        1880762005,
+        404227471,
+        136253055,
+        1360699045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2651735
     },
     "wof:country":"GB",
-    "wof:geomhash":"ba982719afc445631fd46359ea4e700f",
+    "wof:geomhash":"23246dbd8890fb8d2e3dca74dc8dd7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404436073,
+            "county_id":1360699045,
+            "empire_id":136253055,
             "locality_id":1243290725,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":85683747
+            "region_id":1880773131
         }
     ],
     "wof:id":1243290725,
-    "wof:lastmodified":1566636538,
+    "wof:lastmodified":1700724119,
     "wof:name":"Culmaily",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -71,9 +75,9 @@
 },
   "bbox": [
     -4.01667,
-    57.96666999999999,
+    57.96667,
     -4.01667,
-    57.96666999999999
+    57.96667
 ],
-  "geometry": {"coordinates":[-4.01667,57.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-4.01667,57.96667],"type":"Point"}
 }

@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":10277885
     },
     "wof:country":"GB",
-    "wof:geomhash":"7818f1bc6da4383bb510853bc9d3ee3f",
+    "wof:geomhash":"8ea9fb9c98628a2f3d956139db6e4d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1225973227,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1225973227,
-    "wof:lastmodified":1566636629,
+    "wof:lastmodified":1700723787,
     "wof:name":"Drumore",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -5.62749,
-    55.43904000000001,
+    55.43904,
     -5.62749,
-    55.43904000000001
+    55.43904
 ],
-  "geometry": {"coordinates":[-5.62749,55.43904000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.62749,55.43904],"type":"Point"}
 }

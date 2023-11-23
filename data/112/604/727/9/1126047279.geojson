@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.458005,60.3726665,-1.458005,60.3726665",
+    "geom:bbox":"-1.458005,60.372667,-1.458005,60.372667",
     "geom:latitude":60.372667,
     "geom:longitude":-1.458005,
     "gn:country":"GB",
@@ -113,11 +113,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698681,
+        1880772999,
         102191581,
-        404448343,
         85633159,
+        1880762023,
         404227471,
+        136253055,
         1360698897
     ],
     "wof:breaches":[],
@@ -127,22 +128,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302509,
-    "wof:geomhash":"937c69c3087c4d6bed96034579b8df87",
+    "wof:geomhash":"a2f88826de3dbce78695dac15af37747",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698897,
-            "localadmin_id":404448343,
+            "empire_id":136253055,
             "locality_id":1126047279,
+            "macrocounty_id":1880762023,
             "macroregion_id":404227471,
-            "region_id":1360698681
+            "region_id":1880772999
         }
     ],
     "wof:id":1126047279,
-    "wof:lastmodified":1566634584,
+    "wof:lastmodified":1700723318,
     "wof:name":"Muckle Roe",
-    "wof:parent_id":404448343,
+    "wof:parent_id":1360698897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -151,9 +153,9 @@
 },
   "bbox": [
     -1.458005,
-    60.3726665,
+    60.372667,
     -1.458005,
-    60.3726665
+    60.372667
 ],
-  "geometry": {"coordinates":[-1.458005,60.3726665],"type":"Point"}
+  "geometry": {"coordinates":[-1.458005,60.372667],"type":"Point"}
 }

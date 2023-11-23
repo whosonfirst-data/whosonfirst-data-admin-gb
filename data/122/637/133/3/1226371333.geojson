@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698661,
+        1880773131,
         102191581,
-        404436073,
         85633159,
+        1880762005,
         404227471,
+        136253055,
         1360699045
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":2634443
     },
     "wof:country":"GB",
-    "wof:geomhash":"860ea3909cd3f93f01287c9b903e8558",
+    "wof:geomhash":"cbb5285173095bb1fa0da424a6b99e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699045,
-            "localadmin_id":404436073,
+            "empire_id":136253055,
             "locality_id":1226371333,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":1360698661
+            "region_id":1880773131
         }
     ],
     "wof:id":1226371333,
-    "wof:lastmodified":1566636652,
+    "wof:lastmodified":1700724130,
     "wof:name":"Wester Clynekirkton",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -3.88333,
-    58.03333000000001,
+    58.03333,
     -3.88333,
-    58.03333000000001
+    58.03333
 ],
-  "geometry": {"coordinates":[-3.88333,58.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.88333,58.03333],"type":"Point"}
 }

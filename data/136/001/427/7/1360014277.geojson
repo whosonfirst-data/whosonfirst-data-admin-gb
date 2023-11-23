@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698691,
+        1880772947,
         102191581,
-        404451983,
         85633159,
+        1880762043,
         404227471,
+        136253055,
         1360698829
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":2656438
     },
     "wof:country":"GB",
-    "wof:geomhash":"02bfdea15f8520ca74677bb186e0af53",
+    "wof:geomhash":"36aa65a4c4233ea57b36884f509f387b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698829,
-            "localadmin_id":404451983,
+            "empire_id":136253055,
             "locality_id":1360014277,
+            "macrocounty_id":1880762043,
             "macroregion_id":404227471,
-            "region_id":1360698691
+            "region_id":1880772947
         }
     ],
     "wof:id":1360014277,
-    "wof:lastmodified":1566629130,
+    "wof:lastmodified":1700724151,
     "wof:name":"Balnald",
-    "wof:parent_id":404451983,
+    "wof:parent_id":1360698829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -3.51667,
-    56.71666999999999,
+    56.71667,
     -3.51667,
-    56.71666999999999
+    56.71667
 ],
-  "geometry": {"coordinates":[-3.51667,56.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-3.51667,56.71667],"type":"Point"}
 }

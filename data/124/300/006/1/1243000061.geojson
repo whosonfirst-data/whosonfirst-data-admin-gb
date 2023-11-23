@@ -48,11 +48,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684103,
+        1880772935,
         102191581,
-        404446035,
         85633159,
-        404227471
+        1880762021,
+        404227471,
+        136253055,
+        1360698807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,21 +62,23 @@
         "wk:page":"Tealing"
     },
     "wof:country":"GB",
-    "wof:geomhash":"3ae482db890563bd8899bf37b4cc1e86",
+    "wof:geomhash":"6fc4ebc126972a03d312c6fc60458f07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404446035,
+            "county_id":1360698807,
+            "empire_id":136253055,
             "locality_id":1243000061,
+            "macrocounty_id":1880762021,
             "macroregion_id":404227471,
-            "region_id":85684103
+            "region_id":1880772935
         }
     ],
     "wof:id":1243000061,
-    "wof:lastmodified":1566636458,
+    "wof:lastmodified":1700723370,
     "wof:name":"Kirkton of Tealing",
-    "wof:parent_id":404446035,
+    "wof:parent_id":1360698807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -83,9 +87,9 @@
 },
   "bbox": [
     -2.96667,
-    56.53333000000001,
+    56.53333,
     -2.96667,
-    56.53333000000001
+    56.53333
 ],
-  "geometry": {"coordinates":[-2.96667,56.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.96667,56.53333],"type":"Point"}
 }

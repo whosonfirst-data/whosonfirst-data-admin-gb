@@ -35,11 +35,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684253,
+        1880773121,
         102191581,
-        404448747,
         85633159,
-        404227471
+        1880762109,
+        404227471,
+        136253055,
+        1360699031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,21 +49,23 @@
         "wk:page":"Drumlithie"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fafa80ac2ce9b7d92e7fb2d837aa7bd6",
+    "wof:geomhash":"2be335be71b19d193d00cebb04b079cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404448747,
+            "county_id":1360699031,
+            "empire_id":136253055,
             "locality_id":1276578807,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":85684253
+            "region_id":1880773121
         }
     ],
     "wof:id":1276578807,
-    "wof:lastmodified":1566628007,
+    "wof:lastmodified":1700723812,
     "wof:name":"Drumlithie",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -70,9 +74,9 @@
 },
   "bbox": [
     -2.3528,
-    56.91883000000001,
+    56.91883,
     -2.3528,
-    56.91883000000001
+    56.91883
 ],
-  "geometry": {"coordinates":[-2.3528,56.91883000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.3528,56.91883],"type":"Point"}
 }

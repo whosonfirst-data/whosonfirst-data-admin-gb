@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.4315695,56.584728,-3.4315695,56.584728",
+    "geom:bbox":"-3.43157,56.584728,-3.43157,56.584728",
     "geom:latitude":56.584728,
     "geom:longitude":-3.43157,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698691,
+        1880772947,
         102191581,
-        404451983,
         85633159,
+        1880762043,
         404227471,
+        136253055,
         1360698829
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497296315,
-    "wof:geomhash":"9bb727206f50cb8c303338d51cc410f7",
+    "wof:geomhash":"41dc640cc6955304281cb9c342b64e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698829,
-            "localadmin_id":404451983,
+            "empire_id":136253055,
             "locality_id":1125915955,
+            "macrocounty_id":1880762043,
             "macroregion_id":404227471,
-            "region_id":1360698691
+            "region_id":1880772947
         }
     ],
     "wof:id":1125915955,
-    "wof:lastmodified":1566635665,
+    "wof:lastmodified":1700724165,
     "wof:name":"Spittalfield",
-    "wof:parent_id":404451983,
+    "wof:parent_id":1360698829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.4315695,
+    -3.43157,
     56.584728,
-    -3.4315695,
+    -3.43157,
     56.584728
 ],
-  "geometry": {"coordinates":[-3.4315695,56.584728],"type":"Point"}
+  "geometry": {"coordinates":[-3.43157,56.584728],"type":"Point"}
 }

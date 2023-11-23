@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.8556965,57.814578,-6.8556965,57.814578",
+    "geom:bbox":"-6.855696,57.814578,-6.855696,57.814578",
     "geom:latitude":57.814578,
     "geom:longitude":-6.855696,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497299055,
-    "wof:geomhash":"632e64baca771fc9ad66c00e9b6f2e45",
+    "wof:geomhash":"277dd42c9505295da0a673c18d172c2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1125991045,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1125991045,
-    "wof:lastmodified":1566635191,
+    "wof:lastmodified":1700723094,
     "wof:name":"Geocrab",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.8556965,
+    -6.855696,
     57.814578,
-    -6.8556965,
+    -6.855696,
     57.814578
 ],
-  "geometry": {"coordinates":[-6.8556965,57.814578],"type":"Point"}
+  "geometry": {"coordinates":[-6.855696,57.814578],"type":"Point"}
 }

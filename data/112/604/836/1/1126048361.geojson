@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.079162,57.1047085,-2.079162,57.1047085",
+    "geom:bbox":"-2.079162,57.104709,-2.079162,57.104709",
     "geom:latitude":57.104709,
     "geom:longitude":-2.079162,
     "gn:country":null,
@@ -53,11 +53,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698709,
+        1880773079,
         102191581,
-        404429183,
         85633159,
+        1880762093,
         404227471,
+        136253055,
         1360698989
     ],
     "wof:breaches":[],
@@ -67,22 +68,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302569,
-    "wof:geomhash":"c9d03efe971be96a4daf262d8cd31b72",
+    "wof:geomhash":"24cf2eb4d987901e6dcec6ffb3f129ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698989,
-            "localadmin_id":404429183,
+            "empire_id":136253055,
             "locality_id":1126048361,
+            "macrocounty_id":1880762093,
             "macroregion_id":404227471,
-            "region_id":1360698709
+            "region_id":1880773079
         }
     ],
     "wof:id":1126048361,
-    "wof:lastmodified":1566634565,
+    "wof:lastmodified":1700724194,
     "wof:name":"Cove Bay",
-    "wof:parent_id":404429183,
+    "wof:parent_id":1360698989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -91,9 +93,9 @@
 },
   "bbox": [
     -2.079162,
-    57.1047085,
+    57.104709,
     -2.079162,
-    57.1047085
+    57.104709
 ],
-  "geometry": {"coordinates":[-2.079162,57.1047085],"type":"Point"}
+  "geometry": {"coordinates":[-2.079162,57.104709],"type":"Point"}
 }

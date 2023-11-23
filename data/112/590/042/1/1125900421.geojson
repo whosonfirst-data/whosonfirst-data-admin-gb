@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.6173995,58.49485,-4.6173995,58.49485",
+    "geom:bbox":"-4.6174,58.49485,-4.6174,58.49485",
     "geom:latitude":58.49485,
     "geom:longitude":-4.6174,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698661,
+        1880773131,
         102191581,
-        404436073,
         85633159,
+        1880762005,
         404227471,
+        136253055,
         1360699045
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497295779,
-    "wof:geomhash":"025b4c3c287ad3d6cf6771d243bf0000",
+    "wof:geomhash":"88720ff20d45612fcf141e83573d9023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699045,
-            "localadmin_id":404436073,
+            "empire_id":136253055,
             "locality_id":1125900421,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":1360698661
+            "region_id":1880773131
         }
     ],
     "wof:id":1125900421,
-    "wof:lastmodified":1566635355,
+    "wof:lastmodified":1700724047,
     "wof:name":"Lochside",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.6173995,
+    -4.6174,
     58.49485,
-    -4.6173995,
+    -4.6174,
     58.49485
 ],
-  "geometry": {"coordinates":[-4.6173995,58.49485],"type":"Point"}
+  "geometry": {"coordinates":[-4.6174,58.49485],"type":"Point"}
 }

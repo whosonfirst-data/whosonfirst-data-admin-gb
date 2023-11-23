@@ -32,32 +32,34 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684241,
+        1880773105,
         102191581,
-        404442083,
         85633159,
-        404227471
+        1880761991,
+        404227471,
+        1360699015
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2655402
     },
     "wof:country":"GB",
-    "wof:geomhash":"f07a597b684e167e6759921ee0d3ebcd",
+    "wof:geomhash":"003754a7b7f10458cabb82fd204bdad0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404442083,
+            "county_id":1360699015,
             "locality_id":1326859489,
+            "macrocounty_id":1880761991,
             "macroregion_id":404227471,
-            "region_id":85684241
+            "region_id":1880773105
         }
     ],
     "wof:id":1326859489,
-    "wof:lastmodified":1566627382,
+    "wof:lastmodified":1700723245,
     "wof:name":"Blainslie",
-    "wof:parent_id":404442083,
+    "wof:parent_id":1360699015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +68,9 @@
 },
   "bbox": [
     -2.73333,
-    55.68333000000001,
+    55.68333,
     -2.73333,
-    55.68333000000001
+    55.68333
 ],
-  "geometry": {"coordinates":[-2.73333,55.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.73333,55.68333],"type":"Point"}
 }

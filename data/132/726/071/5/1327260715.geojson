@@ -38,11 +38,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683729,
+        1880773107,
         102191581,
-        404447595,
         85633159,
-        404227471
+        1880762091,
+        404227471,
+        136253055,
+        1360699017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,21 +52,23 @@
         "wk:page":"Spott%2C_East_Lothian"
     },
     "wof:country":"GB",
-    "wof:geomhash":"3b156cffca50328332f7030e9c3c11bb",
+    "wof:geomhash":"cb0db3224a517d8506ddf5b463ee9a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404447595,
+            "county_id":1360699017,
+            "empire_id":136253055,
             "locality_id":1327260715,
+            "macrocounty_id":1880762091,
             "macroregion_id":404227471,
-            "region_id":85683729
+            "region_id":1880773107
         }
     ],
     "wof:id":1327260715,
-    "wof:lastmodified":1566627400,
+    "wof:lastmodified":1700723237,
     "wof:name":"Spott",
-    "wof:parent_id":404447595,
+    "wof:parent_id":1360699017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -73,9 +77,9 @@
 },
   "bbox": [
     -2.52644,
-    55.97083000000001,
+    55.97083,
     -2.52644,
-    55.97083000000001
+    55.97083
 ],
-  "geometry": {"coordinates":[-2.52644,55.97083000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.52644,55.97083],"type":"Point"}
 }

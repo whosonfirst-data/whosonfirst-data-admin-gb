@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.046462,58.1796155,-7.046462,58.1796155",
+    "geom:bbox":"-7.046462,58.179615,-7.046462,58.179615",
     "geom:latitude":58.179615,
     "geom:longitude":-7.046462,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497290547,
-    "wof:geomhash":"76abf2d30082dcbdaa6446e1e3b90fa8",
+    "wof:geomhash":"1313f35e4d99d75a511194f425b21aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1125782573,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1125782573,
-    "wof:lastmodified":1566636110,
+    "wof:lastmodified":1700723190,
     "wof:name":"Carnish",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -7.046462,
-    58.1796155,
+    58.179615,
     -7.046462,
-    58.1796155
+    58.179615
 ],
-  "geometry": {"coordinates":[-7.046462,58.1796155],"type":"Point"}
+  "geometry": {"coordinates":[-7.046462,58.179615],"type":"Point"}
 }

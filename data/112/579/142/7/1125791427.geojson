@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.3602895,56.0255,-5.3602895,56.0255",
+    "geom:bbox":"-5.36029,56.0255,-5.36029,56.0255",
     "geom:latitude":56.0255,
     "geom:longitude":-5.36029,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497290877,
-    "wof:geomhash":"351b2d084ba98db2c613e7054f20e28e",
+    "wof:geomhash":"9040fc056549b80c14f9241b8bb8a6b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1125791427,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1125791427,
-    "wof:lastmodified":1566636223,
+    "wof:lastmodified":1700723731,
     "wof:name":"Port Ann",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.3602895,
+    -5.36029,
     56.0255,
-    -5.3602895,
+    -5.36029,
     56.0255
 ],
-  "geometry": {"coordinates":[-5.3602895,56.0255],"type":"Point"}
+  "geometry": {"coordinates":[-5.36029,56.0255],"type":"Point"}
 }

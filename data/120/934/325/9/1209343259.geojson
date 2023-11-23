@@ -38,11 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698715,
+        1880772981,
         102191581,
-        404446793,
         85633159,
+        1880762111,
         404227471,
+        136253055,
         1360698869
     ],
     "wof:breaches":[],
@@ -51,22 +52,23 @@
         "wk:page":"Ianstown"
     },
     "wof:country":"GB",
-    "wof:geomhash":"bef0c1ac0a156efd7210e6b6741154cb",
+    "wof:geomhash":"a5c4617222fdae15460c627f24a4a99b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698869,
-            "localadmin_id":404446793,
+            "empire_id":136253055,
             "locality_id":1209343259,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":1360698715
+            "region_id":1880772981
         }
     ],
     "wof:id":1209343259,
-    "wof:lastmodified":1566628110,
+    "wof:lastmodified":1700723374,
     "wof:name":"Ianstown",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -75,9 +77,9 @@
 },
   "bbox": [
     -2.93333,
-    57.68333000000001,
+    57.68333,
     -2.93333,
-    57.68333000000001
+    57.68333
 ],
-  "geometry": {"coordinates":[-2.93333,57.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.93333,57.68333],"type":"Point"}
 }

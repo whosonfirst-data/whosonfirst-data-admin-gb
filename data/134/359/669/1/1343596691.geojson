@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683747,
+        1880773131,
         102191581,
-        404436073,
         85633159,
-        404227471
+        1880762005,
+        404227471,
+        136253055,
+        1360699045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11071753
     },
     "wof:country":"GB",
-    "wof:geomhash":"269e479ca94c00c5d05fb1754def0582",
+    "wof:geomhash":"c59b5f0cdfee307eae7f6015a8a690e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404436073,
+            "county_id":1360699045,
+            "empire_id":136253055,
             "locality_id":1343596691,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":85683747
+            "region_id":1880773131
         }
     ],
     "wof:id":1343596691,
-    "wof:lastmodified":1566627453,
+    "wof:lastmodified":1700723909,
     "wof:name":"Little Torboll",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -4.10554,
-    57.95838000000001,
+    57.95838,
     -4.10554,
-    57.95838000000001
+    57.95838
 ],
-  "geometry": {"coordinates":[-4.10554,57.95838000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.10554,57.95838],"type":"Point"}
 }

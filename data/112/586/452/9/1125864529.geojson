@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.8744025,57.864978,-6.8744025,57.864978",
+    "geom:bbox":"-6.874403,57.864978,-6.874403,57.864978",
     "geom:latitude":57.864978,
     "geom:longitude":-6.874403,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497293973,
-    "wof:geomhash":"2153c3b99ca9594f40ae91391f8f2bab",
+    "wof:geomhash":"50b11fd54809aa7f93528a8d9943e007",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1125864529,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1125864529,
-    "wof:lastmodified":1566634699,
+    "wof:lastmodified":1700723059,
     "wof:name":"Horsaclete",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.8744025,
+    -6.874403,
     57.864978,
-    -6.8744025,
+    -6.874403,
     57.864978
 ],
-  "geometry": {"coordinates":[-6.8744025,57.864978],"type":"Point"}
+  "geometry": {"coordinates":[-6.874403,57.864978],"type":"Point"}
 }

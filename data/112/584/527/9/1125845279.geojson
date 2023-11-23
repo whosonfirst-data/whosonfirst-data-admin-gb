@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.175086,57.6068695,-7.175086,57.6068695",
+    "geom:bbox":"-7.175086,57.60687,-7.175086,57.60687",
     "geom:latitude":57.60687,
     "geom:longitude":-7.175086,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497293128,
-    "wof:geomhash":"99ebce3bb2481acb5b8250d60b83aebf",
+    "wof:geomhash":"3012d1c1676e92405be3db240b55dccb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1125845279,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1125845279,
-    "wof:lastmodified":1566636291,
+    "wof:lastmodified":1700723212,
     "wof:name":"Strumore",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -7.175086,
-    57.6068695,
+    57.60687,
     -7.175086,
-    57.6068695
+    57.60687
 ],
-  "geometry": {"coordinates":[-7.175086,57.6068695],"type":"Point"}
+  "geometry": {"coordinates":[-7.175086,57.60687],"type":"Point"}
 }

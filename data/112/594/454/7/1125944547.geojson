@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.952112,55.9774425,-3.952112,55.9774425",
+    "geom:bbox":"-3.952112,55.977443,-3.952112,55.977443",
     "geom:latitude":55.977443,
     "geom:longitude":-3.952112,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698703,
+        1880773061,
         102191581,
-        404435713,
         85633159,
+        1880762099,
         404227471,
+        136253055,
         1360698949
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497297230,
-    "wof:geomhash":"c8f9ff8ba85d955912ad99cc29c6bd43",
+    "wof:geomhash":"b423d90fa13bce43deff4690396fbb54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698949,
-            "localadmin_id":404435713,
+            "empire_id":136253055,
             "locality_id":1125944547,
+            "macrocounty_id":1880762099,
             "macroregion_id":404227471,
-            "region_id":1360698703
+            "region_id":1880773061
         }
     ],
     "wof:id":1125944547,
-    "wof:lastmodified":1566634108,
+    "wof:lastmodified":1700723795,
     "wof:name":"Wardpark East",
-    "wof:parent_id":404435713,
+    "wof:parent_id":1360698949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -3.952112,
-    55.9774425,
+    55.977443,
     -3.952112,
-    55.9774425
+    55.977443
 ],
-  "geometry": {"coordinates":[-3.952112,55.9774425],"type":"Point"}
+  "geometry": {"coordinates":[-3.952112,55.977443],"type":"Point"}
 }

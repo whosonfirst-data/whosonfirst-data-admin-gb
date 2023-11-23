@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683883,
+        1880772977,
         102191581,
-        404439789,
         85633159,
-        404227471
+        1880762047,
+        404227471,
+        136253055,
+        1360698863
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9883800
     },
     "wof:country":"GB",
-    "wof:geomhash":"cccc742b66c2b99efe3549f4f85c6c3a",
+    "wof:geomhash":"0b4f45bd4cc2fb553878b59f0a84ccb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404439789,
+            "county_id":1360698863,
+            "empire_id":136253055,
             "locality_id":1242902849,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":85683883
+            "region_id":1880772977
         }
     ],
     "wof:id":1242902849,
-    "wof:lastmodified":1566636522,
+    "wof:lastmodified":1700723765,
     "wof:name":"Glengorm",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -6.17247,
-    56.63648000000001,
+    56.63648,
     -6.17247,
-    56.63648000000001
+    56.63648
 ],
-  "geometry": {"coordinates":[-6.17247,56.63648000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.17247,56.63648],"type":"Point"}
 }

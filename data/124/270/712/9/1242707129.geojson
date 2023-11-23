@@ -37,11 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -49,22 +50,23 @@
         "gn:id":2635005
     },
     "wof:country":"GB",
-    "wof:geomhash":"77acbd2183caba7fc36f473cbc1aeb73",
+    "wof:geomhash":"afedcdb30bc0c22f45793c4dfddf559b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1242707129,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1242707129,
-    "wof:lastmodified":1566636512,
+    "wof:lastmodified":1700723227,
     "wof:name":"Vatisker",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -73,9 +75,9 @@
 },
   "bbox": [
     -6.3,
-    58.28333000000001,
+    58.28333,
     -6.3,
-    58.28333000000001
+    58.28333
 ],
-  "geometry": {"coordinates":[-6.3,58.28333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.3,58.28333],"type":"Point"}
 }

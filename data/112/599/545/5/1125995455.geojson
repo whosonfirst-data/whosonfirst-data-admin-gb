@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.2381235,60.026476,-1.2381235,60.026476",
+    "geom:bbox":"-1.238123,60.026476,-1.238123,60.026476",
     "geom:latitude":60.026476,
     "geom:longitude":-1.238123,
     "gn:country":null,
@@ -56,11 +56,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698681,
+        1880772999,
         102191581,
-        404448343,
         85633159,
+        1880762023,
         404227471,
+        136253055,
         1360698897
     ],
     "wof:breaches":[],
@@ -71,22 +72,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497299302,
-    "wof:geomhash":"9f3a7853a0b68e3b9fa1668d676dae45",
+    "wof:geomhash":"9ae07dd7d74a07fc558855e5fd9efbce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698897,
-            "localadmin_id":404448343,
+            "empire_id":136253055,
             "locality_id":1125995455,
+            "macrocounty_id":1880762023,
             "macroregion_id":404227471,
-            "region_id":1360698681
+            "region_id":1880772999
         }
     ],
     "wof:id":1125995455,
-    "wof:lastmodified":1566635238,
+    "wof:lastmodified":1700723327,
     "wof:name":"Mail",
-    "wof:parent_id":404448343,
+    "wof:parent_id":1360698897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -94,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.2381235,
+    -1.238123,
     60.026476,
-    -1.2381235,
+    -1.238123,
     60.026476
 ],
-  "geometry": {"coordinates":[-1.2381235,60.026476],"type":"Point"}
+  "geometry": {"coordinates":[-1.238123,60.026476],"type":"Point"}
 }

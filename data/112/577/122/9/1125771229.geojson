@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.325724,57.6515875,-3.325724,57.6515875",
+    "geom:bbox":"-3.325724,57.651587,-3.325724,57.651587",
     "geom:latitude":57.651587,
     "geom:longitude":-3.325724,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698715,
+        1880772981,
         102191581,
-        404446793,
         85633159,
+        1880762111,
         404227471,
+        136253055,
         1360698869
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497290074,
-    "wof:geomhash":"598326fa5d1ebd1bbc576395de1a100e",
+    "wof:geomhash":"f1f32c6b0463db3a83ff69cef4ab20e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698869,
-            "localadmin_id":404446793,
+            "empire_id":136253055,
             "locality_id":1125771229,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":1360698715
+            "region_id":1880772981
         }
     ],
     "wof:id":1125771229,
-    "wof:lastmodified":1566636375,
+    "wof:lastmodified":1700723385,
     "wof:name":"The Haugh",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -3.325724,
-    57.6515875,
+    57.651587,
     -3.325724,
-    57.6515875
+    57.651587
 ],
-  "geometry": {"coordinates":[-3.325724,57.6515875],"type":"Point"}
+  "geometry": {"coordinates":[-3.325724,57.651587],"type":"Point"}
 }

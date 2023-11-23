@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":9884546
     },
     "wof:country":"GB",
-    "wof:geomhash":"9d0ea112775b6fe77480189ef950da1b",
+    "wof:geomhash":"563aea0d27446b783aa06b66a98592a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1226171375,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1226171375,
-    "wof:lastmodified":1566636593,
+    "wof:lastmodified":1700723779,
     "wof:name":"Ruanaich",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -6.40825,
-    56.32458000000001,
+    56.32458,
     -6.40825,
-    56.32458000000001
+    56.32458
 ],
-  "geometry": {"coordinates":[-6.40825,56.32458000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.40825,56.32458],"type":"Point"}
 }

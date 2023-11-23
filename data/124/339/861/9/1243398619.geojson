@@ -32,32 +32,34 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684241,
+        1880773105,
         102191581,
-        404442083,
         85633159,
-        404227471
+        1880761991,
+        404227471,
+        1360699015
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2641672
     },
     "wof:country":"GB",
-    "wof:geomhash":"5d696f8343c60636bcddb0dcf2babaf6",
+    "wof:geomhash":"7daae64197f10a9658981e161ac8d474",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404442083,
+            "county_id":1360699015,
             "locality_id":1243398619,
+            "macrocounty_id":1880761991,
             "macroregion_id":404227471,
-            "region_id":85684241
+            "region_id":1880773105
         }
     ],
     "wof:id":1243398619,
-    "wof:lastmodified":1566636469,
+    "wof:lastmodified":1700723265,
     "wof:name":"New Channelkirk",
-    "wof:parent_id":404442083,
+    "wof:parent_id":1360699015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +68,9 @@
 },
   "bbox": [
     -2.83333,
-    55.78333000000001,
+    55.78333,
     -2.83333,
-    55.78333000000001
+    55.78333
 ],
-  "geometry": {"coordinates":[-2.83333,55.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.83333,55.78333],"type":"Point"}
 }

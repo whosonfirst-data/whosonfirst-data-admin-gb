@@ -41,11 +41,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698709,
+        1880773079,
         102191581,
-        404429183,
         85633159,
+        1880762093,
         404227471,
+        136253055,
         1360698989
     ],
     "wof:breaches":[],
@@ -53,22 +54,23 @@
         "gn:id":2656389
     },
     "wof:country":"GB",
-    "wof:geomhash":"4e6c889fa0343dea6c38b3e9012edc4a",
+    "wof:geomhash":"4a8bbd030888287b66867c5014e1ed61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698989,
-            "localadmin_id":404429183,
+            "empire_id":136253055,
             "locality_id":1225973231,
+            "macrocounty_id":1880762093,
             "macroregion_id":404227471,
-            "region_id":1360698709
+            "region_id":1880773079
         }
     ],
     "wof:id":1225973231,
-    "wof:lastmodified":1566636629,
+    "wof:lastmodified":1700724196,
     "wof:name":"Bankhead",
-    "wof:parent_id":404429183,
+    "wof:parent_id":1360698989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -77,9 +79,9 @@
 },
   "bbox": [
     -2.18333,
-    57.18333000000001,
+    57.18333,
     -2.18333,
-    57.18333000000001
+    57.18333
 ],
-  "geometry": {"coordinates":[-2.18333,57.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.18333,57.18333],"type":"Point"}
 }

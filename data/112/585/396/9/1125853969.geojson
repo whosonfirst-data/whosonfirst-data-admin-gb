@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.4497065,57.6781815,-3.4497065,57.6781815",
+    "geom:bbox":"-3.449707,57.678182,-3.449707,57.678182",
     "geom:latitude":57.678182,
     "geom:longitude":-3.449707,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698715,
+        1880772981,
         102191581,
-        404446793,
         85633159,
+        1880762111,
         404227471,
+        136253055,
         1360698869
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497293532,
-    "wof:geomhash":"4d4b46de14718cce333938845fc9e152",
+    "wof:geomhash":"0b0ce93ee0fb251d8dfd8ce70fb5da75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698869,
-            "localadmin_id":404446793,
+            "empire_id":136253055,
             "locality_id":1125853969,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":1360698715
+            "region_id":1880772981
         }
     ],
     "wof:id":1125853969,
-    "wof:lastmodified":1566636019,
+    "wof:lastmodified":1700723384,
     "wof:name":"Roseisle",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.4497065,
-    57.6781815,
-    -3.4497065,
-    57.6781815
+    -3.449707,
+    57.678182,
+    -3.449707,
+    57.678182
 ],
-  "geometry": {"coordinates":[-3.4497065,57.6781815],"type":"Point"}
+  "geometry": {"coordinates":[-3.449707,57.678182],"type":"Point"}
 }

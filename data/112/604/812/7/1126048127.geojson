@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.54216,55.4051905,-4.54216,55.4051905",
+    "geom:bbox":"-4.54216,55.405191,-4.54216,55.405191",
     "geom:latitude":55.405191,
     "geom:longitude":-4.54216,
     "gn:country":null,
@@ -47,11 +47,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698697,
+        1880772907,
         102191581,
-        404451413,
         85633159,
+        1880762041,
         404227471,
+        136253055,
         1360698779
     ],
     "wof:breaches":[],
@@ -61,22 +62,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302558,
-    "wof:geomhash":"2728f675491084d953816cc9a42bd39e",
+    "wof:geomhash":"974a49dad8401564804fe4025f9a7d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698779,
-            "localadmin_id":404451413,
+            "empire_id":136253055,
             "locality_id":1126048127,
+            "macrocounty_id":1880762041,
             "macroregion_id":404227471,
-            "region_id":1360698697
+            "region_id":1880772907
         }
     ],
     "wof:id":1126048127,
-    "wof:lastmodified":1566634557,
+    "wof:lastmodified":1700724143,
     "wof:name":"Hollybush",
-    "wof:parent_id":404451413,
+    "wof:parent_id":1360698779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -85,9 +87,9 @@
 },
   "bbox": [
     -4.54216,
-    55.4051905,
+    55.405191,
     -4.54216,
-    55.4051905
+    55.405191
 ],
-  "geometry": {"coordinates":[-4.54216,55.4051905],"type":"Point"}
+  "geometry": {"coordinates":[-4.54216,55.405191],"type":"Point"}
 }

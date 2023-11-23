@@ -38,11 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684241,
+        1880773105,
         102191581,
-        404442083,
         85633159,
-        404227471
+        1880761991,
+        404227471,
+        1360699015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,21 +51,22 @@
         "wk:page":"Southdean"
     },
     "wof:country":"GB",
-    "wof:geomhash":"36c1c06570200ce52aff1c3cb63c9df0",
+    "wof:geomhash":"62f8ae57513622547036c34dff7bea4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404442083,
+            "county_id":1360699015,
             "locality_id":1277112079,
+            "macrocounty_id":1880761991,
             "macroregion_id":404227471,
-            "region_id":85684241
+            "region_id":1880773105
         }
     ],
     "wof:id":1277112079,
-    "wof:lastmodified":1566628056,
+    "wof:lastmodified":1700723247,
     "wof:name":"Southdean",
-    "wof:parent_id":404442083,
+    "wof:parent_id":1360699015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -73,9 +75,9 @@
 },
   "bbox": [
     -2.58333,
-    55.36666999999999,
+    55.36667,
     -2.58333,
-    55.36666999999999
+    55.36667
 ],
-  "geometry": {"coordinates":[-2.58333,55.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-2.58333,55.36667],"type":"Point"}
 }
