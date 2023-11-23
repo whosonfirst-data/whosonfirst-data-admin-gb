@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.3950325,56.2612775,-3.3950325,56.2612775",
+    "geom:bbox":"-3.395033,56.261277,-3.395033,56.261277",
     "geom:latitude":56.261277,
     "geom:longitude":-3.395033,
     "gn:country":null,
@@ -74,11 +74,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698691,
+        1880772947,
         102191581,
-        404451983,
         85633159,
+        1880762043,
         404227471,
+        136253055,
         1360698829
     ],
     "wof:breaches":[],
@@ -89,22 +90,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497299391,
-    "wof:geomhash":"211c97335af406c402b88f084d598bed",
+    "wof:geomhash":"91faa4e95b13ef99afef3e2c5a5ad913",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698829,
-            "localadmin_id":404451983,
+            "empire_id":136253055,
             "locality_id":1125996755,
+            "macrocounty_id":1880762043,
             "macroregion_id":404227471,
-            "region_id":1360698691
+            "region_id":1880772947
         }
     ],
     "wof:id":1125996755,
-    "wof:lastmodified":1566635204,
+    "wof:lastmodified":1700724162,
     "wof:name":"Duncrievie",
-    "wof:parent_id":404451983,
+    "wof:parent_id":1360698829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -112,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.3950325,
-    56.2612775,
-    -3.3950325,
-    56.2612775
+    -3.395033,
+    56.261277,
+    -3.395033,
+    56.261277
 ],
-  "geometry": {"coordinates":[-3.3950325,56.2612775],"type":"Point"}
+  "geometry": {"coordinates":[-3.395033,56.261277],"type":"Point"}
 }

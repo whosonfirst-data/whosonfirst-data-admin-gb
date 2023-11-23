@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":2652953
     },
     "wof:country":"GB",
-    "wof:geomhash":"761f5edacb2e8a216bc05fda004afbf3",
+    "wof:geomhash":"b3c8a2f81348304c113eb591c735c3f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1226784795,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1226784795,
-    "wof:lastmodified":1566636646,
+    "wof:lastmodified":1700723791,
     "wof:name":"Claonairi",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -5.13333,
-    56.18333000000001,
+    56.18333,
     -5.13333,
-    56.18333000000001
+    56.18333
 ],
-  "geometry": {"coordinates":[-5.13333,56.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.13333,56.18333],"type":"Point"}
 }

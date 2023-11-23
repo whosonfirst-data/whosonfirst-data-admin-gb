@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.9565765,57.95362,-6.9565765,57.95362",
+    "geom:bbox":"-6.956576,57.95362,-6.956576,57.95362",
     "geom:latitude":57.95362,
     "geom:longitude":-6.956576,
     "gn:country":"GB",
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497290846,
-    "wof:geomhash":"868d8e78184a6b0aaf7224905b4d2f45",
+    "wof:geomhash":"8b9013962351fa87a2bb8a533b0c85c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1125790489,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1125790489,
-    "wof:lastmodified":1566636212,
+    "wof:lastmodified":1700723207,
     "wof:name":"Cliasmol",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.9565765,
+    -6.956576,
     57.95362,
-    -6.9565765,
+    -6.956576,
     57.95362
 ],
-  "geometry": {"coordinates":[-6.9565765,57.95362],"type":"Point"}
+  "geometry": {"coordinates":[-6.956576,57.95362],"type":"Point"}
 }

@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":1.202611,
     "geom:area_square_m":7976883143.14799,
     "geom:bbox":"-6.789703,57.017633,-3.771488,58.124345",
@@ -22,7 +23,7 @@
     "mps:latitude":57.593,
     "mps:longitude":-5.253873,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:deu_x_preferred":[
         "Ross and Cromarty"
@@ -65,7 +66,7 @@
         "digitalenvoy:metro_code":826033
     },
     "wof:country":"GB",
-    "wof:geomhash":"faa3b414807fe75c93701f2b32d2141f",
+    "wof:geomhash":"bd362b705a6f0a3392f5c0f76c1dded4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,12 +85,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884665,
+    "wof:lastmodified":1700726297,
     "wof:name":"Ross and Cromarty",
     "wof:parent_id":404227471,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762003
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

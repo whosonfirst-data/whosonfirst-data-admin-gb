@@ -74,11 +74,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698713,
+        1880773121,
         102191581,
-        404448747,
         85633159,
+        1880762109,
         404227471,
+        136253055,
         1360699031
     ],
     "wof:breaches":[],
@@ -86,22 +87,23 @@
         "gn:id":6269368
     },
     "wof:country":"GB",
-    "wof:geomhash":"6ce56d687463146fb040a44bfa5b7506",
+    "wof:geomhash":"7584300378c43971aaa33e102f47e26d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699031,
-            "localadmin_id":404448747,
+            "empire_id":136253055,
             "locality_id":1209544429,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":1360698713
+            "region_id":1880773121
         }
     ],
     "wof:id":1209544429,
-    "wof:lastmodified":1566628061,
+    "wof:lastmodified":1700723814,
     "wof:name":"Sunnyside",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -110,9 +112,9 @@
 },
   "bbox": [
     -2.16486,
-    57.25013000000001,
+    57.25013,
     -2.16486,
-    57.25013000000001
+    57.25013
 ],
-  "geometry": {"coordinates":[-2.16486,57.25013000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.16486,57.25013],"type":"Point"}
 }

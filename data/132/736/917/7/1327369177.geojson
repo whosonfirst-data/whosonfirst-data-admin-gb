@@ -32,29 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        1880773097,
         102191581,
-        404429199,
-        85633159
+        85633159,
+        1880762027,
+        404227471,
+        136253055,
+        1360699007
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10110003
     },
     "wof:country":"GB",
-    "wof:geomhash":"c679304485333f728bff8d07a533739a",
+    "wof:geomhash":"bd2284a6fbd76369e25d22e9fd2e0583",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404429199,
+            "county_id":1360699007,
+            "empire_id":136253055,
             "locality_id":1327369177,
-            "region_id":-1
+            "macrocounty_id":1880762027,
+            "macroregion_id":404227471,
+            "region_id":1880773097
         }
     ],
     "wof:id":1327369177,
-    "wof:lastmodified":1566627347,
+    "wof:lastmodified":1700722907,
     "wof:name":"Carragrich",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -63,9 +70,9 @@
 },
   "bbox": [
     -6.73372,
-    57.88903000000001,
+    57.88903,
     -6.73372,
-    57.88903000000001
+    57.88903
 ],
-  "geometry": {"coordinates":[-6.73372,57.88903000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.73372,57.88903],"type":"Point"}
 }

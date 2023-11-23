@@ -42,11 +42,13 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85683955,
+        1880773061,
         102191581,
-        404453929,
         85633159,
-        404227471
+        1880762099,
+        404227471,
+        136253055,
+        1360698969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,21 +56,23 @@
         "wk:page":"Ashgill"
     },
     "wof:country":"GB",
-    "wof:geomhash":"2cf2e276e301da63018c1274511743cb",
+    "wof:geomhash":"34f3c3476a9cec7e9d32415411f93d49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404453929,
+            "county_id":1360698969,
+            "empire_id":136253055,
             "locality_id":1327169579,
+            "macrocounty_id":1880762099,
             "macroregion_id":404227471,
-            "region_id":85683955
+            "region_id":1880773061
         }
     ],
     "wof:id":1327169579,
-    "wof:lastmodified":1566627409,
+    "wof:lastmodified":1700724183,
     "wof:name":"Ashgill",
-    "wof:parent_id":404453929,
+    "wof:parent_id":1360698969,
     "wof:placetype":"locality",
     "wof:population":1460,
     "wof:population_rank":3,
@@ -79,9 +83,9 @@
 },
   "bbox": [
     -3.93019,
-    55.73119000000001,
+    55.73119,
     -3.93019,
-    55.73119000000001
+    55.73119
 ],
-  "geometry": {"coordinates":[-3.93019,55.73119000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.93019,55.73119],"type":"Point"}
 }

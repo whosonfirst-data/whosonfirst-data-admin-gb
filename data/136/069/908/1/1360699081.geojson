@@ -7,6 +7,7 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.846502,
     "geom:area_square_m":6621017061.382691,
     "geom:bbox":"-4.678659,50.201058,-2.88664,51.247493",
@@ -26,7 +27,7 @@
     "mps:latitude":50.753647,
     "mps:longitude":-3.892296,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
@@ -418,6 +419,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":826046,
         "digitalenvoy:region_code":28399,
         "fips:code":"UKD4",
         "gbr-ons:gss_code":"1218",
@@ -433,11 +435,8 @@
     "wof:concordances_official_alt":[
         "iso:code"
     ],
-    "wof:coterminous":[
-        1360698541
-    ],
     "wof:country":"GB",
-    "wof:geomhash":"001e4deedae6d2a06b796acd33237c69",
+    "wof:geomhash":"563d2a1a8f58015fb48f0aefd2ccfa5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -457,7 +456,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695886404,
+    "wof:lastmodified":1700726258,
     "wof:name":"Devon",
     "wof:parent_id":1360698541,
     "wof:placetype":"county",
@@ -467,7 +466,9 @@
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"DEV",
     "wof:subdivision":"GB-DEV",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762683
+    ],
     "wof:supersedes":[
         85683773
     ],

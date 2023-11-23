@@ -43,14 +43,15 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
+        1880773087,
         102191581,
+        1880762141,
         404436695,
         85633159,
         404227469,
         1360758809,
-        1360698913,
-        1360698533,
-        101760461
+        136253055,
+        1360698913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,27 +64,19 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698913,
+            "empire_id":136253055,
             "localadmin_id":404436695,
             "locality_id":1360758809,
+            "macrocounty_id":1880762141,
             "macroregion_id":404227469,
             "neighbourhood_id":1360806131,
-            "region_id":1360698533
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698913,
-            "localadmin_id":404436695,
-            "locality_id":101760461,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360806131,
-            "region_id":1360698533
+            "region_id":1880773087
         }
     ],
     "wof:id":1360806131,
-    "wof:lastmodified":1566629493,
+    "wof:lastmodified":1699952139,
     "wof:name":"Water Eaton",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360758809,
     "wof:placetype":"neighbourhood",
     "wof:population":8412,
     "wof:population_rank":5,

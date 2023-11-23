@@ -38,32 +38,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683883,
+        1880772977,
         102191581,
-        404439789,
         85633159,
-        404227471
+        1880762047,
+        404227471,
+        136253055,
+        1360698863
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2649535
     },
     "wof:country":"GB",
-    "wof:geomhash":"f2fdfc0fbe1ff57e7b094e4fb4815881",
+    "wof:geomhash":"a4c05ea57ac32ac0522e10392d1caa8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404439789,
+            "county_id":1360698863,
+            "empire_id":136253055,
             "locality_id":1293030149,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":85683883
+            "region_id":1880772977
         }
     ],
     "wof:id":1293030149,
-    "wof:lastmodified":1566627953,
+    "wof:lastmodified":1700723408,
     "wof:name":"Feorlean",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -72,9 +76,9 @@
 },
   "bbox": [
     -5.18333,
-    55.96666999999999,
+    55.96667,
     -5.18333,
-    55.96666999999999
+    55.96667
 ],
-  "geometry": {"coordinates":[-5.18333,55.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-5.18333,55.96667],"type":"Point"}
 }

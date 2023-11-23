@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698689,
+        1880772935,
         102191581,
-        404446035,
         85633159,
+        1880762021,
         404227471,
+        136253055,
         1360698807
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":11397284
     },
     "wof:country":"GB",
-    "wof:geomhash":"e0184ff0a3a9ab4ee58a29702b232e9d",
+    "wof:geomhash":"810a9ef14449211dbf66268b73e6361c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698807,
-            "localadmin_id":404446035,
+            "empire_id":136253055,
             "locality_id":1360320629,
+            "macrocounty_id":1880762021,
             "macroregion_id":404227471,
-            "region_id":1360698689
+            "region_id":1880772935
         }
     ],
     "wof:id":1360320629,
-    "wof:lastmodified":1566630397,
+    "wof:lastmodified":1700723360,
     "wof:name":"Auchronie",
-    "wof:parent_id":404446035,
+    "wof:parent_id":1360698807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -2.90747,
-    56.91413000000001,
+    56.91413,
     -2.90747,
-    56.91413000000001
+    56.91413
 ],
-  "geometry": {"coordinates":[-2.90747,56.91413000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.90747,56.91413],"type":"Point"}
 }

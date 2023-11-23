@@ -32,29 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        1880773097,
         102191581,
-        404429199,
-        85633159
+        85633159,
+        1880762027,
+        404227471,
+        136253055,
+        1360699007
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9883836
     },
     "wof:country":"GB",
-    "wof:geomhash":"64f405fcfca95f02b9d249af4a5be2e4",
+    "wof:geomhash":"a0d4ec5337c282a8548bc9e96b0f0717",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404429199,
+            "county_id":1360699007,
+            "empire_id":136253055,
             "locality_id":1310530245,
-            "region_id":-1
+            "macrocounty_id":1880762027,
+            "macroregion_id":404227471,
+            "region_id":1880773097
         }
     ],
     "wof:id":1310530245,
-    "wof:lastmodified":1566628283,
+    "wof:lastmodified":1700722943,
     "wof:name":"Baile Charbhaidh",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -63,9 +70,9 @@
 },
   "bbox": [
     -7.3868,
-    57.39644000000001,
+    57.39644,
     -7.3868,
-    57.39644000000001
+    57.39644
 ],
-  "geometry": {"coordinates":[-7.3868,57.39644000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.3868,57.39644],"type":"Point"}
 }

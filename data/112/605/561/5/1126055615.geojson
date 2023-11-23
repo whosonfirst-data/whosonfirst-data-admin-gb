@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.4524075,58.4209315,-6.4524075,58.4209315",
+    "geom:bbox":"-6.452407,58.420932,-6.452407,58.420932",
     "geom:latitude":58.420932,
     "geom:longitude":-6.452407,
     "gn:country":"GB",
@@ -92,11 +92,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -106,22 +107,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497303150,
-    "wof:geomhash":"5ec21ae1ae6e180c5a1e74e6907db282",
+    "wof:geomhash":"e011e2c4f84c3c026e1f2a88d3399fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1126055615,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1126055615,
-    "wof:lastmodified":1566634390,
+    "wof:lastmodified":1700723001,
     "wof:name":"Burnside",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -129,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.4524075,
-    58.4209315,
-    -6.4524075,
-    58.4209315
+    -6.452407,
+    58.420932,
+    -6.452407,
+    58.420932
 ],
-  "geometry": {"coordinates":[-6.4524075,58.4209315],"type":"Point"}
+  "geometry": {"coordinates":[-6.452407,58.420932],"type":"Point"}
 }

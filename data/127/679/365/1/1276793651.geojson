@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683747,
+        1880773131,
         102191581,
-        404436073,
         85633159,
-        404227471
+        1880762005,
+        404227471,
+        136253055,
+        1360699045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2639465
     },
     "wof:country":"GB",
-    "wof:geomhash":"0dd8c92ec418b62c0545566250216226",
+    "wof:geomhash":"c0dc2ab96848d7c0d48ee8355719c312",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404436073,
+            "county_id":1360699045,
+            "empire_id":136253055,
             "locality_id":1276793651,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":85683747
+            "region_id":1880773131
         }
     ],
     "wof:id":1276793651,
-    "wof:lastmodified":1566628028,
+    "wof:lastmodified":1700723929,
     "wof:name":"Rhian",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -4.44111,
-    58.11454000000001,
+    58.11454,
     -4.44111,
-    58.11454000000001
+    58.11454
 ],
-  "geometry": {"coordinates":[-4.44111,58.11454000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.44111,58.11454],"type":"Point"}
 }

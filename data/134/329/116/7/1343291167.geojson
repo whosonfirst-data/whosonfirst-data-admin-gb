@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684253,
+        1880773121,
         102191581,
-        404448747,
         85633159,
-        404227471
+        1880762109,
+        404227471,
+        136253055,
+        1360699031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2635821
     },
     "wof:country":"GB",
-    "wof:geomhash":"78cd0e1a1e943c7124b6dd25d047143e",
+    "wof:geomhash":"d657d0706de956fa1c18e3e5151b6556",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404448747,
+            "county_id":1360699031,
+            "empire_id":136253055,
             "locality_id":1343291167,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":85684253
+            "region_id":1880773121
         }
     ],
     "wof:id":1343291167,
-    "wof:lastmodified":1566627479,
+    "wof:lastmodified":1700723806,
     "wof:name":"Tillyminnate",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -2.83333,
-    57.38333000000001,
+    57.38333,
     -2.83333,
-    57.38333000000001
+    57.38333
 ],
-  "geometry": {"coordinates":[-2.83333,57.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.83333,57.38333],"type":"Point"}
 }

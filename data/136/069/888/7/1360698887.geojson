@@ -7,6 +7,7 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.215107,
     "geom:area_square_m":1664935503.803808,
     "geom:bbox":"-0.848884,51.071487,0.058026,51.471527",
@@ -26,7 +27,7 @@
     "mps:latitude":51.253434,
     "mps:longitude":-0.474562,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
@@ -418,6 +419,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":826044,
         "digitalenvoy:region_code":25516,
         "fips:code":"UKN7",
         "gbr-ons:gss_code":"1243",
@@ -433,11 +435,8 @@
     "wof:concordances_official_alt":[
         "iso:code"
     ],
-    "wof:coterminous":[
-        1360698599
-    ],
     "wof:country":"GB",
-    "wof:geomhash":"cd4a9529d4ca04e156dc9a8efe8e21bd",
+    "wof:geomhash":"023792235ab4c72e15ba94de53f18386",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -457,7 +456,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695886289,
+    "wof:lastmodified":1700726291,
     "wof:name":"Surrey",
     "wof:parent_id":1360698599,
     "wof:placetype":"county",
@@ -467,7 +466,9 @@
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"SRY",
     "wof:subdivision":"GB-SRY",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762727
+    ],
     "wof:supersedes":[
         85684417
     ],

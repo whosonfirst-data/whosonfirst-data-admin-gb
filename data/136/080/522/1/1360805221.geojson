@@ -43,14 +43,15 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880762711,
         102191581,
+        1880762053,
         404438525,
         85633159,
         404227469,
         1259909165,
-        1360698817,
-        1360698567,
-        101750585
+        136253055,
+        1880771551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,27 +65,20 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "county_id":1360698817,
+            "county_id":1880771551,
+            "empire_id":136253055,
             "localadmin_id":404438525,
             "locality_id":1259909165,
+            "macrocounty_id":1880762053,
             "macroregion_id":404227469,
             "neighbourhood_id":1360805221,
-            "region_id":1360698567
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698817,
-            "locality_id":101750585,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360805221,
-            "region_id":1360698567
+            "region_id":1880762711
         }
     ],
     "wof:id":1360805221,
-    "wof:lastmodified":1566629668,
+    "wof:lastmodified":1699952305,
     "wof:name":"Altham West",
-    "wof:parent_id":-1,
+    "wof:parent_id":1259909165,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

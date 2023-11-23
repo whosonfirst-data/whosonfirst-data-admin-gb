@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.415456,
     "geom:area_square_m":2910100319.298285,
     "geom:bbox":"-3.356876,55.108344,-2.165513,55.844304",
@@ -22,7 +23,7 @@
     "mps:latitude":55.469023,
     "mps:longitude":-2.758447,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:eng_x_preferred":[
         "Roxburgh, Ettrick and Lauderdale"
@@ -41,7 +42,7 @@
         "digitalenvoy:metro_code":826037
     },
     "wof:country":"GB",
-    "wof:geomhash":"b19d4a89afbd224be5ce8bfc315c745a",
+    "wof:geomhash":"688a59fa6dda81b323f29d829d5b6bcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +61,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884751,
+    "wof:lastmodified":1700726279,
     "wof:name":"Roxburgh, Ettrick and Lauderdale",
     "wof:parent_id":404227471,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880761991
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

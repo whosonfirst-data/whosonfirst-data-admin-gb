@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684253,
+        1880773121,
         102191581,
-        404448747,
         85633159,
-        404227471
+        1880762109,
+        404227471,
+        136253055,
+        1360699031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2640236
     },
     "wof:country":"GB",
-    "wof:geomhash":"df69db4892bff5a544618fa9b64227c1",
+    "wof:geomhash":"8d2360457a5b1a25c97690ab915ac0a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404448747,
+            "county_id":1360699031,
+            "empire_id":136253055,
             "locality_id":1259512585,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":85684253
+            "region_id":1880773121
         }
     ],
     "wof:id":1259512585,
-    "wof:lastmodified":1566636581,
+    "wof:lastmodified":1700723888,
     "wof:name":"Pittulie",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -2.08333,
-    57.68333000000001,
+    57.68333,
     -2.08333,
-    57.68333000000001
+    57.68333
 ],
-  "geometry": {"coordinates":[-2.08333,57.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.08333,57.68333],"type":"Point"}
 }

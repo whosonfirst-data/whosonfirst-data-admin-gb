@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.463326,
     "geom:area_square_m":3476272647.703368,
     "geom:bbox":"-3.235541,52.306264,-2.232899,52.998395",
@@ -22,7 +23,7 @@
     "mps:latitude":52.650554,
     "mps:longitude":-2.704093,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Shropshire"
@@ -230,7 +231,7 @@
         1360698821
     ],
     "wof:country":"GB",
-    "wof:geomhash":"10ecfd54a975c1bb9ad391a4e471019f",
+    "wof:geomhash":"a9a9d267f84d03e03408c1d634979d18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -249,12 +250,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884658,
+    "wof:lastmodified":1700726344,
     "wof:name":"Shropshire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

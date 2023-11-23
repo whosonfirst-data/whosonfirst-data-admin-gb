@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683747,
+        1880773131,
         102191581,
-        404436073,
         85633159,
-        404227471
+        1880762005,
+        404227471,
+        136253055,
+        1360699045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2639457
     },
     "wof:country":"GB",
-    "wof:geomhash":"4da9fbf20910b8a75297e3cc7901ac61",
+    "wof:geomhash":"abd14c5569b888fb5f4bae4fc2e1e746",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404436073,
+            "county_id":1360699045,
+            "empire_id":136253055,
             "locality_id":1327260701,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":85683747
+            "region_id":1880773131
         }
     ],
     "wof:id":1327260701,
-    "wof:lastmodified":1566627399,
+    "wof:lastmodified":1700723901,
     "wof:name":"Rhilochan",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -4.11667,
-    58.03333000000001,
+    58.03333,
     -4.11667,
-    58.03333000000001
+    58.03333
 ],
-  "geometry": {"coordinates":[-4.11667,58.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.11667,58.03333],"type":"Point"}
 }

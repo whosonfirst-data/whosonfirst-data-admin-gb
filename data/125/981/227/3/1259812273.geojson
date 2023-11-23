@@ -37,32 +37,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684253,
+        1880773121,
         102191581,
-        404448747,
         85633159,
-        404227471
+        1880762109,
+        404227471,
+        136253055,
+        1360699031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2652530
     },
     "wof:country":"GB",
-    "wof:geomhash":"e31b8bf134f590eec0f432ab08f02a7a",
+    "wof:geomhash":"3a5b33f92405f7fb567d7483c6913896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404448747,
+            "county_id":1360699031,
+            "empire_id":136253055,
             "locality_id":1259812273,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":85684253
+            "region_id":1880773121
         }
     ],
     "wof:id":1259812273,
-    "wof:lastmodified":1566636582,
+    "wof:lastmodified":1700723889,
     "wof:name":"Colquhonny",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -71,9 +75,9 @@
 },
   "bbox": [
     -3.05,
-    57.18333000000001,
+    57.18333,
     -3.05,
-    57.18333000000001
+    57.18333
 ],
-  "geometry": {"coordinates":[-3.05,57.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.05,57.18333],"type":"Point"}
 }

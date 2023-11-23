@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683797,
+        1880773179,
         102191581,
-        404455299,
         85633159,
-        404227471
+        1880762039,
+        404227471,
+        136253055,
+        1360699121
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7290452
     },
     "wof:country":"GB",
-    "wof:geomhash":"a5a39599cfb1634c06d3026c9b718b84",
+    "wof:geomhash":"9dc604ad38dbb5af0a4216874fc86975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404455299,
+            "county_id":1360699121,
+            "empire_id":136253055,
             "locality_id":1343797511,
+            "macrocounty_id":1880762039,
             "macroregion_id":404227471,
-            "region_id":85683797
+            "region_id":1880773179
         }
     ],
     "wof:id":1343797511,
-    "wof:lastmodified":1566627441,
+    "wof:lastmodified":1700723799,
     "wof:name":"Larkfield",
-    "wof:parent_id":404455299,
+    "wof:parent_id":1360699121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -4.81858,
-    55.94343000000001,
+    55.94343,
     -4.81858,
-    55.94343000000001
+    55.94343
 ],
-  "geometry": {"coordinates":[-4.81858,55.94343000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.81858,55.94343],"type":"Point"}
 }

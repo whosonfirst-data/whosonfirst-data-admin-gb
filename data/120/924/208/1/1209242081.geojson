@@ -42,11 +42,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -55,22 +56,23 @@
         "wk:page":"Tullich"
     },
     "wof:country":"GB",
-    "wof:geomhash":"42fb7689974831d4c39b271f547d72c5",
+    "wof:geomhash":"b751d7f57087ae33bca1608681e808ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1209242081,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1209242081,
-    "wof:lastmodified":1566628079,
+    "wof:lastmodified":1700723428,
     "wof:name":"South Tullich",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -79,9 +81,9 @@
 },
   "bbox": [
     -5.1,
-    56.28333000000001,
+    56.28333,
     -5.1,
-    56.28333000000001
+    56.28333
 ],
-  "geometry": {"coordinates":[-5.1,56.28333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.1,56.28333],"type":"Point"}
 }

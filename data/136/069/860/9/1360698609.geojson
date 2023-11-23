@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.276536,
     "geom:area_square_m":2022268325.384727,
     "geom:bbox":"-2.173294,53.51973,-1.198814,53.963151",
@@ -22,7 +23,7 @@
     "mps:latitude":53.735735,
     "mps:longitude":-1.69832,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Wes-Yorkshire"
@@ -212,7 +213,7 @@
         "digitalenvoy:metro_code":826039
     },
     "wof:country":"GB",
-    "wof:geomhash":"02da2edb6e039898ac9b975f8ad7014c",
+    "wof:geomhash":"6b311a21ca493912d439101795097116",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,12 +232,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884753,
+    "wof:lastmodified":1700726340,
     "wof:name":"West Yorkshire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

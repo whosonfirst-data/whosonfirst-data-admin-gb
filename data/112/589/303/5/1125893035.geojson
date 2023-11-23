@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.709233,60.3314005,-1.709233,60.3314005",
+    "geom:bbox":"-1.709233,60.331401,-1.709233,60.331401",
     "geom:latitude":60.331401,
     "geom:longitude":-1.709233,
     "gn:country":"GB",
@@ -104,11 +104,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698681,
+        1880772999,
         102191581,
-        404448343,
         85633159,
+        1880762023,
         404227471,
+        136253055,
         1360698897
     ],
     "wof:breaches":[],
@@ -118,22 +119,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497295410,
-    "wof:geomhash":"c89b8fcc32497e399a27cbe4a7bce378",
+    "wof:geomhash":"8d3a9badb8a05318c116fcd36846617f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698897,
-            "localadmin_id":404448343,
+            "empire_id":136253055,
             "locality_id":1125893035,
+            "macrocounty_id":1880762023,
             "macroregion_id":404227471,
-            "region_id":1360698681
+            "region_id":1880772999
         }
     ],
     "wof:id":1125893035,
-    "wof:lastmodified":1566634938,
+    "wof:lastmodified":1700723322,
     "wof:name":"Papa Stour",
-    "wof:parent_id":404448343,
+    "wof:parent_id":1360698897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -142,9 +144,9 @@
 },
   "bbox": [
     -1.709233,
-    60.3314005,
+    60.331401,
     -1.709233,
-    60.3314005
+    60.331401
 ],
-  "geometry": {"coordinates":[-1.709233,60.3314005],"type":"Point"}
+  "geometry": {"coordinates":[-1.709233,60.331401],"type":"Point"}
 }

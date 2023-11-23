@@ -7,6 +7,7 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.33951,
     "geom:area_square_m":2598104088.407438,
     "geom:bbox":"-1.71947,51.459503,-0.870028,52.168487",
@@ -26,7 +27,7 @@
     "mps:latitude":51.78067,
     "mps:longitude":-1.38653,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
@@ -418,6 +419,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":826045,
         "digitalenvoy:region_code":25483,
         "fips:code":"UKK2",
         "gbr-ons:gss_code":"1238",
@@ -433,11 +435,8 @@
     "wof:concordances_official_alt":[
         "iso:code"
     ],
-    "wof:coterminous":[
-        1360698585
-    ],
     "wof:country":"GB",
-    "wof:geomhash":"9a72e577da0be9c451854538856a3259",
+    "wof:geomhash":"090c06089661edcdb8a6d3668ffd014e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -457,7 +456,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695886279,
+    "wof:lastmodified":1700726399,
     "wof:name":"Oxfordshire",
     "wof:parent_id":1360698585,
     "wof:placetype":"county",
@@ -467,7 +466,9 @@
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"OXF",
     "wof:subdivision":"GB-OXF",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762695
+    ],
     "wof:supersedes":[
         85683867
     ],

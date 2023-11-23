@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.398321,56.4748645,-5.398321,56.4748645",
+    "geom:bbox":"-5.398321,56.474865,-5.398321,56.474865",
     "geom:latitude":56.474865,
     "geom:longitude":-5.398321,
     "gn:country":"GB",
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497299215,
-    "wof:geomhash":"6c62b8aec70e376b99fb9326551e4d54",
+    "wof:geomhash":"1ba9782dd4bd7a6b53a4bc83c546e9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1125994337,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1125994337,
-    "wof:lastmodified":1566635266,
+    "wof:lastmodified":1700723618,
     "wof:name":"North Ledaig",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -5.398321,
-    56.4748645,
+    56.474865,
     -5.398321,
-    56.4748645
+    56.474865
 ],
-  "geometry": {"coordinates":[-5.398321,56.4748645],"type":"Point"}
+  "geometry": {"coordinates":[-5.398321,56.474865],"type":"Point"}
 }

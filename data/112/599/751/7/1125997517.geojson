@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.663958,57.5287735,-3.663958,57.5287735",
+    "geom:bbox":"-3.663958,57.528773,-3.663958,57.528773",
     "geom:latitude":57.528773,
     "geom:longitude":-3.663958,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698715,
+        1880772981,
         102191581,
-        404446793,
         85633159,
+        1880762111,
         404227471,
+        136253055,
         1360698869
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497299442,
-    "wof:geomhash":"18a4386588dd442a9488aff33e3ac187",
+    "wof:geomhash":"2f71c9affb63b9e40363b462673ef79b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698869,
-            "localadmin_id":404446793,
+            "empire_id":136253055,
             "locality_id":1125997517,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":1360698715
+            "region_id":1880772981
         }
     ],
     "wof:id":1125997517,
-    "wof:lastmodified":1566635244,
+    "wof:lastmodified":1700723381,
     "wof:name":"Dunphail",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -3.663958,
-    57.5287735,
+    57.528773,
     -3.663958,
-    57.5287735
+    57.528773
 ],
-  "geometry": {"coordinates":[-3.663958,57.5287735],"type":"Point"}
+  "geometry": {"coordinates":[-3.663958,57.528773],"type":"Point"}
 }

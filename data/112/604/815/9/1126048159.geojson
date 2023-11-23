@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.3147215,56.634044,-5.3147215,56.634044",
+    "geom:bbox":"-5.314722,56.634044,-5.314722,56.634044",
     "geom:latitude":56.634044,
     "geom:longitude":-5.314722,
     "gn:country":"GB",
@@ -64,7 +64,12 @@
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        136253055,
+        102191581,
+        85633159,
+        404227471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24689,
@@ -72,17 +77,21 @@
     },
     "wof:country":"GB",
     "wof:created":1497302560,
-    "wof:geomhash":"dbda7882070f14f336acbcb52c4b31dc",
+    "wof:geomhash":"3880f746aca37b4e8a079f571775c34c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":-1,
+            "empire_id":136253055,
             "locality_id":1126048159,
+            "macrocounty_id":-1,
+            "macroregion_id":404227471,
             "region_id":-1
         }
     ],
     "wof:id":1126048159,
-    "wof:lastmodified":1566634558,
+    "wof:lastmodified":1700719625,
     "wof:name":"Keil",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -92,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.3147215,
+    -5.314722,
     56.634044,
-    -5.3147215,
+    -5.314722,
     56.634044
 ],
-  "geometry": {"coordinates":[-5.3147215,56.634044],"type":"Point"}
+  "geometry": {"coordinates":[-5.314722,56.634044],"type":"Point"}
 }

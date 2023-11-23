@@ -38,11 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698715,
+        1880772981,
         102191581,
-        404446793,
         85633159,
+        1880762111,
         404227471,
+        136253055,
         1360698869
     ],
     "wof:breaches":[],
@@ -50,22 +51,23 @@
         "gn:id":2657715
     },
     "wof:country":"GB",
-    "wof:geomhash":"7590e54a2f2515be4d56decb74931eb7",
+    "wof:geomhash":"1e4b912f8e612889634a5c42776cc9c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698869,
-            "localadmin_id":404446793,
+            "empire_id":136253055,
             "locality_id":1225879933,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":1360698715
+            "region_id":1880772981
         }
     ],
     "wof:id":1225879933,
-    "wof:lastmodified":1566636625,
+    "wof:lastmodified":1700723386,
     "wof:name":"Achnastank",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -74,9 +76,9 @@
 },
   "bbox": [
     -3.2,
-    57.38333000000001,
+    57.38333,
     -3.2,
-    57.38333000000001
+    57.38333
 ],
-  "geometry": {"coordinates":[-3.2,57.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.2,57.38333],"type":"Point"}
 }

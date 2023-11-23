@@ -179,32 +179,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683883,
+        1880772977,
         102191581,
-        404439789,
         85633159,
-        404227471
+        1880762047,
+        404227471,
+        136253055,
+        1360698863
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10104138
     },
     "wof:country":"GB",
-    "wof:geomhash":"567dd09aa17fddba62c4dc998c4cb10c",
+    "wof:geomhash":"7e89a2c39436adff45575fd478cd406c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404439789,
+            "county_id":1360698863,
+            "empire_id":136253055,
             "locality_id":1343987153,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":85683883
+            "region_id":1880772977
         }
     ],
     "wof:id":1343987153,
-    "wof:lastmodified":1566627423,
+    "wof:lastmodified":1700723400,
     "wof:name":"Auch",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -213,9 +217,9 @@
 },
   "bbox": [
     -4.72434,
-    56.48121999999999,
+    56.48122,
     -4.72434,
-    56.48121999999999
+    56.48122
 ],
-  "geometry": {"coordinates":[-4.72434,56.48121999999999],"type":"Point"}
+  "geometry": {"coordinates":[-4.72434,56.48122],"type":"Point"}
 }

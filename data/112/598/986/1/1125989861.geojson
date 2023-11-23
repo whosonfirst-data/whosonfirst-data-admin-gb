@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.4745115,56.5046705,-3.4745115,56.5046705",
+    "geom:bbox":"-3.474512,56.504671,-3.474512,56.504671",
     "geom:latitude":56.504671,
     "geom:longitude":-3.474512,
     "gn:country":null,
@@ -59,11 +59,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698691,
+        1880772947,
         102191581,
-        404451983,
         85633159,
+        1880762043,
         404227471,
+        136253055,
         1360698829
     ],
     "wof:breaches":[],
@@ -74,22 +75,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497299006,
-    "wof:geomhash":"399b079fdfd39cec85fc289611b0687b",
+    "wof:geomhash":"6ff29db33ac72f593c9daf9e8c171561",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698829,
-            "localadmin_id":404451983,
+            "empire_id":136253055,
             "locality_id":1125989861,
+            "macrocounty_id":1880762043,
             "macroregion_id":404227471,
-            "region_id":1360698691
+            "region_id":1880772947
         }
     ],
     "wof:id":1125989861,
-    "wof:lastmodified":1566635814,
+    "wof:lastmodified":1700724166,
     "wof:name":"Airntully",
-    "wof:parent_id":404451983,
+    "wof:parent_id":1360698829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -97,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.4745115,
-    56.5046705,
-    -3.4745115,
-    56.5046705
+    -3.474512,
+    56.504671,
+    -3.474512,
+    56.504671
 ],
-  "geometry": {"coordinates":[-3.4745115,56.5046705],"type":"Point"}
+  "geometry": {"coordinates":[-3.474512,56.504671],"type":"Point"}
 }

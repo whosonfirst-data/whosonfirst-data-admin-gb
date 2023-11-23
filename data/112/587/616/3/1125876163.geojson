@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.4375935,56.423598,-3.4375935,56.423598",
+    "geom:bbox":"-3.437594,56.423598,-3.437594,56.423598",
     "geom:latitude":56.423598,
     "geom:longitude":-3.437594,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698691,
+        1880772947,
         102191581,
-        404451983,
         85633159,
+        1880762043,
         404227471,
+        136253055,
         1360698829
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497294552,
-    "wof:geomhash":"49f50964da0818a8e97f36d75f49be10",
+    "wof:geomhash":"bd45ac337c98771d95cf996182eed544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698829,
-            "localadmin_id":404451983,
+            "empire_id":136253055,
             "locality_id":1125876163,
+            "macrocounty_id":1880762043,
             "macroregion_id":404227471,
-            "region_id":1360698691
+            "region_id":1880772947
         }
     ],
     "wof:id":1125876163,
-    "wof:lastmodified":1566635095,
+    "wof:lastmodified":1700724161,
     "wof:name":"Old Scone",
-    "wof:parent_id":404451983,
+    "wof:parent_id":1360698829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.4375935,
+    -3.437594,
     56.423598,
-    -3.4375935,
+    -3.437594,
     56.423598
 ],
-  "geometry": {"coordinates":[-3.4375935,56.423598],"type":"Point"}
+  "geometry": {"coordinates":[-3.437594,56.423598],"type":"Point"}
 }

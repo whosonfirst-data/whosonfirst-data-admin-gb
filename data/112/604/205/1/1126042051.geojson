@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.3678775,57.2476365,-7.3678775,57.2476365",
+    "geom:bbox":"-7.367877,57.247636,-7.367877,57.247636",
     "geom:latitude":57.247636,
     "geom:longitude":-7.367877,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302213,
-    "wof:geomhash":"85f54d8bc6eb068abe8c5501dab178ad",
+    "wof:geomhash":"3d814680d8e7a43678577922402b19e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1126042051,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1126042051,
-    "wof:lastmodified":1566634532,
+    "wof:lastmodified":1700723037,
     "wof:name":"Locheynort",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.3678775,
-    57.2476365,
-    -7.3678775,
-    57.2476365
+    -7.367877,
+    57.247636,
+    -7.367877,
+    57.247636
 ],
-  "geometry": {"coordinates":[-7.3678775,57.2476365],"type":"Point"}
+  "geometry": {"coordinates":[-7.367877,57.247636],"type":"Point"}
 }

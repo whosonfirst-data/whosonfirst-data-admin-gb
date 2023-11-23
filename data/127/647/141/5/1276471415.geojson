@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684253,
+        1880773121,
         102191581,
-        404448747,
         85633159,
-        404227471
+        1880762109,
+        404227471,
+        136253055,
+        1360699031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6269297
     },
     "wof:country":"GB",
-    "wof:geomhash":"bbc0c452497552a9ed2db17b9ed2210a",
+    "wof:geomhash":"46d7b2f8f524101451388e23020ea4f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404448747,
+            "county_id":1360699031,
+            "empire_id":136253055,
             "locality_id":1276471415,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":85684253
+            "region_id":1880773121
         }
     ],
     "wof:id":1276471415,
-    "wof:lastmodified":1566628023,
+    "wof:lastmodified":1700723813,
     "wof:name":"Drumshalloch",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -2.38086,
-    57.23643000000001,
+    57.23643,
     -2.38086,
-    57.23643000000001
+    57.23643
 ],
-  "geometry": {"coordinates":[-2.38086,57.23643000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.38086,57.23643],"type":"Point"}
 }

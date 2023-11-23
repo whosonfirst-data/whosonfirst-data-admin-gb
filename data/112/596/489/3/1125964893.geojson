@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.0741115,57.6603655,-3.0741115,57.6603655",
+    "geom:bbox":"-3.074111,57.660365,-3.074111,57.660365",
     "geom:latitude":57.660365,
     "geom:longitude":-3.074111,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698715,
+        1880772981,
         102191581,
-        404446793,
         85633159,
+        1880762111,
         404227471,
+        136253055,
         1360698869
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497297934,
-    "wof:geomhash":"7b947b5ccef753ef07b205daaf1b88e7",
+    "wof:geomhash":"e978f7f334ef6bdf16a703369052be68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698869,
-            "localadmin_id":404446793,
+            "empire_id":136253055,
             "locality_id":1125964893,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":1360698715
+            "region_id":1880772981
         }
     ],
     "wof:id":1125964893,
-    "wof:lastmodified":1566635641,
+    "wof:lastmodified":1700723382,
     "wof:name":"Nether Dallachy",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.0741115,
-    57.6603655,
-    -3.0741115,
-    57.6603655
+    -3.074111,
+    57.660365,
+    -3.074111,
+    57.660365
 ],
-  "geometry": {"coordinates":[-3.0741115,57.6603655],"type":"Point"}
+  "geometry": {"coordinates":[-3.074111,57.660365],"type":"Point"}
 }

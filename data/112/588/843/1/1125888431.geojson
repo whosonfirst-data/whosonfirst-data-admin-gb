@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.1234425,57.62955,-3.1234425,57.62955",
+    "geom:bbox":"-3.123442,57.62955,-3.123442,57.62955",
     "geom:latitude":57.62955,
     "geom:longitude":-3.123442,
     "gn:country":null,
@@ -71,11 +71,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698715,
+        1880772981,
         102191581,
-        404446793,
         85633159,
+        1880762111,
         404227471,
+        136253055,
         1360698869
     ],
     "wof:breaches":[],
@@ -86,22 +87,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497295202,
-    "wof:geomhash":"1b7fc1404378754b1f4daaf7c932fe41",
+    "wof:geomhash":"93fd6b66d04f4e44543fa07030fd0e0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698869,
-            "localadmin_id":404446793,
+            "empire_id":136253055,
             "locality_id":1125888431,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":1360698715
+            "region_id":1880772981
         }
     ],
     "wof:id":1125888431,
-    "wof:lastmodified":1566634816,
+    "wof:lastmodified":1700723380,
     "wof:name":"Mosstodloch",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -109,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.1234425,
+    -3.123442,
     57.62955,
-    -3.1234425,
+    -3.123442,
     57.62955
 ],
-  "geometry": {"coordinates":[-3.1234425,57.62955],"type":"Point"}
+  "geometry": {"coordinates":[-3.123442,57.62955],"type":"Point"}
 }

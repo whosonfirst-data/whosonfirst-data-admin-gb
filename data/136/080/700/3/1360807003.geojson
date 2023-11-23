@@ -32,13 +32,14 @@
     "mz:min_zoom":15.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        1880762723,
         102191581,
         85633159,
+        1880762159,
         404227469,
-        1360832393,
-        1360698979,
-        1360698551,
-        101750413
+        101750413,
+        136253055,
+        1880771439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +51,19 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "county_id":1360698979,
-            "locality_id":1360832393,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360807003,
-            "region_id":1360698551
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698979,
+            "county_id":1880771439,
+            "empire_id":136253055,
             "locality_id":101750413,
+            "macrocounty_id":1880762159,
             "macroregion_id":404227469,
             "neighbourhood_id":1360807003,
-            "region_id":1360698551
+            "region_id":1880762723
         }
     ],
     "wof:id":1360807003,
-    "wof:lastmodified":1566629198,
+    "wof:lastmodified":1699952632,
     "wof:name":"Potter Street",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750413,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

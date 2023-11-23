@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-11-01",
     "edtf:inception":"uuuu",
     "geom:area":0.323558,
     "geom:area_square_m":2195149810.449066,
@@ -21,7 +22,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u063a\u0648\u0633"
@@ -98,10 +99,11 @@
         1360698807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "digitalenvoy:metro_code":826033
+    },
     "wof:coterminous":[
-        1360698807,
-        1360698689
+        1360698807
     ],
     "wof:country":"GB",
     "wof:geomhash":"5db7459e2d733899b584d1d185224187",
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":404446035,
-    "wof:lastmodified":1695878003,
+    "wof:lastmodified":1698881505,
     "wof:name":"Angus",
     "wof:parent_id":1360698807,
     "wof:placetype":"localadmin",

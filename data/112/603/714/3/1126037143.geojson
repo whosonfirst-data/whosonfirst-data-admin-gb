@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.810643,58.1979935,-6.810643,58.1979935",
+    "geom:bbox":"-6.810643,58.197994,-6.810643,58.197994",
     "geom:latitude":58.197994,
     "geom:longitude":-6.810643,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497301864,
-    "wof:geomhash":"74de3131804c384ac39c28f6c7e636ce",
+    "wof:geomhash":"4bc5ae420106cc41b66dba9b63655e71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1126037143,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1126037143,
-    "wof:lastmodified":1566634624,
+    "wof:lastmodified":1700723051,
     "wof:name":"Crulivig",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -6.810643,
-    58.1979935,
+    58.197994,
     -6.810643,
-    58.1979935
+    58.197994
 ],
-  "geometry": {"coordinates":[-6.810643,58.1979935],"type":"Point"}
+  "geometry": {"coordinates":[-6.810643,58.197994],"type":"Point"}
 }

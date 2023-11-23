@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.279375,
     "geom:area_square_m":1808596044.76511,
     "geom:bbox":"-3.859259,58.136011,-3.023942,58.697519",
@@ -22,7 +23,7 @@
     "mps:latitude":58.404369,
     "mps:longitude":-3.564052,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:ang_x_preferred":[
         "Ca\u00fean\u01e3s"
@@ -143,7 +144,7 @@
         "digitalenvoy:metro_code":826033
     },
     "wof:country":"GB",
-    "wof:geomhash":"f9d43eccd9c9e6cab41430b393d647e6",
+    "wof:geomhash":"a0889c3ff0a2384a40e7d4e5b4edaca1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,12 +163,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884663,
+    "wof:lastmodified":1700726304,
     "wof:name":"Caithness",
     "wof:parent_id":404227471,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

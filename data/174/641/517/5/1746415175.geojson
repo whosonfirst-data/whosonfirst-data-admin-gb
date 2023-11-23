@@ -45,10 +45,15 @@
     "uk-dgnp:desig_date":"2005-03-01",
     "uk-dgnp:status":"Designated",
     "wof:belongsto":[
+        1880762717,
         102191581,
+        1880762155,
+        404455133,
         85633159,
+        404227469,
+        101852459,
         136253055,
-        404227469
+        1880771459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,20 +62,26 @@
     },
     "wof:country":"GB",
     "wof:created":1633031177,
-    "wof:geomhash":"408472167e0b45f019a6967171323703",
+    "wof:geomhash":"27f85e70dc2a231f615093693c7836e3",
     "wof:hierarchy":[
         {
             "campus_id":1746415175,
             "continent_id":102191581,
             "country_id":85633159,
+            "county_id":1880771459,
             "empire_id":136253055,
-            "macroregion_id":404227469
+            "localadmin_id":404455133,
+            "locality_id":101852459,
+            "macrocounty_id":1880762155,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1880762717
         }
     ],
     "wof:id":1746415175,
-    "wof:lastmodified":1633130020,
+    "wof:lastmodified":1699951733,
     "wof:name":"New Forest National Park",
-    "wof:parent_id":85633159,
+    "wof:parent_id":101852459,
     "wof:placetype":"campus",
     "wof:placetype_local":"National Park",
     "wof:repo":"whosonfirst-data-admin-gb",
@@ -79,7 +90,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.803470009998905,
+    -1.8034700099989,
     50.70571599,
     -1.30124599,
     51.00549800999645

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.8995855,57.964052,-6.8995855,57.964052",
+    "geom:bbox":"-6.899585,57.964052,-6.899585,57.964052",
     "geom:latitude":57.964052,
     "geom:longitude":-6.899585,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497290811,
-    "wof:geomhash":"472f5c083b401fa9ec5e6845f9981517",
+    "wof:geomhash":"0f3c3984fe5dd19af7f22c78e9cc7fac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1125789527,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1125789527,
-    "wof:lastmodified":1566636092,
+    "wof:lastmodified":1700723180,
     "wof:name":"Tolmachan",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.8995855,
+    -6.899585,
     57.964052,
-    -6.8995855,
+    -6.899585,
     57.964052
 ],
-  "geometry": {"coordinates":[-6.8995855,57.964052],"type":"Point"}
+  "geometry": {"coordinates":[-6.899585,57.964052],"type":"Point"}
 }

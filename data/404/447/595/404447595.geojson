@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-11-01",
     "edtf:inception":"uuuu",
     "geom:area":0.100823,
     "geom:area_square_m":698187648.374735,
@@ -21,7 +22,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "\u0112ast Lo\u00f0ene"
@@ -165,11 +166,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":826034,
         "digitalenvoy:region_code":25403
     },
     "wof:coterminous":[
-        1360699017,
-        1360698675
+        1360699017
     ],
     "wof:country":"GB",
     "wof:geomhash":"b3cbf0f1dbb40fb5935d9f6534a96700",
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":404447595,
-    "wof:lastmodified":1696022867,
+    "wof:lastmodified":1698881476,
     "wof:name":"East Lothian",
     "wof:parent_id":1360699017,
     "wof:placetype":"localadmin",

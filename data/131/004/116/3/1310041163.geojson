@@ -38,32 +38,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683747,
+        1880773131,
         102191581,
-        404436073,
         85633159,
-        404227471
+        1880762005,
+        404227471,
+        136253055,
+        1360699045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11071770
     },
     "wof:country":"GB",
-    "wof:geomhash":"24a5febb01ef164deb99ae49aee5c234",
+    "wof:geomhash":"8f3e77d21089a47a202834c5a9059a8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404436073,
+            "county_id":1360699045,
+            "empire_id":136253055,
             "locality_id":1310041163,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":85683747
+            "region_id":1880773131
         }
     ],
     "wof:id":1310041163,
-    "wof:lastmodified":1566628301,
+    "wof:lastmodified":1700723948,
     "wof:name":"Rearquhar",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -72,9 +76,9 @@
 },
   "bbox": [
     -4.12987,
-    57.91373000000001,
+    57.91373,
     -4.12987,
-    57.91373000000001
+    57.91373
 ],
-  "geometry": {"coordinates":[-4.12987,57.91373000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.12987,57.91373],"type":"Point"}
 }

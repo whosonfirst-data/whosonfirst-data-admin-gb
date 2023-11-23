@@ -154,14 +154,15 @@
     "woe:name_adm1":"Wales",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880773187,
         102191581,
+        1880762115,
         404453001,
         85633159,
         404227475,
         101875427,
-        1360698899,
-        1360698627,
-        1360711825
+        136253055,
+        1360698899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -178,27 +179,19 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698899,
+            "empire_id":136253055,
             "localadmin_id":404453001,
             "locality_id":101875427,
+            "macrocounty_id":1880762115,
             "macroregion_id":404227475,
             "neighbourhood_id":1360714121,
-            "region_id":1360698627
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698899,
-            "localadmin_id":404453001,
-            "locality_id":1360711825,
-            "macroregion_id":404227475,
-            "neighbourhood_id":1360714121,
-            "region_id":1360698627
+            "region_id":1880773187
         }
     ],
     "wof:id":1360714121,
-    "wof:lastmodified":1690916832,
+    "wof:lastmodified":1699916945,
     "wof:name":"Dinas Powis",
-    "wof:parent_id":-1,
+    "wof:parent_id":101875427,
     "wof:placetype":"neighbourhood",
     "wof:population":7738,
     "wof:population_rank":5,

@@ -35,11 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698715,
+        1880772981,
         102191581,
-        404446793,
         85633159,
+        1880762111,
         404227471,
+        136253055,
         1360698869
     ],
     "wof:breaches":[],
@@ -48,22 +49,23 @@
         "wk:page":"Drybridge"
     },
     "wof:country":"GB",
-    "wof:geomhash":"f1c7d6c6164490e9dafbfd7391185a55",
+    "wof:geomhash":"013fdf12ae4e0bb0dae23c80b1eea062",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698869,
-            "localadmin_id":404446793,
+            "empire_id":136253055,
             "locality_id":1226277937,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":1360698715
+            "region_id":1880772981
         }
     ],
     "wof:id":1226277937,
-    "wof:lastmodified":1566636597,
+    "wof:lastmodified":1700723386,
     "wof:name":"Drybridge",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -2.93333,
-    57.63333000000001,
+    57.63333,
     -2.93333,
-    57.63333000000001
+    57.63333
 ],
-  "geometry": {"coordinates":[-2.93333,57.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.93333,57.63333],"type":"Point"}
 }

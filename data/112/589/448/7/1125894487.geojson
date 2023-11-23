@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.4199855,55.419251,-4.4199855,55.419251",
+    "geom:bbox":"-4.419986,55.419251,-4.419986,55.419251",
     "geom:latitude":55.419251,
     "geom:longitude":-4.419986,
     "gn:country":null,
@@ -50,11 +50,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698697,
+        1880772907,
         102191581,
-        404451413,
         85633159,
+        1880762041,
         404227471,
+        136253055,
         1360698779
     ],
     "wof:breaches":[],
@@ -64,22 +65,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497295483,
-    "wof:geomhash":"d4c2448d4bb941d79e9d9310c8c4a1fa",
+    "wof:geomhash":"7a1dd931e0dd15602b7c042963e97e23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698779,
-            "localadmin_id":404451413,
+            "empire_id":136253055,
             "locality_id":1125894487,
+            "macrocounty_id":1880762041,
             "macroregion_id":404227471,
-            "region_id":1360698697
+            "region_id":1880772907
         }
     ],
     "wof:id":1125894487,
-    "wof:lastmodified":1566634921,
+    "wof:lastmodified":1700724144,
     "wof:name":"Littlemill",
-    "wof:parent_id":404451413,
+    "wof:parent_id":1360698779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -87,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.4199855,
+    -4.419986,
     55.419251,
-    -4.4199855,
+    -4.419986,
     55.419251
 ],
-  "geometry": {"coordinates":[-4.4199855,55.419251],"type":"Point"}
+  "geometry": {"coordinates":[-4.419986,55.419251],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.458933,55.9575755,-3.458933,55.9575755",
+    "geom:bbox":"-3.458933,55.957575,-3.458933,55.957575",
     "geom:latitude":55.957575,
     "geom:longitude":-3.458933,
     "gn:country":null,
@@ -59,11 +59,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698679,
+        1880773117,
         102191581,
-        404447005,
         85633159,
+        1880762081,
         404227471,
+        136253055,
         1360699027
     ],
     "wof:breaches":[],
@@ -73,22 +74,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497296254,
-    "wof:geomhash":"10069712dfc9027d286cb25319143dd6",
+    "wof:geomhash":"c12ea02af586d111cbc7886c0545057b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699027,
-            "localadmin_id":404447005,
+            "empire_id":136253055,
             "locality_id":1125914037,
+            "macrocounty_id":1880762081,
             "macroregion_id":404227471,
-            "region_id":1360698679
+            "region_id":1880773117
         }
     ],
     "wof:id":1125914037,
-    "wof:lastmodified":1566635744,
+    "wof:lastmodified":1700724133,
     "wof:name":"Winchburgh",
-    "wof:parent_id":404447005,
+    "wof:parent_id":1360699027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -97,9 +99,9 @@
 },
   "bbox": [
     -3.458933,
-    55.9575755,
+    55.957575,
     -3.458933,
-    55.9575755
+    55.957575
 ],
-  "geometry": {"coordinates":[-3.458933,55.9575755],"type":"Point"}
+  "geometry": {"coordinates":[-3.458933,55.957575],"type":"Point"}
 }

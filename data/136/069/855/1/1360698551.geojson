@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.514116,
     "geom:area_square_m":3932651222.493421,
     "geom:bbox":"-0.01977,51.448278,1.296592,52.092663",
@@ -22,7 +23,7 @@
     "mps:latitude":51.786782,
     "mps:longitude":0.574091,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Essex"
@@ -263,7 +264,7 @@
         1360698979
     ],
     "wof:country":"GB",
-    "wof:geomhash":"50e6391045859c09d2c2c8baaad06878",
+    "wof:geomhash":"6b3585db9e922b727c01d2ec17a4bd89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -282,12 +283,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884467,
+    "wof:lastmodified":1700726441,
     "wof:name":"Essex",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762159
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698713,
+        1880773121,
         102191581,
-        404448747,
         85633159,
+        1880762109,
         404227471,
+        136253055,
         1360699031
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":2639295
     },
     "wof:country":"GB",
-    "wof:geomhash":"3b63415a5550fe0f4bf06c7ef9988611",
+    "wof:geomhash":"18cb21ccbc11ba77535ed6fc464fd810",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699031,
-            "localadmin_id":404448747,
+            "empire_id":136253055,
             "locality_id":1225873547,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":1360698713
+            "region_id":1880773121
         }
     ],
     "wof:id":1225873547,
-    "wof:lastmodified":1566636619,
+    "wof:lastmodified":1700723890,
     "wof:name":"Roadside",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -2.26667,
-    56.86666999999999,
+    56.86667,
     -2.26667,
-    56.86666999999999
+    56.86667
 ],
-  "geometry": {"coordinates":[-2.26667,56.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-2.26667,56.86667],"type":"Point"}
 }

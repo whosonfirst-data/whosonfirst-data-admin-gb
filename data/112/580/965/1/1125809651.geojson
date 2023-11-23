@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.9123835,56.639569,-2.9123835,56.639569",
+    "geom:bbox":"-2.912383,56.639569,-2.912383,56.639569",
     "geom:latitude":56.639569,
     "geom:longitude":-2.912383,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698689,
+        1880772935,
         102191581,
-        404446035,
         85633159,
+        1880762021,
         404227471,
+        136253055,
         1360698807
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497291604,
-    "wof:geomhash":"85d4eba81ae4a71cff54f5b791563651",
+    "wof:geomhash":"3a3886b5ede3e55c5d8046d1c2d6febb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698807,
-            "localadmin_id":404446035,
+            "empire_id":136253055,
             "locality_id":1125809651,
+            "macrocounty_id":1880762021,
             "macroregion_id":404227471,
-            "region_id":1360698689
+            "region_id":1880772935
         }
     ],
     "wof:id":1125809651,
-    "wof:lastmodified":1566634963,
+    "wof:lastmodified":1700723364,
     "wof:name":"Halfpennyburn",
-    "wof:parent_id":404446035,
+    "wof:parent_id":1360698807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.9123835,
+    -2.912383,
     56.639569,
-    -2.9123835,
+    -2.912383,
     56.639569
 ],
-  "geometry": {"coordinates":[-2.9123835,56.639569],"type":"Point"}
+  "geometry": {"coordinates":[-2.912383,56.639569],"type":"Point"}
 }

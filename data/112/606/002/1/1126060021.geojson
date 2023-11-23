@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.3212745,55.42838,-4.3212745,55.42838",
+    "geom:bbox":"-4.321275,55.42838,-4.321275,55.42838",
     "geom:latitude":55.42838,
     "geom:longitude":-4.321275,
     "gn:country":null,
@@ -56,11 +56,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698697,
+        1880772907,
         102191581,
-        404451413,
         85633159,
+        1880762041,
         404227471,
+        136253055,
         1360698779
     ],
     "wof:breaches":[],
@@ -71,22 +72,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497304032,
-    "wof:geomhash":"6dc84b867d68be11ed168bd0db4b1c62",
+    "wof:geomhash":"f625a289e7e9dbab80b8c177dca81ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698779,
-            "localadmin_id":404451413,
+            "empire_id":136253055,
             "locality_id":1126060021,
+            "macrocounty_id":1880762041,
             "macroregion_id":404227471,
-            "region_id":1360698697
+            "region_id":1880772907
         }
     ],
     "wof:id":1126060021,
-    "wof:lastmodified":1566635842,
+    "wof:lastmodified":1700724146,
     "wof:name":"Skares",
-    "wof:parent_id":404451413,
+    "wof:parent_id":1360698779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -94,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.3212745,
+    -4.321275,
     55.42838,
-    -4.3212745,
+    -4.321275,
     55.42838
 ],
-  "geometry": {"coordinates":[-4.3212745,55.42838],"type":"Point"}
+  "geometry": {"coordinates":[-4.321275,55.42838],"type":"Point"}
 }

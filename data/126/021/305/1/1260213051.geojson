@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683887,
+        1880772981,
         102191581,
-        404446793,
         85633159,
-        404227471
+        1880762111,
+        404227471,
+        136253055,
+        1360698869
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2651394
     },
     "wof:country":"GB",
-    "wof:geomhash":"78f55d565fd8889fd92d4d621101ff4b",
+    "wof:geomhash":"4a0aaa7014194d29d3e62afbb704082c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404446793,
+            "county_id":1360698869,
+            "empire_id":136253055,
             "locality_id":1260213051,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":85683887
+            "region_id":1880772981
         }
     ],
     "wof:id":1260213051,
-    "wof:lastmodified":1566628186,
+    "wof:lastmodified":1700723375,
     "wof:name":"Delnabo",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -3.38333,
-    57.21666999999999,
+    57.21667,
     -3.38333,
-    57.21666999999999
+    57.21667
 ],
-  "geometry": {"coordinates":[-3.38333,57.21666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-3.38333,57.21667],"type":"Point"}
 }

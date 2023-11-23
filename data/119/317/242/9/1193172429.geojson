@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698703,
+        1880773061,
         102191581,
-        404453929,
         85633159,
+        1880762099,
         404227471,
+        136253055,
         1360698969
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":2654102
     },
     "wof:country":"GB",
-    "wof:geomhash":"8fc4c2f33d52f9a0725539366152aff5",
+    "wof:geomhash":"3de842d53b311d3c361fd5f74982deda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698969,
-            "localadmin_id":404453929,
+            "empire_id":136253055,
             "locality_id":1193172429,
+            "macrocounty_id":1880762099,
             "macroregion_id":404227471,
-            "region_id":1360698703
+            "region_id":1880773061
         }
     ],
     "wof:id":1193172429,
-    "wof:lastmodified":1566628162,
+    "wof:lastmodified":1700724184,
     "wof:name":"Cadzow",
-    "wof:parent_id":404453929,
+    "wof:parent_id":1360698969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -4.04662,
-    55.75958000000001,
+    55.75958,
     -4.04662,
-    55.75958000000001
+    55.75958
 ],
-  "geometry": {"coordinates":[-4.04662,55.75958000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.04662,55.75958],"type":"Point"}
 }

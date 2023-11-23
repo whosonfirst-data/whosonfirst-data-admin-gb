@@ -7,6 +7,7 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.312081,
     "geom:area_square_m":2359427378.157184,
     "geom:bbox":"-1.332304,51.977291,-0.341543,52.643615",
@@ -26,7 +27,7 @@
     "mps:latitude":52.290223,
     "mps:longitude":-0.913221,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
@@ -396,13 +397,11 @@
     "unlc:subdivision":"GB-NTH",
     "wd:wordcount":6014,
     "wof:belongsto":[
-        102191581,
-        85633159,
-        1360698577,
-        404227469
+        1880762029
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":826035,
         "digitalenvoy:region_code":25472,
         "fips:code":"UKJ1",
         "gbr-ons:gss_code":"1234",
@@ -418,18 +417,14 @@
     "wof:concordances_official_alt":[
         "iso:code"
     ],
-    "wof:coterminous":[
-        1360698577
-    ],
     "wof:country":"GB",
-    "wof:geomhash":"a02c907d3adc644d449f3f4e70e75535",
+    "wof:geomhash":"6e341f2a0ae89a170b731b3aec321b32",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633159,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1360698755,
-            "macroregion_id":404227469,
-            "region_id":1360698577
+            "region_id":-1
         }
     ],
     "wof:id":1360698755,
@@ -442,9 +437,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695886278,
+    "wof:lastmodified":1700726291,
     "wof:name":"Northamptonshire",
-    "wof:parent_id":1360698577,
+    "wof:parent_id":1880762029,
     "wof:placetype":"county",
     "wof:placetype_local":"administrative county",
     "wof:population":691952,
@@ -452,7 +447,10 @@
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:shortcode":"NTH",
     "wof:subdivision":"GB-NTH",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880773231,
+        1880773237
+    ],
     "wof:supersedes":[
         85684325
     ],

@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698679,
+        1880773117,
         102191581,
-        404447005,
         85633159,
+        1880762081,
         404227471,
+        136253055,
         1360699027
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":9257712
     },
     "wof:country":"GB",
-    "wof:geomhash":"70673728102cf1b13e622801b19ea198",
+    "wof:geomhash":"289f4dc9b3b55ba1279f8af9232af6e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699027,
-            "localadmin_id":404447005,
+            "empire_id":136253055,
             "locality_id":1243207553,
+            "macrocounty_id":1880762081,
             "macroregion_id":404227471,
-            "region_id":1360698679
+            "region_id":1880773117
         }
     ],
     "wof:id":1243207553,
-    "wof:lastmodified":1566636526,
+    "wof:lastmodified":1700724134,
     "wof:name":"Ballencrieff",
-    "wof:parent_id":404447005,
+    "wof:parent_id":1360699027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -3.64798,
-    55.92223000000001,
+    55.92223,
     -3.64798,
-    55.92223000000001
+    55.92223
 ],
-  "geometry": {"coordinates":[-3.64798,55.92223000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.64798,55.92223],"type":"Point"}
 }

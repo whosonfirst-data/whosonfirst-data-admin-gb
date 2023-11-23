@@ -163,11 +163,13 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        1360699223,
+        1360699239,
         102191581,
         85633159,
+        1880762225,
         404227473,
-        136253055
+        136253055,
+        1880762245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -188,19 +190,21 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
+            "county_id":1880762245,
             "empire_id":136253055,
             "locality_id":101873807,
+            "macrocounty_id":1880762225,
             "macroregion_id":404227473,
-            "region_id":1360699223
+            "region_id":1360699239
         }
     ],
     "wof:id":101873807,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690917769,
+    "wof:lastmodified":1699160141,
     "wof:name":"Antrim",
-    "wof:parent_id":1360699223,
+    "wof:parent_id":1880762245,
     "wof:placetype":"locality",
     "wof:population":19661,
     "wof:population_rank":6,

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.2197445,56.670359,-3.2197445,56.670359",
+    "geom:bbox":"-3.219745,56.670359,-3.219745,56.670359",
     "geom:latitude":56.670359,
     "geom:longitude":-3.219745,
     "gn:country":null,
@@ -56,11 +56,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698689,
+        1880772935,
         102191581,
-        404446035,
         85633159,
+        1880762021,
         404227471,
+        136253055,
         1360698807
     ],
     "wof:breaches":[],
@@ -71,22 +72,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497291699,
-    "wof:geomhash":"edca2d4ccbb3702389639e67d84a36d0",
+    "wof:geomhash":"e3f66a2f0c98fcc772dd799b89b03289",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698807,
-            "localadmin_id":404446035,
+            "empire_id":136253055,
             "locality_id":1125812053,
+            "macrocounty_id":1880762021,
             "macroregion_id":404227471,
-            "region_id":1360698689
+            "region_id":1880772935
         }
     ],
     "wof:id":1125812053,
-    "wof:lastmodified":1566634770,
+    "wof:lastmodified":1700723364,
     "wof:name":"Bridge of Craigisla",
-    "wof:parent_id":404446035,
+    "wof:parent_id":1360698807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -94,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.2197445,
+    -3.219745,
     56.670359,
-    -3.2197445,
+    -3.219745,
     56.670359
 ],
-  "geometry": {"coordinates":[-3.2197445,56.670359],"type":"Point"}
+  "geometry": {"coordinates":[-3.219745,56.670359],"type":"Point"}
 }

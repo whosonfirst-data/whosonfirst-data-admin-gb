@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.407153,58.2186575,-6.407153,58.2186575",
+    "geom:bbox":"-6.407153,58.218657,-6.407153,58.218657",
     "geom:latitude":58.218657,
     "geom:longitude":-6.407153,
     "gn:country":null,
@@ -59,11 +59,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -74,22 +75,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497303061,
-    "wof:geomhash":"8180262049d64565f0c87e473b7f9f38",
+    "wof:geomhash":"6d894f20ceaa6c7324bf1f40e71b8574",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1126054999,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1126054999,
-    "wof:lastmodified":1566634411,
+    "wof:lastmodified":1700723010,
     "wof:name":"Marybank",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -98,9 +100,9 @@
 },
   "bbox": [
     -6.407153,
-    58.2186575,
+    58.218657,
     -6.407153,
-    58.2186575
+    58.218657
 ],
-  "geometry": {"coordinates":[-6.407153,58.2186575],"type":"Point"}
+  "geometry": {"coordinates":[-6.407153,58.218657],"type":"Point"}
 }

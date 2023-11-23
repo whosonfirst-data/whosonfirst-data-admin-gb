@@ -38,11 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698713,
+        1880773121,
         102191581,
-        404448747,
         85633159,
+        1880762109,
         404227471,
+        136253055,
         1360699031
     ],
     "wof:breaches":[],
@@ -51,22 +52,23 @@
         "wk:page":"Auchnagatt"
     },
     "wof:country":"GB",
-    "wof:geomhash":"c56a7c26e4adb94dc0d4d40227662e35",
+    "wof:geomhash":"a3aba9b50e5af9ddbafe8e5d42c3c903",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699031,
-            "localadmin_id":404448747,
+            "empire_id":136253055,
             "locality_id":1209242089,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":1360698713
+            "region_id":1880773121
         }
     ],
     "wof:id":1209242089,
-    "wof:lastmodified":1566628079,
+    "wof:lastmodified":1700723815,
     "wof:name":"Auchnagatt",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -75,9 +77,9 @@
 },
   "bbox": [
     -2.11517,
-    57.46534000000001,
+    57.46534,
     -2.11517,
-    57.46534000000001
+    57.46534
 ],
-  "geometry": {"coordinates":[-2.11517,57.46534000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.11517,57.46534],"type":"Point"}
 }

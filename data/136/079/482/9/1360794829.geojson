@@ -63,14 +63,10 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
         404453345,
-        85633159,
-        404227469,
+        1880762011,
         101878319,
-        1360698859,
-        1360698619,
-        101878315
+        1360698859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,30 +80,20 @@
     "wof:geomhash":"345b53f75fa603cf18dcbb0ef79c07b9",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633159,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1360698859,
             "localadmin_id":404453345,
             "locality_id":101878319,
-            "macroregion_id":404227469,
+            "macrocounty_id":1880762011,
             "neighbourhood_id":1360794829,
-            "region_id":1360698619
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698859,
-            "localadmin_id":404453345,
-            "locality_id":101878315,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360794829,
-            "region_id":1360698619
+            "region_id":-1
         }
     ],
     "wof:id":1360794829,
-    "wof:lastmodified":1690915992,
+    "wof:lastmodified":1699384995,
     "wof:name":"Carlin How",
-    "wof:parent_id":-1,
+    "wof:parent_id":101878319,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

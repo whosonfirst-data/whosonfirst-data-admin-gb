@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.33942,57.0418035,-2.33942,57.0418035",
+    "geom:bbox":"-2.33942,57.041804,-2.33942,57.041804",
     "geom:latitude":57.041804,
     "geom:longitude":-2.33942,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698713,
+        1880773121,
         102191581,
-        404448747,
         85633159,
+        1880762109,
         404227471,
+        136253055,
         1360699031
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302956,
-    "wof:geomhash":"2d9f083941da7fc0fb5b1db15a891853",
+    "wof:geomhash":"0cf36734a5522cf89ad919b8d643de0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699031,
-            "localadmin_id":404448747,
+            "empire_id":136253055,
             "locality_id":1126053795,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":1360698713
+            "region_id":1880773121
         }
     ],
     "wof:id":1126053795,
-    "wof:lastmodified":1566634426,
+    "wof:lastmodified":1700723838,
     "wof:name":"Woodlands of Durris",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -2.33942,
-    57.0418035,
+    57.041804,
     -2.33942,
-    57.0418035
+    57.041804
 ],
-  "geometry": {"coordinates":[-2.33942,57.0418035],"type":"Point"}
+  "geometry": {"coordinates":[-2.33942,57.041804],"type":"Point"}
 }

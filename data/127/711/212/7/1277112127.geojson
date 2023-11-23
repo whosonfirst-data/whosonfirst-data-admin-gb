@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684253,
+        1880773121,
         102191581,
-        404448747,
         85633159,
-        404227471
+        1880762109,
+        404227471,
+        136253055,
+        1360699031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6269362
     },
     "wof:country":"GB",
-    "wof:geomhash":"96974814a5729b1fada5fe764ef58db3",
+    "wof:geomhash":"b5cc1f470db28321669a60b5f0ffb1c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404448747,
+            "county_id":1360699031,
+            "empire_id":136253055,
             "locality_id":1277112127,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":85684253
+            "region_id":1880773121
         }
     ],
     "wof:id":1277112127,
-    "wof:lastmodified":1566628055,
+    "wof:lastmodified":1700723814,
     "wof:name":"Newpark",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -2.16049,
-    57.23178000000001,
+    57.23178,
     -2.16049,
-    57.23178000000001
+    57.23178
 ],
-  "geometry": {"coordinates":[-2.16049,57.23178000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.16049,57.23178],"type":"Point"}
 }

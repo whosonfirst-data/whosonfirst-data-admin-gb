@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684391,
+        1880772907,
         102191581,
-        404441385,
         85633159,
-        404227471
+        1880762041,
+        404227471,
+        136253055,
+        1360698855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2645582
     },
     "wof:country":"GB",
-    "wof:geomhash":"e176379ad8f7cf39c0634259f79c611a",
+    "wof:geomhash":"eb1ea148e99f7651e1a4ee38e288c68d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404441385,
+            "county_id":1360698855,
+            "empire_id":136253055,
             "locality_id":1310434123,
+            "macrocounty_id":1880762041,
             "macroregion_id":404227471,
-            "region_id":85684391
+            "region_id":1880772907
         }
     ],
     "wof:id":1310434123,
-    "wof:lastmodified":1566628294,
+    "wof:lastmodified":1700724173,
     "wof:name":"Kilmory",
-    "wof:parent_id":404441385,
+    "wof:parent_id":1360698855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -5.2,
-    55.43333000000001,
+    55.43333,
     -5.2,
-    55.43333000000001
+    55.43333
 ],
-  "geometry": {"coordinates":[-5.2,55.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.2,55.43333],"type":"Point"}
 }

@@ -49,15 +49,15 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880772941,
         102191581,
+        1880762073,
         404449087,
         85633159,
         404227469,
         1360753041,
-        1360698911,
-        1360698587,
-        404452549,
-        101751611
+        136253055,
+        1360698911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,27 +72,19 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698911,
+            "empire_id":136253055,
             "localadmin_id":404449087,
             "locality_id":1360753041,
+            "macrocounty_id":1880762073,
             "macroregion_id":404227469,
             "neighbourhood_id":1360799741,
-            "region_id":1360698587
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698911,
-            "localadmin_id":404452549,
-            "locality_id":101751611,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360799741,
-            "region_id":1360698587
+            "region_id":1880772941
         }
     ],
     "wof:id":1360799741,
-    "wof:lastmodified":1566628825,
+    "wof:lastmodified":1699952034,
     "wof:name":"St. Georges",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360753041,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

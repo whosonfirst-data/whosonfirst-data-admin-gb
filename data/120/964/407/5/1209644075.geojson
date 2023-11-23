@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698675,
+        1880773107,
         102191581,
-        404447595,
         85633159,
+        1880762091,
         404227471,
+        136253055,
         1360699017
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":2655702
     },
     "wof:country":"GB",
-    "wof:geomhash":"b7205677a0d1a7e6c42ca4719672991a",
+    "wof:geomhash":"ad186ebe2689431691815be857c4122f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699017,
-            "localadmin_id":404447595,
+            "empire_id":136253055,
             "locality_id":1209644075,
+            "macrocounty_id":1880762091,
             "macroregion_id":404227471,
-            "region_id":1360698675
+            "region_id":1880773107
         }
     ],
     "wof:id":1209644075,
-    "wof:lastmodified":1566628065,
+    "wof:lastmodified":1700723237,
     "wof:name":"Biel",
-    "wof:parent_id":404447595,
+    "wof:parent_id":1360699017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -2.58333,
-    55.96666999999999,
+    55.96667,
     -2.58333,
-    55.96666999999999
+    55.96667
 ],
-  "geometry": {"coordinates":[-2.58333,55.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-2.58333,55.96667],"type":"Point"}
 }

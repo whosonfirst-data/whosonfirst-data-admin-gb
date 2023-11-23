@@ -35,11 +35,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684253,
+        1880773121,
         102191581,
-        404448747,
         85633159,
-        404227471
+        1880762109,
+        404227471,
+        136253055,
+        1360699031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,21 +49,23 @@
         "wk:page":"Glenbervie"
     },
     "wof:country":"GB",
-    "wof:geomhash":"b54d162f14d85a95540a1c05fdf64ba1",
+    "wof:geomhash":"5d1ffbfb2d6f9e104956b2476316681d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404448747,
+            "county_id":1360699031,
+            "empire_id":136253055,
             "locality_id":1309941321,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":85684253
+            "region_id":1880773121
         }
     ],
     "wof:id":1309941321,
-    "wof:lastmodified":1566631110,
+    "wof:lastmodified":1700723830,
     "wof:name":"Glenbervie",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -70,9 +74,9 @@
 },
   "bbox": [
     -2.38579,
-    56.91693000000001,
+    56.91693,
     -2.38579,
-    56.91693000000001
+    56.91693
 ],
-  "geometry": {"coordinates":[-2.38579,56.91693000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.38579,56.91693],"type":"Point"}
 }

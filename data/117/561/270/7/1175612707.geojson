@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025315,
-    "geom:area_square_m":175681777.61006,
+    "geom:area_square_m":175681777.610062,
     "geom:bbox":"-4.393243,55.781323,-4.071752,55.929688",
     "geom:latitude":55.857941,
     "geom:longitude":-4.253085,
@@ -506,15 +506,18 @@
     "wd:population":598830,
     "wd:wordcount":16856,
     "wof:belongsto":[
-        1360698707,
+        1880772925,
         102191581,
-        404430153,
         85633159,
+        1880762095,
         404227471,
+        136253055,
         1360698797
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":826034,
+        "digitalenvoy:region_code":25415,
         "gn:id":2648579,
         "gp:id":21125,
         "ne:id":1159150591,
@@ -525,9 +528,6 @@
     "wof:concordances_alt":{
         "qs_pg:id":1031872
     },
-    "wof:coterminous":[
-        404430153
-    ],
     "wof:country":"GB",
     "wof:geom_alt":[
         "quattroshapes"
@@ -538,17 +538,18 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698797,
-            "localadmin_id":404430153,
+            "empire_id":136253055,
             "locality_id":1175612707,
+            "macrocounty_id":1880762095,
             "macroregion_id":404227471,
-            "region_id":1360698707
+            "region_id":1880772925
         }
     ],
     "wof:id":1175612707,
-    "wof:lastmodified":1690915837,
+    "wof:lastmodified":1700718138,
     "wof:megacity":1,
     "wof:name":"Glasgow",
-    "wof:parent_id":404430153,
+    "wof:parent_id":1360698797,
     "wof:placetype":"locality",
     "wof:population":598830,
     "wof:population_rank":11,

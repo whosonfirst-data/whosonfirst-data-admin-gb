@@ -38,32 +38,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683887,
+        1880772981,
         102191581,
-        404446793,
         85633159,
-        404227471
+        1880762111,
+        404227471,
+        136253055,
+        1360698869
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2642488
     },
     "wof:country":"GB",
-    "wof:geomhash":"de104179674545f73d67dddeffd20a4d",
+    "wof:geomhash":"e299bd10c23bf146d8442bae50d6fcbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404446793,
+            "county_id":1360698869,
+            "empire_id":136253055,
             "locality_id":1276471823,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":85683887
+            "region_id":1880772981
         }
     ],
     "wof:id":1276471823,
-    "wof:lastmodified":1566628023,
+    "wof:lastmodified":1700723373,
     "wof:name":"Auchindoun",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -72,9 +76,9 @@
 },
   "bbox": [
     -3.06667,
-    57.43333000000001,
+    57.43333,
     -3.06667,
-    57.43333000000001
+    57.43333
 ],
-  "geometry": {"coordinates":[-3.06667,57.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.06667,57.43333],"type":"Point"}
 }

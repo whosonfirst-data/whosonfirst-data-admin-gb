@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.731749,
     "geom:area_square_m":5486184692.09304,
     "geom:bbox":"0.153555,52.355335,1.745782,52.99164",
@@ -22,7 +23,7 @@
     "mps:latitude":52.682309,
     "mps:longitude":0.930603,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Norfolk"
@@ -260,7 +261,7 @@
         1360698955
     ],
     "wof:country":"GB",
-    "wof:geomhash":"d174ecfd43447abc5a7da967e7b7defc",
+    "wof:geomhash":"8ccee211c90c79393becd2bb851ae399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -279,12 +280,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884416,
+    "wof:lastmodified":1700726330,
     "wof:name":"Norfolk",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

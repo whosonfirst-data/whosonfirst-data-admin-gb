@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.182628,55.4415275,-5.182628,55.4415275",
+    "geom:bbox":"-5.182628,55.441527,-5.182628,55.441527",
     "geom:latitude":55.441527,
     "geom:longitude":-5.182628,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698697,
+        1880772907,
         102191581,
-        404441385,
         85633159,
+        1880762041,
         404227471,
+        136253055,
         1360698855
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302341,
-    "wof:geomhash":"51d2a167202e4a052f01269d3def303f",
+    "wof:geomhash":"4892fc6f906881fb67e51453fd2068d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698855,
-            "localadmin_id":404441385,
+            "empire_id":136253055,
             "locality_id":1126044397,
+            "macrocounty_id":1880762041,
             "macroregion_id":404227471,
-            "region_id":1360698697
+            "region_id":1880772907
         }
     ],
     "wof:id":1126044397,
-    "wof:lastmodified":1566634527,
+    "wof:lastmodified":1700724176,
     "wof:name":"Shannochie",
-    "wof:parent_id":404441385,
+    "wof:parent_id":1360698855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -5.182628,
-    55.4415275,
+    55.441527,
     -5.182628,
-    55.4415275
+    55.441527
 ],
-  "geometry": {"coordinates":[-5.182628,55.4415275],"type":"Point"}
+  "geometry": {"coordinates":[-5.182628,55.441527],"type":"Point"}
 }

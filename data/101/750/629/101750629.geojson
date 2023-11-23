@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039255,
-    "geom:area_square_m":271944762.681002,
+    "geom:area_square_m":271944762.680994,
     "geom:bbox":"-3.449554,55.818837,-3.074964,56.012677",
     "geom:latitude":55.926584,
     "geom:longitude":-3.28837,
@@ -672,11 +672,12 @@
     "wd:population":483000,
     "wd:wordcount":13870,
     "wof:belongsto":[
-        1360698673,
+        1880772893,
         102191581,
-        404437279,
         85633159,
+        1880762089,
         404227471,
+        136253055,
         1360698761
     ],
     "wof:breaches":[],
@@ -685,6 +686,8 @@
     ],
     "wof:concordances":{
         "dbp:id":"Edinburgh",
+        "digitalenvoy:metro_code":826034,
+        "digitalenvoy:region_code":25401,
         "fb:id":"en.edinburgh",
         "gn:id":2645970,
         "gp:id":19344,
@@ -697,9 +700,6 @@
     "wof:concordances_alt":{
         "qs_pg:id":351999
     },
-    "wof:coterminous":[
-        404437279
-    ],
     "wof:country":"GB",
     "wof:geom_alt":[
         "quattroshapes",
@@ -711,17 +711,18 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698761,
-            "localadmin_id":404437279,
+            "empire_id":136253055,
             "locality_id":101750629,
+            "macrocounty_id":1880762089,
             "macroregion_id":404227471,
-            "region_id":1360698673
+            "region_id":1880772893
         }
     ],
     "wof:id":101750629,
-    "wof:lastmodified":1690917962,
+    "wof:lastmodified":1700718138,
     "wof:megacity":0,
     "wof:name":"Edinburgh",
-    "wof:parent_id":404437279,
+    "wof:parent_id":1360698761,
     "wof:placetype":"locality",
     "wof:population":483000,
     "wof:population_rank":10,

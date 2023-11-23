@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.383201,58.5066315,-4.383201,58.5066315",
+    "geom:bbox":"-4.383201,58.506631,-4.383201,58.506631",
     "geom:latitude":58.506631,
     "geom:longitude":-4.383201,
     "gn:country":null,
@@ -56,11 +56,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698661,
+        1880773131,
         102191581,
-        404436073,
         85633159,
+        1880762005,
         404227471,
+        136253055,
         1360699045
     ],
     "wof:breaches":[],
@@ -71,22 +72,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497294282,
-    "wof:geomhash":"1c16ff30d3407fac4480ba8ba0edfb90",
+    "wof:geomhash":"b0aef0b921e4fa74e754aa95de82a7c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699045,
-            "localadmin_id":404436073,
+            "empire_id":136253055,
             "locality_id":1125870697,
+            "macrocounty_id":1880762005,
             "macroregion_id":404227471,
-            "region_id":1360698661
+            "region_id":1880773131
         }
     ],
     "wof:id":1125870697,
-    "wof:lastmodified":1566635166,
+    "wof:lastmodified":1700724025,
     "wof:name":"Coldbackie",
-    "wof:parent_id":404436073,
+    "wof:parent_id":1360699045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -95,9 +97,9 @@
 },
   "bbox": [
     -4.383201,
-    58.5066315,
+    58.506631,
     -4.383201,
-    58.5066315
+    58.506631
 ],
-  "geometry": {"coordinates":[-4.383201,58.5066315],"type":"Point"}
+  "geometry": {"coordinates":[-4.383201,58.506631],"type":"Point"}
 }

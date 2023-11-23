@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.468692,57.2506555,-2.468692,57.2506555",
+    "geom:bbox":"-2.468692,57.250656,-2.468692,57.250656",
     "geom:latitude":57.250656,
     "geom:longitude":-2.468692,
     "gn:country":null,
@@ -89,11 +89,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698713,
+        1880773121,
         102191581,
-        404448747,
         85633159,
+        1880762109,
         404227471,
+        136253055,
         1360699031
     ],
     "wof:breaches":[],
@@ -103,22 +104,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497302339,
-    "wof:geomhash":"6fb6f5696e15a876750a6034c987d983",
+    "wof:geomhash":"8f6e917cd91c83a15ab1432264ebb15a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699031,
-            "localadmin_id":404448747,
+            "empire_id":136253055,
             "locality_id":1126044349,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":1360698713
+            "region_id":1880773121
         }
     ],
     "wof:id":1126044349,
-    "wof:lastmodified":1566634567,
+    "wof:lastmodified":1700723843,
     "wof:name":"Overton",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -127,9 +129,9 @@
 },
   "bbox": [
     -2.468692,
-    57.2506555,
+    57.250656,
     -2.468692,
-    57.2506555
+    57.250656
 ],
-  "geometry": {"coordinates":[-2.468692,57.2506555],"type":"Point"}
+  "geometry": {"coordinates":[-2.468692,57.250656],"type":"Point"}
 }

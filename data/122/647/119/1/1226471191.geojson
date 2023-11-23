@@ -47,11 +47,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -59,22 +60,23 @@
         "gn:id":2652983
     },
     "wof:country":"GB",
-    "wof:geomhash":"63f604e90fd34d5cd84b66136c4f2697",
+    "wof:geomhash":"a75045b93e9d7395eb752273f67e5f51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1226471191,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1226471191,
-    "wof:lastmodified":1566636640,
+    "wof:lastmodified":1700723236,
     "wof:name":"Clachan",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -83,9 +85,9 @@
 },
   "bbox": [
     -7.36667,
-    57.38333000000001,
+    57.38333,
     -7.36667,
-    57.38333000000001
+    57.38333
 ],
-  "geometry": {"coordinates":[-7.36667,57.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.36667,57.38333],"type":"Point"}
 }

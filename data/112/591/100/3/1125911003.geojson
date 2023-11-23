@@ -63,7 +63,12 @@
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        136253055,
+        102191581,
+        85633159,
+        404227471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2640020,
@@ -76,14 +81,18 @@
     "wof:geomhash":"47a87badfaee7cb885cb1bd8814e5b64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":-1,
+            "empire_id":136253055,
             "locality_id":1125911003,
+            "macrocounty_id":-1,
+            "macroregion_id":404227471,
             "region_id":-1
         }
     ],
     "wof:id":1125911003,
-    "wof:lastmodified":1566635711,
+    "wof:lastmodified":1700719622,
     "wof:name":"Port na Long",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

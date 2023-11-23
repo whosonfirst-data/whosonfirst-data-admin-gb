@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.063303,
     "geom:area_square_m":487656944.544929,
     "geom:bbox":"-3.648985,51.374555,-3.068902,51.560504",
@@ -22,7 +23,7 @@
     "mps:latitude":51.465892,
     "mps:longitude":-3.270449,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:bre_x_preferred":[
         "De Morgannwg"
@@ -92,7 +93,7 @@
         "digitalenvoy:metro_code":826041
     },
     "wof:country":"GB",
-    "wof:geomhash":"63700a9fed8907759485061312a860e7",
+    "wof:geomhash":"a5c5df500f89ee87883c17b524e65069",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +112,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884637,
+    "wof:lastmodified":1700726421,
     "wof:name":"South Glamorgan",
     "wof:parent_id":404227475,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762115
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

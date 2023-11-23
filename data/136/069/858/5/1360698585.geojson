@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.339499,
     "geom:area_square_m":2598022894.695987,
     "geom:bbox":"-1.719501,51.459413,-0.870066,52.168471",
@@ -22,7 +23,7 @@
     "mps:latitude":51.781799,
     "mps:longitude":-1.393171,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Oxfordshire"
@@ -248,7 +249,7 @@
         1360698839
     ],
     "wof:country":"GB",
-    "wof:geomhash":"b92a0ba30a48795c549b40bea414bddb",
+    "wof:geomhash":"8a16ee3e9d961d5837c446f68a90cc84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -267,12 +268,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884418,
+    "wof:lastmodified":1700726346,
     "wof:name":"Oxfordshire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

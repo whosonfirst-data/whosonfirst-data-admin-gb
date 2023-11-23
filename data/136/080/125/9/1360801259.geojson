@@ -104,14 +104,15 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880773095,
         102191581,
+        1880762163,
         1360817437,
         85633159,
         404227469,
         1175612695,
-        1360698935,
-        1360698555,
-        1360832471
+        136253055,
+        1360698935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,27 +129,19 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698935,
+            "empire_id":136253055,
             "localadmin_id":1360817437,
             "locality_id":1175612695,
+            "macrocounty_id":1880762163,
             "macroregion_id":404227469,
             "neighbourhood_id":1360801259,
-            "region_id":1360698555
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698935,
-            "localadmin_id":1360817437,
-            "locality_id":1360832471,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360801259,
-            "region_id":1360698555
+            "region_id":1880773095
         }
     ],
     "wof:id":1360801259,
-    "wof:lastmodified":1690917527,
+    "wof:lastmodified":1699952601,
     "wof:name":"Bowdon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175612695,
     "wof:placetype":"neighbourhood",
     "wof:population":6214,
     "wof:population_rank":5,

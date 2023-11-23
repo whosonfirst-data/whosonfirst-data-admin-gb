@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683887,
+        1880772981,
         102191581,
-        404446793,
         85633159,
-        404227471
+        1880762111,
+        404227471,
+        136253055,
+        1360698869
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2644586
     },
     "wof:country":"GB",
-    "wof:geomhash":"ad7f13acf2497144487fd75f42ef7849",
+    "wof:geomhash":"f8134d4b3ff36403ab7b77f2adcb3369",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404446793,
+            "county_id":1360698869,
+            "empire_id":136253055,
             "locality_id":1243008475,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":85683887
+            "region_id":1880772981
         }
     ],
     "wof:id":1243008475,
-    "wof:lastmodified":1566636459,
+    "wof:lastmodified":1700723385,
     "wof:name":"Letterfourie",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -2.9,
-    57.63333000000001,
+    57.63333,
     -2.9,
-    57.63333000000001
+    57.63333
 ],
-  "geometry": {"coordinates":[-2.9,57.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.9,57.63333],"type":"Point"}
 }

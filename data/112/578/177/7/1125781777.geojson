@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.48662,55.6157885,-4.48662,55.6157885",
+    "geom:bbox":"-4.48662,55.615789,-4.48662,55.615789",
     "geom:latitude":55.615789,
     "geom:longitude":-4.48662,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698697,
+        1880772907,
         102191581,
-        404451413,
         85633159,
+        1880762041,
         404227471,
+        136253055,
         1360698779
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497290514,
-    "wof:geomhash":"ac65fd1036c1540bd466d30266205a71",
+    "wof:geomhash":"2363956b9f468f6dd92d4a136f12aaa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698779,
-            "localadmin_id":404451413,
+            "empire_id":136253055,
             "locality_id":1125781777,
+            "macrocounty_id":1880762041,
             "macroregion_id":404227471,
-            "region_id":1360698697
+            "region_id":1880772907
         }
     ],
     "wof:id":1125781777,
-    "wof:lastmodified":1566636190,
+    "wof:lastmodified":1700724146,
     "wof:name":"Beansburn",
-    "wof:parent_id":404451413,
+    "wof:parent_id":1360698779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -82,9 +84,9 @@
 },
   "bbox": [
     -4.48662,
-    55.6157885,
+    55.615789,
     -4.48662,
-    55.6157885
+    55.615789
 ],
-  "geometry": {"coordinates":[-4.48662,55.6157885],"type":"Point"}
+  "geometry": {"coordinates":[-4.48662,55.615789],"type":"Point"}
 }

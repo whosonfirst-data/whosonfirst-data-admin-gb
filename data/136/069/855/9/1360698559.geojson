@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.214289,
     "geom:area_square_m":1637525881.058585,
     "geom:bbox":"-0.745789,51.599583,0.195567,52.080536",
@@ -22,7 +23,7 @@
     "mps:latitude":51.846081,
     "mps:longitude":-0.146153,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Hertfordshire"
@@ -245,7 +246,7 @@
         1360698763
     ],
     "wof:country":"GB",
-    "wof:geomhash":"0159b7e15c0e39ad3fdcf3cbdc92bbfa",
+    "wof:geomhash":"b47574e8dd80ec27a5d39321d2521647",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -264,12 +265,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884421,
+    "wof:lastmodified":1700726439,
     "wof:name":"Hertfordshire",
     "wof:parent_id":404227469,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":9883830
     },
     "wof:country":"GB",
-    "wof:geomhash":"ecbf81ec6fbc115b2bc4f1d291b63484",
+    "wof:geomhash":"40fc3131ec2fb68b02b3940c68334032",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1225874009,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1225874009,
-    "wof:lastmodified":1566636623,
+    "wof:lastmodified":1700723235,
     "wof:name":"Baile nan Cailleach",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -7.39689,
-    57.45831999999999,
+    57.45832,
     -7.39689,
-    57.45831999999999
+    57.45832
 ],
-  "geometry": {"coordinates":[-7.39689,57.45831999999999],"type":"Point"}
+  "geometry": {"coordinates":[-7.39689,57.45832],"type":"Point"}
 }

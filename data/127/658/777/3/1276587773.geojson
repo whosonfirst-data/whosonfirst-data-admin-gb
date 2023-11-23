@@ -32,32 +32,36 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85683887,
+        1880772981,
         102191581,
-        404446793,
         85633159,
-        404227471
+        1880762111,
+        404227471,
+        136253055,
+        1360698869
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2649471
     },
     "wof:country":"GB",
-    "wof:geomhash":"46d0661e26733327e55a48d8d7b56e93",
+    "wof:geomhash":"9841f0f00f877896718a37f4e758e76b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404446793,
+            "county_id":1360698869,
+            "empire_id":136253055,
             "locality_id":1276587773,
+            "macrocounty_id":1880762111,
             "macroregion_id":404227471,
-            "region_id":85683887
+            "region_id":1880772981
         }
     ],
     "wof:id":1276587773,
-    "wof:lastmodified":1566627995,
+    "wof:lastmodified":1700723373,
     "wof:name":"Fife Keith",
-    "wof:parent_id":404446793,
+    "wof:parent_id":1360698869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -66,9 +70,9 @@
 },
   "bbox": [
     -2.96667,
-    57.53333000000001,
+    57.53333,
     -2.96667,
-    57.53333000000001
+    57.53333
 ],
-  "geometry": {"coordinates":[-2.96667,57.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.96667,57.53333],"type":"Point"}
 }

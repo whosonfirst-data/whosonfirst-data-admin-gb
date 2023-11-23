@@ -82,15 +82,15 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        1880772941,
         102191581,
+        1880762073,
         404451091,
         85633159,
         404227469,
         1125868465,
-        1360698911,
-        1360698587,
-        404452549,
-        101751611
+        136253055,
+        1360698911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,27 +105,19 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698911,
+            "empire_id":136253055,
             "localadmin_id":404451091,
             "locality_id":1125868465,
+            "macrocounty_id":1880762073,
             "macroregion_id":404227469,
             "neighbourhood_id":1360794369,
-            "region_id":1360698587
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698911,
-            "localadmin_id":404452549,
-            "locality_id":101751611,
-            "macroregion_id":404227469,
-            "neighbourhood_id":1360794369,
-            "region_id":1360698587
+            "region_id":1880772941
         }
     ],
     "wof:id":1360794369,
-    "wof:lastmodified":1566628481,
+    "wof:lastmodified":1699952373,
     "wof:name":"Red Lake",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125868465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

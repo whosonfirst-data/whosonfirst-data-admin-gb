@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2023-10-25",
     "geom:area":0.113401,
     "geom:area_square_m":869814061.65161,
     "geom:bbox":"-4.33397,51.527164,-3.561762,51.810354",
@@ -22,7 +23,7 @@
     "mps:latitude":51.690851,
     "mps:longitude":-3.902347,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":4.0,
     "name:bre_x_preferred":[
         "Gorllewin Morgannwg"
@@ -86,7 +87,7 @@
         "digitalenvoy:metro_code":826041
     },
     "wof:country":"GB",
-    "wof:geomhash":"7a9cf5ef96353c0dd2ef835db9e721fe",
+    "wof:geomhash":"fb213671cd31fe4d5a0c6c4c93193abc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,12 +106,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1695884397,
+    "wof:lastmodified":1700726421,
     "wof:name":"West Glamorgan",
     "wof:parent_id":404227475,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1880762113
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

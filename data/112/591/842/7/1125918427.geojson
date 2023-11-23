@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.2460275,56.586858,-6.2460275,56.586858",
+    "geom:bbox":"-6.246028,56.586858,-6.246028,56.586858",
     "geom:latitude":56.586858,
     "geom:longitude":-6.246028,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698695,
+        1880772977,
         102191581,
-        404439789,
         85633159,
+        1880762047,
         404227471,
+        136253055,
         1360698863
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497296399,
-    "wof:geomhash":"33e392f5cd2e461b681b8d1ee8bca23b",
+    "wof:geomhash":"a4b414494ec5f13c92cdd5d46293f530",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698863,
-            "localadmin_id":404439789,
+            "empire_id":136253055,
             "locality_id":1125918427,
+            "macrocounty_id":1880762047,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":1880772977
         }
     ],
     "wof:id":1125918427,
-    "wof:lastmodified":1566635674,
+    "wof:lastmodified":1700723662,
     "wof:name":"Mornish",
-    "wof:parent_id":404439789,
+    "wof:parent_id":1360698863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.2460275,
+    -6.246028,
     56.586858,
-    -6.2460275,
+    -6.246028,
     56.586858
 ],
-  "geometry": {"coordinates":[-6.2460275,56.586858],"type":"Point"}
+  "geometry": {"coordinates":[-6.246028,56.586858],"type":"Point"}
 }

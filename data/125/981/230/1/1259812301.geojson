@@ -37,32 +37,34 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684241,
+        1880773105,
         102191581,
-        404442083,
         85633159,
-        404227471
+        1880761991,
+        404227471,
+        1360699015
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2641778
     },
     "wof:country":"GB",
-    "wof:geomhash":"94fd1b0a9ee08919fd0bdb564d46777d",
+    "wof:geomhash":"9f24dbf3aabdae07070e736738f5aa97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404442083,
+            "county_id":1360699015,
             "locality_id":1259812301,
+            "macrocounty_id":1880761991,
             "macroregion_id":404227471,
-            "region_id":85684241
+            "region_id":1880773105
         }
     ],
     "wof:id":1259812301,
-    "wof:lastmodified":1566636588,
+    "wof:lastmodified":1700723267,
     "wof:name":"Nether Monynut",
-    "wof:parent_id":404442083,
+    "wof:parent_id":1360699015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -71,9 +73,9 @@
 },
   "bbox": [
     -2.43333,
-    55.86666999999999,
+    55.86667,
     -2.43333,
-    55.86666999999999
+    55.86667
 ],
-  "geometry": {"coordinates":[-2.43333,55.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-2.43333,55.86667],"type":"Point"}
 }

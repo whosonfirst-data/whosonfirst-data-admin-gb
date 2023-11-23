@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.6144885,56.005915,-2.6144885,56.005915",
+    "geom:bbox":"-2.614489,56.005915,-2.614489,56.005915",
     "geom:latitude":56.005915,
     "geom:longitude":-2.614489,
     "gn:country":null,
@@ -44,11 +44,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698675,
+        1880773107,
         102191581,
-        404447595,
         85633159,
+        1880762091,
         404227471,
+        136253055,
         1360699017
     ],
     "wof:breaches":[],
@@ -58,22 +59,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497293547,
-    "wof:geomhash":"c4eede465c0db12ed5c034af3070d47b",
+    "wof:geomhash":"76453b003043c98d8e09887224a69f99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699017,
-            "localadmin_id":404447595,
+            "empire_id":136253055,
             "locality_id":1125854355,
+            "macrocounty_id":1880762091,
             "macroregion_id":404227471,
-            "region_id":1360698675
+            "region_id":1880773107
         }
     ],
     "wof:id":1125854355,
-    "wof:lastmodified":1566636068,
+    "wof:lastmodified":1700723243,
     "wof:name":"Tyninghame",
-    "wof:parent_id":404447595,
+    "wof:parent_id":1360699017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.6144885,
+    -2.614489,
     56.005915,
-    -2.6144885,
+    -2.614489,
     56.005915
 ],
-  "geometry": {"coordinates":[-2.6144885,56.005915],"type":"Point"}
+  "geometry": {"coordinates":[-2.614489,56.005915],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.7824105,55.651555,-3.7824105,55.651555",
+    "geom:bbox":"-3.782411,55.651555,-3.782411,55.651555",
     "geom:latitude":55.651555,
     "geom:longitude":-3.782411,
     "gn:country":null,
@@ -50,11 +50,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698703,
+        1880773061,
         102191581,
-        404453929,
         85633159,
+        1880762099,
         404227471,
+        136253055,
         1360698969
     ],
     "wof:breaches":[],
@@ -64,22 +65,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497295922,
-    "wof:geomhash":"c80cc096f8f3822c07bb4b9d32826404",
+    "wof:geomhash":"3b27f5363a3034fc00419340959c57bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698969,
-            "localadmin_id":404453929,
+            "empire_id":136253055,
             "locality_id":1125904081,
+            "macrocounty_id":1880762099,
             "macroregion_id":404227471,
-            "region_id":1360698703
+            "region_id":1880773061
         }
     ],
     "wof:id":1125904081,
-    "wof:lastmodified":1566635311,
+    "wof:lastmodified":1700724188,
     "wof:name":"Corehouse",
-    "wof:parent_id":404453929,
+    "wof:parent_id":1360698969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -87,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.7824105,
+    -3.782411,
     55.651555,
-    -3.7824105,
+    -3.782411,
     55.651555
 ],
-  "geometry": {"coordinates":[-3.7824105,55.651555],"type":"Point"}
+  "geometry": {"coordinates":[-3.782411,55.651555],"type":"Point"}
 }

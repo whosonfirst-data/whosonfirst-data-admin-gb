@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698685,
+        1880773097,
         102191581,
-        404429199,
         85633159,
+        1880762027,
         404227471,
+        136253055,
         1360699007
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":9538988
     },
     "wof:country":"GB",
-    "wof:geomhash":"12d6f0a3628724692e4c1a7f0ab89981",
+    "wof:geomhash":"66c8ef09e97410992c8d5ead5a4adbb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699007,
-            "localadmin_id":404429199,
+            "empire_id":136253055,
             "locality_id":1209644045,
+            "macrocounty_id":1880762027,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":1880773097
         }
     ],
     "wof:id":1209644045,
-    "wof:lastmodified":1566628066,
+    "wof:lastmodified":1700722931,
     "wof:name":"Tigh A' Gearraidh",
-    "wof:parent_id":404429199,
+    "wof:parent_id":1360699007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -7.50988,
-    57.61808000000001,
+    57.61808,
     -7.50988,
-    57.61808000000001
+    57.61808
 ],
-  "geometry": {"coordinates":[-7.50988,57.61808000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.50988,57.61808],"type":"Point"}
 }

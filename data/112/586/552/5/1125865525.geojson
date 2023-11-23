@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.140874,57.0671955,-2.140874,57.0671955",
+    "geom:bbox":"-2.140874,57.067195,-2.140874,57.067195",
     "geom:latitude":57.067195,
     "geom:longitude":-2.140874,
     "gn:country":null,
@@ -59,11 +59,12 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698713,
+        1880773121,
         102191581,
-        404448747,
         85633159,
+        1880762109,
         404227471,
+        136253055,
         1360699031
     ],
     "wof:breaches":[],
@@ -74,22 +75,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497294021,
-    "wof:geomhash":"bd0560540ed54d6e02e4417cc7705d45",
+    "wof:geomhash":"eb8455a6f1692bb4b9d81d6490dde021",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699031,
-            "localadmin_id":404448747,
+            "empire_id":136253055,
             "locality_id":1125865525,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":1360698713
+            "region_id":1880773121
         }
     ],
     "wof:id":1125865525,
-    "wof:lastmodified":1566634722,
+    "wof:lastmodified":1700723846,
     "wof:name":"Cammachmore",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -98,9 +100,9 @@
 },
   "bbox": [
     -2.140874,
-    57.0671955,
+    57.067195,
     -2.140874,
-    57.0671955
+    57.067195
 ],
-  "geometry": {"coordinates":[-2.140874,57.0671955],"type":"Point"}
+  "geometry": {"coordinates":[-2.140874,57.067195],"type":"Point"}
 }

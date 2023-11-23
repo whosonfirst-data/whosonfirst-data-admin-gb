@@ -32,11 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1360698703,
+        1880773061,
         102191581,
-        404435713,
         85633159,
+        1880762099,
         404227471,
+        136253055,
         1360698949
     ],
     "wof:breaches":[],
@@ -44,22 +45,23 @@
         "gn:id":2641607
     },
     "wof:country":"GB",
-    "wof:geomhash":"ce8e9ad6cadc756b1732dcfd00089233",
+    "wof:geomhash":"85d5398c6f2bcff54e9646a091aa0b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698949,
-            "localadmin_id":404435713,
+            "empire_id":136253055,
             "locality_id":1209349857,
+            "macrocounty_id":1880762099,
             "macroregion_id":404227471,
-            "region_id":1360698703
+            "region_id":1880773061
         }
     ],
     "wof:id":1209349857,
-    "wof:lastmodified":1566628109,
+    "wof:lastmodified":1700723794,
     "wof:name":"New Monkland",
-    "wof:parent_id":404435713,
+    "wof:parent_id":1360698949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -68,9 +70,9 @@
 },
   "bbox": [
     -4.0,
-    55.88333000000001,
+    55.88333,
     -4.0,
-    55.88333000000001
+    55.88333
 ],
-  "geometry": {"coordinates":[-4.0,55.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.0,55.88333],"type":"Point"}
 }

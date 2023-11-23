@@ -68,32 +68,36 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85684253,
+        1880773121,
         102191581,
-        404448747,
         85633159,
-        404227471
+        1880762109,
+        404227471,
+        136253055,
+        1360699031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2634087
     },
     "wof:country":"GB",
-    "wof:geomhash":"1e2123da7648e8ce5d856d9d5093f96f",
+    "wof:geomhash":"77efeefbadb2aaadcac018b263c7e9b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404448747,
+            "county_id":1360699031,
+            "empire_id":136253055,
             "locality_id":1310434165,
+            "macrocounty_id":1880762109,
             "macroregion_id":404227471,
-            "region_id":85684253
+            "region_id":1880773121
         }
     ],
     "wof:id":1310434165,
-    "wof:lastmodified":1566628294,
+    "wof:lastmodified":1700723821,
     "wof:name":"Whitehouse",
-    "wof:parent_id":404448747,
+    "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -102,9 +106,9 @@
 },
   "bbox": [
     -2.61667,
-    57.21666999999999,
+    57.21667,
     -2.61667,
-    57.21666999999999
+    57.21667
 ],
-  "geometry": {"coordinates":[-2.61667,57.21666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-2.61667,57.21667],"type":"Point"}
 }
