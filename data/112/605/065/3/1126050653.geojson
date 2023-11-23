@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.0827345,56.370431,-6.0827345,56.370431",
+    "geom:bbox":"-6.082734,56.370431,-6.082734,56.370431",
     "geom:latitude":56.370431,
     "geom:longitude":-6.082734,
     "gn:country":"GB",
@@ -46,7 +46,12 @@
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        136253055,
+        102191581,
+        85633159,
+        404227471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":37664,
@@ -54,17 +59,21 @@
     },
     "wof:country":"GB",
     "wof:created":1497302715,
-    "wof:geomhash":"cfe63b6c48c0f8760bee76f0dd4ef617",
+    "wof:geomhash":"c913686268daf14295e5be16c2869185",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":-1,
+            "empire_id":136253055,
             "locality_id":1126050653,
+            "macrocounty_id":-1,
+            "macroregion_id":404227471,
             "region_id":-1
         }
     ],
     "wof:id":1126050653,
-    "wof:lastmodified":1566634404,
+    "wof:lastmodified":1700719625,
     "wof:name":"Tiroran",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -74,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.0827345,
+    -6.082734,
     56.370431,
-    -6.0827345,
+    -6.082734,
     56.370431
 ],
-  "geometry": {"coordinates":[-6.0827345,56.370431],"type":"Point"}
+  "geometry": {"coordinates":[-6.082734,56.370431],"type":"Point"}
 }

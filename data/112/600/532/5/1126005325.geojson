@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.525393,55.7938985,-5.525393,55.7938985",
+    "geom:bbox":"-5.525393,55.793898,-5.525393,55.793898",
     "geom:latitude":55.793898,
     "geom:longitude":-5.525393,
     "gn:country":"GB",
@@ -74,11 +74,10 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698695,
+        136253055,
         102191581,
         85633159,
-        404227471,
-        1360698863
+        404227471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,21 +86,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497299909,
-    "wof:geomhash":"f087de92bb03264d0886d78a87791dd5",
+    "wof:geomhash":"b7adc5682b4d4a744b2502f31447fd30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "county_id":1360698863,
+            "county_id":-1,
+            "empire_id":136253055,
             "locality_id":1126005325,
+            "macrocounty_id":-1,
             "macroregion_id":404227471,
-            "region_id":1360698695
+            "region_id":-1
         }
     ],
     "wof:id":1126005325,
-    "wof:lastmodified":1566635917,
+    "wof:lastmodified":1700719624,
     "wof:name":"Dunmore",
-    "wof:parent_id":1360698863,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -110,9 +111,9 @@
 },
   "bbox": [
     -5.525393,
-    55.7938985,
+    55.793898,
     -5.525393,
-    55.7938985
+    55.793898
 ],
-  "geometry": {"coordinates":[-5.525393,55.7938985],"type":"Point"}
+  "geometry": {"coordinates":[-5.525393,55.793898],"type":"Point"}
 }

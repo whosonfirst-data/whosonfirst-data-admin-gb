@@ -66,7 +66,12 @@
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        136253055,
+        102191581,
+        85633159,
+        404227471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2648458,
@@ -78,14 +83,18 @@
     "wof:geomhash":"0a95f3212b36e0da4983fcfd941065a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":-1,
+            "empire_id":136253055,
             "locality_id":1125917147,
+            "macrocounty_id":-1,
+            "macroregion_id":404227471,
             "region_id":-1
         }
     ],
     "wof:id":1125917147,
-    "wof:lastmodified":1566635699,
+    "wof:lastmodified":1700719622,
     "wof:name":"Glenmore",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

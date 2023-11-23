@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.4267575,57.001578,-7.4267575,57.001578",
+    "geom:bbox":"-7.426757,57.001578,-7.426757,57.001578",
     "geom:latitude":57.001578,
     "geom:longitude":-7.426757,
     "gn:country":null,
@@ -44,12 +44,10 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698685,
+        136253055,
         102191581,
-        404429199,
         85633159,
-        404227471,
-        1360699007
+        404227471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,22 +56,23 @@
     },
     "wof:country":"GB",
     "wof:created":1497292572,
-    "wof:geomhash":"794be2b48d0b9b145b6f2d237e83737f",
+    "wof:geomhash":"42bac9f0866797fd3f977dcd0e831edc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "county_id":1360699007,
-            "localadmin_id":404429199,
+            "county_id":-1,
+            "empire_id":136253055,
             "locality_id":1125832705,
+            "macrocounty_id":-1,
             "macroregion_id":404227471,
-            "region_id":1360698685
+            "region_id":-1
         }
     ],
     "wof:id":1125832705,
-    "wof:lastmodified":1566636406,
+    "wof:lastmodified":1700719620,
     "wof:name":"Bayherivagh",
-    "wof:parent_id":404429199,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
@@ -81,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.4267575,
+    -7.426757,
     57.001578,
-    -7.4267575,
+    -7.426757,
     57.001578
 ],
-  "geometry": {"coordinates":[-7.4267575,57.001578],"type":"Point"}
+  "geometry": {"coordinates":[-7.426757,57.001578],"type":"Point"}
 }

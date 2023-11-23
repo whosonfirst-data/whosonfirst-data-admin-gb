@@ -33,13 +33,28 @@
         "Dundee"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880772989,
+        102191581,
+        85633159,
+        404227471,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"4a8eccc664d13a8f3a3f04e5dc66af86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3cb8069a5cc53b199fa668a642e62e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762045,
+            "macroregion_id":404227471,
+            "region_id":1880772989
+        }
+    ],
     "wof:id":1880762045,
     "wof:lang_x_official":[
         "eng"
@@ -50,9 +65,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279056,
+    "wof:lastmodified":1700715419,
     "wof:name":"City of Dundee",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880772989,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

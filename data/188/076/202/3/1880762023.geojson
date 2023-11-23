@@ -247,7 +247,13 @@
     ],
     "src:geom":"os",
     "src:geom_via":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880772999,
+        102191581,
+        85633159,
+        404227471,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:controlled":[
@@ -256,8 +262,17 @@
     ],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"aa64f2b071119097102ba2870e259893",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42806a58fe431725cd5e66476ee2d5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762023,
+            "macroregion_id":404227471,
+            "region_id":1880772999
+        }
+    ],
     "wof:id":1880762023,
     "wof:lang_x_official":[
         "eng"
@@ -268,9 +283,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279000,
+    "wof:lastmodified":1700715427,
     "wof:name":"Shetland",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880772999,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

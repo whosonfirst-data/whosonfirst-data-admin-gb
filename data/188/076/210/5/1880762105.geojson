@@ -142,7 +142,11 @@
     ],
     "src:geom":"os",
     "wof:belongsto":[
-        1880772981
+        1880772981,
+        102191581,
+        85633159,
+        404227471,
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":[],
@@ -151,10 +155,12 @@
     "wof:geomhash":"e61d5283b0b5d68430c6c7e2377347d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
             "macrocounty_id":1880762105,
-            "region_id":-1
+            "macroregion_id":404227471,
+            "region_id":1880772981
         }
     ],
     "wof:id":1880762105,
@@ -167,7 +173,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1699519992,
+    "wof:lastmodified":1700715411,
     "wof:name":"Moray",
     "wof:parent_id":1880772981,
     "wof:placetype":"macrocounty",

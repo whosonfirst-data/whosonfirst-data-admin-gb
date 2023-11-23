@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.3075815,57.056261,-7.3075815,57.056261",
+    "geom:bbox":"-7.307582,57.056261,-7.307582,57.056261",
     "geom:latitude":57.056261,
     "geom:longitude":-7.307582,
     "gn:country":"GB",
@@ -43,7 +43,12 @@
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        136253055,
+        102191581,
+        85633159,
+        404227471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10310,
@@ -51,17 +56,21 @@
     },
     "wof:country":"GB",
     "wof:created":1497291561,
-    "wof:geomhash":"2ea2e55f99bf2fd1cfa7fb88bff77030",
+    "wof:geomhash":"6b51a735d585c9694790866433451840",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":-1,
+            "empire_id":136253055,
             "locality_id":1125808541,
+            "macrocounty_id":-1,
+            "macroregion_id":404227471,
             "region_id":-1
         }
     ],
     "wof:id":1125808541,
-    "wof:lastmodified":1566635048,
+    "wof:lastmodified":1700719620,
     "wof:name":"Acarsaid Mhor",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -71,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.3075815,
+    -7.307582,
     57.056261,
-    -7.3075815,
+    -7.307582,
     57.056261
 ],
-  "geometry": {"coordinates":[-7.3075815,57.056261],"type":"Point"}
+  "geometry": {"coordinates":[-7.307582,57.056261],"type":"Point"}
 }

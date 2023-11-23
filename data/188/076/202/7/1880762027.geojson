@@ -34,13 +34,28 @@
     ],
     "src:geom":"os",
     "src:geom_via":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880773097,
+        102191581,
+        85633159,
+        404227471,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"877f8b000bf64e3b5e4edd4bb0321164",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c26f5f92809e6a3b02ba949263383f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762027,
+            "macroregion_id":404227471,
+            "region_id":1880773097
+        }
+    ],
     "wof:id":1880762027,
     "wof:lang_x_official":[
         "eng"
@@ -51,9 +66,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279030,
+    "wof:lastmodified":1700715422,
     "wof:name":"Western Isles",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880773097,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

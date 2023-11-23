@@ -161,7 +161,11 @@
     "src:geom":"os",
     "src:geom_via":"whosonfirst",
     "wof:belongsto":[
-        1880772977
+        1880772977,
+        102191581,
+        85633159,
+        404227471,
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":[],
@@ -170,10 +174,12 @@
     "wof:geomhash":"59171446ef2a91a2c4ccc595b0f39810",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
             "macrocounty_id":1880762047,
-            "region_id":-1
+            "macroregion_id":404227471,
+            "region_id":1880772977
         }
     ],
     "wof:id":1880762047,
@@ -186,7 +192,7 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1699460315,
+    "wof:lastmodified":1700715414,
     "wof:name":"Argyll and Bute",
     "wof:parent_id":1880772977,
     "wof:placetype":"macrocounty",

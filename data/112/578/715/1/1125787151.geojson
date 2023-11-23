@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.177977,55.9305125,-5.177977,55.9305125",
+    "geom:bbox":"-5.177977,55.930512,-5.177977,55.930512",
     "geom:latitude":55.930512,
     "geom:longitude":-5.177977,
     "gn:country":"GB",
@@ -43,7 +43,12 @@
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        136253055,
+        102191581,
+        85633159,
+        404227471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10931,
@@ -51,17 +56,21 @@
     },
     "wof:country":"GB",
     "wof:created":1497290728,
-    "wof:geomhash":"406c8d2d44a47e5e0a0291fb23f5da7d",
+    "wof:geomhash":"2c2f6314d4e23fa6b4d68d2e3309ed3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":-1,
+            "empire_id":136253055,
             "locality_id":1125787151,
+            "macrocounty_id":-1,
+            "macroregion_id":404227471,
             "region_id":-1
         }
     ],
     "wof:id":1125787151,
-    "wof:lastmodified":1566636131,
+    "wof:lastmodified":1700719619,
     "wof:name":"Ardentraive",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -72,9 +81,9 @@
 },
   "bbox": [
     -5.177977,
-    55.9305125,
+    55.930512,
     -5.177977,
-    55.9305125
+    55.930512
 ],
-  "geometry": {"coordinates":[-5.177977,55.9305125],"type":"Point"}
+  "geometry": {"coordinates":[-5.177977,55.930512],"type":"Point"}
 }

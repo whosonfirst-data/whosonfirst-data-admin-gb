@@ -33,13 +33,28 @@
         "Glasgow"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880772925,
+        102191581,
+        85633159,
+        404227471,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"76a94a14a527a8d28eb65e0b33250948",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1916f4f65f3d507e977019c7f2d07316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762095,
+            "macroregion_id":404227471,
+            "region_id":1880772925
+        }
+    ],
     "wof:id":1880762095,
     "wof:lang_x_official":[
         "eng"
@@ -50,9 +65,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279123,
+    "wof:lastmodified":1700715438,
     "wof:name":"City of Glasgow",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880772925,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

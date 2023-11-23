@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.7796235,56.5231385,-5.7796235,56.5231385",
+    "geom:bbox":"-5.779623,56.523139,-5.779623,56.523139",
     "geom:latitude":56.523139,
     "geom:longitude":-5.779623,
     "gn:country":"GB",
@@ -58,7 +58,12 @@
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        136253055,
+        102191581,
+        85633159,
+        404227471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29390,
@@ -66,17 +71,21 @@
     },
     "wof:country":"GB",
     "wof:created":1497298899,
-    "wof:geomhash":"96bea033f49d50ce743eea28e9c1cbc2",
+    "wof:geomhash":"1abe731e08c870e85aaca0901b97a5b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":-1,
+            "empire_id":136253055,
             "locality_id":1125987837,
+            "macrocounty_id":-1,
+            "macroregion_id":404227471,
             "region_id":-1
         }
     ],
     "wof:id":1125987837,
-    "wof:lastmodified":1566635786,
+    "wof:lastmodified":1700719624,
     "wof:name":"Morvern",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -86,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.7796235,
-    56.5231385,
-    -5.7796235,
-    56.5231385
+    -5.779623,
+    56.523139,
+    -5.779623,
+    56.523139
 ],
-  "geometry": {"coordinates":[-5.7796235,56.5231385],"type":"Point"}
+  "geometry": {"coordinates":[-5.779623,56.523139],"type":"Point"}
 }

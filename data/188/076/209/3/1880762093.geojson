@@ -33,13 +33,28 @@
         "Aberdeen"
     ],
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1880773079,
+        102191581,
+        85633159,
+        404227471,
+        136253055
+    ],
     "wof:breaches":[],
     "wof:concordances":[],
     "wof:coterminous":[],
     "wof:country":"GB",
-    "wof:geomhash":"7e577ea2ce0112402475ab45a94974a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2530564f8d9ede0cd7ab6fd7770b1790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "macrocounty_id":1880762093,
+            "macroregion_id":404227471,
+            "region_id":1880773079
+        }
+    ],
     "wof:id":1880762093,
     "wof:lang_x_official":[
         "eng"
@@ -50,9 +65,9 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1698279122,
+    "wof:lastmodified":1700715438,
     "wof:name":"City of Aberdeen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1880773079,
     "wof:placetype":"macrocounty",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

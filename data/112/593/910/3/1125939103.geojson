@@ -95,12 +95,10 @@
     "woe:name_adm1":"Scotland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360698661,
+        136253055,
         102191581,
-        404436073,
         85633159,
-        404227471,
-        1360699045
+        404227471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,17 +112,18 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "county_id":1360699045,
-            "localadmin_id":404436073,
+            "county_id":-1,
+            "empire_id":136253055,
             "locality_id":1125939103,
+            "macrocounty_id":-1,
             "macroregion_id":404227471,
-            "region_id":1360698661
+            "region_id":-1
         }
     ],
     "wof:id":1125939103,
-    "wof:lastmodified":1566634200,
+    "wof:lastmodified":1700719623,
     "wof:name":"Ardmore",
-    "wof:parent_id":404436073,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
