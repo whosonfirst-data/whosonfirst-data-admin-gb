@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-2.35,53.5,-2.35,53.5",
@@ -27,7 +29,7 @@
     "lbl:bbox":"-2.355,53.495,-2.345,53.505",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Swinton"
@@ -59,14 +61,14 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        1880773095,
         102191581,
         85633159,
         1880762163,
         404227469,
         1175612693,
         136253055,
-        1360699005
+        1360699005,
+        1880773095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,14 +91,16 @@
         }
     ],
     "wof:id":1360806027,
-    "wof:lastmodified":1699952173,
+    "wof:lastmodified":1706239745,
     "wof:name":"Swinton",
     "wof:parent_id":1175612693,
     "wof:placetype":"neighbourhood",
     "wof:population":20000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85790867
+    ],
     "wof:supersedes":[
         1193045017
     ],

@@ -6,9 +6,23 @@
     "edtf:inception":"",
     "geom:area":0.0,
     "geom:area_square_m":0,
-    "geom:bbox":"-1.8950278416,52.43342068,-1.8950278416,52.43342068",
+    "geom:bbox":"-1.895028,52.433421,-1.895028,52.433421",
     "geom:latitude":52.433421,
     "geom:longitude":-1.895028,
+    "gn:admin1_code":"ENG",
+    "gn:admin2_code":"A7",
+    "gn:asciiname":"Kings Heath",
+    "gn:country_code":"GB",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11281384,
+    "gn:latitude":52.43143,
+    "gn:longitude":-1.89406,
+    "gn:modification_date":"2017-06-05",
+    "gn:name":"Kings Heath",
+    "gn:population":0,
+    "gn:timezone":"Europe/London",
     "iso:country":"GB",
     "lbl:bbox":"-1.9000278416,52.42842068,-1.8900278416,52.43842068",
     "lbl:latitude":52.433421,
@@ -47,23 +61,25 @@
     "src:geom":"unknown",
     "wd:wordcount":1011,
     "wof:belongsto":[
-        1880773161,
         102191581,
         85633159,
         1880762069,
         404227469,
         101750467,
         136253055,
-        1360699077
+        1360699077,
+        1880773161
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":11281384,
         "gp:id":43176,
-        "wd:id":"Q3197089"
+        "wd:id":"Q3197089",
+        "wk:page":"Kings_Heath"
     },
     "wof:country":"GB",
     "wof:created":1458871836,
-    "wof:geomhash":"b40486aee014b342f3b5a129d63bfced",
+    "wof:geomhash":"0e453f1744a4db38c75c20c5b31a010a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,20 +94,22 @@
         }
     ],
     "wof:id":420782271,
-    "wof:lastmodified":1699953195,
+    "wof:lastmodified":1706239747,
     "wof:name":"Kings Heath",
     "wof:parent_id":101750467,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360808295
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.8950278416026,
-    52.43342068002531,
-    -1.8950278416026,
-    52.43342068002531
+    -1.895028,
+    52.433421,
+    -1.895028,
+    52.433421
 ],
-  "geometry": {"coordinates":[-1.8950278416026,52.43342068002531],"type":"Point"}
+  "geometry": {"coordinates":[-1.895028,52.433421],"type":"Point"}
 }

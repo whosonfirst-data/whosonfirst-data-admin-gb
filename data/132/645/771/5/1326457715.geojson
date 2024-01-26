@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.85313,57.41797,-1.85313,57.41797",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:cym_x_preferred":[
         "Cruden Bay"
@@ -94,14 +96,16 @@
         }
     ],
     "wof:id":1326457715,
-    "wof:lastmodified":1700723801,
+    "wof:lastmodified":1706239746,
     "wof:name":"Cruden Bay",
     "wof:parent_id":1360699031,
     "wof:placetype":"locality",
     "wof:population":1670,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101873627
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

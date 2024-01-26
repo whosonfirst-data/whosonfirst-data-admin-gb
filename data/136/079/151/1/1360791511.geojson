@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.48423,54.98036,-1.48423,54.98036",
@@ -18,7 +20,7 @@
     "lbl:longitude":-1.48423,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -187,14 +189,14 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773053,
         102191581,
         85633159,
         1880762063,
         404227469,
         101750613,
         136253055,
-        1360698861
+        1360698861,
+        1880773053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -220,14 +222,16 @@
         }
     ],
     "wof:id":1360791511,
-    "wof:lastmodified":1699953374,
+    "wof:lastmodified":1706239748,
     "wof:name":"Jarrow",
     "wof:parent_id":101750613,
     "wof:placetype":"neighbourhood",
     "wof:population":27264,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108937027
+    ],
     "wof:supersedes":[
         1125775281
     ],

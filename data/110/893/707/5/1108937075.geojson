@@ -6,9 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.43140994372,54.944248433,-1.43140994372,54.944248433",
+    "geom:bbox":"-1.43141,54.944248,-1.43141,54.944248",
     "geom:latitude":54.944248,
     "geom:longitude":-1.43141,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":5001,
     "iso:country":"GB",
     "lbl:bbox":"-1.43640994372,54.939248433,-1.42640994372,54.949248433",
     "lbl:latitude":54.944248,
@@ -22,23 +25,93 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_metro":15,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u043b\u0434\u044a\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "East Boldon"
+    ],
+    "name:ceb_x_variant":[
+        "The Boldons"
+    ],
+    "name:eng_x_preferred":[
+        "East Boldon"
+    ],
+    "name:eng_x_variant":[
+        "The Boldons"
+    ],
+    "name:fra_x_preferred":[
+        "The Boldons"
+    ],
+    "name:gle_x_preferred":[
+        "The Boldons"
+    ],
+    "name:ita_x_preferred":[
+        "The Boldons"
+    ],
+    "name:nld_x_preferred":[
+        "The Boldons"
+    ],
+    "name:nob_x_preferred":[
+        "The Boldons"
+    ],
+    "name:pol_x_preferred":[
+        "The Boldons"
+    ],
+    "name:swe_x_preferred":[
+        "East Boldon"
+    ],
+    "name:swe_x_variant":[
+        "The Boldons"
+    ],
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:gn_country":"GB",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2650498,
+    "qs_pg:gn_pop":5001,
+    "qs_pg:name":"East Boldon",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":1632,
+    "qs_pg:photos_1k":331,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1632,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":215205,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":18907,
     "src:lbl_centroid":"mz",
+    "src:population":"geonames",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773053,
         102191581,
         85633159,
         1880762063,
         404227469,
         101750613,
         136253055,
-        1360698861
+        1360698861,
+        1880773053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":2650498,
+        "gp:id":18907,
+        "qs_pg:id":215205,
+        "wd:id":"Q1619083"
+    },
     "wof:country":"GB",
     "wof:created":1491359431,
-    "wof:geomhash":"4776a3546da4fcac28033f0a34a6e413",
+    "wof:geomhash":"1b291f22da48fd59ced8ce1239a26ea9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,20 +126,24 @@
         }
     ],
     "wof:id":1108937075,
-    "wof:lastmodified":1699953218,
+    "wof:lastmodified":1706239748,
     "wof:name":"East Boldon",
     "wof:parent_id":101750613,
     "wof:placetype":"neighbourhood",
+    "wof:population":5001,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360798519
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.43140994372307,
-    54.94424843300533,
-    -1.43140994372307,
-    54.94424843300533
+    -1.43141,
+    54.944248,
+    -1.43141,
+    54.944248
 ],
-  "geometry": {"coordinates":[-1.43140994372307,54.94424843300533],"type":"Point"}
+  "geometry": {"coordinates":[-1.43141,54.944248],"type":"Point"}
 }

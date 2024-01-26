@@ -9,6 +9,21 @@
     "geom:bbox":"-4.758635,50.333055,-4.758635,50.333055",
     "geom:latitude":50.333055,
     "geom:longitude":-4.758635,
+    "gn:admin1_code":"ENG",
+    "gn:admin2_code":"C6",
+    "gn:admin3_code":"00HE132",
+    "gn:asciiname":"Charlestown",
+    "gn:country_code":"GB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2653335,
+    "gn:latitude":50.33286,
+    "gn:longitude":-4.75811,
+    "gn:modification_date":"2016-05-16",
+    "gn:name":"Charlestown",
+    "gn:population":0,
+    "gn:timezone":"Europe/London",
     "iso:country":"GB",
     "lbl:bbox":"-4.763635,50.328055,-4.753635,50.338055",
     "lbl:latitude":50.333056,
@@ -91,7 +106,6 @@
     "wd:longitude":-4.7578,
     "wd:wordcount":1774,
     "wof:belongsto":[
-        1880773165,
         102191581,
         1880762119,
         404444015,
@@ -99,7 +113,8 @@
         404227469,
         1360758635,
         136253055,
-        1360699085
+        1360699085,
+        1880773165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +125,15 @@
         "wk:page":"Charlestown, Cornwall"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1113446
+        "gn:id":[
+            2653335
+        ],
+        "qs_pg:id":[
+            1113446
+        ],
+        "wk:page":[
+            "Charlestown%2C_Cornwall"
+        ]
     },
     "wof:country":"GB",
     "wof:geomhash":"aa3f661146dc103e67cf18cf74e4038d",
@@ -129,14 +152,15 @@
         }
     ],
     "wof:id":1360790683,
-    "wof:lastmodified":1699953262,
+    "wof:lastmodified":1706239751,
     "wof:name":"Charlestown",
     "wof:parent_id":1360758635,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        101852425
+        101852425,
+        1360809285
     ],
     "wof:tags":[]
 },

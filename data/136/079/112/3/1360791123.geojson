@@ -9,6 +9,21 @@
     "geom:bbox":"-1.703078,54.769601,-1.703078,54.769601",
     "geom:latitude":54.769601,
     "geom:longitude":-1.703078,
+    "gn:admin1_code":"ENG",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"00EJ014",
+    "gn:asciiname":"Esh Winning",
+    "gn:country_code":"GB",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593177,
+    "gn:latitude":54.77084,
+    "gn:longitude":-1.70322,
+    "gn:modification_date":"2017-06-21",
+    "gn:name":"Esh Winning",
+    "gn:population":0,
+    "gn:timezone":"Europe/London",
     "iso:country":"GB",
     "lbl:bbox":"-1.708078,54.764601,-1.698078,54.774601",
     "lbl:latitude":54.769602,
@@ -64,7 +79,6 @@
     "wd:longitude":-1.70366,
     "wd:wordcount":888,
     "wof:belongsto":[
-        1880773141,
         102191581,
         1880762117,
         404454579,
@@ -72,7 +86,8 @@
         404227469,
         1360753835,
         136253055,
-        1360699055
+        1360699055,
+        1880773141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +97,12 @@
         "wd:id":"Q5397758"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":492333
+        "gn:id":[
+            11593177
+        ],
+        "qs_pg:id":[
+            492333
+        ]
     },
     "wof:country":"GB",
     "wof:geomhash":"7aabc8440f1571f7db02b455c96df81d",
@@ -101,14 +121,15 @@
         }
     ],
     "wof:id":1360791123,
-    "wof:lastmodified":1699953309,
+    "wof:lastmodified":1706239751,
     "wof:name":"Esh Winning",
     "wof:parent_id":1360753835,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        101873333
+        101873333,
+        1360809149
     ],
     "wof:tags":[]
 },

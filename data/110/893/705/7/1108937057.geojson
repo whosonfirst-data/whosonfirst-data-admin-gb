@@ -6,9 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.51708668569,54.9723306682,-1.51708668569,54.9723306682",
+    "geom:bbox":"-1.517087,54.972331,-1.517087,54.972331",
     "geom:latitude":54.972331,
     "geom:longitude":-1.517087,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":18808,
     "iso:country":"GB",
     "lbl:bbox":"-1.52208668569,54.9673306682,-1.51208668569,54.9773306682",
     "lbl:latitude":54.972331,
@@ -22,7 +25,14 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_metro":15,
+    "name:ast_x_preferred":[
+        "Hebburn"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u0431\u0443\u0440\u043d"
+    ],
     "name:ceb_x_preferred":[
         "Hebburn"
     ],
@@ -30,6 +40,9 @@
         "Hebburn"
     ],
     "name:deu_x_preferred":[
+        "Hebburn"
+    ],
+    "name:eng_x_preferred":[
         "Hebburn"
     ],
     "name:fas_x_preferred":[
@@ -44,6 +57,21 @@
     "name:ita_x_preferred":[
         "Hebburn"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30d0\u30fc\u30f3"
+    ],
+    "name:lld_x_preferred":[
+        "Hebburn"
+    ],
+    "name:nld_x_preferred":[
+        "Hebburn"
+    ],
+    "name:nld_x_variant":[
+        "Darrington"
+    ],
+    "name:nno_x_preferred":[
+        "Hebburn"
+    ],
     "name:pol_x_preferred":[
         "Hebburn"
     ],
@@ -53,22 +81,58 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0431\u0431\u0443\u0440\u043d"
     ],
+    "name:und_x_variant":[
+        "Hebburn-on-Tyne"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u4f2f\u6069"
+    ],
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:gn_country":"GB",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2647209,
+    "qs_pg:gn_pop":18808,
+    "qs_pg:name":"Hebburn",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":280,
+    "qs_pg:photos_1k":57,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":280,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1071365,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":22894,
     "src:lbl_centroid":"mz",
+    "src:population":"geonames",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773053,
         102191581,
         85633159,
         1880762063,
         404227469,
         101750613,
         136253055,
-        1360698861
+        1360698861,
+        1880773053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":2647209,
+        "gp:id":22894,
+        "qs_pg:id":1071365,
+        "wd:id":"Q984308"
+    },
     "wof:country":"GB",
     "wof:created":1491359411,
-    "wof:geomhash":"28f84c5e5187dd3d692d1074128f0426",
+    "wof:geomhash":"94a69f3b5d217d9b05f51bf67ce85ab3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,20 +147,24 @@
         }
     ],
     "wof:id":1108937057,
-    "wof:lastmodified":1699953209,
+    "wof:lastmodified":1706239748,
     "wof:name":"Hebburn",
     "wof:parent_id":101750613,
     "wof:placetype":"neighbourhood",
+    "wof:population":18808,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360805457
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.5170866856914,
-    54.97233066824489,
-    -1.5170866856914,
-    54.97233066824489
+    -1.517087,
+    54.972331,
+    -1.517087,
+    54.972331
 ],
-  "geometry": {"coordinates":[-1.5170866856914,54.97233066824489],"type":"Point"}
+  "geometry": {"coordinates":[-1.517087,54.972331],"type":"Point"}
 }

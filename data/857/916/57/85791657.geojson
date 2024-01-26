@@ -13,6 +13,7 @@
     "gn:latitude":51.44941,
     "gn:longitude":-0.35688,
     "iso:country":"GB",
+    "lbl:bbox":"-0.32165,51.424999,-0.31165,51.434999",
     "lbl:latitude":51.450875,
     "lbl:longitude":-0.356833,
     "lbl:max_zoom":18.0,
@@ -74,6 +75,21 @@
     "qs:woe_lau":12695836,
     "qs:woe_local":44418,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Whitton",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":1842,
+    "qs_pg:photos_1k":373,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1842,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1073937,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":40362,
     "reversegeo:latitude":51.427372,
     "reversegeo:longitude":-0.315813,
     "src:geom":"mz",
@@ -82,8 +98,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":104,
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
-        1880762729,
         102191581,
         1880762179,
         85633159,
@@ -91,7 +110,8 @@
         101750367,
         136253055,
         1158857311,
-        1880771825
+        1880771825,
+        1880762729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,6 +120,17 @@
         "gp:id":40362,
         "qs_pg:id":1073937,
         "wd:id":"Q7996944"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            40362
+        ],
+        "qs_pg:id":[
+            1073937
+        ],
+        "wd:id":[
+            "Q7996944"
+        ]
     },
     "wof:country":"GB",
     "wof:geom_alt":[
@@ -124,13 +155,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1699953052,
+    "wof:lastmodified":1706239745,
     "wof:name":"Whitton",
     "wof:parent_id":1158857311,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126088855
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.89406,52.43143,-1.89406,52.43143",
@@ -27,7 +29,7 @@
     "lbl:bbox":"-1.89906,52.42643,-1.88906,52.43643",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:cat_x_preferred":[
         "Kings Heath"
@@ -43,14 +45,14 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1880773161,
         102191581,
         85633159,
         1880762069,
         404227469,
         101750467,
         136253055,
-        1360699077
+        1360699077,
+        1880773161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +60,7 @@
         "wk:page":"Kings_Heath"
     },
     "wof:country":"GB",
-    "wof:geomhash":"415a997817d15dd33695ae685948301f",
+    "wof:geomhash":"bd1c8fedf06e99c07685aad0d3c7faac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":1360808295,
-    "wof:lastmodified":1699952241,
+    "wof:lastmodified":1706239747,
     "wof:name":"Kings Heath",
     "wof:parent_id":101750467,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420782271
+    ],
     "wof:supersedes":[
         1293912113
     ],
@@ -86,9 +90,9 @@
 },
   "bbox": [
     -1.89406,
-    52.43143000000001,
+    52.43143,
     -1.89406,
-    52.43143000000001
+    52.43143
 ],
-  "geometry": {"coordinates":[-1.89406,52.43143000000001],"type":"Point"}
+  "geometry": {"coordinates":[-1.89406,52.43143],"type":"Point"}
 }

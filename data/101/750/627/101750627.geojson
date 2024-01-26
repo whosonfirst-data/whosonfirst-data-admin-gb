@@ -9,7 +9,22 @@
     "geom:bbox":"-4.095241,55.750013,-4.017792,55.794637",
     "geom:latitude":55.772561,
     "geom:longitude":-4.058368,
+    "gn:admin1_code":"SCT",
+    "gn:admin2_code":"W5",
+    "gn:asciiname":"Hamilton",
+    "gn:country_code":"GB",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2647570,
+    "gn:latitude":55.76667,
+    "gn:longitude":-4.03333,
+    "gn:modification_date":"2017-06-15",
+    "gn:name":"Hamilton",
+    "gn:population":53200,
+    "gn:timezone":"Europe/London",
     "iso:country":"GB",
+    "lbl:bbox":"-4.05333,55.74667,-4.01333,55.78667",
     "lbl:latitude":55.778175,
     "lbl:longitude":-4.061008,
     "lbl:max_zoom":18.0,
@@ -277,6 +292,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:latitude":55.78,
     "wd:longitude":-4.068056,
     "wd:wordcount":1983,
@@ -298,7 +314,15 @@
         "wk:page":"Hamilton, South Lanarkshire"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1082108
+        "gn:id":[
+            2647570
+        ],
+        "qs_pg:id":[
+            1082108
+        ],
+        "wk:page":[
+            "Hamilton%2C_South_Lanarkshire"
+        ]
     },
     "wof:country":"GB",
     "wof:geom_alt":[
@@ -318,13 +342,17 @@
         }
     ],
     "wof:id":101750627,
-    "wof:lastmodified":1700718138,
+    "wof:lastmodified":1706239746,
     "wof:name":"Hamilton",
     "wof:parent_id":1360698969,
     "wof:placetype":"locality",
+    "wof:population":53200,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226277905
+    ],
     "wof:tags":[]
 },
   "bbox": [

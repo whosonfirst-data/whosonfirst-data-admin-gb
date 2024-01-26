@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-5.881249,54.581459,-5.881249,54.581459",
@@ -18,7 +20,7 @@
     "lbl:longitude":-5.881249,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
@@ -55,14 +57,14 @@
     "woe:name_adm1":"Northern Ireland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1360699229,
         102191581,
         85633159,
         1880762237,
         404227473,
         101751931,
         136253055,
-        1880762251
+        1880762251,
+        1360699229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +74,9 @@
         "wd:id":"Q17984424"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":92251
+        "qs_pg:id":[
+            92251
+        ]
     },
     "wof:country":"GB",
     "wof:created":1497296566,
@@ -91,14 +95,16 @@
         }
     ],
     "wof:id":1360702897,
-    "wof:lastmodified":1699164246,
+    "wof:lastmodified":1706239747,
     "wof:name":"Castlereagh",
     "wof:parent_id":101751931,
     "wof:placetype":"neighbourhood",
     "wof:population":56679,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108936211
+    ],
     "wof:supersedes":[
         1125843433,
         1125923627

@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.68617798293,54.9713609417,-1.68617798293,54.9713609417",
+    "geom:bbox":"-1.686178,54.971361,-1.686178,54.971361",
     "geom:latitude":54.971361,
     "geom:longitude":-1.686178,
     "iso:country":"GB",
@@ -15,7 +17,7 @@
     "lbl:longitude":-1.686178,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -25,20 +27,20 @@
     "mz:tier_metro":15,
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1880773053,
         102191581,
         85633159,
         1880762063,
         404227469,
         101750617,
         136253055,
-        1360698961
+        1360698961,
+        1880773053
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"GB",
     "wof:created":1491359355,
-    "wof:geomhash":"8e807f48a3327cd6d9111cf1267cd2ae",
+    "wof:geomhash":"7a311e54c46584f530ca452dff2da52f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,20 +55,22 @@
         }
     ],
     "wof:id":1108936961,
-    "wof:lastmodified":1699952864,
+    "wof:lastmodified":1706239745,
     "wof:name":"Scotswood",
     "wof:parent_id":101750617,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85790201
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -1.68617798292501,
-    54.97136094170497,
-    -1.68617798292501,
-    54.97136094170497
+    -1.686178,
+    54.971361,
+    -1.686178,
+    54.971361
 ],
-  "geometry": {"coordinates":[-1.68617798292501,54.97136094170497],"type":"Point"}
+  "geometry": {"coordinates":[-1.686178,54.971361],"type":"Point"}
 }

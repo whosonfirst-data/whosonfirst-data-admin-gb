@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-4.75811,50.33286,-4.75811,50.33286",
@@ -28,7 +30,7 @@
     "lbl:bbox":"-4.76311,50.32786,-4.75311,50.33786",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:eus_x_preferred":[
         "Charlestown"
@@ -56,7 +58,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1880773165,
         102191581,
         1880762119,
         404444015,
@@ -64,7 +65,8 @@
         404227469,
         1360758635,
         136253055,
-        1360699085
+        1360699085,
+        1880773165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,12 +90,14 @@
         }
     ],
     "wof:id":1360809285,
-    "wof:lastmodified":1699952230,
+    "wof:lastmodified":1706239751,
     "wof:name":"Charlestown",
     "wof:parent_id":1360758635,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1360790683
+    ],
     "wof:supersedes":[
         1344085855
     ],

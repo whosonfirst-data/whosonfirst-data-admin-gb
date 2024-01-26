@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-0.38538,51.31924,-0.38538,51.31924",
@@ -28,11 +30,10 @@
     "lbl:bbox":"-0.39038,51.31424,-0.38038,51.32424",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1880762727,
         102191581,
         1880761993,
         1360817207,
@@ -40,7 +41,8 @@
         404227469,
         1126029813,
         136253055,
-        1880771665
+        1880771665,
+        1880762727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":1360808193,
-    "wof:lastmodified":1699952583,
+    "wof:lastmodified":1706239751,
     "wof:name":"Stoke D'Abernon",
     "wof:parent_id":1126029813,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1360793431
+    ],
     "wof:supersedes":[
         1293524749
     ],

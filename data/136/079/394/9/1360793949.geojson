@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.30857,53.76322,-1.30857,53.76322",
@@ -18,7 +20,7 @@
     "lbl:longitude":-1.30857,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
@@ -57,7 +59,6 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1880773017,
         102191581,
         1880762059,
         404454355,
@@ -65,7 +66,8 @@
         404227469,
         1125904693,
         136253055,
-        1360698749
+        1360698749,
+        1880773017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,14 +93,16 @@
         }
     ],
     "wof:id":1360793949,
-    "wof:lastmodified":1699953116,
+    "wof:lastmodified":1706239748,
     "wof:name":"Ledsham",
     "wof:parent_id":1125904693,
     "wof:placetype":"neighbourhood",
     "wof:population":162,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108949043
+    ],
     "wof:supersedes":[
         1125836247
     ],

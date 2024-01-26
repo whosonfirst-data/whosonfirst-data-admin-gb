@@ -11,6 +11,7 @@
     "geom:longitude":-0.135636,
     "gn:id":"",
     "iso:country":"GB",
+    "lbl:bbox":"-0.155289,51.457991,-0.145289,51.467991",
     "lbl:latitude":51.462921,
     "lbl:longitude":-0.138854,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":7,
     "mz:tier_metro":1,
     "name:ara_x_preferred":[
@@ -153,6 +155,22 @@
     "qs:woe_lau":12695813,
     "qs:woe_local":44418,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:name":"Clapham",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":2075,
+    "qs_pg:photos_1k":420,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2075,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":215513,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":16155,
     "reversegeo:latitude":51.460261,
     "reversegeo:longitude":-0.138631,
     "src:geom":"mz",
@@ -164,8 +182,11 @@
     "wd:latitude":51.463231,
     "wd:longitude":-0.133939,
     "wd:wordcount":2223,
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
-        1880762729,
         102191581,
         1880762179,
         85633159,
@@ -173,13 +194,25 @@
         101750367,
         136253055,
         1158857249,
-        1880771825
+        1880771825,
+        1880762729
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20094310,
         "qs_pg:id":424161,
         "wd:id":"Q146659"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            16155
+        ],
+        "qs_pg:id":[
+            215513
+        ],
+        "wd:id":[
+            "Q146659"
+        ]
     },
     "wof:country":"GB",
     "wof:geom_alt":[
@@ -205,13 +238,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1699953178,
+    "wof:lastmodified":1706239746,
     "wof:name":"Clapham",
     "wof:parent_id":1158857249,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126091545
+    ],
     "wof:tags":[]
 },
   "bbox": [

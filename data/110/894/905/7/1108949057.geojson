@@ -6,9 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.4092036738,53.7359580253,-1.4092036738,53.7359580253",
+    "geom:bbox":"-1.409204,53.735958,-1.409204,53.735958",
     "geom:latitude":53.735958,
     "geom:longitude":-1.409204,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:bbox":"-1.4142036738,53.7309580253,-1.4042036738,53.7409580253",
     "lbl:latitude":53.735958,
@@ -22,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_metro":30,
     "name:gle_x_preferred":[
         "Methley"
@@ -29,22 +33,51 @@
     "name:spa_x_preferred":[
         "Methley"
     ],
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:gn_country":"GB",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2642693,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Methley",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":385129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":28775,
     "src:lbl_centroid":"mz",
+    "src:population":"geonames",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773017,
         102191581,
         85633159,
         1880762059,
         404227469,
         101750579,
         136253055,
-        1360698749
+        1360698749,
+        1880773017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":2642693,
+        "gp:id":28775,
+        "qs_pg:id":385129
+    },
     "wof:country":"GB",
     "wof:created":1491367396,
-    "wof:geomhash":"56ec3578b4a6c749f01809e47d9b96c2",
+    "wof:geomhash":"e4315f1b037adbe50f400d62b5831710",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,20 +92,24 @@
         }
     ],
     "wof:id":1108949057,
-    "wof:lastmodified":1699953252,
+    "wof:lastmodified":1706239749,
     "wof:name":"Methley",
     "wof:parent_id":101750579,
     "wof:placetype":"neighbourhood",
+    "wof:population":1184,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360791191
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.40920367379826,
-    53.73595802526182,
-    -1.40920367379826,
-    53.73595802526182
+    -1.409204,
+    53.735958,
+    -1.409204,
+    53.735958
 ],
-  "geometry": {"coordinates":[-1.40920367379826,53.73595802526182],"type":"Point"}
+  "geometry": {"coordinates":[-1.409204,53.735958],"type":"Point"}
 }

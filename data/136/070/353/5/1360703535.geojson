@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-3.20878,55.9241,-3.20878,55.9241",
@@ -27,7 +29,7 @@
     "lbl:bbox":"-3.21378,55.9191,-3.20378,55.9291",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:eus_x_preferred":[
         "Morningside"
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":1360703535,
-    "wof:lastmodified":1566628879,
+    "wof:lastmodified":1706239745,
     "wof:name":"Morningside",
     "wof:parent_id":101750629,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85789183
+    ],
     "wof:supersedes":[
         1293618263
     ],

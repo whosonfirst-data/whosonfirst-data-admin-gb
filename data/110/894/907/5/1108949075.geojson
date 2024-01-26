@@ -6,9 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.49514884644,53.7309823196,-1.49514884644,53.7309823196",
+    "geom:bbox":"-1.495149,53.730982,-1.495149,53.730982",
     "geom:latitude":53.730982,
     "geom:longitude":-1.495149,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":23458,
     "iso:country":"GB",
     "lbl:bbox":"-1.50014884644,53.7259823196,-1.49014884644,53.7359823196",
     "lbl:latitude":53.730982,
@@ -22,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
         "Lofthouse"
@@ -32,22 +36,47 @@
     "name:rus_x_preferred":[
         "\u041b\u043e\u0444\u0442\u0445\u0430\u0443\u0441"
     ],
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:gn_country":"GB",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2643776,
+    "qs_pg:gn_pop":23458,
+    "qs_pg:name":"Lofthouse",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":179384,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":27285,
     "src:lbl_centroid":"mz",
+    "src:population":"geonames",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773017,
         102191581,
         85633159,
         1880762059,
         404227469,
         101750579,
         136253055,
-        1360698749
+        1360698749,
+        1880773017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":2643776,
+        "gp:id":27285,
+        "qs_pg:id":179384
+    },
     "wof:country":"GB",
     "wof:created":1491367405,
-    "wof:geomhash":"7c447b38b758359dbe58f2ac8f8ae332",
+    "wof:geomhash":"22faf0b061c48397a0f5552c27e23fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,20 +91,24 @@
         }
     ],
     "wof:id":1108949075,
-    "wof:lastmodified":1699953268,
+    "wof:lastmodified":1706239749,
     "wof:name":"Lofthouse",
     "wof:parent_id":101750579,
     "wof:placetype":"neighbourhood",
+    "wof:population":23458,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360795519
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.49514884643626,
-    53.73098231958758,
-    -1.49514884643626,
-    53.73098231958758
+    -1.495149,
+    53.730982,
+    -1.495149,
+    53.730982
 ],
-  "geometry": {"coordinates":[-1.49514884643626,53.73098231958758],"type":"Point"}
+  "geometry": {"coordinates":[-1.495149,53.730982],"type":"Point"}
 }

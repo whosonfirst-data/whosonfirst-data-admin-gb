@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-4.18458,55.39563,-4.18458,55.39563",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "New Cumnock"
@@ -94,14 +96,16 @@
         }
     ],
     "wof:id":1276372653,
-    "wof:lastmodified":1700724139,
+    "wof:lastmodified":1706239746,
     "wof:name":"New Cumnock",
     "wof:parent_id":1360698779,
     "wof:placetype":"locality",
     "wof:population":2840,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101872423
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

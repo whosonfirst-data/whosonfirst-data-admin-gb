@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.35452,53.88118,-1.35452,53.88118",
@@ -18,7 +20,7 @@
     "lbl:longitude":-1.35452,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ben_x_preferred":[
@@ -115,7 +117,6 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773017,
         102191581,
         1880762059,
         404453163,
@@ -123,7 +124,8 @@
         404227469,
         1360758881,
         136253055,
-        1360698749
+        1360698749,
+        1880773017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,14 +152,16 @@
         }
     ],
     "wof:id":1360794457,
-    "wof:lastmodified":1699953101,
+    "wof:lastmodified":1706239748,
     "wof:name":"Bramham",
     "wof:parent_id":1360758881,
     "wof:placetype":"neighbourhood",
     "wof:population":1650,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108948825
+    ],
     "wof:supersedes":[
         1125846737
     ],

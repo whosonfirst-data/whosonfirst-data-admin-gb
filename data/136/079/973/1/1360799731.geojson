@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.72472,53.85855,-1.72472,53.85855",
@@ -18,7 +20,7 @@
     "lbl:longitude":-1.72472,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
@@ -75,14 +77,14 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773017,
         102191581,
         85633159,
         1880762059,
         404227469,
         101750581,
         136253055,
-        1360698963
+        1360698963,
+        1880773017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,12 +110,14 @@
         }
     ],
     "wof:id":1360799731,
-    "wof:lastmodified":1699952033,
+    "wof:lastmodified":1706239749,
     "wof:name":"Esholt",
     "wof:parent_id":101750581,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108949321
+    ],
     "wof:supersedes":[
         1125949649
     ],

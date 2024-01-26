@@ -9,7 +9,10 @@
     "geom:bbox":"-1.568658,54.951774,-1.568658,54.951774",
     "geom:latitude":54.951774,
     "geom:longitude":-1.568658,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
     "gn:id":"",
+    "gn:population":34355,
     "iso:country":"GB",
     "lbl:bbox":"-1.573658,54.946774,-1.563658,54.956774",
     "lbl:latitude":54.951774,
@@ -25,8 +28,18 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "mz:tier_metro":15,
+    "name:bul_x_preferred":[
+        "\u0424\u0435\u043b\u0438\u043d\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Felling"
+    ],
+    "name:ceb_x_preferred":[
+        "Felling"
+    ],
     "name:ces_x_preferred":[
         "K\u00e1cen\u00ed"
     ],
@@ -39,8 +52,29 @@
     "name:est_x_preferred":[
         "Langetamine"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0644\u06cc\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Felling"
+    ],
+    "name:gle_x_preferred":[
+        "Felling"
+    ],
+    "name:ita_x_preferred":[
+        "Felling"
+    ],
+    "name:nld_x_preferred":[
+        "Felling"
+    ],
+    "name:pol_x_preferred":[
+        "Felling"
+    ],
     "name:spa_x_preferred":[
         "Tala"
+    ],
+    "name:swe_x_preferred":[
+        "Felling"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -63,14 +97,25 @@
     "qs:woe_lau":12695858,
     "qs:woe_local":20928,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:gn_country":"GB",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2649578,
+    "qs_pg:gn_pop":34355,
+    "qs_pg:name":"Felling",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":279033,
+    "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
+    "src:population":"geonames",
     "wof:belongsto":[
-        1880773053,
         102191581,
         1880762063,
         1360817105,
@@ -78,12 +123,20 @@
         404227469,
         101750615,
         136253055,
-        1360698881
+        1360698881,
+        1880773053
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2649578,
         "gp:id":23203,
-        "qs_pg:id":1079936
+        "qs_pg:id":1079936,
+        "wd:id":"Q931049"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            279033
+        ]
     },
     "wof:country":"GB",
     "wof:geom_alt":[
@@ -109,13 +162,17 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1699953434,
+    "wof:lastmodified":1706239745,
     "wof:name":"Felling",
     "wof:parent_id":101750615,
     "wof:placetype":"neighbourhood",
+    "wof:population":34355,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360801559
+    ],
     "wof:tags":[]
 },
   "bbox": [

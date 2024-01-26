@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.445946,53.88355,-1.445946,53.88355",
@@ -16,7 +18,7 @@
     "lbl:longitude":-1.445946,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
@@ -76,7 +78,6 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773017,
         102191581,
         1880762059,
         404435555,
@@ -84,7 +85,8 @@
         404227469,
         1360757559,
         136253055,
-        1360698749
+        1360698749,
+        1880773017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,12 +112,14 @@
         }
     ],
     "wof:id":1360797531,
-    "wof:lastmodified":1699951956,
+    "wof:lastmodified":1706239748,
     "wof:name":"Bardsey",
     "wof:parent_id":1360757559,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108948817
+    ],
     "wof:supersedes":[
         1125905727
     ],
