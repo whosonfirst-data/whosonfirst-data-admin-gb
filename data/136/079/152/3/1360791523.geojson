@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -53,6 +54,12 @@
     ],
     "name:deu_x_variant":[
         "Royal Sutton Coldfield"
+    ],
+    "name:eng_x_colloquial":[
+        "Sutton"
+    ],
+    "name:eng_x_historical":[
+        "Royal Town of Sutton Coldfield"
     ],
     "name:eng_x_preferred":[
         "Sutton Coldfield"
@@ -190,14 +197,14 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773161,
         102191581,
         85633159,
+        1360699077,
+        136253055,
+        101750467,
         1880762069,
         404227469,
-        101750467,
-        136253055,
-        1360699077
+        1880773161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -223,7 +230,7 @@
         }
     ],
     "wof:id":1360791523,
-    "wof:lastmodified":1699953375,
+    "wof:lastmodified":1709218889,
     "wof:name":"Sutton Coldfield",
     "wof:parent_id":101750467,
     "wof:placetype":"neighbourhood",
