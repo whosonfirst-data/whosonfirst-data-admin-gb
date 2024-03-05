@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.9349455,52.537356,-1.9349455,52.537356",
+    "geom:bbox":"-1.934945,52.537356,-1.934945,52.537356",
     "geom:latitude":52.537356,
     "geom:longitude":-1.934945,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-1.934945,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:pol_x_preferred":[
@@ -58,7 +60,7 @@
     },
     "wof:country":"GB",
     "wof:created":1497302469,
-    "wof:geomhash":"340a45c5342320ced7e9348a7bf124a3",
+    "wof:geomhash":"31bf1c1ec06b771a91113d6ede34b724",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -72,22 +74,24 @@
         }
     ],
     "wof:id":1360804101,
-    "wof:lastmodified":1699379536,
+    "wof:lastmodified":1706239747,
     "wof:name":"Hamstead",
     "wof:parent_id":1125816695,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420782323
+    ],
     "wof:supersedes":[
         1126046613
     ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.9349455,
+    -1.934945,
     52.537356,
-    -1.9349455,
+    -1.934945,
     52.537356
 ],
-  "geometry": {"coordinates":[-1.9349455,52.537356],"type":"Point"}
+  "geometry": {"coordinates":[-1.934945,52.537356],"type":"Point"}
 }

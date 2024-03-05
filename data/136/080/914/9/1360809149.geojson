@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.70322,54.77084,-1.70322,54.77084",
@@ -28,7 +30,7 @@
     "lbl:bbox":"-1.70822,54.76584,-1.69822,54.77584",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:cym_x_preferred":[
         "Esh Winning"
@@ -41,7 +43,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1880773141,
         102191581,
         1880762117,
         404454579,
@@ -49,7 +50,8 @@
         404227469,
         1360753835,
         136253055,
-        1360699055
+        1360699055,
+        1880773141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":1360809149,
-    "wof:lastmodified":1699952260,
+    "wof:lastmodified":1706239751,
     "wof:name":"Esh Winning",
     "wof:parent_id":1360753835,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1360791123
+    ],
     "wof:supersedes":[
         1343697065
     ],

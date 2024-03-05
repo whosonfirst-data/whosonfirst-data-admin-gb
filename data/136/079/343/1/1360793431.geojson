@@ -9,9 +9,23 @@
     "geom:bbox":"-0.38396,51.31881,-0.38396,51.31881",
     "geom:latitude":51.31881,
     "geom:longitude":-0.38396,
+    "gn:admin1_code":"ENG",
+    "gn:admin2_code":"N7",
+    "gn:admin3_code":"43UE",
+    "gn:asciiname":"Stoke D'Abernon",
     "gn:country":"GB",
+    "gn:country_code":"GB",
+    "gn:dem":29,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2636860,
+    "gn:latitude":51.31924,
+    "gn:longitude":-0.38538,
+    "gn:modification_date":"2014-12-31",
+    "gn:name":"Stoke D\u2019Abernon",
     "gn:population":0,
+    "gn:timezone":"Europe/London",
     "iso:country":"GB",
     "lbl:bbox":"-0.38896,51.31381,-0.37896,51.32381",
     "lbl:latitude":51.31881,
@@ -66,7 +80,6 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1880762727,
         102191581,
         1880761993,
         1360817207,
@@ -74,7 +87,8 @@
         404227469,
         1126029813,
         136253055,
-        1880771665
+        1880771665,
+        1880762727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,6 +96,11 @@
         "gp:id":36221,
         "qs_pg:id":228420,
         "wd:id":"Q7618506"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2636860
+        ]
     },
     "wof:country":"GB",
     "wof:created":1497291624,
@@ -101,14 +120,15 @@
         }
     ],
     "wof:id":1360793431,
-    "wof:lastmodified":1699953531,
+    "wof:lastmodified":1706239751,
     "wof:name":"Stoke D'Abernon",
     "wof:parent_id":1126029813,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125810177
+        1125810177,
+        1360808193
     ],
     "wof:tags":[]
 },

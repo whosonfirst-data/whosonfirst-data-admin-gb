@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-3.213114,55.941509,-3.213114,55.941509",
@@ -16,7 +18,7 @@
     "lbl:longitude":-3.213114,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -112,12 +114,14 @@
         }
     ],
     "wof:id":1360703487,
-    "wof:lastmodified":1690916779,
+    "wof:lastmodified":1706239747,
     "wof:name":"Fountainbridge",
     "wof:parent_id":101750629,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420781429
+    ],
     "wof:supersedes":[
         1126036951
     ],

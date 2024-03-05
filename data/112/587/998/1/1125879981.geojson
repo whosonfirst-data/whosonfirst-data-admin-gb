@@ -61,6 +61,17 @@
     "name:swe_x_preferred":[
         "Horncliffe"
     ],
+    "qs:a0":"United Kingdom",
+    "qs:a1":"NORTHUMBERLAND",
+    "qs:a1r":"England",
+    "qs:a1r_lc":"GB12000000",
+    "qs:adm0":"United Kingdom",
+    "qs:adm0_a3":"GBR",
+    "qs:la":"Horncliffe CP",
+    "qs:la_lc":"E04010809",
+    "qs:level":"localadmin",
+    "qs:source":"UK OS",
+    "qs:type":"Civil Parish or Community",
     "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":"GB",
     "qs_pg:gn_fcode":"PPL",
@@ -102,6 +113,17 @@
         "qs_pg:id":1113683,
         "wd:id":"Q2348000"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7296754
+        ],
+        "qs_pg:id":[
+            1040844
+        ]
+    },
+    "wof:coterminous":[
+        404432881
+    ],
     "wof:country":"GB",
     "wof:created":1497294751,
     "wof:geomhash":"aadc8cd54258e153e9a19c0a262a9362",
@@ -117,13 +139,16 @@
         }
     ],
     "wof:id":1125879981,
-    "wof:lastmodified":1700723255,
+    "wof:label":"Horncliffe Civil Parish",
+    "wof:lastmodified":1706239750,
     "wof:name":"Horncliffe",
     "wof:parent_id":1360699015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360753415
+    ],
     "wof:tags":[]
 },
   "bbox": [

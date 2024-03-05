@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-0.150289,51.462991,-0.150289,51.462991",
@@ -16,7 +18,7 @@
     "lbl:longitude":-0.150289,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -142,7 +144,6 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        1880762729,
         102191581,
         1880762179,
         85633159,
@@ -150,7 +151,8 @@
         101750367,
         136253055,
         1158857249,
-        1880771825
+        1880771825,
+        1880762729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,12 +178,14 @@
         }
     ],
     "wof:id":1126091545,
-    "wof:lastmodified":1699953173,
+    "wof:lastmodified":1706239746,
     "wof:name":"Clapham",
     "wof:parent_id":1158857249,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85861663
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.845682,53.860901,-1.845682,53.860901",
@@ -17,7 +19,7 @@
     "mps:latitude":53.860902,
     "mps:longitude":-1.845682,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Crossflatts"
@@ -58,14 +60,14 @@
     "wd:longitude":-1.845,
     "wd:wordcount":408,
     "wof:belongsto":[
-        1880773017,
         102191581,
         85633159,
         1880762059,
         404227469,
         101750581,
         136253055,
-        1360698963
+        1360698963,
+        1880773017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +76,9 @@
         "wd:id":"Q5188602"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1328076
+        "qs_pg:id":[
+            1328076
+        ]
     },
     "wof:country":"GB",
     "wof:geomhash":"45af4e13248667dc8a1162e24d31bdf4",
@@ -92,12 +96,14 @@
         }
     ],
     "wof:id":1360791059,
-    "wof:lastmodified":1699953318,
+    "wof:lastmodified":1706239750,
     "wof:name":"Crossflatts",
     "wof:parent_id":101750581,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108949359
+    ],
     "wof:supersedes":[
         101872253
     ],

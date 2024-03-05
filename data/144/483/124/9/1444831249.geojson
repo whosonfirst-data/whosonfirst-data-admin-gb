@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.57555932023,51.4669796739,-2.57555932023,51.4669796739",
+    "geom:bbox":"-2.575559,51.46698,-2.575559,51.46698",
     "geom:latitude":51.46698,
     "geom:longitude":-2.575559,
     "iso:country":"GB",
@@ -15,7 +17,7 @@
     "lbl:longitude":-2.575559,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -29,18 +31,18 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        1880772883,
         102191581,
         85633159,
         1880762137,
         404227469,
         1175612699,
         136253055,
-        1360698747
+        1360698747,
+        1880772883
     ],
     "wof:breaches":[],
     "wof:country":"GB",
-    "wof:geomhash":"c6dc42b1ae38dea40859c5eb9fc01aa4",
+    "wof:geomhash":"17ef52a784c462e1eeca9be990771720",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":1444831249,
-    "wof:lastmodified":1699953243,
+    "wof:lastmodified":1706239750,
     "wof:name":"Baptist Mills",
     "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1126087463
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -2.57555932023061,
-    51.46697967390642,
-    -2.57555932023061,
-    51.46697967390642
+    -2.575559,
+    51.46698,
+    -2.575559,
+    51.46698
 ],
-  "geometry": {"coordinates":[-2.57555932023061,51.46697967390642],"type":"Point"}
+  "geometry": {"coordinates":[-2.575559,51.46698],"type":"Point"}
 }

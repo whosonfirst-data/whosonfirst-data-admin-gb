@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.42553971241,54.8889144538,-1.42553971241,54.8889144538",
+    "geom:bbox":"-1.42554,54.888914,-1.42554,54.888914",
     "geom:latitude":54.888914,
     "geom:longitude":-1.42554,
     "iso:country":"GB",
@@ -22,10 +22,30 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_metro":15,
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:name":"Springwell",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":395090,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":44019,
     "src:lbl_centroid":"mz",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773053,
         102191581,
         1880762063,
         1360817213,
@@ -33,13 +53,17 @@
         404227469,
         101750611,
         136253055,
-        1360698987
+        1360698987,
+        1880773053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gp:id":44019,
+        "qs_pg:id":395090
+    },
     "wof:country":"GB",
     "wof:created":1491359496,
-    "wof:geomhash":"ada8dd8beff609b41a0f0456fb4889a6",
+    "wof:geomhash":"1126055fd81da40ca94214ed126b5848",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,20 +79,22 @@
         }
     ],
     "wof:id":1108937167,
-    "wof:lastmodified":1699952953,
+    "wof:lastmodified":1706239748,
     "wof:name":"Springwell",
     "wof:parent_id":101750611,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360798811
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.42553971240506,
-    54.8889144538164,
-    -1.42553971240506,
-    54.8889144538164
+    -1.42554,
+    54.888914,
+    -1.42554,
+    54.888914
 ],
-  "geometry": {"coordinates":[-1.42553971240506,54.8889144538164],"type":"Point"}
+  "geometry": {"coordinates":[-1.42554,54.888914],"type":"Point"}
 }

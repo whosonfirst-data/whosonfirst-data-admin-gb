@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-2.074012,52.567664,-2.074012,52.567664",
@@ -16,7 +18,7 @@
     "lbl:longitude":-2.074012,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
@@ -82,14 +84,14 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773161,
         102191581,
         85633159,
         1880762069,
         404227469,
         1126027181,
         136253055,
-        1360698737
+        1360698737,
+        1880773161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,12 +115,14 @@
         }
     ],
     "wof:id":1360805559,
-    "wof:lastmodified":1699952165,
+    "wof:lastmodified":1706239747,
     "wof:name":"Bilston",
     "wof:parent_id":1126027181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420782345
+    ],
     "wof:supersedes":[
         1126059455
     ],

@@ -6,9 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.57502864737,53.7303391582,-1.57502864737,53.7303391582",
+    "geom:bbox":"-1.575029,53.730339,-1.575029,53.730339",
     "geom:latitude":53.730339,
     "geom:longitude":-1.575029,
+    "gn:country":"GB",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GB",
     "lbl:bbox":"-1.58002864737,53.7253391582,-1.57002864737,53.7353391582",
     "lbl:latitude":53.730339,
@@ -22,32 +25,74 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Tingley"
+    ],
     "name:fra_x_preferred":[
         "Tingley"
     ],
     "name:gle_x_preferred":[
         "Tingley"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30f3\u30b0\u30ec\u30a4"
+    ],
+    "name:nld_x_preferred":[
+        "Tingley"
+    ],
     "name:pol_x_preferred":[
         "Tingley"
     ],
+    "name:pol_x_variant":[
+        "Tingley"
+    ],
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:gn_country":"GB",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6693731,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tingley",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":1432,
+    "qs_pg:photos_1k":290,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1432,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":385216,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":37636,
     "src:lbl_centroid":"mz",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773017,
         102191581,
         85633159,
         1880762059,
         404227469,
         101750579,
         136253055,
-        1360698749
+        1360698749,
+        1880773017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":6693731,
+        "gp:id":37636,
+        "qs_pg:id":385216,
+        "wd:id":"Q7808163"
+    },
     "wof:country":"GB",
     "wof:created":1491367421,
-    "wof:geomhash":"81a0aefafcac2ccd64b0597be9d4d6c0",
+    "wof:geomhash":"c6044db61ca7aa304e50b5488b5ae8a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,20 +107,22 @@
         }
     ],
     "wof:id":1108949107,
-    "wof:lastmodified":1699952971,
+    "wof:lastmodified":1706239749,
     "wof:name":"Tingley",
     "wof:parent_id":101750579,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360798393
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.57502864737011,
-    53.7303391581852,
-    -1.57502864737011,
-    53.7303391581852
+    -1.575029,
+    53.730339,
+    -1.575029,
+    53.730339
 ],
-  "geometry": {"coordinates":[-1.57502864737011,53.7303391581852],"type":"Point"}
+  "geometry": {"coordinates":[-1.575029,53.730339],"type":"Point"}
 }

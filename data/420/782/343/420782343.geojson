@@ -6,7 +6,7 @@
     "edtf:inception":"",
     "geom:area":0.0,
     "geom:area_square_m":0,
-    "geom:bbox":"-2.05358581323,52.5838373901,-2.05358581323,52.5838373901",
+    "geom:bbox":"-2.053586,52.583837,-2.053586,52.583837",
     "geom:latitude":52.583837,
     "geom:longitude":-2.053586,
     "iso:country":"GB",
@@ -22,6 +22,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18,
     "mz:min_zoom":13,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0644\u0646\u0647\u0627\u0644"
@@ -68,22 +69,46 @@
     "name:zho_x_preferred":[
         "\u5a01\u502b\u5e0c\u723e"
     ],
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:name":"Willenhall",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":528,
+    "qs_pg:photos_1k":107,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":528,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1079754,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":40511,
     "src:geom":"unknown",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773161,
         102191581,
         85633159,
         1880762069,
         404227469,
         1125853123,
         136253055,
-        1360698875
+        1360698875,
+        1880773161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gp:id":40511,
+        "qs_pg:id":1079754
+    },
     "wof:country":"GB",
     "wof:created":1458871838,
-    "wof:geomhash":"6354770c3651b959556edc1ec0abcc9c",
+    "wof:geomhash":"a3b66c7b3aed2eada38aeb270616d678",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,20 +123,22 @@
         }
     ],
     "wof:id":420782343,
-    "wof:lastmodified":1699951950,
+    "wof:lastmodified":1706239747,
     "wof:name":"Willenhall",
     "wof:parent_id":1125853123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360792225
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -2.05358581322705,
-    52.58383739012366,
-    -2.05358581322705,
-    52.58383739012366
+    -2.053586,
+    52.583837,
+    -2.053586,
+    52.583837
 ],
-  "geometry": {"coordinates":[-2.05358581322705,52.58383739012366],"type":"Point"}
+  "geometry": {"coordinates":[-2.053586,52.583837],"type":"Point"}
 }

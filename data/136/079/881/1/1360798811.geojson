@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.426442,54.891132,-1.426442,54.891132",
@@ -16,7 +18,7 @@
     "lbl:longitude":-1.426442,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"GB",
@@ -43,7 +45,6 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773053,
         102191581,
         1880762063,
         1360817213,
@@ -51,7 +52,8 @@
         404227469,
         101750611,
         136253055,
-        1360698987
+        1360698987,
+        1880773053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,12 +78,14 @@
         }
     ],
     "wof:id":1360798811,
-    "wof:lastmodified":1699952394,
+    "wof:lastmodified":1706239748,
     "wof:name":"Springwell",
     "wof:parent_id":101750611,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108937167
+    ],
     "wof:supersedes":[
         1125925619
     ],

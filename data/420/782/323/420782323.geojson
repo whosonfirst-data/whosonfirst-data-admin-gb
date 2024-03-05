@@ -6,7 +6,7 @@
     "edtf:inception":"",
     "geom:area":0.0,
     "geom:area_square_m":0,
-    "geom:bbox":"-1.93828653036,52.5361979059,-1.93828653036,52.5361979059",
+    "geom:bbox":"-1.938287,52.536198,-1.938287,52.536198",
     "geom:latitude":52.536198,
     "geom:longitude":-1.938287,
     "iso:country":"GB",
@@ -22,12 +22,34 @@
     "mz:is_official":0,
     "mz:max_zoom":18,
     "mz:min_zoom":14,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":0,
     "name:pol_x_preferred":[
         "Hamstead"
     ],
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:name":"Hamstead",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":108,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":108,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":975520,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":22319,
     "src:geom":"unknown",
+    "src:lbl_centroid":"qs_pg",
     "wd:wordcount":32,
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         1360817335,
         1880762069,
@@ -35,10 +57,13 @@
         1360699035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gp:id":22319,
+        "qs_pg:id":975520
+    },
     "wof:country":"GB",
     "wof:created":1458871837,
-    "wof:geomhash":"db39b9cd3ddc96162bb599f950dbbd4c",
+    "wof:geomhash":"a122c9d6c2dfef0bb7e6bfd4df386fcc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,20 +77,22 @@
         }
     ],
     "wof:id":420782323,
-    "wof:lastmodified":1699379533,
+    "wof:lastmodified":1706239747,
     "wof:name":"Hamstead",
     "wof:parent_id":1125816695,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360804101
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.93828653036048,
-    52.53619790590716,
-    -1.93828653036048,
-    52.53619790590716
+    -1.938287,
+    52.536198,
+    -1.938287,
+    52.536198
 ],
-  "geometry": {"coordinates":[-1.93828653036048,52.53619790590716],"type":"Point"}
+  "geometry": {"coordinates":[-1.938287,52.536198],"type":"Point"}
 }

@@ -9,6 +9,20 @@
     "geom:bbox":"-3.747851,55.86021,-3.747851,55.86021",
     "geom:latitude":55.86021,
     "geom:longitude":-3.747851,
+    "gn:admin1_code":"SCT",
+    "gn:admin2_code":"V8",
+    "gn:asciiname":"Harthill",
+    "gn:country_code":"GB",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2647406,
+    "gn:latitude":55.86067,
+    "gn:longitude":-3.75166,
+    "gn:modification_date":"2017-06-13",
+    "gn:name":"Harthill",
+    "gn:population":3710,
+    "gn:timezone":"Europe/London",
     "iso:country":"GB",
     "lbl:bbox":"-3.767851,55.84021,-3.727851,55.88021",
     "lbl:latitude":55.86021,
@@ -71,6 +85,7 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         1880773061,
         102191581,
@@ -89,7 +104,15 @@
         "wk:page":"Harthill, Scotland"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":140817
+        "gn:id":[
+            2647406
+        ],
+        "qs_pg:id":[
+            140817
+        ],
+        "wk:page":[
+            "Harthill%2C_Scotland"
+        ]
     },
     "wof:country":"GB",
     "wof:geom_alt":[
@@ -110,13 +133,17 @@
         }
     ],
     "wof:id":101872511,
-    "wof:lastmodified":1700723794,
+    "wof:lastmodified":1706239746,
     "wof:name":"Harthill",
     "wof:parent_id":1360698949,
     "wof:placetype":"locality",
+    "wof:population":3710,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293516743
+    ],
     "wof:tags":[]
 },
   "bbox": [

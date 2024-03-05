@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.82646977578,53.8483718098,-1.82646977578,53.8483718098",
+    "geom:bbox":"-1.82647,53.848372,-1.82647,53.848372",
     "geom:latitude":53.848372,
     "geom:longitude":-1.82647,
     "iso:country":"GB",
@@ -22,23 +22,47 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_metro":30,
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:name":"Ferncliffe",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":974210,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":20094,
     "src:lbl_centroid":"mz",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773017,
         102191581,
         85633159,
         1880762059,
         404227469,
         101750581,
         136253055,
-        1360698963
+        1360698963,
+        1880773017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gp:id":20094,
+        "qs_pg:id":974210
+    },
     "wof:country":"GB",
     "wof:created":1491367575,
-    "wof:geomhash":"ca19fde51d3b2a291c1927c1474d326c",
+    "wof:geomhash":"932b9a8aeb84a6ad464d8e49381bf5a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,20 +77,22 @@
         }
     ],
     "wof:id":1108949347,
-    "wof:lastmodified":1699953315,
+    "wof:lastmodified":1706239750,
     "wof:name":"Ferncliffe",
     "wof:parent_id":101750581,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360803995
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.82646977577526,
-    53.84837180979124,
-    -1.82646977577526,
-    53.84837180979124
+    -1.82647,
+    53.848372,
+    -1.82647,
+    53.848372
 ],
-  "geometry": {"coordinates":[-1.82646977577526,53.84837180979124],"type":"Point"}
+  "geometry": {"coordinates":[-1.82647,53.848372],"type":"Point"}
 }

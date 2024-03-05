@@ -9,6 +9,21 @@
     "geom:bbox":"-2.233126,53.417107,-2.233126,53.417107",
     "geom:latitude":53.417107,
     "geom:longitude":-2.233126,
+    "gn:admin1_code":"ENG",
+    "gn:admin2_code":"I2",
+    "gn:admin3_code":"00BN001",
+    "gn:asciiname":"Didsbury",
+    "gn:country_code":"GB",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6620310,
+    "gn:latitude":53.41698,
+    "gn:longitude":-2.23145,
+    "gn:modification_date":"2011-03-03",
+    "gn:name":"Didsbury",
+    "gn:population":14292,
+    "gn:timezone":"Europe/London",
     "iso:country":"GB",
     "lbl:bbox":"-2.23812593657,53.4121065552,-2.22812593657,53.4221065552",
     "lbl:latitude":53.417107,
@@ -93,23 +108,30 @@
         "\u8fea\u5179\u4f2f\u5229"
     ],
     "src:geom":"unknown",
+    "src:population":"geonames",
     "wd:wordcount":5429,
     "wof:belongsto":[
-        1880773095,
         102191581,
         85633159,
         1880762163,
         404227469,
         101750525,
         136253055,
-        1360698893
+        1360698893,
+        1880773095
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6620310,
         "gp:id":18170,
         "qs_pg:id":1074121,
-        "wd:id":"Q1210672"
+        "wd:id":"Q1210672",
+        "wk:page":"Didsbury"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6620310
+        ]
     },
     "wof:country":"GB",
     "wof:created":1458871929,
@@ -128,13 +150,17 @@
         }
     ],
     "wof:id":420784511,
-    "wof:lastmodified":1699951946,
+    "wof:lastmodified":1706239747,
     "wof:name":"Didsbury",
     "wof:parent_id":101750525,
     "wof:placetype":"neighbourhood",
+    "wof:population":14292,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360806553
+    ],
     "wof:tags":[]
 },
   "bbox": [

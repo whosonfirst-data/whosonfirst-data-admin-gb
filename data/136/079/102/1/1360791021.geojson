@@ -9,6 +9,21 @@
     "geom:bbox":"-0.832174,53.604962,-0.832174,53.604962",
     "geom:latitude":53.604962,
     "geom:longitude":-0.832174,
+    "gn:admin1_code":"ENG",
+    "gn:admin2_code":"J3",
+    "gn:admin3_code":"00FD015",
+    "gn:asciiname":"Crowle",
+    "gn:country_code":"GB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2651841,
+    "gn:latitude":53.60753,
+    "gn:longitude":-0.83256,
+    "gn:modification_date":"2017-06-12",
+    "gn:name":"Crowle",
+    "gn:population":3928,
+    "gn:timezone":"Europe/London",
     "iso:country":"GB",
     "lbl:bbox":"-0.837174,53.599962,-0.827174,53.609962",
     "lbl:latitude":53.604963,
@@ -126,11 +141,11 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:latitude":53.60735,
     "wd:longitude":-0.832108,
     "wd:wordcount":3361,
     "wof:belongsto":[
-        1880762701,
         102191581,
         1880762033,
         404431527,
@@ -138,7 +153,8 @@
         404227469,
         1360756097,
         136253055,
-        1360698901
+        1360698901,
+        1880762701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,7 +165,15 @@
         "wk:page":"Crowle, Lincolnshire"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1189138
+        "gn:id":[
+            2651841
+        ],
+        "qs_pg:id":[
+            1189138
+        ],
+        "wk:page":[
+            "Crowle%2C_Lincolnshire"
+        ]
     },
     "wof:country":"GB",
     "wof:geomhash":"b8916c1adc8c42c690c412489e06e2c4",
@@ -168,14 +192,17 @@
         }
     ],
     "wof:id":1360791021,
-    "wof:lastmodified":1699953295,
+    "wof:lastmodified":1706239751,
     "wof:name":"Crowle",
     "wof:parent_id":1360756097,
     "wof:placetype":"neighbourhood",
+    "wof:population":3928,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        101872169
+        101872169,
+        1360806887
     ],
     "wof:tags":[]
 },

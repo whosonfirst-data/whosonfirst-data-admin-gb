@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-2.51199,54.11823,-2.51199,54.11823",
@@ -29,7 +31,7 @@
     "lbl:bbox":"-2.51699,54.11323,-2.50699,54.12323",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0628\u0646\u062a\u0647\u0627\u0645"
@@ -67,7 +69,6 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        1880772891,
         102191581,
         1880762011,
         404436793,
@@ -75,7 +76,8 @@
         404227469,
         1360758935,
         136253055,
-        1360698753
+        1360698753,
+        1880772891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +101,16 @@
         }
     ],
     "wof:id":1360809219,
-    "wof:lastmodified":1699952348,
+    "wof:lastmodified":1706239751,
     "wof:name":"High Bentham",
     "wof:parent_id":1360758935,
     "wof:placetype":"neighbourhood",
     "wof:population":1680,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1360791105
+    ],
     "wof:supersedes":[
         1343986657
     ],

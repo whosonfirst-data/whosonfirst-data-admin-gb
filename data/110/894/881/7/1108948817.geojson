@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.44605366793,53.8842134993,-1.44605366793,53.8842134993",
+    "geom:bbox":"-1.446054,53.884213,-1.446054,53.884213",
     "geom:latitude":53.884213,
     "geom:longitude":-1.446054,
     "iso:country":"GB",
@@ -22,13 +22,63 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0440\u0434\u0441\u0435\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Bardsey"
+    ],
     "name:deu_x_preferred":[
         "Bardsey"
     ],
+    "name:eng_x_preferred":[
+        "Bardsey"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u062f\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Bardsey"
+    ],
+    "name:gle_x_preferred":[
+        "Bardsey"
+    ],
+    "name:nld_x_preferred":[
+        "Bardsey"
+    ],
+    "name:pol_x_preferred":[
+        "Bardsey"
+    ],
+    "name:spa_x_preferred":[
+        "Bardsey"
+    ],
+    "name:swe_x_preferred":[
+        "Bardsey"
+    ],
+    "qs_pg:aaroncc":"GB",
+    "qs_pg:name":"Bardsey",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"England",
+    "qs_pg:photos":110,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":110,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":981053,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":11826,
     "src:lbl_centroid":"mz",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"England",
+    "woe:placetype":"Town",
     "wof:belongsto":[
-        1880773017,
         102191581,
         1880762059,
         404435555,
@@ -36,13 +86,18 @@
         404227469,
         1360757559,
         136253055,
-        1360698749
+        1360698749,
+        1880773017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gp:id":11826,
+        "qs_pg:id":981053,
+        "wd:id":"Q4860222"
+    },
     "wof:country":"GB",
     "wof:created":1491367242,
-    "wof:geomhash":"98bee763d82b4ec1376e08520c9c46ee",
+    "wof:geomhash":"b56790c261dd8a577328d828302dd34d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,20 +113,22 @@
         }
     ],
     "wof:id":1108948817,
-    "wof:lastmodified":1699953223,
+    "wof:lastmodified":1706239748,
     "wof:name":"Bardsey",
     "wof:parent_id":1360757559,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360797531
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -1.44605366792534,
-    53.88421349925527,
-    -1.44605366792534,
-    53.88421349925527
+    -1.446054,
+    53.884213,
+    -1.446054,
+    53.884213
 ],
-  "geometry": {"coordinates":[-1.44605366792534,53.88421349925527],"type":"Point"}
+  "geometry": {"coordinates":[-1.446054,53.884213],"type":"Point"}
 }
