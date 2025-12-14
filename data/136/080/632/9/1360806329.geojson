@@ -2,82 +2,86 @@
   "id": 1360806329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-2.45,50.86667,-2.45,50.86667",
-    "geom:latitude":50.86667,
-    "geom:longitude":-2.45,
-    "gn:admin1_code":"ENG",
-    "gn:admin2_code":"D6",
-    "gn:admin3_code":"19UE",
-    "gn:admin4_code":"19UE021",
-    "gn:asciiname":"Wootton Glanville",
-    "gn:cc2":"GB",
-    "gn:country_code":"GB",
-    "gn:dem":120,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2633567,
-    "gn:latitude":50.86667,
-    "gn:longitude":-2.45,
-    "gn:modification_date":"2018-07-03",
-    "gn:name":"Wootton Glanville",
-    "gn:population":0,
-    "gn:timezone":"Europe/London",
-    "iso:country":"GB",
-    "lbl:bbox":"-2.455,50.86167,-2.445,50.87167",
-    "lbl:max_zoom":18.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":15.0,
-    "name:und_x_variant":[
-        "Wooton Glanville",
-        "Wootton Glanville"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.450000,50.866670,-2.450000,50.866670",
+    "geom:latitude": 50.86667,
+    "geom:longitude": -2.45,
+    "gn:admin1_code": "ENG",
+    "gn:admin2_code": "D6",
+    "gn:admin3_code": "19UE",
+    "gn:admin4_code": "19UE021",
+    "gn:asciiname": "Wootton Glanville",
+    "gn:cc2": "GB",
+    "gn:country_code": "GB",
+    "gn:dem": 120,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2633567,
+    "gn:latitude": 50.86667,
+    "gn:longitude": -2.45,
+    "gn:modification_date": "2018-07-03",
+    "gn:name": "Wootton Glanville",
+    "gn:population": 0,
+    "gn:timezone": "Europe/London",
+    "iso:country": "GB",
+    "lbl:bbox": "-2.455,50.86167,-2.445,50.87167",
+    "lbl:max_zoom": 18,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 15,
+    "name:und_x_variant": [
+      "Wooton Glanville",
+      "Wootton Glanville"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        404442545,
-        1880762151,
-        1360757859,
-        1360698745
+    "src:geom": "geonames",
+    "src:population": "wikidata",
+    "wof:belongsto": [
+      404442545,
+      1880762151,
+      1360757859,
+      1360698745
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2633567
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2633567
     },
-    "wof:country":"GB",
-    "wof:geomhash":"07aced439b445a911f1dcbaeaa4e690b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":-1,
-            "county_id":1360698745,
-            "localadmin_id":404442545,
-            "locality_id":1360757859,
-            "macrocounty_id":1880762151,
-            "neighbourhood_id":1360806329,
-            "region_id":-1
-        }
+    "wof:country": "GB",
+    "wof:created": 1765390375,
+    "wof:geomhash": "07aced439b445a911f1dcbaeaa4e690b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360698745,
+        "localadmin_id": 404442545,
+        "locality_id": 1360757859,
+        "macrocounty_id": 1880762151,
+        "neighbourhood_id": 1360806329,
+        "region_id": -1
+      }
     ],
-    "wof:id":1360806329,
-    "wof:lastmodified":1699352525,
-    "wof:name":"Wootton Glanville",
-    "wof:parent_id":1360757859,
-    "wof:placetype":"neighbourhood",
-    "wof:repo":"whosonfirst-data-admin-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1209850943
+    "wof:id": 1360806329,
+    "wof:lastmodified": 1765390375,
+    "wof:name": "Wootton Glanville",
+    "wof:parent_id": 1360757859,
+    "wof:placetype": "neighbourhood",
+    "wof:population": 198,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1209850943
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     -2.45,
     50.86667,
     -2.45,
     50.86667
-],
-  "geometry": {"coordinates":[-2.45,50.86667],"type":"Point"}
+  ],
+  "geometry": {"type":"Point","coordinates":[-2.45,50.86667]}
 }
