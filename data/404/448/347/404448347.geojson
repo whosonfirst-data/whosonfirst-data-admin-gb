@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003007,
     "geom:area_square_m":22646722.292542,
@@ -12,7 +11,7 @@
     "geom:longitude":1.731996,
     "iso:country":"GB",
     "label:eng_x_preferred_placetype":[
-        "non-civil parish"
+        "civil parish"
     ],
     "label:fra_x_preferred_placetype":[
         "commune"
@@ -123,7 +122,9 @@
         1360699041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012678"
+    },
     "wof:coterminous":[
         101750443
     ],
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":404448347,
-    "wof:lastmodified":1695878002,
+    "wof:lastmodified":1795576884,
     "wof:name":"Lowestoft",
     "wof:parent_id":1360699041,
     "wof:placetype":"localadmin",

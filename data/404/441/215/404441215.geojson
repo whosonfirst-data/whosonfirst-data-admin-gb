@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00251,
     "geom:area_square_m":18946044.293371,
@@ -12,7 +11,7 @@
     "geom:longitude":-2.250243,
     "iso:country":"GB",
     "label:eng_x_preferred_placetype":[
-        "non-civil parish"
+        "civil parish"
     ],
     "label:fra_x_preferred_placetype":[
         "commune"
@@ -114,7 +113,9 @@
         1360699043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04013538"
+    },
     "wof:coterminous":[
         101750453
     ],
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":404441215,
-    "wof:lastmodified":1695878005,
+    "wof:lastmodified":1795576884,
     "wof:name":"Kidderminster",
     "wof:parent_id":1360699043,
     "wof:placetype":"localadmin",

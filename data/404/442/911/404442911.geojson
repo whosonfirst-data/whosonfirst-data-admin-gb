@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002605,
     "geom:area_square_m":19266262.456931,
@@ -12,7 +11,7 @@
     "geom:longitude":-2.132535,
     "iso:country":"GB",
     "label:eng_x_preferred_placetype":[
-        "non-civil parish"
+        "civil parish"
     ],
     "label:fra_x_preferred_placetype":[
         "commune"
@@ -123,7 +122,9 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04013192"
+    },
     "wof:coterminous":[
         101750519
     ],
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":404442911,
-    "wof:lastmodified":1695878007,
+    "wof:lastmodified":1795576884,
     "wof:name":"Macclesfield",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",
