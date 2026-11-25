@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002593,
     "geom:area_square_m":18497980.914609,
@@ -12,7 +11,7 @@
     "geom:longitude":-1.575396,
     "iso:country":"GB",
     "label:eng_x_preferred_placetype":[
-        "non-civil parish"
+        "civil parish"
     ],
     "label:fra_x_preferred_placetype":[
         "commune"
@@ -42,7 +41,9 @@
         1360699055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012745"
+    },
     "wof:coterminous":[
         1360756237
     ],
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":404448031,
-    "wof:lastmodified":1695878002,
+    "wof:lastmodified":1795576884,
     "wof:name":"City of Durham",
     "wof:parent_id":1360699055,
     "wof:placetype":"localadmin",

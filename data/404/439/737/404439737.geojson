@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00244,
     "geom:area_square_m":17505489.167094,
@@ -12,7 +11,7 @@
     "geom:longitude":-3.581937,
     "iso:country":"GB",
     "label:eng_x_preferred_placetype":[
-        "non-civil parish"
+        "civil parish"
     ],
     "label:fra_x_preferred_placetype":[
         "commune"
@@ -110,7 +109,9 @@
         1360698877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012422"
+    },
     "wof:coterminous":[
         101873399
     ],
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":404439737,
-    "wof:lastmodified":1695878005,
+    "wof:lastmodified":1795576884,
     "wof:name":"Whitehaven",
     "wof:parent_id":1360698877,
     "wof:placetype":"localadmin",

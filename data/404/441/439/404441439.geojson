@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002358,
     "geom:area_square_m":17509285.559193,
@@ -12,7 +11,7 @@
     "geom:longitude":-2.44283,
     "iso:country":"GB",
     "label:eng_x_preferred_placetype":[
-        "non-civil parish"
+        "civil parish"
     ],
     "label:fra_x_preferred_placetype":[
         "commune"
@@ -132,7 +131,9 @@
         1360698929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012281"
+    },
     "wof:coterminous":[
         101750515
     ],
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":404441439,
-    "wof:lastmodified":1695878005,
+    "wof:lastmodified":1795576884,
     "wof:name":"Crewe",
     "wof:parent_id":1360698929,
     "wof:placetype":"localadmin",

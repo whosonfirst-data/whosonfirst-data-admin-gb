@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003467,
     "geom:area_square_m":26609125.955003,
@@ -12,7 +11,7 @@
     "geom:longitude":-0.478556,
     "iso:country":"GB",
     "label:eng_x_preferred_placetype":[
-        "non-civil parish"
+        "civil parish"
     ],
     "label:fra_x_preferred_placetype":[
         "commune"
@@ -56,7 +55,9 @@
         1360698763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gbr-ons:gss_code":"E04012658"
+    },
     "wof:coterminous":[
         1125834847
     ],
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":404453849,
-    "wof:lastmodified":1695878006,
+    "wof:lastmodified":1795576884,
     "wof:name":"Batchworth",
     "wof:parent_id":1360698763,
     "wof:placetype":"localadmin",
